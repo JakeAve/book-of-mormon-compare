@@ -17,9 +17,9 @@ export default function WordMatchListener() {
       const other = document.getElementById(otherId);
 
       const active = "var(--color-word-match)";
-      target.style.backgroundColor = target.style.backgroundColor ? "" : active;
+      target.style.backgroundColor = target.style.backgroundColor === active ? "" : active;
       if (other) {
-        other.style.backgroundColor = other.style.backgroundColor ? "" : active;
+        other.style.backgroundColor = other.style.backgroundColor === active ? "" : active;
       }
     }
 
