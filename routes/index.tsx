@@ -1,3 +1,11 @@
+import { define } from "../utils/state.ts";
+
+export const handler = define.handlers({
+  GET(ctx) {
+    return ctx.redirect("/1-nephi/1");
+  },
+});
+
 export default function Index() {
-  return <div>Book of Mormon Compare</div>;
+  return <></>;
 }
