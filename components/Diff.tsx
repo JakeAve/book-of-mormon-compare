@@ -1,0 +1,149 @@
+import type { JSX } from "preact/jsx-runtime";
+import { diff } from "../lib/diff.ts";
+import { insertSpaceBetween, splitText } from "../lib/textHelpers.ts";
+import type { Verse } from "../lib/data.ts";
+import WordMatch from "./WordMatch.tsx";
+
+export interface DiffProps {
+  verses1: Verse[];
+  verses2: Verse[];
+  startRow?: number;
+}
+
+export function Diff({ verses1, verses2, startRow = 1 }: DiffProps) {
+  const text1 = verses1.map((v) => v.markdown ?? v.text).join("\n");
+  const text2 = verses2.map((v) => v.markdown ?? v.text).join("\n");
+
+  const d = diff(text1, text2);
+
+  let row1 = startRow + 1;
+  let row2 = startRow + 1;
+
+  let v1Idx = 0;
+  let v1: Verse | undefined = verses1[v1Idx];
+  let split1 = v1 ? splitText(v1.markdown ?? v1.text) : undefined;
+  let t1Idx = 0;
+  let c1: JSX.Element[] = [];
+
+  let v2Idx = 0;
+  let v2: Verse | undefined = verses2[v2Idx];
+  let split2 = v2 ? splitText(v2.markdown ?? v2.text) : undefined;
+  let t2Idx = 0;
+  let c2: JSX.Element[] = [];
+  let currRows1: number[] = [];
+
+  const content: JSX.Element[] = [];
+
+  let i = 0;
+  while (i < d.length) {
+    const t = d[i];
+    const t1 = split1?.[t1Idx];
+    const t2 = split2?.[t2Idx];
+
+    if (t.removed) {
+      t1Idx++;
+      c1.push(
+        <span style={{ backgroundColor: "var(--color-side1-highlight)" }}>
+          {t1}
+          {insertSpaceBetween(t1, split1?.[t1Idx])}
+        </span>,
+      );
+    }
+
+    if (t.added) {
+      t2Idx++;
+      c2.push(
+        <span style={{ backgroundColor: "var(--color-side2-highlight)" }}>
+          {t2}
+          {insertSpaceBetween(t2, split2?.[t2Idx])}
+        </span>,
+      );
+    }
+
+    if (t.added === false && t.removed === false) {
+      t1Idx++;
+      t2Idx++;
+      currRows1.push(row1);
+      const id = crypto.randomUUID();
+
+      c1.push(
+        <WordMatch id={"a" + id}>
+          {t1}
+          {insertSpaceBetween(t1, split1?.[t1Idx])}
+        </WordMatch>,
+      );
+      c2.push(
+        <WordMatch id={"b" + id}>
+          {t2}
+          {insertSpaceBetween(t2, split2?.[t2Idx])}
+        </WordMatch>,
+      );
+    }
+
+    if (t1Idx === split1?.length) {
+      content.push(
+        <p class="col-start-1 col-span-1" style={{ gridRow: row1 }}>
+          {v1 && (
+            <>
+              <a
+                class="font-medium hover:underline me-2"
+                target="_blank"
+                href={v1.source}
+              >
+                {v1.chapter}:{v1.verse}
+              </a>
+              {c1}
+            </>
+          )}
+        </p>,
+      );
+      t1Idx = 0;
+      v1Idx++;
+      v1 = verses1[v1Idx];
+      split1 = v1 ? splitText(v1.markdown ?? v1.text) : undefined;
+      c1 = [];
+      row1++;
+      if (verses1.length !== verses2.length) {
+        row1 = Math.max(row1, row2);
+      }
+      currRows1 = [];
+    }
+
+    if (t2Idx === split2?.length) {
+      content.push(
+        <p
+          class="col-start-2 col-span-1"
+          style={{
+            gridRow: `${row2} / ${row2 < row1 ? currRows1.at(-1) ?? row2 : row2}`,
+          }}
+        >
+          {v2 && (
+            <>
+              <a
+                class="font-medium hover:underline me-2"
+                target="_blank"
+                href={v2.source}
+              >
+                {v2.chapter}:{v2.verse}
+              </a>
+              {c2}
+            </>
+          )}
+        </p>,
+      );
+      t2Idx = 0;
+      v2Idx++;
+      v2 = verses2[v2Idx];
+      split2 = v2 ? splitText(v2.markdown ?? v2.text) : undefined;
+      c2 = [];
+      row2++;
+      if (verses1.length !== verses2.length) {
+        row2 = Math.max(row1, row2);
+      }
+    }
+
+    i++;
+  }
+
+  return <>{content}</>;
+}
