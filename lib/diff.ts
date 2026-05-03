@@ -1,6 +1,6 @@
 import { splitText } from "./textHelpers.ts";
 
-interface Token {
+export interface Token {
   value: string;
   added?: boolean;
   removed?: boolean;
