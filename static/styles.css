@@ -4,6 +4,7 @@
   --color-word-match: #fde68a;
   --color-bg: #ffffff;
   --color-bg-sticky: #ffffff;
+  --color-text: #111827;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -13,5 +14,11 @@
     --color-word-match: #78350f;
     --color-bg: #111827;
     --color-bg-sticky: #111827;
+    --color-text: #f3f4f6;
   }
+}
+
+body {
+  color: var(--color-text);
+  background-color: var(--color-bg);
 }
