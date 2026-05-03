@@ -1,0 +1,17 @@
+:root {
+  --color-side1-highlight: #bfdbfe;
+  --color-side2-highlight: #bbf7d0;
+  --color-word-match: #fde68a;
+  --color-bg: #ffffff;
+  --color-bg-sticky: #ffffff;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-side1-highlight: #1e3a5f;
+    --color-side2-highlight: #14532d;
+    --color-word-match: #78350f;
+    --color-bg: #111827;
+    --color-bg-sticky: #111827;
+  }
+}
