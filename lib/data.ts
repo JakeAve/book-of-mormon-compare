@@ -1,3 +1,98 @@
+export const BOOK_ORDER: string[] = [
+  "1-nephi",
+  "2-nephi",
+  "jacob",
+  "enos",
+  "jarom",
+  "omni",
+  "words-of-mormon",
+  "mosiah",
+  "alma",
+  "helaman",
+  "3-nephi",
+  "4-nephi",
+  "mormon",
+  "ether",
+  "moroni",
+];
+
+export const BOOK_DISPLAY_NAMES: Record<string, string> = {
+  "1-nephi": "1 Nephi",
+  "2-nephi": "2 Nephi",
+  "jacob": "Jacob",
+  "enos": "Enos",
+  "jarom": "Jarom",
+  "omni": "Omni",
+  "words-of-mormon": "Words of Mormon",
+  "mosiah": "Mosiah",
+  "alma": "Alma",
+  "helaman": "Helaman",
+  "3-nephi": "3 Nephi",
+  "4-nephi": "4 Nephi",
+  "mormon": "Mormon",
+  "ether": "Ether",
+  "moroni": "Moroni",
+};
+
+async function listChapters(
+  version: string,
+  book: string,
+  bomDir: string,
+): Promise<string[]> {
+  try {
+    const dir = `${bomDir}/${version}/${book}`;
+    const nums: number[] = [];
+    for await (const entry of Deno.readDir(dir)) {
+      if (entry.isFile && entry.name.endsWith(".json")) {
+        const n = parseInt(entry.name.slice(0, -5), 10);
+        if (!isNaN(n)) nums.push(n);
+      }
+    }
+    return nums.sort((a, b) => a - b).map(String);
+  } catch {
+    return [];
+  }
+}
+
+export async function getAdjacentChapters(
+  version: string,
+  book: string,
+  chapter: string,
+  bomDir = "data/bom",
+): Promise<{
+  prev: { book: string; chapter: string } | null;
+  next: { book: string; chapter: string } | null;
+}> {
+  const bookIdx = BOOK_ORDER.indexOf(book);
+  const chapters = await listChapters(version, book, bomDir);
+  const chIdx = chapters.indexOf(chapter);
+
+  let prev: { book: string; chapter: string } | null = null;
+  let next: { book: string; chapter: string } | null = null;
+
+  if (chIdx > 0) {
+    prev = { book, chapter: chapters[chIdx - 1] };
+  } else if (bookIdx > 0) {
+    const prevBook = BOOK_ORDER[bookIdx - 1];
+    const prevChapters = await listChapters(version, prevBook, bomDir);
+    if (prevChapters.length > 0) {
+      prev = { book: prevBook, chapter: prevChapters[prevChapters.length - 1] };
+    }
+  }
+
+  if (chIdx >= 0 && chIdx < chapters.length - 1) {
+    next = { book, chapter: chapters[chIdx + 1] };
+  } else if (chIdx === chapters.length - 1 && bookIdx < BOOK_ORDER.length - 1) {
+    const nextBook = BOOK_ORDER[bookIdx + 1];
+    const nextChapters = await listChapters(version, nextBook, bomDir);
+    if (nextChapters.length > 0) {
+      next = { book: nextBook, chapter: nextChapters[0] };
+    }
+  }
+
+  return { prev, next };
+}
+
 export interface Verse {
   chapter: number;
   verse: number;
