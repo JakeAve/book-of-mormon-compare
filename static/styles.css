@@ -6,6 +6,7 @@
   --color-header-muted:    #8e8e93;
   --color-header-subtle:   #636366;
 
+  --color-page-bg:         #f1f5f9;
   --color-bg:              #ffffff;
   --color-text:            #111827;
   --color-divider:         #e5e7eb;
@@ -18,6 +19,7 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
+    --color-page-bg:         #0d1117;
     --color-bg:              #111827;
     --color-text:            #f3f4f6;
     --color-divider:         #374151;
@@ -31,5 +33,5 @@
 
 body {
   color: var(--color-text);
-  background-color: var(--color-bg);
+  background-color: var(--color-page-bg);
 }

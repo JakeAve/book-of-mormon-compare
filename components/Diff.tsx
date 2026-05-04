@@ -83,8 +83,8 @@ export function Diff({ verses1, verses2, startRow = 1 }: DiffProps) {
     if (t1Idx === split1?.length) {
       content.push(
         <p
+          class="col-start-1"
           style={{
-            gridColumn: 1,
             gridRow: row1,
             paddingTop: "0.25rem",
             paddingBottom: "0.75rem",
@@ -143,8 +143,8 @@ export function Diff({ verses1, verses2, startRow = 1 }: DiffProps) {
     if (t2Idx === split2?.length) {
       content.push(
         <p
+          class="col-start-2"
           style={{
-            gridColumn: 2,
             gridRow: `${row2} / ${row2 < row1 ? currRows1.at(-1) ?? row2 : row2}`,
             paddingTop: "0.25rem",
             paddingBottom: "0.75rem",

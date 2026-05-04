@@ -128,6 +128,7 @@ export function DiffPage({
             fontSize: "0.9375rem",
             lineHeight: 1.85,
             color: "var(--color-text)",
+            backgroundColor: "var(--color-bg)",
           }}
         >
           {/* Column divider */}
