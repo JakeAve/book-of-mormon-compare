@@ -120,10 +120,8 @@ export function DiffPage({
         {/* Reader body */}
         <div
           data-diff-container
+          class="grid grid-cols-2 relative"
           style={{
-            position: "relative",
-            display: "grid",
-            gridTemplateColumns: "1fr 1fr",
             fontFamily: "Georgia, serif",
             fontSize: "0.9375rem",
             lineHeight: 1.85,
