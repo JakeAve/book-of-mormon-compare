@@ -1,6 +1,6 @@
 import { HttpError } from "fresh";
 import { define } from "../../utils/state.ts";
-import { getVersions, loadChapter } from "../../lib/data.ts";
+import { getVersions, loadChapter, getAdjacentChapters } from "../../lib/data.ts";
 import type { Verse } from "../../lib/data.ts";
 import { DiffPage } from "../../components/DiffPage.tsx";
 import VersionSelector from "../../islands/VersionSelector.tsx";
@@ -12,6 +12,10 @@ interface PageData {
   v1: string;
   v2: string;
   versions: string[];
+  book: string;
+  chapter: string;
+  prev: { book: string; chapter: string } | null;
+  next: { book: string; chapter: string } | null;
 }
 
 export const handler = define.handlers({
@@ -33,11 +37,24 @@ export const handler = define.handlers({
     if (!versions.includes(v1) || !versions.includes(v2)) throw new HttpError(404);
 
     try {
-      const [verses1, verses2] = await Promise.all([
+      const [verses1, verses2, adjacent] = await Promise.all([
         loadChapter(v1, book, chapter),
         loadChapter(v2, book, chapter),
+        getAdjacentChapters(v1, book, chapter),
       ]);
-      return { data: { verses1, verses2, v1, v2, versions } as PageData };
+      return {
+        data: {
+          verses1,
+          verses2,
+          v1,
+          v2,
+          versions,
+          book,
+          chapter,
+          prev: adjacent.prev,
+          next: adjacent.next,
+        } as PageData,
+      };
     } catch {
       throw new HttpError(404);
     }
@@ -45,14 +62,20 @@ export const handler = define.handlers({
 });
 
 export default define.page<typeof handler>(({ data }) => {
-  const { verses1, verses2, v1, v2, versions } = data;
+  const { verses1, verses2, v1, v2, versions, book, chapter, prev, next } = data;
   return (
     <>
       <DiffPage
         verses1={verses1}
         verses2={verses2}
-        header1={<VersionSelector side="v1" current={v1} versions={versions} />}
-        header2={<VersionSelector side="v2" current={v2} versions={versions} />}
+        select1={<VersionSelector side="v1" current={v1} versions={versions} />}
+        select2={<VersionSelector side="v2" current={v2} versions={versions} />}
+        book={book}
+        chapter={chapter}
+        prev={prev}
+        next={next}
+        v1={v1}
+        v2={v2}
       />
       <WordMatchListener />
     </>

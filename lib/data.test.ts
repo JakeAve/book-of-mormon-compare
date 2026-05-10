@@ -1,5 +1,5 @@
 import { assertEquals, assertRejects } from "jsr:@std/assert";
-import { getVersions, loadChapter, STUB_VERSES } from "./data.ts";
+import { getVersions, loadChapter, STUB_VERSES, BOOK_ORDER, BOOK_DISPLAY_NAMES, getAdjacentChapters } from "./data.ts";
 
 Deno.test("STUB_VERSES has at least one verse", () => {
   assertEquals(STUB_VERSES.length > 0, true);
@@ -28,4 +28,27 @@ Deno.test("loadChapter throws for missing non-stub file", async () => {
     () => loadChapter("1830", "1-nephi", "1"),
     Error,
   );
+});
+
+Deno.test("BOOK_ORDER: 15 entries, starts with 1-nephi, ends with moroni", () => {
+  assertEquals(BOOK_ORDER.length, 15);
+  assertEquals(BOOK_ORDER[0], "1-nephi");
+  assertEquals(BOOK_ORDER[14], "moroni");
+});
+
+Deno.test("BOOK_DISPLAY_NAMES: every book in BOOK_ORDER has a display name", () => {
+  for (const book of BOOK_ORDER) {
+    assertEquals(typeof BOOK_DISPLAY_NAMES[book], "string");
+  }
+});
+
+Deno.test("getAdjacentChapters: first chapter of first book has null prev", async () => {
+  const { prev } = await getAdjacentChapters("stub", "1-nephi", "1");
+  assertEquals(prev, null);
+});
+
+Deno.test("getAdjacentChapters: unknown version returns null prev and next", async () => {
+  const { prev, next } = await getAdjacentChapters("nonexistent", "1-nephi", "1");
+  assertEquals(prev, null);
+  assertEquals(next, null);
 });

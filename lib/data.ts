@@ -1,3 +1,108 @@
+export const BOOK_ORDER = [
+  "1-ne",
+  "2-ne",
+  "jacob",
+  "enos",
+  "jarom",
+  "omni",
+  "w-of-m",
+  "mosiah",
+  "alma",
+  "hel",
+  "3-ne",
+  "4-ne",
+  "morm",
+  "ether",
+  "moro",
+] as const;
+
+export type BookAbbr = typeof BOOK_ORDER[number];
+
+export const BOOK_DISPLAY_NAMES: Record<BookAbbr, string> = {
+  "1-ne": "1 Nephi",
+  "2-ne": "2 Nephi",
+  "jacob": "Jacob",
+  "enos": "Enos",
+  "jarom": "Jarom",
+  "omni": "Omni",
+  "w-of-m": "Words of Mormon",
+  "mosiah": "Mosiah",
+  "alma": "Alma",
+  "hel": "Helaman",
+  "3-ne": "3 Nephi",
+  "4-ne": "4 Nephi",
+  "morm": "Mormon",
+  "ether": "Ether",
+  "moro": "Moroni",
+};
+
+export function isBookAbbr(value: string): value is BookAbbr {
+  return value in BOOK_DISPLAY_NAMES;
+}
+
+export function getBookDisplayName(book: string): string {
+  return isBookAbbr(book) ? BOOK_DISPLAY_NAMES[book] : book;
+}
+
+async function listChapters(
+  version: string,
+  book: string,
+  bomDir: string,
+): Promise<string[]> {
+  try {
+    const dir = `${bomDir}/${version}/${book}`;
+    const nums: number[] = [];
+    for await (const entry of Deno.readDir(dir)) {
+      if (entry.isFile && entry.name.endsWith(".json")) {
+        const n = parseInt(entry.name.slice(0, -5), 10);
+        if (!isNaN(n)) nums.push(n);
+      }
+    }
+    return nums.sort((a, b) => a - b).map(String);
+  } catch {
+    return [];
+  }
+}
+
+export async function getAdjacentChapters(
+  version: string,
+  book: string,
+  chapter: string,
+  bomDir = "data/bom",
+): Promise<{
+  prev: { book: string; chapter: string } | null;
+  next: { book: string; chapter: string } | null;
+}> {
+  const bookIdx = (BOOK_ORDER as readonly string[]).indexOf(book);
+  const chapters = await listChapters(version, book, bomDir);
+  const chIdx = chapters.indexOf(chapter);
+
+  let prev: { book: string; chapter: string } | null = null;
+  let next: { book: string; chapter: string } | null = null;
+
+  if (chIdx > 0) {
+    prev = { book, chapter: chapters[chIdx - 1] };
+  } else if (bookIdx > 0) {
+    const prevBook = BOOK_ORDER[bookIdx - 1];
+    const prevChapters = await listChapters(version, prevBook, bomDir);
+    if (prevChapters.length > 0) {
+      prev = { book: prevBook, chapter: prevChapters[prevChapters.length - 1] };
+    }
+  }
+
+  if (chIdx >= 0 && chIdx < chapters.length - 1) {
+    next = { book, chapter: chapters[chIdx + 1] };
+  } else if (chIdx === chapters.length - 1 && bookIdx < BOOK_ORDER.length - 1) {
+    const nextBook = BOOK_ORDER[bookIdx + 1];
+    const nextChapters = await listChapters(version, nextBook, bomDir);
+    if (nextChapters.length > 0) {
+      next = { book: nextBook, chapter: nextChapters[0] };
+    }
+  }
+
+  return { prev, next };
+}
+
 export interface Verse {
   chapter: number;
   verse: number;

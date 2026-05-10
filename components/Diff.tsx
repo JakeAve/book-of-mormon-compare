@@ -82,16 +82,47 @@ export function Diff({ verses1, verses2, startRow = 1 }: DiffProps) {
 
     if (t1Idx === split1?.length) {
       content.push(
-        <p class="col-start-1 col-span-1" style={{ gridRow: row1 }}>
+        <p
+          class="col-start-1"
+          style={{
+            gridRow: row1,
+            paddingTop: "0.5rem",
+            paddingBottom: "0.5rem",
+            paddingLeft: "1.5rem",
+            paddingRight: "1rem",
+            margin: "0",
+          }}
+        >
           {v1 && (
             <>
-              <a
-                class="font-medium hover:underline me-2"
-                target="_blank"
-                href={v1.source}
-              >
-                {v1.chapter}:{v1.verse}
-              </a>
+              {v1.source ? (
+                <a
+                  href={v1.source}
+                  target="_blank"
+                  style={{
+                    color: "var(--color-verse-num)",
+                    fontSize: "0.6875rem",
+                    fontFamily: "sans-serif",
+                    fontWeight: "500",
+                    marginRight: "0.375rem",
+                    textDecoration: "none",
+                  }}
+                >
+                  {v1.verse}
+                </a>
+              ) : (
+                <span
+                  style={{
+                    color: "var(--color-verse-num)",
+                    fontSize: "0.6875rem",
+                    fontFamily: "sans-serif",
+                    fontWeight: "500",
+                    marginRight: "0.375rem",
+                  }}
+                >
+                  {v1.verse}
+                </span>
+              )}
               {c1}
             </>
           )}
@@ -112,20 +143,46 @@ export function Diff({ verses1, verses2, startRow = 1 }: DiffProps) {
     if (t2Idx === split2?.length) {
       content.push(
         <p
-          class="col-start-2 col-span-1"
+          class="col-start-2"
           style={{
             gridRow: `${row2} / ${row2 < row1 ? currRows1.at(-1) ?? row2 : row2}`,
+            paddingTop: "0.5rem",
+            paddingBottom: "0.5rem",
+            paddingLeft: "1rem",
+            paddingRight: "1.5rem",
+            margin: "0",
           }}
         >
           {v2 && (
             <>
-              <a
-                class="font-medium hover:underline me-2"
-                target="_blank"
-                href={v2.source}
-              >
-                {v2.chapter}:{v2.verse}
-              </a>
+              {v2.source ? (
+                <a
+                  href={v2.source}
+                  target="_blank"
+                  style={{
+                    color: "var(--color-verse-num)",
+                    fontSize: "0.6875rem",
+                    fontFamily: "sans-serif",
+                    fontWeight: "500",
+                    marginRight: "0.375rem",
+                    textDecoration: "none",
+                  }}
+                >
+                  {v2.verse}
+                </a>
+              ) : (
+                <span
+                  style={{
+                    color: "var(--color-verse-num)",
+                    fontSize: "0.6875rem",
+                    fontFamily: "sans-serif",
+                    fontWeight: "500",
+                    marginRight: "0.375rem",
+                  }}
+                >
+                  {v2.verse}
+                </span>
+              )}
               {c2}
             </>
           )}
