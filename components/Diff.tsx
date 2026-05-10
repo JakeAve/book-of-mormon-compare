@@ -86,11 +86,11 @@ export function Diff({ verses1, verses2, startRow = 1 }: DiffProps) {
           class="col-start-1"
           style={{
             gridRow: row1,
-            paddingTop: "0.25rem",
-            paddingBottom: "0.75rem",
+            paddingTop: "0.5rem",
+            paddingBottom: "0.5rem",
             paddingLeft: "1.5rem",
             paddingRight: "1rem",
-            margin: 0,
+            margin: "0",
           }}
         >
           {v1 && (
@@ -103,7 +103,7 @@ export function Diff({ verses1, verses2, startRow = 1 }: DiffProps) {
                     color: "var(--color-verse-num)",
                     fontSize: "0.6875rem",
                     fontFamily: "sans-serif",
-                    fontWeight: 500,
+                    fontWeight: "500",
                     marginRight: "0.375rem",
                     textDecoration: "none",
                   }}
@@ -116,7 +116,7 @@ export function Diff({ verses1, verses2, startRow = 1 }: DiffProps) {
                     color: "var(--color-verse-num)",
                     fontSize: "0.6875rem",
                     fontFamily: "sans-serif",
-                    fontWeight: 500,
+                    fontWeight: "500",
                     marginRight: "0.375rem",
                   }}
                 >
@@ -146,11 +146,11 @@ export function Diff({ verses1, verses2, startRow = 1 }: DiffProps) {
           class="col-start-2"
           style={{
             gridRow: `${row2} / ${row2 < row1 ? currRows1.at(-1) ?? row2 : row2}`,
-            paddingTop: "0.25rem",
-            paddingBottom: "0.75rem",
+            paddingTop: "0.5rem",
+            paddingBottom: "0.5rem",
             paddingLeft: "1rem",
             paddingRight: "1.5rem",
-            margin: 0,
+            margin: "0",
           }}
         >
           {v2 && (
@@ -163,7 +163,7 @@ export function Diff({ verses1, verses2, startRow = 1 }: DiffProps) {
                     color: "var(--color-verse-num)",
                     fontSize: "0.6875rem",
                     fontFamily: "sans-serif",
-                    fontWeight: 500,
+                    fontWeight: "500",
                     marginRight: "0.375rem",
                     textDecoration: "none",
                   }}
@@ -176,7 +176,7 @@ export function Diff({ verses1, verses2, startRow = 1 }: DiffProps) {
                     color: "var(--color-verse-num)",
                     fontSize: "0.6875rem",
                     fontFamily: "sans-serif",
-                    fontWeight: 500,
+                    fontWeight: "500",
                     marginRight: "0.375rem",
                   }}
                 >

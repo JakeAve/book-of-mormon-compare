@@ -25,13 +25,13 @@ export default function VersionSelector({ side, current, versions }: Props) {
         border: "none",
         color: "var(--color-header-muted)",
         fontSize: "0.625rem",
-        fontWeight: 700,
+        fontWeight: "700",
         letterSpacing: "0.1em",
         textTransform: "uppercase",
         cursor: "pointer",
         outline: "none",
         padding: "1rem 1.5rem",
-        margin: 0,
+        margin: "0",
       }}
     >
       {versions.map((v) => (

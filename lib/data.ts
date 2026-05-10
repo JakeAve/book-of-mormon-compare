@@ -1,38 +1,48 @@
-export const BOOK_ORDER: string[] = [
-  "1-nephi",
-  "2-nephi",
+export const BOOK_ORDER = [
+  "1-ne",
+  "2-ne",
   "jacob",
   "enos",
   "jarom",
   "omni",
-  "words-of-mormon",
+  "w-of-m",
   "mosiah",
   "alma",
-  "helaman",
-  "3-nephi",
-  "4-nephi",
-  "mormon",
+  "hel",
+  "3-ne",
+  "4-ne",
+  "morm",
   "ether",
-  "moroni",
-];
+  "moro",
+] as const;
 
-export const BOOK_DISPLAY_NAMES: Record<string, string> = {
-  "1-nephi": "1 Nephi",
-  "2-nephi": "2 Nephi",
+export type BookAbbr = typeof BOOK_ORDER[number];
+
+export const BOOK_DISPLAY_NAMES: Record<BookAbbr, string> = {
+  "1-ne": "1 Nephi",
+  "2-ne": "2 Nephi",
   "jacob": "Jacob",
   "enos": "Enos",
   "jarom": "Jarom",
   "omni": "Omni",
-  "words-of-mormon": "Words of Mormon",
+  "w-of-m": "Words of Mormon",
   "mosiah": "Mosiah",
   "alma": "Alma",
-  "helaman": "Helaman",
-  "3-nephi": "3 Nephi",
-  "4-nephi": "4 Nephi",
-  "mormon": "Mormon",
+  "hel": "Helaman",
+  "3-ne": "3 Nephi",
+  "4-ne": "4 Nephi",
+  "morm": "Mormon",
   "ether": "Ether",
-  "moroni": "Moroni",
+  "moro": "Moroni",
 };
+
+export function isBookAbbr(value: string): value is BookAbbr {
+  return value in BOOK_DISPLAY_NAMES;
+}
+
+export function getBookDisplayName(book: string): string {
+  return isBookAbbr(book) ? BOOK_DISPLAY_NAMES[book] : book;
+}
 
 async function listChapters(
   version: string,
@@ -63,7 +73,7 @@ export async function getAdjacentChapters(
   prev: { book: string; chapter: string } | null;
   next: { book: string; chapter: string } | null;
 }> {
-  const bookIdx = BOOK_ORDER.indexOf(book);
+  const bookIdx = (BOOK_ORDER as readonly string[]).indexOf(book);
   const chapters = await listChapters(version, book, bomDir);
   const chIdx = chapters.indexOf(chapter);
 

@@ -1,6 +1,6 @@
 import type { ComponentChildren } from "preact";
 import type { Verse } from "../lib/data.ts";
-import { BOOK_DISPLAY_NAMES } from "../lib/data.ts";
+import { getBookDisplayName } from "../lib/data.ts";
 import { Diff } from "./Diff.tsx";
 
 interface Props {
@@ -28,7 +28,7 @@ export function DiffPage({
   v1,
   v2,
 }: Props) {
-  const displayName = BOOK_DISPLAY_NAMES[book] ?? book;
+  const displayName = getBookDisplayName(book);
   const qs = `?v1=${encodeURIComponent(v1)}&v2=${encodeURIComponent(v2)}`;
 
   return (
@@ -65,7 +65,7 @@ export function DiffPage({
               <span
                 style={{
                   fontSize: "0.9375rem",
-                  fontWeight: 700,
+                  fontWeight: "700",
                   color: "var(--color-header-text)",
                 }}
               >
@@ -79,7 +79,7 @@ export function DiffPage({
               <span
                 style={{
                   fontSize: "0.875rem",
-                  fontWeight: 500,
+                  fontWeight: "500",
                   color: "var(--color-header-muted)",
                 }}
               >
@@ -124,7 +124,7 @@ export function DiffPage({
           style={{
             fontFamily: "Georgia, serif",
             fontSize: "0.9375rem",
-            lineHeight: 1.85,
+            lineHeight: "1.85",
             color: "var(--color-text)",
             backgroundColor: "var(--color-bg)",
           }}
