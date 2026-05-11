@@ -126,15 +126,9 @@ export default function ChapterNavDialog(
             const count = CHAPTER_COUNTS[b as BookAbbr];
             const isCurrentBook = b === currentBook;
             return (
-              <section
-                key={b}
-                class={`chapter-nav-book-row${
-                  isCurrentBook ? " is-current" : ""
-                }`}
-              >
+              <section key={b} class="chapter-nav-book-row">
                 <h3 class="chapter-nav-book-name">
-                  <span>{BOOK_DISPLAY_NAMES[b as BookAbbr]}</span>
-                  <span class="chapter-nav-book-count">{count}</span>
+                  {BOOK_DISPLAY_NAMES[b as BookAbbr]}
                 </h3>
                 <div class="chapter-nav-chips">
                   {Array.from({ length: count }, (_, i) => {

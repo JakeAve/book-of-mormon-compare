@@ -59,6 +59,7 @@ body {
 .chapter-nav-dialog {
   width: clamp(280px, 92vw, 480px);
   max-height: min(85vh, 720px);
+  margin: auto;
   padding: 0;
   border: 1px solid var(--color-dialog-border);
   border-radius: 12px;
@@ -66,6 +67,10 @@ body {
   color: var(--color-text);
   box-shadow: 0 20px 60px rgba(0, 0, 0, 0.25);
   overflow: hidden;
+}
+
+.chapter-nav-dialog[open] {
+  inset: 0;
 }
 
 .chapter-nav-dialog::backdrop {
@@ -122,14 +127,7 @@ body {
   border-bottom: none;
 }
 
-.chapter-nav-dialog .chapter-nav-book-row.is-current {
-  background: var(--color-book-row-current-bg);
-}
-
 .chapter-nav-dialog .chapter-nav-book-name {
-  display: flex;
-  align-items: baseline;
-  justify-content: space-between;
   margin: 0 0 0.5rem;
   font-family: system-ui, -apple-system, sans-serif;
   font-size: 0.875rem;
@@ -137,15 +135,9 @@ body {
   color: var(--color-text);
 }
 
-.chapter-nav-dialog .chapter-nav-book-count {
-  font-size: 0.75rem;
-  font-weight: 400;
-  color: var(--color-muted);
-}
-
 .chapter-nav-dialog .chapter-nav-chips {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(2.5rem, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(2.5rem, 1fr));
   gap: 0.25rem;
 }
 
