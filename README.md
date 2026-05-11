@@ -14,7 +14,7 @@ A side-by-side diff viewer for comparing different versions of the Book of Mormo
 
 ```
 routes/
-  index.tsx            # Redirects to 1-nephi/1
+  index.tsx            # Redirects to 1-ne/1
   [book]/[chapter].tsx # Main comparison page
 components/
   DiffPage.tsx         # Two-column layout with verse diffs
