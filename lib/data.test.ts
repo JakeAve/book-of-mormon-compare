@@ -11,7 +11,7 @@ Deno.test("getVersions returns ['stub'] when data dir is missing", async () => {
 });
 
 Deno.test("loadChapter stub version reads from data/bom/stub", async () => {
-  const verses = await loadChapter("stub", "1-nephi", "1");
+  const verses = await loadChapter("stub", "1-ne", "1");
   assertEquals(verses.length, 3);
   assertEquals(verses[0].chapter, 1);
   assertEquals(verses[0].verse, 1);
@@ -25,15 +25,15 @@ Deno.test("loadChapter falls back to STUB_VERSES when stub file missing", async 
 
 Deno.test("loadChapter throws for missing non-stub file", async () => {
   await assertRejects(
-    () => loadChapter("1830", "1-nephi", "1"),
+    () => loadChapter("1830", "1-ne", "1"),
     Error,
   );
 });
 
-Deno.test("BOOK_ORDER: 15 entries, starts with 1-nephi, ends with moroni", () => {
+Deno.test("BOOK_ORDER: 15 entries, starts with 1-ne, ends with moro", () => {
   assertEquals(BOOK_ORDER.length, 15);
-  assertEquals(BOOK_ORDER[0], "1-nephi");
-  assertEquals(BOOK_ORDER[14], "moroni");
+  assertEquals(BOOK_ORDER[0], "1-ne");
+  assertEquals(BOOK_ORDER[14], "moro");
 });
 
 Deno.test("BOOK_DISPLAY_NAMES: every book in BOOK_ORDER has a display name", () => {
@@ -43,12 +43,12 @@ Deno.test("BOOK_DISPLAY_NAMES: every book in BOOK_ORDER has a display name", () 
 });
 
 Deno.test("getAdjacentChapters: first chapter of first book has null prev", async () => {
-  const { prev } = await getAdjacentChapters("stub", "1-nephi", "1");
+  const { prev } = await getAdjacentChapters("stub", "1-ne", "1");
   assertEquals(prev, null);
 });
 
 Deno.test("getAdjacentChapters: unknown version returns null prev and next", async () => {
-  const { prev, next } = await getAdjacentChapters("nonexistent", "1-nephi", "1");
+  const { prev, next } = await getAdjacentChapters("nonexistent", "1-ne", "1");
   assertEquals(prev, null);
   assertEquals(next, null);
 });
