@@ -1,7 +1,7 @@
 import type { ComponentChildren } from "preact";
 import type { Verse } from "../lib/data.ts";
-import { getBookDisplayName } from "../lib/data.ts";
 import { Diff } from "./Diff.tsx";
+import ChapterNavDialog from "../islands/ChapterNavDialog.tsx";
 
 interface Props {
   verses1: Verse[];
@@ -28,7 +28,6 @@ export function DiffPage({
   v1,
   v2,
 }: Props) {
-  const displayName = getBookDisplayName(book);
   const qs = `?v1=${encodeURIComponent(v1)}&v2=${encodeURIComponent(v2)}`;
 
   return (
@@ -46,61 +45,39 @@ export function DiffPage({
               padding: "0.75rem 1.5rem",
             }}
           >
-            {prev ? (
-              <a
-                href={`/${prev.book}/${prev.chapter}${qs}`}
-                style={{
-                  color: "var(--color-header-subtle)",
-                  fontSize: "1.25rem",
-                  lineHeight: 1,
-                  textDecoration: "none",
-                }}
-              >
-                ‹
-              </a>
-            ) : (
-              <span style={{ display: "inline-block", width: "1rem" }} />
-            )}
+            {prev
+              ? (
+                <a
+                  href={`/${prev.book}/${prev.chapter}${qs}`}
+                  style={{
+                    color: "var(--color-header-subtle)",
+                    fontSize: "1.25rem",
+                    lineHeight: 1,
+                    textDecoration: "none",
+                  }}
+                >
+                  ‹
+                </a>
+              )
+              : <span style={{ display: "inline-block", width: "1rem" }} />}
             <div style={{ textAlign: "center" }}>
-              <span
-                style={{
-                  fontSize: "0.9375rem",
-                  fontWeight: "700",
-                  color: "var(--color-header-text)",
-                }}
-              >
-                {displayName}
-              </span>
-              <span
-                style={{ color: "var(--color-header-border)", margin: "0 0.5rem" }}
-              >
-                ·
-              </span>
-              <span
-                style={{
-                  fontSize: "0.875rem",
-                  fontWeight: "500",
-                  color: "var(--color-header-muted)",
-                }}
-              >
-                Chapter {chapter}
-              </span>
+              <ChapterNavDialog book={book} chapter={chapter} v1={v1} v2={v2} />
             </div>
-            {next ? (
-              <a
-                href={`/${next.book}/${next.chapter}${qs}`}
-                style={{
-                  color: "var(--color-header-subtle)",
-                  fontSize: "1.25rem",
-                  lineHeight: 1,
-                  textDecoration: "none",
-                }}
-              >
-                ›
-              </a>
-            ) : (
-              <span style={{ display: "inline-block", width: "1rem" }} />
-            )}
+            {next
+              ? (
+                <a
+                  href={`/${next.book}/${next.chapter}${qs}`}
+                  style={{
+                    color: "var(--color-header-subtle)",
+                    fontSize: "1.25rem",
+                    lineHeight: 1,
+                    textDecoration: "none",
+                  }}
+                >
+                  ›
+                </a>
+              )
+              : <span style={{ display: "inline-block", width: "1rem" }} />}
           </div>
           {/* Edition selector row */}
           <div
@@ -110,7 +87,9 @@ export function DiffPage({
               background: "var(--color-header-edition)",
             }}
           >
-            <div style={{ borderRight: "1px solid var(--color-header-border)" }}>
+            <div
+              style={{ borderRight: "1px solid var(--color-header-border)" }}
+            >
               {select1}
             </div>
             <div>{select2}</div>
