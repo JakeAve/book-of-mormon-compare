@@ -55,3 +55,128 @@ body {
   color: var(--color-text);
   background-color: var(--color-page-bg);
 }
+
+.chapter-nav-dialog {
+  width: clamp(280px, 92vw, 480px);
+  max-height: min(85vh, 720px);
+  padding: 0;
+  border: 1px solid var(--color-dialog-border);
+  border-radius: 12px;
+  background: var(--color-dialog-bg);
+  color: var(--color-text);
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+
+.chapter-nav-dialog::backdrop {
+  background: var(--color-dialog-overlay);
+}
+
+.chapter-nav-dialog .chapter-nav-header {
+  position: sticky;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.75rem 1rem;
+  border-bottom: 1px solid var(--color-dialog-border);
+  background: var(--color-dialog-bg);
+  z-index: 1;
+}
+
+.chapter-nav-dialog .chapter-nav-title {
+  font-family: system-ui, -apple-system, sans-serif;
+  font-size: 0.8125rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--color-muted);
+}
+
+.chapter-nav-dialog .chapter-nav-close {
+  background: transparent;
+  border: none;
+  font-size: 1.5rem;
+  line-height: 1;
+  color: var(--color-muted);
+  cursor: pointer;
+  padding: 0 0.25rem;
+}
+
+.chapter-nav-dialog .chapter-nav-close:hover {
+  color: var(--color-text);
+}
+
+.chapter-nav-dialog .chapter-nav-body {
+  max-height: calc(min(85vh, 720px) - 3rem);
+  overflow-y: auto;
+  padding: 0.5rem 0;
+}
+
+.chapter-nav-dialog .chapter-nav-book-row {
+  padding: 0.625rem 1rem 0.75rem;
+  border-bottom: 1px solid var(--color-divider);
+}
+
+.chapter-nav-dialog .chapter-nav-book-row:last-child {
+  border-bottom: none;
+}
+
+.chapter-nav-dialog .chapter-nav-book-row.is-current {
+  background: var(--color-book-row-current-bg);
+}
+
+.chapter-nav-dialog .chapter-nav-book-name {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  margin: 0 0 0.5rem;
+  font-family: system-ui, -apple-system, sans-serif;
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: var(--color-text);
+}
+
+.chapter-nav-dialog .chapter-nav-book-count {
+  font-size: 0.75rem;
+  font-weight: 400;
+  color: var(--color-muted);
+}
+
+.chapter-nav-dialog .chapter-nav-chips {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(2.5rem, 1fr));
+  gap: 0.25rem;
+}
+
+.chapter-nav-dialog .chapter-nav-chip {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 2.25rem;
+  padding: 0.25rem 0;
+  border-radius: 6px;
+  background: var(--color-chip-bg);
+  color: var(--color-text);
+  font-family: system-ui, -apple-system, sans-serif;
+  font-size: 0.8125rem;
+  font-variant-numeric: tabular-nums;
+  text-decoration: none;
+  cursor: pointer;
+  transition: background-color 80ms ease;
+}
+
+.chapter-nav-dialog .chapter-nav-chip:hover {
+  background: var(--color-chip-bg-hover);
+}
+
+.chapter-nav-dialog .chapter-nav-chip:focus-visible {
+  outline: 2px solid var(--color-chip-active-bg);
+  outline-offset: 2px;
+}
+
+.chapter-nav-dialog .chapter-nav-chip.is-active {
+  background: var(--color-chip-active-bg);
+  color: var(--color-chip-active-fg);
+  font-weight: 600;
+}
