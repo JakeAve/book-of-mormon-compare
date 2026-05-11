@@ -1,33 +1,53 @@
 :root {
-  --color-header-title:    #1c1c1e;
-  --color-header-edition:  #2c2c2e;
-  --color-header-border:   #3a3a3c;
-  --color-header-text:     #f2f2f7;
-  --color-header-muted:    #8e8e93;
-  --color-header-subtle:   #636366;
+  --color-header-title: #1c1c1e;
+  --color-header-edition: #2c2c2e;
+  --color-header-border: #3a3a3c;
+  --color-header-text: #f2f2f7;
+  --color-header-muted: #8e8e93;
+  --color-header-subtle: #636366;
 
-  --color-page-bg:         #f1f5f9;
-  --color-bg:              #ffffff;
-  --color-text:            #111827;
-  --color-divider:         #e5e7eb;
-  --color-verse-num:       #9ca3af;
+  --color-page-bg: #f1f5f9;
+  --color-bg: #ffffff;
+  --color-text: #111827;
+  --color-divider: #e5e7eb;
+  --color-verse-num: #9ca3af;
 
   --color-side1-highlight: #dbeafe;
   --color-side2-highlight: #dcfce7;
-  --color-word-match:      #fde68a;
+  --color-word-match: #fde68a;
+
+  --color-dialog-bg: #ffffff;
+  --color-dialog-border: #e5e7eb;
+  --color-dialog-overlay: rgba(15, 23, 42, 0.45);
+  --color-chip-bg: #f1efea;
+  --color-chip-bg-hover: #e5e2da;
+  --color-chip-active-bg: #1c1c1e;
+  --color-chip-active-fg: #f2f2f7;
+  --color-book-row-current-bg: #fbf8f1;
+  --color-muted: #9ca3af;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --color-page-bg:         #0d1117;
-    --color-bg:              #111827;
-    --color-text:            #f3f4f6;
-    --color-divider:         #374151;
-    --color-verse-num:       #6b7280;
+    --color-page-bg: #0d1117;
+    --color-bg: #111827;
+    --color-text: #f3f4f6;
+    --color-divider: #374151;
+    --color-verse-num: #6b7280;
 
     --color-side1-highlight: #1e3a5f;
     --color-side2-highlight: #14532d;
-    --color-word-match:      #78350f;
+    --color-word-match: #78350f;
+
+    --color-dialog-bg: #1c1c1e;
+    --color-dialog-border: #3a3a3c;
+    --color-dialog-overlay: rgba(0, 0, 0, 0.6);
+    --color-chip-bg: #2c2c2e;
+    --color-chip-bg-hover: #3a3a3c;
+    --color-chip-active-bg: #f2f2f7;
+    --color-chip-active-fg: #1c1c1e;
+    --color-book-row-current-bg: #2c2c2e;
+    --color-muted: #8e8e93;
   }
 }
 
