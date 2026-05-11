@@ -44,6 +44,16 @@ export function getBookDisplayName(book: string): string {
   return isBookAbbr(book) ? BOOK_DISPLAY_NAMES[book] : book;
 }
 
+export const VERSION_DISPLAY_NAMES: Record<string, string> = {
+  "stub": "Stub A",
+  "stub2": "Stub B",
+  "2013": "2013 Church of Jesus Christ of Latter-day Saints",
+};
+
+export function getVersionDisplayName(version: string): string {
+  return VERSION_DISPLAY_NAMES[version] ?? version;
+}
+
 async function listChapters(
   version: string,
   book: string,

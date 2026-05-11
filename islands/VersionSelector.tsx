@@ -1,3 +1,5 @@
+import { getVersionDisplayName } from "../lib/data.ts";
+
 interface Props {
   side: "v1" | "v2";
   current: string;
@@ -36,7 +38,7 @@ export default function VersionSelector({ side, current, versions }: Props) {
     >
       {versions.map((v) => (
         <option key={v} value={v} selected={v === current}>
-          {v}
+          {getVersionDisplayName(v)}
         </option>
       ))}
     </select>
