@@ -40,17 +40,6 @@ export default function About() {
           <a href="/" class="underline">Open the reader →</a>
         </p>
       </section>
-
-      <section class="flex flex-col gap-3">
-        <h2 class="text-xl font-semibold">Disclaimer</h2>
-        <p>
-          This project is an independent study and research tool. It is not
-          affiliated with, endorsed by, or sponsored by The Church of Jesus
-          Christ of Latter-day Saints, the Community of Christ, or any other
-          church or organization. All scriptural text belongs to its respective
-          publishers; this site presents it for comparative study.
-        </p>
-      </section>
     </main>
   );
 }
