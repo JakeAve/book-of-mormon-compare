@@ -36,28 +36,29 @@ export const handler = define.handlers({
 
     if (!versions.includes(v1) || !versions.includes(v2)) throw new HttpError(404);
 
-    try {
-      const [verses1, verses2, adjacent] = await Promise.all([
-        loadChapter(v1, book, chapter),
-        loadChapter(v2, book, chapter),
-        getAdjacentChapters(v1, book, chapter),
-      ]);
-      return {
-        data: {
-          verses1,
-          verses2,
-          v1,
-          v2,
-          versions,
-          book,
-          chapter,
-          prev: adjacent.prev,
-          next: adjacent.next,
-        } as PageData,
-      };
-    } catch {
+    const [verses1, verses2, adjacent] = await Promise.all([
+      loadChapter(v1, book, chapter),
+      loadChapter(v2, book, chapter),
+      getAdjacentChapters(v1, book, chapter),
+    ]);
+
+    if (verses1.length === 0 && verses2.length === 0) {
       throw new HttpError(404);
     }
+
+    return {
+      data: {
+        verses1,
+        verses2,
+        v1,
+        v2,
+        versions,
+        book,
+        chapter,
+        prev: adjacent.prev,
+        next: adjacent.next,
+      } as PageData,
+    };
   },
 });
 

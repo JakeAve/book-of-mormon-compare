@@ -183,9 +183,14 @@ export async function loadChapter(
       return STUB_VERSES;
     }
   }
-  const text = await Deno.readTextFile(path);
-  const raw = JSON.parse(text) as Array<Verse | AlignedVerse>;
-  return raw.map(normalizeVerse);
+  try {
+    const text = await Deno.readTextFile(path);
+    const raw = JSON.parse(text) as Array<Verse | AlignedVerse>;
+    return raw.map(normalizeVerse);
+  } catch (err) {
+    if (err instanceof Deno.errors.NotFound) return [];
+    throw err;
+  }
 }
 
 interface AlignedVerse {

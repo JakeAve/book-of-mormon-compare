@@ -16,6 +16,63 @@ interface Props {
   v2: string;
 }
 
+function NonExtantView({ verses1, verses2 }: { verses1: Verse[]; verses2: Verse[] }) {
+  const rows = Math.max(verses1.length, verses2.length, 1);
+  const cells: ReturnType<typeof renderCell>[] = [];
+  for (let i = 0; i < rows; i++) {
+    cells.push(renderCell(verses1[i], 1, i + 1));
+    cells.push(renderCell(verses2[i], 2, i + 1));
+  }
+  return <>{cells}</>;
+}
+
+function renderCell(verse: Verse | undefined, col: 1 | 2, row: number) {
+  const padding = col === 1
+    ? { paddingLeft: "1.5rem", paddingRight: "1rem" }
+    : { paddingLeft: "1rem", paddingRight: "1.5rem" };
+  const base = {
+    gridRow: row,
+    paddingTop: "0.5rem",
+    paddingBottom: "0.5rem",
+    margin: "0",
+    ...padding,
+  };
+  if (!verse) {
+    if (row !== 1) {
+      return <p style={{ ...base, gridColumnStart: col }} />;
+    }
+    return (
+      <p
+        style={{
+          ...base,
+          gridColumnStart: col,
+          color: "var(--color-verse-num)",
+          fontStyle: "italic",
+          textAlign: "center",
+        }}
+      >
+        Non-extant
+      </p>
+    );
+  }
+  return (
+    <p style={{ ...base, gridColumnStart: col }}>
+      <span
+        style={{
+          color: "var(--color-verse-num)",
+          fontSize: "0.6875rem",
+          fontFamily: "sans-serif",
+          fontWeight: 500,
+          marginRight: "0.375rem",
+        }}
+      >
+        {verse.verse}
+      </span>
+      {verse.markdown ?? verse.text}
+    </p>
+  );
+}
+
 export function DiffPage({
   verses1,
   verses2,
@@ -121,7 +178,14 @@ export function DiffPage({
               pointerEvents: "none",
             }}
           />
-          <Diff verses1={verses1} verses2={verses2} startRow={0} />
+          {verses1.length === 0 || verses2.length === 0
+            ? (
+              <NonExtantView
+                verses1={verses1}
+                verses2={verses2}
+              />
+            )
+            : <Diff verses1={verses1} verses2={verses2} startRow={0} />}
         </div>
       </div>
     </main>
