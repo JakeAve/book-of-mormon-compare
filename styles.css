@@ -1,60 +1,60 @@
 :root {
   --color-header-title: #201610;
-  --color-header-edition: #2E2014;
-  --color-header-border: #3E2C1A;
-  --color-header-text: #F4F0E8;
-  --color-header-muted: #A08060;
-  --color-header-subtle: #7A5E3A;
+  --color-header-edition: #2e2014;
+  --color-header-border: #3e2c1a;
+  --color-header-text: #f4f0e8;
+  --color-header-muted: #a08060;
+  --color-header-subtle: #7a5e3a;
 
-  --color-page-bg: #F4F0E8;
-  --color-bg: #FDFAF4;
-  --color-text: #1C1C1C;
-  --color-divider: #E8E0D0;
-  --color-verse-num: #B0A090;
+  --color-page-bg: #f4f0e8;
+  --color-bg: #fdfaf4;
+  --color-text: #1c1c1c;
+  --color-divider: #e8e0d0;
+  --color-verse-num: #b0a090;
 
-  --color-side1-highlight: #EDD9A8;
-  --color-side2-highlight: #D4E0C4;
-  --color-word-match: #F0C878;
+  --color-side1-highlight: #edd9a8;
+  --color-side2-highlight: #d4e0c4;
+  --color-word-match: #f0c878;
 
-  --color-dialog-bg: #FDFAF4;
-  --color-dialog-border: #E8E0D0;
+  --color-dialog-bg: #fdfaf4;
+  --color-dialog-border: #e8e0d0;
   --color-dialog-overlay: rgba(28, 28, 28, 0.45);
-  --color-chip-bg: #EDE8DF;
-  --color-chip-bg-hover: #E2DDD3;
-  --color-chip-active-bg: #1C1C1C;
-  --color-chip-active-fg: #F4F0E8;
-  --color-book-row-current-bg: #F5F0E6;
-  --color-muted: #9E8E7E;
-  --color-accent: #C48A4A;
+  --color-chip-bg: #ede8df;
+  --color-chip-bg-hover: #e2ddd3;
+  --color-chip-active-bg: #1c1c1c;
+  --color-chip-active-fg: #f4f0e8;
+  --color-book-row-current-bg: #f5f0e6;
+  --color-muted: #9e8e7e;
+  --color-accent: #c48a4a;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --color-header-title: #1C1C1C;
+    --color-header-title: #1c1c1c;
     --color-header-edition: #242424;
     --color-header-border: #303030;
-    --color-header-muted: #9E8E7E;
-    --color-header-subtle: #6A6460;
+    --color-header-muted: #9e8e7e;
+    --color-header-subtle: #6a6460;
 
-    --color-page-bg: #1C1C1C;
+    --color-page-bg: #1c1c1c;
     --color-bg: #262626;
-    --color-text: #F4F0E8;
+    --color-text: #f4f0e8;
     --color-divider: #363636;
     --color-verse-num: #706060;
 
-    --color-side1-highlight: #5A3C10;
-    --color-side2-highlight: #253C20;
-    --color-word-match: #6E4C08;
+    --color-side1-highlight: #5a3c10;
+    --color-side2-highlight: #253c20;
+    --color-word-match: #6e4c08;
 
     --color-dialog-bg: #262626;
     --color-dialog-border: #363636;
     --color-dialog-overlay: rgba(0, 0, 0, 0.65);
     --color-chip-bg: #333333;
-    --color-chip-bg-hover: #3E3E3E;
-    --color-chip-active-bg: #F4F0E8;
-    --color-chip-active-fg: #1C1C1C;
-    --color-book-row-current-bg: #2A2A2A;
-    --color-muted: #9E8E7E;
+    --color-chip-bg-hover: #3e3e3e;
+    --color-chip-active-bg: #f4f0e8;
+    --color-chip-active-fg: #1c1c1c;
+    --color-book-row-current-bg: #2a2a2a;
+    --color-muted: #9e8e7e;
   }
 }
 
@@ -178,4 +178,129 @@ body {
   background: var(--color-chip-active-bg);
   color: var(--color-chip-active-fg);
   font-weight: 600;
+}
+
+/* Tutorial dialog */
+.tutorial-dialog {
+  width: clamp(280px, 92vw, 480px);
+  margin: auto;
+  padding: 0;
+  border: 1px solid var(--color-dialog-border);
+  border-radius: 12px;
+  background: var(--color-dialog-bg);
+  color: var(--color-text);
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+
+.tutorial-dialog[open] {
+  inset: 0;
+}
+
+.tutorial-dialog::backdrop {
+  background: var(--color-dialog-overlay);
+}
+
+.tutorial-dialog .tutorial-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.75rem 1rem;
+  border-bottom: 1px solid var(--color-dialog-border);
+}
+
+.tutorial-dialog .tutorial-title {
+  font-family: system-ui, -apple-system, sans-serif;
+  font-size: 0.8125rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--color-muted);
+}
+
+.tutorial-dialog .tutorial-close {
+  background: transparent;
+  border: none;
+  font-size: 1.5rem;
+  line-height: 1;
+  color: var(--color-muted);
+  cursor: pointer;
+  padding: 0 0.25rem;
+}
+
+.tutorial-dialog .tutorial-close:hover {
+  color: var(--color-text);
+}
+
+.tutorial-dialog .tutorial-body {
+  padding: 1.25rem 1.25rem 1rem;
+  font-family: system-ui, -apple-system, sans-serif;
+  font-size: 0.9375rem;
+  line-height: 1.6;
+  color: var(--color-text);
+}
+
+.tutorial-dialog .tutorial-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.75rem 1rem;
+  border-top: 1px solid var(--color-dialog-border);
+  gap: 0.5rem;
+}
+
+.tutorial-dialog .tutorial-counter {
+  font-family: system-ui, -apple-system, sans-serif;
+  font-size: 0.75rem;
+  color: var(--color-muted);
+  flex: 1;
+  text-align: center;
+}
+
+.tutorial-dialog .tutorial-btn {
+  font-family: system-ui, -apple-system, sans-serif;
+  font-size: 0.8125rem;
+  font-weight: 600;
+  padding: 0.4rem 0.875rem;
+  border-radius: 6px;
+  border: 1px solid var(--color-dialog-border);
+  background: var(--color-chip-bg);
+  color: var(--color-text);
+  cursor: pointer;
+  min-width: 4.5rem;
+}
+
+.tutorial-dialog .tutorial-btn:hover {
+  background: var(--color-chip-bg-hover);
+}
+
+.tutorial-dialog .tutorial-btn.tutorial-btn-primary {
+  background: var(--color-chip-active-bg);
+  color: var(--color-chip-active-fg);
+  border-color: var(--color-chip-active-bg);
+}
+
+.tutorial-dialog .tutorial-btn.tutorial-btn-primary:hover {
+  opacity: 0.85;
+}
+
+.tutorial-dialog .tutorial-btn.tutorial-btn-hidden {
+  visibility: hidden;
+  pointer-events: none;
+}
+
+/* DOM element highlight */
+@keyframes tutorial-pulse {
+  0%, 100% {
+    box-shadow: 0 0 0 2px var(--color-accent);
+  }
+  50% {
+    box-shadow: 0 0 0 5px var(--color-accent);
+  }
+}
+
+.tutorial-highlight {
+  animation: tutorial-pulse 1.8s ease-in-out infinite;
+  position: relative;
+  z-index: 1;
 }
