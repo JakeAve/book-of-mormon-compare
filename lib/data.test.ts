@@ -1,4 +1,4 @@
-import { assertEquals, assertRejects } from "jsr:@std/assert";
+import { assertEquals, assertRejects } from "@std/assert";
 import {
   BOOK_DISPLAY_NAMES,
   BOOK_ORDER,

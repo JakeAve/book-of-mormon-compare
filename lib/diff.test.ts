@@ -1,4 +1,4 @@
-import { assertEquals } from "jsr:@std/assert";
+import { assertEquals } from "@std/assert";
 import { diff } from "./diff.ts";
 
 Deno.test("diff: identical texts have no added or removed tokens", () => {

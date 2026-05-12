@@ -7,5 +7,5 @@ export const handler = define.handlers({
 });
 
 export default function Index() {
-  return <></>;
+  return null;
 }

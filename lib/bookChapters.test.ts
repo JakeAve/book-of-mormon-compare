@@ -1,4 +1,4 @@
-import { assertEquals } from "jsr:@std/assert";
+import { assertEquals } from "@std/assert";
 import { BOOK_ORDER } from "./data.ts";
 import { buildChapterHref, CHAPTER_COUNTS } from "./bookChapters.ts";
 

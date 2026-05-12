@@ -42,7 +42,9 @@ export default function WordMatchListener() {
       }
 
       const range = selection.getRangeAt(0);
-      const spans = container!.querySelectorAll<HTMLElement>("[data-word-match]");
+      const spans = container!.querySelectorAll<HTMLElement>(
+        "[data-word-match]",
+      );
       spans.forEach((span) => {
         if (!range.intersectsNode(span)) return;
         const otherId = span.id.startsWith("a")
@@ -61,6 +63,5 @@ export default function WordMatchListener() {
     };
   }, []);
 
-  // deno-lint-ignore jsx-no-useless-fragment
-  return <></>;
+  return null;
 }
