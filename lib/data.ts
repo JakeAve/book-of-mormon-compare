@@ -1,4 +1,6 @@
 export const BOOK_ORDER = [
+  "witnesses",
+  "title-page",
   "1-ne",
   "2-ne",
   "jacob",
@@ -19,6 +21,8 @@ export const BOOK_ORDER = [
 export type BookAbbr = typeof BOOK_ORDER[number];
 
 export const BOOK_DISPLAY_NAMES: Record<BookAbbr, string> = {
+  "title-page": "Title Page",
+  "witnesses": "Witnesses",
   "1-ne": "1 Nephi",
   "2-ne": "2 Nephi",
   "jacob": "Jacob",

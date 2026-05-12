@@ -6,9 +6,9 @@ Support either HTML or markdown to allow strike throughs, superscript, subscript
 
 The intos to 1 Nephi, intro to Alma 5, all need to find a way to fit in verse structure. Probably do 0 verses.
 
-## Add additional texts
+## Witnesses and title page
 
-The title page and the witness statements need to be added / separated
+Populate the witnesses and title page
 
 ## Reference links
 
