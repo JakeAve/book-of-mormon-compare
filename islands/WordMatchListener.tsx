@@ -27,9 +27,40 @@ export default function WordMatchListener() {
       }
     }
 
+    function clearSelectionHighlights() {
+      container!.querySelectorAll(".word-match-selected").forEach((el) => {
+        el.classList.remove("word-match-selected");
+      });
+    }
+
+    function handleSelectionChange() {
+      clearSelectionHighlights();
+
+      const selection = document.getSelection();
+      if (!selection || selection.rangeCount === 0 || selection.isCollapsed) {
+        return;
+      }
+
+      const range = selection.getRangeAt(0);
+      const spans = container!.querySelectorAll<HTMLElement>("[data-word-match]");
+      spans.forEach((span) => {
+        if (!range.intersectsNode(span)) return;
+        const otherId = span.id.startsWith("a")
+          ? span.id.replace(/^a/, "b")
+          : span.id.replace(/^b/, "a");
+        const other = document.getElementById(otherId);
+        if (other) other.classList.add("word-match-selected");
+      });
+    }
+
     container.addEventListener("click", handleClick);
-    return () => container.removeEventListener("click", handleClick);
+    document.addEventListener("selectionchange", handleSelectionChange);
+    return () => {
+      container.removeEventListener("click", handleClick);
+      document.removeEventListener("selectionchange", handleSelectionChange);
+    };
   }, []);
 
+  // deno-lint-ignore jsx-no-useless-fragment
   return <></>;
 }
