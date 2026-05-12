@@ -1,5 +1,6 @@
 import { useEffect, useRef } from "preact/hooks";
 import {
+  BOOK_CHIP_LABELS,
   BOOK_DISPLAY_NAMES,
   BOOK_ORDER,
   type BookAbbr,
@@ -147,7 +148,7 @@ export default function ChapterNavDialog(
                         } ${ch}`}
                         aria-current={isActive ? "page" : undefined}
                       >
-                        {ch}
+                        {BOOK_CHIP_LABELS[b as BookAbbr] ?? ch}
                       </a>
                     );
                   })}

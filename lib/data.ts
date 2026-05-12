@@ -40,6 +40,11 @@ export const BOOK_DISPLAY_NAMES: Record<BookAbbr, string> = {
   "moro": "Moroni",
 };
 
+export const BOOK_CHIP_LABELS: Partial<Record<BookAbbr, string>> = {
+  "witnesses": "W",
+  "title-page": "TP",
+};
+
 export function isBookAbbr(value: string): value is BookAbbr {
   return value in BOOK_DISPLAY_NAMES;
 }

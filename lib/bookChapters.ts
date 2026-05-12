@@ -1,6 +1,8 @@
 import type { BookAbbr } from "./data.ts";
 
 export const CHAPTER_COUNTS: Record<BookAbbr, number> = {
+  "witnesses": 1,
+  "title-page": 1,
   "1-ne": 22,
   "2-ne": 33,
   "jacob": 7,
