@@ -9,7 +9,7 @@ export default function WordMatchListener() {
 
     function handleClick(e: MouseEvent) {
       const target = e.target as HTMLElement;
-      if (!target.dataset.wordMatch) return;
+      if (!("wordMatch" in target.dataset)) return;
 
       const otherId = target.id.startsWith("a")
         ? target.id.replace(/^a/, "b")
