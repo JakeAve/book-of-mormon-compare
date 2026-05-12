@@ -99,6 +99,7 @@ export function Diff({ verses1, verses2, startRow = 1 }: DiffProps) {
                 <a
                   href={v1.source}
                   target="_blank"
+                  title="View source"
                   style={{
                     color: "var(--color-verse-num)",
                     fontSize: "0.6875rem",
@@ -106,6 +107,7 @@ export function Diff({ verses1, verses2, startRow = 1 }: DiffProps) {
                     fontWeight: "500",
                     marginRight: "0.375rem",
                     textDecoration: "none",
+                    cursor: "pointer",
                   }}
                 >
                   {v1.verse}
@@ -159,6 +161,7 @@ export function Diff({ verses1, verses2, startRow = 1 }: DiffProps) {
                 <a
                   href={v2.source}
                   target="_blank"
+                  title="View source"
                   style={{
                     color: "var(--color-verse-num)",
                     fontSize: "0.6875rem",
@@ -166,6 +169,7 @@ export function Diff({ verses1, verses2, startRow = 1 }: DiffProps) {
                     fontWeight: "500",
                     marginRight: "0.375rem",
                     textDecoration: "none",
+                    cursor: "pointer",
                   }}
                 >
                   {v2.verse}

@@ -17,6 +17,15 @@ export default function About() {
       </section>
 
       <section class="flex flex-col gap-3">
+        <h2 class="text-xl font-semibold">Sources</h2>
+        <p>
+          All text has been sourced from official channels. For manuscript
+          versions, each line links back to its original source — click the
+          verse number to open the source reference.
+        </p>
+      </section>
+
+      <section class="flex flex-col gap-3">
         <h2 class="text-xl font-semibold">How to use it</h2>
         <ul class="flex flex-col gap-2 list-disc pl-6">
           <li>
