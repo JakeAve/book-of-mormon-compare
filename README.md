@@ -1,3 +1,5 @@
+**NOT READY FOR RELEASE - STILL CLEANING UP DATA**
+
 # Book of Mormon Compare
 
 A side-by-side diff viewer for comparing different versions of the Book of
