@@ -35,7 +35,7 @@ const swatch = (color: string, label: string) => (
 const STEPS: TutorialStep[] = [
   {
     title: "Highlights",
-    domElements: ["[data-diff-container]"],
+    domElements: [".highlight"],
     body: (
       <>
         <p style={{ margin: "0 0 0.75rem" }}>
@@ -127,9 +127,10 @@ const STEPS: TutorialStep[] = [
 function applyHighlights(selectors: string[] | undefined) {
   if (!selectors) return;
   for (const sel of selectors) {
-    document.querySelectorAll(sel).forEach((el) =>
-      el.classList.add("tutorial-highlight")
-    );
+    document.querySelectorAll(sel).forEach((el) => {
+      console.log({ el });
+      el.classList.add("tutorial-highlight");
+    });
   }
 }
 
@@ -147,10 +148,12 @@ export default function TutorialDialog() {
     if (new URLSearchParams(globalThis.location.search).has("tutorial")) {
       step.value = 0;
       dialogRef.current?.showModal();
+      applyHighlights(STEPS[0]?.domElements);
     }
     function onOpen() {
       step.value = 0;
       dialogRef.current?.showModal();
+      applyHighlights(STEPS[0]?.domElements);
     }
     globalThis.addEventListener("tutorial:open", onOpen);
     return () => globalThis.removeEventListener("tutorial:open", onOpen);

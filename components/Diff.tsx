@@ -43,7 +43,10 @@ export function Diff({ verses1, verses2, startRow = 1 }: DiffProps) {
     if (t.removed) {
       t1Idx++;
       c1.push(
-        <span style={{ backgroundColor: "var(--color-side1-highlight)" }}>
+        <span
+          class="highlight"
+          style={{ backgroundColor: "var(--color-side1-highlight)" }}
+        >
           {t1}
           {insertSpaceBetween(t1, split1?.[t1Idx])}
         </span>,
@@ -53,7 +56,10 @@ export function Diff({ verses1, verses2, startRow = 1 }: DiffProps) {
     if (t.added) {
       t2Idx++;
       c2.push(
-        <span style={{ backgroundColor: "var(--color-side2-highlight)" }}>
+        <span
+          class="highlight"
+          style={{ backgroundColor: "var(--color-side2-highlight)" }}
+        >
           {t2}
           {insertSpaceBetween(t2, split2?.[t2Idx])}
         </span>,
