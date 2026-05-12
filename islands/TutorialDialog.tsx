@@ -1,5 +1,5 @@
 import { useEffect, useRef } from "preact/hooks";
-import { signal } from "@preact/signals";
+import { useSignal } from "@preact/signals";
 import type { ComponentChildren } from "preact";
 
 interface TutorialStep {
@@ -108,8 +108,6 @@ const STEPS: TutorialStep[] = [
   },
 ];
 
-const step = signal(0);
-
 function applyHighlights(selectors: string[] | undefined) {
   if (!selectors) return;
   for (const sel of selectors) {
@@ -126,6 +124,7 @@ function clearHighlights() {
 }
 
 export default function TutorialDialog() {
+  const step = useSignal(0);
   const dialogRef = useRef<HTMLDialogElement>(null);
 
   useEffect(() => {
@@ -139,7 +138,7 @@ export default function TutorialDialog() {
     const d = dialogRef.current;
     if (!d) return;
     function onBackdropClick(e: MouseEvent) {
-      if (e.target === d) close();
+      if (e.target === d) closeDialog();
     }
     d.addEventListener("click", onBackdropClick);
     return () => d.removeEventListener("click", onBackdropClick);
@@ -153,7 +152,7 @@ export default function TutorialDialog() {
     return clearHighlights;
   }, [step.value]);
 
-  function close() {
+  function closeDialog() {
     clearHighlights();
     dialogRef.current?.close();
   }
@@ -164,7 +163,7 @@ export default function TutorialDialog() {
 
   function next() {
     if (step.value === STEPS.length - 1) {
-      close();
+      closeDialog();
     } else {
       step.value = step.value + 1;
     }
@@ -182,7 +181,7 @@ export default function TutorialDialog() {
           type="button"
           class="tutorial-close"
           aria-label="Close tutorial"
-          onClick={close}
+          onClick={closeDialog}
         >
           ×
         </button>
@@ -196,6 +195,7 @@ export default function TutorialDialog() {
           class={`tutorial-btn${isFirst ? " tutorial-btn-hidden" : ""}`}
           onClick={prev}
           aria-hidden={isFirst}
+          tabIndex={isFirst ? -1 : undefined}
         >
           Back
         </button>
