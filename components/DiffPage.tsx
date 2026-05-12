@@ -16,7 +16,9 @@ interface Props {
   v2: string;
 }
 
-function NonExtantView({ verses1, verses2 }: { verses1: Verse[]; verses2: Verse[] }) {
+function NonExtantView(
+  { verses1, verses2 }: { verses1: Verse[]; verses2: Verse[] },
+) {
   const rows = Math.max(verses1.length, verses2.length, 1);
   const cells: ReturnType<typeof renderCell>[] = [];
   for (let i = 0; i < rows; i++) {
@@ -103,7 +105,7 @@ export function DiffPage({
               padding: "0.75rem 1.5rem",
             }}
           >
-{prev
+            {prev
               ? (
                 <a
                   href={`/${prev.book}/${prev.chapter}${qs}`}

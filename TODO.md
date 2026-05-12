@@ -1,10 +1,12 @@
 ## Support rich text
 
-Support either HTML or markdown to allow strike throughs, superscript, subscript and other markings.
+Support either HTML or markdown to allow strike throughs, superscript, subscript
+and other markings.
 
 ## Organize supplementary texts
 
-The intos to 1 Nephi, intro to Alma 5, all need to find a way to fit in verse structure. Probably do 0 verses.
+The intos to 1 Nephi, intro to Alma 5, all need to find a way to fit in verse
+structure. Probably do 0 verses.
 
 ## Witnesses and title page
 
@@ -16,11 +18,13 @@ Add reference links to the sources
 
 ## Metadata
 
-Each version should have a bit of metadata about the version like a short intro. Not sure where that lives.
+Each version should have a bit of metadata about the version like a short intro.
+Not sure where that lives.
 
 ## Git hooks
 
-Add pre commit hook that fmt, lint and unit test. Push will do all checks plus e2e tests.
+Add pre commit hook that fmt, lint and unit test. Push will do all checks plus
+e2e tests.
 
 ## Pretty Header
 

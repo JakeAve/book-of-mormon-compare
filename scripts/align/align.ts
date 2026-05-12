@@ -52,7 +52,12 @@ export function align(
   // Drop outlier anchors: for each fragment, if anchors disagree wildly on the
   // target position (more than maxSpanRatio × source-token count apart), the
   // far ones are stray matches across a lacuna. Keep the densest cluster.
-  anchors = pruneOutlierAnchors(anchors, srcTokens, fragments.length, maxSpanRatio);
+  anchors = pruneOutlierAnchors(
+    anchors,
+    srcTokens,
+    fragments.length,
+    maxSpanRatio,
+  );
 
   // Per fragment: use interpolated token positions to build a verse range, BUT
   // (1) only for fragments with at least one anchor of their own and (2) clamp
@@ -245,7 +250,10 @@ function pruneOutlierAnchors(
  */
 function fillUnanchored(
   fragCount: number,
-  ranges: Map<number, { lo: number; hi: number; matched: number; total: number }>,
+  ranges: Map<
+    number,
+    { lo: number; hi: number; matched: number; total: number }
+  >,
   verseCount: number,
 ): void {
   // For each fragment without a range, find prevIdx (last anchored fragment
@@ -324,7 +332,11 @@ function buildSegments(
   };
 
   if (!perToken || perToken.length === 0 || totalTokens === 0) {
-    return [{ verse: verseAt(fallback.lo), tokenStart: 0, tokenEnd: totalTokens }];
+    return [{
+      verse: verseAt(fallback.lo),
+      tokenStart: 0,
+      tokenEnd: totalTokens,
+    }];
   }
 
   // Forward-fill -1s with the most recent assigned verse, back-fill leading -1s
@@ -354,7 +366,11 @@ function buildSegments(
   let start = 0;
   for (let i = 1; i < filled.length; i++) {
     if (filled[i] !== filled[i - 1]) {
-      segs.push({ verse: verseAt(filled[i - 1]), tokenStart: start, tokenEnd: i });
+      segs.push({
+        verse: verseAt(filled[i - 1]),
+        tokenStart: start,
+        tokenEnd: i,
+      });
       start = i;
     }
   }

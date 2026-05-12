@@ -20,8 +20,8 @@ import { loadOM } from "./align/sources/om.ts";
 import { BOOK_ORDER, loadBooks } from "./align/sources/bom2013.ts";
 import {
   isSourceSlug,
-  SOURCES,
   type SourceConfig,
+  SOURCES,
   TARGET_ROOT,
 } from "./align/paths.ts";
 
@@ -62,7 +62,9 @@ async function run(cfg: SourceConfig, opts: { preview: number; dry: boolean }) {
   console.log(`Aligning ${cfg.label} (${cfg.raw} → ${cfg.out})`);
   const fragments = await loadOM(cfg.raw);
   const verses = await loadBooks(TARGET_ROOT);
-  console.log(`  source lines: ${fragments.length}, target verses: ${verses.length}`);
+  console.log(
+    `  source lines: ${fragments.length}, target verses: ${verses.length}`,
+  );
 
   const { aligned, stats } = align(fragments, verses);
   console.log(
@@ -118,12 +120,17 @@ async function run(cfg: SourceConfig, opts: { preview: number; dry: boolean }) {
     const flat = aligned.slice(0, opts.preview);
     console.log("\n  preview:");
     for (const a of flat) {
-      const range = a.start.book === a.end.book && a.start.chapter === a.end.chapter
-        ? `${a.start.book} ${a.start.chapter}:${a.start.verse}${
-          a.end.verse !== a.start.verse ? `-${a.end.verse}` : ""
-        }`
-        : `${a.start.book} ${a.start.chapter}:${a.start.verse} → ${a.end.book} ${a.end.chapter}:${a.end.verse}`;
-      console.log(`    ${a.id.padEnd(8)} ${range.padEnd(22)} (${a.matchedTokens}/${a.totalTokens})`);
+      const range =
+        a.start.book === a.end.book && a.start.chapter === a.end.chapter
+          ? `${a.start.book} ${a.start.chapter}:${a.start.verse}${
+            a.end.verse !== a.start.verse ? `-${a.end.verse}` : ""
+          }`
+          : `${a.start.book} ${a.start.chapter}:${a.start.verse} → ${a.end.book} ${a.end.chapter}:${a.end.verse}`;
+      console.log(
+        `    ${a.id.padEnd(8)} ${
+          range.padEnd(22)
+        } (${a.matchedTokens}/${a.totalTokens})`,
+      );
     }
   }
 
@@ -147,7 +154,9 @@ async function run(cfg: SourceConfig, opts: { preview: number; dry: boolean }) {
       filesWritten++;
       versesWritten += arr.length;
     }
-    console.log(`\n  wrote ${filesWritten} files, ${versesWritten} verses → ${cfg.out}/`);
+    console.log(
+      `\n  wrote ${filesWritten} files, ${versesWritten} verses → ${cfg.out}/`,
+    );
   }
 
   // Coverage report.
@@ -156,14 +165,18 @@ async function run(cfg: SourceConfig, opts: { preview: number; dry: boolean }) {
     coveredByBook.set(v.book, (coveredByBook.get(v.book) ?? 0) + 1);
   }
   const totalByBook = new Map<string, number>();
-  for (const v of verses) totalByBook.set(v.book, (totalByBook.get(v.book) ?? 0) + 1);
+  for (const v of verses) {
+    totalByBook.set(v.book, (totalByBook.get(v.book) ?? 0) + 1);
+  }
   console.log("\n  coverage by book:");
   for (const slug of BOOK_ORDER) {
     const covered = coveredByBook.get(slug) ?? 0;
     const total = totalByBook.get(slug) ?? 0;
     const pct = total ? ((covered / total) * 100).toFixed(0) : "0";
     console.log(
-      `    ${slug.padEnd(8)} ${String(covered).padStart(4)} / ${String(total).padStart(4)}  (${pct}%)`,
+      `    ${slug.padEnd(8)} ${String(covered).padStart(4)} / ${
+        String(total).padStart(4)
+      }  (${pct}%)`,
     );
   }
 }

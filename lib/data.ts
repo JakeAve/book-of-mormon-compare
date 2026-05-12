@@ -149,20 +149,25 @@ export const STUB_VERSES: Verse[] = [
   {
     chapter: 1,
     verse: 1,
-    text: "I Nephi having been born of goodly parents therefore I was taught somewhat in all the learning of my father",
-    markdown: "I Nephi having been born of goodly parents therefore I was taught somewhat in all the learning of my father",
+    text:
+      "I Nephi having been born of goodly parents therefore I was taught somewhat in all the learning of my father",
+    markdown:
+      "I Nephi having been born of goodly parents therefore I was taught somewhat in all the learning of my father",
   },
   {
     chapter: 1,
     verse: 2,
-    text: "And it came to pass that he departed into the wilderness and left his house and the land of his inheritance",
-    markdown: "And it came to pass that he departed into the wilderness and left his house and the land of his inheritance",
+    text:
+      "And it came to pass that he departed into the wilderness and left his house and the land of his inheritance",
+    markdown:
+      "And it came to pass that he departed into the wilderness and left his house and the land of his inheritance",
   },
   {
     chapter: 1,
     verse: 3,
     text: "And it came to pass that he traveled three days in the wilderness",
-    markdown: "And it came to pass that he traveled three days in the wilderness",
+    markdown:
+      "And it came to pass that he traveled three days in the wilderness",
   },
 ];
 

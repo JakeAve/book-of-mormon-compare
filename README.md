@@ -1,24 +1,27 @@
 # Book of Mormon Compare
 
-A side-by-side diff viewer for comparing different versions of the Book of Mormon, built with [Fresh 2](https://fresh.deno.dev/) and Deno.
+A side-by-side diff viewer for comparing different versions of the Book of
+Mormon, built with [Fresh 2](https://fresh.deno.dev/) and Deno.
 
 ## Features
 
 - Side-by-side verse comparison across multiple text versions
 - Word-level diff highlighting (additions and removals)
-- Interactive word match highlighting — click a word to highlight all matching words across both columns
+- Interactive word match highlighting — click a word to highlight all matching
+  words across both columns
 - Version selector per column via URL query params (`?v1=stub&v2=stub2`)
 - Jump-to-chapter dialog for quick navigation
 - Dynamic routing by book and chapter: `/:book/:chapter`
-- Non-extant chapters (present in one version, missing in another) are clearly marked
+- Non-extant chapters (present in one version, missing in another) are clearly
+  marked
 
 ## Text Versions
 
-| Key | Description |
-|-----|-------------|
+| Key    | Description                                              |
+| ------ | -------------------------------------------------------- |
 | `2013` | 2013 Church of Jesus Christ of Latter-day Saints edition |
-| `om` | Original Manuscript |
-| `pm` | Printer's Manuscript |
+| `om`   | Original Manuscript                                      |
+| `pm`   | Printer's Manuscript                                     |
 
 ## Project Structure
 
@@ -49,7 +52,8 @@ data/
 
 ## Data Format
 
-Each chapter is a JSON file at `data/bom/<version>/<book>/<chapter>.json` containing an array of verses:
+Each chapter is a JSON file at `data/bom/<version>/<book>/<chapter>.json`
+containing an array of verses:
 
 ```json
 [
@@ -57,18 +61,30 @@ Each chapter is a JSON file at `data/bom/<version>/<book>/<chapter>.json` contai
 ]
 ```
 
-Aligned sources (Original Manuscript, Printer's Manuscript) use a line-based format:
+Aligned sources (Original Manuscript, Printer's Manuscript) use a line-based
+format:
 
 ```json
 [
   {
-    "chapter": 1, "verse": 1,
-    "lines": [{ "id": "1:1", "page": 1, "line": 1, "text": "...", "source": "https://..." }]
+    "chapter": 1,
+    "verse": 1,
+    "lines": [
+      {
+        "id": "1:1",
+        "page": 1,
+        "line": 1,
+        "text": "...",
+        "source": "https://..."
+      }
+    ]
   }
 ]
 ```
 
-Versions are discovered automatically from subdirectories of `data/bom/`. To add a new version, create `data/bom/<key>/` and register the display name in `VERSION_DISPLAY_NAMES` in `lib/data.ts`.
+Versions are discovered automatically from subdirectories of `data/bom/`. To add
+a new version, create `data/bom/<key>/` and register the display name in
+`VERSION_DISPLAY_NAMES` in `lib/data.ts`.
 
 ## Setup
 
@@ -93,7 +109,8 @@ deno test lib/
 
 ## Data Pipeline
 
-Manuscript alignment scripts normalize raw transcripts into verse-structured JSON:
+Manuscript alignment scripts normalize raw transcripts into verse-structured
+JSON:
 
 ```bash
 deno task align:om   # Original Manuscript → data/bom/om/
@@ -102,4 +119,8 @@ deno task align:pm   # Printer's Manuscript → data/bom/pm/
 
 ## Disclaimer
 
-This project is an independent study and research tool. It is not affiliated with, endorsed by, or sponsored by The Church of Jesus Christ of Latter-day Saints, the Community of Christ, or any other church or organization. All scriptural text belongs to its respective publishers; this site presents it for comparative study.
+This project is an independent study and research tool. It is not affiliated
+with, endorsed by, or sponsored by The Church of Jesus Christ of Latter-day
+Saints, the Community of Christ, or any other church or organization. All
+scriptural text belongs to its respective publishers; this site presents it for
+comparative study.

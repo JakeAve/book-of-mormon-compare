@@ -33,8 +33,8 @@ export default function About() {
             reader.
           </li>
           <li>
-            Use the &lt; and &gt; arrows to move between chapters, or tap the chapter
-            title to jump to any book and chapter.
+            Use the &lt; and &gt; arrows to move between chapters, or tap the
+            chapter title to jump to any book and chapter.
           </li>
           <li>
             Click any word to highlight every matching word in both columns —

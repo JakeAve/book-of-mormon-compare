@@ -1,27 +1,56 @@
-<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-  <rect width="512" height="512" rx="42" fill="#1C1C1C"/>
+<svg
+  width="512"
+  height="512"
+  viewBox="0 0 512 512"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <rect width="512" height="512" rx="42" fill="#1C1C1C" />
   <!-- Outer frame -->
-  <rect x="42" y="42" width="428" height="428"
-        rx="8"
-        fill="none"
-        stroke="#E8E0D0"
-        stroke-width="6"/>
+  <rect
+    x="42"
+    y="42"
+    width="428"
+    height="428"
+    rx="8"
+    fill="none"
+    stroke="#E8E0D0"
+    stroke-width="6"
+  />
   <!-- Corner ornaments -->
-  <path d="M60 100 L60 60 L100 60" stroke="#E8E0D0" stroke-width="4" fill="none"/>
-  <path d="M452 100 L452 60 L412 60" stroke="#E8E0D0" stroke-width="4" fill="none"/>
-  <path d="M60 412 L60 452 L100 452" stroke="#E8E0D0" stroke-width="4" fill="none"/>
-  <path d="M452 412 L452 452 L412 452" stroke="#E8E0D0" stroke-width="4" fill="none"/>
+  <path
+    d="M60 100 L60 60 L100 60"
+    stroke="#E8E0D0"
+    stroke-width="4"
+    fill="none"
+  />
+  <path
+    d="M452 100 L452 60 L412 60"
+    stroke="#E8E0D0"
+    stroke-width="4"
+    fill="none"
+  />
+  <path
+    d="M60 412 L60 452 L100 452"
+    stroke="#E8E0D0"
+    stroke-width="4"
+    fill="none"
+  />
+  <path
+    d="M452 412 L452 452 L412 452"
+    stroke="#E8E0D0"
+    stroke-width="4"
+    fill="none"
+  />
   <!-- BM Typography -->
-  <text x="256" y="235"
-        text-anchor="middle"
-        font-size="150"
-        font-family="Georgia, 'Times New Roman', serif"
-        fill="#F4F0E8"
-        letter-spacing="-8">
-    BM
-  </text>
+  <text
+    x="256"
+    y="235"
+    text-anchor="middle"
+    font-size="150"
+    font-family="Georgia, 'Times New Roman', serif"
+    fill="#F4F0E8"
+    letter-spacing="-8"
+  >BM</text>
   <!-- Bottom rule -->
-  <line x1="190" y1="320" x2="322" y2="320"
-        stroke="#C48A4A"
-        stroke-width="5"/>
+  <line x1="190" y1="320" x2="322" y2="320" stroke="#C48A4A" stroke-width="5" />
 </svg>

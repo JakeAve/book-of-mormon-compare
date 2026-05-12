@@ -1,8 +1,14 @@
 import { assertEquals } from "jsr:@std/assert";
-import { splitText, insertSpaceBetween } from "./textHelpers.ts";
+import { insertSpaceBetween, splitText } from "./textHelpers.ts";
 
 Deno.test("splitText splits words", () => {
-  assertEquals(splitText("And it came to pass"), ["And", "it", "came", "to", "pass"]);
+  assertEquals(splitText("And it came to pass"), [
+    "And",
+    "it",
+    "came",
+    "to",
+    "pass",
+  ]);
 });
 
 Deno.test("splitText splits on punctuation boundaries", () => {

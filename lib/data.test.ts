@@ -1,5 +1,12 @@
 import { assertEquals, assertRejects } from "jsr:@std/assert";
-import { getVersions, loadChapter, STUB_VERSES, BOOK_ORDER, BOOK_DISPLAY_NAMES, getAdjacentChapters } from "./data.ts";
+import {
+  BOOK_DISPLAY_NAMES,
+  BOOK_ORDER,
+  getAdjacentChapters,
+  getVersions,
+  loadChapter,
+  STUB_VERSES,
+} from "./data.ts";
 
 Deno.test("STUB_VERSES has at least one verse", () => {
   assertEquals(STUB_VERSES.length > 0, true);
