@@ -13,3 +13,7 @@ The title page and the witness statements need to be added / separated
 ## Reference links
 
 Add reference links to the sources
+
+## Metadata
+
+Each version should have a bit of metadata about the version like a short intro. Not sure where that lives.
