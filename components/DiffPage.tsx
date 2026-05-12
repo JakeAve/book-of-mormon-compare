@@ -95,6 +95,7 @@ export function DiffPage({
           {/* Title bar */}
           <div
             style={{
+              position: "relative",
               background: "var(--color-header-title)",
               display: "flex",
               alignItems: "center",
@@ -102,6 +103,23 @@ export function DiffPage({
               padding: "0.75rem 1.5rem",
             }}
           >
+            <a
+              href="/about"
+              aria-label="About"
+              title="About"
+              style={{
+                position: "absolute",
+                top: "0.25rem",
+                right: "0.4rem",
+                color: "var(--color-header-subtle)",
+                fontSize: "0.75rem",
+                lineHeight: 1,
+                textDecoration: "none",
+                fontFamily: "sans-serif",
+              }}
+            >
+              ⓘ
+            </a>
             {prev
               ? (
                 <a
