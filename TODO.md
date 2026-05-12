@@ -17,3 +17,11 @@ Add reference links to the sources
 ## Metadata
 
 Each version should have a bit of metadata about the version like a short intro. Not sure where that lives.
+
+## Git hooks
+
+Add pre commit hook that fmt, lint and unit test. Push will do all checks plus e2e tests.
+
+## Pretty Header
+
+Add photos and nice data to headers for shareable links
