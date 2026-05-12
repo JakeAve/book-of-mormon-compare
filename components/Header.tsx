@@ -1,4 +1,5 @@
 import TutorialTrigger from "../islands/TutorialTrigger.tsx";
+import HeaderIconButton from "./HeaderIconButton.tsx";
 
 export default function Header() {
   return (
@@ -29,22 +30,9 @@ export default function Header() {
         </a>
       </h1>
       <TutorialTrigger />
-      <a
-        href="/about"
-        aria-label="About"
-        title="About"
-        style={{
-          position: "absolute",
-          right: "1.5rem",
-          fontFamily: "sans-serif",
-          fontSize: "0.75rem",
-          color: "var(--color-muted)",
-          textDecoration: "none",
-          lineHeight: 1,
-        }}
-      >
-        ⓘ
-      </a>
+      <HeaderIconButton href="/about" label="About" style={{ right: "1.5rem" }}>
+        i
+      </HeaderIconButton>
     </header>
   );
 }
