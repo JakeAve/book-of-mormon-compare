@@ -26,9 +26,11 @@ export const handler = define.handlers({
     if (versions.length === 0) throw new HttpError(404);
 
     const params = new URLSearchParams(ctx.url.searchParams);
+    const defaultV1 = versions.includes("pm") ? "pm" : versions[0];
+    const defaultV2 = versions.includes("2013") ? "2013" : versions[0];
     let needsRedirect = false;
-    if (!params.has("v1")) { params.set("v1", versions[0]); needsRedirect = true; }
-    if (!params.has("v2")) { params.set("v2", versions[0]); needsRedirect = true; }
+    if (!params.has("v1")) { params.set("v1", defaultV1); needsRedirect = true; }
+    if (!params.has("v2")) { params.set("v2", defaultV2); needsRedirect = true; }
     if (needsRedirect) return ctx.redirect(`/${book}/${chapter}?${params}`);
 
     const v1 = params.get("v1")!;
