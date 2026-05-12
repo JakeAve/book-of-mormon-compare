@@ -140,8 +140,15 @@ export default function TutorialDialog() {
     function onBackdropClick(e: MouseEvent) {
       if (e.target === d) closeDialog();
     }
+    function onCancel() {
+      clearHighlights();
+    }
     d.addEventListener("click", onBackdropClick);
-    return () => d.removeEventListener("click", onBackdropClick);
+    d.addEventListener("cancel", onCancel);
+    return () => {
+      d.removeEventListener("click", onBackdropClick);
+      d.removeEventListener("cancel", onCancel);
+    };
   }, []);
 
   useEffect(() => {
