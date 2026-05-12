@@ -101,8 +101,24 @@ const STEPS: TutorialStep[] = [
     body: (
       <p style={{ margin: 0 }}>
         That's everything. Enjoy exploring the text. You can reopen this
-        tutorial any time by adding{" "}
-        <code style={{ fontSize: "0.875em" }}>?tutorial</code> to the URL.
+        tutorial by clicking on the{" "}
+        <span
+          aria-label="Open tutorial button"
+          style={{
+            display: "inline-flex",
+            alignItems: "center",
+            justifyContent: "center",
+            width: "1rem",
+            height: "1rem",
+            borderRadius: "50%",
+            border: "1.5px solid currentColor",
+            fontSize: "0.625rem",
+            fontWeight: 700,
+            lineHeight: 1,
+          }}
+        >
+          ?
+        </span>
       </p>
     ),
   },
@@ -132,6 +148,12 @@ export default function TutorialDialog() {
       step.value = 0;
       dialogRef.current?.showModal();
     }
+    function onOpen() {
+      step.value = 0;
+      dialogRef.current?.showModal();
+    }
+    globalThis.addEventListener("tutorial:open", onOpen);
+    return () => globalThis.removeEventListener("tutorial:open", onOpen);
   }, []);
 
   useEffect(() => {

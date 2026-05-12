@@ -1,3 +1,5 @@
+import TutorialTrigger from "../islands/TutorialTrigger.tsx";
+
 export default function Header() {
   return (
     <header
@@ -26,6 +28,7 @@ export default function Header() {
           Book of Mormon Compare
         </a>
       </h1>
+      <TutorialTrigger />
       <a
         href="/about"
         aria-label="About"
