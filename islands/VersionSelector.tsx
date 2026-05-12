@@ -18,6 +18,7 @@ export default function VersionSelector({ side, current, versions }: Props) {
     <select
       value={current}
       onChange={onChange}
+      data-tutorial="version-selector"
       style={{
         appearance: "none",
         WebkitAppearance: "none",

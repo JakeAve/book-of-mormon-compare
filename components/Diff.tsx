@@ -95,36 +95,39 @@ export function Diff({ verses1, verses2, startRow = 1 }: DiffProps) {
         >
           {v1 && (
             <>
-              {v1.source ? (
-                <a
-                  href={v1.source}
-                  target="_blank"
-                  title="View source"
-                  style={{
-                    color: "var(--color-verse-num)",
-                    fontSize: "0.6875rem",
-                    fontFamily: "sans-serif",
-                    fontWeight: "500",
-                    marginRight: "0.375rem",
-                    textDecoration: "none",
-                    cursor: "pointer",
-                  }}
-                >
-                  {v1.verse}
-                </a>
-              ) : (
-                <span
-                  style={{
-                    color: "var(--color-verse-num)",
-                    fontSize: "0.6875rem",
-                    fontFamily: "sans-serif",
-                    fontWeight: "500",
-                    marginRight: "0.375rem",
-                  }}
-                >
-                  {v1.verse}
-                </span>
-              )}
+              {v1.source
+                ? (
+                  <a
+                    href={v1.source}
+                    target="_blank"
+                    title="View source"
+                    data-tutorial="verse-source"
+                    style={{
+                      color: "var(--color-verse-num)",
+                      fontSize: "0.6875rem",
+                      fontFamily: "sans-serif",
+                      fontWeight: "500",
+                      marginRight: "0.375rem",
+                      textDecoration: "none",
+                      cursor: "pointer",
+                    }}
+                  >
+                    {v1.verse}
+                  </a>
+                )
+                : (
+                  <span
+                    style={{
+                      color: "var(--color-verse-num)",
+                      fontSize: "0.6875rem",
+                      fontFamily: "sans-serif",
+                      fontWeight: "500",
+                      marginRight: "0.375rem",
+                    }}
+                  >
+                    {v1.verse}
+                  </span>
+                )}
               {c1}
             </>
           )}
@@ -147,7 +150,9 @@ export function Diff({ verses1, verses2, startRow = 1 }: DiffProps) {
         <p
           class="col-start-2"
           style={{
-            gridRow: `${row2} / ${row2 < row1 ? currRows1.at(-1) ?? row2 : row2}`,
+            gridRow: `${row2} / ${
+              row2 < row1 ? currRows1.at(-1) ?? row2 : row2
+            }`,
             paddingTop: "0.5rem",
             paddingBottom: "0.5rem",
             paddingLeft: "1rem",
@@ -157,36 +162,39 @@ export function Diff({ verses1, verses2, startRow = 1 }: DiffProps) {
         >
           {v2 && (
             <>
-              {v2.source ? (
-                <a
-                  href={v2.source}
-                  target="_blank"
-                  title="View source"
-                  style={{
-                    color: "var(--color-verse-num)",
-                    fontSize: "0.6875rem",
-                    fontFamily: "sans-serif",
-                    fontWeight: "500",
-                    marginRight: "0.375rem",
-                    textDecoration: "none",
-                    cursor: "pointer",
-                  }}
-                >
-                  {v2.verse}
-                </a>
-              ) : (
-                <span
-                  style={{
-                    color: "var(--color-verse-num)",
-                    fontSize: "0.6875rem",
-                    fontFamily: "sans-serif",
-                    fontWeight: "500",
-                    marginRight: "0.375rem",
-                  }}
-                >
-                  {v2.verse}
-                </span>
-              )}
+              {v2.source
+                ? (
+                  <a
+                    href={v2.source}
+                    target="_blank"
+                    title="View source"
+                    data-tutorial="verse-source"
+                    style={{
+                      color: "var(--color-verse-num)",
+                      fontSize: "0.6875rem",
+                      fontFamily: "sans-serif",
+                      fontWeight: "500",
+                      marginRight: "0.375rem",
+                      textDecoration: "none",
+                      cursor: "pointer",
+                    }}
+                  >
+                    {v2.verse}
+                  </a>
+                )
+                : (
+                  <span
+                    style={{
+                      color: "var(--color-verse-num)",
+                      fontSize: "0.6875rem",
+                      fontFamily: "sans-serif",
+                      fontWeight: "500",
+                      marginRight: "0.375rem",
+                    }}
+                  >
+                    {v2.verse}
+                  </span>
+                )}
               {c2}
             </>
           )}

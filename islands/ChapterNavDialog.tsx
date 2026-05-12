@@ -58,6 +58,7 @@ export default function ChapterNavDialog(
         onClick={openDialog}
         aria-haspopup="dialog"
         aria-label={`Navigate to chapter (currently ${displayName} ${chapter})`}
+        data-tutorial="chapter-nav"
         style={{
           background: "transparent",
           border: "none",
