@@ -48,6 +48,8 @@ export const VERSION_DISPLAY_NAMES: Record<string, string> = {
   "stub": "Stub A",
   "stub2": "Stub B",
   "2013": "2013 Church of Jesus Christ of Latter-day Saints",
+  "om": "Original Manuscript",
+  "pm": "Printer's Manuscript",
 };
 
 export function getVersionDisplayName(version: string): string {
@@ -119,6 +121,19 @@ export interface Verse {
   text: string;
   markdown?: string;
   source?: string;
+  /** Present on aligned sources where one canonical verse is stitched from
+   * multiple source-text line fragments. Preserved for line-level UI affordances
+   * (per-line source links, expandable provenance, etc.). */
+  lines?: VerseLine[];
+}
+
+export interface VerseLine {
+  /** Stable id from the aligner, e.g. "1:1" = page:line on the JS Papers scan. */
+  id: string;
+  page: number;
+  line: number;
+  text: string;
+  source?: string;
 }
 
 export const STUB_VERSES: Verse[] = [
@@ -169,5 +184,43 @@ export async function loadChapter(
     }
   }
   const text = await Deno.readTextFile(path);
-  return JSON.parse(text) as Verse[];
+  const raw = JSON.parse(text) as Array<Verse | AlignedVerse>;
+  return raw.map(normalizeVerse);
+}
+
+interface AlignedVerse {
+  book?: string;
+  chapter: number;
+  verse: number;
+  lines: VerseLine[];
+}
+
+function normalizeVerse(v: Verse | AlignedVerse): Verse {
+  if ("lines" in v && v.lines) {
+    return {
+      chapter: v.chapter,
+      verse: v.verse,
+      text: stitchLines(v.lines),
+      // For aligned sources we link to the first contributing manuscript page;
+      // the full per-line provenance lives on `lines`.
+      source: v.lines[0]?.source,
+      lines: v.lines,
+    };
+  }
+  return v as Verse;
+}
+
+/** Join scribal line fragments into a single verse text. The OM transcript
+ * doesn't mark which line-ends are mid-word breaks (e.g. "...it ca / me to
+ * pass...") versus normal end-of-word breaks ("...wherefore he / did as the
+ * Lord..."), so we always insert a space. This leaves visible artifacts on
+ * mid-word breaks ("wildern ess") but keeps every other word boundary correct
+ * — and the diff tokenizer still finds anchor matches on the surrounding
+ * words. A future pass with a dictionary or bigram check could split the
+ * cases. */
+function stitchLines(lines: VerseLine[]): string {
+  return lines
+    .map((l) => l.text.trim())
+    .filter((t) => t.length > 0)
+    .join(" ");
 }

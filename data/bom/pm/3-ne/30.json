@@ -1,0 +1,30 @@
+[
+  {
+    "book": "3-ne",
+    "chapter": 30,
+    "verse": 1,
+    "lines": [
+      {
+        "id": "414:4",
+        "page": 414,
+        "line": 4,
+        "text": "unto",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/414"
+      }
+    ]
+  },
+  {
+    "book": "3-ne",
+    "chapter": 30,
+    "verse": 2,
+    "lines": [
+      {
+        "id": "414:4",
+        "page": 414,
+        "line": 4,
+        "text": "the fulfiling of the",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/414"
+      }
+    ]
+  }
+]

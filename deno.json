@@ -5,7 +5,9 @@
     "dev": "vite",
     "build": "vite build",
     "start": "deno serve -A _fresh/server.js",
-    "update": "deno run -A -r jsr:@fresh/update ."
+    "update": "deno run -A -r jsr:@fresh/update .",
+    "align:om": "deno run -A scripts/align-source.ts om",
+    "align:pm": "deno run -A scripts/align-source.ts pm"
   },
   "lint": {
     "rules": {
