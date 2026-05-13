@@ -90,7 +90,7 @@ export function DiffPage({
   const qs = `?v1=${encodeURIComponent(v1)}&v2=${encodeURIComponent(v2)}`;
 
   return (
-    <main style={{ paddingBottom: "4rem" }}>
+    <main>
       <div style={{ maxWidth: "56rem", margin: "0 auto" }}>
         {/* Sticky header */}
         <div style={{ position: "sticky", top: 0, zIndex: 10 }}>
