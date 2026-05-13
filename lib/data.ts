@@ -22,7 +22,7 @@ export type BookAbbr = typeof BOOK_ORDER[number];
 
 export const BOOK_DISPLAY_NAMES: Record<BookAbbr, string> = {
   "title-page": "Title Page",
-  "witnesses": "Witnesses",
+  "witnesses": "Witness Testimonies",
   "1-ne": "1 Nephi",
   "2-ne": "2 Nephi",
   "jacob": "Jacob",
@@ -41,7 +41,7 @@ export const BOOK_DISPLAY_NAMES: Record<BookAbbr, string> = {
 };
 
 export const BOOK_CHIP_LABELS: Partial<Record<BookAbbr, string>> = {
-  "witnesses": "W",
+  "witnesses": "WT",
   "title-page": "TP",
 };
 
