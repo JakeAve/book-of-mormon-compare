@@ -54,8 +54,6 @@ export function getBookDisplayName(book: string): string {
 }
 
 export const VERSION_DISPLAY_NAMES: Record<string, string> = {
-  "stub": "Stub A",
-  "stub2": "Stub B",
   "2013": "2013 Church of Jesus Christ of Latter-day Saints",
   "om": "Original Manuscript",
   "pm": "Printer's Manuscript",
@@ -146,32 +144,6 @@ export interface VerseLine {
   source?: string;
 }
 
-export const STUB_VERSES: Verse[] = [
-  {
-    chapter: 1,
-    verse: 1,
-    text:
-      "I Nephi having been born of goodly parents therefore I was taught somewhat in all the learning of my father",
-    markdown:
-      "I Nephi having been born of goodly parents therefore I was taught somewhat in all the learning of my father",
-  },
-  {
-    chapter: 1,
-    verse: 2,
-    text:
-      "And it came to pass that he departed into the wilderness and left his house and the land of his inheritance",
-    markdown:
-      "And it came to pass that he departed into the wilderness and left his house and the land of his inheritance",
-  },
-  {
-    chapter: 1,
-    verse: 3,
-    text: "And it came to pass that he traveled three days in the wilderness",
-    markdown:
-      "And it came to pass that he traveled three days in the wilderness",
-  },
-];
-
 export async function getVersions(bomDir = "data/bom"): Promise<string[]> {
   try {
     const entries: string[] = [];
@@ -180,7 +152,7 @@ export async function getVersions(bomDir = "data/bom"): Promise<string[]> {
     }
     return entries.sort();
   } catch {
-    return ["stub"];
+    return [];
   }
 }
 
@@ -188,16 +160,9 @@ export async function loadChapter(
   version: string,
   book: string,
   chapter: string,
+  bomDir = "data/bom",
 ): Promise<Verse[]> {
-  const path = `data/bom/${version}/${book}/${chapter}.json`;
-  if (version === "stub") {
-    try {
-      const text = await Deno.readTextFile(path);
-      return JSON.parse(text) as Verse[];
-    } catch {
-      return STUB_VERSES;
-    }
-  }
+  const path = `${bomDir}/${version}/${book}/${chapter}.json`;
   try {
     const text = await Deno.readTextFile(path);
     const raw = JSON.parse(text) as Array<Verse | AlignedVerse>;
