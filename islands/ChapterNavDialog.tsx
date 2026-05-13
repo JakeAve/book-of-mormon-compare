@@ -57,7 +57,9 @@ export default function ChapterNavDialog(
         type="button"
         onClick={openDialog}
         aria-haspopup="dialog"
-        aria-label={`Navigate to chapter (currently ${displayName} ${chapter})`}
+        aria-label={`Navigate to chapter (currently ${displayName}${
+          book !== "title-page" && book !== "witnesses" ? ` ${chapter}` : ""
+        })`}
         data-tutorial="chapter-nav"
         style={{
           background: "transparent",
@@ -75,35 +77,24 @@ export default function ChapterNavDialog(
         <span
           style={{
             fontSize: "0.9375rem",
-            fontWeight: 700,
+            fontWeight: 600,
             color: "var(--color-header-text)",
           }}
         >
           {displayName}
-        </span>
-        <span
-          style={{ color: "var(--color-header-border)", margin: "0 0.25rem" }}
-        >
-          ·
-        </span>
-        <span
-          style={{
-            fontSize: "0.875rem",
-            fontWeight: 500,
-            color: "var(--color-header-muted)",
-          }}
-        >
-          Chapter {chapter}
-        </span>
-        <span
-          aria-hidden="true"
-          style={{
-            fontSize: "0.75rem",
-            color: "var(--color-header-subtle)",
-            marginLeft: "0.125rem",
-          }}
-        >
-          ▾
+          {book !== "title-page" && book !== "witnesses" && (
+            <>
+              <span
+                style={{
+                  color: "var(--color-header-border)",
+                  margin: "0 0.25rem",
+                }}
+              >
+                ·
+              </span>
+              <span style={{ fontWeight: 500 }}>{chapter}</span>
+            </>
+          )}
         </span>
       </button>
 
