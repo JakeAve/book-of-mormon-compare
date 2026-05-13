@@ -7,7 +7,8 @@
     "start": "deno serve -A _fresh/server.js",
     "update": "deno run -A -r jsr:@fresh/update .",
     "align:om": "deno run -A scripts/align-source.ts om",
-    "align:pm": "deno run -A scripts/align-source.ts pm"
+    "align:pm": "deno run -A scripts/align-source.ts pm",
+    "align:1830": "deno run -A scripts/align-source.ts 1830"
   },
   "lint": {
     "rules": {

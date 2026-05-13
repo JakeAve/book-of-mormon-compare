@@ -59,6 +59,7 @@ export const VERSION_DISPLAY_NAMES: Record<string, string> = {
   "2013": "2013 Church of Jesus Christ of Latter-day Saints",
   "om": "Original Manuscript",
   "pm": "Printer's Manuscript",
+  "1830": "1830 First Edition",
 };
 
 export function getVersionDisplayName(version: string): string {
