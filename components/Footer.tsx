@@ -3,7 +3,7 @@ export default function Footer() {
     <footer
       class="mt-auto px-6 py-8 text-center text-sm font-serif leading-relaxed"
       style={{
-        color: "var(--color-text-muted, var(--color-text))",
+        color: "var(--color-muted)",
         borderTop: "1px solid var(--color-border, currentColor)",
         opacity: 0.6,
       }}
