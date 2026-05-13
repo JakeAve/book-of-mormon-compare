@@ -148,6 +148,7 @@ export function DiffPage({
             }}
           >
             <div
+              data-tutorial="version-selector"
               style={{
                 borderRight: "1px solid var(--color-header-border)",
                 minWidth: 0,
@@ -156,7 +157,12 @@ export function DiffPage({
             >
               {select1}
             </div>
-            <div style={{ minWidth: 0, overflow: "hidden" }}>{select2}</div>
+            <div
+              data-tutorial="version-selector"
+              style={{ minWidth: 0, overflow: "hidden" }}
+            >
+              {select2}
+            </div>
           </div>
         </div>
 

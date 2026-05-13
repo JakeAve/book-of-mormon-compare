@@ -19,7 +19,7 @@
 
   --color-dialog-bg: #fdfaf4;
   --color-dialog-border: #e8e0d0;
-  --color-dialog-overlay: rgba(28, 28, 28, 0.45);
+  --color-dialog-overlay: rgba(28, 28, 28, 0.25);
   --color-chip-bg: #ede8df;
   --color-chip-bg-hover: #e2ddd3;
   --color-chip-active-bg: #1c1c1c;
@@ -50,7 +50,7 @@
 
     --color-dialog-bg: #262626;
     --color-dialog-border: #363636;
-    --color-dialog-overlay: rgba(0, 0, 0, 0.65);
+    --color-dialog-overlay: rgba(0, 0, 0, 0.45);
     --color-chip-bg: #333333;
     --color-chip-bg-hover: #3e3e3e;
     --color-chip-active-bg: #f4f0e8;
@@ -312,7 +312,8 @@ body {
 
 /* DOM element highlight */
 @keyframes tutorial-pulse {
-  0%, 100% {
+  0%,
+  100% {
     box-shadow: 0 0 0 2px var(--color-accent);
   }
   50% {
