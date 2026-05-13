@@ -55,7 +55,8 @@
       "style",
       "base",
       "noscript",
-      "template"
+      "template",
+      "span"
     ],
     "types": [
       "vite/client"
