@@ -1,7 +1,7 @@
 import type { PageProps } from "fresh";
 import Footer from "@/components/Footer.tsx";
 import Header from "@/components/Header.tsx";
-import BetaBanner from "@/islands/BetaBanner.tsx";
+import BetaBanner from "@/components/BetaBanner.tsx";
 
 export default function App({ Component }: PageProps) {
   return (
