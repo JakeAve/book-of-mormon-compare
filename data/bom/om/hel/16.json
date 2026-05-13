@@ -2,6 +2,48 @@
   {
     "book": "hel",
     "chapter": 16,
+    "verse": 1,
+    "lines": [
+      {
+        "id": "202:2",
+        "page": 202,
+        "line": 2,
+        "text": "& now it came to pass that there weremany which heard the words of Samuel the Lamanite which he spake upon",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/202"
+      }
+    ]
+  },
+  {
+    "book": "hel",
+    "chapter": 16,
+    "verse": 2,
+    "lines": [
+      {
+        "id": "202:2",
+        "page": 202,
+        "line": 2,
+        "text": "the walls [p.",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/202"
+      }
+    ]
+  },
+  {
+    "book": "hel",
+    "chapter": 16,
+    "verse": 3,
+    "lines": [
+      {
+        "id": "202:2",
+        "page": 202,
+        "line": 2,
+        "text": "[400]]",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/202"
+      }
+    ]
+  },
+  {
+    "book": "hel",
+    "chapter": 16,
     "verse": 4,
     "lines": [
       {
@@ -100,13 +142,97 @@
   {
     "book": "hel",
     "chapter": 16,
+    "verse": 11,
+    "lines": [
+      {
+        "id": "203:1",
+        "page": 203,
+        "line": 1,
+        "text": "more",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/203"
+      }
+    ]
+  },
+  {
+    "book": "hel",
+    "chapter": 16,
     "verse": 12,
     "lines": [
       {
         "id": "203:1",
         "page": 203,
         "line": 1,
-        "text": "more sircumspectly before God",
+        "text": "sircumspectly before God",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/203"
+      }
+    ]
+  },
+  {
+    "book": "hel",
+    "chapter": 16,
+    "verse": 13,
+    "lines": [
+      {
+        "id": "203:2",
+        "page": 203,
+        "line": 2,
+        "text": "unto the People & wonders & the words of the prophets began to be",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/203"
+      }
+    ]
+  },
+  {
+    "book": "hel",
+    "chapter": 16,
+    "verse": 14,
+    "lines": [
+      {
+        "id": "203:2",
+        "page": 203,
+        "line": 2,
+        "text": "fulfiled & Angels didappear unto men <​wise men​> & did declare unto them glad tidings of great joy & thus in this year theScriptures began to be fulfiled",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/203"
+      }
+    ]
+  },
+  {
+    "book": "hel",
+    "chapter": 16,
+    "verse": 15,
+    "lines": [
+      {
+        "id": "203:2",
+        "page": 203,
+        "line": 2,
+        "text": "nevertheless the People began to harden their",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/203"
+      }
+    ]
+  },
+  {
+    "book": "hel",
+    "chapter": 16,
+    "verse": 16,
+    "lines": [
+      {
+        "id": "203:2",
+        "page": 203,
+        "line": 2,
+        "text": "hearts",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/203"
+      }
+    ]
+  },
+  {
+    "book": "hel",
+    "chapter": 16,
+    "verse": 17,
+    "lines": [
+      {
+        "id": "203:2",
+        "page": 203,
+        "line": 2,
+        "text": "all",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/203"
       }
     ]
@@ -190,7 +316,7 @@
         "id": "204:1",
         "page": 204,
         "line": 1,
-        "text": "& thus ended the Book of Helaman accordingto the Reckord of Helaman",
+        "text": "& thus ended the Book of Helaman accordingto the Reckord of Helaman &",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/204"
       }
     ]

@@ -2,6 +2,13 @@
   {
     "book": "mosiah",
     "chapter": 1,
+    "verse": 0,
+    "text": "The Book of Mosiah",
+    "source": "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/1?lang=eng"
+  },
+  {
+    "book": "mosiah",
+    "chapter": 1,
     "verse": 1,
     "text": "And now there was no more contention in all the land of Zarahemla, among all the people who belonged to king Benjamin, so that king Benjamin had continual peace all the remainder of his days.",
     "source": "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/1?lang=eng&id=p1#p1"

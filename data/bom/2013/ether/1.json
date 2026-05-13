@@ -2,6 +2,13 @@
   {
     "book": "ether",
     "chapter": 1,
+    "verse": 0,
+    "text": "The Book of Ether",
+    "source": "https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/1?lang=eng"
+  },
+  {
+    "book": "ether",
+    "chapter": 1,
     "verse": 1,
     "text": "And now I, Moroni, proceed to give an account of those ancient inhabitants who were destroyed by the hand of the Lord upon the face of this north country.",
     "source": "https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/1?lang=eng&id=p1#p1"

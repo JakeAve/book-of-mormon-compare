@@ -2,8 +2,43 @@
   {
     "book": "3-ne",
     "chapter": 17,
+    "verse": 1,
+    "lines": [
+      {
+        "id": "393:38",
+        "page": 393,
+        "line": 38,
+        "text": "had spoken these words he looked round about again on the multitude & he",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/393"
+      },
+      {
+        "id": "393:39",
+        "page": 393,
+        "line": 39,
+        "text": "saith unto them Behold my time is at hand",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/393"
+      }
+    ]
+  },
+  {
+    "book": "3-ne",
+    "chapter": 17,
     "verse": 2,
     "lines": [
+      {
+        "id": "393:39",
+        "page": 393,
+        "line": 39,
+        "text": "I perceive that ye are weak that ye cannot un",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/393"
+      },
+      {
+        "id": "393:40",
+        "page": 393,
+        "line": 40,
+        "text": "derstand all my words which I am commanded of the Father to speak unto you",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/393"
+      },
       {
         "id": "394:1",
         "page": 394,

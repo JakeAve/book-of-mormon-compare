@@ -2,13 +2,426 @@
   {
     "book": "ether",
     "chapter": 6,
+    "verse": 1,
+    "lines": [
+      {
+        "id": "440:5",
+        "page": 440,
+        "line": 5,
+        "text": "And now I Moroni proceed to give the record of Jared & his brother——",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/440"
+      }
+    ]
+  },
+  {
+    "book": "ether",
+    "chapter": 6,
     "verse": 2,
     "lines": [
       {
-        "id": "440:4",
+        "id": "440:6",
         "page": 440,
-        "line": 4,
-        "text": "day Amen.",
+        "line": 6,
+        "text": "For it came to pass after that the Lord had prepared the stones which the brother of",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/440"
+      },
+      {
+        "id": "440:7",
+        "page": 440,
+        "line": 7,
+        "text": "Jared had carried up into the mount the brother of Jared came down out of the mount & he",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/440"
+      },
+      {
+        "id": "440:8",
+        "page": 440,
+        "line": 8,
+        "text": "did put forth the stones into the vessels which were prepared one in each end thereof &",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/440"
+      },
+      {
+        "id": "440:9",
+        "page": 440,
+        "line": 9,
+        "text": "behold they did give light unto the vessels thereof",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/440"
+      }
+    ]
+  },
+  {
+    "book": "ether",
+    "chapter": 6,
+    "verse": 3,
+    "lines": [
+      {
+        "id": "440:9",
+        "page": 440,
+        "line": 9,
+        "text": "& thus the Lord caused stones to shine",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/440"
+      },
+      {
+        "id": "440:10",
+        "page": 440,
+        "line": 10,
+        "text": "in darkness to give light unto men women & children that they might not cross the great",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/440"
+      },
+      {
+        "id": "440:11",
+        "page": 440,
+        "line": 11,
+        "text": "waters in darkness",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/440"
+      }
+    ]
+  },
+  {
+    "book": "ether",
+    "chapter": 6,
+    "verse": 4,
+    "lines": [
+      {
+        "id": "440:11",
+        "page": 440,
+        "line": 11,
+        "text": "And it came to pass that when they had prepared all manner of food",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/440"
+      },
+      {
+        "id": "440:12",
+        "page": 440,
+        "line": 12,
+        "text": "that thereby they might subsist upon the water & also food for their flocks & herds",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/440"
+      },
+      {
+        "id": "440:13",
+        "page": 440,
+        "line": 13,
+        "text": "& whatsoever beast or animel or fowl that they should carry with them. And it",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/440"
+      },
+      {
+        "id": "440:14",
+        "page": 440,
+        "line": 14,
+        "text": "came to pass that when they had done all these things they got a board of their",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/440"
+      },
+      {
+        "id": "440:15",
+        "page": 440,
+        "line": 15,
+        "text": "vessels or barges & set forth into the sea commending themselves unto the Lord",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/440"
+      },
+      {
+        "id": "440:16",
+        "page": 440,
+        "line": 16,
+        "text": "their God",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/440"
+      }
+    ]
+  },
+  {
+    "book": "ether",
+    "chapter": 6,
+    "verse": 5,
+    "lines": [
+      {
+        "id": "440:16",
+        "page": 440,
+        "line": 16,
+        "text": "And it came to pass that the Lord God caused that there should a furious wind",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/440"
+      },
+      {
+        "id": "440:17",
+        "page": 440,
+        "line": 17,
+        "text": "blow upon the face of the waters towards the promised land & thus they were tos",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/440"
+      },
+      {
+        "id": "440:18",
+        "page": 440,
+        "line": 18,
+        "text": "sed upon the waves of the sea before the wind",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/440"
+      }
+    ]
+  },
+  {
+    "book": "ether",
+    "chapter": 6,
+    "verse": 6,
+    "lines": [
+      {
+        "id": "440:18",
+        "page": 440,
+        "line": 18,
+        "text": "And it came to pass that they were",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/440"
+      },
+      {
+        "id": "440:19",
+        "page": 440,
+        "line": 19,
+        "text": "many times buried in the debths of the sea because of the mountain waves",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/440"
+      },
+      {
+        "id": "440:20",
+        "page": 440,
+        "line": 20,
+        "text": "which broke upon them & also the great & terrible tempests which were caused",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/440"
+      },
+      {
+        "id": "440:21",
+        "page": 440,
+        "line": 21,
+        "text": "by the fierceness of the wind",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/440"
+      }
+    ]
+  },
+  {
+    "book": "ether",
+    "chapter": 6,
+    "verse": 7,
+    "lines": [
+      {
+        "id": "440:21",
+        "page": 440,
+        "line": 21,
+        "text": "& it came to pass that when they were buried in the deep",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/440"
+      },
+      {
+        "id": "440:22",
+        "page": 440,
+        "line": 22,
+        "text": "there was no water that could hurt them their vessels being tight like unto <​a dish",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/440"
+      },
+      {
+        "id": "440:23",
+        "page": 440,
+        "line": 23,
+        "text": "& also they were tight like unto the Ark of Noah therefore when they were encompassed about by many waters they",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/440"
+      },
+      {
+        "id": "440:24",
+        "page": 440,
+        "line": 24,
+        "text": "did cry unto the Lord & he did bring them forth again upon the top of the waters",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/440"
+      }
+    ]
+  },
+  {
+    "book": "ether",
+    "chapter": 6,
+    "verse": 8,
+    "lines": [
+      {
+        "id": "440:24",
+        "page": 440,
+        "line": 24,
+        "text": "& it",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/440"
+      },
+      {
+        "id": "440:25",
+        "page": 440,
+        "line": 25,
+        "text": "came to pass that the wind did never seace to blow towards the promised land while they were upon the waters &",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/440"
+      },
+      {
+        "id": "440:26",
+        "page": 440,
+        "line": 26,
+        "text": "thus they were driven forth before the wind",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/440"
+      }
+    ]
+  },
+  {
+    "book": "ether",
+    "chapter": 6,
+    "verse": 9,
+    "lines": [
+      {
+        "id": "440:26",
+        "page": 440,
+        "line": 26,
+        "text": "& they did sing praises unto the Lord yea",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/440"
+      },
+      {
+        "id": "440:27",
+        "page": 440,
+        "line": 27,
+        "text": "the brother of Jared did sing praises unto the Lord & he did thank & praise the",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/440"
+      },
+      {
+        "id": "440:28",
+        "page": 440,
+        "line": 28,
+        "text": "Lord all the day long & when the night came they did not seace to praise the Lord",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/440"
+      }
+    ]
+  },
+  {
+    "book": "ether",
+    "chapter": 6,
+    "verse": 10,
+    "lines": [
+      {
+        "id": "440:29",
+        "page": 440,
+        "line": 29,
+        "text": "& thus they were driven forth & no monster of the sea could break them neither wh",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/440"
+      },
+      {
+        "id": "440:30",
+        "page": 440,
+        "line": 30,
+        "text": "ale that could mar them & they did have light continually whether it was above",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/440"
+      },
+      {
+        "id": "440:31",
+        "page": 440,
+        "line": 31,
+        "text": "the water or under the water",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/440"
+      }
+    ]
+  },
+  {
+    "book": "ether",
+    "chapter": 6,
+    "verse": 11,
+    "lines": [
+      {
+        "id": "440:31",
+        "page": 440,
+        "line": 31,
+        "text": "& thus they were driven forth three hundred & forty &",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/440"
+      },
+      {
+        "id": "440:32",
+        "page": 440,
+        "line": 32,
+        "text": "four days upon the water",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/440"
+      }
+    ]
+  },
+  {
+    "book": "ether",
+    "chapter": 6,
+    "verse": 12,
+    "lines": [
+      {
+        "id": "440:32",
+        "page": 440,
+        "line": 32,
+        "text": "& they did land upon the shore of the promised land &",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/440"
+      },
+      {
+        "id": "440:33",
+        "page": 440,
+        "line": 33,
+        "text": "when they had set their feet upon the shores of the promised land they bowed them",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/440"
+      },
+      {
+        "id": "440:34",
+        "page": 440,
+        "line": 34,
+        "text": "selves down upon the face of the land & did humble themselves before the Lord &",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/440"
+      },
+      {
+        "id": "440:35",
+        "page": 440,
+        "line": 35,
+        "text": "did shed teers of joy before the Lord because of the multitude of his tender mercies over",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/440"
+      },
+      {
+        "id": "440:36",
+        "page": 440,
+        "line": 36,
+        "text": "them",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/440"
+      }
+    ]
+  },
+  {
+    "book": "ether",
+    "chapter": 6,
+    "verse": 13,
+    "lines": [
+      {
+        "id": "440:36",
+        "page": 440,
+        "line": 36,
+        "text": "And it came to pass that they went forth upon the face of the land & ◊◊gan to",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/440"
+      },
+      {
+        "id": "440:37",
+        "page": 440,
+        "line": 37,
+        "text": "till the earth",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/440"
+      }
+    ]
+  },
+  {
+    "book": "ether",
+    "chapter": 6,
+    "verse": 14,
+    "lines": [
+      {
+        "id": "440:37",
+        "page": 440,
+        "line": 37,
+        "text": "& Jared had four sons & they were called Jacom & Gilgah & Mahah &",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/440"
+      },
+      {
+        "id": "440:38",
+        "page": 440,
+        "line": 38,
+        "text": "Orihah",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/440"
+      }
+    ]
+  },
+  {
+    "book": "ether",
+    "chapter": 6,
+    "verse": 15,
+    "lines": [
+      {
+        "id": "440:38",
+        "page": 440,
+        "line": 38,
+        "text": "& the brother of Jared also begat sons & daughters",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/440"
       }
     ]
@@ -18,6 +431,20 @@
     "chapter": 6,
     "verse": 16,
     "lines": [
+      {
+        "id": "440:38",
+        "page": 440,
+        "line": 38,
+        "text": "& the friends of Jared & his",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/440"
+      },
+      {
+        "id": "440:39",
+        "page": 440,
+        "line": 39,
+        "text": "brother were in number about twenty & two souls & they also begat sons & daugters",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/440"
+      },
       {
         "id": "441:1",
         "page": 441,

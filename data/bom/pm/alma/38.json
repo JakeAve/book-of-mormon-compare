@@ -5,18 +5,32 @@
     "verse": 1,
     "lines": [
       {
-        "id": "270:31",
+        "id": "270:33",
         "page": 270,
-        "line": 31,
-        "text": "be sober my Son farewell—",
+        "line": 33,
+        "text": "My Son give ear to my words for I say unto you even as I said unto He",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/270"
       },
       {
-        "id": "271:1",
-        "page": 271,
-        "line": 1,
-        "text": "because of",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/271"
+        "id": "270:34",
+        "page": 270,
+        "line": 34,
+        "text": "laman that inasmuch as ye shall keep the commandments of God ye shall prosper",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/270"
+      },
+      {
+        "id": "270:35",
+        "page": 270,
+        "line": 35,
+        "text": "in the land & in as much as ye will not keep the commandments of God ye shall be",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/270"
+      },
+      {
+        "id": "270:36",
+        "page": 270,
+        "line": 36,
+        "text": "cutoff from his presance",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/270"
       }
     ]
   },
@@ -26,10 +40,17 @@
     "verse": 2,
     "lines": [
       {
+        "id": "270:36",
+        "page": 270,
+        "line": 36,
+        "text": "& now my Son I trust that I shall have great joy in you",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/270"
+      },
+      {
         "id": "271:1",
         "page": 271,
         "line": 1,
-        "text": "your stediness & your faithfulness unto God for as you have",
+        "text": "because of your stediness & your faithfulness unto God for as you have",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/271"
       },
       {
@@ -443,6 +464,13 @@
         "page": 271,
         "line": 36,
         "text": "my son farewell——",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/271"
+      },
+      {
+        "id": "271:37",
+        "page": 271,
+        "line": 37,
+        "text": "The Commandments of Alma to his Son Corianton",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/271"
       }
     ]

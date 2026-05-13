@@ -2,13 +2,244 @@
   {
     "book": "alma",
     "chapter": 52,
+    "verse": 1,
+    "lines": [
+      {
+        "id": "304:15",
+        "page": 304,
+        "line": 15,
+        "text": "And now it came to pass in the twenty & sixth",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/304"
+      },
+      {
+        "id": "304:16",
+        "page": 304,
+        "line": 16,
+        "text": "year of the reign of the Judges over the people of Nephi behold when the Lama",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/304"
+      },
+      {
+        "id": "304:17",
+        "page": 304,
+        "line": 17,
+        "text": "nites awoke on the first morning of the first month behold they found Ama",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/304"
+      },
+      {
+        "id": "304:18",
+        "page": 304,
+        "line": 18,
+        "text": "lickiah was dead in his own tent & they also saw that Teancum was ready to",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/304"
+      },
+      {
+        "id": "304:19",
+        "page": 304,
+        "line": 19,
+        "text": "give them battle on that day",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/304"
+      }
+    ]
+  },
+  {
+    "book": "alma",
+    "chapter": 52,
     "verse": 2,
     "lines": [
       {
-        "id": "304:14",
+        "id": "304:19",
         "page": 304,
-        "line": 14,
-        "text": "of Amalickiah",
+        "line": 19,
+        "text": "& now when the Lamanites saw this they were",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/304"
+      },
+      {
+        "id": "304:20",
+        "page": 304,
+        "line": 20,
+        "text": "affrighted & they abandoned their design in marching into the land north",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/304"
+      },
+      {
+        "id": "304:21",
+        "page": 304,
+        "line": 21,
+        "text": "ward & retreated with all their army into the city of Mulek & sought",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/304"
+      },
+      {
+        "id": "304:22",
+        "page": 304,
+        "line": 22,
+        "text": "protection in their fortifications",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/304"
+      }
+    ]
+  },
+  {
+    "book": "alma",
+    "chapter": 52,
+    "verse": 3,
+    "lines": [
+      {
+        "id": "304:22",
+        "page": 304,
+        "line": 22,
+        "text": "& it came to pass that the brother of Amalickiah",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/304"
+      },
+      {
+        "id": "304:23",
+        "page": 304,
+        "line": 23,
+        "text": "was appointed king over the people & his name was Ammoron thus king Am",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/304"
+      },
+      {
+        "id": "304:24",
+        "page": 304,
+        "line": 24,
+        "text": "moron the brother of King Amalickiah was appointed to reign in his stead",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/304"
+      }
+    ]
+  },
+  {
+    "book": "alma",
+    "chapter": 52,
+    "verse": 4,
+    "lines": [
+      {
+        "id": "304:24",
+        "page": 304,
+        "line": 24,
+        "text": "&",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/304"
+      },
+      {
+        "id": "304:25",
+        "page": 304,
+        "line": 25,
+        "text": "it came to pass that he did command that his people should maintain",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/304"
+      },
+      {
+        "id": "304:26",
+        "page": 304,
+        "line": 26,
+        "text": "those cities which they had taken by the sheding of blood for they had not",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/304"
+      },
+      {
+        "id": "304:27",
+        "page": 304,
+        "line": 27,
+        "text": "taken any cities save they had lost much blood",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/304"
+      }
+    ]
+  },
+  {
+    "book": "alma",
+    "chapter": 52,
+    "verse": 5,
+    "lines": [
+      {
+        "id": "304:27",
+        "page": 304,
+        "line": 27,
+        "text": "& now Teancum saw that the",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/304"
+      },
+      {
+        "id": "304:28",
+        "page": 304,
+        "line": 28,
+        "text": "Lamanites were determined to maintain those cities which they had taken",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/304"
+      },
+      {
+        "id": "304:29",
+        "page": 304,
+        "line": 29,
+        "text": "& those parts of the land which they had obtained possession off & also seeing",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/304"
+      },
+      {
+        "id": "304:30",
+        "page": 304,
+        "line": 30,
+        "text": "the enormity of their number Teancum thought it was not expediant",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/304"
+      },
+      {
+        "id": "304:31",
+        "page": 304,
+        "line": 31,
+        "text": "that he should attempt to attackt them in their forts",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/304"
+      }
+    ]
+  },
+  {
+    "book": "alma",
+    "chapter": 52,
+    "verse": 6,
+    "lines": [
+      {
+        "id": "304:31",
+        "page": 304,
+        "line": 31,
+        "text": "but he kept his men",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/304"
+      },
+      {
+        "id": "304:32",
+        "page": 304,
+        "line": 32,
+        "text": "round about as if making preperations for war yea & truly he was pre",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/304"
+      },
+      {
+        "id": "304:33",
+        "page": 304,
+        "line": 33,
+        "text": "pareing to defend himself against them by casting up walls round abo",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/304"
+      },
+      {
+        "id": "304:34",
+        "page": 304,
+        "line": 34,
+        "text": "ut & prepareing places of resort",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/304"
+      }
+    ]
+  },
+  {
+    "book": "alma",
+    "chapter": 52,
+    "verse": 7,
+    "lines": [
+      {
+        "id": "304:34",
+        "page": 304,
+        "line": 34,
+        "text": "& it came to pass that he kept thus prepar",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/304"
+      },
+      {
+        "id": "304:35",
+        "page": 304,
+        "line": 35,
+        "text": "eing for war until Moroni had sent a large number of men to streng",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/304"
+      },
+      {
+        "id": "304:36",
+        "page": 304,
+        "line": 36,
+        "text": "then his army",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/304"
       }
     ]
@@ -18,6 +249,20 @@
     "chapter": 52,
     "verse": 8,
     "lines": [
+      {
+        "id": "304:36",
+        "page": 304,
+        "line": 36,
+        "text": "& Moroni also sent orders unto him that he should re",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/304"
+      },
+      {
+        "id": "304:37",
+        "page": 304,
+        "line": 37,
+        "text": "tain all the prisoners which fell into his hands for as the Lamanites",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/304"
+      },
       {
         "id": "305:1",
         "page": 305,

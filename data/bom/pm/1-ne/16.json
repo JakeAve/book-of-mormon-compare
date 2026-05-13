@@ -2,13 +2,132 @@
   {
     "book": "1-ne",
     "chapter": 16,
+    "verse": 1,
+    "lines": [
+      {
+        "id": "32:20",
+        "page": 32,
+        "line": 20,
+        "text": "And now it came to pass that after I Nephi had made an end of speaking",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/32"
+      },
+      {
+        "id": "32:21",
+        "page": 32,
+        "line": 21,
+        "text": "to my Brethren behold they said unto me thou hast declared unto us ha",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/32"
+      },
+      {
+        "id": "32:22",
+        "page": 32,
+        "line": 22,
+        "text": "rd things more then that which we are able to bear",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/32"
+      }
+    ]
+  },
+  {
+    "book": "1-ne",
+    "chapter": 16,
     "verse": 2,
     "lines": [
       {
-        "id": "32:19",
+        "id": "32:22",
         "page": 32,
-        "line": 19,
-        "text": "Brethren Amen",
+        "line": 22,
+        "text": "& it came to pass",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/32"
+      },
+      {
+        "id": "32:23",
+        "page": 32,
+        "line": 23,
+        "text": "that I said unto them that I knew that I had spoken hard things against the",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/32"
+      },
+      {
+        "id": "32:24",
+        "page": 32,
+        "line": 24,
+        "text": "wicked according to the truth & the righteous have I justified & testified",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/32"
+      },
+      {
+        "id": "32:25",
+        "page": 32,
+        "line": 25,
+        "text": "that they should be lifted up at the last day wherefore the guilty taketh the",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/32"
+      },
+      {
+        "id": "32:26",
+        "page": 32,
+        "line": 26,
+        "text": "truth to be hard for it cutteth them to the verry centre &",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/32"
+      }
+    ]
+  },
+  {
+    "book": "1-ne",
+    "chapter": 16,
+    "verse": 3,
+    "lines": [
+      {
+        "id": "32:26",
+        "page": 32,
+        "line": 26,
+        "text": "now my Breth",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/32"
+      },
+      {
+        "id": "32:27",
+        "page": 32,
+        "line": 27,
+        "text": "ren if ye were righteous & were willing to hearken to the truth & give",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/32"
+      },
+      {
+        "id": "32:28",
+        "page": 32,
+        "line": 28,
+        "text": "heed unto it that ye might walk uprightly before God then ye wo",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/32"
+      },
+      {
+        "id": "32:29",
+        "page": 32,
+        "line": 29,
+        "text": "uld not murmur because of the truth & say thou speakest hard things",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/32"
+      },
+      {
+        "id": "32:30",
+        "page": 32,
+        "line": 30,
+        "text": "against us",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/32"
+      }
+    ]
+  },
+  {
+    "book": "1-ne",
+    "chapter": 16,
+    "verse": 4,
+    "lines": [
+      {
+        "id": "32:30",
+        "page": 32,
+        "line": 30,
+        "text": "& it came to pass that I Nephi did exhort my Brethren with",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/32"
+      },
+      {
+        "id": "32:31",
+        "page": 32,
+        "line": 31,
+        "text": "all diligence to keep the commandments of the Lord",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/32"
       }
     ]
@@ -19,11 +138,53 @@
     "verse": 5,
     "lines": [
       {
-        "id": "33:1",
-        "page": 33,
-        "line": 1,
-        "text": "elder",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/33"
+        "id": "32:31",
+        "page": 32,
+        "line": 31,
+        "text": "& it came to pass th",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/32"
+      },
+      {
+        "id": "32:32",
+        "page": 32,
+        "line": 32,
+        "text": "at they did humble themselves before the Lord insomuch that I had",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/32"
+      },
+      {
+        "id": "32:33",
+        "page": 32,
+        "line": 33,
+        "text": "joy & great hopes of them that they would walk in the paths of righteous",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/32"
+      },
+      {
+        "id": "32:34",
+        "page": 32,
+        "line": 34,
+        "text": "ness",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/32"
+      }
+    ]
+  },
+  {
+    "book": "1-ne",
+    "chapter": 16,
+    "verse": 6,
+    "lines": [
+      {
+        "id": "32:34",
+        "page": 32,
+        "line": 34,
+        "text": "now all these things were said & done as my father dwelt in a tent",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/32"
+      },
+      {
+        "id": "32:35",
+        "page": 32,
+        "line": 35,
+        "text": "in the vally which he called Lemuel",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/32"
       }
     ]
   },
@@ -33,10 +194,31 @@
     "verse": 7,
     "lines": [
       {
+        "id": "32:35",
+        "page": 32,
+        "line": 35,
+        "text": "& it came to pass that I Nephi",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/32"
+      },
+      {
+        "id": "32:36",
+        "page": 32,
+        "line": 36,
+        "text": "took one of the Daughters of Ishmael to wife & also my Brethren took",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/32"
+      },
+      {
+        "id": "32:37",
+        "page": 32,
+        "line": 37,
+        "text": "of the daughters of Ishmael to wife & also Zoram took the",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/32"
+      },
+      {
         "id": "33:1",
         "page": 33,
         "line": 1,
-        "text": "daughter of Ishmael to wife",
+        "text": "elder daughter of Ishmael to wife",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/33"
       }
     ]

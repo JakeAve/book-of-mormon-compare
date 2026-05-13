@@ -2,13 +2,370 @@
   {
     "book": "1-ne",
     "chapter": 10,
+    "verse": 1,
+    "lines": [
+      {
+        "id": "12:11",
+        "page": 12,
+        "line": 11,
+        "text": "and now i ne phi proseed to give an account uppon these",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
+      },
+      {
+        "id": "12:12",
+        "page": 12,
+        "line": 12,
+        "text": "plates of my prosedings and my rein and ministry where",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
+      },
+      {
+        "id": "12:13",
+        "page": 12,
+        "line": 13,
+        "text": "fore to proseed with mine acount i must speak somewhat",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
+      },
+      {
+        "id": "12:14",
+        "page": 12,
+        "line": 14,
+        "text": "of the things of my father and also of my bretheren",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
+      }
+    ]
+  },
+  {
+    "book": "1-ne",
+    "chapter": 10,
     "verse": 2,
     "lines": [
       {
-        "id": "12:9",
+        "id": "12:14",
         "page": 12,
-        "line": 9,
-        "text": "and thus it is amen",
+        "line": 14,
+        "text": "for",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
+      },
+      {
+        "id": "12:15",
+        "page": 12,
+        "line": 15,
+        "text": "behold it came to pass that after my father had made an",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
+      },
+      {
+        "id": "12:16",
+        "page": 12,
+        "line": 16,
+        "text": "End of Speaking the words of his dream and also of exort",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
+      },
+      {
+        "id": "12:17",
+        "page": 12,
+        "line": 17,
+        "text": "ing them to all dilagence he spake unto them conserning",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
+      },
+      {
+        "id": "12:18",
+        "page": 12,
+        "line": 18,
+        "text": "the jews how that after they ware destroyd ye[a] even th",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
+      }
+    ]
+  },
+  {
+    "book": "1-ne",
+    "chapter": 10,
+    "verse": 3,
+    "lines": [
+      {
+        "id": "12:19",
+        "page": 12,
+        "line": 19,
+        "text": "at great city jerusalem and that many ware carried away",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
+      },
+      {
+        "id": "12:20",
+        "page": 12,
+        "line": 20,
+        "text": "captive int[o] babalon that according to the own due time of",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
+      },
+      {
+        "id": "12:21",
+        "page": 12,
+        "line": 21,
+        "text": "the lord they should return again yea even be braught back",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
+      },
+      {
+        "id": "12:22",
+        "page": 12,
+        "line": 22,
+        "text": "out of captivity and after that they are braught back out",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
+      },
+      {
+        "id": "12:23",
+        "page": 12,
+        "line": 23,
+        "text": "of captivity to possess again their land of inherritanc",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
+      },
+      {
+        "id": "12:24",
+        "page": 12,
+        "line": 24,
+        "text": "e",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
+      }
+    ]
+  },
+  {
+    "book": "1-ne",
+    "chapter": 10,
+    "verse": 4,
+    "lines": [
+      {
+        "id": "12:24",
+        "page": 12,
+        "line": 24,
+        "text": "yea even six hundred years fron the time that my",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
+      },
+      {
+        "id": "12:25",
+        "page": 12,
+        "line": 25,
+        "text": "father left jerusalen a prophet would the lord god r",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
+      },
+      {
+        "id": "12:26",
+        "page": 12,
+        "line": 26,
+        "text": "ais up among the jews yea even a masiah or in other",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
+      },
+      {
+        "id": "12:27",
+        "page": 12,
+        "line": 27,
+        "text": "words a saviour of the world",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
+      }
+    ]
+  },
+  {
+    "book": "1-ne",
+    "chapter": 10,
+    "verse": 5,
+    "lines": [
+      {
+        "id": "12:27",
+        "page": 12,
+        "line": 27,
+        "text": "and he also spake conserni",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
+      },
+      {
+        "id": "12:28",
+        "page": 12,
+        "line": 28,
+        "text": "ng the prophets how great a number had testafied of thes",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
+      },
+      {
+        "id": "12:29",
+        "page": 12,
+        "line": 29,
+        "text": "e things conserning this masiah of which he had spoken",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
+      },
+      {
+        "id": "12:30",
+        "page": 12,
+        "line": 30,
+        "text": "or this redemer of the world",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
+      }
+    ]
+  },
+  {
+    "book": "1-ne",
+    "chapter": 10,
+    "verse": 6,
+    "lines": [
+      {
+        "id": "12:30",
+        "page": 12,
+        "line": 30,
+        "text": "wherefore all man kind was",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
+      },
+      {
+        "id": "12:31",
+        "page": 12,
+        "line": 31,
+        "text": "in a lost and in a fallen state and ever would be save",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
+      },
+      {
+        "id": "12:32",
+        "page": 12,
+        "line": 32,
+        "text": "they should rely on this redemer",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
+      }
+    ]
+  },
+  {
+    "book": "1-ne",
+    "chapter": 10,
+    "verse": 7,
+    "lines": [
+      {
+        "id": "12:32",
+        "page": 12,
+        "line": 32,
+        "text": "and he spake also",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
+      },
+      {
+        "id": "12:33",
+        "page": 12,
+        "line": 33,
+        "text": "conserning a prophet which should come before the",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
+      },
+      {
+        "id": "12:34",
+        "page": 12,
+        "line": 34,
+        "text": "masiah to prepare the way of the lord",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
+      }
+    ]
+  },
+  {
+    "book": "1-ne",
+    "chapter": 10,
+    "verse": 8,
+    "lines": [
+      {
+        "id": "12:34",
+        "page": 12,
+        "line": 34,
+        "text": "yea even",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
+      },
+      {
+        "id": "12:35",
+        "page": 12,
+        "line": 35,
+        "text": "he should go forth and cry in the wilderness prepar",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
+      },
+      {
+        "id": "12:36",
+        "page": 12,
+        "line": 36,
+        "text": "e ye the way of the lord and make his paths strait for",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
+      },
+      {
+        "id": "12:37",
+        "page": 12,
+        "line": 37,
+        "text": "ther standeth one among you whome ye no not and",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
+      },
+      {
+        "id": "12:38",
+        "page": 12,
+        "line": 38,
+        "text": "he is mightyer then i whose shoes latchet i am not",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
+      },
+      {
+        "id": "12:39",
+        "page": 12,
+        "line": 39,
+        "text": "worthy to unloos and much spake my father consern",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
+      },
+      {
+        "id": "12:40",
+        "page": 12,
+        "line": 40,
+        "text": "ing this thing",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
+      }
+    ]
+  },
+  {
+    "book": "1-ne",
+    "chapter": 10,
+    "verse": 9,
+    "lines": [
+      {
+        "id": "12:40",
+        "page": 12,
+        "line": 40,
+        "text": "and my father saith that he sould bap",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
+      },
+      {
+        "id": "12:41",
+        "page": 12,
+        "line": 41,
+        "text": "tise in bethebara beyond jordan and he also spake that",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
+      },
+      {
+        "id": "12:42",
+        "page": 12,
+        "line": 42,
+        "text": "he should baptise with water yea even that he should",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
+      },
+      {
+        "id": "12:43",
+        "page": 12,
+        "line": 43,
+        "text": "baptise the masiah with water and after that he had ba",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
+      }
+    ]
+  },
+  {
+    "book": "1-ne",
+    "chapter": 10,
+    "verse": 10,
+    "lines": [
+      {
+        "id": "12:44",
+        "page": 12,
+        "line": 44,
+        "text": "ptised the masiah with water he should behold and bare",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
+      },
+      {
+        "id": "12:45",
+        "page": 12,
+        "line": 45,
+        "text": "record that he had baptised the lam of god which shou",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
+      },
+      {
+        "id": "12:46",
+        "page": 12,
+        "line": 46,
+        "text": "ld take away the sin of the world and it came to pass",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
       }
     ]
@@ -18,6 +375,55 @@
     "chapter": 10,
     "verse": 11,
     "lines": [
+      {
+        "id": "12:47",
+        "page": 12,
+        "line": 47,
+        "text": "that after my father had spoken these words he spake",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
+      },
+      {
+        "id": "12:48",
+        "page": 12,
+        "line": 48,
+        "text": "unto my brethren conserning the gospel which should",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
+      },
+      {
+        "id": "12:49",
+        "page": 12,
+        "line": 49,
+        "text": "be preached among the jews and also conserning the",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
+      },
+      {
+        "id": "12:50",
+        "page": 12,
+        "line": 50,
+        "text": "Dwindling of the jews in unbelief and after that they",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
+      },
+      {
+        "id": "12:51",
+        "page": 12,
+        "line": 51,
+        "text": "had slain the masiah which should come and after",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
+      },
+      {
+        "id": "12:52",
+        "page": 12,
+        "line": 52,
+        "text": "that he had been slain he should rise from the ded",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
+      },
+      {
+        "id": "12:53",
+        "page": 12,
+        "line": 53,
+        "text": "And should make himself manafest by the holy gost",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
+      },
       {
         "id": "13:1",
         "page": 13,

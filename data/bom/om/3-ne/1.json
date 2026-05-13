@@ -2,13 +2,20 @@
   {
     "book": "3-ne",
     "chapter": 1,
-    "verse": 2,
+    "verse": 0,
     "lines": [
       {
         "id": "204:1",
         "page": 204,
         "line": 1,
-        "text": "& his Sons",
+        "text": "his Sons",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/204"
+      },
+      {
+        "id": "204:2",
+        "page": 204,
+        "line": 2,
+        "text": "The Book of Nephi the Son of Nephi which was the Son of",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/204"
       }
     ]
@@ -16,7 +23,70 @@
   {
     "book": "3-ne",
     "chapter": 1,
-    "verse": 8,
+    "verse": 1,
+    "lines": [
+      {
+        "id": "204:2",
+        "page": 204,
+        "line": 2,
+        "text": "Helaman",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/204"
+      },
+      {
+        "id": "204:3",
+        "page": 204,
+        "line": 3,
+        "text": "had passed away & it was six hundred years from the time that Lehi left Jerusalem& it was in the year that Lachoneus was the Chief Judge & the Governor over the land& Nephi",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/204"
+      }
+    ]
+  },
+  {
+    "book": "3-ne",
+    "chapter": 1,
+    "verse": 2,
+    "lines": [
+      {
+        "id": "204:3",
+        "page": 204,
+        "line": 3,
+        "text": "the Son of Helaman had departed out of the land of Zarahemla giveing Chargeunto his Son Nephi which was his eldest Son concerning the plates",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/204"
+      }
+    ]
+  },
+  {
+    "book": "3-ne",
+    "chapter": 1,
+    "verse": 3,
+    "lines": [
+      {
+        "id": "204:3",
+        "page": 204,
+        "line": 3,
+        "text": "of",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/204"
+      }
+    ]
+  },
+  {
+    "book": "3-ne",
+    "chapter": 1,
+    "verse": 4,
+    "lines": [
+      {
+        "id": "204:3",
+        "page": 204,
+        "line": 3,
+        "text": "Brass & all",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/204"
+      }
+    ]
+  },
+  {
+    "book": "3-ne",
+    "chapter": 1,
+    "verse": 9,
     "lines": [
       {
         "id": "205:1",
@@ -92,7 +162,7 @@
         "id": "205:1",
         "page": 205,
         "line": 1,
-        "text": "come untomy own to fulfil all things which I have made known unto the Children of men from thefoundation of the world & to do the will both of the Father & of the",
+        "text": "come untomy own to fulfil all things which I have made known unto the Children of men from thefoundation of the world & to do the will both of the Father & of the Son",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/205"
       }
     ]
@@ -106,7 +176,7 @@
         "id": "205:1",
         "page": 205,
         "line": 1,
-        "text": "Son",
+        "text": "of the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/205"
       }
     ]
@@ -117,10 +187,59 @@
     "verse": 16,
     "lines": [
       {
-        "id": "205:1",
+        "id": "205:2",
         "page": 205,
-        "line": 1,
-        "text": "of the",
+        "line": 2,
+        "text": "which they had laid for those who believed in <​the words of​> the Prophets had been frustrated for thesign which had been given was already at hand",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/205"
+      }
+    ]
+  },
+  {
+    "book": "3-ne",
+    "chapter": 1,
+    "verse": 17,
+    "lines": [
+      {
+        "id": "205:2",
+        "page": 205,
+        "line": 2,
+        "text": "& they began to know that the Son of God",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/205"
+      },
+      {
+        "id": "205:3",
+        "page": 205,
+        "line": 3,
+        "text": "whole Earth from the West to the East both in the land North",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/205"
+      }
+    ]
+  },
+  {
+    "book": "3-ne",
+    "chapter": 1,
+    "verse": 18,
+    "lines": [
+      {
+        "id": "205:3",
+        "page": 205,
+        "line": 3,
+        "text": "&",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/205"
+      }
+    ]
+  },
+  {
+    "book": "3-ne",
+    "chapter": 1,
+    "verse": 19,
+    "lines": [
+      {
+        "id": "205:3",
+        "page": 205,
+        "line": 3,
+        "text": "in the land South",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/205"
       }
     ]
@@ -176,7 +295,21 @@
         "id": "206:1",
         "page": 206,
         "line": 1,
-        "text": "& it came to pass that the ninety & third year did",
+        "text": "& it came to pass that the ninety & third year did also pass",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/206"
+      }
+    ]
+  },
+  {
+    "book": "3-ne",
+    "chapter": 1,
+    "verse": 28,
+    "lines": [
+      {
+        "id": "206:2",
+        "page": 206,
+        "line": 2,
+        "text": "Nephites which did remain in the land",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/206"
       }
     ]
@@ -187,10 +320,17 @@
     "verse": 29,
     "lines": [
       {
-        "id": "206:1",
+        "id": "206:2",
         "page": 206,
-        "line": 1,
-        "text": "also pass",
+        "line": 2,
+        "text": "& there was also a cause of much sorrowamong the Lamanites for behold they had many Children which did grow up &",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/206"
+      },
+      {
+        "id": "206:3",
+        "page": 206,
+        "line": 3,
+        "text": "by some which were Zoramites by their lieings & their flattering words",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/206"
       }
     ]

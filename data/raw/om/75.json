@@ -96,5 +96,19 @@
     "chapter": 75,
     "verse": 14,
     "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/75"
+  },
+  {
+    "text": "The Book of Enos Chapter first",
+    "markdown": "{{ The Book of Enos Chapter}} first",
+    "chapter": 75,
+    "verse": 15,
+    "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/75"
+  },
+  {
+    "text": "Behold it came to pass that I Enos knowing my father that he was a",
+    "markdown": "{{Behold it came to pass that I Enos}} knowing my father that he {{was a}}",
+    "chapter": 75,
+    "verse": 16,
+    "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/75"
   }
 ]

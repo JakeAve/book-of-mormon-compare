@@ -2,29 +2,8 @@
   {
     "book": "1-ne",
     "chapter": 1,
-    "verse": 1,
+    "verse": 0,
     "lines": [
-      {
-        "id": "2:1",
-        "page": 2,
-        "line": 1,
-        "text": "[] [p.",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/2"
-      },
-      {
-        "id": "3:1",
-        "page": 3,
-        "line": 1,
-        "text": "Preface",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/3"
-      },
-      {
-        "id": "4:1",
-        "page": 4,
-        "line": 1,
-        "text": "[] [p.",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/4"
-      },
       {
         "id": "5:1",
         "page": 5,
@@ -120,7 +99,21 @@
         "id": "5:14",
         "page": 5,
         "line": 14,
-        "text": "or in other words I Nephi wrote this record— I Nephi haveing been",
+        "text": "or in other words I Nephi wrote this record—",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/5"
+      }
+    ]
+  },
+  {
+    "book": "1-ne",
+    "chapter": 1,
+    "verse": 1,
+    "lines": [
+      {
+        "id": "5:14",
+        "page": 5,
+        "line": 14,
+        "text": "I Nephi haveing been",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/5"
       },
       {

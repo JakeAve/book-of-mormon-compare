@@ -2,6 +2,62 @@
   {
     "book": "ether",
     "chapter": 6,
+    "verse": 1,
+    "lines": [
+      {
+        "id": "219:4",
+        "page": 219,
+        "line": 4,
+        "text": "kord of Jared & his Brother",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/219"
+      }
+    ]
+  },
+  {
+    "book": "ether",
+    "chapter": 6,
+    "verse": 2,
+    "lines": [
+      {
+        "id": "219:4",
+        "page": 219,
+        "line": 4,
+        "text": "for it came to pass after that the Lord had preparedthe stones which the Brother of Jared had carried up into the mount the Brother ofJared came down out of the mount & he did put forth the stones into the vessels which were prepared one in each end thereof & behold they did give light unto the vessels thereof",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/219"
+      }
+    ]
+  },
+  {
+    "book": "ether",
+    "chapter": 6,
+    "verse": 3,
+    "lines": [
+      {
+        "id": "219:4",
+        "page": 219,
+        "line": 4,
+        "text": "& thus the Lord caused stones to shine in darknessto give light unto men women & Children that they might not cross",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/219"
+      }
+    ]
+  },
+  {
+    "book": "ether",
+    "chapter": 6,
+    "verse": 5,
+    "lines": [
+      {
+        "id": "219:4",
+        "page": 219,
+        "line": 4,
+        "text": "the great",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/219"
+      }
+    ]
+  },
+  {
+    "book": "ether",
+    "chapter": 6,
     "verse": 16,
     "lines": [
       {
@@ -36,7 +92,28 @@
         "id": "220:1",
         "page": 220,
         "line": 1,
-        "text": "& the Brother of Jared began to be old & saw that he must soongo down to the grave wherefore he saith unto Jared let us",
+        "text": "& the Brother of Jared began to be old & saw that he must soongo down to the grave wherefore he saith unto Jared let us gather together",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/220"
+      }
+    ]
+  },
+  {
+    "book": "ether",
+    "chapter": 6,
+    "verse": 20,
+    "lines": [
+      {
+        "id": "220:1",
+        "page": 220,
+        "line": 1,
+        "text": "our",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/220"
+      },
+      {
+        "id": "220:2",
+        "page": 220,
+        "line": 2,
+        "text": "twenty & two souls & the number of the Sons & daughters of Jared were twelve he haveing four Sons",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/220"
       }
     ]
@@ -47,10 +124,192 @@
     "verse": 21,
     "lines": [
       {
-        "id": "220:1",
+        "id": "220:2",
         "page": 220,
-        "line": 1,
-        "text": "gather together our",
+        "line": 2,
+        "text": "& it came to pass that they did number their People",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/220"
+      },
+      {
+        "id": "220:3",
+        "page": 220,
+        "line": 3,
+        "text": "& after that they had numbered them they did desire of them the things which they",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/220"
+      },
+      {
+        "id": "220:4",
+        "page": 220,
+        "line": 4,
+        "text": "would that they should do before they went down to their graves",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/220"
+      }
+    ]
+  },
+  {
+    "book": "ether",
+    "chapter": 6,
+    "verse": 22,
+    "lines": [
+      {
+        "id": "220:4",
+        "page": 220,
+        "line": 4,
+        "text": "& it came to pass",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/220"
+      },
+      {
+        "id": "220:5",
+        "page": 220,
+        "line": 5,
+        "text": "that the People desired of them that they should annoint one of their Sons to be a",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/220"
+      },
+      {
+        "id": "220:6",
+        "page": 220,
+        "line": 6,
+        "text": "King over them",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/220"
+      }
+    ]
+  },
+  {
+    "book": "ether",
+    "chapter": 6,
+    "verse": 23,
+    "lines": [
+      {
+        "id": "220:6",
+        "page": 220,
+        "line": 6,
+        "text": "& now behold this was grievious unto them but the Brother of",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/220"
+      },
+      {
+        "id": "220:7",
+        "page": 220,
+        "line": 7,
+        "text": "Jared said unto them surely this thing leadeth into captivity",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/220"
+      }
+    ]
+  },
+  {
+    "book": "ether",
+    "chapter": 6,
+    "verse": 24,
+    "lines": [
+      {
+        "id": "220:7",
+        "page": 220,
+        "line": 7,
+        "text": "but Jared said un",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/220"
+      },
+      {
+        "id": "220:8",
+        "page": 220,
+        "line": 8,
+        "text": "to his Brother suffer them that they may have a King & therefore he said unto them",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/220"
+      },
+      {
+        "id": "220:9",
+        "page": 220,
+        "line": 9,
+        "text": "chose ye out from among our Sons a King even whom ye will",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/220"
+      }
+    ]
+  },
+  {
+    "book": "ether",
+    "chapter": 6,
+    "verse": 25,
+    "lines": [
+      {
+        "id": "220:9",
+        "page": 220,
+        "line": 9,
+        "text": "& it came to pass that they",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/220"
+      },
+      {
+        "id": "220:10",
+        "page": 220,
+        "line": 10,
+        "text": "chose even the first born of the Brother of Jared & his name was Pagag & it came to pass that he refused & would not be their King & the People would that his father shou",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/220"
+      },
+      {
+        "id": "220:11",
+        "page": 220,
+        "line": 11,
+        "text": "ld constrain him but his father would not & he commanded them that they sh",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/220"
+      },
+      {
+        "id": "220:12",
+        "page": 220,
+        "line": 12,
+        "text": "ould constrain no man to be their King",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/220"
+      }
+    ]
+  },
+  {
+    "book": "ether",
+    "chapter": 6,
+    "verse": 26,
+    "lines": [
+      {
+        "id": "220:12",
+        "page": 220,
+        "line": 12,
+        "text": "& it came to pass that they chose all the",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/220"
+      },
+      {
+        "id": "220:13",
+        "page": 220,
+        "line": 13,
+        "text": "Brothers of Pagag & they would not",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/220"
+      }
+    ]
+  },
+  {
+    "book": "ether",
+    "chapter": 6,
+    "verse": 27,
+    "lines": [
+      {
+        "id": "220:13",
+        "page": 220,
+        "line": 13,
+        "text": "& it came to pass that neither would the Sons",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/220"
+      },
+      {
+        "id": "220:14",
+        "page": 220,
+        "line": 14,
+        "text": "of Jared even all save it were one & Orihah he was annointed to be",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/220"
+      }
+    ]
+  },
+  {
+    "book": "ether",
+    "chapter": 6,
+    "verse": 29,
+    "lines": [
+      {
+        "id": "220:14",
+        "page": 220,
+        "line": 14,
+        "text": "King over",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/220"
       }
     ]

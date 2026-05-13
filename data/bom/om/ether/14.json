@@ -2,6 +2,34 @@
   {
     "book": "ether",
     "chapter": 14,
+    "verse": 1,
+    "lines": [
+      {
+        "id": "229:11",
+        "page": 229,
+        "line": 11,
+        "text": "&",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/229"
+      }
+    ]
+  },
+  {
+    "book": "ether",
+    "chapter": 14,
+    "verse": 2,
+    "lines": [
+      {
+        "id": "229:11",
+        "page": 229,
+        "line": 11,
+        "text": "there was none to constrain them & now there",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/229"
+      }
+    ]
+  },
+  {
+    "book": "ether",
+    "chapter": 14,
     "verse": 15,
     "lines": [
       {
@@ -36,7 +64,224 @@
         "id": "230:1",
         "page": 230,
         "line": 1,
-        "text": "now the",
+        "text": "now",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/230"
+      }
+    ]
+  },
+  {
+    "book": "ether",
+    "chapter": 14,
+    "verse": 19,
+    "lines": [
+      {
+        "id": "230:1",
+        "page": 230,
+        "line": 1,
+        "text": "the",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/230"
+      },
+      {
+        "id": "230:2",
+        "page": 230,
+        "line": 2,
+        "text": "land",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/230"
+      }
+    ]
+  },
+  {
+    "book": "ether",
+    "chapter": 14,
+    "verse": 20,
+    "lines": [
+      {
+        "id": "230:2",
+        "page": 230,
+        "line": 2,
+        "text": "& they were divided & a part of them fled to the army of Shiz & a part of them fled to the",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/230"
+      },
+      {
+        "id": "230:3",
+        "page": 230,
+        "line": 3,
+        "text": "army of Coriantumr",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/230"
+      }
+    ]
+  },
+  {
+    "book": "ether",
+    "chapter": 14,
+    "verse": 21,
+    "lines": [
+      {
+        "id": "230:3",
+        "page": 230,
+        "line": 3,
+        "text": "& so great & lasting had been the war & so long had been the scene of",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/230"
+      },
+      {
+        "id": "230:4",
+        "page": 230,
+        "line": 4,
+        "text": "bloodshed & Carnage that the whole face of the land was covered with the bodies of the de",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/230"
+      },
+      {
+        "id": "230:5",
+        "page": 230,
+        "line": 5,
+        "text": "ad",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/230"
+      }
+    ]
+  },
+  {
+    "book": "ether",
+    "chapter": 14,
+    "verse": 22,
+    "lines": [
+      {
+        "id": "230:5",
+        "page": 230,
+        "line": 5,
+        "text": "& so swift & speady was the war that there was none left to bury the dead but th",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/230"
+      },
+      {
+        "id": "230:6",
+        "page": 230,
+        "line": 6,
+        "text": "ey did march forth from the shedding of blood to the shedding of blood leaveing the",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/230"
+      },
+      {
+        "id": "230:7",
+        "page": 230,
+        "line": 7,
+        "text": "bodies of both men women & children strewed upon the face of the land to be",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/230"
+      },
+      {
+        "id": "230:8",
+        "page": 230,
+        "line": 8,
+        "text": "come a prey to the worms of the flesh",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/230"
+      }
+    ]
+  },
+  {
+    "book": "ether",
+    "chapter": 14,
+    "verse": 23,
+    "lines": [
+      {
+        "id": "230:8",
+        "page": 230,
+        "line": 8,
+        "text": "& the Scent thereof went forth upon <​the face of​> the land",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/230"
+      },
+      {
+        "id": "230:9",
+        "page": 230,
+        "line": 9,
+        "text": "even upon all the face of the land wherefore the people became troubled by day & by night be",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/230"
+      },
+      {
+        "id": "230:10",
+        "page": 230,
+        "line": 10,
+        "text": "cause of the Scent thereof",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/230"
+      }
+    ]
+  },
+  {
+    "book": "ether",
+    "chapter": 14,
+    "verse": 24,
+    "lines": [
+      {
+        "id": "230:10",
+        "page": 230,
+        "line": 10,
+        "text": "nevertheless Shiz did not cease to persue Coriantumr for he had",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/230"
+      },
+      {
+        "id": "230:11",
+        "page": 230,
+        "line": 11,
+        "text": "swoarn to avenge himself upon Coriantumr of the blood of his Brother which had been s",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/230"
+      },
+      {
+        "id": "230:12",
+        "page": 230,
+        "line": 12,
+        "text": "lain & the word of the Lord which came to Ether that Coriantumr should not fall by the sword",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/230"
+      }
+    ]
+  },
+  {
+    "book": "ether",
+    "chapter": 14,
+    "verse": 25,
+    "lines": [
+      {
+        "id": "230:12",
+        "page": 230,
+        "line": 12,
+        "text": "& thus we see that the Lord did visit them in the fullness of his wrath & their wickedness & abominations had prepared away for their everlasting destruction",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/230"
+      }
+    ]
+  },
+  {
+    "book": "ether",
+    "chapter": 14,
+    "verse": 26,
+    "lines": [
+      {
+        "id": "230:12",
+        "page": 230,
+        "line": 12,
+        "text": "& it cameto pass that Shiz did persue Coriantumr eastward even to the borders by the Sea Shore& there he gave Battle unto Shiz for the space of three days &",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/230"
+      }
+    ]
+  },
+  {
+    "book": "ether",
+    "chapter": 14,
+    "verse": 27,
+    "lines": [
+      {
+        "id": "230:12",
+        "page": 230,
+        "line": 12,
+        "text": "so terrible",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/230"
+      }
+    ]
+  },
+  {
+    "book": "ether",
+    "chapter": 14,
+    "verse": 29,
+    "lines": [
+      {
+        "id": "230:12",
+        "page": 230,
+        "line": 12,
+        "text": "was the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/230"
       }
     ]

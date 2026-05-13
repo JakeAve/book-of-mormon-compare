@@ -268,13 +268,69 @@
   {
     "book": "ether",
     "chapter": 9,
+    "verse": 30,
+    "lines": [
+      {
+        "id": "224:1",
+        "page": 224,
+        "line": 1,
+        "text": "to",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/224"
+      }
+    ]
+  },
+  {
+    "book": "ether",
+    "chapter": 9,
     "verse": 31,
     "lines": [
       {
         "id": "224:1",
         "page": 224,
         "line": 1,
-        "text": "to perish",
+        "text": "perish",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/224"
+      }
+    ]
+  },
+  {
+    "book": "ether",
+    "chapter": 9,
+    "verse": 33,
+    "lines": [
+      {
+        "id": "224:2",
+        "page": 224,
+        "line": 2,
+        "text": "hedge up the way that the People could not pass that whoso should attempt to pass might fall by the poisonous serpants",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/224"
+      }
+    ]
+  },
+  {
+    "book": "ether",
+    "chapter": 9,
+    "verse": 34,
+    "lines": [
+      {
+        "id": "224:2",
+        "page": 224,
+        "line": 2,
+        "text": "& it came to pass that the People did follow thecourse of the beasts & did devour the carcases of them which fell by the way untill they had devoured them all now when the people saw that they must perish they began to repentof their iniquities & cry unto the Lord",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/224"
+      }
+    ]
+  },
+  {
+    "book": "ether",
+    "chapter": 9,
+    "verse": 35,
+    "lines": [
+      {
+        "id": "224:2",
+        "page": 224,
+        "line": 2,
+        "text": "& it came to pass that when they had humbled themselves sufficiently before the Lord the Lord did send rain upon the face ofthe earth & the People began to revive again & there began to be fruit in the North countries & in all the Countries around about & the Lord did shew forth his Powerunto them in preserveing them from famine",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/224"
       }
     ]

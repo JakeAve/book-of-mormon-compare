@@ -2,6 +2,13 @@
   {
     "book": "jarom",
     "chapter": 1,
+    "verse": 0,
+    "text": "The Book of Jarom",
+    "source": "https://www.churchofjesuschrist.org/study/scriptures/bofm/jarom/1?lang=eng"
+  },
+  {
+    "book": "jarom",
+    "chapter": 1,
     "verse": 1,
     "text": "Now behold, I, Jarom, write a few words according to the commandment of my father, Enos, that our genealogy may be kept.",
     "source": "https://www.churchofjesuschrist.org/study/scriptures/bofm/jarom/1?lang=eng&id=p1#p1"

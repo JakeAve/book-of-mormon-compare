@@ -2,13 +2,160 @@
   {
     "book": "jacob",
     "chapter": 2,
+    "verse": 1,
+    "lines": [
+      {
+        "id": "100:23",
+        "page": 100,
+        "line": 23,
+        "text": "The words which Jacob the Brother of Nephi spake",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/100"
+      },
+      {
+        "id": "100:24",
+        "page": 100,
+        "line": 24,
+        "text": "unto the People of Nephi after the death of Nephi—",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/100"
+      }
+    ]
+  },
+  {
+    "book": "jacob",
+    "chapter": 2,
     "verse": 2,
     "lines": [
       {
-        "id": "100:22",
+        "id": "100:24",
         "page": 100,
-        "line": 22,
-        "text": "at the last day",
+        "line": 24,
+        "text": "Now my beloved brethren I Jacob",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/100"
+      },
+      {
+        "id": "100:25",
+        "page": 100,
+        "line": 25,
+        "text": "according to the responcibility which I am under to God to magnify mine Office",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/100"
+      },
+      {
+        "id": "100:26",
+        "page": 100,
+        "line": 26,
+        "text": "with soberness & that I might rid my garments of your sins I come up into the temple",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/100"
+      },
+      {
+        "id": "100:27",
+        "page": 100,
+        "line": 27,
+        "text": "this day that I might declare unto you the word of God",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/100"
+      }
+    ]
+  },
+  {
+    "book": "jacob",
+    "chapter": 2,
+    "verse": 3,
+    "lines": [
+      {
+        "id": "100:27",
+        "page": 100,
+        "line": 27,
+        "text": "& ye yourselves know that I have",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/100"
+      },
+      {
+        "id": "100:28",
+        "page": 100,
+        "line": 28,
+        "text": "hitherto been diligent in the office of my calling but I this day am weighed down wi",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/100"
+      },
+      {
+        "id": "100:29",
+        "page": 100,
+        "line": 29,
+        "text": "th much more desire & anxiety for the wellfare of your souls then I have hitherto been for",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/100"
+      }
+    ]
+  },
+  {
+    "book": "jacob",
+    "chapter": 2,
+    "verse": 4,
+    "lines": [
+      {
+        "id": "100:29",
+        "page": 100,
+        "line": 29,
+        "text": "be",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/100"
+      },
+      {
+        "id": "100:30",
+        "page": 100,
+        "line": 30,
+        "text": "hold as yet ye have been obediant unto the word of the Lord which I have given unto you",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/100"
+      }
+    ]
+  },
+  {
+    "book": "jacob",
+    "chapter": 2,
+    "verse": 5,
+    "lines": [
+      {
+        "id": "100:31",
+        "page": 100,
+        "line": 31,
+        "text": "but behold hearken ye unto me & know that by the help of the allpowerful creator of",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/100"
+      },
+      {
+        "id": "100:32",
+        "page": 100,
+        "line": 32,
+        "text": "heaven & earth I can tell you concerning your thoughts how that ye are beginning to la",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/100"
+      },
+      {
+        "id": "100:33",
+        "page": 100,
+        "line": 33,
+        "text": "bour in Sin which sin appeareth verry abominable unto me yea & abominable unto",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/100"
+      },
+      {
+        "id": "100:34",
+        "page": 100,
+        "line": 34,
+        "text": "God",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/100"
+      }
+    ]
+  },
+  {
+    "book": "jacob",
+    "chapter": 2,
+    "verse": 6,
+    "lines": [
+      {
+        "id": "100:34",
+        "page": 100,
+        "line": 34,
+        "text": "yea & it grieveth my soul & causeth me to shrink with shame before the presance of my",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/100"
+      },
+      {
+        "id": "100:35",
+        "page": 100,
+        "line": 35,
+        "text": "maker that I must testify unto you concerning the wickedness of your hearts",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/100"
       }
     ]
@@ -18,6 +165,27 @@
     "chapter": 2,
     "verse": 7,
     "lines": [
+      {
+        "id": "100:35",
+        "page": 100,
+        "line": 35,
+        "text": "& also it gr",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/100"
+      },
+      {
+        "id": "100:36",
+        "page": 100,
+        "line": 36,
+        "text": "ieveth me that I must use so much boldness of speach concerning you before your",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/100"
+      },
+      {
+        "id": "100:37",
+        "page": 100,
+        "line": 37,
+        "text": "wives & your Children many of whose feelings are exceding tender & chaste",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/100"
+      },
       {
         "id": "101:1",
         "page": 101,

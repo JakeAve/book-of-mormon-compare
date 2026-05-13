@@ -16,6 +16,20 @@
   {
     "book": "jacob",
     "chapter": 6,
+    "verse": 3,
+    "lines": [
+      {
+        "id": "72:2",
+        "page": 72,
+        "line": 2,
+        "text": "Chapter",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/72"
+      }
+    ]
+  },
+  {
+    "book": "jacob",
+    "chapter": 6,
     "verse": 11,
     "lines": [
       {
@@ -78,7 +92,14 @@
         "id": "73:5",
         "page": 73,
         "line": 5,
-        "text": "ead &",
+        "text": "ead & fear——",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/73"
+      },
+      {
+        "id": "73:5",
+        "page": 73,
+        "line": 5,
+        "text": "Amen——",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/73"
       }
     ]

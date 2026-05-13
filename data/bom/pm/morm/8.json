@@ -2,13 +2,55 @@
   {
     "book": "morm",
     "chapter": 8,
+    "verse": 1,
+    "lines": [
+      {
+        "id": "427:11",
+        "page": 427,
+        "line": 11,
+        "text": "Behold I Moroni do finish the",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/427"
+      },
+      {
+        "id": "427:12",
+        "page": 427,
+        "line": 12,
+        "text": "Record of my Father Mormon bhold I have but few things to write which things I have been com",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/427"
+      },
+      {
+        "id": "427:13",
+        "page": 427,
+        "line": 13,
+        "text": "manded of my Father",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/427"
+      }
+    ]
+  },
+  {
+    "book": "morm",
+    "chapter": 8,
     "verse": 2,
     "lines": [
       {
-        "id": "427:9",
+        "id": "427:13",
         "page": 427,
-        "line": 9,
-        "text": "in the",
+        "line": 13,
+        "text": "& now it came to pass that after the great & tremendious battle at Cumor",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/427"
+      },
+      {
+        "id": "427:14",
+        "page": 427,
+        "line": 14,
+        "text": "ah behold the Nephites which had escaped into the Country southward were hunted by",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/427"
+      },
+      {
+        "id": "427:15",
+        "page": 427,
+        "line": 15,
+        "text": "the Lamanites until they were all destroyed",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/427"
       }
     ]
@@ -19,10 +61,248 @@
     "verse": 3,
     "lines": [
       {
-        "id": "427:10",
+        "id": "427:15",
         "page": 427,
-        "line": 10,
-        "text": "day of Judgement Amen==",
+        "line": 15,
+        "text": "& my Father also was killed by them & I even",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/427"
+      },
+      {
+        "id": "427:16",
+        "page": 427,
+        "line": 16,
+        "text": "I remaineth alone to write the sad tale of the destruction of my People but behold they ore",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/427"
+      },
+      {
+        "id": "427:17",
+        "page": 427,
+        "line": 17,
+        "text": "gone & I fulfill the commandment of my Father & whether they will slay me I know not",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/427"
+      }
+    ]
+  },
+  {
+    "book": "morm",
+    "chapter": 8,
+    "verse": 4,
+    "lines": [
+      {
+        "id": "427:18",
+        "page": 427,
+        "line": 18,
+        "text": "therefore I will write & hide up the records in the earth & whither I go it mattereth",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/427"
+      },
+      {
+        "id": "427:19",
+        "page": 427,
+        "line": 19,
+        "text": "not",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/427"
+      }
+    ]
+  },
+  {
+    "book": "morm",
+    "chapter": 8,
+    "verse": 5,
+    "lines": [
+      {
+        "id": "427:19",
+        "page": 427,
+        "line": 19,
+        "text": "behold my Father hath made this record & he hath written the intent thereof & behold",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/427"
+      },
+      {
+        "id": "427:20",
+        "page": 427,
+        "line": 20,
+        "text": "I would write it also if I had room upon the plates but I have not I have none",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/427"
+      },
+      {
+        "id": "427:21",
+        "page": 427,
+        "line": 21,
+        "text": "for I am alone my Father hath been slain in battle & all my kinsfolks. & I have not",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/427"
+      },
+      {
+        "id": "427:22",
+        "page": 427,
+        "line": 22,
+        "text": "friends nor whither to go & how long t◊◊t the Lord will suffer that I may live I know",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/427"
+      },
+      {
+        "id": "427:23",
+        "page": 427,
+        "line": 23,
+        "text": "not",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/427"
+      }
+    ]
+  },
+  {
+    "book": "morm",
+    "chapter": 8,
+    "verse": 6,
+    "lines": [
+      {
+        "id": "427:23",
+        "page": 427,
+        "line": 23,
+        "text": "behold four hundred years have passed since the comeing of our Lord & Savior",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/427"
+      }
+    ]
+  },
+  {
+    "book": "morm",
+    "chapter": 8,
+    "verse": 7,
+    "lines": [
+      {
+        "id": "427:23",
+        "page": 427,
+        "line": 23,
+        "text": "&",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/427"
+      },
+      {
+        "id": "427:24",
+        "page": 427,
+        "line": 24,
+        "text": "behold the Lamanites have hunted my People the Nephites down from City to City &",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/427"
+      },
+      {
+        "id": "427:25",
+        "page": 427,
+        "line": 25,
+        "text": "from place to place even until they are no more & great has been their fall yea gratt",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/427"
+      },
+      {
+        "id": "427:26",
+        "page": 427,
+        "line": 26,
+        "text": "& marvelous is the destruction of my People the Nephites",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/427"
+      }
+    ]
+  },
+  {
+    "book": "morm",
+    "chapter": 8,
+    "verse": 8,
+    "lines": [
+      {
+        "id": "427:26",
+        "page": 427,
+        "line": 26,
+        "text": "& behold it is the hand of the",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/427"
+      },
+      {
+        "id": "427:27",
+        "page": 427,
+        "line": 27,
+        "text": "Lord which hath done it & behold also the Lamanites are at war one with another & the",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/427"
+      },
+      {
+        "id": "427:28",
+        "page": 427,
+        "line": 28,
+        "text": "whole face of this land is one continual round of Murder & bloodshed & no one knoweth",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/427"
+      },
+      {
+        "id": "427:29",
+        "page": 427,
+        "line": 29,
+        "text": "the end of the war",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/427"
+      }
+    ]
+  },
+  {
+    "book": "morm",
+    "chapter": 8,
+    "verse": 9,
+    "lines": [
+      {
+        "id": "427:29",
+        "page": 427,
+        "line": 29,
+        "text": "& now behold I say no more concerning them for there are none",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/427"
+      },
+      {
+        "id": "427:30",
+        "page": 427,
+        "line": 30,
+        "text": "save it be Lamanites & robbers that do exist upon the face of the land",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/427"
+      }
+    ]
+  },
+  {
+    "book": "morm",
+    "chapter": 8,
+    "verse": 10,
+    "lines": [
+      {
+        "id": "427:30",
+        "page": 427,
+        "line": 30,
+        "text": "& there are none",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/427"
+      },
+      {
+        "id": "427:31",
+        "page": 427,
+        "line": 31,
+        "text": "that do know the true God save it be the Disciples of Jesus which did tarry in the",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/427"
+      },
+      {
+        "id": "427:32",
+        "page": 427,
+        "line": 32,
+        "text": "land until the wickedness of the People were so great that the Lord would not suffer",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/427"
+      },
+      {
+        "id": "427:33",
+        "page": 427,
+        "line": 33,
+        "text": "them to remain with the People & whither they be upon the face of the land no man kno",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/427"
+      },
+      {
+        "id": "427:34",
+        "page": 427,
+        "line": 34,
+        "text": "weth",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/427"
+      }
+    ]
+  },
+  {
+    "book": "morm",
+    "chapter": 8,
+    "verse": 11,
+    "lines": [
+      {
+        "id": "427:34",
+        "page": 427,
+        "line": 34,
+        "text": "but behold my Father & I have seen them & they have ministered unto us",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/427"
       }
     ]
@@ -33,11 +313,60 @@
     "verse": 12,
     "lines": [
       {
-        "id": "428:1",
-        "page": 428,
-        "line": 1,
-        "text": "none",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/428"
+        "id": "427:34",
+        "page": 427,
+        "line": 34,
+        "text": "& whoso",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/427"
+      },
+      {
+        "id": "427:35",
+        "page": 427,
+        "line": 35,
+        "text": "receiveth this record & shall not condemn it because of the imperfections which are",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/427"
+      },
+      {
+        "id": "427:36",
+        "page": 427,
+        "line": 36,
+        "text": "in it the same shall know of greater things than these. behold I am Moroni and",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/427"
+      },
+      {
+        "id": "427:37",
+        "page": 427,
+        "line": 37,
+        "text": "were it possible, I would make all things known unto you",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/427"
+      }
+    ]
+  },
+  {
+    "book": "morm",
+    "chapter": 8,
+    "verse": 13,
+    "lines": [
+      {
+        "id": "427:37",
+        "page": 427,
+        "line": 37,
+        "text": "behold I make an end of",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/427"
+      },
+      {
+        "id": "427:38",
+        "page": 427,
+        "line": 38,
+        "text": "speaking concerning this People. I am the son of Mormon & my Father was a desc",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/427"
+      },
+      {
+        "id": "427:39",
+        "page": 427,
+        "line": 39,
+        "text": "endant of Nephi",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/427"
       }
     ]
   },
@@ -47,10 +376,24 @@
     "verse": 14,
     "lines": [
       {
+        "id": "427:39",
+        "page": 427,
+        "line": 39,
+        "text": "& I am the same which hide up this Record unto the Lord the plates",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/427"
+      },
+      {
+        "id": "427:40",
+        "page": 427,
+        "line": 40,
+        "text": "thereof are of no worth because of the commandment of the Lord for he truly sayeth thot",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/427"
+      },
+      {
         "id": "428:1",
         "page": 428,
         "line": 1,
-        "text": "shall have them to get gain but the record thereof is of great worth &",
+        "text": "none shall have them to get gain but the record thereof is of great worth &",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/428"
       },
       {

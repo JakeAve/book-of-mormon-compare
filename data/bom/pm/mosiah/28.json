@@ -5,13 +5,6 @@
     "verse": 1,
     "lines": [
       {
-        "id": "167:35",
-        "page": 167,
-        "line": 35,
-        "text": "E",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/167"
-      },
-      {
         "id": "168:1",
         "page": 168,
         "line": 1,
@@ -638,7 +631,14 @@
         "id": "169:19",
         "page": 169,
         "line": 19,
-        "text": "things which ore written in",
+        "text": "things which ore written in this account",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/169"
+      },
+      {
+        "id": "169:20",
+        "page": 169,
+        "line": 20,
+        "text": "Capter– 14th.",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/169"
       }
     ]
@@ -649,10 +649,59 @@
     "verse": 20,
     "lines": [
       {
-        "id": "169:19",
+        "id": "169:21",
         "page": 169,
-        "line": 19,
-        "text": "this",
+        "line": 21,
+        "text": "And now as I Said unto you that after King Mosiah had Done",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/169"
+      },
+      {
+        "id": "169:22",
+        "page": 169,
+        "line": 22,
+        "text": "these things he took the plates of Brass and all the things which he had",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/169"
+      },
+      {
+        "id": "169:23",
+        "page": 169,
+        "line": 23,
+        "text": "cept and conferd them upon Alma which was the Son of Alma yea all",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/169"
+      },
+      {
+        "id": "169:24",
+        "page": 169,
+        "line": 24,
+        "text": "the reccords and allso the interpiters and conferd them upon him and",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/169"
+      },
+      {
+        "id": "169:25",
+        "page": 169,
+        "line": 25,
+        "text": "Commanding him that he Should keep and preserve them and also",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/169"
+      },
+      {
+        "id": "169:26",
+        "page": 169,
+        "line": 26,
+        "text": "keep A reccord of the people handing them Down from one generati",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/169"
+      },
+      {
+        "id": "169:27",
+        "page": 169,
+        "line": 27,
+        "text": "ion to another even as they had Been handed Down from the time",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/169"
+      },
+      {
+        "id": "169:28",
+        "page": 169,
+        "line": 28,
+        "text": "that Lehi Left Jeruselem",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/169"
       }
     ]

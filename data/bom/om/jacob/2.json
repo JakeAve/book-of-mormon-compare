@@ -2,13 +2,41 @@
   {
     "book": "jacob",
     "chapter": 2,
+    "verse": 1,
+    "lines": [
+      {
+        "id": "63:3",
+        "page": 63,
+        "line": 3,
+        "text": "The words which Jacob the Brother of Nephi spake unto the People of Nephiafter the death of Nephi",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/63"
+      }
+    ]
+  },
+  {
+    "book": "jacob",
+    "chapter": 2,
     "verse": 2,
     "lines": [
       {
-        "id": "63:1",
+        "id": "63:3",
         "page": 63,
-        "line": 1,
-        "text": "be found spotless atthe last day",
+        "line": 3,
+        "text": "now my beloved Brethren I Jacob according tothe responcibility which I am under to God to magnify mine office withsoberness & that I might rid my garments of your Sins I come",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/63"
+      }
+    ]
+  },
+  {
+    "book": "jacob",
+    "chapter": 2,
+    "verse": 4,
+    "lines": [
+      {
+        "id": "63:3",
+        "page": 63,
+        "line": 3,
+        "text": "up into the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/63"
       }
     ]

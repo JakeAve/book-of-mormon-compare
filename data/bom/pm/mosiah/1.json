@@ -2,13 +2,90 @@
   {
     "book": "mosiah",
     "chapter": 1,
+    "verse": 0,
+    "lines": [
+      {
+        "id": "121:4",
+        "page": 121,
+        "line": 4,
+        "text": "the Book of Mosiah Chapter",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/121"
+      }
+    ]
+  },
+  {
+    "book": "mosiah",
+    "chapter": 1,
+    "verse": 1,
+    "lines": [
+      {
+        "id": "121:4",
+        "page": 121,
+        "line": 4,
+        "text": "And now there was no more con",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/121"
+      },
+      {
+        "id": "121:5",
+        "page": 121,
+        "line": 5,
+        "text": "tension in all the land of Zarahemla among all the People which belonged to King Ben",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/121"
+      },
+      {
+        "id": "121:6",
+        "page": 121,
+        "line": 6,
+        "text": "jamin so that King Benjamin had continual peace all the remainder of his days",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/121"
+      }
+    ]
+  },
+  {
+    "book": "mosiah",
+    "chapter": 1,
     "verse": 2,
     "lines": [
       {
-        "id": "121:2",
+        "id": "121:6",
         "page": 121,
-        "line": 2,
-        "text": "establish",
+        "line": 6,
+        "text": "& it came",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/121"
+      },
+      {
+        "id": "121:7",
+        "page": 121,
+        "line": 7,
+        "text": "to pass that he had three Sons & he called their names Mosiah & Helorum & Hela",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/121"
+      },
+      {
+        "id": "121:8",
+        "page": 121,
+        "line": 8,
+        "text": "man & he caused that they should be taught in all the language of his fathers that",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/121"
+      },
+      {
+        "id": "121:9",
+        "page": 121,
+        "line": 9,
+        "text": "thereby they might become men of understanding & that they might know concern",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/121"
+      },
+      {
+        "id": "121:10",
+        "page": 121,
+        "line": 10,
+        "text": "ing the prophesies which had been spoken by the mouths of their fathers which was",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/121"
+      },
+      {
+        "id": "121:11",
+        "page": 121,
+        "line": 11,
+        "text": "delivered them by the hand of the Lord",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/121"
       }
     ]
@@ -19,10 +96,262 @@
     "verse": 3,
     "lines": [
       {
-        "id": "121:3",
+        "id": "121:11",
         "page": 121,
-        "line": 3,
-        "text": "peace in the land——",
+        "line": 11,
+        "text": "& he also taught them concerning the records",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/121"
+      },
+      {
+        "id": "121:12",
+        "page": 121,
+        "line": 12,
+        "text": "which were engraven on the plates of brass saying my Sons I would that ye should re",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/121"
+      },
+      {
+        "id": "121:13",
+        "page": 121,
+        "line": 13,
+        "text": "member that were it not for these plates which contain these records & these command",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/121"
+      },
+      {
+        "id": "121:14",
+        "page": 121,
+        "line": 14,
+        "text": "ments we must have suffered in ignorance even at this presant time not knowing the",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/121"
+      },
+      {
+        "id": "121:15",
+        "page": 121,
+        "line": 15,
+        "text": "mysteries of God",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/121"
+      }
+    ]
+  },
+  {
+    "book": "mosiah",
+    "chapter": 1,
+    "verse": 4,
+    "lines": [
+      {
+        "id": "121:15",
+        "page": 121,
+        "line": 15,
+        "text": "for it were not possible that our father Lehi could have remembered",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/121"
+      },
+      {
+        "id": "121:16",
+        "page": 121,
+        "line": 16,
+        "text": "all these things to have taught them to his children except it were for the help of these",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/121"
+      },
+      {
+        "id": "121:17",
+        "page": 121,
+        "line": 17,
+        "text": "plates for he having been taught in the language of the Egyptians therefore he could",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/121"
+      },
+      {
+        "id": "121:18",
+        "page": 121,
+        "line": 18,
+        "text": "read these engravings & teach them to his children that thereby they could teach them",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/121"
+      },
+      {
+        "id": "121:19",
+        "page": 121,
+        "line": 19,
+        "text": "to their children & so fulfiling the commandments of God even down to this presant time",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/121"
+      }
+    ]
+  },
+  {
+    "book": "mosiah",
+    "chapter": 1,
+    "verse": 5,
+    "lines": [
+      {
+        "id": "121:20",
+        "page": 121,
+        "line": 20,
+        "text": "I say unto you my Sons were it not for these things which have been kept & preserved by the",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/121"
+      },
+      {
+        "id": "121:21",
+        "page": 121,
+        "line": 21,
+        "text": "hand of God that we might read & understand of his mysteries & have his command",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/121"
+      },
+      {
+        "id": "121:22",
+        "page": 121,
+        "line": 22,
+        "text": "ments always before our eyes that even our fathers would have dwindled in unbelief",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/121"
+      },
+      {
+        "id": "121:23",
+        "page": 121,
+        "line": 23,
+        "text": "& we should have been like unto our Brethren the Lamanites which know nothing concer",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/121"
+      },
+      {
+        "id": "121:24",
+        "page": 121,
+        "line": 24,
+        "text": "ning these things or even do not believe them when they are taught them because of",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/121"
+      },
+      {
+        "id": "121:25",
+        "page": 121,
+        "line": 25,
+        "text": "the tradition of their fathers which are not correct",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/121"
+      }
+    ]
+  },
+  {
+    "book": "mosiah",
+    "chapter": 1,
+    "verse": 6,
+    "lines": [
+      {
+        "id": "121:25",
+        "page": 121,
+        "line": 25,
+        "text": "O my Sons I would that ye",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/121"
+      },
+      {
+        "id": "121:26",
+        "page": 121,
+        "line": 26,
+        "text": "should remember that these sayings are true & also that these records are true & be",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/121"
+      },
+      {
+        "id": "121:27",
+        "page": 121,
+        "line": 27,
+        "text": "hold also the plates of Nephi which contain the records & the sayings of our fathers fro",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/121"
+      },
+      {
+        "id": "121:28",
+        "page": 121,
+        "line": 28,
+        "text": "m the time they left Jerusalem untill now & they are true & we can know of their su",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/121"
+      },
+      {
+        "id": "121:29",
+        "page": 121,
+        "line": 29,
+        "text": "rety because we have them before our eyes",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/121"
+      }
+    ]
+  },
+  {
+    "book": "mosiah",
+    "chapter": 1,
+    "verse": 7,
+    "lines": [
+      {
+        "id": "121:29",
+        "page": 121,
+        "line": 29,
+        "text": "& now my Sons I would that ye should",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/121"
+      },
+      {
+        "id": "121:30",
+        "page": 121,
+        "line": 30,
+        "text": "remember to search them diligently that ye may profit thereby & I would that ye sh",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/121"
+      },
+      {
+        "id": "121:31",
+        "page": 121,
+        "line": 31,
+        "text": "ould keep the commandments of God that ye may prosper in the land according to the prom",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/121"
+      },
+      {
+        "id": "121:32",
+        "page": 121,
+        "line": 32,
+        "text": "ises which the Lord made unto our fathers",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/121"
+      }
+    ]
+  },
+  {
+    "book": "mosiah",
+    "chapter": 1,
+    "verse": 8,
+    "lines": [
+      {
+        "id": "121:32",
+        "page": 121,
+        "line": 32,
+        "text": "& many more things did King Benjamin teach",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/121"
+      },
+      {
+        "id": "121:33",
+        "page": 121,
+        "line": 33,
+        "text": "his Sons which are not written in this Book",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/121"
+      }
+    ]
+  },
+  {
+    "book": "mosiah",
+    "chapter": 1,
+    "verse": 9,
+    "lines": [
+      {
+        "id": "121:33",
+        "page": 121,
+        "line": 33,
+        "text": "& it came to pass that after King Benja",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/121"
+      },
+      {
+        "id": "121:34",
+        "page": 121,
+        "line": 34,
+        "text": "min had made an end of teaching his Sons that he waxed old & he saw that he",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/121"
+      },
+      {
+        "id": "121:35",
+        "page": 121,
+        "line": 35,
+        "text": "must verry soon go the way of all the earth therefore he thought it expediant that",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/121"
+      },
+      {
+        "id": "121:36",
+        "page": 121,
+        "line": 36,
+        "text": "he should confer the kingdom upon one of his Sons",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/121"
       }
     ]
@@ -32,6 +361,27 @@
     "chapter": 1,
     "verse": 10,
     "lines": [
+      {
+        "id": "121:36",
+        "page": 121,
+        "line": 36,
+        "text": "therefore he had Mosiah brought",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/121"
+      },
+      {
+        "id": "121:37",
+        "page": 121,
+        "line": 37,
+        "text": "before him & these are the words which he spake unto him saying my Son I would",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/121"
+      },
+      {
+        "id": "121:38",
+        "page": 121,
+        "line": 38,
+        "text": "that ye should make a proclamation throughout all this land among all this People",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/121"
+      },
       {
         "id": "122:1",
         "page": 122,

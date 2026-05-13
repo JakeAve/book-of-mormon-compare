@@ -2,13 +2,153 @@
   {
     "book": "3-ne",
     "chapter": 19,
+    "verse": 1,
+    "lines": [
+      {
+        "id": "397:24",
+        "page": 397,
+        "line": 24,
+        "text": "came to pass that when Jesus had ascended into Heaven the multitude did disper",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/397"
+      },
+      {
+        "id": "397:25",
+        "page": 397,
+        "line": 25,
+        "text": "se & every man did take his wife & his children & did return to his own home",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/397"
+      }
+    ]
+  },
+  {
+    "book": "3-ne",
+    "chapter": 19,
     "verse": 2,
     "lines": [
       {
-        "id": "397:22",
+        "id": "397:26",
         "page": 397,
-        "line": 22,
-        "text": "into Heaven",
+        "line": 26,
+        "text": "& it was noised abroad among the people immediately before it was yet",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/397"
+      },
+      {
+        "id": "397:27",
+        "page": 397,
+        "line": 27,
+        "text": "dark that the multitude had seen Jesus & that he had ministered unto them",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/397"
+      },
+      {
+        "id": "397:28",
+        "page": 397,
+        "line": 28,
+        "text": "& that he would also shew himself on the morrow unto the multi",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/397"
+      },
+      {
+        "id": "397:29",
+        "page": 397,
+        "line": 29,
+        "text": "tude",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/397"
+      }
+    ]
+  },
+  {
+    "book": "3-ne",
+    "chapter": 19,
+    "verse": 3,
+    "lines": [
+      {
+        "id": "397:29",
+        "page": 397,
+        "line": 29,
+        "text": "yea & even all the night it was noised abroad concerning Jesus & in",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/397"
+      },
+      {
+        "id": "397:30",
+        "page": 397,
+        "line": 30,
+        "text": "somuch did they send forth unto the people that there were many yea an ex",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/397"
+      },
+      {
+        "id": "397:31",
+        "page": 397,
+        "line": 31,
+        "text": "ceeding great number did babor exceedingly all that night that they",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/397"
+      },
+      {
+        "id": "397:32",
+        "page": 397,
+        "line": 32,
+        "text": "might be on the morrow in the place where Jesus should shew himself un",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/397"
+      },
+      {
+        "id": "397:33",
+        "page": 397,
+        "line": 33,
+        "text": "to the multitude",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/397"
+      }
+    ]
+  },
+  {
+    "book": "3-ne",
+    "chapter": 19,
+    "verse": 4,
+    "lines": [
+      {
+        "id": "397:33",
+        "page": 397,
+        "line": 33,
+        "text": "And it came to pass that on the morrow when the",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/397"
+      },
+      {
+        "id": "397:34",
+        "page": 397,
+        "line": 34,
+        "text": "multitude was gathered together Behold Nephi & his brother whom he had rai",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/397"
+      },
+      {
+        "id": "397:35",
+        "page": 397,
+        "line": 35,
+        "text": "sed from the dead whose name was Timothy & also his son whose name was",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/397"
+      },
+      {
+        "id": "397:36",
+        "page": 397,
+        "line": 36,
+        "text": "Jonas & also Mathoni & Mathonihah his brother Kumen & Kumenon",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/397"
+      },
+      {
+        "id": "397:37",
+        "page": 397,
+        "line": 37,
+        "text": "ki & Jeremiah & Shemnon & Jonas & Zedekiah & Isiah now these were",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/397"
+      },
+      {
+        "id": "397:38",
+        "page": 397,
+        "line": 38,
+        "text": "the names of the desipels whom Jesus had chosen And it came to pass that they",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/397"
+      },
+      {
+        "id": "397:39",
+        "page": 397,
+        "line": 39,
+        "text": "went forth & stood in the midst of the multitude",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/397"
       }
     ]
@@ -18,6 +158,20 @@
     "chapter": 19,
     "verse": 5,
     "lines": [
+      {
+        "id": "397:39",
+        "page": 397,
+        "line": 39,
+        "text": "& behold the multi",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/397"
+      },
+      {
+        "id": "397:40",
+        "page": 397,
+        "line": 40,
+        "text": "tude was so great that they did cause that they should be separated into",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/397"
+      },
       {
         "id": "398:1",
         "page": 398,

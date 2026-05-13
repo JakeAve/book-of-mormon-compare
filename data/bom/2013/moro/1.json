@@ -2,6 +2,13 @@
   {
     "book": "moro",
     "chapter": 1,
+    "verse": 0,
+    "text": "The Book of Moroni",
+    "source": "https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/1?lang=eng"
+  },
+  {
+    "book": "moro",
+    "chapter": 1,
     "verse": 1,
     "text": "Now I, Moroni, after having made an end of abridging the account of the people of Jared, I had supposed not to have written more, but I have not as yet perished; and I make not myself known to the Lamanites lest they should destroy me.",
     "source": "https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/1?lang=eng&id=p1#p1"

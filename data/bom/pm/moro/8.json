@@ -2,13 +2,230 @@
   {
     "book": "moro",
     "chapter": 8,
+    "verse": 1,
+    "lines": [
+      {
+        "id": "462:21",
+        "page": 462,
+        "line": 21,
+        "text": "Chapter [] An epestle of my father Mormon written",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/462"
+      },
+      {
+        "id": "462:22",
+        "page": 462,
+        "line": 22,
+        "text": "me Moroni & it was written unto me soon after my calling to the ministry & on this wise did",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/462"
+      },
+      {
+        "id": "462:23",
+        "page": 462,
+        "line": 23,
+        "text": "he write unto me saying",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/462"
+      }
+    ]
+  },
+  {
+    "book": "moro",
+    "chapter": 8,
     "verse": 2,
     "lines": [
       {
-        "id": "462:20",
+        "id": "462:23",
         "page": 462,
-        "line": 20,
-        "text": "pure Amen",
+        "line": 23,
+        "text": "My beloved son Moroni I rejoice exceedingly that your Lord Je",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/462"
+      },
+      {
+        "id": "462:24",
+        "page": 462,
+        "line": 24,
+        "text": "sus Christ hath been mindful of you & hath called you to his ministry & to his holy wo",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/462"
+      },
+      {
+        "id": "462:25",
+        "page": 462,
+        "line": 25,
+        "text": "rk",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/462"
+      }
+    ]
+  },
+  {
+    "book": "moro",
+    "chapter": 8,
+    "verse": 3,
+    "lines": [
+      {
+        "id": "462:25",
+        "page": 462,
+        "line": 25,
+        "text": "I am mindful of you always in my prayers continually praying unto God the Father",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/462"
+      },
+      {
+        "id": "462:26",
+        "page": 462,
+        "line": 26,
+        "text": "in the name of his holy child Jesus that he through his infinite goodness & grace will keep",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/462"
+      },
+      {
+        "id": "462:27",
+        "page": 462,
+        "line": 27,
+        "text": "you through the endurance of faith on his name to the end",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/462"
+      }
+    ]
+  },
+  {
+    "book": "moro",
+    "chapter": 8,
+    "verse": 4,
+    "lines": [
+      {
+        "id": "462:27",
+        "page": 462,
+        "line": 27,
+        "text": "& now my son I speak unto you",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/462"
+      },
+      {
+        "id": "462:28",
+        "page": 462,
+        "line": 28,
+        "text": "concerning that which grieveth me exceedingly for it grieveth me that there should dis",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/462"
+      },
+      {
+        "id": "462:29",
+        "page": 462,
+        "line": 29,
+        "text": "putations rise among you",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/462"
+      }
+    ]
+  },
+  {
+    "book": "moro",
+    "chapter": 8,
+    "verse": 5,
+    "lines": [
+      {
+        "id": "462:29",
+        "page": 462,
+        "line": 29,
+        "text": "for if I have learned the truth there has been disputations",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/462"
+      },
+      {
+        "id": "462:30",
+        "page": 462,
+        "line": 30,
+        "text": "among you concerning the baptizing of your little children",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/462"
+      }
+    ]
+  },
+  {
+    "book": "moro",
+    "chapter": 8,
+    "verse": 6,
+    "lines": [
+      {
+        "id": "462:30",
+        "page": 462,
+        "line": 30,
+        "text": "& now my son I desire that",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/462"
+      },
+      {
+        "id": "462:31",
+        "page": 462,
+        "line": 31,
+        "text": "ye should labor exceedingly that this gross error should be removed from among you",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/462"
+      },
+      {
+        "id": "462:32",
+        "page": 462,
+        "line": 32,
+        "text": "for for this intent I have written this epistle",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/462"
+      }
+    ]
+  },
+  {
+    "book": "moro",
+    "chapter": 8,
+    "verse": 7,
+    "lines": [
+      {
+        "id": "462:32",
+        "page": 462,
+        "line": 32,
+        "text": "for immediately after I had learned these",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/462"
+      },
+      {
+        "id": "462:33",
+        "page": 462,
+        "line": 33,
+        "text": "things of you I inquired of the Lord concerning the matter & the word of the Lord came to me",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/462"
+      },
+      {
+        "id": "462:34",
+        "page": 462,
+        "line": 34,
+        "text": "by the power of the Holy Ghost saying",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/462"
+      }
+    ]
+  },
+  {
+    "book": "moro",
+    "chapter": 8,
+    "verse": 8,
+    "lines": [
+      {
+        "id": "462:34",
+        "page": 462,
+        "line": 34,
+        "text": "Listen to the words of Christ your Redeemer your Lord &",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/462"
+      },
+      {
+        "id": "462:35",
+        "page": 462,
+        "line": 35,
+        "text": "your God Behold I came into the world not to call the righteous but sinners to repentance",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/462"
+      },
+      {
+        "id": "462:36",
+        "page": 462,
+        "line": 36,
+        "text": "the whole need no physician but they that are sick wherefore little children are whole",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/462"
+      },
+      {
+        "id": "462:37",
+        "page": 462,
+        "line": 37,
+        "text": "for they are not capable of committing sin wherefore the curse of Adam is taken from them",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/462"
+      },
+      {
+        "id": "462:38",
+        "page": 462,
+        "line": 38,
+        "text": "in me that it hath no power over them & the law of circumcision is done away in me",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/462"
       }
     ]
@@ -18,6 +235,20 @@
     "chapter": 8,
     "verse": 9,
     "lines": [
+      {
+        "id": "462:39",
+        "page": 462,
+        "line": 39,
+        "text": "& after this manner did the Holy Ghost manifest the word of God unto me where",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/462"
+      },
+      {
+        "id": "462:40",
+        "page": 462,
+        "line": 40,
+        "text": "fore my beloved son I know that it is solemn mockery before God that ye should",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/462"
+      },
       {
         "id": "463:1",
         "page": 463,
@@ -624,7 +855,21 @@
         "id": "464:7",
         "page": 464,
         "line": 7,
-        "text": "my son until I shall write unto you or shall meet you",
+        "text": "my son until I shall write unto you or shall meet you again Amen",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/464"
+      },
+      {
+        "id": "464:8",
+        "page": 464,
+        "line": 8,
+        "text": "Chapter IX——",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/464"
+      },
+      {
+        "id": "464:9",
+        "page": 464,
+        "line": 9,
+        "text": "The second epistle of Mormon to his son Moroni——",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/464"
       }
     ]

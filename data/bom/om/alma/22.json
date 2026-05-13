@@ -240,7 +240,7 @@
   {
     "book": "alma",
     "chapter": 22,
-    "verse": 30,
+    "verse": 29,
     "lines": [
       {
         "id": "92:2",
@@ -254,13 +254,202 @@
   {
     "book": "alma",
     "chapter": 22,
+    "verse": 30,
+    "lines": [
+      {
+        "id": "92:3",
+        "page": 92,
+        "line": 3,
+        "text": "it being so far Northward that it came into the land which had been peopled & had been destroid of whose bones we have spoken which was discovered by the people of Zarahemla it being the place of their first",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/92"
+      },
+      {
+        "id": "92:4",
+        "page": 92,
+        "line": 4,
+        "text": "landing",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/92"
+      }
+    ]
+  },
+  {
+    "book": "alma",
+    "chapter": 22,
+    "verse": 31,
+    "lines": [
+      {
+        "id": "92:4",
+        "page": 92,
+        "line": 4,
+        "text": "& they came from there up into the south wilderness thus",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/92"
+      },
+      {
+        "id": "92:5",
+        "page": 92,
+        "line": 5,
+        "text": "the land on the Northward was called desolation & the land on the South",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/92"
+      },
+      {
+        "id": "92:6",
+        "page": 92,
+        "line": 6,
+        "text": "ward was called bountiful it being the wilderness which was fil",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/92"
+      },
+      {
+        "id": "92:7",
+        "page": 92,
+        "line": 7,
+        "text": "led with all manner of wild animels of every Kind a part of which",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/92"
+      },
+      {
+        "id": "92:8",
+        "page": 92,
+        "line": 8,
+        "text": "had come from the land Northward for food",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/92"
+      }
+    ]
+  },
+  {
+    "book": "alma",
+    "chapter": 22,
+    "verse": 32,
+    "lines": [
+      {
+        "id": "92:8",
+        "page": 92,
+        "line": 8,
+        "text": "& now it was only the",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/92"
+      },
+      {
+        "id": "92:9",
+        "page": 92,
+        "line": 9,
+        "text": "distance of a day & a halfs journey for a Nephite on the line bounti",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/92"
+      },
+      {
+        "id": "92:10",
+        "page": 92,
+        "line": 10,
+        "text": "ful & the land desolation from the east to the west Sea & thus the land of Nep",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/92"
+      },
+      {
+        "id": "92:11",
+        "page": 92,
+        "line": 11,
+        "text": "hi & the land of Zarahemla was nearly surrounded by water there bei",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/92"
+      },
+      {
+        "id": "92:12",
+        "page": 92,
+        "line": 12,
+        "text": "ng a small neck of land between the land Northward & the land Sou",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/92"
+      }
+    ]
+  },
+  {
+    "book": "alma",
+    "chapter": 22,
+    "verse": 33,
+    "lines": [
+      {
+        "id": "92:13",
+        "page": 92,
+        "line": 13,
+        "text": "thward & it came to pass that the Nephites had inhabited the land bunti",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/92"
+      },
+      {
+        "id": "92:14",
+        "page": 92,
+        "line": 14,
+        "text": "ful even from the east unto the west Sea & thus the Nephites in their wis",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/92"
+      },
+      {
+        "id": "92:15",
+        "page": 92,
+        "line": 15,
+        "text": "dom with their guards & their armies had hemed in the Lamanites on the",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/92"
+      },
+      {
+        "id": "92:16",
+        "page": 92,
+        "line": 16,
+        "text": "south that thereby they should have no more possession on the",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/92"
+      },
+      {
+        "id": "92:17",
+        "page": 92,
+        "line": 17,
+        "text": "north that they might not overrun the land northward",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/92"
+      }
+    ]
+  },
+  {
+    "book": "alma",
+    "chapter": 22,
+    "verse": 34,
+    "lines": [
+      {
+        "id": "92:17",
+        "page": 92,
+        "line": 17,
+        "text": "therefore the",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/92"
+      },
+      {
+        "id": "92:18",
+        "page": 92,
+        "line": 18,
+        "text": "Lamanites could have no more possesions only in the land of Nephi",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/92"
+      },
+      {
+        "id": "92:19",
+        "page": 92,
+        "line": 19,
+        "text": "& the wilderness round about now this was wisdom in the Nephites as the",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/92"
+      }
+    ]
+  },
+  {
+    "book": "alma",
+    "chapter": 22,
     "verse": 35,
     "lines": [
       {
         "id": "93:1",
         "page": 93,
         "line": 1,
-        "text": "of Ammon & Aaron",
+        "text": "of Ammon & Aaron Omner & Himni & there brethren",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/93"
+      },
+      {
+        "id": "93:2",
+        "page": 93,
+        "line": 2,
+        "text": "Chapter",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/93"
+      },
+      {
+        "id": "93:3",
+        "page": 93,
+        "line": 3,
+        "text": "Behold now it came to pass that the king of the Lamanites sent a proclama",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/93"
       }
     ]

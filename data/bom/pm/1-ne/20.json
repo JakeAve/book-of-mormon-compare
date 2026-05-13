@@ -2,14 +2,63 @@
   {
     "book": "1-ne",
     "chapter": 20,
+    "verse": 1,
+    "lines": [
+      {
+        "id": "44:31",
+        "page": 44,
+        "line": 31,
+        "text": "hearken & hear this O house of Jacob which are called",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/44"
+      },
+      {
+        "id": "44:32",
+        "page": 44,
+        "line": 32,
+        "text": "by the name of Israel & are come forth out of the waters of Judah which",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/44"
+      },
+      {
+        "id": "44:33",
+        "page": 44,
+        "line": 33,
+        "text": "swear by the name of the Lord & make mention of the God of Israel yet th",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/44"
+      },
+      {
+        "id": "44:34",
+        "page": 44,
+        "line": 34,
+        "text": "ey swear not in truth nor in righteousness",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/44"
+      }
+    ]
+  },
+  {
+    "book": "1-ne",
+    "chapter": 20,
     "verse": 2,
     "lines": [
       {
-        "id": "45:1",
-        "page": 45,
-        "line": 1,
-        "text": "ld",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/45"
+        "id": "44:34",
+        "page": 44,
+        "line": 34,
+        "text": "nevertheless they call the",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/44"
+      },
+      {
+        "id": "44:35",
+        "page": 44,
+        "line": 35,
+        "text": "mselves of the holy city but they do not stay themselves upon the God of",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/44"
+      },
+      {
+        "id": "44:36",
+        "page": 44,
+        "line": 36,
+        "text": "Israel which is the Lord of hosts yea the Lord of hoasts is his name beho",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/44"
       }
     ]
   },
@@ -22,7 +71,7 @@
         "id": "45:1",
         "page": 45,
         "line": 1,
-        "text": "I have declared the former things from the beginning & they went forth",
+        "text": "ld I have declared the former things from the beginning & they went forth",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/45"
       },
       {

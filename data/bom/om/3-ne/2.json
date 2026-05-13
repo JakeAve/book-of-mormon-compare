@@ -2,6 +2,20 @@
   {
     "book": "3-ne",
     "chapter": 2,
+    "verse": 1,
+    "lines": [
+      {
+        "id": "206:3",
+        "page": 206,
+        "line": 3,
+        "text": "to join",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/206"
+      }
+    ]
+  },
+  {
+    "book": "3-ne",
+    "chapter": 2,
     "verse": 10,
     "lines": [
       {
@@ -22,7 +36,14 @@
         "id": "207:1",
         "page": 207,
         "line": 1,
-        "text": "& it came topass in the thirteenth year there began to be wars & contentions",
+        "text": "& it came topass in the thirteenth year there began to be wars & contentions throughout all the",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/207"
+      },
+      {
+        "id": "207:2",
+        "page": 207,
+        "line": 2,
+        "text": "ple & did lay waste so many cities & did spread so much death & carnage throughout the land that it became expediant that all the people both the Nephites& the Lamanites should take up arms against them therefore",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/207"
       }
     ]
@@ -33,10 +54,10 @@
     "verse": 12,
     "lines": [
       {
-        "id": "207:1",
+        "id": "207:2",
         "page": 207,
-        "line": 1,
-        "text": "throughout",
+        "line": 2,
+        "text": "all the Lamaniteswhich had become converted unto the Lord did unite with their Brethren the Nephites& were compeled for the safety of their lives & their women & their childrento take up arms against those Gaddianton Robers yea & also to maintain their rights &their privileges of their church & of their worship & their freedom & their liberty",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/207"
       }
     ]
@@ -44,13 +65,13 @@
   {
     "book": "3-ne",
     "chapter": 2,
-    "verse": 13,
+    "verse": 14,
     "lines": [
       {
-        "id": "207:1",
+        "id": "207:2",
         "page": 207,
-        "line": 1,
-        "text": "all the",
+        "line": 2,
+        "text": "[p. [405]]",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/207"
       }
     ]

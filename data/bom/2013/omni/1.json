@@ -2,6 +2,13 @@
   {
     "book": "omni",
     "chapter": 1,
+    "verse": 0,
+    "text": "The Book of Omni",
+    "source": "https://www.churchofjesuschrist.org/study/scriptures/bofm/omni/1?lang=eng"
+  },
+  {
+    "book": "omni",
+    "chapter": 1,
     "verse": 1,
     "text": "Behold, it came to pass that I, Omni, being commanded by my father, Jarom, that I should write somewhat upon these plates, to preserve our genealogy—",
     "source": "https://www.churchofjesuschrist.org/study/scriptures/bofm/omni/1?lang=eng&id=p1#p1"

@@ -5,10 +5,17 @@
     "verse": 1,
     "lines": [
       {
-        "id": "196:30",
+        "id": "196:31",
         "page": 196,
-        "line": 30,
-        "text": "are written",
+        "line": 31,
+        "text": "8th. Now these ore the words which Amulek",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/196"
+      },
+      {
+        "id": "196:32",
+        "page": 196,
+        "line": 32,
+        "text": "preached unto the people which was in the land of Amonihah saying. I",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/196"
       }
     ]
@@ -19,18 +26,39 @@
     "verse": 2,
     "lines": [
       {
-        "id": "196:30",
+        "id": "196:32",
         "page": 196,
-        "line": 30,
-        "text": "in this Book——",
+        "line": 32,
+        "text": "am Am",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/196"
       },
       {
-        "id": "197:1",
-        "page": 197,
-        "line": 1,
-        "text": "of",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/197"
+        "id": "196:33",
+        "page": 196,
+        "line": 33,
+        "text": "ulek I am the son of Gidanah who was the son of Ishmael who was a",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/196"
+      },
+      {
+        "id": "196:34",
+        "page": 196,
+        "line": 34,
+        "text": "descendant of Aminadi and it was that same Aminadi which interprt",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/196"
+      },
+      {
+        "id": "196:35",
+        "page": 196,
+        "line": 35,
+        "text": "ed the writing which was upon the wall of the Temple which was written",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/196"
+      },
+      {
+        "id": "196:36",
+        "page": 196,
+        "line": 36,
+        "text": "by the finger of God",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/196"
       }
     ]
   },
@@ -40,10 +68,24 @@
     "verse": 3,
     "lines": [
       {
+        "id": "196:36",
+        "page": 196,
+        "line": 36,
+        "text": "and Aminadi was a descendant of Nephi who was the son of Lehi",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/196"
+      },
+      {
+        "id": "196:37",
+        "page": 196,
+        "line": 37,
+        "text": "who came out of the land of Jerusalem who was a descendant Manassah who was the son",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/196"
+      },
+      {
         "id": "197:1",
         "page": 197,
         "line": 1,
-        "text": "Joseph which was sold into Egypt by the hands of his Brethren,",
+        "text": "of Joseph which was sold into Egypt by the hands of his Brethren,",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/197"
       }
     ]

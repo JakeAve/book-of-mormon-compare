@@ -2,6 +2,13 @@
   {
     "book": "morm",
     "chapter": 1,
+    "verse": 0,
+    "text": "The Book of Mormon",
+    "source": "https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/1?lang=eng"
+  },
+  {
+    "book": "morm",
+    "chapter": 1,
     "verse": 1,
     "text": "And now I, Mormon, make a record of the things which I have both seen and heard, and call it the Book of Mormon.",
     "source": "https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/1?lang=eng&id=p1#p1"
