@@ -1,6 +1,7 @@
 import type { PageProps } from "fresh";
 import Footer from "@/components/Footer.tsx";
 import Header from "@/components/Header.tsx";
+import BetaBanner from "@/islands/BetaBanner.tsx";
 
 export default function App({ Component }: PageProps) {
   return (
@@ -15,6 +16,7 @@ export default function App({ Component }: PageProps) {
         style={{ backgroundColor: "var(--color-page-bg)" }}
       >
         <Header />
+        <BetaBanner />
         <Component />
         <Footer />
       </body>
