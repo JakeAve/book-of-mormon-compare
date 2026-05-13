@@ -91,7 +91,7 @@ export function DiffPage({
 
   return (
     <main>
-      <div style={{ maxWidth: "56rem", margin: "0 auto" }}>
+      <div style={{ maxWidth: "56rem", margin: "0 auto", overflowX: "hidden" }}>
         {/* Sticky header */}
         <div style={{ position: "sticky", top: 0, zIndex: 10 }}>
           {/* Title bar */}
@@ -148,11 +148,15 @@ export function DiffPage({
             }}
           >
             <div
-              style={{ borderRight: "1px solid var(--color-header-border)" }}
+              style={{
+                borderRight: "1px solid var(--color-header-border)",
+                minWidth: 0,
+                overflow: "hidden",
+              }}
             >
               {select1}
             </div>
-            <div>{select2}</div>
+            <div style={{ minWidth: 0, overflow: "hidden" }}>{select2}</div>
           </div>
         </div>
 
