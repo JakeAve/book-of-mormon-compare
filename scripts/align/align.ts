@@ -99,9 +99,16 @@ export function align(
     const tIdx = sToT[i];
     if (tIdx < 0) continue;
     let verseIdx = tgtTokens[tIdx].ownerIdx;
-    // Clamp to anchored extremes ± slack.
-    const min = Math.max(0, anchorLo[ownerIdx] - verseSlack);
-    const max = Math.min(verses.length - 1, anchorHi[ownerIdx] + verseSlack);
+    // Chapter-break-terminal fragments must not drift past their anchored verse
+    // range — the "——" marker is an explicit boundary, so no slack is needed.
+    const effectiveSlack = fragments[ownerIdx].meta?.chapterBreakAtEnd === true
+      ? 0
+      : verseSlack;
+    const min = Math.max(0, anchorLo[ownerIdx] - effectiveSlack);
+    const max = Math.min(
+      verses.length - 1,
+      anchorHi[ownerIdx] + effectiveSlack,
+    );
     if (verseIdx < min) verseIdx = min;
     if (verseIdx > max) verseIdx = max;
     let r = ranges.get(ownerIdx);

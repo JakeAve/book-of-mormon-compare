@@ -7,6 +7,7 @@ import type { TargetVerse } from "../types.ts";
 
 // Canonical book order — the slug names match the directories on disk.
 export const BOOK_ORDER = [
+  "title-page",
   "1-ne",
   "2-ne",
   "jacob",
@@ -22,6 +23,7 @@ export const BOOK_ORDER = [
   "morm",
   "ether",
   "moro",
+  "witnesses",
 ] as const;
 
 export type BookSlug = typeof BOOK_ORDER[number];

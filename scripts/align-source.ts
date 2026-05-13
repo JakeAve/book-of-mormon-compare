@@ -95,7 +95,7 @@ async function run(cfg: SourceConfig, opts: { preview: number; dry: boolean }) {
         byKey.set(k, v);
       }
       v.lines.push({
-        id: a.id,
+        id: `${meta.page}:${meta.line}`,
         page: meta.page as number,
         line: meta.line as number,
         text: slice,
