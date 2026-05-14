@@ -3,6 +3,24 @@ import { diff } from "../lib/diff.ts";
 import { insertSpaceBetween, splitText } from "../lib/textHelpers.ts";
 import type { Verse } from "../lib/data.ts";
 import WordMatch from "./WordMatch.tsx";
+import {
+  type ManuscriptKind,
+  parseManuscriptMarkup,
+  stripManuscriptMarkup,
+} from "../lib/manuscriptMarkup.ts";
+
+function kindStyle(kind: ManuscriptKind) {
+  switch (kind) {
+    case "deleted":
+      return { textDecoration: "line-through" };
+    case "unclear":
+      return { color: "var(--color-muted)" };
+    case "inserted":
+      return { fontWeight: "600" };
+    default:
+      return {};
+  }
+}
 
 export interface DiffProps {
   verses1: Verse[];
@@ -11,8 +29,10 @@ export interface DiffProps {
 }
 
 export function Diff({ verses1, verses2, startRow = 1 }: DiffProps) {
-  const text1 = verses1.map((v) => v.markdown ?? v.text).join("\n");
-  const text2 = verses2.map((v) => v.markdown ?? v.text).join("\n");
+  const text1 = verses1.map((v) => stripManuscriptMarkup(v.markdown ?? v.text))
+    .join("\n");
+  const text2 = verses2.map((v) => stripManuscriptMarkup(v.markdown ?? v.text))
+    .join("\n");
 
   const d = diff(text1, text2);
 
@@ -21,13 +41,19 @@ export function Diff({ verses1, verses2, startRow = 1 }: DiffProps) {
 
   let v1Idx = 0;
   let v1: Verse | undefined = verses1[v1Idx];
-  let split1 = v1 ? splitText(v1.markdown ?? v1.text) : undefined;
+  let split1 = v1
+    ? splitText(stripManuscriptMarkup(v1.markdown ?? v1.text))
+    : undefined;
+  let parsed1 = v1?.markdown ? parseManuscriptMarkup(v1.markdown) : undefined;
   let t1Idx = 0;
   let c1: JSX.Element[] = [];
 
   let v2Idx = 0;
   let v2: Verse | undefined = verses2[v2Idx];
-  let split2 = v2 ? splitText(v2.markdown ?? v2.text) : undefined;
+  let split2 = v2
+    ? splitText(stripManuscriptMarkup(v2.markdown ?? v2.text))
+    : undefined;
+  let parsed2 = v2?.markdown ? parseManuscriptMarkup(v2.markdown) : undefined;
   let t2Idx = 0;
   let c2: JSX.Element[] = [];
   let currRows1: number[] = [];
@@ -39,6 +65,8 @@ export function Diff({ verses1, verses2, startRow = 1 }: DiffProps) {
     const t = d[i];
     const t1 = split1?.[t1Idx];
     const t2 = split2?.[t2Idx];
+    const kind1 = parsed1?.[t1Idx]?.kind ?? "normal";
+    const kind2 = parsed2?.[t2Idx]?.kind ?? "normal";
 
     if (t.removed) {
       t1Idx++;
@@ -47,7 +75,7 @@ export function Diff({ verses1, verses2, startRow = 1 }: DiffProps) {
           class="highlight"
           style={{ backgroundColor: "var(--color-side1-highlight)" }}
         >
-          {t1}
+          <span style={kindStyle(kind1)}>{t1}</span>
           {insertSpaceBetween(t1, split1?.[t1Idx])}
         </span>,
       );
@@ -60,7 +88,7 @@ export function Diff({ verses1, verses2, startRow = 1 }: DiffProps) {
           class="highlight"
           style={{ backgroundColor: "var(--color-side2-highlight)" }}
         >
-          {t2}
+          <span style={kindStyle(kind2)}>{t2}</span>
           {insertSpaceBetween(t2, split2?.[t2Idx])}
         </span>,
       );
@@ -74,13 +102,13 @@ export function Diff({ verses1, verses2, startRow = 1 }: DiffProps) {
 
       c1.push(
         <WordMatch id={"a" + id}>
-          {t1}
+          <span style={kindStyle(kind1)}>{t1}</span>
           {insertSpaceBetween(t1, split1?.[t1Idx])}
         </WordMatch>,
       );
       c2.push(
         <WordMatch id={"b" + id}>
-          {t2}
+          <span style={kindStyle(kind2)}>{t2}</span>
           {insertSpaceBetween(t2, split2?.[t2Idx])}
         </WordMatch>,
       );
@@ -142,7 +170,10 @@ export function Diff({ verses1, verses2, startRow = 1 }: DiffProps) {
       t1Idx = 0;
       v1Idx++;
       v1 = verses1[v1Idx];
-      split1 = v1 ? splitText(v1.markdown ?? v1.text) : undefined;
+      split1 = v1
+        ? splitText(stripManuscriptMarkup(v1.markdown ?? v1.text))
+        : undefined;
+      parsed1 = v1?.markdown ? parseManuscriptMarkup(v1.markdown) : undefined;
       c1 = [];
       row1++;
       if (verses1.length !== verses2.length) {
@@ -209,7 +240,10 @@ export function Diff({ verses1, verses2, startRow = 1 }: DiffProps) {
       t2Idx = 0;
       v2Idx++;
       v2 = verses2[v2Idx];
-      split2 = v2 ? splitText(v2.markdown ?? v2.text) : undefined;
+      split2 = v2
+        ? splitText(stripManuscriptMarkup(v2.markdown ?? v2.text))
+        : undefined;
+      parsed2 = v2?.markdown ? parseManuscriptMarkup(v2.markdown) : undefined;
       c2 = [];
       row2++;
       if (verses1.length !== verses2.length) {
