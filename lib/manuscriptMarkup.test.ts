@@ -109,3 +109,9 @@ Deno.test("parse: token count matches splitText of stripped", () => {
   assertEquals(result.length, strippedTokens.length);
   assertEquals(result.map((t) => t.text), strippedTokens);
 });
+
+Deno.test("parse: unclosed ~~ marker applies kind to rest of string", () => {
+  const result = parseManuscriptMarkup("~~word");
+  assertEquals(result.length, 1);
+  assertEquals(result[0], { text: "word", kind: "deleted" });
+});

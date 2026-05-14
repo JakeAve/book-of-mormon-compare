@@ -8,12 +8,7 @@ export interface ManuscriptToken {
 }
 
 export function stripManuscriptMarkup(markdown: string): string {
-  return markdown
-    .replace(/~~/g, "")
-    .replace(/\{\{/g, "")
-    .replace(/\}\}/g, "")
-    .replace(/\[/g, "")
-    .replace(/\]/g, "");
+  return markdown.replace(/~~|\{\{|\}\}|\[|\]/g, "");
 }
 
 export function parseManuscriptMarkup(markdown: string): ManuscriptToken[] {
@@ -24,8 +19,12 @@ export function parseManuscriptMarkup(markdown: string): ManuscriptToken[] {
   const stack: ManuscriptKind[] = [];
   let i = 0;
 
-  const currentMode = (): ManuscriptKind =>
-    dominantKind(new Set(stack.length ? stack : ["normal"]));
+  const currentMode = (): ManuscriptKind => {
+    if (stack.includes("deleted")) return "deleted";
+    if (stack.includes("unclear")) return "unclear";
+    if (stack.includes("inserted")) return "inserted";
+    return "normal";
+  };
 
   while (i < markdown.length) {
     if (markdown[i] === "~" && markdown[i + 1] === "~") {
@@ -67,6 +66,9 @@ export function parseManuscriptMarkup(markdown: string): ManuscriptToken[] {
   for (const token of tokens) {
     const pos = stripped.indexOf(token, cursor);
     if (pos === -1) {
+      // Unreachable in practice: the stripped string was built from the same
+      // characters as the tokens (splitText result), so indexOf will always succeed.
+      // This guards against potential bugs in the pipeline.
       result.push({ text: token, kind: "normal" });
       continue;
     }
