@@ -37,6 +37,7 @@
         "page": 342,
         "line": 19,
         "text": "as their laws & their goverments were established by the voice of the people & they",
+        "markdown": "as their laws & their goverment[s] were established by the voice of the people & they",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/342"
       },
       {
@@ -163,6 +164,7 @@
         "page": 342,
         "line": 29,
         "text": "should declare unto the people these words behold I have given unto you the",
+        "markdown": "should declare unto the people these words behold ~~hold~~ I have given unto you",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/342"
       },
       {
@@ -233,6 +235,7 @@
         "page": 342,
         "line": 35,
         "text": "& now my Sons behold I ha",
+        "markdown": "& now ~~behold~~ my Sons behold I",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/342"
       },
       {
@@ -261,6 +264,7 @@
         "page": 342,
         "line": 39,
         "text": "that ye may have that preasious gift of Eternal life which we have reason",
+        "markdown": "that ye may have that preasious gift of Eternal life which ~~ye~~[we] have reason",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/342"
       },
       {
@@ -422,6 +426,7 @@
         "page": 343,
         "line": 16,
         "text": "wo because of the Rock upon which ye are built which is a sure foundation",
+        "markdown": "wo because ~~upon~~ [of] the Rock upon which ye are built which is a sure",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/343"
       },
       {
@@ -478,6 +483,7 @@
         "page": 343,
         "line": 20,
         "text": "words & therefore they went forth keeping the commandments of God to teach the",
+        "markdown": "words & therefore they went forth ~~preachen~~ [keeping] the commandments of God to teach",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/343"
       },
       {
@@ -597,6 +603,7 @@
         "page": 343,
         "line": 30,
         "text": "with such great power & authority for they had power & authority given unto them that they",
+        "markdown": "with such great power & authority for they had power & [authority] given unto them that they",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/343"
       },
       {
@@ -667,6 +674,7 @@
         "page": 343,
         "line": 36,
         "text": "Lehi did procede from thence to go to the land of Nephi",
+        "markdown": "Lehi did ~~persuade~~ procede ~~to go~~ [from] thence to go to the",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/343"
       }
     ]
@@ -681,6 +689,7 @@
         "page": 343,
         "line": 36,
         "text": "& it came to pass",
+        "markdown": "land of Nephi & it",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/343"
       },
       {
@@ -765,6 +774,7 @@
         "page": 344,
         "line": 5,
         "text": "the midst of fire & were not burned",
+        "markdown": "the midst of fire & ~~<​they​>~~ were not",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/344"
       }
     ]
@@ -779,6 +789,7 @@
         "page": 344,
         "line": 5,
         "text": "& when they saw that they were ensirceled",
+        "markdown": "burned & when they saw that they were",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/344"
       },
       {
@@ -1157,6 +1168,7 @@
         "page": 344,
         "line": 36,
         "text": "of Angels & he beheld that they did lift their eyes to Heaven & they were in the atitude",
+        "markdown": "of Angels & he beheld that they did lift their eyes to Heaven & they were in the ~~attitu~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/344"
       },
       {
@@ -1192,6 +1204,7 @@
         "page": 344,
         "line": 39,
         "text": "& behold there was power given unto them that they did turn & look & they did",
+        "markdown": "& behold ~~these~~there was power given unto them that they did turn & look & they did",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/344"
       },
       {
@@ -1290,6 +1303,7 @@
         "page": 345,
         "line": 6,
         "text": "saieth unto them you must repent & cry unto the voice even until ye shall have faith in",
+        "markdown": "saieth unto them you must repent & cry unto ~~the wo~~ [the voice] even until ye shall have",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/345"
       },
       {
@@ -1297,6 +1311,7 @@
         "page": 345,
         "line": 7,
         "text": "Christ which was taught unto you by Alma & Amulek & by Zeezrom & when ye",
+        "markdown": "Christ ~~in~~ which was taught unto you by Alma & Amulek & [by] Zeezrom & when",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/345"
       },
       {
@@ -1381,6 +1396,7 @@
         "page": 345,
         "line": 13,
         "text": "& Nephi & Lehi was in the midst of them yea they",
+        "markdown": "& Nephi & Lehi ~~were~~ [was] in the midst of them yea",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/345"
       },
       {
@@ -1528,6 +1544,7 @@
         "page": 345,
         "line": 24,
         "text": "ch saw & heard these things & they were bid to go forth & marvel not neither should they do",
+        "markdown": "ch saw & heard ~~these~~ [these] things & they were bid to go forth & marvel not neither should they",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/345"
       }
     ]

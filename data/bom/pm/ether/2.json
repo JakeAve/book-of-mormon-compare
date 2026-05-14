@@ -86,6 +86,7 @@
         "page": 434,
         "line": 24,
         "text": "ation is a honey bee & thus they did carry with them swarms of bees & all man",
+        "markdown": "ation is a honey bee & ~~this~~ thus they did carry with them swarms of bees & all",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/434"
       },
       {
@@ -163,6 +164,7 @@
         "page": 434,
         "line": 31,
         "text": "& gave directions whither they should travel",
+        "markdown": "& gave directions whither they should [travel]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/434"
       }
     ]
@@ -212,6 +214,7 @@
         "page": 434,
         "line": 34,
         "text": "beyond the sea in the wilderness but he would that they should come forth even",
+        "markdown": "beyond the sea [in] the wilderness but he would that they should come forth even",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/434"
       },
       {
@@ -219,6 +222,7 @@
         "page": 434,
         "line": 35,
         "text": "unto the land of promise which was choice above all other lands which the Lord God had",
+        "markdown": "unto the land of promise which was choice [above] all other lands which the Lord God had",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/434"
       },
       {
@@ -359,6 +363,7 @@
         "page": 435,
         "line": 8,
         "text": "repent & not continue in your iniquities until the fulness be come that ye may not bring down the",
+        "markdown": "repent & not continue in your iniquities until the fulness be come that ye may ~~know~~ [not bring] down",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/435"
       },
       {
@@ -436,6 +441,7 @@
         "page": 435,
         "line": 15,
         "text": "deth the lands & as they came to the sea they pitched their tents & they called the name of",
+        "markdown": "deth the lands & as they came to [the] sea they pitched their tents & they called the name of",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/435"
       },
       {
@@ -534,6 +540,7 @@
         "page": 435,
         "line": 25,
         "text": "be cut off from the presence of the Lord & this is my thoughts upon the land which I shall",
+        "markdown": "be cut off from the presence of the Lord & this [is] my thoughts upon the land which I shall",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/435"
       },
       {
@@ -604,6 +611,7 @@
         "page": 435,
         "line": 31,
         "text": "& they were built after a manner that they were",
+        "markdown": "& they were built ~~upon~~ [after] a manner that they",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/435"
       },
       {
@@ -667,6 +675,7 @@
         "page": 435,
         "line": 38,
         "text": "made the barges according as thou hast directed me",
+        "markdown": "made the barges [according] as thou hast directed me",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/435"
       }
     ]
@@ -821,6 +830,7 @@
         "page": 436,
         "line": 11,
         "text": "hold ye cannot have windows for they will be dashed in peces neither shall ye take",
+        "markdown": "hold ye cannot have windows for they will be dashed in ~~peaces~~ [peces] neither shall ye",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/436"
       },
       {
@@ -863,6 +873,7 @@
         "page": 436,
         "line": 15,
         "text": "so the rains & the floods have I sent forth",
+        "markdown": "so ~~&~~ the rains & the floods have I sent",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/436"
       }
     ]
@@ -877,6 +888,7 @@
         "page": 436,
         "line": 15,
         "text": "& behold I prepare you against these things for",
+        "markdown": "forth & behold I prepare you against these things",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/436"
       },
       {

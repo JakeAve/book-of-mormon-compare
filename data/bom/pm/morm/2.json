@@ -121,6 +121,7 @@
         "page": 419,
         "line": 5,
         "text": "we did fortify the city with our mights but notwithstanding all our fortifications the",
+        "markdown": "we did fortify the city with ~~all u~~ our mights but notwithstanding all our",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/419"
       },
       {
@@ -219,6 +220,7 @@
         "page": 419,
         "line": 11,
         "text": "tion which hung over my People they did not repent of their evil doings therefore",
+        "markdown": "tion which hung over my People they did not repent of their evil doing[s] therefore",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/419"
       },
       {
@@ -226,6 +228,7 @@
         "page": 419,
         "line": 12,
         "text": "there was blood & carnage spread throughout all the face of th land both on the part of the Nephites",
+        "markdown": "there was blood & carnage spread throughout all the [face of th] land both on the part of the Nephites",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/419"
       },
       {
@@ -261,6 +264,7 @@
         "page": 419,
         "line": 15,
         "text": "& he came against us with an army of forty & four thousand & behold I withstood him with",
+        "markdown": "& he came against us with an army of forty [& four] thousand & behold I withstood him with",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/419"
       },
       {
@@ -296,6 +300,7 @@
         "page": 419,
         "line": 18,
         "text": "& it came to pass that the Nephites began to repent of their iniquity & began to cry",
+        "markdown": "& it came to pass that the Nephites began to repent of their ~~iniquities~~ iniquity & began to",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/419"
       },
       {
@@ -345,6 +350,7 @@
         "page": 419,
         "line": 23,
         "text": "People of Nephi",
+        "markdown": "People of Nephi~~tes~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/419"
       }
     ]

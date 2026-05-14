@@ -198,6 +198,7 @@
         "page": 145,
         "line": 24,
         "text": "the Son power to make intersession for the children of men",
+        "markdown": "the Son power to make ~~interses~~ [intersession] for the children of",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/145"
       }
     ]
@@ -212,6 +213,7 @@
         "page": 145,
         "line": 24,
         "text": "having ascended into heaven hav",
+        "markdown": "men having ascended into heaven",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/145"
       },
       {
@@ -226,6 +228,7 @@
         "page": 145,
         "line": 26,
         "text": "ixt them & Justice having broken the bands of death taken upon himself their iniquity & their",
+        "markdown": "ixt them & Justice having broken the bands of death taken upon himself their ~~iniquities~~ iniquity &",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/145"
       },
       {
@@ -233,6 +236,7 @@
         "page": 145,
         "line": 27,
         "text": "transgressions having redeemed them & satisfied the demands of Justice",
+        "markdown": "transgressions having redeemed them & ~~sanctified~~ [satisfied] the demands of",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/145"
       }
     ]
@@ -247,6 +251,7 @@
         "page": 145,
         "line": 27,
         "text": "& now I say unto",
+        "markdown": "Justice & now I say",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/145"
       },
       {
@@ -471,6 +476,7 @@
         "page": 146,
         "line": 6,
         "text": "& behold I say unto you",
+        "markdown": "~~I~~ & behold I say unto",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/146"
       },
       {

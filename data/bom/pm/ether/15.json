@@ -51,6 +51,7 @@
         "page": 456,
         "line": 7,
         "text": "wives & their children",
+        "markdown": "~~wves~~ [wives] & their",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/456"
       }
     ]
@@ -65,6 +66,7 @@
         "page": 456,
         "line": 7,
         "text": "he began to repent of the evil which he had done he began to rem",
+        "markdown": "children he began to repent of the evil which he had done he began to",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/456"
       },
       {
@@ -226,6 +228,7 @@
         "page": 456,
         "line": 21,
         "text": "tched his tents near unto them & therefore on the morrow they did come to battle",
+        "markdown": "tched his tents near ~~un~~ [unto] them & therefore on the morrow they did come to",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/456"
       }
     ]
@@ -240,6 +243,7 @@
         "page": 456,
         "line": 21,
         "text": "& it came",
+        "markdown": "battle & it",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/456"
       },
       {
@@ -415,6 +419,7 @@
         "page": 456,
         "line": 34,
         "text": "& it came to pass that when they were all gathered together every",
+        "markdown": "& it came to pass that [when] they were all gathered together every",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/456"
       },
       {
@@ -422,6 +427,7 @@
         "page": 456,
         "line": 35,
         "text": "one to the army which he would with their wives & their children both men women",
+        "markdown": "one to the ~~army~~ [army] which he would with their wives & their children both men",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/456"
       },
       {
@@ -443,6 +449,7 @@
         "page": 456,
         "line": 38,
         "text": "other to battle & they fought all that day & conquored not",
+        "markdown": "other to battle & they fought all that day & ~~conquour~~ [conquored]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/456"
       }
     ]
@@ -457,6 +464,7 @@
         "page": 456,
         "line": 38,
         "text": "& it came to pass that when",
+        "markdown": "not & it came to pass that",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/456"
       },
       {
@@ -856,6 +864,7 @@
         "page": 457,
         "line": 29,
         "text": "upon his sword that he rested a little & he smote of the head of Shiz",
+        "markdown": "upon his ~~sword~~ [sword] that he rested a little & he smote of the head of",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/457"
       }
     ]
@@ -870,6 +879,7 @@
         "page": 457,
         "line": 29,
         "text": "& it came to pass",
+        "markdown": "Shiz & it came to",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/457"
       },
       {
@@ -933,6 +943,7 @@
         "page": 457,
         "line": 34,
         "text": "& he finished his record & the hundredth part I have not written & he hid",
+        "markdown": "& he finished his record & the hundredth part I have not written & he ~~had~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/457"
       },
       {

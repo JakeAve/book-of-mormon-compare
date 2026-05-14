@@ -373,6 +373,7 @@
         "page": 161,
         "line": 23,
         "text": "it came to pass that when Mosiah had <​​> an end of speaking and reading to",
+        "markdown": "it came to pass that when Mosiah had <​~~◊ade~~​> an end of speaking and reading to",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/161"
       },
       {
@@ -492,6 +493,7 @@
         "page": 161,
         "line": 33,
         "text": "therefore Alma",
+        "markdown": "~~before~~ therefore",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/161"
       },
       {
@@ -513,6 +515,7 @@
         "page": 161,
         "line": 36,
         "text": "yea and as many as he did baptise did blong to the church of God and",
+        "markdown": "yea and ~~is~~ as many as he did baptise did blong to the church of God",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/161"
       },
       {
@@ -646,6 +649,7 @@
         "page": 162,
         "line": 11,
         "text": "-es except it were repentance and faith in",
+        "markdown": "~~es in the land of Zarahemla~~ -es except",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/162"
       },
       {
@@ -681,6 +685,7 @@
         "page": 162,
         "line": 14,
         "text": "of Christ or of God they did join the churches of God",
+        "markdown": "of Christ [or] of God they did join the churches of God",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/162"
       }
     ]

@@ -114,6 +114,7 @@
         "page": 247,
         "line": 34,
         "text": "or unto life yea I know that he allotteth unto men yea decreeth unto them",
+        "markdown": "or unto life yea I know that he allotteth unto ~~man~~ [men] yea decreeth unto",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/247"
       },
       {
@@ -121,6 +122,7 @@
         "page": 247,
         "line": 35,
         "text": "decrees which are unalterable according to their wills whether it be unto",
+        "markdown": "decrees which are ~~undlterable~~ [unalterable] according to their wills whether it be",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/247"
       },
       {
@@ -163,6 +165,7 @@
         "page": 248,
         "line": 1,
         "text": "good or evil life or death joy or remorse of conscience",
+        "markdown": "good or evil life or death joy or ~~sorrow~~ [remorse] of",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/248"
       }
     ]
@@ -177,6 +180,7 @@
         "page": 248,
         "line": 1,
         "text": "now seeing that I kn",
+        "markdown": "conscience now seeing that I",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/248"
       },
       {
@@ -282,6 +286,7 @@
         "page": 248,
         "line": 10,
         "text": "ument in the hands of God to bring some soul to repentance & this is my joy",
+        "markdown": "ument in the hands of God to bring some soul to repentance & ~~thus~~ this is my",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/248"
       }
     ]
@@ -296,6 +301,7 @@
         "page": 248,
         "line": 10,
         "text": "&",
+        "markdown": "joy",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/248"
       },
       {
@@ -541,6 +547,7 @@
         "page": 248,
         "line": 32,
         "text": "Chapter",
+        "markdown": "——",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/248"
       },
       {
@@ -548,6 +555,7 @@
         "page": 248,
         "line": 32,
         "text": "Behold now it came to pass that after the",
+        "markdown": "—— Chapter []—— Behold now it came to pass",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/248"
       }
     ]

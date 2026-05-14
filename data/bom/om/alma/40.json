@@ -9,6 +9,7 @@
         "page": 131,
         "line": 30,
         "text": "now my Son here is somewhat",
+        "markdown": "~~norn~~ now my Son here is",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/131"
       },
       {
@@ -16,6 +17,7 @@
         "page": 131,
         "line": 31,
         "text": "more I would say unto thee for I perceive that thy mind is worried concerning the",
+        "markdown": "more I would say unto thee for I perceive that ~~the~~ [thy] mind is worried concerning",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/131"
       },
       {
@@ -23,6 +25,7 @@
         "page": 131,
         "line": 32,
         "text": "resurrection of the dead",
+        "markdown": "resurrection of the ~~dead~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/131"
       }
     ]
@@ -37,6 +40,7 @@
         "page": 131,
         "line": 32,
         "text": "behold I say unto you that there is no resurrection",
+        "markdown": "dead behold I say unto you that there is no",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/131"
       },
       {
@@ -44,6 +48,7 @@
         "page": 131,
         "line": 33,
         "text": "or I would say in other words that this mortal dos not put on immortality this",
+        "markdown": "or I would say in other words that this mortal dos not put on immortality th{{is}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/131"
       },
       {
@@ -51,6 +56,7 @@
         "page": 131,
         "line": 34,
         "text": "corruption does not put on incorruption untill after the comeing of Christ beh",
+        "markdown": "corruption does not put on incorruption untill after the comeing of Christ be{{h}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/131"
       }
     ]
@@ -65,6 +71,7 @@
         "page": 131,
         "line": 35,
         "text": "old he bringeth to pass the resurrection of the dead but behold my Son the resurr",
+        "markdown": "old he bringeth to pass the resurrection of the dead but behold my Son the resur{{r}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/131"
       },
       {
@@ -79,6 +86,7 @@
         "page": 132,
         "line": 1,
         "text": "is not yet now I unfold unto you a mystery nevertheless there are many mysteries which are kept that no one knoweth them save God himself but I shew",
+        "markdown": "{{is not yet now I unfold unto you a}} mystery nevertheless there are many my{{steries which are kept that no one}} knoweth them save God himself but I shew",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/132"
       },
       {
@@ -86,6 +94,7 @@
         "page": 132,
         "line": 2,
         "text": "unto you one thing which I have enquired diligently of God that I might know",
+        "markdown": "{{unto you one thing which I have}} enquired diligently of God that I might know",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/132"
       },
       {
@@ -93,6 +102,7 @@
         "page": 132,
         "line": 3,
         "text": "that is concerning the resurrection",
+        "markdown": "{{that is concerning the resurrect}}ion",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/132"
       }
     ]
@@ -114,6 +124,7 @@
         "page": 132,
         "line": 4,
         "text": "from the dead now when this time cometh no one knoes but God knoweth the time which is appointed",
+        "markdown": "{{from the dead now when this}} time cometh no one ~~noes~~ [knoes] but God knoweth the time w{{hich is",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/132"
       }
     ]
@@ -128,6 +139,7 @@
         "page": 132,
         "line": 4,
         "text": "now whether there shall be one time or a second time or a third",
+        "markdown": "appointed now whether there}} shall be one time or a second time or a",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/132"
       },
       {
@@ -135,6 +147,7 @@
         "page": 132,
         "line": 5,
         "text": "time that <​men shall come forth from the dead​> it mattereth not for God Knoweth all these things & it suffiseth me to kno",
+        "markdown": "{{time that <​men shall come forth from the dead​> it mattereth not fo}}r God Knoweth all these things & it suffiseth me to kno",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/132"
       },
       {
@@ -142,6 +155,7 @@
         "page": 132,
         "line": 6,
         "text": "w that this is the case that there is a time appointed when all shall rise from the dead &",
+        "markdown": "{{w that this is the case that}} there is a time appointed when all shall rise from the dead &",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/132"
       }
     ]
@@ -156,6 +170,7 @@
         "page": 132,
         "line": 7,
         "text": "now there must needs be a space betwixt the time of death & the time of the resurr",
+        "markdown": "{{now there mus}}t n{{eeds be a}} space betwixt the time of death & the time of the resurr",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/132"
       },
       {
@@ -163,6 +178,7 @@
         "page": 132,
         "line": 8,
         "text": "ection",
+        "markdown": "{{ection",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/132"
       }
     ]
@@ -177,6 +193,7 @@
         "page": 132,
         "line": 8,
         "text": "& now I would inquire what becometh of the souls of men from this time of dea",
+        "markdown": "& now I wo}}uld inqu{{ire}} what becometh of the souls of men from this time of dea",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/132"
       },
       {
@@ -184,6 +201,7 @@
         "page": 132,
         "line": 9,
         "text": "th to the time appointed for the resurrection",
+        "markdown": "{{th to the time}} appointed for the resurrection",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/132"
       }
     ]
@@ -205,6 +223,7 @@
         "page": 132,
         "line": 10,
         "text": "me appointed for men to rise it mattereth not for all do not die at once & this",
+        "markdown": "{{me appointe}}d for men t{{o r}}ise it mattereth not for all do not die at once & this",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/132"
       },
       {
@@ -212,6 +231,7 @@
         "page": 132,
         "line": 11,
         "text": "mattereth not all is as one day with God & time only is measured unto man",
+        "markdown": "{{matteret}}h {{not}} all is as o{{n}}e day with God & time only is measured unto man",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/132"
       }
     ]
@@ -226,6 +246,7 @@
         "page": 132,
         "line": 12,
         "text": "therefore there is a time appointed unto men that they shall rise from the dead & there",
+        "markdown": "{{therefore the}}re is a time {{ap}}pointed unto men that they shall rise from the dead & there",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/132"
       },
       {
@@ -233,6 +254,7 @@
         "page": 132,
         "line": 13,
         "text": "is a space between the time of death & the resurrection & now concerning this spaceof time what becometh of the souls of men is the thing which I have inquired dili",
+        "markdown": "{{is a space}} between the time of death & the resurrection & now concerning this spac{{eof}} time what becometh of the souls of men is the thing which I have inquired dili",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/132"
       },
       {
@@ -324,6 +346,7 @@
         "page": 132,
         "line": 20,
         "text": "shall it come to pass that the spirits of those which are righteous are received into",
+        "markdown": "~~that~~ shall it come to pass that the spirits of those which are righteous are received",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/132"
       },
       {
@@ -352,6 +375,7 @@
         "page": 132,
         "line": 22,
         "text": "& then shall it come to",
+        "markdown": "~~&~~ & then shall it come to",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/132"
       },
       {
@@ -359,6 +383,7 @@
         "page": 132,
         "line": 23,
         "text": "pass that the spirits of the wicked yea which are evil for behold they have no part nor",
+        "markdown": "pass ~~the~~ [that] the spirits of the wicked ye{{a which}} are evil for behold they have no part",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/132"
       },
       {
@@ -366,6 +391,7 @@
         "page": 132,
         "line": 24,
         "text": "portion of the spirit of the Lord for behold they chose evil works rather than good therefore",
+        "markdown": "portion of the spirit of the Lord for b{{ehold they}} chose evil works rather than good therefore",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/132"
       },
       {
@@ -373,6 +399,7 @@
         "page": 132,
         "line": 25,
         "text": "the spirit of the Devil did enter into them & take posession of their house &",
+        "markdown": "the spirit of the ~~Lord~~ Devil did {{enter in}}to them & take posession of their house",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/132"
       },
       {
@@ -380,6 +407,7 @@
         "page": 132,
         "line": 26,
         "text": "these shall be cast out in to outer darkness there shall be weeping & wailing & gnashing",
+        "markdown": "{{t}}hese shall be cast out in to out[er] darkness there shall be weeping & wailing & gnashing",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/132"
       },
       {
@@ -387,6 +415,7 @@
         "page": 132,
         "line": 27,
         "text": "of teeth & this because of their own iniquity being lead captive by the will of the Devil",
+        "markdown": "{{o}}f teeth & this because of their own iniquity being lead captive by the will of the Devil",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/132"
       }
     ]
@@ -401,6 +430,7 @@
         "page": 132,
         "line": 28,
         "text": "now this is the state of the souls of the wicked yea in darkness & a state of awful fear",
+        "markdown": "{{n}}ow this is the state of the souls of the wicked yea in darkness & a state of awful fear",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/132"
       },
       {
@@ -408,6 +438,7 @@
         "page": 132,
         "line": 29,
         "text": "ful looking for of the firey indignation of the wrath of God upon them thus they",
+        "markdown": "{{f}}ul looking for of the firey indignation of the wrath of God upon them ~~so <​th​>~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/132"
       },
       {
@@ -415,6 +446,7 @@
         "page": 132,
         "line": 30,
         "text": "remain in this state as well as the righteous in paradise untill the time of their resur",
+        "markdown": "{{re}}main in this state as well as the righteous in paradise untill the time of their resur",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/132"
       },
       {
@@ -422,6 +454,7 @@
         "page": 132,
         "line": 31,
         "text": "rection",
+        "markdown": "{{r}}ection",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/132"
       }
     ]
@@ -450,6 +483,7 @@
         "page": 133,
         "line": 1,
         "text": "I admit it m[a]y be termed a resurrection the raiseing the spirit or the soul",
+        "markdown": "I admit it m[a]y be termed a resurre{{ction the raiseing the spirit or the soul}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/133"
       },
       {
@@ -457,6 +491,7 @@
         "page": 133,
         "line": 2,
         "text": "& there consignation to happiness or miseary according to the words which have been",
+        "markdown": "& there consignation to happiness or miseary {{according to the words which have been}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/133"
       },
       {
@@ -478,6 +513,7 @@
         "page": 133,
         "line": 3,
         "text": "& behold again it hath been spoken that there is a first resurrection a resurrection",
+        "markdown": "& behold again it hath been spoken that th{{ere is a first resurrection a resurrection}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/133"
       },
       {
@@ -485,6 +521,7 @@
         "page": 133,
         "line": 4,
         "text": "of all those which have been or which are or which shall be down to the resurrection of",
+        "markdown": "of all those which have been or which are or which {{shall be down to the resurrection of}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/133"
       },
       {
@@ -506,6 +543,7 @@
         "page": 133,
         "line": 5,
         "text": "now we do not suppose that this first resurrection which is spo",
+        "markdown": "now we do not suppose that {{this first resurrection which is spo}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/133"
       },
       {
@@ -513,6 +551,7 @@
         "page": 133,
         "line": 6,
         "text": "ken of in this manner can be the resurrection of the souls & their consignation to happi",
+        "markdown": "ken of in this manner can be the resurrection of the {{souls & their consignation to happi}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/133"
       },
       {
@@ -520,6 +559,7 @@
         "page": 133,
         "line": 7,
         "text": "ness or miseary ye cannot suppose that this is what it meaneth",
+        "markdown": "ness or miseary ye cannot suppose that this is what it {{meaneth",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/133"
       }
     ]
@@ -534,6 +574,7 @@
         "page": 133,
         "line": 7,
         "text": "behold I say unto you",
+        "markdown": "behold I say unto you}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/133"
       },
       {
@@ -541,6 +582,7 @@
         "page": 133,
         "line": 8,
         "text": "nay but it meaneth the reuniting of the soul with the body of those from the days",
+        "markdown": "nay but it meaneth the reuniting of the soul with t{{he body of those from the days}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/133"
       },
       {
@@ -548,6 +590,7 @@
         "page": 133,
         "line": 9,
         "text": "of Adam down to the resurrection of Christ",
+        "markdown": "of Adam ~~donw~~ down to the resurrection of",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/133"
       }
     ]
@@ -562,6 +605,7 @@
         "page": 133,
         "line": 9,
         "text": "now whether the souls & the bodies of th",
+        "markdown": "Christ n{{ow whether the souls & the bodies of",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/133"
       },
       {
@@ -569,6 +613,7 @@
         "page": 133,
         "line": 10,
         "text": "ose of which have been spoken shall all be reunited at once the wicked as well as the",
+        "markdown": "ose ~~t~~ [of] which have been spoken shall all be reunited a{{t on}}ce the w{{icked as well as",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/133"
       },
       {
@@ -576,6 +621,7 @@
         "page": 133,
         "line": 11,
         "text": "righteous I do not say let it suffise that I say that they all come forth or in other",
+        "markdown": "righteous I do not say let it suffise that I say th{{a}}t they all come {{forth or in other}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/133"
       },
       {
@@ -583,6 +629,7 @@
         "page": 133,
         "line": 12,
         "text": "words that their resurrection cometh to pass before the resurrection of those which",
+        "markdown": "words that their resurrection cometh to pass before the resurrection of {{those which}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/133"
       },
       {
@@ -604,6 +651,7 @@
         "page": 133,
         "line": 13,
         "text": "now my Son I do not say that their resurrection",
+        "markdown": "now my Son I do n{{o}}t say that {{their resurrection}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/133"
       },
       {
@@ -611,6 +659,7 @@
         "page": 133,
         "line": 14,
         "text": "cometh at the resurrection of Christ but behold I give it as my opinion that",
+        "markdown": "cometh at the resurrection of Christ but behold {{I giv}}e it as {{my opinion that}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/133"
       },
       {
@@ -618,6 +667,7 @@
         "page": 133,
         "line": 15,
         "text": "the souls & the bodies are reunited of the righteous at the resurrection of Christ &",
+        "markdown": "the souls & the bodies are reunited of the righteo{{u}}s at the resurrection {{of Christ &}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/133"
       },
       {
@@ -639,6 +689,7 @@
         "page": 133,
         "line": 16,
         "text": "but whether it be at his resurrection or after I do not say",
+        "markdown": "but whether it be at his resurrection or afte{{r I}} do n{{ot say}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/133"
       },
       {
@@ -653,6 +704,7 @@
         "page": 133,
         "line": 18,
         "text": "state of the soul in happiness or in miseary untill the time which is appointed of God",
+        "markdown": "state of the soul in happiness [or] ~~&~~ in miseary untill the time which is app{{o}}inted of",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/133"
       },
       {
@@ -688,6 +740,7 @@
         "page": 133,
         "line": 21,
         "text": "of those things of which have been spoken by the mouths of the Propets",
+        "markdown": "of those things of which have been spoken by the mouth[s] of the Propets",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/133"
       }
     ]
@@ -709,6 +762,7 @@
         "page": 133,
         "line": 22,
         "text": "stored to the body & the body to the soul yea & every limb & joint shall be restored",
+        "markdown": "stored to the body & the body to the soul yea & every ~~limb~~ limb & joint shall be",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/133"
       },
       {
@@ -779,6 +833,7 @@
         "page": 133,
         "line": 26,
         "text": "but behold an awful death cometh upon the wicked for they die as",
+        "markdown": "but behold an awfu{{l}} death cometh upon the wicked for they die a{{s}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/133"
       },
       {
@@ -786,6 +841,7 @@
         "page": 133,
         "line": 27,
         "text": "to things pertaining to things of righteousness for they are unclean & no unclean th",
+        "markdown": "to things pertaining to things of r{{ighteousn}}ess for they are unclean & no unclean th",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/133"
       },
       {
@@ -793,6 +849,7 @@
         "page": 133,
         "line": 28,
         "text": "ing can inherit the Kingdom of God but they are cast out & consigned to part",
+        "markdown": "ing can inherit the Kingdom of God {{bu}}t they are cast out & consigned to part",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/133"
       },
       {
@@ -800,6 +857,7 @@
         "page": 133,
         "line": 29,
         "text": "ake of the fruits of their labours or their works which have been evil & they",
+        "markdown": "ake of the fruits of their labours or t{{heir}} works which have been evil & they",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/133"
       },
       {

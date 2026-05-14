@@ -65,6 +65,7 @@
         "page": 14,
         "line": 19,
         "text": "my Brethren should again return into the land of Jerusalem & bring down",
+        "markdown": "my Brethren should again return ~~unto~~ into the land of Jerusalem & bring",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/14"
       },
       {
@@ -191,6 +192,7 @@
         "page": 14,
         "line": 29,
         "text": "Ishmael & his wife & his three other daughters",
+        "markdown": "Ishmael & his ~~sons~~ wife & his three ~~Sons~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/14"
       }
     ]
@@ -205,6 +207,7 @@
         "page": 14,
         "line": 29,
         "text": "& it came to pass in the which",
+        "markdown": "other daughters & it came to pass in",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/14"
       },
       {
@@ -240,6 +243,7 @@
         "page": 14,
         "line": 32,
         "text": "yea even unto Laman & unto Lemuel behold thou art mine elder Brethren & how is",
+        "markdown": "yea even unto Laman & [unto] Lemuel behold thou art mine elder Brethren & how is",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/14"
       },
       {
@@ -408,6 +412,7 @@
         "page": 15,
         "line": 8,
         "text": "for behold the <​spirit of the​> Lord ceaseth soon to strive with them for behold they have rej",
+        "markdown": "for behold the <​spirit [of] the​> Lord ceaseth soon to strive with them for behold they have rej",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/15"
       },
       {
@@ -583,6 +588,7 @@
         "page": 15,
         "line": 24,
         "text": "that they were angery with me again & sought to lay hands upon me bu",
+        "markdown": "~~& I stood before m)~~ that they were angery with me again & sought to",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/15"
       },
       {

@@ -79,6 +79,7 @@
         "page": 139,
         "line": 13,
         "text": "of all they possessed a fifth part of their gold & of their silver & a fifth part of their",
+        "markdown": "of all they possessed ~~&~~ a fifth part of their gold & of their silver & a fifth part of",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/139"
       },
       {
@@ -254,6 +255,7 @@
         "page": 139,
         "line": 26,
         "text": "a spacious palace & a throne in the midst thereof all of which was of fine w",
+        "markdown": "a spacious palace & a throne in the ~~midst~~ midst thereof all of which was of fine",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/139"
       },
       {
@@ -303,6 +305,7 @@
         "page": 139,
         "line": 29,
         "text": "& the seats which was sat apart for the high priests which was above",
+        "markdown": "& the seats [which] was sat apart for the high priests which was above",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/139"
       },
       {
@@ -380,6 +383,7 @@
         "page": 139,
         "line": 36,
         "text": "used many buildings to be built in the land Shilom & he caused a great tower to be bu",
+        "markdown": "used many buildings to be built in the land ~~Shemlon~~ [Shilom] & he caused a great tower to be",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/139"
       },
       {
@@ -443,6 +447,7 @@
         "page": 140,
         "line": 3,
         "text": "& it came to pass that he planted vineyards",
+        "markdown": "& it came to pass that he planted ~~a~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/140"
       },
       {
@@ -849,6 +854,7 @@
         "page": 140,
         "line": 37,
         "text": "with another & to raise contentions among my People therefore I will slay him",
+        "markdown": "with another & to raise contentions among my People therefore I will slay ~~he◊~~him",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/140"
       }
     ]

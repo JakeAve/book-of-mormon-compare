@@ -9,6 +9,7 @@
         "page": 119,
         "line": 23,
         "text": "The words of Mormon Chapter 2.d",
+        "markdown": "The words of Mormon [Chapter 2.d]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/119"
       }
     ]
@@ -156,6 +157,7 @@
         "page": 119,
         "line": 37,
         "text": "fulfiled yea & I also know that as many things as have been prophesied Concerning",
+        "markdown": "fulfiled ~~&~~yea & I also know that as many things [as] have been prophesied Concerning",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/119"
       },
       {
@@ -247,6 +249,7 @@
         "page": 120,
         "line": 7,
         "text": "purpose for thus it whispereth me according to the workings of the spirit of the Lord",
+        "markdown": "purpose for thus ~~is~~ it whispereth me according to the workings of the spirit of the",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/120"
       },
       {

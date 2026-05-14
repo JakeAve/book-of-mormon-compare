@@ -9,6 +9,7 @@
         "page": 369,
         "line": 26,
         "text": "& it came to pass that thus passed away",
+        "markdown": "& it came to pass that ~~thus~~ [thus] passed",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/369"
       },
       {
@@ -156,6 +157,7 @@
         "page": 369,
         "line": 39,
         "text": "also an hundred years had passed away since the days of Mosiah which was",
+        "markdown": "~~unto~~also an hundred years had passed away since the day[s] of Mosiah which was",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/369"
       },
       {
@@ -282,6 +284,7 @@
         "page": 370,
         "line": 9,
         "text": "hesying which was sent among them & thus passed away the tenth year also & the",
+        "markdown": "hesying which was sent among them & thus passed away the tenth year also & ~~they~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/370"
       },
       {
@@ -310,6 +313,7 @@
         "page": 370,
         "line": 11,
         "text": "there began to be wars & contentions throughout all the land & the Gadianton robb",
+        "markdown": "there began to be wars & contention[s] throughout all the land & the Gadianton robb",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/370"
       },
       {
@@ -422,6 +426,7 @@
         "page": 370,
         "line": 21,
         "text": "soar & it came to pass that those Lamanites which had united with the Nephites were",
+        "markdown": "soar & it came to pass that those Lamanites which ~~were~~ [had] [united] with the Nephites",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/370"
       },
       {
@@ -492,6 +497,7 @@
         "page": 370,
         "line": 25,
         "text": "in the Commencement of the fourteenth year the war between the robbers & the people of Nephi did",
+        "markdown": "in the ~~Commencenemt~~ [Commencement of] the fourteenth [year] the war between the robbers & the people of Nephi",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/370"
       },
       {

@@ -310,6 +310,7 @@
         "page": 197,
         "line": 21,
         "text": "the angel said unto me he is a holy man wherefore I know he is a holy man",
+        "markdown": "the angel said ~~into~~ unto me he is a holy man wherefore I know he is a holy",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/197"
       },
       {
@@ -338,6 +339,7 @@
         "page": 197,
         "line": 23,
         "text": "he hath testified are true for bhold I say unto you that as the Lord liveth, even so he",
+        "markdown": "he hath testified are true for [bhold] I say unto you that as the Lord liveth, even so he",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/197"
       },
       {
@@ -506,6 +508,7 @@
         "page": 198,
         "line": 2,
         "text": "the people to administer the law at their times of trial or at the trials of the cri",
+        "markdown": "the people to administer the law at their times of trial~~s~~ or at the trials of the cri",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/198"
       },
       {
@@ -723,6 +726,7 @@
         "page": 198,
         "line": 21,
         "text": "the voice of his Angels repent ye repent for the Kingdom of heaven is at hand",
+        "markdown": "the voice of his Angels repent ye repent ~~ye~~ for the Kingdom of heaven is at",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/198"
       }
     ]
@@ -884,6 +888,7 @@
         "page": 198,
         "line": 35,
         "text": "ing O ye wicked and perverse Generation why hath Satan got such great hold",
+        "markdown": "ing O ye wicked and perverse Generation why ~~has~~ hath Satan got such great",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/198"
       },
       {
@@ -989,6 +994,7 @@
         "page": 199,
         "line": 8,
         "text": "now we know that this man is a child of the Devil for he hath lieed unto",
+        "markdown": "now we know that this man is a child of the Devil for he hath ~~hath~~ [lieed]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/199"
       },
       {

@@ -310,6 +310,7 @@
         "page": 112,
         "line": 35,
         "text": "& I sayeh unto him believest",
+        "markdown": "& I ~~sayest~~ sayeh unto him",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/112"
       },
       {
@@ -422,6 +423,7 @@
         "page": 113,
         "line": 6,
         "text": "& I said what am I that I should tempt God to shew unto",
+        "markdown": "& I said ~~wa◊~~ [what] am I that I should tempt God to shew",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/113"
       },
       {
@@ -604,6 +606,7 @@
         "page": 113,
         "line": 22,
         "text": "truly testify of him & because that I have thus lied unto God I greatly fear lest my",
+        "markdown": "truly testify of him & because that I have ~~this~~ [thus] lied unto God I greatly fear lest",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/113"
       },
       {
@@ -688,6 +691,7 @@
         "page": 113,
         "line": 28,
         "text": "of my Father which was in heaven for he had heard my cry & answered my prayer",
+        "markdown": "of my Father which was in heaven for he had heard my cry & answered my prayer~~s~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/113"
       }
     ]
@@ -877,6 +881,7 @@
         "page": 114,
         "line": 8,
         "text": "obediance unto the commands & I make an end of my writing upon these plates which wr",
+        "markdown": "obediance unto the commands & I make an [end] of my writing upon these plates which wr",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/114"
       },
       {

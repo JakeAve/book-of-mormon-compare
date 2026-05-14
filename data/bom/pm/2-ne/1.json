@@ -9,6 +9,7 @@
         "page": 50,
         "line": 26,
         "text": "The second Book of Nephi Chapter .1.st",
+        "markdown": "The [second] Book of Nephi Chapter .1.st",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/50"
       },
       {
@@ -23,6 +24,7 @@
         "page": 50,
         "line": 28,
         "text": "the Lord warns Nephi to depart into the wilderness .&C. his journyings",
+        "markdown": "the Lord warns Nephi to ~~tepart~~ [depart] into the wilderness .&C. his journyings",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/50"
       },
       {
@@ -30,6 +32,7 @@
         "page": 50,
         "line": 29,
         "text": "in the wilderness .&C.— And now it came to pass after I Nephi had ma",
+        "markdown": "in the wilderness .&C.— And now it came to pass ~~that after~~ [after I] Nephi had",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/50"
       }
     ]
@@ -44,6 +47,7 @@
         "page": 50,
         "line": 30,
         "text": "de an end of teaching my Brethren our father Lehi also spake many thi",
+        "markdown": "de an end of teaching my Brethren our father Lehi ~~d◊~~ also spake many",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/50"
       },
       {
@@ -163,6 +167,7 @@
         "page": 51,
         "line": 2,
         "text": "afflictions we have obtained a land of promise a land which is choice ab",
+        "markdown": "afflictions we have obtained a land of promise ~~&~~ a land which is choice",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/51"
       },
       {
@@ -464,6 +469,7 @@
         "page": 51,
         "line": 35,
         "text": "possessions & he will cause them to be scattered & smitten",
+        "markdown": "~~inheritance~~ [possessions] & he will cause them to be scattered &",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/51"
       }
     ]
@@ -478,6 +484,7 @@
         "page": 51,
         "line": 35,
         "text": "yea as one",
+        "markdown": "smitten yea as",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/51"
       },
       {
@@ -660,6 +667,7 @@
         "page": 52,
         "line": 15,
         "text": "rd your God should come out in the fulness of his wrath upon you that ye",
+        "markdown": "rd your God should come out in the fulness of his wrath ~~against~~ [upon you] that",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/52"
       },
       {
@@ -1136,6 +1144,7 @@
         "page": 53,
         "line": 21,
         "text": "ou hast been brought out of the land of Jerusalem & I know that thou art a true",
+        "markdown": "ou hast been brought out of ~~the land of~~ [the land of] Jerusalem & I know that thou",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/53"
       },
       {
@@ -1199,6 +1208,7 @@
         "page": 53,
         "line": 26,
         "text": "the commandments of the Lord the Lord hath consecrated this land for the security",
+        "markdown": "the commandments of the Lord the Lord hath ~~covenanted~~ [consecrated] this land for the",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/53"
       },
       {

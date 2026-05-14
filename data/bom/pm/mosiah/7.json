@@ -9,6 +9,7 @@
         "page": 132,
         "line": 11,
         "text": "And now it came to pass that",
+        "markdown": "Chapter []—— And now it came to",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/132"
       },
       {
@@ -37,6 +38,7 @@
         "page": 132,
         "line": 15,
         "text": "the time they left the land of Zarahemla therefore they wearied him with their",
+        "markdown": "the time they left the land of Zarahemla therefore they [wearied] ~~wearyied~~ him with",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/132"
       },
       {
@@ -485,6 +487,7 @@
         "page": 133,
         "line": 13,
         "text": "Brethren but caused that they should go to the hill which was North of Shilom & br",
+        "markdown": "Brethren but caused that they should go to the hill which was North of ~~the~~ Shilom &",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/133"
       },
       {
@@ -555,6 +558,7 @@
         "page": 133,
         "line": 19,
         "text": "they had gathered themselves together that he spake unto them in this wise saying O ye my",
+        "markdown": "they had gathered themselves together that he spake unto them in this wise saying O [ye] my",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/133"
       },
       {
@@ -576,6 +580,7 @@
         "page": 133,
         "line": 22,
         "text": "struglings which have been in vain yet I trust there remaineth an effectual strugg",
+        "markdown": "~~struggl~~ [struglings] which have been in vain yet I trust there remaineth an effectual",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/133"
       },
       {
@@ -1066,6 +1071,7 @@
         "page": 134,
         "line": 25,
         "text": "according to his own will & pleasure deliver you out of bondage",
+        "markdown": "according to his own ~~word~~ [will] & pleasure deliver you out of",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/134"
       }
     ]

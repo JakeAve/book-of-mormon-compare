@@ -65,6 +65,7 @@
         "page": 27,
         "line": 14,
         "text": "& they shall be a blest People upon the promised land forever they shall be no",
+        "markdown": "& they shall be a blest People upon the promised land forever they shall [be] no",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/27"
       },
       {
@@ -534,6 +535,7 @@
         "page": 28,
         "line": 20,
         "text": "I Nephi beheld the power of the Lamb of God that it decended upon the",
+        "markdown": "I Nephi beheld the power of the Lamb of ~~the~~ God that it decended upon",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/28"
       },
       {
@@ -611,6 +613,7 @@
         "page": 28,
         "line": 27,
         "text": "among all the Nations which belonged to the mother of abominations the",
+        "markdown": "among all the Nations which belonged to the mother of~~f~~ abominations the",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/28"
       },
       {
@@ -709,6 +712,7 @@
         "page": 28,
         "line": 35,
         "text": "& I looked & beheld a man & he was dress",
+        "markdown": "& I looked & beheld a man & he was ~~dressed~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/28"
       },
       {
@@ -849,6 +853,7 @@
         "page": 29,
         "line": 8,
         "text": "stle of the Lamb shall write are many things which thou hast seen & behold the remainder shalt thou see",
+        "markdown": "stle of the Lamb shall write are many things which thou hast seen & ~~behold th~~ behold the remainder shalt",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/29"
       }
     ]
@@ -863,6 +868,7 @@
         "page": 29,
         "line": 8,
         "text": "but the things which thou",
+        "markdown": "thou see but the things",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/29"
       },
       {
@@ -989,6 +995,7 @@
         "page": 29,
         "line": 18,
         "text": "& I bear re",
+        "markdown": "& [I] bear re",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/29"
       },
       {
@@ -1031,6 +1038,7 @@
         "page": 29,
         "line": 22,
         "text": "the things which I saw are not written the things which I have written",
+        "markdown": "the things which I saw are not ~~true~~ written the things which I have",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/29"
       },
       {

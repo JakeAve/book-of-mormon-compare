@@ -9,6 +9,7 @@
         "page": 464,
         "line": 9,
         "text": "My beloved son I write",
+        "markdown": "The second epistle of Mormon",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/464"
       },
       {
@@ -114,6 +115,7 @@
         "page": 464,
         "line": 18,
         "text": "the Lord hath ceased striving with them",
+        "markdown": "the Lord hath ~~ce~~~~ seaced~~ [ceased striving]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/464"
       }
     ]
@@ -128,6 +130,7 @@
         "page": 464,
         "line": 18,
         "text": "for so exceedingly do they anger that it seemeth me",
+        "markdown": "with them for so exceedingly do they anger that it",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/464"
       },
       {
@@ -163,6 +166,7 @@
         "page": 464,
         "line": 21,
         "text": "let us labor diligently for if we should cease to labor we should be brought under",
+        "markdown": "let us labor diligently for if we should cease to labor we should be brought ~~un~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/464"
       },
       {
@@ -170,6 +174,7 @@
         "page": 464,
         "line": 22,
         "text": "condemnation for we have a labor to perform whilst in this tabernacle of clay that we may",
+        "markdown": "condemnation for we have a labor to perform ~~whilst~~ [whilst in this] tabernacle of clay that we",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/464"
       },
       {
@@ -198,6 +203,7 @@
         "page": 464,
         "line": 24,
         "text": "write somewhat concerning the sufferings of this people for according to the knowledge which I",
+        "markdown": "write somewhat concerning the sufferings of this people for according to the knowledge [which] I",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/464"
       },
       {
@@ -268,6 +274,7 @@
         "page": 464,
         "line": 30,
         "text": "that of our people in Moriantum for behold many of the daughters of the Lamanites have",
+        "markdown": "that of our people in Moriantum for behold many of the daughters of the Lamanite[s] have",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/464"
       },
       {
@@ -744,6 +751,7 @@
         "page": 465,
         "line": 26,
         "text": "& death & the shewing his body unto our fathers & his mercy & long suffering & the hope of",
+        "markdown": "& death & the shewing his body unto our fathers & his mercy & long suffering & the hope [of]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/465"
       },
       {

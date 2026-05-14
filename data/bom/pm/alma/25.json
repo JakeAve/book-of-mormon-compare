@@ -170,6 +170,7 @@
         "page": 240,
         "line": 9,
         "text": "after having suffered much loss & so many afflictions they began",
+        "markdown": "after having suffered ~~to~~ much loss & so many afflictions they",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/240"
       },
       {
@@ -422,6 +423,7 @@
         "page": 241,
         "line": 2,
         "text": "that when the Lamanites saw that they could not overpower the Nephites",
+        "markdown": "that when the Lamanites saw that they could not overpower the~~m~~ Nephites",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/241"
       },
       {

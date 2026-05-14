@@ -163,6 +163,7 @@
         "page": 156,
         "line": 25,
         "text": "the king granted unto him that he might speak & Gideon saith unto him",
+        "markdown": "the king granted unto him that he ~~m◊g~~ [might] speak & Gideon saith unto",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/156"
       }
     ]
@@ -177,6 +178,7 @@
         "page": 156,
         "line": 25,
         "text": "behold the",
+        "markdown": "him behold",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/156"
       },
       {
@@ -247,6 +249,7 @@
         "page": 156,
         "line": 31,
         "text": "thus we will depart with our women & our children",
+        "markdown": "~~&~~ [thus] we will depart with our women & our",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/156"
       },
       {
@@ -366,6 +369,7 @@
         "page": 157,
         "line": 4,
         "text": "which they could carry & also their provisions with them into the wilderness & they pers",
+        "markdown": "which they could carry & also their provisions with them ~~unto~~ into the wilderness & they",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/157"
       },
       {
@@ -443,6 +447,7 @@
         "page": 157,
         "line": 9,
         "text": "und that the people of Limhi had departed out of the land by night that they sent",
+        "markdown": "und that the people of Limhi had departed out of the land by ~~night~~ [night] that they",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/157"
       },
       {

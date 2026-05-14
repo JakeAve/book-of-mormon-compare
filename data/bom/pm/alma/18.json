@@ -100,6 +100,7 @@
         "page": 218,
         "line": 30,
         "text": "not but this much we do know that he cannot be slain by the ene",
+        "markdown": "not but this ~~mutch~~ [much] we do know that he cannot be slain by the",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/218"
       },
       {
@@ -261,6 +262,7 @@
         "page": 219,
         "line": 13,
         "text": "it was the practice of these Lamanites to stand by the waters of Sebus to scatter the",
+        "markdown": "it was the practice of the[se] Lamanites to stand by the waters of Sebus to [scatter] the",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/219"
       },
       {
@@ -380,6 +382,7 @@
         "page": 219,
         "line": 25,
         "text": "has been so faithful as this man for even he doth remember all my com",
+        "markdown": "has been so faithful as this man for~~e~~ even he doth remember all my com",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/219"
       },
       {
@@ -408,6 +411,7 @@
         "page": 219,
         "line": 27,
         "text": "would desire him that he come in unto me but I dearst not",
+        "markdown": "would desire him that he come in unto ~~thee~~ [me] but I dearst",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/219"
       }
     ]
@@ -422,6 +426,7 @@
         "page": 219,
         "line": 27,
         "text": "& it came",
+        "markdown": "not & it",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/219"
       },
       {
@@ -429,6 +434,7 @@
         "page": 219,
         "line": 28,
         "text": "to pass that when Ammon had made ready the horses & the charriots for the king & his serv",
+        "markdown": "to pass that when Ammon had made ready the [horses & the] charriots for the king & his serv",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/219"
       },
       {
@@ -436,6 +442,7 @@
         "page": 219,
         "line": 29,
         "text": "ants he went in unto the king & he saw that the countenance of the King was",
+        "markdown": "ants he went in unto the king & he saw that the countenance of the King ~~had~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/219"
       },
       {
@@ -1220,6 +1227,7 @@
         "page": 221,
         "line": 19,
         "text": "ption which was prepared from the foundation of the world & he also ma",
+        "markdown": "ption which was prepared from the foundation of the ~~world~~ [world] & he also",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/221"
       },
       {
@@ -1346,6 +1354,7 @@
         "page": 221,
         "line": 29,
         "text": "over him after the manner of the Lamanites greatly lamenting his loss",
+        "markdown": "over him after the manner of the Lamanites greatly lamenting his ~~loss~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/221"
       }
     ]

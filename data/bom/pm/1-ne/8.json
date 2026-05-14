@@ -100,6 +100,7 @@
         "page": 16,
         "line": 7,
         "text": "behold methought I saw a dark & dreary wilderness",
+        "markdown": "behold ~~me~~ [me]thought I saw a dark & dreary",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/16"
       }
     ]
@@ -114,6 +115,7 @@
         "page": 16,
         "line": 7,
         "text": "& it came to pass that",
+        "markdown": "wilderness & it came to pass",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/16"
       },
       {
@@ -121,6 +123,7 @@
         "page": 16,
         "line": 8,
         "text": "I saw a man & he was dressed in a white robe & he came & stood before me",
+        "markdown": "I saw a man & he was ~~drest~~ [dressed] in a white robe & he came & stood before",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/16"
       }
     ]
@@ -135,6 +138,7 @@
         "page": 16,
         "line": 9,
         "text": "& it came to pass that he spake unto me & bade me follow him",
+        "markdown": "& it came to pass that he spake unto me & ~~said~~ bade me follow",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/16"
       }
     ]
@@ -212,6 +216,7 @@
         "page": 16,
         "line": 15,
         "text": "Lord beheld a large & spacious field",
+        "markdown": "Lord ~~behold~~ beheld a large & spacious",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/16"
       }
     ]
@@ -226,6 +231,7 @@
         "page": 16,
         "line": 15,
         "text": "& it came to pass that I beheld a tree",
+        "markdown": "field & it came to pass that I beheld a",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/16"
       },
       {
@@ -415,6 +421,7 @@
         "page": 16,
         "line": 30,
         "text": "pass that they did come unto me & partake of the fruit also",
+        "markdown": "pass that they did come unto me & partake of the fruit [also]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/16"
       }
     ]
@@ -597,6 +604,7 @@
         "page": 17,
         "line": 5,
         "text": "mist of darkness insomuch that they which had commenced in the path did lose",
+        "markdown": "mist of darkness insomuch that they which had commenced in the path did ~~loose~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/17"
       },
       {
@@ -632,6 +640,7 @@
         "page": 17,
         "line": 8,
         "text": "press forward through the mists of darkness clinging to the rod of iron even untill",
+        "markdown": "press forward through the mist[s] of darkness clinging to the rod of iron even untill",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/17"
       },
       {
@@ -639,6 +648,7 @@
         "page": 17,
         "line": 9,
         "text": "they did come forth & partook of the fruit of the tree",
+        "markdown": "they did come forth & ~~partake~~ [partook] of the fruit of the",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/17"
       }
     ]
@@ -653,6 +663,7 @@
         "page": 17,
         "line": 9,
         "text": "& after that they had partook of the",
+        "markdown": "tree & after that they had partook of",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/17"
       },
       {
@@ -716,6 +727,7 @@
         "page": 17,
         "line": 14,
         "text": "was exceding fine & they were in the attitude of mocking & pointing their fingers",
+        "markdown": "was exceding fine & they were in the attitude [of] mocking & pointing their fingers",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/17"
       },
       {
@@ -765,6 +777,7 @@
         "page": 17,
         "line": 17,
         "text": "& now I Nephi do not speak all the words of my fath",
+        "markdown": "& [now] I Nephi do not speak all the words of my fath",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/17"
       },
       {
@@ -786,6 +799,7 @@
         "page": 17,
         "line": 18,
         "text": "but to be short in writing behold he saw other multitudes pressing forward &",
+        "markdown": "but ~~be~~ to be short in writing behold he saw other multitude[s] pressing forward",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/17"
       },
       {
@@ -884,6 +898,7 @@
         "page": 17,
         "line": 26,
         "text": "but we heeded them not",
+        "markdown": "but we ~~beheld~~ ~~<​headed​>~~ heeded",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/17"
       }
     ]
@@ -898,6 +913,7 @@
         "page": 17,
         "line": 26,
         "text": "these are the words of my father for as many as heeded them",
+        "markdown": "them not these are the words of my father for [as] many as",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/17"
       },
       {
@@ -947,6 +963,7 @@
         "page": 17,
         "line": 29,
         "text": "he said unto us because of these things which he saw in a vision he excedingly feared <​for Laman & Lemuel yea he feared​> lest",
+        "markdown": "he said unto us because of these things which he saw in a vision he excedingly feared <​for Laman & Lemuel yea he [feared]​> lest",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/17"
       },
       {

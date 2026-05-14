@@ -30,6 +30,7 @@ interface OutLine {
   page: number;
   line: number;
   text: string;
+  markdown?: string;
   source?: string;
 }
 
@@ -80,9 +81,12 @@ async function run(cfg: SourceConfig, opts: { preview: number; dry: boolean }) {
     const frag = fragById.get(a.id)!;
     const meta = frag.meta ?? {};
     const words = frag.text.split(/\s+/).filter((w) => w.length > 0);
+    const mdRaw = meta.markdown as string | undefined;
+    const mdWords = mdRaw?.split(/\s+/).filter((w) => w.length > 0);
     for (const seg of a.segments) {
       const slice = words.slice(seg.tokenStart, seg.tokenEnd).join(" ");
       if (!slice) continue;
+      const mdSlice = mdWords?.slice(seg.tokenStart, seg.tokenEnd).join(" ");
       const k = verseKey(seg.verse.book, seg.verse.chapter, seg.verse.verse);
       let v = byKey.get(k);
       if (!v) {
@@ -99,6 +103,7 @@ async function run(cfg: SourceConfig, opts: { preview: number; dry: boolean }) {
         page: meta.page as number,
         line: meta.line as number,
         text: slice,
+        ...(mdSlice && mdSlice !== slice ? { markdown: mdSlice } : {}),
         source: meta.source as string | undefined,
       });
     }

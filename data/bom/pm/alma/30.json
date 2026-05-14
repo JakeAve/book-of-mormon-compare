@@ -58,6 +58,7 @@
         "page": 248,
         "line": 38,
         "text": "ing & prayer & it was in the sixteenth year of the reign of the Judges over the people",
+        "markdown": "ing & prayer & it was in the sixteenth [year] of the reign of the Judges over ~~the peop~~[the",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/248"
       },
       {
@@ -86,6 +87,7 @@
         "page": 249,
         "line": 2,
         "text": "the people did observe to keep the commandments of the Lord & they were strict",
+        "markdown": "the people did observe to keep the commandments of ~~God~~ [the] Lord & they were",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/249"
       },
       {
@@ -93,6 +95,7 @@
         "page": 249,
         "line": 3,
         "text": "in observing the ordinances of God according to the law of Moses for they were taught",
+        "markdown": "in observing the ordinance[s] of God according to the law of Moses for they were taught",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/249"
       },
       {
@@ -205,6 +208,7 @@
         "page": 249,
         "line": 11,
         "text": "strictly conterary to the commands of God that there should be a law bring men on to unequal",
+        "markdown": "strictly conterary to the commands of God that there should [be a law] bring men on to unequal",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/249"
       },
       {
@@ -436,6 +440,7 @@
         "page": 249,
         "line": 28,
         "text": "know of things which ye do not see therefore ye cannot know that there shall be a",
+        "markdown": "know of things ~~that~~ [which] ye do not see therefore ye cannot know that there shall be",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/249"
       },
       {
@@ -548,6 +553,7 @@
         "page": 249,
         "line": 38,
         "text": "asing them to lift up their heads in their wickedness yea leading away many",
+        "markdown": "asing them to lift up their heads in their wickedness yea leading away ~~man~~[many]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/249"
       },
       {
@@ -653,6 +659,7 @@
         "page": 250,
         "line": 9,
         "text": "success for he was taken & bound & carried before the high priest & also the",
+        "markdown": "success for he was taken & bound & carried before the high priest & also ~~over~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/250"
       },
       {
@@ -688,6 +695,7 @@
         "page": 250,
         "line": 12,
         "text": "this people that there shall be no christ to interrupt their rejoiceings why",
+        "markdown": "this people that there shall be no christ to interrupt their rejoiceing[s] why",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/250"
       },
       {
@@ -765,6 +773,7 @@
         "page": 250,
         "line": 19,
         "text": "ye say that this people is a free people behold I say they are in bondage",
+        "markdown": "ye say that this people is a free people behold I say ~~there~~ they are in",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/250"
       },
       {
@@ -912,6 +921,7 @@
         "page": 250,
         "line": 32,
         "text": "& their visions & their pretended mysteries that they should if they did not do according",
+        "markdown": "[& their visions] & their pretended mysteries that they should if they did not do according",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/250"
       },
       {
@@ -968,6 +978,7 @@
         "page": 251,
         "line": 1,
         "text": "that he might be brought before Alma & the chief Judge which was",
+        "markdown": "that he might be brought before Alma & the chief ~~Judges~~ Judge which",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/251"
       },
       {
@@ -1213,6 +1224,7 @@
         "page": 251,
         "line": 21,
         "text": "then Alma saith unto him bel",
+        "markdown": "~~&~~ then Alma saith unto him",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/251"
       },
       {
@@ -1360,6 +1372,7 @@
         "page": 251,
         "line": 32,
         "text": "carry you about working devises that he may destroy the children of God",
+        "markdown": "carry you about working devises that he may destroy the ~~people~~ [children] of",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/251"
       }
     ]
@@ -1374,6 +1387,7 @@
         "page": 251,
         "line": 32,
         "text": "& now",
+        "markdown": "God &",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/251"
       },
       {
@@ -1535,6 +1549,7 @@
         "page": 252,
         "line": 9,
         "text": "thy soul should be lost th◊n that thou shouldst be the means of bringing",
+        "markdown": "~~they~~ [thy] soul should be lost th◊n that thou shouldst be the means of bringing",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/252"
       },
       {
@@ -1815,6 +1830,7 @@
         "page": 252,
         "line": 35,
         "text": "now when he had said this he besought that Alma should pray unto",
+        "markdown": "now when he had said this he besought that Alma should pray ~~un~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/252"
       },
       {
@@ -1955,6 +1971,7 @@
         "page": 253,
         "line": 9,
         "text": "ted again unto the Lord & this put an end to the iniquity after the manner",
+        "markdown": "ted again unto the Lord & ~~thus~~ this put an end to the iniquity after the",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/253"
       },
       {

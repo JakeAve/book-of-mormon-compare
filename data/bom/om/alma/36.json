@@ -9,6 +9,7 @@
         "page": 123,
         "line": 15,
         "text": "My Son gieve ear to my words for I swear unto you that in as much as ye shall",
+        "markdown": "My Son gieve ear to my words for I swear unto you that in as much {{as ye shall}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/123"
       },
       {
@@ -30,6 +31,7 @@
         "page": 123,
         "line": 16,
         "text": "I would that ye should",
+        "markdown": "I would tha{{t ye should}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/123"
       },
       {
@@ -37,6 +39,7 @@
         "page": 123,
         "line": 17,
         "text": "do as I have done in remembering the Captivity of our fathers for they were in bo",
+        "markdown": "do as I have done in remembering the Captivity of our fathers for the{{y}} [were] ~~was~~ in",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/123"
       },
       {
@@ -44,6 +47,7 @@
         "page": 123,
         "line": 18,
         "text": "ndage & none could deliver them except it were the God of Abraham & the God of Isaac",
+        "markdown": "ndage & none could deliver them except it were the God of Abraham {{&}} [the] God of Isaa{{c}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/123"
       },
       {
@@ -72,6 +76,7 @@
         "page": 123,
         "line": 20,
         "text": "Son Helaman behold thou art in thy Youth & therefore I beseach of thee",
+        "markdown": "Son Helaman behold thou art in thy ~~Y~~ Youth & therefore I beseach of",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/123"
       },
       {
@@ -86,6 +91,7 @@
         "page": 123,
         "line": 22,
         "text": "put his trust in God shall be supported in their trials & their troubles & their afflic",
+        "markdown": "put his trust in God shall be supported in their trials & their troubles & [their] afflic",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/123"
       },
       {
@@ -114,6 +120,7 @@
         "page": 123,
         "line": 24,
         "text": "I know of myself not of the <​ ​> temporal",
+        "markdown": "I know of myself not of the ~~Carnal mind~~ ~~but",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/123"
       },
       {
@@ -121,6 +128,7 @@
         "page": 123,
         "line": 25,
         "text": "the spiritual not of the Carnal mind but of God",
+        "markdown": "the spiritual not of the Carnal mind b{{u}}t of God",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/123"
       }
     ]
@@ -142,6 +150,7 @@
         "page": 123,
         "line": 26,
         "text": "I had not been born of God I should not have known these things but God hath by",
+        "markdown": "I had not been born of God I shoul{{d not ha}}ve known these things but God hath by",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/123"
       },
       {
@@ -149,6 +158,7 @@
         "page": 123,
         "line": 27,
         "text": "the mouth of his holy Angel made these things known unto me not of any worth",
+        "markdown": "the mouth of his holy Angel made {{these thi}}ngs known unto me not of any worth",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/123"
       },
       {
@@ -170,6 +180,7 @@
         "page": 123,
         "line": 28,
         "text": "for I went about with the Sons of Mosiah seeking to destr",
+        "markdown": "for I went about {{with the}} Sons of Mosiah seeking to destr",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/123"
       },
       {
@@ -177,6 +188,7 @@
         "page": 123,
         "line": 29,
         "text": "oy the church of God but behold God sent his holy Angel to stop us by the way",
+        "markdown": "oy the church of God but behold God {{sent h}}is holy Angel to stop us by the way",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/123"
       }
     ]
@@ -198,6 +210,7 @@
         "page": 123,
         "line": 30,
         "text": "behold he spake unto us as it were the voice of thunder & the whole earth did trem",
+        "markdown": "behold he spake unto us as it were the voice of thunder & the whole earth did tr{{em}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/123"
       },
       {
@@ -205,6 +218,7 @@
         "page": 123,
         "line": 31,
         "text": "ble beneath our feet & we all fell to the earth for the fear of the Lord came upon",
+        "markdown": "ble beneath our feet & we all fell to the earth for the fear of the Lord came upo{{n}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/123"
       },
       {
@@ -226,6 +240,7 @@
         "page": 123,
         "line": 32,
         "text": "but behold the voice said unto me arise & I arose & stood up & beheld the Ang",
+        "markdown": "but behold the voice said unto me arise & I arose & stood [up] & beheld the Ang",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/123"
       },
       {
@@ -268,6 +283,7 @@
         "page": 123,
         "line": 34,
         "text": "& it came to pass that I fell to the earth & it was for the",
+        "markdown": "& it came to pass that I fell to the earth & it was for th{{e}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/123"
       },
       {
@@ -275,6 +291,7 @@
         "page": 123,
         "line": 35,
         "text": "space of three days & three nights that I could not open my mouth neith",
+        "markdown": "space of three days & three nights that I could not open my mouth nei{{th}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/123"
       },
       {
@@ -289,6 +306,7 @@
         "page": 124,
         "line": 1,
         "text": "had I the use of my limbs",
+        "markdown": "{{had I the use of my limbs",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/124"
       }
     ]
@@ -303,6 +321,7 @@
         "page": 124,
         "line": 1,
         "text": "& the Angel spake more things un t o me which",
+        "markdown": "& the A}}ngel spake more things un ~~o~~ [t] o me",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/124"
       },
       {
@@ -310,6 +329,7 @@
         "page": 124,
         "line": 2,
         "text": "were heard by my Brethren but I did not hear them for when I heard the words",
+        "markdown": "{{were heard by my Brethren but I}} did not hear them for when I heard the words",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/124"
       },
       {
@@ -317,6 +337,7 @@
         "page": 124,
         "line": 3,
         "text": "if thou wilt be destroid of thyself seek no more to destroy the church of God I was",
+        "markdown": "{{if thou wilt be destroid of th}}yself seek no more to destroy ~~be~~ the church of God I",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/124"
       },
       {
@@ -324,6 +345,7 @@
         "page": 124,
         "line": 4,
         "text": "struck with such great fear & amazement lest perhaps that I should be destroid th",
+        "markdown": "{{struck with such great fear &}} amazement lest perhaps that I should be destroid th",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/124"
       },
       {
@@ -331,6 +353,7 @@
         "page": 124,
         "line": 5,
         "text": "at I fell to the earth & I did hear no more",
+        "markdown": "{{at I fell to the earth & I did hear}} no more",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/124"
       }
     ]
@@ -352,6 +375,7 @@
         "page": 124,
         "line": 6,
         "text": "my soul was harrowed up to the greatest degree & racked with all my sins",
+        "markdown": "{{my soul was harrowed up to the greates}}t degree & racked with all my sins",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/124"
       }
     ]
@@ -373,6 +397,7 @@
         "page": 124,
         "line": 7,
         "text": "member all my sins & iniquities for which I was tormented with the pains of Hell yea",
+        "markdown": "{{member all my sins & iniquit}}ies for which I was tormented with the pains of Hell yea",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/124"
       },
       {
@@ -380,6 +405,7 @@
         "page": 124,
         "line": 8,
         "text": "I saw that I had rebelled against my God & that I had not kept his holy commandments",
+        "markdown": "{{I saw that I had rebelled aga}}inst {{m}}y God & that I had not kept his holy comman{{dments",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/124"
       }
     ]
@@ -394,6 +420,7 @@
         "page": 124,
         "line": 8,
         "text": "yea & I had murdered many of his Children or rather led them away unto",
+        "markdown": "yea & I had murde}}red many of his Children or rather led them away unto",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/124"
       },
       {
@@ -401,6 +428,7 @@
         "page": 124,
         "line": 9,
         "text": "destruction yea & in fine so great had been my iniquities that the verry thoughts",
+        "markdown": "{{destruction yea & in fine so}} great had been my iniquities that the verry thoughts",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/124"
       },
       {
@@ -408,6 +436,7 @@
         "page": 124,
         "line": 10,
         "text": "of comeing into the presance of my God did rack my soul with inexpressible hor",
+        "markdown": "{{of comeing into the presance}} of my God did rack my soul with inexpressible hor",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/124"
       },
       {
@@ -415,6 +444,7 @@
         "page": 124,
         "line": 11,
         "text": "ror",
+        "markdown": "{{ror",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/124"
       }
     ]
@@ -429,6 +459,7 @@
         "page": 124,
         "line": 11,
         "text": "O thought I that I could be banished & become extinct both soul & boddy that",
+        "markdown": "O thought I that I c}}ould be banished & become extinct both soul & boddy that",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/124"
       },
       {
@@ -436,6 +467,7 @@
         "page": 124,
         "line": 12,
         "text": "I might not be brought to stand in the presance of my God to be judged of my deeds",
+        "markdown": "{{I might not be brought to s}}tand in the presance of my God to be judged of my deeds",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/124"
       }
     ]
@@ -457,6 +489,7 @@
         "page": 124,
         "line": 13,
         "text": "now for three day & for three nights was I racked even with the pains of a damned",
+        "markdown": "{{now for thre}}e day & for th{{ree}} nights was I racked ~~ever~~ [even] with the pains of a",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/124"
       },
       {
@@ -464,6 +497,7 @@
         "page": 124,
         "line": 14,
         "text": "soul",
+        "markdown": "{{soul",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/124"
       }
     ]
@@ -478,6 +512,7 @@
         "page": 124,
         "line": 14,
         "text": "& it came to pass that as I was thus racked with torment while I was horro",
+        "markdown": "& it}} came to pass that as I was thus racked with torment while I was horro",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/124"
       },
       {
@@ -485,6 +520,7 @@
         "page": 124,
         "line": 15,
         "text": "wed up by the memory of my many sins behold I remembered also to have heard",
+        "markdown": "{{wed up}} by the memory of my many sins behold I remembered also to have heard",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/124"
       },
       {
@@ -492,6 +528,7 @@
         "page": 124,
         "line": 16,
         "text": "my father Propesy unto the People concerning the comeing of one Jesus Christ a Son of",
+        "markdown": "my fath{{er}} Propesy unto the People concerning the comeing of one Jesus Christ a Son of",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/124"
       },
       {
@@ -499,6 +536,7 @@
         "page": 124,
         "line": 17,
         "text": "God to atone for the sins of the world",
+        "markdown": "God to ato{{n}}e for the sins of the world",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/124"
       }
     ]
@@ -513,6 +551,7 @@
         "page": 124,
         "line": 17,
         "text": "now as my mind cacht hold upon this thou",
+        "markdown": "now as my mind ~~caghed~~ [cacht] hold upon this",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/124"
       },
       {
@@ -520,6 +559,7 @@
         "page": 124,
         "line": 18,
         "text": "ght I [cried?] O Jesus thou Son of God have mercy on me who art in the gaul of bitterness",
+        "markdown": "ght I [cried?] O Jesus thou Son of God have mercy on me who ~~are~~ [art] in the gaul of",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/124"
       },
       {
@@ -590,6 +630,7 @@
         "page": 124,
         "line": 22,
         "text": "yea I say unto you my Son that there can",
+        "markdown": "yea I say unto you [my Son] that there can",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/124"
       },
       {
@@ -604,6 +645,7 @@
         "page": 124,
         "line": 24,
         "text": "Son that on the other hand there can be nothing so exquisit & sweet as was my joy yea",
+        "markdown": "Son that on the other hand there can~~n~~ be {{no}}thi{{n}}g so exquisit & sweet as was my joy yea",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/124"
       }
     ]
@@ -618,6 +660,7 @@
         "page": 124,
         "line": 25,
         "text": "& me thought I saw even as our father Lehi saw God sitting upon his throan surroun",
+        "markdown": "& me thought I saw even as our f{{ather Lehi s}}aw God sitting upon his throan surroun",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/124"
       },
       {
@@ -625,6 +668,7 @@
         "page": 124,
         "line": 26,
         "text": "ded with numberless concourses of Angels in the attitude of singing & praising their",
+        "markdown": "ded with numberless concourses {{of Angels in the at}}titude of singing & praising their",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/124"
       },
       {
@@ -646,6 +690,7 @@
         "page": 124,
         "line": 27,
         "text": "but behold my limbs did receive their strength",
+        "markdown": "b{{ut beho}}ld my limbs did receive their strength",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/124"
       },
       {
@@ -653,6 +698,7 @@
         "page": 124,
         "line": 28,
         "text": "again & I stood upon my feet & did manifest unto the People that I had been born of",
+        "markdown": "again & ~~st~~ I stood upon my feet & d{{id manif}}est unto the People that I had been born",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/124"
       },
       {
@@ -751,6 +797,7 @@
         "page": 125,
         "line": 1,
         "text": "& hath seen eye to eye as I have seen therefore they do know of these things of which I",
+        "markdown": "& hath seen eye to eye as I have seen the{{refore they do know of these things of which I}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/125"
       },
       {
@@ -758,6 +805,7 @@
         "page": 125,
         "line": 2,
         "text": "have spoken as I do know & the knowledge which I have is of God",
+        "markdown": "have spoken as I do know & the knowledge whic{{h I have is of God",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/125"
       }
     ]
@@ -772,6 +820,7 @@
         "page": 125,
         "line": 2,
         "text": "& I have been supported",
+        "markdown": "& I have been supported}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/125"
       },
       {
@@ -779,6 +828,7 @@
         "page": 125,
         "line": 3,
         "text": "under trials & troubles of every kind yea & in all manner of afflictions yea God hath",
+        "markdown": "under trials & troubles of every kind yea & in all m{{anner of afflictions yea God hath}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/125"
       },
       {
@@ -786,6 +836,7 @@
         "page": 125,
         "line": 4,
         "text": "delivered me from prisons & from bonds & from death yea & I do put my trust in him",
+        "markdown": "delivered me from prisons & from bonds & from deat{{h yea & I do put my trust in him}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/125"
       },
       {
@@ -807,6 +858,7 @@
         "page": 125,
         "line": 5,
         "text": "& I know that he will raise me up at the last day to dwell",
+        "markdown": "& I know that he will r{{aise me up at the last day to dwell}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/125"
       },
       {
@@ -814,6 +866,7 @@
         "page": 125,
         "line": 6,
         "text": "with him in glory yea & I will praise him forever for he hath brought our fathers",
+        "markdown": "with him in ~~everl~~ ~~<​etern​>~~ [glory] yea & I will praise him fo{{rever for he hath brought",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/125"
       },
       {
@@ -821,6 +874,7 @@
         "page": 125,
         "line": 7,
         "text": "out of Egypt & he hath swallowed up the Egyptians in the Red Sea & he led them",
+        "markdown": "out of Egypt & he hath swallowed up the Egy{{ptians in the Red Sea & he led them}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/125"
       },
       {
@@ -828,6 +882,7 @@
         "page": 125,
         "line": 8,
         "text": "by his power into the promised land yea & he hath delivered them out of bondage",
+        "markdown": "by his power into the promised land yea & he {{hath delivered them out of bondage}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/125"
       },
       {
@@ -849,6 +904,7 @@
         "page": 125,
         "line": 9,
         "text": "yea & he hath also brought our fathers out of the land",
+        "markdown": "yea & he hath also {{brought our fathers out of the land}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/125"
       },
       {
@@ -856,6 +912,7 @@
         "page": 125,
         "line": 10,
         "text": "of Jerusalem & he hath also by his everlasting power delivered them out of bondage &",
+        "markdown": "of Jerusalem & he hath also by his everlasting power {{delivered them out of bondage &}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/125"
       },
       {
@@ -863,6 +920,7 @@
         "page": 125,
         "line": 11,
         "text": "captivity from time to time even down to the presant day & I have always retained",
+        "markdown": "captivity from time to time even down to the presant d{{a}}y {{& I have always retained}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/125"
       },
       {
@@ -870,6 +928,7 @@
         "page": 125,
         "line": 12,
         "text": "in rememberance their captivity yea & ye also had ought to retain in remembera",
+        "markdown": "in rememberance their captivity yea & ye also had oug{{ht to retain in remembera}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/125"
       },
       {
@@ -891,6 +950,7 @@
         "page": 125,
         "line": 13,
         "text": "but Behold my Son this is not all for ye",
+        "markdown": "but Behold my {{Son this is not all for ye}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/125"
       },
       {
@@ -898,6 +958,7 @@
         "page": 125,
         "line": 14,
         "text": "had ought to know as I do know that in as much as ye shall keep the comma",
+        "markdown": "had ought to know as I ~~did~~ do know that in as muc{{h a}}s ye shall k{{eep the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/125"
       },
       {
@@ -905,6 +966,7 @@
         "page": 125,
         "line": 15,
         "text": "ndments of God ye shall prosper in the land & ye had ought to know also that in as mu",
+        "markdown": "ndments of God ye shall prosper in the land & ye had ought to know also th{{at in as mu}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/125"
       },
       {
@@ -912,6 +974,7 @@
         "page": 125,
         "line": 16,
         "text": "ch as ye will not keep the commandments of God ye shall be cut off from his presance",
+        "markdown": "ch as ye will not keep the commandments of God ye shall be cut off from his {{presance}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/125"
       },
       {

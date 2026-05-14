@@ -9,6 +9,7 @@
         "page": 36,
         "line": 36,
         "text": "hearken",
+        "markdown": "hear{{ken}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/36"
       },
       {
@@ -16,6 +17,7 @@
         "page": 36,
         "line": 37,
         "text": "& hear this O house of Jacob which arecalled by the name of",
+        "markdown": "& hear this O house of ~~I~~ Jacob which {{are}}called by the name",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/36"
       },
       {
@@ -23,6 +25,7 @@
         "page": 37,
         "line": 1,
         "text": "Israel & are come forth out of the waters of Judah which swear by the nameof the Lord & make mention of the God of Israel yet they swear not in tru",
+        "markdown": "Israel & [are] come forth out of the waters of Judah which swear by the na{{meof}} the Lord & make mention of the God of Israel yet they swear not in tru",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/37"
       },
       {
@@ -135,6 +138,7 @@
         "page": 37,
         "line": 9,
         "text": "fear least thou shouldest say mine idol hath done them & my graven ima",
+        "markdown": "fear least thou ~~shouldst~~ [shouldest] say mine idol hath done them & my graven",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/37"
       },
       {
@@ -275,6 +279,7 @@
         "page": 37,
         "line": 19,
         "text": "have refined thee I have chosen thee in the furnace of affliction",
+        "markdown": "have refined thee I have chosen thee in the furnace of affliction~~s~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/37"
       }
     ]
@@ -492,6 +497,7 @@
         "page": 37,
         "line": 35,
         "text": "to my commandments then had thy peace been as a river & thy righteous",
+        "markdown": "t{{o}} my commandments then had thy peace been as a river & thy righteous",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/37"
       },
       {
@@ -499,6 +505,7 @@
         "page": 37,
         "line": 36,
         "text": "ness as the waves of the Sea",
+        "markdown": "{{n}}ess as {{the}} waves of the Sea",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/37"
       }
     ]
@@ -520,6 +527,7 @@
         "page": 37,
         "line": 37,
         "text": "of thy bowels like the gravel thereof his name should not have been",
+        "markdown": "{{o}}f thy bowels like the gravel thereof his name should not have been",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/37"
       },
       {
@@ -527,6 +535,7 @@
         "page": 37,
         "line": 38,
         "text": "cut off nor destroid from before me",
+        "markdown": "{{cu}}t off nor destroid from before me",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/37"
       }
     ]
@@ -541,6 +550,7 @@
         "page": 37,
         "line": 38,
         "text": "go ye forth of Babylon flee ye from",
+        "markdown": "go ye forth of Baby{{lon flee ye from}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/37"
       },
       {
@@ -548,6 +558,7 @@
         "page": 38,
         "line": 1,
         "text": "the Chaldeans with a voice of singing declare ye tell this utter",
+        "markdown": "the Chaldeans with~~out~~ a voice of singing declare ye tell this utter",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/38"
       },
       {
@@ -576,6 +587,7 @@
         "page": 38,
         "line": 3,
         "text": "thirsted not he lead them through the deserts he caused the waters to flow out",
+        "markdown": "[t]hirsted not he lead them through the deserts he caused the waters to flow out",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/38"
       },
       {

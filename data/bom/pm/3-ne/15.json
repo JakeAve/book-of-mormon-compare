@@ -261,6 +261,7 @@
         "page": 391,
         "line": 30,
         "text": "commandments & this is the law & the prophets for they truly testified of me",
+        "markdown": "commandments & this is the law & the prophets for they truly ~~testify~~ [testified] of",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/391"
       }
     ]
@@ -275,6 +276,7 @@
         "page": 391,
         "line": 30,
         "text": "And now it came to pass that when Jesus had spoken these",
+        "markdown": "me And now it came to pass that when Jesus had spoken",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/391"
       },
       {
@@ -324,6 +326,7 @@
         "page": 391,
         "line": 33,
         "text": "& behold this is the land of your inheritance &",
+        "markdown": "& behold this is the land of your inheritance ~~&~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/391"
       },
       {
@@ -604,6 +607,7 @@
         "page": 392,
         "line": 16,
         "text": "& they understood me not that I said they shall hear my voice & they",
+        "markdown": "& they understood me not that I said they shall hear ~~my~~ [my voice] &",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/392"
       },
       {
@@ -611,6 +615,7 @@
         "page": 392,
         "line": 17,
         "text": "understood me not that the Gentiles should not at any time hear my voice",
+        "markdown": "understood me not that the Gentiles should not at any time hear my [voice]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/392"
       },
       {
@@ -618,6 +623,7 @@
         "page": 392,
         "line": 18,
         "text": "that I should not manifest myself unto them save it were by the Holy Ghost",
+        "markdown": "that I should not ~~at~~ manifest myself unto them save it were by the Holy",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/392"
       }
     ]

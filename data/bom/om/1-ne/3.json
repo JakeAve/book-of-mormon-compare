@@ -100,6 +100,7 @@
         "page": 2,
         "line": 10,
         "text": "them down hither into the wilderness",
+        "markdown": "them down [hither] into the wilderness",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/2"
       }
     ]
@@ -128,6 +129,7 @@
         "page": 2,
         "line": 12,
         "text": "not required it of them but it is a commandment of the Lord",
+        "markdown": "not required [it] of them but it is a commandment of the Lord",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/2"
       }
     ]
@@ -177,6 +179,7 @@
         "page": 2,
         "line": 16,
         "text": "commanded for I know that the Lord giveth no",
+        "markdown": "~~commander~~ [commanded] for I know that the Lord ~~gaveth~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/2"
       },
       {
@@ -282,6 +285,7 @@
         "page": 2,
         "line": 25,
         "text": "to pass that when we had gone up to the land of",
+        "markdown": "to pass that when we had ~~come~~ [gone] up to the land",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/2"
       },
       {
@@ -310,6 +314,7 @@
         "page": 2,
         "line": 27,
         "text": "& we cast lots which of us should go in unto",
+        "markdown": "~~I~~ [&] we cast lots which of us should go in",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/2"
       },
       {
@@ -317,6 +322,7 @@
         "page": 2,
         "line": 28,
         "text": "the house of Laban & it came to pass that the lot upon",
+        "markdown": "the house [of] Laban & it came to pass that the lot upon",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/2"
       },
       {
@@ -443,6 +449,7 @@
         "page": 2,
         "line": 40,
         "text": "were about to return unto my father in the wilde",
+        "markdown": "~~where~~ [were] about to return unto my father in the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/2"
       },
       {
@@ -471,6 +478,7 @@
         "page": 2,
         "line": 42,
         "text": "liveth & as we live we will not go down unto our",
+        "markdown": "liveth ~~a~~ & as we live we will not go down unto",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/2"
       },
       {
@@ -520,6 +528,7 @@
         "page": 2,
         "line": 48,
         "text": "& silver & all manner of riches & all this he hath done",
+        "markdown": "& ~~a~~ silver & all manner of riches & all this he~~e~~ hath",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/2"
       },
       {
@@ -576,6 +585,7 @@
         "page": 2,
         "line": 52,
         "text": "words of the prophets wherefore if my father should dwell",
+        "markdown": "words of the~~e~~ prophets wherefore if my father should dwel{{l}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/2"
       },
       {
@@ -597,6 +607,7 @@
         "page": 3,
         "line": 1,
         "text": "wherefore it must needs be that he flee out of the",
+        "markdown": "wherefore it must needs be that he flee ~~of~~ [out] of",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/3"
       },
       {
@@ -618,6 +629,7 @@
         "page": 3,
         "line": 2,
         "text": "& behold it is wisdom in God that we should",
+        "markdown": "& behold it is wisdom ~~of~~ [in] God that we",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/3"
       },
       {
@@ -660,6 +672,7 @@
         "page": 3,
         "line": 6,
         "text": "been Spoken by the mouth of all the holly Prophets",
+        "markdown": "been Spoken by the mouth of all the holly Prophet[s]",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/3"
       },
       {
@@ -674,6 +687,7 @@
         "page": 3,
         "line": 8,
         "text": "and power of god since the world began even dow",
+        "markdown": "and power of god since the world began even do{{w}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/3"
       },
       {
@@ -737,6 +751,7 @@
         "page": 3,
         "line": 13,
         "text": "went down to the land of our inheritance & we",
+        "markdown": "~~we~~ went down to the land of our inheritance &",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/3"
       },
       {
@@ -800,6 +815,7 @@
         "page": 3,
         "line": 18,
         "text": "desired him that he would give unto us the records",
+        "markdown": "desired ~~his~~ [him] that he would give unto us the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/3"
       },
       {
@@ -842,6 +858,7 @@
         "page": 3,
         "line": 22,
         "text": "Laban saw our property that it was exceeding great",
+        "markdown": "Laban saw our property that it ~~excee~~ [wa]s exceeding",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/3"
       },
       {
@@ -849,6 +866,7 @@
         "page": 3,
         "line": 23,
         "text": "he did lust after it in so much that he thrust us",
+        "markdown": "he did lust after it in ~~as~~ [so] much that he thrust",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/3"
       },
       {
@@ -884,6 +902,7 @@
         "page": 3,
         "line": 26,
         "text": "the Servents of Laban & we were oblieged to leave behind",
+        "markdown": "the Servents of Laban & we were ~~abou~~ [oblieged] to leave",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/3"
       },
       {
@@ -912,6 +931,7 @@
         "page": 3,
         "line": 28,
         "text": "to pass that we fled into the wilderness & the servents",
+        "markdown": "~~do~~ [to] pass that we fled into the wilderness & the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/3"
       },
       {
@@ -947,6 +967,7 @@
         "page": 3,
         "line": 31,
         "text": "me & also with my father & also was Lemuel for he",
+        "markdown": "me & also with my father & also ~~with~~ was Lemuel for",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/3"
       },
       {
@@ -996,6 +1017,7 @@
         "page": 3,
         "line": 36,
         "text": "Lord came and stood before them & he spake unto them",
+        "markdown": "Lord came and stood before them ~~an~~ [&] he spake unto",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/3"
       },
       {
@@ -1045,6 +1067,7 @@
         "page": 3,
         "line": 41,
         "text": "& after that the angel had spake",
+        "markdown": "& after that [the angel] ~~he~~ had",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/3"
       },
       {
@@ -1094,6 +1117,7 @@
         "page": 3,
         "line": 46,
         "text": "fifty yea even he can slay fifty then why not us",
+        "markdown": "fifty yea~~h~~ even he can slay fifty [then] why not us",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/3"
       }
     ]

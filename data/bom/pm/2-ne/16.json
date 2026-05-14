@@ -9,6 +9,7 @@
         "page": 76,
         "line": 8,
         "text": "In the year that King Uzziah died I saw also the Lord sitting upon a throne",
+        "markdown": "In the year that King Uzziah died I saw ~~the~~ [also] the Lord sitting upon a",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/76"
       },
       {
@@ -177,6 +178,7 @@
         "page": 76,
         "line": 18,
         "text": "also I heard the voice of the Lord say",
+        "markdown": "[also] I heard the voice of the Lord say",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/76"
       },
       {
@@ -310,6 +312,7 @@
         "page": 76,
         "line": 27,
         "text": "be eaten as a teil-tree & as an oak whose substance is in them when they cast",
+        "markdown": "be eaten as a teil-tree & as an oak whose substance is in them when ~~the~~ [they] cast",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/76"
       },
       {

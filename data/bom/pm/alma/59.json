@@ -121,6 +121,7 @@
         "page": 323,
         "line": 27,
         "text": "lay a plan that he might obtain the remainder of those possessions & cities which",
+        "markdown": "lay a plan that he might obtain the remainder of those possessions & cities ~~which~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/323"
       },
       {
@@ -184,6 +185,7 @@
         "page": 323,
         "line": 32,
         "text": "which had been compelled to flee from the land of Manti & from the land round",
+        "markdown": "which had been compelled to flee from the land of Manti & [from] the land round",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/323"
       },
       {
@@ -317,6 +319,7 @@
         "page": 324,
         "line": 8,
         "text": "places which he had recovered",
+        "markdown": "~~cities~~ places which he had",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/324"
       }
     ]
@@ -331,6 +334,7 @@
         "page": 324,
         "line": 8,
         "text": "& now when Moroni saw that the city of",
+        "markdown": "recovered & now when Moroni saw that the city",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/324"
       },
       {
@@ -401,6 +405,7 @@
         "page": 324,
         "line": 14,
         "text": "the goverment because of their indifferance concerning the freedom of their country",
+        "markdown": "the goverment because of ~~the~~ [their] indifferance concerning the freedom of their",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/324"
       }
     ]

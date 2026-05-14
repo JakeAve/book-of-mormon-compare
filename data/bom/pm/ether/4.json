@@ -373,6 +373,7 @@
         "page": 439,
         "line": 8,
         "text": "of none save it be of me I am the same that leadeth men to all good he that will not",
+        "markdown": "of none save it be of me ~~&~~ I am the same that leadeth men to all good he that will",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/439"
       },
       {
@@ -555,6 +556,7 @@
         "page": 439,
         "line": 24,
         "text": "record ye may know that the work of the Father has commenced upon all the face of the land",
+        "markdown": "record ye may know that the work of the Father has commenced upon all the face of the [land]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/439"
       }
     ]
@@ -569,6 +571,7 @@
         "page": 439,
         "line": 24,
         "text": "therefore repent all ye ends of the earth & come unto me & believe in my Gospel & be baptized in",
+        "markdown": "~~earth~~ [therefore] repent all ye ends of the earth & come unto me & believe in my Gospel & be baptized",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/439"
       },
       {

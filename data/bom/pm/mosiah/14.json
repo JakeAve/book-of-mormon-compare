@@ -107,6 +107,7 @@
         "page": 144,
         "line": 32,
         "text": "but he was wounded for our transgressions",
+        "markdown": "but he was wound[ed] for our transgressions",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/144"
       },
       {
@@ -191,6 +192,7 @@
         "page": 145,
         "line": 1,
         "text": "from Judgment & who shall declare his generation for he was cut off out of the land of the",
+        "markdown": "~~&~~ from Judgment & who shall declare his generation for he was cut off out of the land of",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/145"
       },
       {

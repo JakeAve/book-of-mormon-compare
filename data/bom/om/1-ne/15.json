@@ -23,6 +23,7 @@
         "page": 23,
         "line": 1,
         "text": "for I considered that mine afflictions were great above all because",
+        "markdown": "[for] I considered that mine afflictions ~~was~~ [were] great above {{all",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/23"
       },
       {
@@ -30,6 +31,7 @@
         "page": 23,
         "line": 2,
         "text": "of the distruction of my people for I had beheld their fall",
+        "markdown": "of the distruction of my people for I had beheld their f{{all",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/23"
       }
     ]
@@ -44,6 +46,7 @@
         "page": 23,
         "line": 2,
         "text": "&it came to pass that after I had received strength I spake unto",
+        "markdown": "&i}}t came to pass that after I had received strength I spake unto",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/23"
       },
       {
@@ -51,6 +54,7 @@
         "page": 23,
         "line": 3,
         "text": "my Bretheren disiring to know of them the cause of their disp",
+        "markdown": "my Bretheren disiring to know of them [the] ~~be~~cause of their disp",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/23"
       },
       {
@@ -79,6 +83,7 @@
         "page": 23,
         "line": 5,
         "text": "which our father hath spoken conserning the natural bran",
+        "markdown": "which our father hath spoken conserning the natural bra{{n}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/23"
       },
       {
@@ -121,6 +126,7 @@
         "page": 23,
         "line": 7,
         "text": "& they said unto me",
+        "markdown": "& they said unto m{{e}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/23"
       },
       {
@@ -128,6 +134,7 @@
         "page": 23,
         "line": 8,
         "text": "we have not for the Lord maketh no such thiing known",
+        "markdown": "we have not for the Lord maketh no such thi[i]ng known",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/23"
       },
       {
@@ -198,6 +205,7 @@
         "page": 23,
         "line": 14,
         "text": "believeing that ye shall receive with dilligence in",
+        "markdown": "believeing that ye shall ~~believe~~ [receive] ~~their~~ [with]",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/23"
       },
       {
@@ -247,6 +255,7 @@
         "page": 23,
         "line": 19,
         "text": "are we not broken off from the house of Israel & are we not",
+        "markdown": "are we not broken off from the house of Israel {{& are we no}}t",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/23"
       },
       {
@@ -268,6 +277,7 @@
         "page": 23,
         "line": 20,
         "text": "& now the thing which",
+        "markdown": "& now the thing {{which}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/23"
       },
       {
@@ -275,6 +285,7 @@
         "page": 23,
         "line": 21,
         "text": "our father meaneth concerning the grafting in of the natural",
+        "markdown": "our father meaneth concerning [the grafting] in of the natura{{l}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/23"
       },
       {
@@ -296,6 +307,7 @@
         "page": 23,
         "line": 24,
         "text": "lief yea for the space of many years & many generations",
+        "markdown": "l{{ief}} yea for the space of many years & many generations",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/23"
       },
       {
@@ -380,6 +392,7 @@
         "page": 23,
         "line": 35,
         "text": "shall come to the knowledge of their redeemer & the",
+        "markdown": "{{sha}}ll come to the knowledge of their redeemer & the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/23"
       },
       {
@@ -387,6 +400,7 @@
         "page": 23,
         "line": 36,
         "text": "verry points of his doctrine that they may know",
+        "markdown": "{{verry}} points of his doctrine that they may know",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/23"
       },
       {
@@ -394,6 +408,7 @@
         "page": 23,
         "line": 37,
         "text": "how to come unto him & be saved",
+        "markdown": "{{how to come}} unto him & be saved",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/23"
       }
     ]
@@ -408,6 +423,7 @@
         "page": 23,
         "line": 37,
         "text": "& then at that daywill they not rejoice & give praise unto their everlasting",
+        "markdown": "& then at that d{{aywill they not rejoice & g}}ive praise unt{{o their everlasting}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/23"
       },
       {
@@ -415,6 +431,7 @@
         "page": 24,
         "line": 1,
         "text": "God their Rock & their Salvation yea at that day will",
+        "markdown": "{{God}} their Rock & their Salvation yea at that day will",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/24"
       },
       {
@@ -422,6 +439,7 @@
         "page": 24,
         "line": 2,
         "text": "they not receive strenght & nourishment from the",
+        "markdown": "{{the}}y not receive strenght & nourishment from the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/24"
       },
       {
@@ -597,6 +615,7 @@
         "page": 24,
         "line": 20,
         "text": "concerning the restoreation of the Jews in the latter days",
+        "markdown": "conc{{er}}ning the restoreation of the Jews in the latter days",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/24"
       }
     ]
@@ -611,6 +630,7 @@
         "page": 24,
         "line": 21,
         "text": "& I did rehearse unto them the words of Isauh which spake",
+        "markdown": "{{& I did rehea}}rse unto them the words of Isauh which spake",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/24"
       },
       {
@@ -618,6 +638,7 @@
         "page": 24,
         "line": 22,
         "text": "concerning the restoration of the Jews or of the House",
+        "markdown": "{{co}}ncerning the restoration of the Jews or of the House",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/24"
       },
       {
@@ -625,6 +646,7 @@
         "page": 24,
         "line": 23,
         "text": "of Israel & after that they were restored they should no more",
+        "markdown": "of Israel & after that they were restored they should no mo{{re}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/24"
       },
       {
@@ -667,6 +689,7 @@
         "page": 24,
         "line": 27,
         "text": "& it came to pass that they did speak unto me again",
+        "markdown": "& it came to pass that they did speak unto me agai{{n}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/24"
       },
       {
@@ -758,6 +781,7 @@
         "page": 24,
         "line": 34,
         "text": "of god & would hold fast unto it they would never perish",
+        "markdown": "of god & would hold fast unto it they would never peris{{h}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/24"
       },
       {
@@ -772,6 +796,7 @@
         "page": 24,
         "line": 36,
         "text": "adversary over power them unto blindness to lead them",
+        "markdown": "adversary over power them unto blindness to lead th{{em}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/24"
       },
       {
@@ -793,6 +818,7 @@
         "page": 24,
         "line": 37,
         "text": "wherefore I Nephi did exhort them",
+        "markdown": "wherefore I Nephi did exhort {{them}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/24"
       },
       {
@@ -800,6 +826,7 @@
         "page": 24,
         "line": 38,
         "text": "to give heed unto the word of the Lord yea I did exhort themwith all the energies of my soul & with all the faculty",
+        "markdown": "to give heed unto the word of the Lord yea I d{{i}}d {{exhort themw}}ith all the energies of my sou{{l}} & wit{{h all the faculty}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/24"
       },
       {
@@ -814,6 +841,7 @@
         "page": 25,
         "line": 2,
         "text": "of god & remember to keep his commandments allways in",
+        "markdown": "of god & remember to keep his commandments allwa{{ys in}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/25"
       },
       {
@@ -835,6 +863,7 @@
         "page": 25,
         "line": 3,
         "text": "& they said unto me what meaneth the river of",
+        "markdown": "& they said unto me what meaneth the rive{{r of}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/25"
       },
       {
@@ -863,6 +892,7 @@
         "page": 25,
         "line": 5,
         "text": "water which my father saw was filthyness & so much was",
+        "markdown": "water which my father saw was filthyness & so much wa{{s}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/25"
       },
       {
@@ -870,6 +900,7 @@
         "page": 25,
         "line": 6,
         "text": "his mind swallowed up in other things that he beheld not",
+        "markdown": "his mind swallowed up in other things that he ~~behold~~ [beheld]",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/25"
       },
       {
@@ -905,6 +936,7 @@
         "page": 25,
         "line": 9,
         "text": "the tree of life & also from the saints of god",
+        "markdown": "the tree of life [&] also from the saints of god",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/25"
       }
     ]
@@ -919,6 +951,7 @@
         "page": 25,
         "line": 9,
         "text": "& I said unto",
+        "markdown": "& I said unt{{o}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/25"
       },
       {
@@ -933,6 +966,7 @@
         "page": 25,
         "line": 11,
         "text": "which the Angel said unto me was prepared for the wicked",
+        "markdown": "which the Angel said unto me was prepared for the wicke[d]",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/25"
       }
     ]
@@ -954,6 +988,7 @@
         "page": 25,
         "line": 13,
         "text": "Justices of god did also divide the wicked from the",
+        "markdown": "Justices of god ~~als~~ [did] also divide the wicked from",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/25"
       },
       {
@@ -968,6 +1003,7 @@
         "page": 25,
         "line": 15,
         "text": "ness of a flaming fire which ascendeth up unto god for ever & ever",
+        "markdown": "ness of [a flaming] fire which ascendeth up unto god for ever & ever",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/25"
       },
       {
@@ -1031,6 +1067,7 @@
         "page": 25,
         "line": 20,
         "text": "& it came to pass that I said unto",
+        "markdown": "& it came to pass that I said un{{to}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/25"
       },
       {
@@ -1038,6 +1075,7 @@
         "page": 25,
         "line": 21,
         "text": "them that it was a representation of things both temporal",
+        "markdown": "them that it was a representation of things both tempo{{ral}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/25"
       },
       {
@@ -1073,6 +1111,7 @@
         "page": 25,
         "line": 25,
         "text": "wherefore if they should die in their wickedness they must",
+        "markdown": "wherefore if they should die in their wickedness they mus{{t}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/25"
       },
       {
@@ -1087,6 +1126,7 @@
         "page": 25,
         "line": 27,
         "text": "are partaining unto righteousness wherefore they must be brou",
+        "markdown": "are partaining [un]to righteousness wherefore they must be brou",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/25"
       },
       {
@@ -1101,6 +1141,7 @@
         "page": 25,
         "line": 29,
         "text": "works have been filthyness they must needs be filthy & if they be",
+        "markdown": "[works] have been filthyness they must needs be filthy & if they be",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/25"
       },
       {
@@ -1143,6 +1184,7 @@
         "page": 25,
         "line": 33,
         "text": "om of god is not filthy that there cannot any unclean thi",
+        "markdown": "om [of god] is not filthy that there cannot any unclean th{{i}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/25"
       },
       {
@@ -1150,6 +1192,7 @@
         "page": 25,
         "line": 34,
         "text": "ng enter into the kingdom of god wherefore there must",
+        "markdown": "ng enter into the kingdom of god wherefore [there] ~~it~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/25"
       },
       {
@@ -1192,6 +1235,7 @@
         "page": 25,
         "line": 38,
         "text": "it wherefore the final state of the souls of man is to dwell in",
+        "markdown": "{{it}} wherefore the final state of the souls of man is to dwell i{{n}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/25"
       },
       {
@@ -1199,6 +1243,7 @@
         "page": 25,
         "line": 39,
         "text": "the kingdom of god or to be cast out because of that justiceof which I ha[ve] spoken wherefore",
+        "markdown": "the kingdom of god or to be cast out because of that justi{{ceo}}f which I ha[ve] spoken wherefore",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/25"
       }
     ]
@@ -1220,6 +1265,7 @@
         "page": 26,
         "line": 1,
         "text": "the righteous & also from that tree of life whose fruit",
+        "markdown": "{{the}} righteous & also from that tree of life whose fruit",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/26"
       },
       {
@@ -1227,6 +1273,7 @@
         "page": 26,
         "line": 2,
         "text": "is most precious & most desireable of all other fruits yea",
+        "markdown": "{{is}} most precious & most desireable of all other fruits yea",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/26"
       },
       {

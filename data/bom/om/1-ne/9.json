@@ -9,6 +9,7 @@
         "page": 11,
         "line": 38,
         "text": "and all these things did my father see and hear and sp",
+        "markdown": "and all these things did my father see and hear an[d] sp",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/11"
       },
       {
@@ -58,6 +59,7 @@
         "page": 11,
         "line": 43,
         "text": "n which i make a full account of the history of my",
+        "markdown": "n which i make a ~~fill~~ [full] account of the history of",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/11"
       },
       {
@@ -79,6 +81,7 @@
         "page": 11,
         "line": 46,
         "text": "phi wherefor they are cald the plates of nephi after",
+        "markdown": "phi ~~f~~ wherefor they are cald the plates of nephi",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/11"
       },
       {
@@ -170,6 +173,7 @@
         "page": 12,
         "line": 3,
         "text": "Reigns of the kings & the wars and contentions of my people",
+        "markdown": "Reigns of the kings & the war[s] and contentions of my people",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
       }
     ]
@@ -233,6 +237,7 @@
         "page": 12,
         "line": 9,
         "text": "unto the fulfilling of all his words and thus it is amen",
+        "markdown": "unto the fulfilling of all his words and ~~this~~ [thus] it is",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
       },
       {

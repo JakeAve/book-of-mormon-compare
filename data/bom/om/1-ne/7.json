@@ -79,6 +79,7 @@
         "page": 7,
         "line": 50,
         "text": "manded him that i nephi and my brethren should",
+        "markdown": "manded him that i ~~lehi~~ [nephi] and my brethren",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/7"
       },
       {
@@ -135,6 +136,7 @@
         "page": 8,
         "line": 2,
         "text": "and it came to pass that we went up unto the",
+        "markdown": "and it came to pass [t]hat we went up unto the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/8"
       },
       {
@@ -177,6 +179,7 @@
         "page": 8,
         "line": 6,
         "text": "soften the hart of ishmael and also his hole hole insomuch",
+        "markdown": "soften the hart of ishmael and also his [hole] hole insomuch",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/8"
       },
       {
@@ -240,6 +243,7 @@
         "page": 8,
         "line": 13,
         "text": "wife and his three other daugters",
+        "markdown": "wife ~~and~~ ~~his Wife~~ and his",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/8"
       }
     ]
@@ -254,6 +258,7 @@
         "page": 8,
         "line": 13,
         "text": "and it came",
+        "markdown": "three other daugters",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/8"
       },
       {
@@ -261,6 +266,7 @@
         "page": 8,
         "line": 14,
         "text": "to pass that in the which rebelion they ware desirus to return",
+        "markdown": "to pass that in the which rebelion they ware desirus to [return]",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/8"
       },
       {
@@ -282,6 +288,7 @@
         "page": 8,
         "line": 15,
         "text": "and now i nephi being",
+        "markdown": "and ~~not~~ [now] i nephi",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/8"
       },
       {
@@ -296,6 +303,7 @@
         "page": 8,
         "line": 17,
         "text": "unto them saying yea even unto lamen and unto lemual",
+        "markdown": "unto them saying yea [even] unto lamen and unto lemual",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/8"
       },
       {
@@ -317,6 +325,7 @@
         "page": 8,
         "line": 20,
         "text": "nds that ye have need that i your younger brother should",
+        "markdown": "nds that ye have nee[d] that i your younger brother should",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/8"
       },
       {
@@ -380,6 +389,7 @@
         "page": 8,
         "line": 24,
         "text": "yea and how is it that",
+        "markdown": "yea and how is it ~~how",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/8"
       },
       {
@@ -436,6 +446,7 @@
         "page": 8,
         "line": 30,
         "text": "they exersise faith in him wherefor let us be fai",
+        "markdown": "they exersise faith in him wherefor let ~~him~~ us be",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/8"
       },
       {
@@ -562,6 +573,7 @@
         "page": 8,
         "line": 42,
         "text": "you that if ye will return unto jerusalem ye shall",
+        "markdown": "you that if ~~he~~ [ye] will return unto jerusalem ye",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/8"
       },
       {
@@ -611,6 +623,7 @@
         "page": 8,
         "line": 47,
         "text": "it came to pass that when i nephi had spoken",
+        "markdown": "it came to pass that [when] i nephi had spoken",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/8"
       },
       {
@@ -639,6 +652,7 @@
         "page": 8,
         "line": 51,
         "text": "they did bind me with cords for they saught to take away",
+        "markdown": "they did bind me with cords for they ~~sot~~ [saught] to take",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/8"
       },
       {
@@ -681,6 +695,7 @@
         "page": 9,
         "line": 2,
         "text": "which is in me wilt thou deliver me from the hands of my bre",
+        "markdown": "which is in me wilt thou deliver me from the hands of my br{{e}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/9"
       },
       {
@@ -688,6 +703,7 @@
         "page": 9,
         "line": 3,
         "text": "thren yea even give me strength that i may burst these bands",
+        "markdown": "thren yea even give me strength that i may burst these band{{s}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/9"
       },
       {
@@ -716,6 +732,7 @@
         "page": 9,
         "line": 5,
         "text": "had said these words behold the bands ware loosd from of[f] my hands and feeet",
+        "markdown": "had said these words behold the bands ware loosd from of[f] my [hands and] feeet",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/9"
       },
       {
@@ -723,6 +740,7 @@
         "page": 9,
         "line": 6,
         "text": "And i stood before my brethren and i spake unto them again",
+        "markdown": "And i stood before my brethren and i spake unto them agai{{n}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/9"
       }
     ]
@@ -737,6 +755,7 @@
         "page": 9,
         "line": 7,
         "text": "And it came to pass that they ware angry with me again",
+        "markdown": "And it came to pass that they [ware] angry with ~~we~~ me",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/9"
       },
       {
@@ -751,6 +770,7 @@
         "page": 9,
         "line": 9,
         "text": "daughters of ishmael yea & also her mother and one of the sons",
+        "markdown": "daughters of ishmael yea & also her mother and one of the son{{s}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/9"
       },
       {
@@ -849,6 +869,7 @@
         "page": 9,
         "line": 20,
         "text": "ing unto the lor we did again travel on our journey",
+        "markdown": "ing unto the lor ~~the~~ we did again travel on our",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/9"
       },
       {
@@ -884,6 +905,7 @@
         "page": 9,
         "line": 23,
         "text": "And my brethren and all the house of ishmael had come",
+        "markdown": "And my brethren and all [t]he house of ishmael had com{{e}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/9"
       },
       {
@@ -898,6 +920,7 @@
         "page": 9,
         "line": 25,
         "text": "unto the lord their god and they did offer sacrifice and of",
+        "markdown": "unto the lord their god and they did ~~give~~ [offer] ~~thanks~~ [sacrifice]",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/9"
       },
       {

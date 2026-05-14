@@ -9,6 +9,7 @@
         "page": 1,
         "line": 1,
         "text": "that he should take his family & depart into the wilderness",
+        "markdown": "that {{h}}e should take his family & depart into the wilderness",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/1"
       }
     ]
@@ -23,6 +24,7 @@
         "page": 1,
         "line": 1,
         "text": "& it ca",
+        "markdown": "{{& it ca}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/1"
       },
       {
@@ -30,6 +32,7 @@
         "page": 1,
         "line": 2,
         "text": "me to pass that he was obediant unto the word of the Lord wherefore he",
+        "markdown": "me to pass that he was obediant unto the word of the Lord wherefo{{re he}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/1"
       },
       {
@@ -226,6 +229,7 @@
         "page": 1,
         "line": 18,
         "text": "that thou mightest be like unto this River continually runn",
+        "markdown": "that thou ~~migh~~ mightest be like unto this River continually",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/1"
       },
       {
@@ -233,6 +237,7 @@
         "page": 1,
         "line": 19,
         "text": "ing into the fountain of all righteousness",
+        "markdown": "ing into [the fountain of] all righteousness",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/1"
       }
     ]
@@ -401,6 +406,7 @@
         "page": 1,
         "line": 33,
         "text": "Lemuel with power being filled with the spirit untill their frames did",
+        "markdown": "Lemuel with power being filled with the spirit~~e~~ untill their frames did",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/1"
       },
       {
@@ -457,6 +463,7 @@
         "page": 1,
         "line": 37,
         "text": "ture & also haveing great desires to know of the mysteries of God wherefore I cried",
+        "markdown": "ture & also haveing great desires to know of the mysteries [of God] wherefore I cried",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/1"
       },
       {
@@ -548,6 +555,7 @@
         "page": 1,
         "line": 45,
         "text": "em & it came to pass that the Lord spake unto me saying blessed art thou Nephi beca",
+        "markdown": "em & it came to pass that the Lord spake unto me saying blessed art thou [Nephi] beca",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/1"
       },
       {
@@ -576,6 +584,7 @@
         "page": 1,
         "line": 47,
         "text": "in as much as ye shall keep my commandments ye shall prosper & sh",
+        "markdown": "in as much as ye shall keep my commandments ye shall prosper ~~in~~ &",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/1"
       },
       {
@@ -604,6 +613,7 @@
         "page": 1,
         "line": 50,
         "text": "ethren shall rebell against thee they shall be cut off from the presance",
+        "markdown": "ethren shall rebell against the[e] they shall be cut off from the presance",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/1"
       },
       {
@@ -667,6 +677,7 @@
         "page": 2,
         "line": 1,
         "text": "rebell against me also",
+        "markdown": "{{rebel}}l against me also",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/2"
       }
     ]
@@ -688,6 +699,7 @@
         "page": 2,
         "line": 2,
         "text": "ll be a Scourge unto thy seed to stir them up in the ways of remember",
+        "markdown": "{{ll b}}e a Scourge unto thy seed to stir them up in the ways of remember",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/2"
       },
       {

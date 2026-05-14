@@ -16,6 +16,7 @@
         "page": 13,
         "line": 50,
         "text": "the things that my father had seen and believing",
+        "markdown": "the things that my father had ~~sees~~ [seen] and",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/13"
       },
       {
@@ -51,6 +52,7 @@
         "page": 14,
         "line": 2,
         "text": "i never had before seen and uppon which i",
+        "markdown": "i never ~~before~~ had before seen and uppon which",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/14"
       },
       {
@@ -79,6 +81,7 @@
         "page": 14,
         "line": 4,
         "text": "me behold what desirest thou",
+        "markdown": "me behold what ~~desireth~~ [desirest]",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/14"
       }
     ]
@@ -93,6 +96,7 @@
         "page": 14,
         "line": 4,
         "text": "and i saith i desire to",
+        "markdown": "thou and i saith i desire",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/14"
       },
       {
@@ -100,6 +104,7 @@
         "page": 14,
         "line": 5,
         "text": "be hold the things which my father saw",
+        "markdown": "be hold ~~to~~ the [things] which my father",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/14"
       }
     ]
@@ -114,6 +119,7 @@
         "page": 14,
         "line": 5,
         "text": "and the spirit",
+        "markdown": "saw an[d] the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/14"
       },
       {
@@ -121,6 +127,7 @@
         "page": 14,
         "line": 6,
         "text": "saith unto me believest thou that thy father saw",
+        "markdown": "saith unto me ~~believeth~~ [believest] thou that thy father",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/14"
       },
       {
@@ -177,6 +184,7 @@
         "page": 14,
         "line": 10,
         "text": "irit cried with a loud voice saying hosana to the",
+        "markdown": "irit cried with a loud voice saying hosana to ~~he~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/14"
       },
       {
@@ -184,6 +192,7 @@
         "page": 14,
         "line": 11,
         "text": "lord the most high god for he is god over all the",
+        "markdown": "lor[d] the most high god for he is god over all the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/14"
       },
       {
@@ -233,6 +242,7 @@
         "page": 14,
         "line": 16,
         "text": "this thang shal be given unto thee for a sign that",
+        "markdown": "this thang shal be given unto thee for a sign tha[t]",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/14"
       },
       {
@@ -247,6 +257,7 @@
         "page": 14,
         "line": 18,
         "text": "fruit of which thy father tasted thou shalt al",
+        "markdown": "fruit of which ~~the~~ [thy] father tasted thou shalt",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/14"
       },
       {
@@ -254,6 +265,7 @@
         "page": 14,
         "line": 19,
         "text": "so behold a man desending out of heven and him",
+        "markdown": "so behold a ~~men~~ [man] desending out of heven and",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/14"
       },
       {
@@ -261,6 +273,7 @@
         "page": 14,
         "line": 20,
         "text": "shall ye witness and after that ye Shal have witnessd",
+        "markdown": "shall ye witness and after that [ye] Shal have witness[d]",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/14"
       },
       {
@@ -338,6 +351,7 @@
         "page": 14,
         "line": 28,
         "text": "pass that after that i had seen the tree i said unto",
+        "markdown": "pass that after that i had see[n] the tree i said unto",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/14"
       },
       {
@@ -394,6 +408,7 @@
         "page": 14,
         "line": 32,
         "text": "to know the interpretation there of for i spake",
+        "markdown": "to know the interpretation there of ~~a~~for i spake",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/14"
       },
       {
@@ -450,6 +465,7 @@
         "page": 14,
         "line": 38,
         "text": "And i lookt as if to look upon him and i saw him",
+        "markdown": "And i lookt as if to ~~a~~ look upon him and i saw",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/14"
       },
       {
@@ -464,6 +480,7 @@
         "page": 14,
         "line": 40,
         "text": "and it came to pss that i lookt and beheld the gr",
+        "markdown": "and it came to pss that i lookt and beheld [t]he gr",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/14"
       }
     ]
@@ -520,6 +537,7 @@
         "page": 14,
         "line": 45,
         "text": "evens open and an angel came down and stood",
+        "markdown": "evens open and an~~d~~ angel came down and stood",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/14"
       },
       {
@@ -562,6 +580,7 @@
         "page": 14,
         "line": 49,
         "text": "And he saith unto me knowest thou the conde",
+        "markdown": "And he saith unto me knowest thou [t]he conde",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/14"
       }
     ]
@@ -667,6 +686,7 @@
         "page": 15,
         "line": 4,
         "text": "in the spirit for the space of a time the",
+        "markdown": "in the spirit ~~a time~~ for the space of a",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/15"
       },
       {
@@ -751,6 +771,7 @@
         "page": 15,
         "line": 10,
         "text": "and i answerd him saying yea it is the love",
+        "markdown": "and i answer[d] him saying yea it is the love",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/15"
       },
       {
@@ -758,6 +779,7 @@
         "page": 15,
         "line": 11,
         "text": "of god which sheadeth itself abroad in the hearts",
+        "markdown": "of god which sheadeth itself abroad in the hear[ts]",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/15"
       },
       {
@@ -765,6 +787,7 @@
         "page": 15,
         "line": 12,
         "text": "of the children of men wherefore it is the most desira",
+        "markdown": "of the children [of men] wherefore ~~is~~ [it] is the most",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/15"
       },
       {
@@ -863,6 +886,7 @@
         "page": 15,
         "line": 20,
         "text": "which my father had sees was the word of god wh",
+        "markdown": "which my father had ~~seen~~ [sees] ~~t~~ was the ~~wore~~ [word]",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/15"
       },
       {
@@ -954,6 +978,7 @@
         "page": 15,
         "line": 30,
         "text": "tsd [baptized] of him and after that he was baptised i behel",
+        "markdown": "tsd [baptized] of him and after that he was baptised ~~of~~ i",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/15"
       },
       {
@@ -989,6 +1014,7 @@
         "page": 15,
         "line": 33,
         "text": "& i beheld that he went forth ministering unto the",
+        "markdown": "& i beheld that he went forth minister[ing] unto the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/15"
       },
       {
@@ -996,6 +1022,7 @@
         "page": 15,
         "line": 34,
         "text": "people in power and great glory and the multitudes",
+        "markdown": "people in power and great glory and the multitude[s]",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/15"
       },
       {
@@ -1101,6 +1128,7 @@
         "page": 15,
         "line": 43,
         "text": "and he spake unto me",
+        "markdown": "and he ~~said~~ [spake] unto",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/15"
       },
       {
@@ -1178,6 +1206,7 @@
         "page": 15,
         "line": 52,
         "text": "piss that the angel spake unto me again saying look",
+        "markdown": "piss that the angel spake unto [me] again saying look",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/15"
       },
       {
@@ -1192,6 +1221,7 @@
         "page": 16,
         "line": 1,
         "text": "By the People yea the ever lasting god was judgd of the world",
+        "markdown": "By the People yea the ever lastin[g] god was judg[d] of the world",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/16"
       },
       {
@@ -1199,6 +1229,7 @@
         "page": 16,
         "line": 2,
         "text": "and i saw & bare record",
+        "markdown": "and i saw & bare recor[d]",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/16"
       }
     ]
@@ -1318,6 +1349,7 @@
         "page": 16,
         "line": 13,
         "text": "ouse of israel hath geatherd to geather to fig",
+        "markdown": "ouse of israel hath ~~gether~~ geatherd to geather to",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/16"
       },
       {
@@ -1353,6 +1385,7 @@
         "page": 16,
         "line": 17,
         "text": "fall there of was exceding great and the ang",
+        "markdown": "fall there of ~~there of~~ was exceding great and",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/16"
       },
       {
@@ -1360,6 +1393,7 @@
         "page": 16,
         "line": 18,
         "text": "el of the lord spake unto me saying thus shal be",
+        "markdown": "el of the lord [s]pake unto me saying thus shal be",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/16"
       },
       {
@@ -1381,6 +1415,7 @@
         "page": 16,
         "line": 21,
         "text": "els of the lamb and it came to pass that the angel said",
+        "markdown": "els of the [lamb] and it came to pass that the angel said",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/16"
       }
     ]

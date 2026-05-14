@@ -268,6 +268,7 @@
         "page": 422,
         "line": 29,
         "text": "& it came to pass that the three hundred & sixty & sixth",
+        "markdown": "& it came to pass that [the] three hundred & sixty & sixth",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/422"
       },
       {
@@ -352,6 +353,7 @@
         "page": 422,
         "line": 37,
         "text": "the House of Israel according to the words of the Lord as were among this People",
+        "markdown": "the House of~~f~~ Israel according to the words of the Lord as were among this People",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/422"
       }
     ]
@@ -520,6 +522,7 @@
         "page": 423,
         "line": 9,
         "text": "to be swept off by them even as a dew before the Sun",
+        "markdown": "[to] be swept off by them even as a dew before the Sun",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/423"
       }
     ]

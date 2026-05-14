@@ -345,6 +345,7 @@
         "page": 143,
         "line": 26,
         "text": "& shewing mercy unto thousands of them that love me & keep",
+        "markdown": "& shewing ~~&~~ mercy unto thousands of them that love me &",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/143"
       },
       {
@@ -436,6 +437,7 @@
         "page": 143,
         "line": 31,
         "text": "thy man servant nor thy maidservant nor thy cattle nor thy stranger that is within",
+        "markdown": "thy man ~~serven~~ [servant] nor thy maidservant nor thy cattle nor thy stranger that is",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/143"
       },
       {
@@ -597,6 +599,7 @@
         "page": 144,
         "line": 3,
         "text": "end of these sayings that he said unto them have ye taught this People that",
+        "markdown": "end of these ~~things~~ sayings that he said unto them have ye taught this People",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/144"
       },
       {
@@ -681,6 +684,7 @@
         "page": 144,
         "line": 9,
         "text": "& moreover I say unto you that salvation doth not come by the law alone &",
+        "markdown": "& moreover I say unto you that salvation doth not come by the law ~~of~~ alone",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/144"
       },
       {
@@ -814,6 +818,7 @@
         "page": 144,
         "line": 20,
         "text": "were through the redemption of God",
+        "markdown": "were through the ~~redeemer~~ [redemption] of",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/144"
       }
     ]
@@ -828,6 +833,7 @@
         "page": 144,
         "line": 20,
         "text": "for behold did not Moses prophesy unto them concerning",
+        "markdown": "God for behold did not Moses prophesy unto them",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/144"
       },
       {

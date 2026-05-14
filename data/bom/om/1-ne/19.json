@@ -16,6 +16,7 @@
         "page": 34,
         "line": 25,
         "text": "me wherefore I did make plates of ore that I might engraven upon them",
+        "markdown": "me wherefore I did make plates of ore that I ~~miig~~ might engraven upon",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/34"
       },
       {
@@ -114,6 +115,7 @@
         "page": 34,
         "line": 35,
         "text": "mandment I Nephi received a commandment that the ministry & the proph",
+        "markdown": "mandment I Nephi received a commandment that the ministry & the prop{{h}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/34"
       },
       {
@@ -121,6 +123,7 @@
         "page": 34,
         "line": 36,
         "text": "esies the more plane & precious parts of them should be written upon the",
+        "markdown": "esies the more plane & precious parts of them should be written upon {{the}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/34"
       },
       {
@@ -128,6 +131,7 @@
         "page": 34,
         "line": 37,
         "text": "se plates & that the things which were written should be cept [kept] for the instruction of my people which should possess the land & also for other wise",
+        "markdown": "se plates & that the things ~~wrer~~ [which] were written should be cept [kept] for the in{{str}}uction of my people which should possess the land & also for other",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/34"
       },
       {
@@ -149,6 +153,7 @@
         "page": 35,
         "line": 1,
         "text": "wherefore I Nephi did make a record upon the other plates which gives an account or",
+        "markdown": "wherefore I Nephi ~~giv~~{{ d}}id make a record upon the other plates which gives an account",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/35"
       },
       {
@@ -163,6 +168,7 @@
         "page": 35,
         "line": 3,
         "text": "of my people & now this have I done & commanded my people that they",
+        "markdown": "{{o}}f my people & now this have I done & commanded my people that they",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/35"
       },
       {
@@ -170,6 +176,7 @@
         "page": 35,
         "line": 4,
         "text": "should do after that I was gone & that these plates should be handed down fr",
+        "markdown": "should [do] after that I was gone & that these plates should be handed down fr",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/35"
       },
       {
@@ -205,6 +212,7 @@
         "page": 35,
         "line": 7,
         "text": "all be given hereafter & then behold I procede according to that which I",
+        "markdown": "all be given hereafter & then behold I proced[e] according to that which I",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/35"
       },
       {
@@ -240,6 +248,7 @@
         "page": 35,
         "line": 10,
         "text": "plates save it be that I think it be sacred & now if I do err even did they",
+        "markdown": "plates save it be that I ~~thing~~ [think] it be sacred & now if I do err even did",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/35"
       },
       {
@@ -324,6 +333,7 @@
         "page": 35,
         "line": 18,
         "text": "meth according to the words of the angel in six hundred years from the ti",
+        "markdown": "meth according to the words of the ~~anger~~ [angel] in six hundred years from the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/35"
       },
       {
@@ -359,6 +369,7 @@
         "page": 35,
         "line": 21,
         "text": "it & they smite him & he suffereth it yea they spit upon him & he suffereth",
+        "markdown": "it & they smite him & he suffereth it ~~&~~ [yea] they spit upon him & he",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/35"
       },
       {
@@ -401,6 +412,7 @@
         "page": 35,
         "line": 25,
         "text": "Isaac & the God of Jacob yieldeth himself according to the words of the",
+        "markdown": "Isaac & the God of ~~Isa~~ Jacob yieldeth himself according to the words of",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/35"
       },
       {
@@ -436,6 +448,7 @@
         "page": 35,
         "line": 30,
         "text": "his death unto them who should inhabit the isles of the",
+        "markdown": "{{hi}}s death unto them ~~whosshoull~~ who should ~~inhabed~~ inhabit the isles",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/35"
       },
       {
@@ -443,6 +456,7 @@
         "page": 35,
         "line": 31,
         "text": "Sea more espesially given unto them which are of the house of Israel",
+        "markdown": "~~◊f the~~ Sea more espesially given unto them which are of the house",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/35"
       }
     ]
@@ -478,6 +492,7 @@
         "page": 35,
         "line": 35,
         "text": "of his power by tempest by fire & by smoke & vapor of darkness & by the open",
+        "markdown": "{{o}}f his power by tempest by fire & by smoke & vapor of darkness & by the open",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/35"
       },
       {
@@ -485,6 +500,7 @@
         "page": 35,
         "line": 36,
         "text": "ing of the earth & by mountains which shall be carried up",
+        "markdown": "{{ing o}}f the earth & by mountains which shall be carried up",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/35"
       }
     ]
@@ -506,6 +522,7 @@
         "page": 35,
         "line": 37,
         "text": "must surely come saith the Prophet Zenos & the Rocks of the earth must rend",
+        "markdown": "{{m}}ust surely come saith the Prophet Zenos & the Rocks of the earth must ren{{d}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/35"
       },
       {
@@ -513,6 +530,7 @@
         "page": 35,
         "line": 38,
         "text": "& because of the groanings of the Earth many of the kings of the isles of the",
+        "markdown": "& because of the groanings of the Earth many of the kings of the isles of th{{e}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/35"
       },
       {
@@ -520,6 +538,7 @@
         "page": 36,
         "line": 1,
         "text": "[sea] shall be wrought upon by the spirit of God to exclaim the God of Nature suf",
+        "markdown": "[sea] shall be wrought upon by the spirit of God to exclaim the God of Nature {{suf}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/36"
       },
       {
@@ -548,6 +567,7 @@
         "page": 36,
         "line": 3,
         "text": "rged by all People saith the prophet because they crucified the God of Israel",
+        "markdown": "rged by all People saith the prophet because ~~of~~ they crucified the God of",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/36"
       },
       {
@@ -562,6 +582,7 @@
         "page": 36,
         "line": 5,
         "text": "God of Israel",
+        "markdown": "God ~~of~~ of",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/36"
       }
     ]
@@ -576,6 +597,7 @@
         "page": 36,
         "line": 5,
         "text": "& because they have turned their hearts aside saith the prophet",
+        "markdown": "Israel & because they have turned their hearts aside saith the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/36"
       },
       {
@@ -639,6 +661,7 @@
         "page": 36,
         "line": 10,
         "text": "yea then will he remember the isles of the Sea",
+        "markdown": "yea ~~there~~ [then] will he remember the isles of the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/36"
       },
       {
@@ -653,6 +676,7 @@
         "page": 36,
         "line": 12,
         "text": "Lord according to the words of the prophet from the four quarters of the",
+        "markdown": "Lord according to the words of the prophet~~s~~ ~~◊Zenos~~ from the four quarters of",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/36"
       },
       {
@@ -681,6 +705,7 @@
         "page": 36,
         "line": 14,
         "text": "ry Nation Nindred tongue & people shall be blessed",
+        "markdown": "ry Nation Nindred tongue & peopl[e] shall be blessed",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/36"
       }
     ]
@@ -786,6 +811,7 @@
         "page": 36,
         "line": 21,
         "text": "of old all things concening them & also he did shew unto many conce",
+        "markdown": "of old ~~concerning~~ all things concening them & also he did shew unto many",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/36"
       },
       {
@@ -793,6 +819,7 @@
         "page": 36,
         "line": 22,
         "text": "rning us wherefore it must needs be that we know Concerming them",
+        "markdown": "rning us wherefore ~~we~~ it must needs be that we know Concerming",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/36"
       },
       {
@@ -856,6 +883,7 @@
         "page": 36,
         "line": 28,
         "text": "ch were in the Books of Moses but that I might more fully persuade them",
+        "markdown": "ch were in the Books of Moses but that I ~~may~~ [might] more fully persuade",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/36"
       },
       {
@@ -912,6 +940,7 @@
         "page": 36,
         "line": 34,
         "text": "prophet which was written unto all the house of Israel & liken it unto you",
+        "markdown": "prophet which was written unto all the house of Israel & liken it unto yo{{u}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/36"
       },
       {
@@ -919,6 +948,7 @@
         "page": 36,
         "line": 35,
         "text": "rselves that ye may have hope as well as your Brethren from whom ye have",
+        "markdown": "rselves that ye may have hope as well as your Brethren from whom ye h{{ave}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/36"
       },
       {

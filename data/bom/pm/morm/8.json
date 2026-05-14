@@ -219,6 +219,7 @@
         "page": 427,
         "line": 28,
         "text": "whole face of this land is one continual round of Murder & bloodshed & no one knoweth",
+        "markdown": "whole face of this land is one continual round of Murder~~s~~ & bloodshed & no one knoweth",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/427"
       },
       {
@@ -338,6 +339,7 @@
         "page": 427,
         "line": 37,
         "text": "were it possible, I would make all things known unto you",
+        "markdown": "were it possible, I would make all thing[s] known unto you",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/427"
       }
     ]
@@ -541,6 +543,7 @@
         "page": 428,
         "line": 12,
         "text": "for behold the same that judgeth rashly sh",
+        "markdown": "for behold the same that ~~judges~~ judgeth rashly",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/428"
       },
       {
@@ -569,6 +572,7 @@
         "page": 428,
         "line": 14,
         "text": "behold what the scripture saith man shall",
+        "markdown": "behold what the scripture~~s~~ saith man shall",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/428"
       },
       {
@@ -660,6 +664,7 @@
         "page": 428,
         "line": 21,
         "text": "search the Prophecies of Isaiah behold I cannot write them yea behold I",
+        "markdown": "search the ~~scriptures~~ Prophecies of Isaiah behold I cannot write them yea behold",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/428"
       },
       {
@@ -1101,6 +1106,7 @@
         "page": 429,
         "line": 19,
         "text": "ye do love money & your substance & your fine apparel & the adorning of your churches",
+        "markdown": "ye do love money & your substance~~s~~ & your fine apparel & the adorning of your churches",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/429"
       },
       {
@@ -1136,6 +1142,7 @@
         "page": 429,
         "line": 22,
         "text": "the Holy Church of God why are ye ashamed to take upon you the name of Christ why do ye",
+        "markdown": "the Holy Church of God why are ye ashamed to take upon you the name of Christ why do ~~you~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/429"
       },
       {

@@ -9,6 +9,7 @@
         "page": 215,
         "line": 1,
         "text": "earth should pass away",
+        "markdown": "{{earth should pass away",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/215"
       }
     ]
@@ -23,6 +24,7 @@
         "page": 215,
         "line": 1,
         "text": "& even unto the great & last day when all People & all Kindreds & allNations & tongues shall stand before God to be judged of their works whether they be goo",
+        "markdown": "& even un}}to the great & la{{st}} day {{when all People & all Kindreds & allN}}ations & tongues shall ~~be~~ stand before God to be judge{{d of their works whether they be",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/215"
       },
       {
@@ -44,6 +46,7 @@
         "page": 215,
         "line": 2,
         "text": "if they be good to the resurrection of everlasting life",
+        "markdown": "if they be good to the res{{urrection of everlasting life}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/215"
       },
       {
@@ -51,6 +54,7 @@
         "page": 215,
         "line": 3,
         "text": "& if they be evil to the resurrection of damnation being on a parallel the one",
+        "markdown": "& if they be evil to the resurrection of damnatio{{n being on a parallel the one}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/215"
       },
       {
@@ -58,6 +62,7 @@
         "page": 215,
         "line": 4,
         "text": "on the one hand & the other on the other hand according to the mercy & the justice",
+        "markdown": "on the one hand & the other on the other hand ac{{cording to the mercy & the justice}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/215"
       },
       {
@@ -65,6 +70,7 @@
         "page": 215,
         "line": 5,
         "text": "& the holiness which is in Christ which was before",
+        "markdown": "& the holiness which is in Christ which {{was before",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/215"
       }
     ]

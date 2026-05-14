@@ -58,6 +58,7 @@
         "page": 147,
         "line": 3,
         "text": "& this because they would not hearken unto the voice of the Lord therefore the Lord",
+        "markdown": "& this because they would not hearken unto the voice of the ~~good shepherd~~ [Lord] therefore",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/147"
       },
       {
@@ -149,6 +150,7 @@
         "page": 147,
         "line": 10,
         "text": "remaineth in his fallen state & the Devil hath all power over him therefore he is as tho there was",
+        "markdown": "remaineth in his fallen state & the Devil hath all power over him therefore he ~~as~~ is as tho there",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/147"
       },
       {
@@ -310,6 +312,7 @@
         "page": 147,
         "line": 22,
         "text": "up to the Devil who hath subjected them which is damnation",
+        "markdown": "up to the Devil who hath ~~suby~~ subjected them which is",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/147"
       }
     ]
@@ -324,6 +327,7 @@
         "page": 147,
         "line": 22,
         "text": "having gone accord",
+        "markdown": "damnation having gone",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/147"
       },
       {
@@ -345,6 +349,7 @@
         "page": 147,
         "line": 25,
         "text": "uld not they being warned of their iniquities & yet they would not depart from them",
+        "markdown": "uld not they being warned of their iniquities & yet they would not ~~repent~~ depart from",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/147"
       },
       {
@@ -422,6 +427,7 @@
         "page": 147,
         "line": 30,
         "text": "Chapter",
+        "markdown": "——",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/147"
       }
     ]

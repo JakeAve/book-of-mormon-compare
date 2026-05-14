@@ -79,6 +79,7 @@
         "page": 78,
         "line": 33,
         "text": "according to the joy in harvest & as men rejoice when they divide the spoil",
+        "markdown": "according to the joy in harvest & as ~~when~~ men rejoice when they divide the",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/78"
       }
     ]
@@ -142,6 +143,7 @@
         "page": 78,
         "line": 37,
         "text": "is given & the goverment shall be upon his shoulder & his name shall be called wonderful",
+        "markdown": "is given & the goverment shall be upon his shoulder & his name shall be [called] wonderful",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/78"
       },
       {
@@ -408,6 +410,7 @@
         "page": 79,
         "line": 19,
         "text": "in the thickets of the forests & they shall mount up like the lifting up of smoke",
+        "markdown": "in the thickets [of the] forests & they shall mount up like the lifting up of smoke",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/79"
       }
     ]

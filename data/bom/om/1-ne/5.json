@@ -16,6 +16,7 @@
         "page": 6,
         "line": 5,
         "text": "He was filled <​ with​> joy and also my mother sariah was",
+        "markdown": "He was filled <​~~joy~~ [with]​> joy and also my mother sariah was",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/6"
       },
       {
@@ -51,6 +52,7 @@
         "page": 6,
         "line": 9,
         "text": "telling him that he was a visionary man saying behold",
+        "markdown": "telling him that he was a visionary man say[ing] behold",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/6"
       },
       {
@@ -107,6 +109,7 @@
         "page": 6,
         "line": 13,
         "text": "and it had came",
+        "markdown": "and ~~is~~ [it] had",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/6"
       },
       {
@@ -135,6 +138,7 @@
         "page": 6,
         "line": 17,
         "text": "goodness of god but had tarried at jerusalem and had",
+        "markdown": "goodness of god but had tarried ~~an~~ [at] jerusalem and",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/6"
       },
       {
@@ -198,6 +202,7 @@
         "page": 6,
         "line": 22,
         "text": "and after this manner of language did",
+        "markdown": "and after this manner [of language] did",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/6"
       },
       {
@@ -296,6 +301,7 @@
         "page": 6,
         "line": 32,
         "text": "and gave them power whereby they could accomplish",
+        "markdown": "and ~~give~~ [gave] them power whereby they could",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/6"
       },
       {
@@ -303,6 +309,7 @@
         "page": 6,
         "line": 33,
         "text": "the thing which the lord hath commanded them and after",
+        "markdown": "the thing which the lord hath ~~commander~~ [commanded] them and",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/6"
       },
       {
@@ -380,6 +387,7 @@
         "page": 6,
         "line": 40,
         "text": "he did search them from the beginning",
+        "markdown": "he did search ~~then~~ [them] from the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/6"
       }
     ]
@@ -394,6 +402,7 @@
         "page": 6,
         "line": 40,
         "text": "and he beheld",
+        "markdown": "beginning and he",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/6"
       },
       {
@@ -408,6 +417,7 @@
         "page": 6,
         "line": 42,
         "text": "gave an account of the creation of the world and also of adam",
+        "markdown": "~~give~~ [gave] an account of the creation of the world and also of",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/6"
       },
       {
@@ -492,6 +502,7 @@
         "page": 6,
         "line": 50,
         "text": "plates of brass a jenealeja [genealogy] of his fathers where for he new that",
+        "markdown": "plates of brass a jenealeja [genealogy] of his fathers where for he new tha{{t}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/6"
       },
       {
@@ -541,6 +552,7 @@
         "page": 7,
         "line": 2,
         "text": "and they ware also led out of captivity and out",
+        "markdown": "and ~~ther~~ [they] ware also led out of captivity and",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/7"
       },
       {
@@ -597,6 +609,7 @@
         "page": 7,
         "line": 7,
         "text": "All these things he was filled with the spirrit and began to",
+        "markdown": "All these thing[s] he was filled with the spirrit and began to",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/7"
       },
       {
@@ -751,6 +764,7 @@
         "page": 7,
         "line": 19,
         "text": "wherefore it was wisdom",
+        "markdown": "wherefore ~~is~~ [it] was",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/7"
       },
       {
@@ -758,6 +772,7 @@
         "page": 7,
         "line": 20,
         "text": "in the lord that we should carry them with us as we",
+        "markdown": "in the lord [t]hat we should carry them with us as we",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/7"
       },
       {

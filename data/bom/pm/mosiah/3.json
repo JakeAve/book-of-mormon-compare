@@ -100,6 +100,7 @@
         "page": 126,
         "line": 14,
         "text": "oice & that thou mayest declare unto thy People that they may also be filled with Joy",
+        "markdown": "oice & that thou mayest declare unto thy People that they ~~also~~ may [also] be filled with",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/126"
       }
     ]
@@ -114,6 +115,7 @@
         "page": 126,
         "line": 14,
         "text": "for",
+        "markdown": "Joy",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/126"
       },
       {
@@ -212,6 +214,7 @@
         "page": 126,
         "line": 24,
         "text": "& the abominations of his People",
+        "markdown": "& [the] abominations of his People",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/126"
       }
     ]
@@ -373,6 +376,7 @@
         "page": 126,
         "line": 36,
         "text": "these things to every Kindred Nation & tongue that ther[e]by whosoever should beli",
+        "markdown": "these things to every [Kindred] Nation ~~& Kindred~~ [&] tongue that ther[e]by whosoever should beli",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/126"
       },
       {
@@ -716,6 +720,7 @@
         "page": 127,
         "line": 26,
         "text": "& thus saith the Lord they shall stand as a bright testimony",
+        "markdown": "& ~~this~~ thus saith the Lord they shall stand as a bright",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/127"
       },
       {
@@ -765,6 +770,7 @@
         "page": 127,
         "line": 31,
         "text": "no more return therefore they have drunk damnation to their own souls",
+        "markdown": "no more return~~s~~ therefore they have drunk damnation to their own souls",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/127"
       }
     ]
@@ -835,6 +841,7 @@
         "page": 127,
         "line": 36,
         "text": "Amen.",
+        "markdown": "endeth",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/127"
       }
     ]

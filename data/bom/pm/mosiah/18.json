@@ -156,6 +156,7 @@
         "page": 149,
         "line": 4,
         "text": "& it came to pass that as many as believed him went thith",
+        "markdown": "& it came to pass that as many as believed him went ~~forth~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/149"
       },
       {
@@ -387,6 +388,7 @@
         "page": 149,
         "line": 23,
         "text": "am I baptise thee having from the Almighty God as a testimony that ye have",
+        "markdown": "am~~an~~ I baptise the[e] having from the Almighty God as a testimony that ye have",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/149"
       },
       {
@@ -422,6 +424,7 @@
         "page": 149,
         "line": 27,
         "text": "& after Alma had said these words both Alma & Helam was buried in the water",
+        "markdown": "& after Alma had said these words both Alma & Helam~~an~~ was buried in the water",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/149"
       },
       {
@@ -506,6 +509,7 @@
         "page": 149,
         "line": 33,
         "text": "& they were called the church of God or the church of Christ from",
+        "markdown": "& they were ~~filled~~ called the church of God or the church of Christ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/149"
       },
       {
@@ -520,6 +524,7 @@
         "page": 149,
         "line": 35,
         "text": "ority of God they was aded to his church",
+        "markdown": "ority of God they was ~~add~~ [aded] to his",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/149"
       }
     ]
@@ -534,6 +539,7 @@
         "page": 149,
         "line": 35,
         "text": "& it came to pass that Alma having authority",
+        "markdown": "church & it came to pass that Alma having",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/149"
       },
       {
@@ -541,6 +547,7 @@
         "page": 149,
         "line": 36,
         "text": "from God ordained Priests even one priest to every fifty of their number did he ordain to preach unto",
+        "markdown": "from God ordained Priests [even one priest] to every fifty of their number did he ordain to preach unto",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/149"
       },
       {
@@ -891,6 +898,7 @@
         "page": 150,
         "line": 26,
         "text": "are they for they shall sing to his praise forever",
+        "markdown": "are they for they shall sing to his ~~pa~~ praise",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/150"
       }
     ]
@@ -905,6 +913,7 @@
         "page": 150,
         "line": 26,
         "text": "& these things were done in the borders of the",
+        "markdown": "forever & these things were done in the borders of",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/150"
       },
       {
@@ -947,6 +956,7 @@
         "page": 150,
         "line": 30,
         "text": "discovered unto the King",
+        "markdown": "~~discoveres~~ [discovered] unto the",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/150"
       }
     ]
@@ -961,6 +971,7 @@
         "page": 150,
         "line": 30,
         "text": "& now the king saith that Alma was a stiring up the",
+        "markdown": "King & now the king saith that Alma was a stiring up",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/150"
       },
       {
@@ -1010,6 +1021,7 @@
         "page": 150,
         "line": 34,
         "text": "& they were in number about four hundred & fifty souls",
+        "markdown": "[& they were in number about four hundred & fifty souls]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/150"
       }
     ]

@@ -16,6 +16,7 @@
         "page": 265,
         "line": 4,
         "text": "ye shall keep the Commandments of God ye shall prosper in the land",
+        "markdown": "ye shall keep the Commandment[s] of God ye shall prosper in the land",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/265"
       }
     ]
@@ -450,6 +451,7 @@
         "page": 266,
         "line": 1,
         "text": "& now for three days & for three nights was I racked even with the pains of",
+        "markdown": "[&] now for three days & for three nights was I racked even with the pains of",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/266"
       },
       {
@@ -604,6 +606,7 @@
         "page": 266,
         "line": 14,
         "text": "my joy yea",
+        "markdown": "my ~~joy~~ [joy]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/266"
       }
     ]
@@ -618,6 +621,7 @@
         "page": 266,
         "line": 14,
         "text": "& me thought I saw even as our father Lehi saw God sitting upon",
+        "markdown": "yea & me thought I saw even as our father Lehi saw God sitting",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/266"
       },
       {
@@ -653,6 +657,7 @@
         "page": 266,
         "line": 17,
         "text": "my limbs did receive their strength again & I stood upon my feet & did manifest unto",
+        "markdown": "my limbs did receive their strength again & I stood upon [my] feet & did manifest unto",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/266"
       },
       {
@@ -716,6 +721,7 @@
         "page": 266,
         "line": 22,
         "text": "Son the Lord doth give me exceding great joy in the fruit of my labours",
+        "markdown": "Son the Lord doth give me exceding great joy in the fruit of my labour[s]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/266"
       }
     ]

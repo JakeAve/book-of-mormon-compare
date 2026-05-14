@@ -9,6 +9,7 @@
         "page": 97,
         "line": 27,
         "text": "And now behold my beloved",
+        "markdown": "Chapter []—— And now behold",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/97"
       },
       {
@@ -16,6 +17,7 @@
         "page": 97,
         "line": 28,
         "text": "Brethren I suppose that ye ponder somewhat in your hearts concerning that which",
+        "markdown": "Brethren I suppose that ye ponder somewhat in your ~~minds~~ ~~somewhat~~ [hearts] concerning",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/97"
       },
       {
@@ -177,6 +179,7 @@
         "page": 98,
         "line": 3,
         "text": "himself unto you in the flesh the things which he shall say unto you shall ye observe to do",
+        "markdown": "himself unto you in the flesh the things which he shall say unto you shall ye observe to ~~do~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/98"
       }
     ]
@@ -205,6 +208,7 @@
         "page": 98,
         "line": 6,
         "text": "they will not search knowledge nor understand great knowledge when it is given unto",
+        "markdown": "they will not search knowledge nor understand~~ing~~ great knowledge when it is given unto",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/98"
       },
       {

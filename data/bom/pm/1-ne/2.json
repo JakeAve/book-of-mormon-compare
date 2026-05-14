@@ -198,6 +198,7 @@
         "page": 7,
         "line": 17,
         "text": "& it came to pass that he built an",
+        "markdown": "& it came to pass ~~&~~ that he built",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/7"
       },
       {
@@ -282,6 +283,7 @@
         "page": 7,
         "line": 24,
         "text": "so spake unto Lemuel O that thou mightest be like unto this vally firm & steadfast",
+        "markdown": "so spake unto Lemuel O that thou mightest be like unto this [vally] firm & steadfast",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/7"
       },
       {
@@ -317,6 +319,7 @@
         "page": 7,
         "line": 27,
         "text": "rmur in many things against their father because that he was a visionary man",
+        "markdown": "rmur in many things against their father because that he was a visionary [man]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/7"
       },
       {
@@ -359,6 +362,7 @@
         "page": 7,
         "line": 31,
         "text": "& thus Laman & Lemuel being the eldest did murmur",
+        "markdown": "& ~~this~~ [thus] Laman & Lemuel being the eldest did",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/7"
       },
       {
@@ -366,6 +370,7 @@
         "page": 7,
         "line": 32,
         "text": "against their father & they did murmur because they knew not the",
+        "markdown": "against their father & they did murmur because they ~~knew~~ knew not",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/7"
       },
       {
@@ -541,6 +546,7 @@
         "page": 8,
         "line": 10,
         "text": "ch the Lord had manifested unto me by his holy spirit & it came to pass",
+        "markdown": "ch [t]he Lord had manifested unto me by his holy spirit & it came to pass",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
       },
       {
@@ -597,6 +603,7 @@
         "page": 8,
         "line": 14,
         "text": "Lord spake unto me saying blessed art thou Nephi because of",
+        "markdown": "Lord spake unto me saying blessed art thou Nephi ~~because~~ because",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
       },
       {
@@ -639,6 +646,7 @@
         "page": 8,
         "line": 18,
         "text": "a land which is choice above all other lands &",
+        "markdown": "a land which is choice above ~~of~~ all other lands",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
       }
     ]
@@ -653,6 +661,7 @@
         "page": 8,
         "line": 18,
         "text": "in asmuch as thy Brethren",
+        "markdown": "& in asmuch as thy",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
       },
       {

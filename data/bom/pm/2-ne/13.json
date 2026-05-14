@@ -30,6 +30,7 @@
         "page": 73,
         "line": 19,
         "text": "the mighty",
+        "markdown": "~~& th~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/73"
       },
       {
@@ -408,6 +409,7 @@
         "page": 74,
         "line": 6,
         "text": "Lord will smite with a scab the crown of the head of the daugters of Zion & the Lord will dis",
+        "markdown": "[Lord] will smite with a scab the crown of the head of the daugters of Zion & the Lord will dis",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/74"
       },
       {
@@ -471,6 +473,7 @@
         "page": 74,
         "line": 9,
         "text": "the bonnets & the ornaments of the legs & the headbands & the tablets & the",
+        "markdown": "the bonnets & the ornaments of the legs & the headbands & the ~~tables~~ tablets &",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/74"
       },
       {

@@ -9,6 +9,7 @@
         "page": 380,
         "line": 15,
         "text": "And now it came to pass that according to our record & we know our record to be true for",
+        "markdown": "And now it came to pass [that] according to our record & we know our record to be true for",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/380"
       },
       {
@@ -79,6 +80,7 @@
         "page": 380,
         "line": 21,
         "text": "gn which had been given by the prophet Samuel the Lamanite yea for the time that there sh",
+        "markdown": "gn which had been ~~given~~ [given] by the prophet Samuel the Lamanite yea for the ~~sign~~ [time] that",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/380"
       },
       {
@@ -611,6 +613,7 @@
         "page": 381,
         "line": 18,
         "text": "that it did last for the space of three days that there was no light seen & there was gre",
+        "markdown": "that it did last for the space of three ~~days~~ [days] that there was no light seen & there was",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/381"
       },
       {
@@ -618,6 +621,7 @@
         "page": 381,
         "line": 19,
         "text": "at mourning & howling & weeping among all the people continually yea great were the mournings",
+        "markdown": "at mourning & howling [& weeping] among all the people continually yea great were the mournings",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/381"
       },
       {
@@ -695,6 +699,7 @@
         "page": 381,
         "line": 26,
         "text": "our children have been spared & not have been buried up in that great City Moronihah",
+        "markdown": "our children have been spared & not have been ~~burned~~ [buried] up in that great City",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/381"
       },
       {

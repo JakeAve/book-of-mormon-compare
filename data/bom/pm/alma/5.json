@@ -170,6 +170,7 @@
         "page": 183,
         "line": 34,
         "text": "And now Behold I say unto you my Brethren you that belong to this Church",
+        "markdown": "And [now] Behold I say unto you my Brethren ~~you~~ you that belong to this",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/183"
       },
       {
@@ -345,6 +346,7 @@
         "page": 184,
         "line": 13,
         "text": "can tell you, did not my Father Alma believe in the words which was",
+        "markdown": "can tell you, did not my Father Alma believe~~d~~ in the words which was",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/184"
       },
       {
@@ -380,6 +382,7 @@
         "page": 184,
         "line": 16,
         "text": "faith there was a mighty change wrought in his heart. Behold I say",
+        "markdown": "~~spirit~~ faith there was a mighty change wrought in his heart. Behold I",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/184"
       },
       {
@@ -443,6 +446,7 @@
         "page": 184,
         "line": 21,
         "text": "my Brethren of the church have ye spiritually been born of God. have ye rec",
+        "markdown": "my Brethren of the church have ~~y◊u~~ ye spiritually been born of God. have ye",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/184"
       },
       {
@@ -541,6 +545,7 @@
         "page": 184,
         "line": 30,
         "text": "Or do ye imagine to yourselves that ye can lie unto the Lord at that day &",
+        "markdown": "Or do ~~y◊u~~ ye imagine to yourselves that ye can lie unto the Lord at that day",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/184"
       },
       {
@@ -548,6 +553,7 @@
         "page": 184,
         "line": 31,
         "text": "say Lord our works have been righteous works upon the face of the Earth & that he",
+        "markdown": "~~I~~ say Lord our works have been righteous works upon the face of the Earth & that",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/184"
       },
       {
@@ -590,6 +596,7 @@
         "page": 184,
         "line": 35,
         "text": "Remembrance that ye have set at defiance the commandments",
+        "markdown": "Remembrance that ye have set at ~~naught~~ defiance the",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/184"
       },
       {
@@ -639,6 +646,7 @@
         "page": 185,
         "line": 1,
         "text": "I say unto you can ye think of",
+        "markdown": "I say unto you can ye ~~look~~ think",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/185"
       },
       {
@@ -667,6 +675,7 @@
         "page": 185,
         "line": 4,
         "text": "can no man be saved except his garments",
+        "markdown": "can no man be saved except his garment[s]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/185"
       },
       {
@@ -933,6 +942,7 @@
         "page": 185,
         "line": 27,
         "text": "behold I say is there one among you who",
+        "markdown": "behold I say ~~unto~~ is there one among you",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/185"
       },
       {
@@ -996,6 +1006,7 @@
         "page": 185,
         "line": 32,
         "text": "woe unto such an one for he is not prepared & the time is at hand",
+        "markdown": "wo[e] unto such an one for he is not prepared & the time is at hand",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/185"
       },
       {
@@ -1339,6 +1350,7 @@
         "page": 186,
         "line": 21,
         "text": "would that ye should hear me for I speak in the energy of my soul",
+        "markdown": "~~say unto you~~ would that ye should hear me for I speak in the energy",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/186"
       },
       {
@@ -1493,6 +1505,7 @@
         "page": 186,
         "line": 35,
         "text": "to the spirit of Prophecy which is in me which is also by the manifestation of the",
+        "markdown": "to the spirit of Prophecy which is in me which is also by the manifestation~~s~~ of the",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/186"
       },
       {
@@ -1584,6 +1597,7 @@
         "page": 187,
         "line": 7,
         "text": "ed & also the mddle aged & the rising Generation yea to cry unto them that",
+        "markdown": "ed & also the ~~young~~ mddle aged & the rising Generation yea to cry unto them",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/187"
       },
       {
@@ -1605,6 +1619,7 @@
         "page": 187,
         "line": 8,
         "text": "yea thus sayeth the spirit repent all Ye",
+        "markdown": "yea thus sayeth the spirit repent all ~~the~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/187"
       },
       {
@@ -1619,6 +1634,7 @@
         "page": 187,
         "line": 10,
         "text": "cometh in his Glory in his might magisty Power & dominion yea my beloved",
+        "markdown": "~~comes~~ cometh in his Glory in his might magisty Power & dominion yea my",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/187"
       },
       {
@@ -1829,6 +1845,7 @@
         "page": 187,
         "line": 29,
         "text": "& finally all ye that will persist in your wickedness I say unto",
+        "markdown": "& finally all ye that will persist in your wickedness I say ~~you~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/187"
       },
       {
@@ -1885,6 +1902,7 @@
         "page": 187,
         "line": 35,
         "text": "word of God may be fulfiled which sayeth the names of the wicked shall not be mingled with the names of my People",
+        "markdown": "word of God may be fulfiled which sayeth the names of the wicked shall not be ~~numbered~~ mingled with the names of my",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/187"
       }
     ]
@@ -1899,6 +1917,7 @@
         "page": 187,
         "line": 35,
         "text": "for the names of the righteous whall be",
+        "markdown": "People for the names of the righteous whall",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/187"
       },
       {

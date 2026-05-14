@@ -422,6 +422,7 @@
         "page": 409,
         "line": 38,
         "text": "they be good or whether they be evil",
+        "markdown": "they be good or ~~or~~ whether they be",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/409"
       }
     ]
@@ -436,6 +437,7 @@
         "page": 409,
         "line": 38,
         "text": "& for this cause have I been lifted up therefore",
+        "markdown": "evil & for this cause have I been lifted up",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/409"
       },
       {
@@ -478,6 +480,7 @@
         "page": 410,
         "line": 3,
         "text": "him will I hold Guiltless before my Father at that day when I shall stand to ju",
+        "markdown": "him will I hold Guiltless before my Father at ~~the~~ that day when I shall stand to",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/410"
       },
       {
@@ -534,6 +537,7 @@
         "page": 410,
         "line": 7,
         "text": "men & for this cause he fulfileth the words which he hath given & he lieth",
+        "markdown": "men & for this cause he ~~fulfils~~ fulfileth the words which he hath ~~spoken~~ given &",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/410"
       },
       {
@@ -723,6 +727,7 @@
         "page": 410,
         "line": 22,
         "text": "written & which shall be written shall this People be judged for by them shall their works",
+        "markdown": "written & which shall be written shall this People be judged for by [them shall] their works",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/410"
       },
       {
@@ -772,6 +777,7 @@
         "page": 410,
         "line": 25,
         "text": "that ye shall be judges of this People according to the judgment which I shall",
+        "markdown": "that ye shall be ~~judged~~ judges of this People according to the judgment which I",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/410"
       },
       {
@@ -856,6 +862,7 @@
         "page": 410,
         "line": 31,
         "text": "and now behold my joy is great even unto fullness because",
+        "markdown": "and [now] behold my joy is great even unto fullness because",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/410"
       },
       {

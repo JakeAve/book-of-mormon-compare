@@ -114,6 +114,7 @@
         "page": 105,
         "line": 27,
         "text": "& it came to pass that he pruned it & diged about it & nourished it",
+        "markdown": "& it came to pass ~~that~~ [that] he pruned it & diged about it & nourished",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/105"
       },
       {
@@ -170,6 +171,7 @@
         "page": 105,
         "line": 32,
         "text": "from a wild Olive tree & bring them hither unto me & we will pluck off those main",
+        "markdown": "from a wild Olive tree & bring them hither unto me & we will pluck ~~aft~~ off those",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/105"
       },
       {
@@ -198,6 +200,7 @@
         "page": 105,
         "line": 34,
         "text": "& behold saith the Lord of the vineyard I take away many of",
+        "markdown": "& behold saith the Lord of the vineyard I ~~take~~ take away many",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/105"
       },
       {
@@ -436,6 +439,7 @@
         "page": 106,
         "line": 17,
         "text": "come let us go down into the vineyard that we may labour in the vineyard",
+        "markdown": "come let us go down into the vineyard that we [may] labour in the vineyard",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/106"
       }
     ]
@@ -520,6 +524,7 @@
         "page": 106,
         "line": 23,
         "text": "& he sayeth unto the Servant behold the branches of the wild tree hath ta",
+        "markdown": "& he sayeth unto the Servant behold the branches of the wild tree ~~have~~ [hath]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/106"
       },
       {
@@ -611,6 +616,7 @@
         "page": 106,
         "line": 33,
         "text": "ither the master of the vineyard had hid the natural branches of the tree & he sayeth unto the servant",
+        "markdown": "ither the master [of the vineyard] had hid the natural branches of the tree & he sayeth unto the servant",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/106"
       },
       {
@@ -639,6 +645,7 @@
         "page": 106,
         "line": 37,
         "text": "is long time have I nourished it & it hath brought forth much fruit",
+        "markdown": "is long time have I nourished it & it hath brought forth much [fruit]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/106"
       }
     ]
@@ -723,6 +730,7 @@
         "page": 107,
         "line": 7,
         "text": "h of the tree also & thou knowest that this spot of ground was poorer then the first but behold",
+        "markdown": "h [of the tree] also & thou knowest that this spot of ground was poorer then the first but behold",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/107"
       },
       {
@@ -1556,6 +1564,7 @@
         "page": 109,
         "line": 3,
         "text": "thereof for behold they grew faster then the strength of the roots takeing strength",
+        "markdown": "thereof for behold they grew faster then the strength of the roots ~~there◊f~~ takeing",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/109"
       },
       {
@@ -1759,6 +1768,7 @@
         "page": 109,
         "line": 20,
         "text": "rth good fruit unto me & I may yet have glory in the fruit of my vineyard",
+        "markdown": "rth good fruit unto me & I [may] yet have glory in the fruit of my vineyard",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/109"
       }
     ]
@@ -1829,6 +1839,7 @@
         "page": 109,
         "line": 24,
         "text": "the servant pluck not the wild branches from the trees save it be those which are most",
+        "markdown": "the servant pluck not the wild branches from the trees save it be those ~~that~~ [which] are",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/109"
       },
       {
@@ -1892,6 +1903,7 @@
         "page": 109,
         "line": 29,
         "text": "& because of the change of the branches that the good may overcome the evil",
+        "markdown": "& because of the ~~change~~ [change] of the branches that the good may overcome the",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/109"
       }
     ]
@@ -1906,6 +1918,7 @@
         "page": 109,
         "line": 29,
         "text": "& because that",
+        "markdown": "evil & because",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/109"
       },
       {
@@ -2060,6 +2073,7 @@
         "page": 110,
         "line": 6,
         "text": "time for the end draweth nigh & if it so be that these last grafts shall grow & bring",
+        "markdown": "time for the end draweth nigh~~t~~ & if it so be that these last grafts shall grow & bring",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/110"
       },
       {
@@ -2102,6 +2116,7 @@
         "page": 110,
         "line": 10,
         "text": "eof all at once lest the roots thereof should be to strong for the graft & the graft thereof",
+        "markdown": "[eof all at once lest the roots thereof should] ~~& the sise thereof & ye shall not clear away",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/110"
       },
       {
@@ -2193,6 +2208,7 @@
         "page": 110,
         "line": 17,
         "text": "hes of the natural tree will I graft into the natural branches of the tree & th",
+        "markdown": "hes of the natural tree will I graft into the natural branches of the ~~natural~~ tree &",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/110"
       },
       {
@@ -2221,6 +2237,7 @@
         "page": 110,
         "line": 19,
         "text": "& the bad shall be cast away yea even out of all the land of my vineyard for",
+        "markdown": "& ~~they~~ ~~<​the​>~~ the bad shall be cast away yea even out of all the land of my",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/110"
       },
       {
@@ -2270,6 +2287,7 @@
         "page": 110,
         "line": 22,
         "text": "& the Lord of the vineyard saith unto them go to & labo",
+        "markdown": "& the Lord of the vineyard saith unto ~~him~~ [them] go to &",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/110"
       },
       {
@@ -2284,6 +2302,7 @@
         "page": 110,
         "line": 24,
         "text": "ish my vineyard for the end is nigh at hand & the Season speedily cometh & if ye labour wi",
+        "markdown": "ish my vineyard for the end is nigh at hand & the Season ~~soon~~ [speedily] cometh & if ye labour",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/110"
       },
       {
@@ -2291,6 +2310,7 @@
         "page": 110,
         "line": 25,
         "text": "th your mights with me ye shall have joy in the fruit which I shall lay up unto myself",
+        "markdown": "th your mights with me ye shall have joy in the fruit ~~of~~ which I shall lay up ~~for~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/110"
       },
       {
@@ -2459,6 +2479,7 @@
         "page": 111,
         "line": 4,
         "text": "ng & blessed art thou for because that ye have been diligent in labouring with me",
+        "markdown": "ng & blessed art thou for because ~~that~~ [that] ye have been diligent in labouring with",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/111"
       },
       {
@@ -2501,6 +2522,7 @@
         "page": 111,
         "line": 8,
         "text": "ng time will I lay up of the fruit of my vineyard unto mine ownself against the Sea",
+        "markdown": "ng time [will] I lay up of the fruit of my vineyard unto mine ownself against the Sea",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/111"
       },
       {
@@ -2508,6 +2530,7 @@
         "page": 111,
         "line": 9,
         "text": "son which speedily cometh & for the last time have I nourished my vineya",
+        "markdown": "son which speedily cometh & ~~fro◊~~ for the last time have I nourished my",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/111"
       },
       {
@@ -2564,6 +2587,7 @@
         "page": 111,
         "line": 15,
         "text": "ill I cause to be burned with fire——",
+        "markdown": "ill I cause to be [burned] with fire——",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/111"
       },
       {

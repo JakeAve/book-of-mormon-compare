@@ -275,6 +275,7 @@
         "page": 443,
         "line": 23,
         "text": "I am fair & I will dance before him & I will please him that he will desire me to wife wherefore",
+        "markdown": "I am fair & I will dance before [him] & [I] will please him that he will desire me to wife wherefore",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/443"
       },
       {
@@ -786,6 +787,7 @@
         "page": 444,
         "line": 27,
         "text": "destruction of all people for it is built up by the devil which is the father of all lies",
+        "markdown": "destruction of all people for it is ~~build~~ built up by the devil which is the father of all",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/444"
       },
       {
@@ -793,6 +795,7 @@
         "page": 444,
         "line": 28,
         "text": "even that same liar which beguiled our first parents yea even that same liar which",
+        "markdown": "even that same liar which beguiled our first parents yea even ~~the~~ [that] same liar",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/444"
       },
       {

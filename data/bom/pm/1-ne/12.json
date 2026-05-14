@@ -44,6 +44,7 @@
         "page": 22,
         "line": 15,
         "text": "beheld multitudes gathered togethered to Battle one against the other &",
+        "markdown": "beheld multitudes gathered togethered to Battle [one] against the other &",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/22"
       },
       {
@@ -338,6 +339,7 @@
         "page": 23,
         "line": 3,
         "text": "& the Angel saith unto me look & I looked & beheld three",
+        "markdown": "& the Angel saith unto me look & I looked & beheld ~~their~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/23"
       },
       {
@@ -345,6 +347,7 @@
         "page": 23,
         "line": 4,
         "text": "generations did pass away in righteousness & their garments were white",
+        "markdown": "~~garments~~ [generations] did pass away in righteousness & their garments were",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/23"
       },
       {
@@ -352,6 +355,7 @@
         "page": 23,
         "line": 5,
         "text": "even like unto the Lamb of God & the Angel said unto me these a",
+        "markdown": "~~like~~ even like unto the Lamb of God & the Angel said unto me these",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/23"
       },
       {
@@ -457,6 +461,7 @@
         "page": 23,
         "line": 13,
         "text": "thy father saw yea even the river of which he spake & the debths thereof are the debths",
+        "markdown": "thy father saw yea even the river [of] which he spake & the debths thereof are the debths",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/23"
       },
       {
@@ -492,6 +497,7 @@
         "page": 23,
         "line": 16,
         "text": "into broad roads that they may perish & are lost",
+        "markdown": "into broad ~~roa~~ roads that they may perish & are",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/23"
       }
     ]
@@ -506,6 +512,7 @@
         "page": 23,
         "line": 16,
         "text": "& the large & spacious buildi",
+        "markdown": "lost & the large & spacious",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/23"
       },
       {

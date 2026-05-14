@@ -37,6 +37,7 @@
         "page": 449,
         "line": 3,
         "text": "& it came to pass that the prophets were rejected",
+        "markdown": "& it came to pass that the prophets were ~~refe~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/449"
       },
       {
@@ -177,6 +178,7 @@
         "page": 449,
         "line": 14,
         "text": "the voice of the Lord because of their wicked combinations wherefore there began to be wars conten",
+        "markdown": "the voice of the Lord because of their wicked combinations wherefore ~~they~~ [there] began to be wars",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/449"
       },
       {
@@ -289,6 +291,7 @@
         "page": 449,
         "line": 22,
         "text": "& Ethem being a descendant of Ahah did obtain the kingdom & he al",
+        "markdown": "& ~~Etham~~ [Ethem] being a descendant of Ahah did obtain the kingdom & he",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/449"
       },
       {
@@ -415,6 +418,7 @@
         "page": 449,
         "line": 32,
         "text": "ttle unto Moron in the which he did over throw the half of the kingdom & he did maintain the",
+        "markdown": "ttle unto Moron in the which he did ~~gain~~ [over] throw the half of the kingdom & he did maintain",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/449"
       },
       {
@@ -534,6 +538,7 @@
         "page": 449,
         "line": 39,
         "text": "ple & except they should repent the Lord God would execute judgment against them to their",
+        "markdown": "ple & except they should repent the Lord God would execute judgment against them to ~~their~~[their]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/449"
       },
       {
@@ -583,6 +588,7 @@
         "page": 450,
         "line": 3,
         "text": "did reject all the words of the prophets because of their secret society & wicked abomi",
+        "markdown": "did reject all the words of the prophets because of their ~~wicked~~ [secret] society & wicked",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/450"
       },
       {

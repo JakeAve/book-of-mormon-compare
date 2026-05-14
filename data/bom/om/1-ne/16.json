@@ -9,6 +9,7 @@
         "page": 26,
         "line": 6,
         "text": "& now it came to pass that after I Nephi had made an end of",
+        "markdown": "~~now~~ [&] now it came to pass that [after] I Nephi had made an end",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/26"
       },
       {
@@ -128,6 +129,7 @@
         "page": 26,
         "line": 17,
         "text": "came to pass that I Nephi did exhort my Brethren with all diligence",
+        "markdown": "came to pass that [I] Nephi did exhort my Brethren with all diligence",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/26"
       },
       {
@@ -163,6 +165,7 @@
         "page": 26,
         "line": 20,
         "text": "& great hopes of them that they would walk in the paths of righteousness",
+        "markdown": "{{&}} great hopes of them that they would walk in the paths of righteousness",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/26"
       }
     ]
@@ -177,6 +180,7 @@
         "page": 26,
         "line": 20,
         "text": "now",
+        "markdown": "~~k~~now",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/26"
       },
       {
@@ -184,6 +188,7 @@
         "page": 26,
         "line": 21,
         "text": "all these things were said & done as my father dwelt in a tent in the vally",
+        "markdown": "{{a}}ll these things were said & done as my father dwelt in a tent in the vally",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/26"
       },
       {
@@ -303,6 +308,7 @@
         "page": 26,
         "line": 31,
         "text": "upon the ground a round ball of curious workmanship & it was of fine brass",
+        "markdown": "upon the ground a round ball of curious workmanship & it was of fine bras{{s}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/26"
       },
       {
@@ -310,6 +316,7 @@
         "page": 26,
         "line": 32,
         "text": "& within the ball was two spindles & the one pointed the way whither we should",
+        "markdown": "& within the ball was two spindles & the one pointed the way whither ~~they~~ [we]",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/26"
       },
       {
@@ -317,6 +324,7 @@
         "page": 26,
         "line": 33,
         "text": "go into the wilderness",
+        "markdown": "~~◊e~~ go into the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/26"
       }
     ]
@@ -331,6 +339,7 @@
         "page": 26,
         "line": 33,
         "text": "& it came to pass that we did gather together whatsoev",
+        "markdown": "wilderness & it came to pass that we did gather together",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/26"
       },
       {
@@ -338,6 +347,7 @@
         "page": 26,
         "line": 34,
         "text": "er things we should carry into the wilderness & all the remainder of our prov",
+        "markdown": "{{e}}r things we should carry into the wilderness & all the remainder of our prov",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/26"
       },
       {
@@ -352,6 +362,7 @@
         "page": 26,
         "line": 36,
         "text": "we might carry into the wilderness",
+        "markdown": "{{w}}e might carry into the wilderness",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/26"
       }
     ]
@@ -387,6 +398,7 @@
         "page": 26,
         "line": 37,
         "text": "Laman & itcame to pass that we traveled for the space of four days nearly a southsouth east direction & we did pitch our tents again & we did call the name",
+        "markdown": "~~Lemuel~~ Laman & {{itca}}me to pass that we traveled for the space of four days nearly a so{{uthsou}}th east direction & we did pitch our tents again & we did call the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/26"
       },
       {
@@ -394,6 +406,7 @@
         "page": 26,
         "line": 38,
         "text": "of the place Shazer",
+        "markdown": "{{o}}f the place Shazer",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/26"
       }
     ]
@@ -415,6 +428,7 @@
         "page": 27,
         "line": 1,
         "text": "arrows & go forth into the wilderness to slay food for our families & after that we",
+        "markdown": "arrows & go forth into the wilderness to slay food for our families & after th{{at we}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/27"
       },
       {
@@ -422,6 +436,7 @@
         "page": 27,
         "line": 2,
         "text": "had slain food for our families we did return again to our families in the wilde",
+        "markdown": "had slain food for our families we did return again to our families in the {{wilde}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/27"
       },
       {
@@ -436,6 +451,7 @@
         "page": 27,
         "line": 4,
         "text": "the same direction keeping in the most fertile parts of the wilderness which was",
+        "markdown": "the same direction keeping in the most fertile parts of the wilderness which w{{as}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/27"
       },
       {
@@ -457,6 +473,7 @@
         "page": 27,
         "line": 5,
         "text": "& it came to pass that we did travel for the space of",
+        "markdown": "& it came to pass that we did travel for the space {{of}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/27"
       },
       {
@@ -464,6 +481,7 @@
         "page": 27,
         "line": 6,
         "text": "many days slaying food by the way with our bows & our arrows & our stones & our slings",
+        "markdown": "many days slaying food by the way with our bows & our arrows & our stones & our sling{{s}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/27"
       }
     ]
@@ -478,6 +496,7 @@
         "page": 27,
         "line": 7,
         "text": "& we did follow the directions of the Ball which lead us in the more fertile parts",
+        "markdown": "& we did follow the directions of the Ball which lead us in the more fertile pa{{rts}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/27"
       },
       {
@@ -485,6 +504,7 @@
         "page": 27,
         "line": 8,
         "text": "of the wilderness & after that we had traveled for the space of many days we did pi",
+        "markdown": "of the wilderness & after that we had traveled for the space of many days we did p{{i}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/27"
       }
     ]
@@ -527,6 +547,7 @@
         "page": 27,
         "line": 11,
         "text": "brake my bow which was made of fine steel & after that I did brake my bow behold",
+        "markdown": "brake my bow which was made of fine steel & after that I did brake my bow beho{{ld}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/27"
       },
       {
@@ -583,6 +604,7 @@
         "page": 27,
         "line": 15,
         "text": "it came to pass that Laman & Lemuel & the Sons of Ishmael did begin to murmur",
+        "markdown": "it came to pass that Laman & Lemuel & the Sons of Ishmael did begin to murmu{{r}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/27"
       },
       {
@@ -618,6 +640,7 @@
         "page": 27,
         "line": 18,
         "text": "now it came to pass that I Nephi have",
+        "markdown": "now it came to pass that I Nephi ha{{ve}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/27"
       },
       {
@@ -625,6 +648,7 @@
         "page": 27,
         "line": 19,
         "text": "ing been afflicted with my Brethren because of the loss of my bow & their bows having <​lost​>",
+        "markdown": "ing been afflicted with my Brethren because of the loss of my bow & their bows having <​lo{{st}}​>",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/27"
       },
       {
@@ -632,6 +656,7 @@
         "page": 27,
         "line": 20,
         "text": "their springs it began to be exceding difficult yea insomuch that we could obtain",
+        "markdown": "their springs it began to be exceding difficult yea insomuch that we could obtai{{n}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/27"
       },
       {
@@ -660,6 +685,7 @@
         "page": 27,
         "line": 22,
         "text": "at they had hardoned th their hearts again even unto complaining against the Lord their",
+        "markdown": "at they had hardoned th~~y~~ [their] hearts again even unto complaining against the Lord their",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/27"
       },
       {
@@ -737,6 +763,7 @@
         "page": 27,
         "line": 27,
         "text": "& it came to pass that the voice",
+        "markdown": "& it came to pass that the voi{{ce}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/27"
       },
       {
@@ -744,6 +771,7 @@
         "page": 27,
         "line": 28,
         "text": "of the Lord came unto my father & he was truly chastened because of his murmurings again",
+        "markdown": "of the Lord came unto my father & he was truly chastened because of his murmurings aga{{in}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/27"
       },
       {
@@ -828,6 +856,7 @@
         "page": 27,
         "line": 34,
         "text": "the Ball that they did work according to the faith & diligence & head which we did giveunto them",
+        "markdown": "the Ball that they did work according to the faith & diligence & head which we did giv{{eu}}nto them",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/27"
       }
     ]
@@ -849,6 +878,7 @@
         "page": 27,
         "line": 35,
         "text": "which did give us understanding concerning the ways of the Lord & it was written",
+        "markdown": "{{w}}hich did give us understanding concerning the ways of the Lord & it was written",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/27"
       },
       {
@@ -856,6 +886,7 @@
         "page": 27,
         "line": 36,
         "text": "& changed from time to time according to the faith & diligence which we gave un",
+        "markdown": "{{& c}}hanged from time to time according to the faith & diligence which we gave un",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/27"
       },
       {
@@ -863,6 +894,7 @@
         "page": 27,
         "line": 37,
         "text": "to it & thus we see that by small means the Lord can bring about great things",
+        "markdown": "{{to}} it & thus we see that by small means the Lord can bring about great things",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/27"
       }
     ]
@@ -884,6 +916,7 @@
         "page": 27,
         "line": 39,
         "text": "according to the directions which was given upon the Ball",
+        "markdown": "{{ac}}cording to the di{{re}}ct{{ions which}} was given upon the Ball",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/27"
       }
     ]
@@ -898,6 +931,7 @@
         "page": 27,
         "line": 39,
         "text": "& it came to pass that",
+        "markdown": "{{& it}} came to pass tha{{t}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/27"
       },
       {
@@ -905,6 +939,7 @@
         "page": 28,
         "line": 1,
         "text": "slay wild beasts insomuch that I did obtain food for our families",
+        "markdown": "{{slay}} ~~bea~~ wild beasts insomuch that I did obtain food for our",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/28"
       }
     ]
@@ -919,6 +954,7 @@
         "page": 28,
         "line": 1,
         "text": "& it came to pass",
+        "markdown": "families & it came to",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/28"
       },
       {
@@ -926,6 +962,7 @@
         "page": 28,
         "line": 2,
         "text": "that I did return to our tents bearing the beasts which I had slain & now when they be",
+        "markdown": "{{tha}}t I did return to our tents bearing the beasts which I had slain & now when they be",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/28"
       },
       {
@@ -933,6 +970,7 @@
         "page": 28,
         "line": 3,
         "text": "held that I had obtained food how great was their joy & it came to pass that they did humble themselves before the Lord & did give thanks unto him",
+        "markdown": "{{h}}eld that I [had] obtained food how great was their joy & it came to pass that they did humble the{{ms}}elves before the Lord & did give thanks unto him",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/28"
       }
     ]
@@ -954,6 +992,7 @@
         "page": 28,
         "line": 4,
         "text": "ney traveling nearly the same course as in the beginning & after that we had traveled for the",
+        "markdown": "{{n}}ey traveling nearly the same course as in the beginning & after that we had traveled for the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/28"
       },
       {
@@ -961,6 +1000,7 @@
         "page": 28,
         "line": 5,
         "text": "space of many days we did pitch our tents again that we might tarry for the space of a time&",
+        "markdown": "{{s}}pace of many days we did pitch our tents again that we might tarry for the space of a tim{{e&}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/28"
       }
     ]
@@ -989,6 +1029,7 @@
         "page": 28,
         "line": 6,
         "text": "& it came to pass that the daughters of Ishmael did mourn excedingly because of the loss",
+        "markdown": "{{&}} it came to pass that the daughters of Ishmael did mourn excedingly because of the loss",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/28"
       },
       {
@@ -996,6 +1037,7 @@
         "page": 28,
         "line": 7,
         "text": "of their father & because of their afflictions in the wilderness & they did murmur against",
+        "markdown": "{{o}}f their father & because of their affliction[s] in the wilderness & they did murmur against",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/28"
       },
       {
@@ -1108,6 +1150,7 @@
         "page": 28,
         "line": 17,
         "text": "by his cunning arts that he may deceive our eyes thinking perhaps that he may lead us",
+        "markdown": "{{by}} his cunning arts that he may deceive our eyes thinking perhaps that he may lead us",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/28"
       },
       {
@@ -1115,6 +1158,7 @@
         "page": 28,
         "line": 18,
         "text": "away into some strange wilderness & after that he hath lead us away he hath thought to",
+        "markdown": "{{a}}way into some strange wilderness & after that he hath lead us away he hath thought to",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/28"
       },
       {
@@ -1129,6 +1173,7 @@
         "page": 28,
         "line": 20,
         "text": "sure & after this manner did my Brother Laman stir up the their hearts to angar",
+        "markdown": "sure & after this manner did my Brother Laman stir up the~~m~~ [their] hearts to angar",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/28"
       }
     ]
@@ -1150,6 +1195,7 @@
         "page": 28,
         "line": 21,
         "text": "to pass that the Lord was with us yea even the woice of the Lord came & did speak many",
+        "markdown": "to pass that the Lord was with us yea even the woice of the Lord came ~~unto~~ & did speak",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/28"
       },
       {

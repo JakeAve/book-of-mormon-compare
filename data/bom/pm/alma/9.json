@@ -394,6 +394,7 @@
         "page": 194,
         "line": 36,
         "text": "all be cut off from the presance of the Lord",
+        "markdown": "all be cut off from the ~~prese~~ presance of the",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/194"
       }
     ]
@@ -408,6 +409,7 @@
         "page": 194,
         "line": 36,
         "text": "now I would that ye should",
+        "markdown": "Lord now I would that ye",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/194"
       },
       {
@@ -436,6 +438,7 @@
         "page": 195,
         "line": 3,
         "text": "presence from the begining of their transgressions in the Land",
+        "markdown": "presence from the begining of their transgressions in the ~~Lord~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/195"
       }
     ]
@@ -450,6 +453,7 @@
         "page": 195,
         "line": 3,
         "text": "nevertheless I say unto you",
+        "markdown": "Land nevertheless I say unto",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/195"
       },
       {
@@ -513,6 +517,7 @@
         "page": 195,
         "line": 9,
         "text": "and at some periad of time they will be brought to believe in his word and to",
+        "markdown": "and at some periad of time they will be brought to believe in his ~~work~~ word and",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/195"
       },
       {
@@ -611,6 +616,7 @@
         "page": 195,
         "line": 19,
         "text": "after having had so much light and so much knowledge given unto them of the Lord",
+        "markdown": "after having had so much light and so much knowledge given unto them of the~~ir~~ Lord",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/195"
       },
       {
@@ -639,6 +645,7 @@
         "page": 195,
         "line": 21,
         "text": "having been favored above every other Nation Kindred tongue or people after hav",
+        "markdown": "having been favored above every other~~s~~ Nation Kindred tongue or people after hav",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/195"
       },
       {
@@ -954,6 +961,7 @@
         "page": 196,
         "line": 13,
         "text": "that every man shall reap a reward of their works according to that which they",
+        "markdown": "that every man shall reap a reward of their works according [to] that which they",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/196"
       },
       {
@@ -1101,6 +1109,7 @@
         "page": 196,
         "line": 26,
         "text": "their hands upon that they might cast me into Prison",
+        "markdown": "[their] hands upon that they might cast me into Prison",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/196"
       }
     ]

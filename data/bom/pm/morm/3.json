@@ -51,6 +51,7 @@
         "page": 421,
         "line": 1,
         "text": "& it came to pass that the Lord did say unto me cry unto this people repent ye & come unto me & be",
+        "markdown": "& it came to pass that ~~he~~ the Lord did say unto me cry unto this people repent ye & come unto me &",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/421"
       },
       {
@@ -261,6 +262,7 @@
         "page": 421,
         "line": 17,
         "text": "to boast in their own strength & began to swear before the Heavens that they would avenge themselves of the",
+        "markdown": "to boast in their [own] strength & began to swear before the Heavens that they would avenge themselves of the",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/421"
       },
       {
@@ -387,6 +389,7 @@
         "page": 421,
         "line": 26,
         "text": "& when they had sworn by",
+        "markdown": "& when they had sworn ~~by~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/421"
       },
       {

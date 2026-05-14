@@ -9,6 +9,7 @@
         "page": 42,
         "line": 13,
         "text": "The Book of Nephi An account of the death of Lehi Nepis",
+        "markdown": "The Book of Nephi An account of the death of Lehi ~~the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/42"
       },
       {
@@ -16,6 +17,7 @@
         "page": 42,
         "line": 14,
         "text": "Brethren rebelleth against him— the Lord warns Nephi to depart into the",
+        "markdown": "Brethren rebelleth ag{{ain}}st him— the Lord warns Nephi to depart into the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/42"
       },
       {
@@ -93,6 +95,7 @@
         "page": 42,
         "line": 20,
         "text": "& he also spa",
+        "markdown": "& he also sp{{a}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/42"
       },
       {
@@ -100,6 +103,7 @@
         "page": 42,
         "line": 21,
         "text": "ke unto them concerning the land of promise which they had obtained how mer",
+        "markdown": "ke unto them concerning the land of promise which they had obtained how m{{er}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/42"
       },
       {
@@ -177,6 +181,7 @@
         "page": 42,
         "line": 28,
         "text": "of my seed yea the Lord hath concecrated this land unto me & to my chil",
+        "markdown": "of my seed yea the Lord hath concecrated this land unto me & to my chi{{l}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/42"
       },
       {
@@ -233,6 +238,7 @@
         "page": 42,
         "line": 32,
         "text": "wherefore this land is consecrated un",
+        "markdown": "wherefore this land is consecrated u{{n}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/42"
       },
       {
@@ -240,6 +246,7 @@
         "page": 42,
         "line": 33,
         "text": "to him whom he shall bring & if it so be that they shall serve him according to",
+        "markdown": "to him whom he shall bring & if it so be that they shall serve him according {{to}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/42"
       },
       {
@@ -254,6 +261,7 @@
         "page": 42,
         "line": 35,
         "text": "to them wherefore they shall never be brought down into captivity if so it",
+        "markdown": "to them wherefore they shall never be brought down into captivity if {{so i}}t",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/42"
       },
       {
@@ -261,6 +269,7 @@
         "page": 42,
         "line": 36,
         "text": "shall be because of iniquity for if iniquity shall abound cursed shall be",
+        "markdown": "{{s}}h{{a}}ll be because of iniquity for if iniquity shall abound cursed {{s}}h{{all b}}e",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/42"
       },
       {
@@ -268,6 +277,7 @@
         "page": 42,
         "line": 37,
         "text": "the land for their sakes but unto the righteous it shall be blessed forever",
+        "markdown": "{{t}}he land {{for thei}}r sakes but unto the righteous it {{s}}h{{a}}ll be blessed forever",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/42"
       }
     ]
@@ -282,6 +292,7 @@
         "page": 43,
         "line": 1,
         "text": "& behold it is wisdom that this land should be kept as yet from theknowledge of other Nations for behold many Nations would overrun this landthat there would be no place for an inheritance",
+        "markdown": "{{& b}}ehold it is wisdom t{{hat this}} land should be kept as yet from {{thekn}}owledge of other Nations for behold many Nations would overrun this l{{andt}}hat there would be no place for an inheritance",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/43"
       }
     ]
@@ -303,6 +314,7 @@
         "page": 43,
         "line": 2,
         "text": "ined a promise that inasmuch as they which the Lord God shall bring out of",
+        "markdown": "ined a promise that inasmuch as~~s~~ they which the Lord God shall bring out of",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/43"
       },
       {
@@ -310,6 +322,7 @@
         "page": 43,
         "line": 3,
         "text": "the land of Jerusalem shall keep his comnandments they shall prosper upon the",
+        "markdown": "the land of Jerusalem shall keep his comnandments they shall prosper up{{on}} t{{he}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/43"
       },
       {
@@ -317,6 +330,7 @@
         "page": 43,
         "line": 4,
         "text": "face of this land & they shall be cept [[kept]] from all other Nations that they may possess",
+        "markdown": "face of this land & they shall be cept [[kept]] from all other Nations that they may pos{{sess}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/43"
       },
       {
@@ -324,6 +338,7 @@
         "page": 43,
         "line": 5,
         "text": "this land unto themselves & if it so be that they shall keep his command",
+        "markdown": "this land unto themselves & if it so be that they shall keep ~~his~~ his",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/43"
       },
       {
@@ -331,6 +346,7 @@
         "page": 43,
         "line": 6,
         "text": "ments they shall be blessed upon the face of this land & their shall be none to",
+        "markdown": "{{m}}ents they shall be blessed upon the face of ~~the~~ [this] land & their shall be none",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/43"
       },
       {
@@ -366,6 +382,7 @@
         "page": 43,
         "line": 9,
         "text": "dwindle in unbelief after that they have received so great blessings",
+        "markdown": "dwindle in unbelief ~~they~~ after that they have received so great",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/43"
       },
       {
@@ -394,6 +411,7 @@
         "page": 43,
         "line": 13,
         "text": "mandments from the beginning & haveing been brought by his infinite good",
+        "markdown": "{{m}}andments from the beginning & haveing been brought by his infinite good",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/43"
       },
       {
@@ -415,6 +433,7 @@
         "page": 43,
         "line": 16,
         "text": "& their God behold the judgments of him that is just shall rest upon them",
+        "markdown": "{{&}} their God behold the judgments of him that is just shall rest upon them",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/43"
       }
     ]
@@ -429,6 +448,7 @@
         "page": 43,
         "line": 17,
         "text": "yea he will bring other Nations unto them & he will give unto them power & he will",
+        "markdown": "{{y}}ea he will bring other Nations unto them & he will give unto them power & he will",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/43"
       },
       {
@@ -436,6 +456,7 @@
         "page": 43,
         "line": 18,
         "text": "take away from them the lands of their possessions & he will cause them to too",
+        "markdown": "{{t}}ake away from them the lands of their possessions & he will cause them ~~be~~ [to]",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/43"
       },
       {
@@ -443,6 +464,7 @@
         "page": 43,
         "line": 19,
         "text": "be scattered & smitten",
+        "markdown": "[be] scattered & smitten",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/43"
       }
     ]
@@ -464,6 +486,7 @@
         "page": 43,
         "line": 20,
         "text": "bloodsheds & great visitations among them wherefore my Sons I would",
+        "markdown": "{{b}}loodsheds & great visitations among them wherefore my Sons I would",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/43"
       },
       {
@@ -471,6 +494,7 @@
         "page": 43,
         "line": 21,
         "text": "that ye would remember yea I would that ye would hearken unto my words",
+        "markdown": "{{tha}}t ye would remember yea I would that ye would hearken unto my words",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/43"
       }
     ]
@@ -485,6 +509,7 @@
         "page": 43,
         "line": 22,
         "text": "O that ye would awake awake from a deep sleep yea even from the sleep of hell",
+        "markdown": "{{O}} that ye would awake awake from a deep sleep yea even from the sleep of hell",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/43"
       },
       {
@@ -492,6 +517,7 @@
         "page": 43,
         "line": 23,
         "text": "& shake off the awful chanes by which ye are bound which are the Chanes whi",
+        "markdown": "{{& s}}hake off the awful chanes by which ye are bound which are the Chanes whi",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/43"
       },
       {
@@ -499,6 +525,7 @@
         "page": 43,
         "line": 24,
         "text": "ch bind the children of men that they are carried away captive down to the",
+        "markdown": "{{ch}} bind the children of men that they are carried away captive down to the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/43"
       },
       {
@@ -506,6 +533,7 @@
         "page": 43,
         "line": 25,
         "text": "eternal gulf of miseary & woe",
+        "markdown": "{{ete}}rnal gulf of miseary & woe",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/43"
       }
     ]
@@ -527,6 +555,7 @@
         "page": 43,
         "line": 26,
         "text": "rds of a trembleing parent whose limbs ye must soon lay down in thecold & silent grave from whence no traveller can returm a few more days",
+        "markdown": "{{rds}} of a trembleing ~~of <​pernt​>~~ parent whose limbs ye must soon lay down in t{{heco}}ld & silent grave from whence no traveller can returm a few",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/43"
       },
       {
@@ -534,6 +563,7 @@
         "page": 43,
         "line": 27,
         "text": "& I go the way of all the earth",
+        "markdown": "{{&}} I go the way of all the earth",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/43"
       }
     ]
@@ -555,6 +585,7 @@
         "page": 43,
         "line": 28,
         "text": "l from hell I have beheld his glory & I am encerceled about eternally in the",
+        "markdown": "{{l}} from hell I have beheld his glory & I am encerceled about eternally in the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/43"
       },
       {
@@ -562,6 +593,7 @@
         "page": 43,
         "line": 29,
         "text": "arms of his love",
+        "markdown": "{{ar}}ms of his love",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/43"
       }
     ]
@@ -590,6 +622,7 @@
         "page": 43,
         "line": 31,
         "text": "the beginning",
+        "markdown": "{{th}}e beginning",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/43"
       }
     ]
@@ -611,6 +644,7 @@
         "page": 43,
         "line": 32,
         "text": "for I have feared least for the heardness of your hearts least the Lord your God should",
+        "markdown": "f{{o}}r I have feared least for the heardness of you[r] hearts least the Lord your God should",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/43"
       },
       {
@@ -618,6 +652,7 @@
         "page": 43,
         "line": 33,
         "text": "come out in the fullness of his wrath upon you that ye be cut off & destroid forever",
+        "markdown": "c{{o}}me {{o}}ut in the fullness of his wrath upon you that ye be cut off & destroid forever",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/43"
       }
     ]
@@ -632,6 +667,7 @@
         "page": 43,
         "line": 34,
         "text": "or that a curseing should come upon you for the space of many generations",
+        "markdown": "{{or that a curs}}eing should come upon you for the space of many generations",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/43"
       },
       {
@@ -639,6 +675,7 @@
         "page": 43,
         "line": 35,
         "text": "& ye are visited by sword & by famine & hated & are lead according to",
+        "markdown": "{{& ye are visi}}t{{e}}d b{{y swor}}d {{&}} b{{y}} f{{amine &}} hated & are lead according to",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/43"
       },
       {
@@ -646,6 +683,7 @@
         "page": 43,
         "line": 36,
         "text": "the will & captivity of the devil",
+        "markdown": "{{the will & captivity of the devil",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/43"
       }
     ]
@@ -660,6 +698,7 @@
         "page": 43,
         "line": 36,
         "text": "O my Sons that these thingsmight not",
+        "markdown": "O my Sons t}}hat these thing{{s}}might not",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/43"
       },
       {
@@ -667,6 +706,7 @@
         "page": 44,
         "line": 1,
         "text": "come upon you but that ye might be a choice & a favored people of",
+        "markdown": "{{come}} upon you but that ye might {{be a choice}} & a favored people {{of}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/44"
       },
       {
@@ -674,6 +714,7 @@
         "page": 44,
         "line": 2,
         "text": "the Lord but behold his will be done for his ways are righteousness",
+        "markdown": "the Lord but ~~but~~ behold his will be done for his ways are",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/44"
       },
       {
@@ -695,6 +736,7 @@
         "page": 44,
         "line": 3,
         "text": "& he hath said that in as much as ye shall keep my commandments ye",
+        "markdown": "& he hath said that in ~~so~~ [as] much as ye shall keep my commandments",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/44"
       },
       {
@@ -702,6 +744,7 @@
         "page": 44,
         "line": 4,
         "text": "shall prosper in the land but in as much as ye will not keep his commandments ye shall be cut offfrom his presance",
+        "markdown": "shall prosper in the land but in as much as ye will not [keep his commandments] ye shall be cut of{{ffrom}} his presance",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/44"
       }
     ]
@@ -716,6 +759,7 @@
         "page": 44,
         "line": 4,
         "text": "& now that my Soul might have joy in you & that my heartmight leave this world with gladness because of you that I might not",
+        "markdown": "& now that my Soul might have joy in you & that my hear{{tmi}}ght leave this world with gladness because of you that I might not",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/44"
       },
       {
@@ -730,6 +774,7 @@
         "page": 44,
         "line": 6,
         "text": "Sons & be men & be determined in one mind & in one heart united in",
+        "markdown": "Sons & be men & ~~to~~ [be] determined in one mind & in one heart united",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/44"
       },
       {
@@ -814,6 +859,7 @@
         "page": 44,
         "line": 12,
         "text": "rebell no more against your Brother whose views",
+        "markdown": "rebell no more against your Brother whose view{{s}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/44"
       },
       {
@@ -828,6 +874,7 @@
         "page": 44,
         "line": 14,
         "text": "left Jerusalem & who hath been an instrument in the hands of God in",
+        "markdown": "left Jerusalem & w{{ho}} hath been an instrument in the hands of God in",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/44"
       },
       {
@@ -863,6 +910,7 @@
         "page": 44,
         "line": 18,
         "text": "& I excedingly fear & tremble because of you least he shall suffer again for",
+        "markdown": "& I excedingly fear & tremble because of you least he shall suffer again fo{{r}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/44"
       },
       {
@@ -870,6 +918,7 @@
         "page": 44,
         "line": 19,
         "text": "behold ye have accused him that he sought power & authority over you but",
+        "markdown": "behold ye have accused him that he sought power & authority over you bu{{t}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/44"
       },
       {
@@ -877,6 +926,7 @@
         "page": 44,
         "line": 20,
         "text": "I know that he hath not sought for power nor authority over you but he hath",
+        "markdown": "I know that he hath not sought for pow{{er}} nor authority over you but he hat{{h}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/44"
       },
       {
@@ -884,6 +934,7 @@
         "page": 44,
         "line": 21,
         "text": "sought the Glory of God & your own eternal wellfare",
+        "markdown": "sought the Glory of God & you[r] own eternal wellfare",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/44"
       }
     ]
@@ -898,6 +949,7 @@
         "page": 44,
         "line": 21,
         "text": "& ye have murmured be",
+        "markdown": "& ye have murm{{ured be}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/44"
       },
       {
@@ -905,6 +957,7 @@
         "page": 44,
         "line": 22,
         "text": "cause he hath been plain unto you ye say that he hath used sharpness ye",
+        "markdown": "cause he hath been plain unto you {{ye s}}ay {{t}}hat {{he hath us}}ed {{sharp}}ness {{ye}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/44"
       },
       {
@@ -912,6 +965,7 @@
         "page": 44,
         "line": 23,
         "text": "say that he hath been angery with you but behold his sharpness was the",
+        "markdown": "say that he hath been angery with you but behold his sharpness {{was}} the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/44"
       },
       {
@@ -933,6 +987,7 @@
         "page": 44,
         "line": 26,
         "text": "could not constrain manifesting boldly concerning your iniquities",
+        "markdown": "could not constrain manifesting boldly concerning your iniqu{{i}}ties",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/44"
       }
     ]
@@ -947,6 +1002,7 @@
         "page": 44,
         "line": 26,
         "text": "&",
+        "markdown": "{{&}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/44"
       },
       {
@@ -954,6 +1010,7 @@
         "page": 44,
         "line": 27,
         "text": "it must neads be that the power of God must be with him even unto",
+        "markdown": "it must neads be that the power of God must be with him even un{{to}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/44"
       },
       {
@@ -968,6 +1025,7 @@
         "page": 44,
         "line": 29,
         "text": "but it was the spirit of the Lord which was in him which opened his",
+        "markdown": "but ~~is~~ it was the spirit of the Lord which was in him which opened",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/44"
       },
       {
@@ -996,6 +1054,7 @@
         "page": 44,
         "line": 31,
         "text": "also Lemuel & Sam & also my Sons which are the Sons of Ishmael",
+        "markdown": "also Lemuel & Sam & also my Sons which are the S{{o}}ns of Ishmael",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/44"
       },
       {
@@ -1003,6 +1062,7 @@
         "page": 44,
         "line": 32,
         "text": "behold if ye will hearken unto the voice of Nephi ye shall not",
+        "markdown": "behold if ye will hearken unto the ~~word <​voice​>~~ voice of Nephi ye",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/44"
       },
       {
@@ -1031,6 +1091,7 @@
         "page": 44,
         "line": 34,
         "text": "but if ye will not hearken unto him I take",
+        "markdown": "but if ye will not hearken unto him I tak{{e}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/44"
       },
       {
@@ -1038,6 +1099,7 @@
         "page": 44,
         "line": 35,
         "text": "away my first blessing yea even my blessing & it shall rest upon",
+        "markdown": "away my first blessing yea even my blessing & it {{s}}h{{a}}ll {{rest upon}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/44"
       },
       {
@@ -1059,6 +1121,7 @@
         "page": 44,
         "line": 36,
         "text": "& now Zoram I speak unto you behold thou art the servantof Laban nevertheless thou hast",
+        "markdown": "& now Zoram I sp{{eak unto}} you behold thou art {{the servanto}}f Laban n{{eve}}rtheless thou {{hast",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/44"
       }
     ]
@@ -1073,6 +1136,7 @@
         "page": 44,
         "line": 36,
         "text": "been brought out of the",
+        "markdown": "been brought out of the}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/44"
       }
     ]

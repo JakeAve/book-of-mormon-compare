@@ -275,6 +275,7 @@
         "page": 272,
         "line": 23,
         "text": "repent & forsake your sins & go no more after the lusts of your eyes but cross",
+        "markdown": "repent & forsake your sins & go no more after the lusts of your eyes but ~~cro~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/272"
       },
       {
@@ -303,6 +304,7 @@
         "page": 272,
         "line": 26,
         "text": "& I command you to take it upon you to counsel your elder brothers in your undertakeings for behold",
+        "markdown": "& I command you to [take it upon you to] counsel your elder brothers in your undertakeings for behold",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/272"
       },
       {
@@ -352,6 +354,7 @@
         "page": 272,
         "line": 31,
         "text": "ramites for when they saw your conduct they would not believe in my words",
+        "markdown": "ramites for when they [saw] your conduct they would not believe in my words",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/272"
       }
     ]
@@ -380,6 +383,7 @@
         "page": 272,
         "line": 34,
         "text": "you my Son in the fear of God that ye refrain from your iniquities",
+        "markdown": "you my Son in the fear of God that ye refrain from [your] ~~iniquity~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/272"
       }
     ]
@@ -394,6 +398,7 @@
         "page": 272,
         "line": 34,
         "text": "that ye turn",
+        "markdown": "iniquities that ye",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/272"
       },
       {

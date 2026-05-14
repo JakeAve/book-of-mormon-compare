@@ -191,6 +191,7 @@
         "page": 30,
         "line": 3,
         "text": "said behold we cannot understand the words which our father hath spoken",
+        "markdown": "said behold we cannot understand the words ~~of~~ [which] our father hath",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/30"
       },
       {
@@ -282,6 +283,7 @@
         "page": 30,
         "line": 9,
         "text": "do ye not remember the thing which the Lord hath said if ye will",
+        "markdown": "do ye not remember the thing~~s~~ which the Lord hath said if ye will",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/30"
       },
       {
@@ -331,6 +333,7 @@
         "page": 30,
         "line": 14,
         "text": "Lord which was in our fathers & behold are we not broken off from the",
+        "markdown": "Lord which was in our fathers & behold ~~&~~ are we not broken off from",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/30"
       },
       {
@@ -366,6 +369,7 @@
         "page": 30,
         "line": 17,
         "text": "ural branches through the fullness of the Gentiles is that in the latter days",
+        "markdown": "ural branches through the fullness of the Gentile[s] is that in the latter day[s]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/30"
       },
       {
@@ -429,6 +433,7 @@
         "page": 30,
         "line": 24,
         "text": "Lord & then shall they know & come to the knowledge of their forefathers & also to",
+        "markdown": "[Lord] & then shall they know & come to the knowledge of their forefathers & also to",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/30"
       },
       {
@@ -513,6 +518,7 @@
         "page": 30,
         "line": 33,
         "text": "House of Israel they shall be grafted in being a natural branch",
+        "markdown": "House of Israel they shall be ~~gathered~~ grafted in being a natural",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/30"
       },
       {
@@ -562,6 +568,7 @@
         "page": 31,
         "line": 1,
         "text": "for the verry cause that he shall be rejected of the Jews or of the House of",
+        "markdown": "for the verry ~~reason~~ [cause] that he shall be rejected of the Jews or of the House",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/31"
       },
       {
@@ -632,6 +639,7 @@
         "page": 31,
         "line": 7,
         "text": "cerning the restoration of the Jews in the latter days",
+        "markdown": "cerning the ~~restoreng~~ [restoration] of the Jews in the latter",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/31"
       }
     ]
@@ -646,6 +654,7 @@
         "page": 31,
         "line": 7,
         "text": "& I did rehears unto",
+        "markdown": "days & I did rehears",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/31"
       },
       {
@@ -702,6 +711,7 @@
         "page": 31,
         "line": 13,
         "text": "did speak unto me again saying what meaneth the thing which our father",
+        "markdown": "did speak unto me again saying what meaneth the thing which ~~of~~ our",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/31"
       },
       {
@@ -1157,6 +1167,7 @@
         "page": 32,
         "line": 14,
         "text": "spoken & the Devil is the preparator of it wherefore the final state of the Souls of",
+        "markdown": "[spoken] & the Devil is the preparator of it wherefore the final state of the Souls of",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/32"
       },
       {

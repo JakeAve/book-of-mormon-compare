@@ -9,6 +9,7 @@
         "page": 141,
         "line": 18,
         "text": "& it came to pass that they did stop & withdrew a pace",
+        "markdown": "sh​>~~ blood & it came to pass that they did stop & w{{i}}thdrew",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/141"
       },
       {
@@ -30,6 +31,7 @@
         "page": 141,
         "line": 21,
         "text": "desire to slay you",
+        "markdown": "desire to ~~sley~~ slay",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/141"
       }
     ]
@@ -44,6 +46,7 @@
         "page": 141,
         "line": 21,
         "text": "behold we have not come out to Battle against you",
+        "markdown": "you behold we have not come out to Battle against",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/141"
       },
       {
@@ -65,6 +68,7 @@
         "page": 141,
         "line": 24,
         "text": "against us yea & ye are angary with us because of our Religion",
+        "markdown": "against~~s~~ us yea & ye are angary with us because of our Religion",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/141"
       }
     ]
@@ -121,6 +125,7 @@
         "page": 141,
         "line": 28,
         "text": "see that this is the true faith of God yea ye see that God will support & keep",
+        "markdown": "see that this is the true faith of God yea ye see that God ~~with~~ [will] support &",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/141"
       },
       {
@@ -156,6 +161,7 @@
         "page": 141,
         "line": 31,
         "text": "& now Zerahemnah I command you",
+        "markdown": "& now Zerahemnah I command yo{{u}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/141"
       },
       {
@@ -163,6 +169,7 @@
         "page": 141,
         "line": 32,
         "text": "in the name of that all Powerful God who hath strengthened our arms that",
+        "markdown": "in the name of that all Powerful God who hath strengthened our arms tha{{t}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/141"
       },
       {
@@ -191,6 +198,7 @@
         "page": 142,
         "line": 1,
         "text": "by that liberty which binds us to our lands & our Country yea & also",
+        "markdown": "{{by that liberty which binds us to}} our lands & our Country ~~&~~ [yea] &",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/142"
       },
       {
@@ -198,6 +206,7 @@
         "page": 142,
         "line": 2,
         "text": "by the maintainance of the sacred word of God to which we owe all our",
+        "markdown": "{{by the maintainance of the sacr}}ed word of God to which we owe al{{l ou}}r",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/142"
       },
       {
@@ -205,6 +214,7 @@
         "page": 142,
         "line": 3,
         "text": "happiness & by all that is most dear unto us",
+        "markdown": "{{happiness & by all that is most}} dear unto us",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/142"
       }
     ]
@@ -219,6 +229,7 @@
         "page": 142,
         "line": 3,
         "text": "yea & this is not all I command",
+        "markdown": "yea & this is not all I comm{{a}}nd",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/142"
       },
       {
@@ -226,6 +237,7 @@
         "page": 142,
         "line": 4,
         "text": "you by all the desires which ye have for life that ye deliver up your weopons of",
+        "markdown": "{{you by all the desires which ye}} have for life that ye deliver up your weopons of",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/142"
       },
       {
@@ -233,6 +245,7 @@
         "page": 142,
         "line": 5,
         "text": "war unto us & we will seek not your blood but we will spare your lives if ye",
+        "markdown": "{{war unto us & we will seek no}}t your ~~liv~~ [blood] but we will spare your lives if",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/142"
       },
       {
@@ -240,6 +253,7 @@
         "page": 142,
         "line": 6,
         "text": "will go your way & come not again to war against us",
+        "markdown": "{{will go your way & come not again}} to war against us",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/142"
       }
     ]
@@ -261,6 +275,7 @@
         "page": 142,
         "line": 7,
         "text": "hold ye are in our hands & I will command my men that they shall fall up",
+        "markdown": "{{hold ye are in our hands}} & I ~~with~~ [will] command my men that they ~~fall~~ [shall]",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/142"
       },
       {
@@ -268,6 +283,7 @@
         "page": 142,
         "line": 8,
         "text": "on you & inflict the wounds of Death in your bodies that ye may become ex",
+        "markdown": "{{on you & inflict the w}}ounds of Death in your bodies that ye may become ex",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/142"
       },
       {
@@ -275,6 +291,7 @@
         "page": 142,
         "line": 9,
         "text": "tinct & then we will see who shall have power over this People yea we will",
+        "markdown": "{{tinct & then we will}} see who shall have power over this People yea we will",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/142"
       },
       {
@@ -282,6 +299,7 @@
         "page": 142,
         "line": 10,
         "text": "see who shall be brought into bondage",
+        "markdown": "{{see who shall be brought}} into bondage",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/142"
       }
     ]
@@ -303,6 +321,7 @@
         "page": 142,
         "line": 11,
         "text": "had heard these sayings he came forth & delivered up his sword & his Simetar",
+        "markdown": "{{had heard these sayings}} he came forth & delivered up his ~~Simrt~~ [sword] & his",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/142"
       },
       {
@@ -310,6 +329,7 @@
         "page": 142,
         "line": 12,
         "text": "& his bow into the hands of Moroni & sayeth unto him behold here is our",
+        "markdown": "{{& his bow into the hands}} of Moroni & sayeth unto him behold here is ~~ow~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/142"
       },
       {
@@ -317,6 +337,7 @@
         "page": 142,
         "line": 13,
         "text": "weopons of war we will deliver them up unto you & we will not suffer our",
+        "markdown": "{{weopons of war we will de}}liver them up unto you & we will not suffer our",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/142"
       },
       {
@@ -324,6 +345,7 @@
         "page": 142,
         "line": 14,
         "text": "selves to take an oath unto you which we know that we shall brake & also our",
+        "markdown": "{{selves to take an}} oath {{unto yo}}u which we know that we shall brake & also ~~are~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/142"
       },
       {
@@ -331,6 +353,7 @@
         "page": 142,
         "line": 15,
         "text": "children but take our weopons of war & suffer that we may depart into the wild",
+        "markdown": "{{children}} but take our w{{eo}}pons of war & suffer that we may depart into the wild",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/142"
       },
       {
@@ -338,6 +361,7 @@
         "page": 142,
         "line": 16,
         "text": "erness otherwise we will retain our swords & we will perish or conquer beh",
+        "markdown": "{{erness}} otherwise we will retain our swords & we will perish or conquer beh",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/142"
       }
     ]
@@ -352,6 +376,7 @@
         "page": 142,
         "line": 17,
         "text": "old we are not of your faith we do not believe that it is God that hath delive",
+        "markdown": "old we a{{r}}e not of your faith we do not believe that it is God that hath delive",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/142"
       },
       {
@@ -359,6 +384,7 @@
         "page": 142,
         "line": 18,
         "text": "red us into your hands but we believe that it is your cunning that hath pre",
+        "markdown": "red us into your hands but we believe that it is your cunning that ~~has~~ [hath]",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/142"
       },
       {
@@ -366,6 +392,7 @@
         "page": 142,
         "line": 19,
         "text": "served you from our Swords behold it is your bereastplates & your Shields that",
+        "markdown": "served you from our Swords behold it is your bereastplates & your Shield[s] that",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/142"
       },
       {
@@ -464,6 +491,7 @@
         "page": 142,
         "line": 27,
         "text": "said these words Zerahemnah retained his sword & he was angary with Mo",
+        "markdown": "said these words Zerahemnah~~<​e​>~~ retained his sword & he was angary with Mo",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/142"
       },
       {
@@ -478,6 +506,7 @@
         "page": 142,
         "line": 29,
         "text": "his sword behold one of Moronis soldiers smote it even to the earth & as it",
+        "markdown": "his sword behold one of Moronis ~~m~~ soldiers smote it even to the earth & as",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/142"
       },
       {
@@ -513,6 +542,7 @@
         "page": 142,
         "line": 32,
         "text": "& it came to pass that the Soldier which stood by which smote off",
+        "markdown": "& it came to pass that the Soldier which stood by ~~s~~ which smote",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/142"
       },
       {
@@ -520,6 +550,7 @@
         "page": 142,
         "line": 33,
         "text": "the Scalp of Zerahemnah took up the scalp from off the ground by the hair & laid",
+        "markdown": "the Scalp of Zerahemnah took up the scalp from off the ~~g~~ ground by the hair &",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/142"
       },
       {
@@ -548,6 +579,7 @@
         "page": 142,
         "line": 35,
         "text": "even as this scalp hath fallen to the earth which is the",
+        "markdown": "even as this scalp ~~has~~[hath] fallen to the earth which is the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/142"
       },
       {
@@ -555,6 +587,7 @@
         "page": 143,
         "line": 1,
         "text": "Scalp of your Chief so shall ye fall to the earth except ye will deliver up your",
+        "markdown": "Scalp of your Chief so shall ye fall to the {{earth except ye will deliver up your}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/143"
       },
       {
@@ -562,6 +595,7 @@
         "page": 143,
         "line": 2,
         "text": "weopons of war & depart with a covenant of peace",
+        "markdown": "weopons of war & depart with a covenant of {{peace",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/143"
       }
     ]
@@ -576,6 +610,7 @@
         "page": 143,
         "line": 2,
         "text": "now there were many when they",
+        "markdown": "now there were many when they}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/143"
       },
       {
@@ -583,6 +618,7 @@
         "page": 143,
         "line": 3,
         "text": "heard these words & saw the Scalp which was upon the sword they were struck with",
+        "markdown": "heard these words & saw the Scalp which was up{{on the sword they were struck with}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/143"
       },
       {
@@ -590,6 +626,7 @@
         "page": 143,
         "line": 4,
         "text": "fear & many came forth & threw down their weopons of war at the feet of Moroni",
+        "markdown": "fear & many came fort[h] & threw down their we{{opons of war at the feet of Moroni}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/143"
       },
       {
@@ -597,6 +634,7 @@
         "page": 143,
         "line": 5,
         "text": "& entered into a covenant of peace & as many as entered into a covenant they",
+        "markdown": "& entered into a covenant of peace & as many {{as entered into a covenant they}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/143"
       },
       {
@@ -618,6 +656,7 @@
         "page": 143,
         "line": 6,
         "text": "now it came to pass that Zerahemnah was exc",
+        "markdown": "now i{{t came to pass that Zerahemnah was exc}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/143"
       },
       {
@@ -625,6 +664,7 @@
         "page": 143,
         "line": 7,
         "text": "eding wroth & he did stir up the remainder of his souldiers to angar to contend m",
+        "markdown": "eding wroth & he did stir up the remainder of h{{is souldiers to angar to contend m}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/143"
       },
       {
@@ -646,6 +686,7 @@
         "page": 143,
         "line": 8,
         "text": "& now Moroni was angary because of the",
+        "markdown": "& now Moroni wa{{s angary because of the}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/143"
       },
       {
@@ -653,6 +694,7 @@
         "page": 143,
         "line": 9,
         "text": "stoberness [stubbornness] of the Lamanites therefore he commanded his People that they should fall",
+        "markdown": "stoberness [stubbornness] of the Lamanites therefore he commanded his {{People that they should fall}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/143"
       },
       {
@@ -660,6 +702,7 @@
         "page": 143,
         "line": 10,
         "text": "upon them & slay them & it came to pass that they began to slay them yea & the",
+        "markdown": "upo[n] them & slay them & it came to pass that they b{{egan to slay them yea & the}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/143"
       },
       {
@@ -667,6 +710,7 @@
         "page": 143,
         "line": 11,
         "text": "Lamanites did contend with their swords & their mights",
+        "markdown": "Lamanites did contend with their swords & their {{mig}}hts",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/143"
       }
     ]
@@ -681,6 +725,7 @@
         "page": 143,
         "line": 11,
         "text": "but behold their",
+        "markdown": "but be{{hold their}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/143"
       },
       {
@@ -688,6 +733,7 @@
         "page": 143,
         "line": 12,
         "text": "naked skins & their bare heads were exsposed to the sharp swords of the Nephites",
+        "markdown": "naked skin[s] & their ~~bear~~ [bare] ~~<​bre​>~~ heads were exsposed to th{{e s}}harp sword[s] {{o}}f",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/143"
       },
       {
@@ -695,6 +741,7 @@
         "page": 143,
         "line": 13,
         "text": "yea behold they were pierced & smitten yea & did fall exceding fast before the swords",
+        "markdown": "yea [behold] they were pierced & smitten yea & did fa{{ll e}}xceding fast {{before the swords}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/143"
       },
       {
@@ -702,6 +749,7 @@
         "page": 143,
         "line": 14,
         "text": "of the Nephites & they began to be swept down even as the souldier of Moroni had pro",
+        "markdown": "of the Nephites & they began to be swept down even as th{{e}} souldier of M{{oroni had pro}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/143"
       },
       {
@@ -723,6 +771,7 @@
         "page": 143,
         "line": 15,
         "text": "now Zerahemnah when he saw that they were all about to be destroid he",
+        "markdown": "now Zerahemnah when he saw that they {{we}}re all about to {{be destroid he}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/143"
       },
       {
@@ -730,6 +779,7 @@
         "page": 143,
         "line": 16,
         "text": "cried mightely unto Moroni promiseing that he would covenant & also his People",
+        "markdown": "cried mightely unto Moroni promiseing that he would covenant ~~with~~ [&] al{{so his",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/143"
       },
       {
@@ -737,6 +787,7 @@
         "page": 143,
         "line": 17,
         "text": "with them if they would spare the remainder of their lives that they never come",
+        "markdown": "with them if ~~Moro~~ [they] would spare the remainder of their lives ~~whi~~ that they",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/143"
       },
       {
@@ -744,6 +795,7 @@
         "page": 143,
         "line": 18,
         "text": "to war again against them",
+        "markdown": "~~&~~ to war again against",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/143"
       }
     ]
@@ -758,6 +810,7 @@
         "page": 143,
         "line": 18,
         "text": "& it came to pass that Moroni caused that the work",
+        "markdown": "them & it came to pass that Moroni caused that the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/143"
       },
       {
@@ -765,6 +818,7 @@
         "page": 143,
         "line": 19,
         "text": "of death should cease again among the People & it came to pass that he took the weop",
+        "markdown": "of death should cease again among the People & it came to pass that he t{{o}}ok the weop",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/143"
       },
       {
@@ -772,6 +826,7 @@
         "page": 143,
         "line": 20,
         "text": "ons of war from the Lamanites & after they had entered into a coveenant with him",
+        "markdown": "ons of war from the Lamanites & after ~~th~~ they had entered into a coveenant with",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/143"
       },
       {
@@ -821,6 +876,7 @@
         "page": 143,
         "line": 24,
         "text": "& it came to pass that they did cast their dead into the waters of Sidon & they",
+        "markdown": "& it came to pass that they did cast their dead into the waters of Sidon & [t]hey",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/143"
       },
       {
@@ -828,6 +884,7 @@
         "page": 143,
         "line": 25,
         "text": "have gone forth & are buried in the debths of the Sea",
+        "markdown": "have gone ~~fourth~~ [forth] & are buried in the debths of the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/143"
       }
     ]
@@ -842,6 +899,7 @@
         "page": 143,
         "line": 25,
         "text": "& the armies of the Nephites",
+        "markdown": "Sea & the armies of the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/143"
       },
       {
@@ -849,6 +907,7 @@
         "page": 143,
         "line": 26,
         "text": "or of Moroni returned & came to their houses & their lands",
+        "markdown": "or of Moroni returned & came to ~~his~~ [their] houses & their",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/143"
       }
     ]
@@ -863,6 +922,7 @@
         "page": 143,
         "line": 26,
         "text": "& thus ended the eigh",
+        "markdown": "lands & thus ended the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/143"
       },
       {
@@ -870,6 +930,7 @@
         "page": 143,
         "line": 27,
         "text": "teenth year of the Reign of the Judges over the people of Nephi & thus ended the",
+        "markdown": "teenth year of the Reign of the Judges over ~~his~~ [the] people of Nephi & thus ended",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/143"
       },
       {
@@ -877,6 +938,7 @@
         "page": 143,
         "line": 28,
         "text": "Reckord of Alma which was wrote upon the plates of Nephi",
+        "markdown": "Reckord of Alma which ~~wro~~ [was] wrote upon the plates of",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/143"
       },
       {
@@ -891,6 +953,7 @@
         "page": 143,
         "line": 30,
         "text": "man according to the Reckord of Helaman which he kept in his days behold",
+        "markdown": "man according to the Reckord of Helaman which ~~cep~~ [he] kept in his days",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/143"
       }
     ]

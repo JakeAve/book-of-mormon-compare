@@ -72,6 +72,7 @@
         "page": 141,
         "line": 10,
         "text": "forth thy hand & prophesying saying thus saith the Lord it shall come to pass that this gen",
+        "markdown": "forth thy hand & prophesying saying thus ~~siaith~~ [saith] the Lord it shall come to pass that this",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/141"
       },
       {
@@ -303,6 +304,7 @@
         "page": 141,
         "line": 28,
         "text": "evil concerning thy life & saith that thy life shall be as a garment in a furnace of fire",
+        "markdown": "evil concerning thy life ~~&~~ & saith that thy life shall be as a garment in a furnace of",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/141"
       }
     ]
@@ -317,6 +319,7 @@
         "page": 141,
         "line": 28,
         "text": "& again",
+        "markdown": "fire &",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/141"
       },
       {
@@ -359,6 +362,7 @@
         "page": 141,
         "line": 32,
         "text": "etendeth the Lord hath spoken it & he saith all this shall come upon thee except thou repent &",
+        "markdown": "etendeth the Lord hath ~~sent him~~ [spoken] it & he saith all this shall come upon thee except thou",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/141"
       },
       {
@@ -891,6 +895,7 @@
         "page": 142,
         "line": 32,
         "text": "Moses Abinadi saith unto them I know if ye keep the commandments of God ye shall",
+        "markdown": "Moses ~~&~~ Abinadi saith unto them I know if ye keep the commandments of God ye",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/142"
       },
       {

@@ -30,6 +30,7 @@
         "page": 189,
         "line": 12,
         "text": "I having been wholely confined to the Judgment seat having had much business that",
+        "markdown": "I having been wholely confined to the Judgment seat having [had] much business that",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/189"
       },
       {
@@ -275,6 +276,7 @@
         "page": 189,
         "line": 35,
         "text": "nacle for behold the spirit hath not said unto me that this should be the case now as",
+        "markdown": "nacle for behold the spirit hath not said unto me ~~this~~ that this should be the case now",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/189"
       },
       {
@@ -387,6 +389,7 @@
         "page": 190,
         "line": 8,
         "text": "Kind and this that the word might be fulfiled which sayith he will take up",
+        "markdown": "Kind and this ~~this~~ that the word might be fulfiled which sayith he will take",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/190"
       },
       {
@@ -492,6 +495,7 @@
         "page": 190,
         "line": 17,
         "text": "now I say unto you that ye must repent and be born again for the",
+        "markdown": "now I say unto you that ye must repent and ~~and~~ be born again for",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/190"
       },
       {
@@ -632,6 +636,7 @@
         "page": 190,
         "line": 31,
         "text": "and the way That I know that ye believe them is by the manifestation of the spirit which",
+        "markdown": "and the way ~~I~~ That I know that ye believe them is by the manifestation of the spirit",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/190"
       },
       {
@@ -695,6 +700,7 @@
         "page": 190,
         "line": 36,
         "text": "I perceive that ye are in the path which leads to the Kingdom of God yea I perceive",
+        "markdown": "I perceive that ye are in the path~~s~~ which ~~to~~ leads to the Kingdom of God yea I",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/190"
       },
       {
@@ -730,6 +736,7 @@
         "page": 191,
         "line": 2,
         "text": "he vary from that which he hath said neither hath he a shadow of turning",
+        "markdown": "he vary from that which he ~~thah~~ hath said neither hath he a shadow of",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/191"
       },
       {
@@ -807,6 +814,7 @@
         "page": 191,
         "line": 9,
         "text": "may walk blameless before him that ye may walk afher the holy order of God after",
+        "markdown": "may walk blameless before him that ye may walk afher the holy [order] of God after",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/191"
       },
       {
@@ -996,6 +1004,7 @@
         "page": 191,
         "line": 26,
         "text": "time forth and forever & thus I have spoken Amen",
+        "markdown": "time ~~hense~~ forth and forever & thus I have spoken",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/191"
       },
       {
@@ -1003,6 +1012,7 @@
         "page": 191,
         "line": 27,
         "text": "Chapter 6th.",
+        "markdown": "Chapter ~~3~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/191"
       }
     ]

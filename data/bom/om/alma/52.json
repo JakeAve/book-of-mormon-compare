@@ -9,6 +9,7 @@
         "page": 163,
         "line": 16,
         "text": "[And] now it came to pass in the twenty & sixth year of the Reign of the",
+        "markdown": "[And] now it came to pass in the twenty & sixth year of the Reign of {{the}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/163"
       },
       {
@@ -23,6 +24,7 @@
         "page": 163,
         "line": 18,
         "text": "t month Behold they found Ameleckiah was dead in his tent & they also saw that Teanc",
+        "markdown": "t month Behold they found Ameleckiah was ~~died~~ [dead] in his tent & they also saw that",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/163"
       },
       {
@@ -58,6 +60,7 @@
         "page": 163,
         "line": 21,
         "text": "d & retreated with all their army into the City of Mulek & saught protection in",
+        "markdown": "d~~s~~ & retreated with all ~~there~~ [their] army into the City of Mulek & saught protection",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/163"
       },
       {
@@ -114,6 +117,7 @@
         "page": 163,
         "line": 25,
         "text": "that his People should maintain those Cities which they had taken by the shedding of blood",
+        "markdown": "that his People should maintain ~~these~~ [those] Cities which they had taken by the shedding of",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/163"
       },
       {
@@ -121,6 +125,7 @@
         "page": 163,
         "line": 26,
         "text": "for theey had not taken any cities save they had lost much blood",
+        "markdown": "for [t]heey had not taken any cities ~~save~~ save they had lost much",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/163"
       }
     ]
@@ -135,6 +140,7 @@
         "page": 163,
         "line": 26,
         "text": "& now Teancum",
+        "markdown": "blood & now",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/163"
       },
       {
@@ -156,6 +162,7 @@
         "page": 163,
         "line": 29,
         "text": "seeing the enormity of their number Teancum thought it was not expediant",
+        "markdown": "seeing the enormity of their number Teancum thought it was not expediant~~e~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/163"
       },
       {
@@ -212,6 +219,7 @@
         "page": 163,
         "line": 33,
         "text": "& it came to pass that he kept thus prepareing for war untill Moroni",
+        "markdown": "& it came to pass that ~~t~~he kept thus prepareing for war untill Moroni",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/163"
       },
       {
@@ -247,6 +255,7 @@
         "page": 164,
         "line": 1,
         "text": "orders unto him that he should retain all the Prisoners which fell into his",
+        "markdown": "{{orders unto him that he should retain}} all the Prisoners which fell into his",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/164"
       },
       {
@@ -254,6 +263,7 @@
         "page": 164,
         "line": 2,
         "text": "hands for as the Lamanites had taken many Prisoners that he should retainall the Prisoners of the Lamanites as a ransom for those which the Lamaniteshad taken",
+        "markdown": "{{hands for as the Lamanites had tak}}en many Prisoners that he should reta{{inall the Prisoners of the Lamanites}} as a ransom for those which the La{{maniteshad taken",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/164"
       }
     ]
@@ -268,6 +278,7 @@
         "page": 164,
         "line": 2,
         "text": "& he also sent orders unto him that he should fortify the land",
+        "markdown": "& he also sent orders}} unto him that he should fortify the land",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/164"
       },
       {
@@ -275,6 +286,7 @@
         "page": 164,
         "line": 3,
         "text": "Bountiful & secure the narrow pass which lead into the land northward",
+        "markdown": "{{Bountiful & secure the narrow p}}ass which lead into the land northward",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/164"
       },
       {
@@ -282,6 +294,7 @@
         "page": 164,
         "line": 4,
         "text": "lest the Lamanites should obtain that point & should have power to harr",
+        "markdown": "{{lest the Lamanites should obt}}ain that point & should have power ~~be~~ [to]",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/164"
       },
       {
@@ -289,6 +302,7 @@
         "page": 164,
         "line": 5,
         "text": "ass them on every side",
+        "markdown": "{{ass them on every s}}ide",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/164"
       }
     ]
@@ -303,6 +317,7 @@
         "page": 164,
         "line": 5,
         "text": "& Moroni also sent unto him desireing him",
+        "markdown": "& Moroni~~i~~ also sent unto him desireing him",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/164"
       },
       {
@@ -310,6 +325,7 @@
         "page": 164,
         "line": 6,
         "text": "that he would be faithful in maintaining that quarter of the land &",
+        "markdown": "{{that he would be faith}}ful ~~that~~ i{{n}} maintaining that quarter of ~~this~~ [the]",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/164"
       },
       {
@@ -317,6 +333,7 @@
         "page": 164,
         "line": 7,
         "text": "that he would seek every opportunity to scour the Lamanites in that qu",
+        "markdown": "{{that he would seek every}} opportunity to scour the Lamanites in that qu",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/164"
       },
       {
@@ -324,6 +341,7 @@
         "page": 164,
         "line": 8,
         "text": "arter as much as was in his power that peerhaps he might take again by",
+        "markdown": "{{arter as much as was}} in his power that peerhaps he might take again by",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/164"
       },
       {
@@ -331,6 +349,7 @@
         "page": 164,
         "line": 9,
         "text": "stratigem or some other way those cities which had been taken out of their",
+        "markdown": "{{stratigem or some other}} way those cities which {{h}}ad been taken out of their",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/164"
       },
       {
@@ -338,6 +357,7 @@
         "page": 164,
         "line": 10,
         "text": "hands & that he <​also​> would fortify & strengthen the Cities round about which",
+        "markdown": "{{hands & that he <​also​> would for}}tify & strengthen the Cities round about which",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/164"
       },
       {
@@ -345,6 +365,7 @@
         "page": 164,
         "line": 11,
         "text": "had not fallen into the hands of the Lamanites",
+        "markdown": "{{had not fallen into the}} hand[s] of the Lamanites",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/164"
       }
     ]
@@ -366,6 +387,7 @@
         "page": 164,
         "line": 12,
         "text": "would come unto you but behold the Lamanites are upon us in the borders of",
+        "markdown": "{{would come unto you but}} behold the Lamanites are upon us in the borders of",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/164"
       },
       {
@@ -373,6 +395,7 @@
         "page": 164,
         "line": 13,
         "text": "the land by the West Sea & behold I go against them therefore I can not come",
+        "markdown": "{{the land by the West Sea}} & behold I go against them therefore I can not come",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/164"
       },
       {
@@ -380,6 +403,7 @@
         "page": 164,
         "line": 14,
         "text": "unto you",
+        "markdown": "{{unto you",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/164"
       }
     ]
@@ -394,6 +418,7 @@
         "page": 164,
         "line": 14,
         "text": "now the King Ammoron had departed out of the land of Zarah",
+        "markdown": "no}}w the King ~~h◊~~ {{}} Ammoron had departed out of the land",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/164"
       },
       {
@@ -401,6 +426,7 @@
         "page": 164,
         "line": 15,
         "text": "emla & had made known unto the Queen concerning the death of his",
+        "markdown": "{{eml}}a & had made known unto the Queen concerning the ~~dead~~ death of",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/164"
       },
       {
@@ -415,6 +441,7 @@
         "page": 164,
         "line": 17,
         "text": "ainst the Nephites on the borders by the West Sea",
+        "markdown": "ainst the Nephites on the borders ~~ly~~ by the West",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/164"
       }
     ]
@@ -429,6 +456,7 @@
         "page": 164,
         "line": 17,
         "text": "& thus he was endeavoring to",
+        "markdown": "Sea & thu[s] he was endeavoring",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/164"
       },
       {
@@ -443,6 +471,7 @@
         "page": 164,
         "line": 19,
         "text": "while he had commanded those which he had left to possess the cities wh",
+        "markdown": "~~wh~~ while he had commanded those which he had left to possess the cities",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/164"
       },
       {
@@ -450,6 +479,7 @@
         "page": 164,
         "line": 20,
         "text": "ich he had taken that they should also harrass the Nephites on the borders by the",
+        "markdown": "ich he had taken that they should also harrass the Nephites ~~&~~ on the borders by",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/164"
       },
       {
@@ -534,6 +564,7 @@
         "page": 164,
         "line": 28,
         "text": "men in retakeing the cities which they had lost",
+        "markdown": "~~in re~~ [men] in retakeing the cities which they",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/164"
       }
     ]
@@ -548,6 +579,7 @@
         "page": 164,
         "line": 28,
         "text": "& it came to pass that Tean",
+        "markdown": "had lost & it came to pass",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/164"
       },
       {
@@ -583,6 +615,7 @@
         "page": 164,
         "line": 31,
         "text": "ake an attackt upon the City of Mulek & march forth with his army again",
+        "markdown": "ake an attackt upon the City of Mulek & march forth with his ~~arny~~ army",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/164"
       },
       {
@@ -611,6 +644,7 @@
         "page": 165,
         "line": 1,
         "text": "his designs & returned again to the city Bountiful to wait for the comeingof Moroni that he might receive strength to his army",
+        "markdown": "his designs & returned again to the {{city Bountiful to wait for the comeingof}} Moroni that he might receive strength {{to his army",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/165"
       }
     ]
@@ -625,6 +659,7 @@
         "page": 165,
         "line": 1,
         "text": "& it came to pass that Mo",
+        "markdown": "& it came to pass that Mo}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/165"
       },
       {
@@ -632,6 +667,7 @@
         "page": 165,
         "line": 2,
         "text": "roni did arive with his army to the land of Bountiful in the latter end of the twen",
+        "markdown": "roni did arive with his army to [the] land of {{Bountiful in the latter end of the twen}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/165"
       },
       {
@@ -639,6 +675,7 @@
         "page": 165,
         "line": 3,
         "text": "ty & seventh year of the Reign of the Judges over the people <​of Nephi​>",
+        "markdown": "ty & seventh year of the Reign of the Judg{{es over the people <​of Nephi​>",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/165"
       }
     ]
@@ -653,6 +690,7 @@
         "page": 165,
         "line": 3,
         "text": "& in <​the commencement of​> the twenty & eighth",
+        "markdown": "& in <​the commencement of​> the twenty & eighth}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/165"
       },
       {
@@ -660,6 +698,7 @@
         "page": 165,
         "line": 4,
         "text": "year Moroni & Teancum & many of the chief Captains held a council of war",
+        "markdown": "year Moroni & Teancum & many of the ch{{ief Captains held a council of war}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/165"
       },
       {
@@ -667,6 +706,7 @@
         "page": 165,
         "line": 5,
         "text": "what they should do to cause the Lamanites to come out against them to battle",
+        "markdown": "what they should do to cause the Lamanites {{to come out against them to battle}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/165"
       },
       {
@@ -674,6 +714,7 @@
         "page": 165,
         "line": 6,
         "text": "or that they might by some means flatter them out of their strong holds that",
+        "markdown": "or that they might by some means flatter them ou{{t of their strong holds that}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/165"
       },
       {
@@ -681,6 +722,7 @@
         "page": 165,
         "line": 7,
         "text": "they might gain advatage over them & take again the city of Mulek",
+        "markdown": "they ~~may~~ might gain advatage over them & take again {{the city of",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/165"
       }
     ]
@@ -695,6 +737,7 @@
         "page": 165,
         "line": 7,
         "text": "& it ca",
+        "markdown": "Mulek & it",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/165"
       },
       {
@@ -702,6 +745,7 @@
         "page": 165,
         "line": 8,
         "text": "me to pass that they sent embassies to the army of the Lamanites which prot",
+        "markdown": "me to pass that they sent embassies to the army of t{{he Lamanites which prot}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/165"
       },
       {
@@ -709,6 +753,7 @@
         "page": 165,
         "line": 9,
         "text": "ected the city of Mulek to their leader whose name was Jacob desireing",
+        "markdown": "ected the city of Mulek ~~the~~ [to] their leader whose na{{me was Jacob",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/165"
       },
       {
@@ -716,6 +761,7 @@
         "page": 165,
         "line": 10,
         "text": "him that he would come out with his armies to meet them upon the plains betw",
+        "markdown": "him that he would come~~s~~ out with his armies to m{{eet them upon the plains betw}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/165"
       },
       {
@@ -723,6 +769,7 @@
         "page": 165,
         "line": 11,
         "text": "een the two cities but Behold Jacob which was a Zoramite would not come",
+        "markdown": "een the two cities but Behold Jacob which was {{a Zoramite would not come}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/165"
       },
       {
@@ -744,6 +791,7 @@
         "page": 165,
         "line": 12,
         "text": "& it came to pass that Moroni",
+        "markdown": "& it {{came to pass that Moroni}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/165"
       },
       {
@@ -751,6 +799,7 @@
         "page": 165,
         "line": 13,
         "text": "haveing no hopes of meeting them upon fair grounds therefore he resolved upon",
+        "markdown": "haveing no hopes of meeting them upon fair grounds {{therefore he resolved upon}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/165"
       },
       {
@@ -758,6 +807,7 @@
         "page": 165,
         "line": 14,
         "text": "a plan that he might decoy the Lamanites out of their strong holds",
+        "markdown": "~~of~~ [a] plan that he might ~~g~~ decoy the Lamanites out {{of th}}eir",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/165"
       }
     ]
@@ -772,6 +822,7 @@
         "page": 165,
         "line": 14,
         "text": "therefore",
+        "markdown": "{{strong",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/165"
       },
       {
@@ -779,6 +830,7 @@
         "page": 165,
         "line": 15,
         "text": "he caused that Teancum should take a small number of men & march do",
+        "markdown": "he caused that Teancum ~~&~~ [should] take a small number of m{{en & march",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/165"
       },
       {
@@ -786,6 +838,7 @@
         "page": 165,
         "line": 16,
         "text": "wn near the Sea shore & Moroni & his army by night marched into the wilderness",
+        "markdown": "wn near the Sea shore & Moroni & his army by night marched into the {{w}}ildernes{{s}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/165"
       },
       {
@@ -877,6 +930,7 @@
         "page": 165,
         "line": 25,
         "text": "ites which were persueing them invane behold Moroni commanded th",
+        "markdown": "ites ~~w~~ which were persueing them ~~ivng~~ invane behold Moroni",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/165"
       },
       {
@@ -884,6 +938,7 @@
         "page": 165,
         "line": 26,
         "text": "at a part of his army which were with him should march forth into the city",
+        "markdown": "at a part of ~~the~~ his army which were with him should march forth into the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/165"
       },
       {
@@ -926,6 +981,7 @@
         "page": 165,
         "line": 29,
         "text": "& thus Moroni had obtained a possession of the city Mulek with a part of",
+        "markdown": "& ~~this~~ [thus] Moroni had obtained a possession of ~~that~~ [the] city Mulek with a",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/165"
       },
       {
@@ -933,6 +989,7 @@
         "page": 165,
         "line": 30,
         "text": "his army while he marched with the remainder to meet the Lamanites w",
+        "markdown": "his army while he marched with the remainder ~~be~~ [to] meet the Lamanites",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/165"
       },
       {
@@ -954,6 +1011,7 @@
         "page": 165,
         "line": 31,
         "text": "& it came to pass",
+        "markdown": "& it came ~~be~~ [to]",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/165"
       },
       {
@@ -975,6 +1033,7 @@
         "page": 165,
         "line": 34,
         "text": "left to protect the city Bountiful",
+        "markdown": "left ~~be~~ [to] protect the city",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/165"
       }
     ]
@@ -989,6 +1048,7 @@
         "page": 165,
         "line": 34,
         "text": "& now Behold when the Chief Captains",
+        "markdown": "Bountiful & now Behold when the Chief",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/165"
       },
       {
@@ -996,6 +1056,7 @@
         "page": 166,
         "line": 1,
         "text": "of the Lamanites had beheld Lehi with his army comeing against them they fled in",
+        "markdown": "{{of the Lamanites had beheld Lehi wi}}th his army comeing against them they fled in",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/166"
       },
       {
@@ -1003,6 +1064,7 @@
         "page": 166,
         "line": 2,
         "text": "much confusion lest perhaps they should not obtain the city Mulek before Lehi",
+        "markdown": "{{much confusion lest perhaps they}} should not obtain the city Mulek be{{fore}} Lehi",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/166"
       },
       {
@@ -1010,6 +1072,7 @@
         "page": 166,
         "line": 3,
         "text": "should overtake them for they were wearied because of their march & themen of Lehi were fresh",
+        "markdown": "{{should overtake them for they}} were wearied because of their march {{& themen of Lehi were fresh",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/166"
       }
     ]
@@ -1024,6 +1087,7 @@
         "page": 166,
         "line": 3,
         "text": "now the Lamanites did not know that Moroni hadbeen in their rear with his army & all they feard was Lehi & his men",
+        "markdown": "now th}}e Lamanites did not know that Moron{{i hadbeen in their rear with his ar}}my ~~bu~~ & all they feard was Lehi & his",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/166"
       }
     ]
@@ -1038,6 +1102,7 @@
         "page": 166,
         "line": 4,
         "text": "now Lehi was not desireous to overtake them till they should meet Moroni & his",
+        "markdown": "{{now Lehi was not desireous to o}}ve{{r}}take them till they should meet Moroni & his",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/166"
       },
       {
@@ -1045,6 +1110,7 @@
         "page": 166,
         "line": 5,
         "text": "army",
+        "markdown": "{{army",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/166"
       }
     ]
@@ -1059,6 +1125,7 @@
         "page": 166,
         "line": 5,
         "text": "& it came to pass that before the Lamanites had retreated far they were sur",
+        "markdown": "& it came to pass that}} before the Lamanites had retreated far they were sur",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/166"
       },
       {
@@ -1066,6 +1133,7 @@
         "page": 166,
         "line": 6,
         "text": "rounded by the Nephites by the men of Moroni on one hand & the men of Lehi on",
+        "markdown": "{{rounded by the Neph}}ites by the men of Moroni on one hand & the men of Lehi on",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/166"
       },
       {
@@ -1073,6 +1141,7 @@
         "page": 166,
         "line": 7,
         "text": "the other all of whom were fresh & full of strength but the Lamanites were wear",
+        "markdown": "{{the other all of w}}h{{o}}m [were] ~~was~~ fresh & full of strength [but] the Lamanites were",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/166"
       },
       {
@@ -1080,6 +1149,7 @@
         "page": 166,
         "line": 8,
         "text": "ied because of their long march",
+        "markdown": "{{ied because of their}} long march",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/166"
       }
     ]
@@ -1101,6 +1171,7 @@
         "page": 166,
         "line": 9,
         "text": "they should fall upon them untill they had given up their weopons of war",
+        "markdown": "{{they should fall upon them}} untill they had given up their weopons of war",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/166"
       }
     ]
@@ -1122,6 +1193,7 @@
         "page": 166,
         "line": 10,
         "text": "to pass that Jacob being their leader being also a Zoramite & haveing an uncon",
+        "markdown": "{{to pass that Jacob being}} their leader being also a Zoramite~~s~~ & haveing an uncon",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/166"
       },
       {
@@ -1129,6 +1201,7 @@
         "page": 166,
         "line": 11,
         "text": "querable spirit he lead the Lamanites forth to battle with exceding fury",
+        "markdown": "{{querable spirit he lea}}d the Lamanites forth to battle with exceding fury",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/166"
       },
       {
@@ -1136,6 +1209,7 @@
         "page": 166,
         "line": 12,
         "text": "against Moroni",
+        "markdown": "{{against Moroni",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/166"
       }
     ]
@@ -1150,6 +1224,7 @@
         "page": 166,
         "line": 12,
         "text": "Moroni being in their course of march therefore Jacob was det",
+        "markdown": "Moroni}} being in their course of march therefore Jacob was det",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/166"
       },
       {
@@ -1157,6 +1232,7 @@
         "page": 166,
         "line": 13,
         "text": "ermined to slay them & cut his way through to the City of Mulek but Behold",
+        "markdown": "{{ermined to slay them & cu}}t his way through to the City of Mulek but Behold",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/166"
       },
       {
@@ -1164,6 +1240,7 @@
         "page": 166,
         "line": 14,
         "text": "Moroni & his men were more powerful therefore they did not give way before the",
+        "markdown": "{{Moroni & his men we}}re more powerful therefore they did not give way before the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/166"
       },
       {
@@ -1171,6 +1248,7 @@
         "page": 166,
         "line": 15,
         "text": "Lamanites",
+        "markdown": "Laman{{it}}es",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/166"
       }
     ]
@@ -1276,6 +1354,7 @@
         "page": 166,
         "line": 22,
         "text": "the Lamanites had heard these words their Chief Captains all those which were not",
+        "markdown": "the Lamanites had heard~~s~~ these words their Chief Captains all those which were not",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/166"
       },
       {
@@ -1304,6 +1383,7 @@
         "page": 166,
         "line": 24,
         "text": "but Behold there were many",
+        "markdown": "but Behold ~~their~~ [there] were",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/166"
       },
       {
@@ -1311,6 +1391,7 @@
         "page": 166,
         "line": 25,
         "text": "that would not & those who would not deliver up their swoards were ta",
+        "markdown": "that~~e~~ would not & those who would not ~~deliver~~ deliver up their swoards were",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/166"
       },
       {

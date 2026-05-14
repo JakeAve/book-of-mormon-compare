@@ -107,6 +107,7 @@
         "page": 355,
         "line": 3,
         "text": "thou hast done for I have beheld how thou hast with unwearyingness declared the word",
+        "markdown": "thou hast done for I have beheld how thou hast with ~~unweringness~~ [unwearyingness] declared the",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/355"
       },
       {
@@ -219,6 +220,7 @@
         "page": 355,
         "line": 14,
         "text": "thus shall ye have power among this people",
+        "markdown": "thus shall ye have power among this [people]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/355"
       }
     ]
@@ -422,6 +424,7 @@
         "page": 355,
         "line": 28,
         "text": "Nephi had declared unto them the word behold they did still harden their hearts & wou",
+        "markdown": "Nephi had declared unto them the word ~~obe~~ [behold] they did still harden their hearts &",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/355"
       },
       {

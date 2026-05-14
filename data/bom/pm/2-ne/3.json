@@ -219,6 +219,7 @@
         "page": 56,
         "line": 30,
         "text": "the fruit of thy loins & he shall be esteemed highly among the fruit of thy loins &",
+        "markdown": "the fruit of thy loins [& he] shall be esteemed highly among the fruit of thy loins &",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/56"
       },
       {
@@ -394,6 +395,7 @@
         "page": 57,
         "line": 7,
         "text": "unto the confounding of fals doctrines & laying down of contensions & establishing pe",
+        "markdown": "unto the ~~confounded~~ confounding of fals doctrines & laying down of contensions & establishing",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/57"
       },
       {
@@ -555,6 +557,7 @@
         "page": 57,
         "line": 20,
         "text": "said I will raise up a Moses & I will give power unto him in a rod & I will give Judgment",
+        "markdown": "said I will raise up a Moses & I will give power unto him in a rod & I will [give] Judgment",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/57"
       },
       {
@@ -569,6 +572,7 @@
         "page": 57,
         "line": 22,
         "text": "I will not make him mighty in speaking but I will write unto him my law by",
+        "markdown": "I will not make him mighty ~~in~~ [in] speaking but I will write unto him my law",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/57"
       },
       {
@@ -597,6 +601,7 @@
         "page": 57,
         "line": 24,
         "text": "said unto me also I will raise up unto the fruit of thy loins & I will make for",
+        "markdown": "said unto me also I will raise up unto the fruit of thy loins & I will make ~~one~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/57"
       },
       {

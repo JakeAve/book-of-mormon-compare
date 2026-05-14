@@ -51,6 +51,7 @@
         "page": 199,
         "line": 20,
         "text": "lained of to the Judge and the Judge executed authority and sent forth Officers that the",
+        "markdown": "lained of to the Judge and the Judge executed authority and ~~send~~ sent forth Officers that",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/199"
       },
       {
@@ -72,6 +73,7 @@
         "page": 199,
         "line": 23,
         "text": "that which he oweth or be striped or be cast out from among the people as a th",
+        "markdown": "that which he oweth or be striped or be cast ~~is~~ out from among the people as a",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/199"
       },
       {
@@ -681,6 +683,7 @@
         "page": 200,
         "line": 28,
         "text": "and Zeezrom saith unto him, thou sayest there is a",
+        "markdown": "and Zeezrom saith unto him[,] thou sayest there is a",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/200"
       },
       {
@@ -1038,6 +1041,7 @@
         "page": 201,
         "line": 12,
         "text": "bands of death, for Behold the day cometh that all shall rise from the dead & stand",
+        "markdown": "bands of death, for Behold the day cometh that all shall rise from the dead [&] stand",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/201"
       },
       {
@@ -1185,6 +1189,7 @@
         "page": 201,
         "line": 25,
         "text": "now behold I have spoken unto to you concerning the death of",
+        "markdown": "now behold I have spoken [unto] to you concerning the death of",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/201"
       },
       {

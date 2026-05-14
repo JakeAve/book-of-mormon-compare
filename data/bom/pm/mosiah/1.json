@@ -9,6 +9,7 @@
         "page": 121,
         "line": 4,
         "text": "the Book of Mosiah Chapter",
+        "markdown": "[the Book of Mosiah] Chapter",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/121"
       }
     ]
@@ -23,6 +24,7 @@
         "page": 121,
         "line": 4,
         "text": "And now there was no more con",
+        "markdown": "[the Book of Mosiah] Chapter []—— And",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/121"
       },
       {
@@ -170,6 +172,7 @@
         "page": 121,
         "line": 19,
         "text": "to their children & so fulfiling the commandments of God even down to this presant time",
+        "markdown": "to their children & so fulfiling the commandments of ~~the L◊rd~~ [God] even down to this",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/121"
       }
     ]
@@ -191,6 +194,7 @@
         "page": 121,
         "line": 21,
         "text": "hand of God that we might read & understand of his mysteries & have his command",
+        "markdown": "hand of ~~the Lord~~ [God] that we might read & understand of his mysteries & have",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/121"
       },
       {
@@ -394,6 +398,7 @@
         "page": 122,
         "line": 2,
         "text": "thereby they may be gathered togther for on the morrow I shall proclaim unto this",
+        "markdown": "thereby they may be gathered togther for on the morrow I shall proclaim unto ~~them~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/122"
       },
       {
@@ -520,6 +525,7 @@
         "page": 122,
         "line": 12,
         "text": "for I say unto you that if he had not extended",
+        "markdown": "for I say unto [you] that if he had not extended",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/122"
       },
       {

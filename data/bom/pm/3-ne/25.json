@@ -30,6 +30,7 @@
         "page": 407,
         "line": 17,
         "text": "of Hosts, that it shall leave them neither root nor branch",
+        "markdown": "of Hosts, that it shall leave them neither ~~nor~~ [root] nor",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/407"
       }
     ]
@@ -44,6 +45,7 @@
         "page": 407,
         "line": 17,
         "text": "but unto you",
+        "markdown": "branch but unto",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/407"
       },
       {
@@ -58,6 +60,7 @@
         "page": 407,
         "line": 19,
         "text": "in his wings & ye shall go forth & grow up as Calves of the stall",
+        "markdown": "in his wings & ye shall go forth & grow up as ~~Cedars~~ Calves of the",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/407"
       }
     ]
@@ -72,6 +75,7 @@
         "page": 407,
         "line": 20,
         "text": "& ye shall tread down the wicked for they shall be ashes under the soles",
+        "markdown": "& ye shall tread down the wicked for they shall be ~~as~~ ashes under the",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/407"
       },
       {
@@ -156,6 +160,7 @@
         "page": 407,
         "line": 26,
         "text": "hers least I come & smite the Earth with a Curse.",
+        "markdown": "hers ~~lest~~ least I come & smite the Earth with a",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/407"
       }
     ]
