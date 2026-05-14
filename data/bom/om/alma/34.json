@@ -48,7 +48,7 @@
         "page": 119,
         "line": 10,
         "text": "concerning the comeing of Christ who is taught by us to be the son of God yea I know that these",
-        "markdown": "concerning ~~to~~ [the] comeing of Christ who is taught by us to be {{the son of God yea I know that",
+        "markdown": "concerning ~~to~~ [the] comeing of Christ who is taught by us to be {{the son of God yea I know that these}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/119"
       },
       {
@@ -139,7 +139,7 @@
         "page": 119,
         "line": 16,
         "text": "& we have beheld that the great question which is in your minds",
-        "markdown": "& we have ~~behelld~~ beheld that the great question which is in you{{r",
+        "markdown": "& we have ~~behelld~~ beheld that the great question which is in you{{r minds}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/119"
       },
       {
@@ -235,7 +235,7 @@
         "page": 119,
         "line": 23,
         "text": "I do know that Christ shall come among the Children of men to take upon him",
-        "markdown": "I ~~do~~ do know that Christ shall come among the Children of men to take upon",
+        "markdown": "I ~~do~~ do know that Christ shall come among the Children of men to take upon him",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/119"
       },
       {
@@ -407,7 +407,7 @@
         "page": 120,
         "line": 2,
         "text": "ould be a great & last sacrifice & then shall there be or it is expedent there should",
-        "markdown": "{{ould be a great & last sacrifice & then}} shall there be or ~~is~~ [it] is expedent there",
+        "markdown": "{{ould be a great & last sacrifice & then}} shall there be or ~~is~~ [it] is expedent there should",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/120"
       },
       {
@@ -491,7 +491,7 @@
         "page": 120,
         "line": 9,
         "text": "justice & bringeth about means unto men that they may have faiith unto repentan",
-        "markdown": "{{justice & bringeth about }} means unto ~~man~~ [men] that they may have faiith",
+        "markdown": "{{justice & bringeth about }} means unto ~~man~~ [men] that they may have faiith unto repentan",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/120"
       },
       {
@@ -514,7 +514,7 @@
         "page": 120,
         "line": 10,
         "text": "& thus mercy can satisfy the demands of justice & insercle them in the arms of safty",
-        "markdown": "& thus mercy can satisfy the dem}}ands of justice & insercle them in the arms of safty",
+        "markdown": "& thus mercy can satisfy the dem}}ands of justice & insercle them in the arms of safty ~~whi~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/120"
       },
       {
@@ -530,7 +530,7 @@
         "page": 120,
         "line": 12,
         "text": "of justice therefore only unto him that hath faith unto repentance is brought about",
-        "markdown": "{{of justice therefore only unto him}} that ~~the~~ hath faith unto repentance is brought",
+        "markdown": "{{of justice therefore only unto him}} that ~~the~~ hath faith unto repentance is brought about ~~the~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/120"
       },
       {
@@ -560,7 +560,7 @@
         "page": 120,
         "line": 14,
         "text": "that ye might begin to exercise your faith unto repentance that ye begin to",
-        "markdown": "{{that ye migh}}t begin to ex{{erc}}ise your faith unto repentance that ~~ye beg~~ ye",
+        "markdown": "{{that ye migh}}t begin to ex{{erc}}ise your faith unto repentance that ~~ye beg~~ ye begin to",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/120"
       },
       {
@@ -795,7 +795,7 @@
         "page": 120,
         "line": 25,
         "text": "& now behold my Brethren I say unto you",
-        "markdown": "{{&}} now behold ~~wy~~ my Brethren I say unto",
+        "markdown": "{{&}} now behold ~~wy~~ my Brethren I say unto you",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/120"
       },
       {
@@ -803,7 +803,7 @@
         "page": 120,
         "line": 26,
         "text": "do not suppose that this is all for after ye have done all these things if ye turn",
-        "markdown": "do not suppose that this is all for {{after ye have}} done all these things ~~&~~ ~~of~~ if",
+        "markdown": "do not suppose that this is all for {{after ye have}} done all these things ~~&~~ ~~of~~ if ye turn",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/120"
       },
       {
@@ -864,7 +864,7 @@
         "page": 120,
         "line": 32,
         "text": "under foot of men",
-        "markdown": "under ~~feet <​foot​>~~ [foot]",
+        "markdown": "under ~~feet <​foot​>~~ [foot] of men",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/120"
       }
     ]
@@ -879,7 +879,6 @@
         "page": 120,
         "line": 32,
         "text": "& now my Brethren I would that after ye have received",
-        "markdown": "of men & now my Brethren I would that after ye",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/120"
       },
       {
@@ -887,7 +886,7 @@
         "page": 120,
         "line": 33,
         "text": "so many witnesses seeing that the holy scriptures testifies of these things",
-        "markdown": "~~soma~~ so many witnesses seeing that the holy scriptures testifies of these",
+        "markdown": "~~soma~~ so many witnesses seeing that the holy scriptures testifies of these things",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/120"
       },
       {
@@ -961,7 +960,7 @@
         "page": 121,
         "line": 4,
         "text": "hold the day of this life is the day for men to perform their labours",
-        "markdown": "hold the day of this life is the~~y~~ day ~~fon~~ for men to pe{{r}}f{{orm their",
+        "markdown": "hold the day of this life is the~~y~~ day ~~fon~~ for men to pe{{r}}f{{orm their labours",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/121"
       }
     ]
@@ -976,7 +975,7 @@
         "page": 121,
         "line": 4,
         "text": "& now as I said",
-        "markdown": "labours & now as I",
+        "markdown": "& now as I said}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/121"
       },
       {
@@ -1123,7 +1122,7 @@
         "page": 121,
         "line": 17,
         "text": "& this I know because the Lord hath said he dwelleth not in unholy",
-        "markdown": "& this I know because the Lord hath said he dwelleth ~~rot <​not​>~~ not",
+        "markdown": "& this I know because the Lord hath said he dwelleth ~~rot <​not​>~~ not {{in}} unholy",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/121"
       },
       {
@@ -1195,7 +1194,7 @@
         "page": 121,
         "line": 23,
         "text": "that ye contend no more against the holy",
-        "markdown": "that ~~y~~ ye contend no more against the",
+        "markdown": "that ~~y~~ ye contend no more against the holy",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/121"
       },
       {
@@ -1225,7 +1224,7 @@
         "page": 121,
         "line": 27,
         "text": "for the many mercies & blessings which he doth bestow upon you",
-        "markdown": "for the many mercies & bless{{ings which he}} doth bestow upon ~~th~~",
+        "markdown": "for the many mercies & bless{{ings which he}} doth bestow upon ~~th~~ [you]",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/121"
       }
     ]
@@ -1240,7 +1239,6 @@
         "page": 121,
         "line": 27,
         "text": "yea & I",
-        "markdown": "[you] yea &",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/121"
       },
       {
@@ -1248,7 +1246,7 @@
         "page": 121,
         "line": 28,
         "text": "also exort you my Brethren that ye be watchful unto prayer continually",
-        "markdown": "also exort you my Brethren tha{{t ye be watchful}} unto ~~Pray~~ prayer",
+        "markdown": "also exort you my Brethren tha{{t ye be watchful}} unto ~~Pray~~ prayer continually",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/121"
       },
       {
@@ -1256,7 +1254,7 @@
         "page": 121,
         "line": 29,
         "text": "that ye may not be led away by the temptations of the Devil that he",
-        "markdown": "that ye may not be ~~lead~~ led a{{way by th}}e ~~tempter~~ [temptations] of the Devil",
+        "markdown": "that ye may not be ~~lead~~ led a{{way by th}}e ~~tempter~~ [temptations] of the Devil that h{{e}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/121"
       },
       {
@@ -1340,7 +1338,7 @@
         "page": 121,
         "line": 36,
         "text": "your afflictions",
-        "markdown": "your ~~af~~",
+        "markdown": "your ~~af~~ afflictions",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/121"
       }
     ]

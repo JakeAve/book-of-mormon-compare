@@ -205,7 +205,7 @@
         "page": 162,
         "line": 35,
         "text": "was the high priest",
-        "markdown": "~~and the priests brought~~",
+        "markdown": "~~and the priests brought~~ was the high priest",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/162"
       }
     ]
@@ -220,7 +220,6 @@
         "page": 162,
         "line": 35,
         "text": "Now King Mosiah had",
-        "markdown": "was the high priest",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/162"
       },
       {
@@ -445,7 +444,7 @@
         "page": 163,
         "line": 16,
         "text": "blesed because of thy exceding faith in the words alone of my serv",
-        "markdown": "~~in~~ blesed because of thy exceding faith in the words alone of my",
+        "markdown": "~~in~~ blesed because of thy exceding faith in the words alone of my serv",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/163"
       },
       {
@@ -453,7 +452,7 @@
         "page": 163,
         "line": 17,
         "text": "ant Abinadi",
-        "markdown": "ant ~~Aminadi~~",
+        "markdown": "ant ~~Aminadi~~ Abinadi",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/163"
       }
     ]
@@ -468,7 +467,6 @@
         "page": 163,
         "line": 17,
         "text": "and blesed are they because of their Ex",
-        "markdown": "Abinadi and blesed are they because of their",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/163"
       },
       {
@@ -757,7 +755,7 @@
         "page": 164,
         "line": 1,
         "text": "they shall depart into everlasting fire prepared for the devil & his",
-        "markdown": "they shall depart ~~unto~~ into everlasting fire prepared for the devil &",
+        "markdown": "they shall depart ~~unto~~ into everlasting fire prepared for the devil & his",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/164"
       },
       {
@@ -1103,6 +1101,7 @@
         "page": 164,
         "line": 28,
         "text": "&",
+        "markdown": "& ~~di◊~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/164"
       },
       {

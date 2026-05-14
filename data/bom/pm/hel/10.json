@@ -72,6 +72,7 @@
         "page": 354,
         "line": 39,
         "text": "ple of the Nephtes their secret works of darkness & their murderings & their",
+        "markdown": "ple of the Nephtes their secret works of darkness & their murderings & their ~~plundering~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/354"
       },
       {
@@ -107,7 +108,7 @@
         "page": 355,
         "line": 3,
         "text": "thou hast done for I have beheld how thou hast with unwearyingness declared the word",
-        "markdown": "thou hast done for I have beheld how thou hast with ~~unweringness~~ [unwearyingness] declared the",
+        "markdown": "thou hast done for I have beheld how thou hast with ~~unweringness~~ [unwearyingness] declared the word",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/355"
       },
       {
@@ -424,7 +425,7 @@
         "page": 355,
         "line": 28,
         "text": "Nephi had declared unto them the word behold they did still harden their hearts & wou",
-        "markdown": "Nephi had declared unto them the word ~~obe~~ [behold] they did still harden their hearts &",
+        "markdown": "Nephi had declared unto them the word ~~obe~~ [behold] they did still harden their hearts & wou",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/355"
       },
       {
@@ -558,6 +559,7 @@
         "page": 356,
         "line": 1,
         "text": "Chapter——",
+        "markdown": "Chapter—— []—— And now it came to pass in the seventy",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/356"
       }
     ]

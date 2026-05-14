@@ -24,7 +24,7 @@
         "page": 215,
         "line": 1,
         "text": "& even unto the great & last day when all People & all Kindreds & allNations & tongues shall stand before God to be judged of their works whether they be goo",
-        "markdown": "& even un}}to the great & la{{st}} day {{when all People & all Kindreds & allN}}ations & tongues shall ~~be~~ stand before God to be judge{{d of their works whether they be",
+        "markdown": "& even un}}to the great & la{{st}} day {{when all People & all Kindreds & allN}}ations & tongues shall ~~be~~ stand before God to be judge{{d of their works whether they be goo}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/215"
       },
       {
@@ -85,6 +85,7 @@
         "page": 215,
         "line": 5,
         "text": "the world began",
+        "markdown": "the world began }}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/215"
       }
     ]
@@ -99,6 +100,7 @@
         "page": 215,
         "line": 6,
         "text": "Chapter",
+        "markdown": "Chapter {{}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/215"
       }
     ]

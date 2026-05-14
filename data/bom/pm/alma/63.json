@@ -44,7 +44,7 @@
         "page": 333,
         "line": 17,
         "text": "man & he did walk uprightly before God & he did observe to do good continually to",
-        "markdown": "man & he did ~~wald~~ [walk] uprightly before God & he did observe to do good continually",
+        "markdown": "man & he did ~~wald~~ [walk] uprightly before God & he did observe to do good continually to",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/333"
       },
       {
@@ -130,7 +130,7 @@
         "page": 333,
         "line": 23,
         "text": "& it came to pass that Hagoth he being an exced",
-        "markdown": "& it came to pass that Hagoth he being ~~an~~ [an]",
+        "markdown": "& it came to pass that Hagoth he being ~~an~~ [an] exced",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/333"
       },
       {
@@ -138,7 +138,7 @@
         "page": 333,
         "line": 24,
         "text": "ing curious man therefore he went forth & built him an exceding large Ship on the borders of the land bountiful by the land Desolation & la",
-        "markdown": "ing curious man therefore he went forth & built him an exceding large ~~large~~ Ship on the borders of the land bountiful by the land Desolation &",
+        "markdown": "ing curious man therefore he went forth & built him an exceding large ~~large~~ Ship on the borders of the land bountiful by the land Desolation & la",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/333"
       },
       {
@@ -202,7 +202,7 @@
         "page": 333,
         "line": 29,
         "text": "built other ships & the first ship did also return & many more People did enter into",
-        "markdown": "built other ships & the first ship did also return & many more ~~Nephites~~ [People] did enter",
+        "markdown": "built other ships & the first ship did also return & many more ~~Nephites~~ [People] did enter into",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/333"
       },
       {
@@ -210,7 +210,7 @@
         "page": 333,
         "line": 30,
         "text": "it & they also took much provisions & set out again to the land Northward",
-        "markdown": "it & they also took much provisions & set out again ~~for~~ [to] the land",
+        "markdown": "it & they also took much provisions & set out again ~~for~~ [to] the land Northward",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/333"
       }
     ]
@@ -225,7 +225,6 @@
         "page": 333,
         "line": 30,
         "text": "& it came",
-        "markdown": "Northward & it",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/333"
       },
       {
@@ -240,7 +239,7 @@
         "page": 333,
         "line": 32,
         "text": "the debeths of the Sea & it came to pass that one other Ship also did sail forth",
-        "markdown": "the debeths of the Sea & it came to pass that one other Ship ~~did~~ also did sail",
+        "markdown": "the debeths of the Sea & it came to pass that one other Ship ~~did~~ also did sail forth",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/333"
       },
       {
@@ -347,7 +346,7 @@
         "page": 334,
         "line": 3,
         "text": "now",
-        "markdown": "~~now~~",
+        "markdown": "~~now~~ [now]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/334"
       },
       {
@@ -362,7 +361,7 @@
         "page": 334,
         "line": 5,
         "text": "& sent forth among the children of men throughout all the land save it were those parts",
-        "markdown": "& sent forth among the children of men throughout all the land save it ~~was~~ [were] those",
+        "markdown": "& sent forth among the children of men throughout all the land save it ~~was~~ [were] those parts",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/334"
       },
       {
@@ -370,7 +369,7 @@
         "page": 334,
         "line": 6,
         "text": "which had been commanded by Alma should not go forth",
-        "markdown": "which ~~it~~ had been commanded by Alma should not go",
+        "markdown": "which ~~it~~ had been commanded by Alma should not go forth",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/334"
       }
     ]
@@ -385,7 +384,6 @@
         "page": 334,
         "line": 6,
         "text": "nevertheless these",
-        "markdown": "forth nevertheless",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/334"
       },
       {
@@ -442,7 +440,7 @@
         "page": 334,
         "line": 11,
         "text": "also in this same year they came down with a numerous army to war against the",
-        "markdown": "also in this same year they came down with ~~an~~ [a] numerous army to war against",
+        "markdown": "also in this same year they came down with ~~an~~ [a] numerous army to war against the",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/334"
       },
       {
@@ -457,7 +455,7 @@
         "page": 334,
         "line": 13,
         "text": "beaten & driven back again to their own lands suffering great loss",
-        "markdown": "beaten & driven back again to their own lands suffering great ~~looss~~",
+        "markdown": "beaten & driven back again to their own lands suffering great ~~looss~~ [loss]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/334"
       }
     ]
@@ -472,7 +470,6 @@
         "page": 334,
         "line": 13,
         "text": "& thus ended the",
-        "markdown": "[loss] & thus ended",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/334"
       },
       {
@@ -501,7 +498,7 @@
         "page": 334,
         "line": 15,
         "text": "the account of Alma & Helaman his Son & also Shiblon which was his Son",
-        "markdown": "the account of Alma & Helaman his Son & also Shiblon which was his ~~Son~~",
+        "markdown": "the account of Alma & Helaman his Son & also Shiblon which was his ~~Son~~ [Son]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/334"
       },
       {
@@ -509,6 +506,7 @@
         "page": 334,
         "line": 16,
         "text": "The Book of Helaman——",
+        "markdown": "The Book of Helaman—— Chapter—— []——",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/334"
       },
       {
@@ -516,7 +514,7 @@
         "page": 334,
         "line": 16,
         "text": "Chapter——",
-        "markdown": "The",
+        "markdown": "The Book of Helaman—— Chapter—— []——",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/334"
       }
     ]

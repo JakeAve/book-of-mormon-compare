@@ -241,7 +241,7 @@
         "page": 341,
         "line": 5,
         "text": "Nephites which was in the land southward & all this was done in the fifty & eight",
-        "markdown": "Nephites which was in the land southward & all this was done in the fifty & ~~eigth~~",
+        "markdown": "Nephites which was in the land southward & all this was done in the fifty & ~~eigth~~ [eight]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/341"
       },
       {
@@ -333,7 +333,7 @@
         "page": 341,
         "line": 12,
         "text": "had it not been for their wickedness & their abomination which was among them yea",
-        "markdown": "had it not been for the[ir] wickedness & their abomination which was among them ~~yea~~",
+        "markdown": "had it not been for the[ir] wickedness & their abomination which was among them ~~yea~~ [yea]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/341"
       },
       {
@@ -644,7 +644,7 @@
         "page": 341,
         "line": 38,
         "text": "fear lest they should be overpowered & trodden down & slain & destroyed",
-        "markdown": "fear lest they should be overpowered & ~~slain~~ trodden down & slain &",
+        "markdown": "fear lest they should be overpowered & ~~slain~~ trodden down & slain & destroyed",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/341"
       }
     ]
@@ -659,7 +659,6 @@
         "page": 341,
         "line": 38,
         "text": "yea",
-        "markdown": "destroyed",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/341"
       },
       {
@@ -765,7 +764,7 @@
         "page": 342,
         "line": 8,
         "text": "& they saw they had become weak like unto their brethren the Laman",
-        "markdown": "& they saw they had become ~~wicked~~ [weak] like unto their brethren the",
+        "markdown": "& they saw they had become ~~wicked~~ [weak] like unto their brethren the Laman",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/342"
       },
       {
@@ -802,7 +801,7 @@
         "page": 342,
         "line": 11,
         "text": "did cease to preserve them by his maraculous & matchless power for they had fall",
-        "markdown": "did ~~cause~~ [cease] to preserve them by his maraculous & matchless power for they had",
+        "markdown": "did ~~cause~~ [cease] to preserve them by his maraculous & matchless power for they had fall",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/342"
       },
       {
@@ -817,7 +816,7 @@
         "page": 342,
         "line": 13,
         "text": "more exceding numerous than they & except they should cleave unto the Lord th",
-        "markdown": "more exceding numerous than they & except they should ~~repent~~ [cleave] unto the Lord",
+        "markdown": "more exceding numerous than they & except they should ~~repent~~ [cleave] unto the Lord th",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/342"
       },
       {

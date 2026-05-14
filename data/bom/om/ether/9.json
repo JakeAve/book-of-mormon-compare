@@ -92,7 +92,7 @@
         "page": 223,
         "line": 6,
         "text": "ted the hearts of all the People therefore Jared was murdered upon his throan & Akish Reigned in his stead",
-        "markdown": "ted the hearts of all the People ther{{efore Jared was murdered upon his throan & Aki}}sh Reigned in ~~the~~ [his]",
+        "markdown": "ted the hearts of all the People ther{{efore Jared was murdered upon his throan & Aki}}sh Reigned in ~~the~~ [his] stead",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/223"
       }
     ]
@@ -107,7 +107,7 @@
         "page": 223,
         "line": 6,
         "text": "& it came to pass that Akish began to be jealous of his Son the",
-        "markdown": "stead & it came to p{{ass that Akish began to be jealous of his Son",
+        "markdown": "& it came to p{{ass that Akish began to be jealous of his Son the}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/223"
       },
       {
@@ -190,7 +190,7 @@
         "page": 223,
         "line": 11,
         "text": "begat other Sons & they won the hearts of the People notwithstanding they hadswoarn unto him to do all manner of iniquity according to that which he",
-        "markdown": "b{{e}}g{{a}}t other Sons & they won the hearts of {{the People notwithstanding they hads}}woarn ~~to~~ [unto] him to do all manner of iniq{{uity according to that which",
+        "markdown": "b{{e}}g{{a}}t other Sons & they won the hearts of {{the People notwithstanding they hads}}woarn ~~to~~ [unto] him to do all manner of iniq{{uity according to that which he",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/223"
       }
     ]
@@ -205,7 +205,7 @@
         "page": 223,
         "line": 11,
         "text": "desirednow the People of Akish were desireous for gain even as",
-        "markdown": "he desirednow the Peo}}pl{{e of}} Akish were desireo{{us}} for ga{{in even",
+        "markdown": "desirednow the Peo}}pl{{e of}} Akish were desireo{{us}} for ga{{in even as",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/223"
       }
     ]
@@ -220,7 +220,7 @@
         "page": 223,
         "line": 11,
         "text": "Akish was desireous for",
-        "markdown": "as Akish was desireous",
+        "markdown": "Akish was desireous for}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/223"
       }
     ]

@@ -58,7 +58,7 @@
         "page": 152,
         "line": 19,
         "text": "the priests of king Noah being ashamed to return to the City of Nephi yea & also",
-        "markdown": "the priests of king ~~Noah~~ Noah being ashamed to return to the City of Nephi yea &",
+        "markdown": "the priests of king ~~Noah~~ Noah being ashamed to return to the City of Nephi yea & also",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/152"
       },
       {
@@ -430,7 +430,7 @@
         "page": 153,
         "line": 13,
         "text": "up to war against thy",
-        "markdown": "up to war against ~~my~~",
+        "markdown": "up to war against ~~my~~ [thy]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/153"
       }
     ]
@@ -445,7 +445,7 @@
         "page": 153,
         "line": 13,
         "text": "people now Limhi had heard nothing concerning this ma",
-        "markdown": "[thy] people now Limhi had ~~no~~ heard nothing concerning",
+        "markdown": "people now Limhi had ~~no~~ heard nothing concerning this ma",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/153"
       },
       {
@@ -544,7 +544,7 @@
         "page": 153,
         "line": 21,
         "text": "le that they may be passified towards us for behold they are allready prepar",
-        "markdown": "le that they may be ~~pursuaded~~ [passified] towards us for behold they are allready",
+        "markdown": "le that they may be ~~pursuaded~~ [passified] towards us for behold they are allready prepar",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/153"
       },
       {
@@ -636,7 +636,7 @@
         "page": 153,
         "line": 28,
         "text": "loose our lives therefore let us put a stop to the shedding of so much blood",
-        "markdown": "loose our lives therefore let us put a stop to ~~so much~~ [the] shedding of [so",
+        "markdown": "loose our lives therefore let us put a stop to ~~so much~~ [the] shedding of [so much] blood",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/153"
       }
     ]
@@ -651,7 +651,6 @@
         "page": 153,
         "line": 28,
         "text": "& now",
-        "markdown": "much] blood",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/153"
       },
       {
@@ -666,7 +665,7 @@
         "page": 153,
         "line": 30,
         "text": "fled into the wilderness & attributed the carrying away of their",
-        "markdown": "fled into the wilderness & ~~attriib~~ attributed the carrying away of",
+        "markdown": "fled into the wilderness & ~~attriib~~ attributed the carrying away of their",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/153"
       },
       {
@@ -702,7 +701,7 @@
         "page": 153,
         "line": 33,
         "text": "ar unto you with an oath that my people shall not slay thy people",
-        "markdown": "ar unto you with an oath that my people shall not slay ~~thy~~ thy",
+        "markdown": "ar unto you with an oath that my people shall not slay ~~thy~~ thy people",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/153"
       }
     ]
@@ -717,7 +716,6 @@
         "page": 153,
         "line": 33,
         "text": "& it came to",
-        "markdown": "people & it came",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/153"
       },
       {

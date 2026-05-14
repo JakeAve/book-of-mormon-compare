@@ -62,7 +62,7 @@
         "page": 133,
         "line": 35,
         "text": "site that all things should be restored to their proper order behold it is requisite",
-        "markdown": "site~~s~~ that all things should be restored to ~~its~~ [their] proper order behold it is",
+        "markdown": "site~~s~~ that all things should be restored to ~~its~~ [their] proper order behold it is requisite~~s~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/133"
       },
       {
@@ -200,7 +200,7 @@
         "page": 134,
         "line": 11,
         "text": "good according to his desires of good & the other to evil according to his desires of",
-        "markdown": "{{good accordi}}ng to his desires ~~to~~ [of] good & the ~~others~~ [other] to evil according to his",
+        "markdown": "{{good accordi}}ng to his desires ~~to~~ [of] good & the ~~others~~ [other] to evil according to his desires of",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/134"
       },
       {
@@ -354,7 +354,7 @@
         "page": 134,
         "line": 22,
         "text": "now my Son all men that are in a state of Nature or I would say in a carnal state are",
-        "markdown": "now my Son all men that ~~I~~ [are] in a state of Nature or I would say in a carnal state",
+        "markdown": "now my Son all men that ~~I~~ [are] in a state of Nature or I would say in a carnal state are",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/134"
       },
       {
@@ -526,7 +526,7 @@
         "page": 135,
         "line": 3,
         "text": "justifieth him not at all",
-        "markdown": "~~tifies~~ [justifieth] him not at",
+        "markdown": "~~tifies~~ [justifieth] him not at all",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/135"
       }
     ]

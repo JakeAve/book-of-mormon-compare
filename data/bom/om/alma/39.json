@@ -141,7 +141,7 @@
         "page": 130,
         "line": 27,
         "text": "abominable above all sins save it be the sheding of inocent blood or",
-        "markdown": "abomin{{a}}ble above all sins save it {{be the}} ~~hedding~~ sheding of inocent blood",
+        "markdown": "abomin{{a}}ble above all sins save it {{be the}} ~~hedding~~ sheding of inocent blood or",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/130"
       },
       {
@@ -172,7 +172,7 @@
         "page": 130,
         "line": 29,
         "text": "th had place in you & ye know that ye deny it behold this is a sin which",
-        "markdown": "th had place in you & ye ~~no~~ know that ye deny it behold this is a sin",
+        "markdown": "th had place in you & ye ~~no~~ know that ye deny it behold this is a sin which",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/130"
       },
       {
@@ -180,7 +180,7 @@
         "page": 130,
         "line": 30,
         "text": "is unpardonable yea & whosoever murdereth against the light & knowledge",
-        "markdown": "{{i}}s unpardonable yea ~~&~~ & whosoever murdereth against the light &",
+        "markdown": "{{i}}s unpardonable yea ~~&~~ & whosoever murdereth against the light & knowledge",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/130"
       },
       {
@@ -196,7 +196,7 @@
         "page": 130,
         "line": 32,
         "text": "that it is not easy for him to obtain a forgiveness",
-        "markdown": "that it is not easy for him to ~~obtein~~ obtain a",
+        "markdown": "that it is not easy for him to ~~obtein~~ obtain a forgiveness",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/130"
       }
     ]
@@ -211,7 +211,6 @@
         "page": 130,
         "line": 32,
         "text": "& now my Son I wo",
-        "markdown": "forgiveness & now my Son I",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/130"
       },
       {
@@ -227,7 +226,7 @@
         "page": 130,
         "line": 34,
         "text": "ll upon your crimes to harrow up your Soul if it were not for your good",
-        "markdown": "ll upon your crimes ~~<​h​>~~ to harrow up your ~~cr~~Soul if it were not for your",
+        "markdown": "ll upon your crimes ~~<​h​>~~ to harrow up your ~~cr~~Soul if it were not for your good",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/130"
       }
     ]
@@ -342,7 +341,7 @@
         "page": 131,
         "line": 9,
         "text": "any vain or foolish thing suffer not that the Devil lead away your heart again",
-        "markdown": "any ~~fool~~ [vain] ~~of~~ [or] foolish thing suffer not that the D{{evil lead away}} yo{{ur",
+        "markdown": "any ~~fool~~ [vain] ~~of~~ [or] foolish thing suffer not that the D{{evil lead away}} yo{{ur heart again}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/131"
       },
       {
@@ -457,7 +456,7 @@
         "page": 131,
         "line": 18,
         "text": "you cannot carry them with you",
-        "markdown": "you cannot ~~come~~ [carry] them with",
+        "markdown": "you cannot ~~come~~ [carry] them with you",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/131"
       }
     ]
@@ -472,7 +471,6 @@
         "page": 131,
         "line": 18,
         "text": "& now my Son I would say somewhat unto you conc",
-        "markdown": "you & now my Son I would say somewhat unto you",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/131"
       },
       {
@@ -522,6 +520,7 @@
         "page": 131,
         "line": 23,
         "text": "Salvation might come unto them that they may prepare the minds of",
+        "markdown": "Salvation might come unto them that they may prepare the minds of ~~his <​him​> ch~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/131"
       },
       {

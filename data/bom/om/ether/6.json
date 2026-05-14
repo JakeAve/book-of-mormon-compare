@@ -122,7 +122,7 @@
         "page": 220,
         "line": 2,
         "text": "twenty & two souls & the number of the Sons & daughters of Jared were twelve he haveing four Sons",
-        "markdown": "{{twenty & two souls & the number of the Sons & dau}}ghters of ~~the~~ Jare{{d}} were tw{{elve he haveing four",
+        "markdown": "{{twenty & two souls & the number of the Sons & dau}}ghters of ~~the~~ Jare{{d}} were tw{{elve he haveing four Sons",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/220"
       }
     ]
@@ -137,7 +137,7 @@
         "page": 220,
         "line": 2,
         "text": "& it came to pass that they did number their People",
-        "markdown": "Sons & it came to pass}} that they did number their",
+        "markdown": "& it came to pass}} that they did number their People",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/220"
       },
       {

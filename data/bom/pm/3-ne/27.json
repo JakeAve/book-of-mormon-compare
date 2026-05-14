@@ -422,7 +422,7 @@
         "page": 409,
         "line": 38,
         "text": "they be good or whether they be evil",
-        "markdown": "they be good or ~~or~~ whether they be",
+        "markdown": "they be good or ~~or~~ whether they be evil",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/409"
       }
     ]
@@ -437,7 +437,6 @@
         "page": 409,
         "line": 38,
         "text": "& for this cause have I been lifted up therefore",
-        "markdown": "evil & for this cause have I been lifted up",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/409"
       },
       {
@@ -480,7 +479,7 @@
         "page": 410,
         "line": 3,
         "text": "him will I hold Guiltless before my Father at that day when I shall stand to ju",
-        "markdown": "him will I hold Guiltless before my Father at ~~the~~ that day when I shall stand to",
+        "markdown": "him will I hold Guiltless before my Father at ~~the~~ that day when I shall stand to ju",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/410"
       },
       {
@@ -537,7 +536,7 @@
         "page": 410,
         "line": 7,
         "text": "men & for this cause he fulfileth the words which he hath given & he lieth",
-        "markdown": "men & for this cause he ~~fulfils~~ fulfileth the words which he hath ~~spoken~~ given &",
+        "markdown": "men & for this cause he ~~fulfils~~ fulfileth the words which he hath ~~spoken~~ given & he lieth",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/410"
       },
       {
@@ -777,7 +776,7 @@
         "page": 410,
         "line": 25,
         "text": "that ye shall be judges of this People according to the judgment which I shall",
-        "markdown": "that ye shall be ~~judged~~ judges of this People according to the judgment which I",
+        "markdown": "that ye shall be ~~judged~~ judges of this People according to the judgment which I shall",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/410"
       },
       {

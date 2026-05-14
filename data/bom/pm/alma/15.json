@@ -16,7 +16,7 @@
         "page": 210,
         "line": 23,
         "text": "manded to depart out of that city & they departed & came out even into the",
-        "markdown": "manded to depart out of ~~the~~ [that] ~~land~~ [city] & they departed & came out even",
+        "markdown": "manded to depart out of ~~the~~ [that] ~~land~~ [city] & they departed & came out even into the",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/210"
       },
       {
@@ -277,7 +277,7 @@
         "page": 211,
         "line": 14,
         "text": "demption of christ thou canst be healed",
-        "markdown": "demption of christ thou canst ~~believe~~ [be",
+        "markdown": "demption of christ thou canst ~~believe~~ [be healed]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/211"
       }
     ]
@@ -292,7 +292,6 @@
         "page": 211,
         "line": 14,
         "text": "& he saith yea I believe according",
-        "markdown": "healed] & he saith yea I believe",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/211"
       },
       {

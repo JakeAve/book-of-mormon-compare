@@ -17,7 +17,7 @@
         "page": 36,
         "line": 37,
         "text": "& hear this O house of Jacob which arecalled by the name of",
-        "markdown": "& hear this O house of ~~I~~ Jacob which {{are}}called by the name",
+        "markdown": "& hear this O house of ~~I~~ Jacob which {{are}}called by the name of",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/36"
       },
       {
@@ -138,7 +138,7 @@
         "page": 37,
         "line": 9,
         "text": "fear least thou shouldest say mine idol hath done them & my graven ima",
-        "markdown": "fear least thou ~~shouldst~~ [shouldest] say mine idol hath done them & my graven",
+        "markdown": "fear least thou ~~shouldst~~ [shouldest] say mine idol hath done them & my graven ima",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/37"
       },
       {

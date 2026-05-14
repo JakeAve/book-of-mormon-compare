@@ -9,7 +9,7 @@
         "page": 80,
         "line": 9,
         "text": "& also Zeezrum",
-        "markdown": "be astonished}} &",
+        "markdown": "& also Z{{eezrum}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/80"
       }
     ]
@@ -337,7 +337,7 @@
         "page": 82,
         "line": 7,
         "text": "ds knowing good from evil placeing themselves in a state to actor being plased in a state <​to act​> according totheir wills & pleasures whether to do evil or to do good",
-        "markdown": "{{ds knowing good from evil placei}}ng themselves in a state to ac{{tor being plased in a state <​to act​> acco}}rding ~~to act~~ ~~accordi~~{{ totheir wills & pleasures whether to do}} evil or",
+        "markdown": "{{ds knowing good from evil placei}}ng themselves in a state to ac{{tor being plased in a state <​to act​> acco}}rding ~~to act~~ ~~accordi~~{{ totheir wills & pleasures whether to do}} evil or to do g{{ood therefore God gave unto them commandments}} afte{{r}} h{{aving made known}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/82"
       }
     ]
@@ -352,7 +352,6 @@
         "page": 82,
         "line": 7,
         "text": "therefore God gave unto them commandments after having made known",
-        "markdown": "to do g{{ood therefore God gave unto them commandments}} afte{{r}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/82"
       },
       {

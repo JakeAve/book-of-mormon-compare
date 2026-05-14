@@ -172,7 +172,7 @@
         "page": 452,
         "line": 36,
         "text": "& that a New Jerusalem should be built up upon this land unto the re",
-        "markdown": "& that a New Jerusalem should be built up upon this land ~~into~~ unto the",
+        "markdown": "& that a New Jerusalem should be built up upon this land ~~into~~ unto the re",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/452"
       },
       {
@@ -313,7 +313,7 @@
         "page": 453,
         "line": 8,
         "text": "& they are they which are numbered among the remnant of the seed of Joseph wh",
-        "markdown": "& they are they ~~are they~~ which are numbered among the remnant of the seed of",
+        "markdown": "& they are they ~~are they~~ which are numbered among the remnant of the seed of Joseph wh",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/453"
       },
       {
@@ -792,7 +792,7 @@
         "page": 454,
         "line": 6,
         "text": "& there was robbers in fine all manner of wickedness upon all the face of the land",
-        "markdown": "& there was ~~robbers~~ [robbers] in fine all manner of wickedness upon all the face of the",
+        "markdown": "& there was ~~robbers~~ [robbers] in fine all manner of wickedness upon all the face of the land",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/454"
       }
     ]
@@ -807,7 +807,6 @@
         "page": 454,
         "line": 6,
         "text": "& it came",
-        "markdown": "land & it",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/454"
       },
       {
@@ -822,7 +821,7 @@
         "page": 454,
         "line": 8,
         "text": "armies to battle & they did meet in great anger & they did meet in the vally of Gilgal",
-        "markdown": "armies to battle & they did meet in great anger & they did meet in ~~the~~ [the] vally of",
+        "markdown": "armies to battle & they did meet in great anger & they did meet in ~~the~~ [the] vally of Gilgal ~~&~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/454"
       },
       {
@@ -859,7 +858,7 @@
         "page": 454,
         "line": 11,
         "text": "came to the plains of Heshlon",
-        "markdown": "~~had~~ came to the plains of",
+        "markdown": "~~had~~ came to the plains of Heshlon",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/454"
       }
     ]
@@ -874,7 +873,6 @@
         "page": 454,
         "line": 11,
         "text": "& it came to pass that Shared gave him battle again upon",
-        "markdown": "Heshlon & it came to pass that Shared gave him battle again",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/454"
       },
       {
@@ -917,7 +915,7 @@
         "page": 454,
         "line": 14,
         "text": "& Shared wounded Coriantumr in his thigh that he did not go to battle aga",
-        "markdown": "& Shared wounded Coriantumr in ~~the~~ [his] thigh that he did not go to battle",
+        "markdown": "& Shared wounded Coriantumr in ~~the~~ [his] thigh that he did not go to battle aga",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/454"
       },
       {

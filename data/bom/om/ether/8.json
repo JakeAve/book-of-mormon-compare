@@ -149,7 +149,7 @@
         "page": 222,
         "line": 11,
         "text": "& it was the Daughter of Jared which put it into his heart",
-        "markdown": "& it}} was th{{e}} Daughter of Jared which put it into ~~him~~ [his]",
+        "markdown": "& it}} was th{{e}} Daughter of Jared which put it into ~~him~~ [his] heart",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/222"
       },
       {
@@ -157,7 +157,7 @@
         "page": 222,
         "line": 12,
         "text": "to search up these things of old & Jared put it into the heart of Akish wherefore Akish",
-        "markdown": "{{to search up these things of old}} & Jared put it ~~unto~~ [into] ~~his~~ [the] heart of Akish",
+        "markdown": "{{to search up these things of old}} & Jared put it ~~unto~~ [into] ~~his~~ [the] heart of Akish wherefore Aki{{s}}h",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/222"
       },
       {
@@ -165,7 +165,7 @@
         "page": 222,
         "line": 13,
         "text": "administered it unto his kindreds & friends leading them away by fair promises to do wh",
-        "markdown": "{{administered it unto his kindreds & friend}}s leading ~~him~~ [them] away by fair promises ~~be~~ [to]",
+        "markdown": "{{administered it unto his kindreds & friend}}s leading ~~him~~ [them] away by fair promises ~~be~~ [to] do wh",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/222"
       },
       {
@@ -196,7 +196,7 @@
         "page": 222,
         "line": 15,
         "text": "of old which combination is a most abominable & wicked above all in the sight",
-        "markdown": "{{of old which combination is a most abominab}}le ~~ab~~ [&] w{{ic}}ked above all in ~~sight~~",
+        "markdown": "{{of old which combination is a most abominab}}le ~~ab~~ [&] w{{ic}}ked above all in ~~sight~~ [the] {{sight",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/222"
       }
     ]
@@ -211,7 +211,7 @@
         "page": 222,
         "line": 15,
         "text": "of God for",
-        "markdown": "[the] {{sight of",
+        "markdown": "of God for}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/222"
       }
     ]

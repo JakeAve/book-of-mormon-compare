@@ -318,7 +318,7 @@
         "page": 4,
         "line": 21,
         "text": "ding fine & I saw that the blade thereof was of the most",
-        "markdown": "ding fine & I saw ~~then~~ [that] the blade thereof was of the",
+        "markdown": "ding fine & I saw ~~then~~ [that] the blade thereof was of the most",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/4"
       },
       {
@@ -389,7 +389,7 @@
         "page": 4,
         "line": 28,
         "text": "that he had sought to take away mine own life yea",
-        "markdown": "~~he~~ [that] he had sought to take away mine own life",
+        "markdown": "~~he~~ [that] he had sought to take away mine own life yea",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/4"
       },
       {
@@ -404,7 +404,7 @@
         "page": 4,
         "line": 30,
         "text": "the Lord & he also had taken away our property",
-        "markdown": "the Lord & he also had ~~lef~~ [taken] away our",
+        "markdown": "the Lord & he also had ~~lef~~ [taken] away our property",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/4"
       }
     ]
@@ -419,7 +419,6 @@
         "page": 4,
         "line": 30,
         "text": "&",
-        "markdown": "property",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/4"
       },
       {
@@ -581,7 +580,7 @@
         "page": 4,
         "line": 44,
         "text": "& again I knew that the Lord had delivered Laban into",
-        "markdown": "& again I knew that the Lord had delivered Laban ~~unto~~",
+        "markdown": "& again I knew that the Lord had delivered Laban ~~unto~~ [into]",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/4"
       },
       {
@@ -645,7 +644,7 @@
         "page": 4,
         "line": 49,
         "text": "smote off his head with his own sword I took the garmen",
-        "markdown": "smote off his ~~own~~ head with his own sword I took the",
+        "markdown": "smote off his ~~own~~ head with his own sword I took the garmen",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/4"
       },
       {
@@ -877,7 +876,7 @@
         "page": 5,
         "line": 14,
         "text": "I had Slew where fore he did follow me",
-        "markdown": "I had ~~had~~ Slew where fore he did follow",
+        "markdown": "I had ~~had~~ Slew where fore he did follow me",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/5"
       }
     ]
@@ -892,7 +891,6 @@
         "page": 5,
         "line": 14,
         "text": "and",
-        "markdown": "me",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/5"
       },
       {
@@ -949,7 +947,7 @@
         "page": 5,
         "line": 20,
         "text": "ns for they Supposd it was laban and that he had slain",
-        "markdown": "ns for they Supposd ~~is~~ [it] was laban and that he had",
+        "markdown": "ns for they Supposd ~~is~~ [it] was laban and that he had slain",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/5"
       },
       {
@@ -1076,7 +1074,7 @@
         "page": 5,
         "line": 31,
         "text": "Pass that i spake with him that if he would harken un",
-        "markdown": "Pass that i spake with ~~thin~~ [him] that if he would harken",
+        "markdown": "Pass that i spake with ~~thin~~ [him] that if he would harken un",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/5"
       },
       {

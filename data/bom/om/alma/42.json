@@ -9,7 +9,7 @@
         "page": 135,
         "line": 3,
         "text": "& now my Son I perceive there is somewhat more which doth worry",
-        "markdown": "all & now my Son I perceive {{there is somewhat more which doth",
+        "markdown": "& now my Son I perceive {{there is somewhat more which doth worry}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/135"
       },
       {
@@ -132,7 +132,7 @@
         "page": 135,
         "line": 13,
         "text": "was a time granted unto man to repent yea a probationary time a time to repent",
-        "markdown": "was a time granted unto ~~men~~ [man] to repent yea a probationary time {{a t}}ime {{to",
+        "markdown": "was a time granted unto ~~men~~ [man] to repent yea a probationary time {{a t}}ime {{to repent}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/135"
       },
       {
@@ -162,7 +162,7 @@
         "page": 135,
         "line": 15,
         "text": "tree of life he would have lived forever according to the word of God",
-        "markdown": "~~forbi~~ ~~forbiden fruit~~ tree of life he would have liv{{e}}d forever according to {{the",
+        "markdown": "~~forbi~~ ~~forbiden fruit~~ tree of life he would have liv{{e}}d forever according to {{the word of God}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/135"
       },
       {
@@ -337,7 +337,7 @@
         "page": 135,
         "line": 29,
         "text": "& now remember my Son if it were not for the plan of redemption laying it",
-        "markdown": "& now remember my Son if it were {{not}} for the plan of ~~sal~~ [redemption] laying",
+        "markdown": "& now remember my Son if it were {{not}} for the plan of ~~sal~~ [redemption] laying {{it}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/135"
       },
       {
@@ -375,7 +375,7 @@
         "page": 135,
         "line": 32,
         "text": "fallen state which man had brought upon himself because of his own disobe",
-        "markdown": "fallen state ~~whiich~~ [which] man had brought upon himself because of his own",
+        "markdown": "fallen state ~~whiich~~ [which] man had brought upon himself because of his own diso{{be}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/135"
       },
       {
@@ -397,7 +397,7 @@
         "page": 135,
         "line": 33,
         "text": "therefore according to justice the plan of redemption Could not be",
-        "markdown": "therefor[e] according to justice the plan of ~~redeem~~ redemption Could not",
+        "markdown": "therefor[e] according to justice the plan of ~~redeem~~ redemption Could not {{be}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/135"
       },
       {
@@ -593,7 +593,7 @@
         "page": 136,
         "line": 13,
         "text": "now if there was no law given if a man murdered he should die would he be a fraid he",
-        "markdown": "{{now if there was n}}o law given if a man murdered he should die would he ~~fear~~ [be a] fraid",
+        "markdown": "{{now if there was n}}o law given if a man murdered he should die would he ~~fear~~ [be a] fraid he",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/136"
       },
       {
@@ -681,6 +681,7 @@
         "page": 136,
         "line": 19,
         "text": "law inflicteth the punishment if not so the works of justice would be destroid &",
+        "markdown": "law inflicteth the punishment if not so the works of justice would be destroid & ~~h~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/136"
       },
       {
@@ -794,7 +795,7 @@
         "page": 136,
         "line": 27,
         "text": "& thus God bringeth about his great & eternal perposses which wa",
-        "markdown": "& thus God bringe{{th about}} his great & ~~eternity~~ [eternal] perposses which",
+        "markdown": "& thus God bringe{{th about}} his great & ~~eternity~~ [eternal] perposses which wa",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/136"
       },
       {
@@ -810,7 +811,7 @@
         "page": 136,
         "line": 29,
         "text": "redemption of men & also their destruction & miseary",
-        "markdown": "{{r}}edemption of men & also ~~there~~ their {{destr}}uction &",
+        "markdown": "{{r}}edemption of men & also ~~there~~ their {{destr}}uction & miseary",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/136"
       }
     ]
@@ -825,7 +826,6 @@
         "page": 136,
         "line": 29,
         "text": "therefore O my Son who",
-        "markdown": "miseary therefore O my Son",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/136"
       },
       {
@@ -985,7 +985,7 @@
         "page": 137,
         "line": 7,
         "text": "grant unto you yea even according to my words Amen",
-        "markdown": "grant unto [you] ~~ye~~ [yea] even according to my {{wor}}d{{s}}",
+        "markdown": "grant unto [you] ~~ye~~ [yea] even according to my {{wor}}d{{s}} Amen",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/137"
       }
     ]

@@ -310,7 +310,7 @@
         "page": 112,
         "line": 35,
         "text": "& I sayeh unto him believest",
-        "markdown": "& I ~~sayest~~ sayeh unto him",
+        "markdown": "& I ~~sayest~~ sayeh unto him believest",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/112"
       },
       {
@@ -423,7 +423,7 @@
         "page": 113,
         "line": 6,
         "text": "& I said what am I that I should tempt God to shew unto",
-        "markdown": "& I said ~~wa◊~~ [what] am I that I should tempt God to shew",
+        "markdown": "& I said ~~wa◊~~ [what] am I that I should tempt God to shew unto",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/113"
       },
       {
@@ -606,7 +606,7 @@
         "page": 113,
         "line": 22,
         "text": "truly testify of him & because that I have thus lied unto God I greatly fear lest my",
-        "markdown": "truly testify of him & because that I have ~~this~~ [thus] lied unto God I greatly fear lest",
+        "markdown": "truly testify of him & because that I have ~~this~~ [thus] lied unto God I greatly fear lest my",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/113"
       },
       {

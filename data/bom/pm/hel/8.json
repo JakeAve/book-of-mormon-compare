@@ -149,7 +149,7 @@
         "page": 350,
         "line": 37,
         "text": "condemn all this people even unto destruction yea & also that these our great cities",
-        "markdown": "condemn all this people even unto destruction yea & ~~also~~ [also] that these our great",
+        "markdown": "condemn all this people even unto destruction yea & ~~also~~ [also] that these our great cities",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/350"
       },
       {
@@ -200,7 +200,7 @@
         "page": 351,
         "line": 1,
         "text": "now it came to pass that thus",
-        "markdown": "now it came to pass that ~~the~~",
+        "markdown": "now it came to pass that ~~the~~ thus",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/351"
       },
       {
@@ -215,7 +215,7 @@
         "page": 351,
         "line": 3,
         "text": "for there were some which did cry out let this man alone for he is a good",
-        "markdown": "for there were some which did cry out let this man alone for he ~~a~~ is a",
+        "markdown": "for there were some which did cry out let this man alone for he ~~a~~ is a good",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/351"
       },
       {
@@ -223,7 +223,7 @@
         "page": 351,
         "line": 4,
         "text": "man & those things which he saieth will surely come to pass except we repent",
-        "markdown": "man & those things which he saieth ~~with~~ [will] surely come to pass except we",
+        "markdown": "man & those things which he saieth ~~with~~ [will] surely come to pass except we repent",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/351"
       }
     ]
@@ -238,7 +238,6 @@
         "page": 351,
         "line": 4,
         "text": "yea",
-        "markdown": "repent",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/351"
       },
       {
@@ -435,7 +434,7 @@
         "page": 351,
         "line": 22,
         "text": "ses which had such great power given unto him yea the words which he hath spoken con",
-        "markdown": "ses which ~~has~~ had such great power given unto him yea the words which he hath spoken",
+        "markdown": "ses which ~~has~~ had such great power given unto him yea the words which he hath spoken con",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/351"
       },
       {
@@ -611,7 +610,7 @@
         "page": 351,
         "line": 35,
         "text": "raham there hath been many prophets that hath testified these things",
-        "markdown": "raham ~~that~~ there hath been many prophets that hath testified these",
+        "markdown": "raham ~~that~~ there hath been many prophets that hath testified these things",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/351"
       },
       {

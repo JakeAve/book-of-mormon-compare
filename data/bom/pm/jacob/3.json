@@ -332,7 +332,7 @@
         "page": 103,
         "line": 24,
         "text": "em & also remember that ye may because of your filthiness bring your children un",
-        "markdown": "em & also remember that ye may ~~be◊cau~~ because of your filthiness bring your children",
+        "markdown": "em & also remember that ye may ~~be◊cau~~ because of your filthiness bring your children un",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/103"
       },
       {
@@ -410,7 +410,7 @@
         "page": 103,
         "line": 31,
         "text": "em the awful consequences of them",
-        "markdown": "em ~~of~~ the awful consequences of",
+        "markdown": "em ~~of~~ the awful consequences of them",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/103"
       }
     ]
@@ -425,7 +425,6 @@
         "page": 103,
         "line": 31,
         "text": "& a hundredth part of the procedings of this",
-        "markdown": "them & a hundredth part of the procedings of",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/103"
       },
       {

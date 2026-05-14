@@ -32,7 +32,7 @@
         "page": 397,
         "line": 26,
         "text": "& it was noised abroad among the people immediately before it was yet",
-        "markdown": "& it was noised abroad among the people immediately before it was ~~yet~~",
+        "markdown": "& it was noised abroad among the people immediately before it was ~~yet~~ [yet]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/397"
       },
       {
@@ -110,6 +110,7 @@
         "page": 397,
         "line": 33,
         "text": "And it came to pass that on the morrow when the",
+        "markdown": "And it came to pass that on the morrow when the ~~multidtue~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/397"
       },
       {
@@ -124,7 +125,7 @@
         "page": 397,
         "line": 35,
         "text": "sed from the dead whose name was Timothy & also his son whose name was",
-        "markdown": "sed from the dead whose name was Timothy & also his son whose name ~~was~~",
+        "markdown": "sed from the dead whose name was Timothy & also his son whose name ~~was~~ [was]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/397"
       },
       {
@@ -483,7 +484,7 @@
         "page": 398,
         "line": 21,
         "text": "And it came to pass that when they had all knelt down upon the earth he command",
-        "markdown": "And it came to pass that when they had all knelt ~~down~~ [down] upon the earth he",
+        "markdown": "And it came to pass that when they had all knelt ~~down~~ [down] upon the earth he command",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/398"
       },
       {
@@ -617,7 +618,7 @@
         "page": 398,
         "line": 30,
         "text": "thou seeest that they believe in me because thou hearest them and they",
-        "markdown": "thou seeest [that] they ~~<​that​>~~ believe in me because thou hearest them and",
+        "markdown": "thou seeest [that] they ~~<​that​>~~ believe in me because thou hearest them and they",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/398"
       },
       {
@@ -703,7 +704,7 @@
         "page": 398,
         "line": 38,
         "text": "for it was given unto them what they should pray and they were",
-        "markdown": "for it was given unto them what ~~their~~ they should pray and they",
+        "markdown": "for it was given unto them what ~~their~~ they should pray and they were",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/398"
       },
       {
@@ -753,7 +754,7 @@
         "page": 399,
         "line": 4,
         "text": "ments of Jesus and behold the whiteness thereof did exceed whit",
-        "markdown": "ments of Jesus and behold the whiteness thereof did exceed ~~the~~",
+        "markdown": "ments of Jesus and behold the whiteness thereof did exceed ~~the~~ whit",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/399"
       },
       {

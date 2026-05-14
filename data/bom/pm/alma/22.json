@@ -149,7 +149,7 @@
         "page": 230,
         "line": 27,
         "text": "& Aaron sayeth",
-        "markdown": "~~&~~ & Aaron",
+        "markdown": "~~&~~ & Aaron sayeth",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/230"
       },
       {
@@ -650,7 +650,7 @@
         "page": 232,
         "line": 11,
         "text": "O God Aaron hath told me that there is a God & if there is a God & if",
-        "markdown": "O God Aaron hath ~~said~~ [told] me that there is a God & if there is a God &",
+        "markdown": "O God Aaron hath ~~said~~ [told] me that there is a God & if there is a God & if",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/232"
       },
       {
@@ -959,7 +959,7 @@
         "page": 233,
         "line": 10,
         "text": "that they were pasified towards Aaron & those which were with",
-        "markdown": "that they were pasified towards Aaron & ~~his brethren~~ [those] which",
+        "markdown": "that they were pasified towards Aaron & ~~his brethren~~ [those] which were with",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/233"
       },
       {
@@ -1212,7 +1212,7 @@
         "page": 234,
         "line": 5,
         "text": "roid of whose bones we have spoken which was discovered by the people",
-        "markdown": "roid of whose bones we have spoken which was ~~destroid~~ [discovered] by the",
+        "markdown": "roid of whose bones we have spoken which was ~~destroid~~ [discovered] by the people",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/234"
       },
       {
@@ -1262,7 +1262,7 @@
         "page": 234,
         "line": 10,
         "text": "th all manner of wild animels of every kind a part of which had co",
-        "markdown": "th all ~~kind~~ [manner] of wild animels of every ~~king~~ kind a part of which",
+        "markdown": "th all ~~kind~~ [manner] of wild animels of every ~~king~~ kind a part of which had co",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/234"
       },
       {

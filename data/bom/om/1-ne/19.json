@@ -16,7 +16,7 @@
         "page": 34,
         "line": 25,
         "text": "me wherefore I did make plates of ore that I might engraven upon them",
-        "markdown": "me wherefore I did make plates of ore that I ~~miig~~ might engraven upon",
+        "markdown": "me wherefore I did make plates of ore that I ~~miig~~ might engraven upon them",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/34"
       },
       {
@@ -131,7 +131,7 @@
         "page": 34,
         "line": 37,
         "text": "se plates & that the things which were written should be cept [kept] for the instruction of my people which should possess the land & also for other wise",
-        "markdown": "se plates & that the things ~~wrer~~ [which] were written should be cept [kept] for the in{{str}}uction of my people which should possess the land & also for other",
+        "markdown": "se plates & that the things ~~wrer~~ [which] were written should be cept [kept] for the in{{str}}uction of my people which should possess the land & also for other w{{ise}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/34"
       },
       {
@@ -153,7 +153,7 @@
         "page": 35,
         "line": 1,
         "text": "wherefore I Nephi did make a record upon the other plates which gives an account or",
-        "markdown": "wherefore I Nephi ~~giv~~{{ d}}id make a record upon the other plates which gives an account",
+        "markdown": "wherefore I Nephi ~~giv~~{{ d}}id make a record upon the other plates which gives an account or",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/35"
       },
       {
@@ -248,7 +248,7 @@
         "page": 35,
         "line": 10,
         "text": "plates save it be that I think it be sacred & now if I do err even did they",
-        "markdown": "plates save it be that I ~~thing~~ [think] it be sacred & now if I do err even did",
+        "markdown": "plates save it be that I ~~thing~~ [think] it be sacred & now if I do err even did they",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/35"
       },
       {
@@ -333,7 +333,7 @@
         "page": 35,
         "line": 18,
         "text": "meth according to the words of the angel in six hundred years from the ti",
-        "markdown": "meth according to the words of the ~~anger~~ [angel] in six hundred years from the",
+        "markdown": "meth according to the words of the ~~anger~~ [angel] in six hundred years from the ti",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/35"
       },
       {
@@ -369,7 +369,7 @@
         "page": 35,
         "line": 21,
         "text": "it & they smite him & he suffereth it yea they spit upon him & he suffereth",
-        "markdown": "it & they smite him & he suffereth it ~~&~~ [yea] they spit upon him & he",
+        "markdown": "it & they smite him & he suffereth it ~~&~~ [yea] they spit upon him & he suffereth",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/35"
       },
       {
@@ -412,7 +412,7 @@
         "page": 35,
         "line": 25,
         "text": "Isaac & the God of Jacob yieldeth himself according to the words of the",
-        "markdown": "Isaac & the God of ~~Isa~~ Jacob yieldeth himself according to the words of",
+        "markdown": "Isaac & the God of ~~Isa~~ Jacob yieldeth himself according to the words of the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/35"
       },
       {
@@ -448,7 +448,7 @@
         "page": 35,
         "line": 30,
         "text": "his death unto them who should inhabit the isles of the",
-        "markdown": "{{hi}}s death unto them ~~whosshoull~~ who should ~~inhabed~~ inhabit the isles",
+        "markdown": "{{hi}}s death unto them ~~whosshoull~~ who should ~~inhabed~~ inhabit the isles of the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/35"
       },
       {
@@ -456,7 +456,7 @@
         "page": 35,
         "line": 31,
         "text": "Sea more espesially given unto them which are of the house of Israel",
-        "markdown": "~~◊f the~~ Sea more espesially given unto them which are of the house",
+        "markdown": "~~◊f the~~ Sea more espesially given unto them which are of the house of Israel",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/35"
       }
     ]
@@ -567,7 +567,7 @@
         "page": 36,
         "line": 3,
         "text": "rged by all People saith the prophet because they crucified the God of Israel",
-        "markdown": "rged by all People saith the prophet because ~~of~~ they crucified the God of",
+        "markdown": "rged by all People saith the prophet because ~~of~~ they crucified the God of Israel",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/36"
       },
       {
@@ -582,7 +582,7 @@
         "page": 36,
         "line": 5,
         "text": "God of Israel",
-        "markdown": "God ~~of~~ of",
+        "markdown": "God ~~of~~ of Israel",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/36"
       }
     ]
@@ -597,7 +597,6 @@
         "page": 36,
         "line": 5,
         "text": "& because they have turned their hearts aside saith the prophet",
-        "markdown": "Israel & because they have turned their hearts aside saith the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/36"
       },
       {
@@ -661,7 +660,7 @@
         "page": 36,
         "line": 10,
         "text": "yea then will he remember the isles of the Sea",
-        "markdown": "yea ~~there~~ [then] will he remember the isles of the",
+        "markdown": "yea ~~there~~ [then] will he remember the isles of the Sea",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/36"
       },
       {
@@ -676,7 +675,7 @@
         "page": 36,
         "line": 12,
         "text": "Lord according to the words of the prophet from the four quarters of the",
-        "markdown": "Lord according to the words of the prophet~~s~~ ~~◊Zenos~~ from the four quarters of",
+        "markdown": "Lord according to the words of the prophet~~s~~ ~~◊Zenos~~ from the four quarters of the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/36"
       },
       {
@@ -811,7 +810,7 @@
         "page": 36,
         "line": 21,
         "text": "of old all things concening them & also he did shew unto many conce",
-        "markdown": "of old ~~concerning~~ all things concening them & also he did shew unto many",
+        "markdown": "of old ~~concerning~~ all things concening them & also he did shew unto many conce",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/36"
       },
       {
@@ -819,7 +818,7 @@
         "page": 36,
         "line": 22,
         "text": "rning us wherefore it must needs be that we know Concerming them",
-        "markdown": "rning us wherefore ~~we~~ it must needs be that we know Concerming",
+        "markdown": "rning us wherefore ~~we~~ it must needs be that we know Concerming them",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/36"
       },
       {
@@ -883,7 +882,7 @@
         "page": 36,
         "line": 28,
         "text": "ch were in the Books of Moses but that I might more fully persuade them",
-        "markdown": "ch were in the Books of Moses but that I ~~may~~ [might] more fully persuade",
+        "markdown": "ch were in the Books of Moses but that I ~~may~~ [might] more fully persuade them",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/36"
       },
       {

@@ -102,7 +102,7 @@
         "page": 9,
         "line": 35,
         "text": "to suppose that they and also meny of their seed will",
-        "markdown": "to suppose that they and also meny of ~~them~~ [their] seed",
+        "markdown": "to suppose that they and also meny of ~~them~~ [their] seed will",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/9"
       },
       {
@@ -132,7 +132,7 @@
         "page": 9,
         "line": 37,
         "text": "gly becaus of you for behold me thaught i saw a dark",
-        "markdown": "gly becaus of you for behold me ~~thot~~ [thaught] [i] saw a",
+        "markdown": "gly becaus of you for behold me ~~thot~~ [thaught] [i] saw a dark",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/9"
       },
       {
@@ -231,7 +231,7 @@
         "page": 9,
         "line": 44,
         "text": "and after that i had traveled for the space of men",
-        "markdown": "and after that i had traveled for the space [of] ~~for~~",
+        "markdown": "and after that i had traveled for the space [of] ~~for~~ men",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/9"
       },
       {
@@ -274,7 +274,7 @@
         "page": 9,
         "line": 48,
         "text": "pass that after i had praid unto the lord i beheld",
-        "markdown": "pass that ~~I~~ after i had praid unto the lord [i]",
+        "markdown": "pass that ~~I~~ after i had praid unto the lord [i] beheld",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/9"
       },
       {
@@ -380,7 +380,7 @@
         "page": 10,
         "line": 4,
         "text": "ding great joy wherefore i began to be desirus that my family",
-        "markdown": "ding great joy wherefore i began to be desirus that my [family]",
+        "markdown": "ding great joy wherefore i began to be desirus that my [family] ~~fanily~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/10"
       },
       {
@@ -739,6 +739,7 @@
         "page": 10,
         "line": 36,
         "text": "to pass that there arose a mist of darkness yea",
+        "markdown": "to pass that there arose a mist of darkness yea ~~an~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/10"
       },
       {
@@ -760,7 +761,7 @@
         "page": 10,
         "line": 39,
         "text": "their way that they wanderd of[f] and ware lost and",
-        "markdown": "their way that they ~~d~~ wanderd of[f] and ware lost",
+        "markdown": "their way that they ~~d~~ wanderd of[f] and ware lost and",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/10"
       }
     ]
@@ -775,7 +776,6 @@
         "page": 10,
         "line": 39,
         "text": "it",
-        "markdown": "and it",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/10"
       },
       {
@@ -867,6 +867,7 @@
         "page": 10,
         "line": 48,
         "text": "and beheld on the other side of the river of water",
+        "markdown": "and beheld on the other side of the river of water ~~of~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/10"
       },
       {
@@ -874,7 +875,7 @@
         "page": 10,
         "line": 49,
         "text": "a great and spesious [spacious] bilding and it",
-        "markdown": "~~water of water~~ a great and spesious [spacious]",
+        "markdown": "~~water of water~~ a great and spesious [spacious] bilding and it",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/10"
       },
       {
@@ -1071,6 +1072,7 @@
         "page": 11,
         "line": 14,
         "text": "it came to pass that menny were drownd in the",
+        "markdown": "it came to pass that menny were drownd in the ~~d~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/11"
       }
     ]
@@ -1092,7 +1094,7 @@
         "page": 11,
         "line": 16,
         "text": "his wiew wandring in strang roads",
-        "markdown": "~~My view~~ his wiew wandring in",
+        "markdown": "~~My view~~ his wiew wandring in strang roads",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/11"
       }
     ]
@@ -1107,7 +1109,6 @@
         "page": 11,
         "line": 16,
         "text": "and",
-        "markdown": "strang",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/11"
       },
       {
@@ -1157,6 +1158,7 @@
         "page": 11,
         "line": 22,
         "text": "her for as many as heded them had",
+        "markdown": "her for as many as heded them had ~~to fall in their~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/11"
       },
       {

@@ -16,6 +16,7 @@
         "page": 14,
         "line": 14,
         "text": "an end of prophesying concerning his seed it came to pass that the Lord spake",
+        "markdown": "an end of prophesying concerning his seed it came to pass that the Lord spake ~~un~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/14"
       },
       {
@@ -65,7 +66,7 @@
         "page": 14,
         "line": 19,
         "text": "my Brethren should again return into the land of Jerusalem & bring down",
-        "markdown": "my Brethren should again return ~~unto~~ into the land of Jerusalem & bring",
+        "markdown": "my Brethren should again return ~~unto~~ into the land of Jerusalem & bring down",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/14"
       },
       {
@@ -192,7 +193,7 @@
         "page": 14,
         "line": 29,
         "text": "Ishmael & his wife & his three other daughters",
-        "markdown": "Ishmael & his ~~sons~~ wife & his three ~~Sons~~",
+        "markdown": "Ishmael & his ~~sons~~ wife & his three ~~Sons~~ other daughters",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/14"
       }
     ]
@@ -207,7 +208,6 @@
         "page": 14,
         "line": 29,
         "text": "& it came to pass in the which",
-        "markdown": "other daughters & it came to pass in",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/14"
       },
       {
@@ -588,7 +588,7 @@
         "page": 15,
         "line": 24,
         "text": "that they were angery with me again & sought to lay hands upon me bu",
-        "markdown": "~~& I stood before m)~~ that they were angery with me again & sought to",
+        "markdown": "~~& I stood before m)~~ that they were angery with me again & sought to lay hands upon me bu",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/15"
       },
       {

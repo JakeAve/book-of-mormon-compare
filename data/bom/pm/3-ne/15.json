@@ -30,6 +30,7 @@
         "page": 391,
         "line": 13,
         "text": "at the last day And it came to pass that when Jesus had said these words he",
+        "markdown": "at the last day And it came to pass that when Jesus had said these words he ~~pese~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/391"
       }
     ]
@@ -261,7 +262,7 @@
         "page": 391,
         "line": 30,
         "text": "commandments & this is the law & the prophets for they truly testified of me",
-        "markdown": "commandments & this is the law & the prophets for they truly ~~testify~~ [testified] of",
+        "markdown": "commandments & this is the law & the prophets for they truly ~~testify~~ [testified] of me",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/391"
       }
     ]
@@ -276,7 +277,6 @@
         "page": 391,
         "line": 30,
         "text": "And now it came to pass that when Jesus had spoken these",
-        "markdown": "me And now it came to pass that when Jesus had spoken",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/391"
       },
       {
@@ -326,7 +326,7 @@
         "page": 391,
         "line": 33,
         "text": "& behold this is the land of your inheritance &",
-        "markdown": "& behold this is the land of your inheritance ~~&~~",
+        "markdown": "& behold this is the land of your inheritance ~~&~~ [&]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/391"
       },
       {
@@ -607,7 +607,7 @@
         "page": 392,
         "line": 16,
         "text": "& they understood me not that I said they shall hear my voice & they",
-        "markdown": "& they understood me not that I said they shall hear ~~my~~ [my voice] &",
+        "markdown": "& they understood me not that I said they shall hear ~~my~~ [my voice] & they",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/392"
       },
       {
@@ -623,7 +623,7 @@
         "page": 392,
         "line": 18,
         "text": "that I should not manifest myself unto them save it were by the Holy Ghost",
-        "markdown": "that I should not ~~at~~ manifest myself unto them save it were by the Holy",
+        "markdown": "that I should not ~~at~~ manifest myself unto them save it were by the Holy Ghost",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/392"
       }
     ]

@@ -9,7 +9,7 @@
         "page": 60,
         "line": 22,
         "text": "Behold it came to pass that I Nephi did cry much unto the Lord my God be",
-        "markdown": "—— Behold it came to pass that I Nephi did cry much unto the Lord my God",
+        "markdown": "—— Behold it came to pass that I Nephi did cry much unto the Lord my God be",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/60"
       },
       {
@@ -164,7 +164,7 @@
         "page": 60,
         "line": 34,
         "text": "elder Brother & his family & Jacob & Josep my younger Brethren & also my",
-        "markdown": "elder Brother & his family & Jacob & Josep ~~mine~~ [my] younger Brethren & also",
+        "markdown": "elder Brother & his family & Jacob & Josep ~~mine~~ [my] younger Brethren & also my",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/60"
       },
       {
@@ -179,7 +179,7 @@
         "page": 60,
         "line": 36,
         "text": "me were theye which believed in the warnings & the revelations of God",
-        "markdown": "me were theye which ~~would go~~ [believed] in the warnings & the revelations",
+        "markdown": "me were theye which ~~would go~~ [believed] in the warnings & the revelations of God",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/60"
       },
       {
@@ -348,7 +348,7 @@
         "page": 61,
         "line": 11,
         "text": "of the Lord according to that which is written",
-        "markdown": "of the Lord according to that ~~whch~~ [which] is",
+        "markdown": "of the Lord according to that ~~whch~~ [which] is written",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/61"
       }
     ]
@@ -363,7 +363,6 @@
         "page": 61,
         "line": 11,
         "text": "& it came to pass that we began to prosper",
-        "markdown": "written & it came to pass that we began to",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/61"
       },
       {
@@ -385,7 +384,7 @@
         "page": 61,
         "line": 12,
         "text": "& I Nephi did take the sword of Laban &",
-        "markdown": "& I Nephi did take the ~~sword~~ [sword] of Laban",
+        "markdown": "& I Nephi did take the ~~sword~~ [sword] of Laban &",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/61"
       },
       {
@@ -463,7 +462,7 @@
         "page": 61,
         "line": 19,
         "text": "after the manner of the Temple of Solomon save it were not built of so many",
-        "markdown": "after the manner of the Temple of Solomon save it were not ~~build~~ built of so",
+        "markdown": "after the manner of the Temple of Solomon save it were not ~~build~~ built of so many",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/61"
       },
       {

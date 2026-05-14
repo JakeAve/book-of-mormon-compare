@@ -137,7 +137,7 @@
         "page": 122,
         "line": 10,
         "text": "teachers did not let the People know concerning their desires therefore they",
-        "markdown": "{{teachers did not let the}} People ~~now <​know​>~~ know concerning their desires",
+        "markdown": "{{teachers did not let the}} People ~~now <​know​>~~ know concerning their desires therefore they",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/122"
       },
       {
@@ -167,7 +167,7 @@
         "page": 122,
         "line": 12,
         "text": "had found out the minds of all the People those which were in favor of the words which",
-        "markdown": "{{had found out the minds of al}}l the People ~~these~~ [those] which ~~are~~ [were] in favor of the",
+        "markdown": "{{had found out the minds of al}}l the People ~~these~~ [those] which ~~are~~ [were] in favor of the words which",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/122"
       },
       {
@@ -243,7 +243,7 @@
         "page": 122,
         "line": 18,
         "text": "them that they should cast out of their land all those which came over from them",
-        "markdown": "them that they should cast out of their land all those which ~~come~~ [came] over from",
+        "markdown": "them that they should cast out of their land all those which ~~come~~ [came] over from them",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/122"
       },
       {
@@ -273,7 +273,7 @@
         "page": 122,
         "line": 20,
         "text": "ple of Ammon did not fear their words therefore they did not cast them out",
-        "markdown": "ple of Ammon did not fear their words therefore they did not cast them ~~un~~",
+        "markdown": "ple of Ammon did not fear their words therefore they did not cast them ~~un~~ [out]",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/122"
       },
       {
@@ -281,7 +281,7 @@
         "page": 122,
         "line": 21,
         "text": "but they did receive all the poor of the Zoramites that came over unto them &",
-        "markdown": "but they did receive all the poor of the Zoramites that came over unto ~~their~~ [them]",
+        "markdown": "but they did receive all the poor of the Zoramites that came over unto ~~their~~ [them] &",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/122"
       },
       {
@@ -289,7 +289,7 @@
         "page": 122,
         "line": 22,
         "text": "they did nourish them & did cloathe them & did give unto them lands for their",
-        "markdown": "they did nourish ~~their~~ [them] & did cloathe them & did give unto them lands for",
+        "markdown": "they did nourish ~~their~~ [them] & did cloathe them & did give unto them lands for their",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/122"
       },
       {
@@ -413,7 +413,7 @@
         "page": 122,
         "line": 31,
         "text": "armies of the Lamanites & the armies of the Zoramites & thus commenced a",
-        "markdown": "armies of the Lamanites & the armies of the Zoramites & thus commenced [a]",
+        "markdown": "armies of the Lamanites & the armies of the Zoramites & thus commenced [a] ~~the~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/122"
       },
       {
@@ -594,6 +594,7 @@
         "page": 123,
         "line": 13,
         "text": "Chapter",
+        "markdown": "Chapter {{}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/123"
       },
       {
@@ -601,7 +602,7 @@
         "page": 123,
         "line": 14,
         "text": "The Commadments of Alma to his Son Helaman",
-        "markdown": "The Commadments of Alma to his Son {{He}}laman",
+        "markdown": "The Commadments of Alma to his Son {{He}}laman {{}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/123"
       }
     ]

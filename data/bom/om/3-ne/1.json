@@ -9,7 +9,7 @@
         "page": 204,
         "line": 1,
         "text": "his Sons",
-        "markdown": "& his",
+        "markdown": "his Sons }}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/204"
       },
       {
@@ -32,7 +32,7 @@
         "page": 204,
         "line": 2,
         "text": "Helaman",
-        "markdown": "of}}",
+        "markdown": "of}} H{{elaman}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/204"
       },
       {
@@ -286,7 +286,7 @@
         "page": 206,
         "line": 1,
         "text": "but it came to pass thatthey soon became converted & were convinsed of the error which they were in for it wasmade known unto them that the law was not yet fulfiled & that it must be fulfiled inevery whit yea the word came unto them that it must be fulfiled yea that one jotnor tittle should not pass away till it should all be fulfiled therefore in this sameyear were they brought to a Knowledge of their error & did confess their faults",
-        "markdown": "but it came to pass thatthey soon became converted & w}}ere convinsed of the error wh{{ich they were in for it wasmade known unto them that the la}}w was not yet fulfil{{e}}d & that it m{{ust be fulfiled inevery whit yea the word}} came u{{nto}} them that it must be fulf{{iled yea that one jotnor tittle should not pass a}}way till ~~is~~ [it] should all be fulf{{iled}} the{{refore in this sameyear were they brought to a}} Knowledge of th{{eir error}} & d{{id}} confes{{s their",
+        "markdown": "but it came to pass thatthey soon became converted & w}}ere convinsed of the error wh{{ich they were in for it wasmade known unto them that the la}}w was not yet fulfil{{e}}d & that it m{{ust be fulfiled inevery whit yea the word}} came u{{nto}} them that it must be fulf{{iled yea that one jotnor tittle should not pass a}}way till ~~is~~ [it] should all be fulf{{iled}} the{{refore in this sameyear were they brought to a}} Knowledge of th{{eir error}} & d{{id}} confes{{s their faults",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/206"
       }
     ]
@@ -301,7 +301,7 @@
         "page": 206,
         "line": 1,
         "text": "& thusthe ninety & second year did pass away bringing glad tidings unto the People becauseof the Signs which did come to pass according to the words of the Prophesy ofall the holy Prophets",
-        "markdown": "faults & thusthe ninety & second year did p}}ass away bring{{in}}g glad tidings {{unto the People becauseof the Signs which did com}}e to pass ac{{co}}rding to the wo{{rds of the Prophesy ofall the holy",
+        "markdown": "& thusthe ninety & second year did p}}ass away bring{{in}}g glad tidings {{unto the People becauseof the Signs which did com}}e to pass ac{{co}}rding to the wo{{rds of the Prophesy ofall the holy Prophets",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/206"
       }
     ]
@@ -316,7 +316,7 @@
         "page": 206,
         "line": 1,
         "text": "& it came to pass that the ninety & third year did also pass",
-        "markdown": "Prophets & it came to p}}ass th{{at the ninety & third year did also",
+        "markdown": "& it came to p}}ass th{{at the ninety & third year did also pass}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/206"
       }
     ]

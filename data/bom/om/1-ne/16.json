@@ -9,7 +9,7 @@
         "page": 26,
         "line": 6,
         "text": "& now it came to pass that after I Nephi had made an end of",
-        "markdown": "~~now~~ [&] now it came to pass that [after] I Nephi had made an end",
+        "markdown": "~~now~~ [&] now it came to pass that [after] I Nephi had made an end of",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/26"
       },
       {
@@ -316,7 +316,7 @@
         "page": 26,
         "line": 32,
         "text": "& within the ball was two spindles & the one pointed the way whither we should",
-        "markdown": "& within the ball was two spindles & the one pointed the way whither ~~they~~ [we]",
+        "markdown": "& within the ball was two spindles & the one pointed the way whither ~~they~~ [we] should",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/26"
       },
       {
@@ -324,7 +324,7 @@
         "page": 26,
         "line": 33,
         "text": "go into the wilderness",
-        "markdown": "~~◊e~~ go into the",
+        "markdown": "~~◊e~~ go into the wilderness",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/26"
       }
     ]
@@ -339,7 +339,6 @@
         "page": 26,
         "line": 33,
         "text": "& it came to pass that we did gather together whatsoev",
-        "markdown": "wilderness & it came to pass that we did gather together",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/26"
       },
       {
@@ -398,7 +397,7 @@
         "page": 26,
         "line": 37,
         "text": "Laman & itcame to pass that we traveled for the space of four days nearly a southsouth east direction & we did pitch our tents again & we did call the name",
-        "markdown": "~~Lemuel~~ Laman & {{itca}}me to pass that we traveled for the space of four days nearly a so{{uthsou}}th east direction & we did pitch our tents again & we did call the",
+        "markdown": "~~Lemuel~~ Laman & {{itca}}me to pass that we traveled for the space of four days nearly a so{{uthsou}}th east direction & we did pitch our tents again & we did call the name",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/26"
       },
       {
@@ -939,7 +938,7 @@
         "page": 28,
         "line": 1,
         "text": "slay wild beasts insomuch that I did obtain food for our families",
-        "markdown": "{{slay}} ~~bea~~ wild beasts insomuch that I did obtain food for our",
+        "markdown": "{{slay}} ~~bea~~ wild beasts insomuch that I did obtain food for our families",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/28"
       }
     ]
@@ -954,7 +953,6 @@
         "page": 28,
         "line": 1,
         "text": "& it came to pass",
-        "markdown": "families & it came to",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/28"
       },
       {
@@ -1195,7 +1193,7 @@
         "page": 28,
         "line": 21,
         "text": "to pass that the Lord was with us yea even the woice of the Lord came & did speak many",
-        "markdown": "to pass that the Lord was with us yea even the woice of the Lord came ~~unto~~ & did speak",
+        "markdown": "to pass that the Lord was with us yea even the woice of the Lord came ~~unto~~ & did speak many",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/28"
       },
       {

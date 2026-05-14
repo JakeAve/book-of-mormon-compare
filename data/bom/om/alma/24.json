@@ -88,7 +88,7 @@
         "page": 94,
         "line": 28,
         "text": "he should be their king therefore they took up arms against the People",
-        "markdown": "~~they~~ he sho{{uld be their king theref}}ore they took up arms against the",
+        "markdown": "~~they~~ he sho{{uld be their king theref}}ore they took up arms against the People",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/94"
       },
       {
@@ -227,7 +227,7 @@
         "page": 95,
         "line": 8,
         "text": "Brethren nay they would not even make any preperations for war yea & also",
-        "markdown": "Brethren [nay] ~~mey~~ they would not even mak{{e}} any p{{reperations for war yea &",
+        "markdown": "Brethren [nay] ~~mey~~ they would not even mak{{e}} any p{{reperations for war yea & also}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/95"
       },
       {
@@ -543,7 +543,7 @@
         "page": 95,
         "line": 34,
         "text": "forehand because he loveth our souls as well as he loveth our children",
-        "markdown": "forehand because he ~~loves~~ [loveth] our souls as well as he lov{{eth our",
+        "markdown": "forehand because he ~~loves~~ [loveth] our souls as well as he lov{{eth our children}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/95"
       },
       {
@@ -653,7 +653,7 @@
         "page": 96,
         "line": 10,
         "text": "brethren destroy us <​behold​> we shall go to our God & shall be saved",
-        "markdown": "{{brethren destroy us <​behold​> we shall}} go to our God ~~I~~ & shall be",
+        "markdown": "{{brethren destroy us <​behold​> we shall}} go to our God ~~I~~ & shall be saved",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/96"
       }
     ]
@@ -668,7 +668,6 @@
         "page": 96,
         "line": 10,
         "text": "& now it came to pass",
-        "markdown": "saved & now it came to",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/96"
       },
       {
@@ -707,7 +706,7 @@
         "page": 96,
         "line": 13,
         "text": "& thus they did it being",
-        "markdown": "& ~~this~~ [thus] they did it",
+        "markdown": "& ~~this~~ [thus] they did it being",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/96"
       },
       {
@@ -854,7 +853,7 @@
         "page": 96,
         "line": 27,
         "text": "the people saw that they were comeing against them they went out to me",
-        "markdown": "{{the peo}}pl{{e s}}aw ~~th~~ that they we{{re comeing against}} them they went out to",
+        "markdown": "{{the peo}}pl{{e s}}aw ~~th~~ that they we{{re comeing against}} them they went out to me",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/96"
       },
       {
@@ -862,7 +861,7 @@
         "page": 96,
         "line": 28,
         "text": "et them & prostraded themselves before them to the earth & began to call",
-        "markdown": "{{et them & prostr}}aded themselv{{es before them}} to the ~~ea~~ earth & began to",
+        "markdown": "{{et them & prostr}}aded themselv{{es before them}} to the ~~ea~~ earth & began to call",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/96"
       },
       {
@@ -870,7 +869,7 @@
         "page": 96,
         "line": 29,
         "text": "on the name of the Lord & thus they were in this attitude when",
-        "markdown": "{{on the name of the}} Lord & thus they were in this ~~attitudl~~ attitude",
+        "markdown": "{{on the name of the}} Lord & thus they were in this ~~attitudl~~ attitude when",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/96"
       },
       {
@@ -947,7 +946,7 @@
         "page": 97,
         "line": 1,
         "text": "to the right hand or to the left but that they would lay down & perish &",
-        "markdown": "~~be~~ [to] the right hand or to the left but th{{at they would lay down & perish",
+        "markdown": "~~be~~ [to] the right hand or to the left but th{{at they would lay down & perish &}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/97"
       },
       {
@@ -986,7 +985,7 @@
         "page": 97,
         "line": 4,
         "text": "ose hearts had swollen in them for those of their brethren who had",
-        "markdown": "ose hearts had swollen in them ~~when~~ for th{{ose of their brethren who",
+        "markdown": "ose hearts had swollen in them ~~when~~ for th{{ose of their brethren who had}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/97"
       },
       {
@@ -1033,7 +1032,7 @@
         "page": 97,
         "line": 8,
         "text": "me down even as their Brethren relying upon the mercies of those whose",
-        "markdown": "me ~~dow n~~ down even as their Brethren relying {{upon the mercies of",
+        "markdown": "me ~~dow n~~ down even as their Brethren relying {{upon the mercies of those whose}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/97"
       },
       {
@@ -1131,7 +1130,7 @@
         "page": 97,
         "line": 15,
         "text": "now the greatest number of those of the Lamanites which slew so",
-        "markdown": "now the ~~largest~~ [greatest] number of those of the {{Lamanites which slew",
+        "markdown": "now the ~~largest~~ [greatest] number of those of the {{Lamanites which slew so}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/97"
       },
       {
@@ -1231,7 +1230,7 @@
         "page": 97,
         "line": 24,
         "text": "as tho they had never known these things",
-        "markdown": "as tho ~~they~~ they had never k{{nown these",
+        "markdown": "as tho ~~they~~ they had never k{{nown these things",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/97"
       }
     ]

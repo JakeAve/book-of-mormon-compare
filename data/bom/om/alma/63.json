@@ -9,7 +9,7 @@
         "page": 192,
         "line": 4,
         "text": "it came to pass in the <​com​>mencement of the thirty & sixth year of the Reign of the Judges over the",
-        "markdown": "it came to pass in the <​com​>}}[mencement of the] thirty & sixth year of the Reign ~~the~~ [of] the Judges over ~~<​t​>he~~",
+        "markdown": "it came to pass in the <​com​>}}[mencement of the] thirty & sixth year of the Reign ~~the~~ [of] the Judges over ~~<​t​>he~~ [the]",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/192"
       },
       {
@@ -70,6 +70,7 @@
         "page": 192,
         "line": 8,
         "text": "& it came to pass that",
+        "markdown": "& it came to pass that ~~he~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/192"
       },
       {
@@ -273,7 +274,7 @@
         "page": 192,
         "line": 25,
         "text": "& it came to pass that in this year there were many People went forth into the",
-        "markdown": "{{& it}} came to pass that in ~~the~~ [this] year there were many People went forth into",
+        "markdown": "{{& it}} came to pass that in ~~the~~ [this] year there were many People went forth into the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/192"
       },
       {
@@ -516,6 +517,7 @@
         "page": 193,
         "line": 12,
         "text": "The Book of Helaman",
+        "markdown": "The Book of Helaman {{}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/193"
       },
       {
@@ -523,6 +525,7 @@
         "page": 193,
         "line": 13,
         "text": "Chapter",
+        "markdown": "Chapter {{}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/193"
       }
     ]

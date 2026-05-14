@@ -17,7 +17,7 @@
         "page": 125,
         "line": 18,
         "text": "the Records which have been entrusted with me",
-        "markdown": "the ~~reck~~ Records which have been entrusted with",
+        "markdown": "the ~~reck~~ Records which have been entrusted with me",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/125"
       }
     ]
@@ -32,7 +32,7 @@
         "page": 125,
         "line": 18,
         "text": "& I also command you that ye",
-        "markdown": "me & I also command {{y}}ou that",
+        "markdown": "& I also command {{y}}ou that ye",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/125"
       },
       {
@@ -40,7 +40,7 @@
         "page": 125,
         "line": 19,
         "text": "shall keep a Record of this People according as I have done upon the plates of Nephi & keep",
-        "markdown": "shall keep a Record of ~~the~~ [this] People according as I have done upon the plates of Nephi &",
+        "markdown": "shall keep a Record of ~~the~~ [this] People according as I have done upon the plates of Nephi & keep",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/125"
       },
       {
@@ -149,7 +149,7 @@
         "page": 125,
         "line": 28,
         "text": "in their brightness yea & they will retain their brightness yea & also shall all the",
-        "markdown": "in ~~there~~ [their] brightness yea & they {{will retain th}}eir brightness yea & also shall all",
+        "markdown": "in ~~there~~ [their] brightness yea & they {{will retain th}}eir brightness yea & also shall all the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/125"
       },
       {
@@ -157,7 +157,7 @@
         "page": 125,
         "line": 29,
         "text": "plates which do contain that which is holy writ",
-        "markdown": "plates which do contain tha{{t which is}} holy ~~wrt~~",
+        "markdown": "plates which do contain tha{{t which is}} holy ~~wrt~~ writ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/125"
       }
     ]
@@ -172,7 +172,7 @@
         "page": 125,
         "line": 29,
         "text": "now ye may suppose",
-        "markdown": "writ now ye may",
+        "markdown": "now ye may suppo{{se}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/125"
       },
       {
@@ -218,7 +218,7 @@
         "page": 125,
         "line": 33,
         "text": "ns to bring about his great & eternal purposes & by verry small",
-        "markdown": "ns to bring about his great & eternal purposes & by ~~smal~~ verry",
+        "markdown": "ns to bring about his great & eternal purposes & by ~~smal~~ verry small",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/125"
       },
       {
@@ -247,7 +247,7 @@
         "page": 125,
         "line": 35,
         "text": "& now it hath hitherto been wisdom in God that these things",
-        "markdown": "& now it hath ~~be~~ hitherto been wisdom in God that these",
+        "markdown": "& now it hath ~~be~~ hitherto been wisdom in God that these things",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/125"
       },
       {
@@ -262,7 +262,7 @@
         "page": 126,
         "line": 1,
         "text": "for behold they have enlarged the memory of this People yea & convinced",
-        "markdown": "{{for behold they have enlarged the}} memory of ~~the~~ [this] People yea &",
+        "markdown": "{{for behold they have enlarged the}} memory of ~~the~~ [this] People yea & convinced",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/126"
       },
       {
@@ -293,7 +293,7 @@
         "page": 126,
         "line": 3,
         "text": "yea I say unto you were it not for",
-        "markdown": "yea I ~~sayeth~~ say unto you were it not",
+        "markdown": "yea I ~~sayeth~~ say unto you were it not for",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/126"
       },
       {
@@ -407,7 +407,7 @@
         "page": 126,
         "line": 12,
         "text": "is known unto God fore he doth counsel in wisdom over all his works & his",
-        "markdown": "{{is known u}}nto God fore {{he d}}oth counsel in wisdom over all ~~him~~ [his] ~~words~~ [works]",
+        "markdown": "{{is known u}}nto God fore {{he d}}oth counsel in wisdom over all ~~him~~ [his] ~~words~~ [works] & his",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/126"
       },
       {
@@ -452,7 +452,7 @@
         "page": 126,
         "line": 16,
         "text": "keep not his commandments ye shall be cut off from his presance",
-        "markdown": "keep not his ~~presance~~ commandments ye shall be cut off from his",
+        "markdown": "keep not his ~~presance~~ commandments ye shall be cut off from his presance",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/126"
       }
     ]
@@ -544,7 +544,7 @@
         "page": 126,
         "line": 24,
         "text": "ye keep the commandments of God & do with these things which are sacr",
-        "markdown": "~~we~~ [ye] keep the commandments of G{{od & do w}}ith~~e~~ these things which are",
+        "markdown": "~~we~~ [ye] keep the commandments of G{{od & do w}}ith~~e~~ these things which are sacr",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/126"
       },
       {
@@ -568,7 +568,7 @@
         "page": 126,
         "line": 27,
         "text": "hold no power of Earth or Hell can take them from you for God is po",
-        "markdown": "hold no power of Earth ~~of~~ [or] Hel{{l can}} take them from you for God is",
+        "markdown": "hold no power of Earth ~~of~~ [or] Hel{{l can}} take them from you for God is po",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/126"
       },
       {
@@ -597,7 +597,7 @@
         "page": 126,
         "line": 29,
         "text": "which he shall make unto you for he hath fulfiled his promise which he h",
-        "markdown": "which he shall make unto you for he ~~has~~ [hath] fulfiled his promise which he",
+        "markdown": "which he shall make unto you for he ~~has~~ [hath] fulfiled his promise which he h",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/126"
       },
       {
@@ -605,7 +605,7 @@
         "page": 126,
         "line": 30,
         "text": "ath made unto our fothers",
-        "markdown": "~~ath~~ath made~~e~~ unto our fother[s]",
+        "markdown": "~~ath~~ath made~~e~~ unto our fother[s] ~~f~~ for he",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/126"
       }
     ]
@@ -620,7 +620,7 @@
         "page": 126,
         "line": 30,
         "text": "for he promised unto them that he would p",
-        "markdown": "~~f~~ for he promised unto them that he would",
+        "markdown": "promised unto them that he would p",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/126"
       },
       {
@@ -741,7 +741,7 @@
         "page": 127,
         "line": 9,
         "text": "tions may be made manifest unto this People yea & that ye preserve these directors",
-        "markdown": "tions may be ~~manifest~~ [made ] manifest unto [t]his People yea {{& th}}at ye pres{{erve",
+        "markdown": "tions may be ~~manifest~~ [made ] manifest unto [t]his People yea {{& th}}at ye pres{{erve these directors}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/127"
       }
     ]
@@ -764,7 +764,7 @@
         "page": 127,
         "line": 11,
         "text": "murders & abominations therefor the Lord said if they did not repent they should",
-        "markdown": "murders & ~~amon~~ abominations therefor the Lord said if they did not repen{{t they",
+        "markdown": "murders & ~~amon~~ abominations therefor the Lord said if they did not repen{{t they should}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/127"
       },
       {
@@ -810,7 +810,7 @@
         "page": 127,
         "line": 15,
         "text": "ethren yea their secret works their works of darkness & their wickedness & abominations",
-        "markdown": "ethren yea their secret works ~~there~~ [their] works of darkness & their wickedness &",
+        "markdown": "ethren yea their secret works ~~there~~ [their] works of darkness & their wickedness & {{abominations}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/127"
       }
     ]
@@ -882,7 +882,7 @@
         "page": 127,
         "line": 20,
         "text": "& now my Son we see that they",
-        "markdown": "& now my Son we see ~~the~~ [that]",
+        "markdown": "& now my Son we see ~~the~~ [that] they",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/127"
       },
       {
@@ -942,7 +942,7 @@
         "page": 127,
         "line": 26,
         "text": "em not lest paradventure they should fall into darkness also & be destroid",
-        "markdown": "em not ~~th~~ lest paradventure th{{ey shoul}}d fall into darkness also & be",
+        "markdown": "em not ~~th~~ lest paradventure th{{ey shoul}}d fall into darkness also & be destroid",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/127"
       }
     ]
@@ -965,7 +965,7 @@
         "page": 127,
         "line": 28,
         "text": "ose workers of darkness according to the power of God when they are fuly ripe therefore",
-        "markdown": "ose workers of darkness according t{{o t}}he pow{{er}} of God when they are fuly ripe ~~&~~",
+        "markdown": "ose workers of darkness according t{{o t}}he pow{{er}} of God when they are fuly ripe ~~&~~ therefor{{e}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/127"
       },
       {
@@ -996,7 +996,7 @@
         "page": 127,
         "line": 30,
         "text": "ns of their Oaths & their covenants from this People & only their wickedness & there",
-        "markdown": "ns of their Oaths & their covenants from this People & ~~on~~ only their wickedness &",
+        "markdown": "ns of their Oaths & their covenants from this People & ~~on~~ only their wickedness & ther{{e}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/127"
       },
       {
@@ -1094,7 +1094,7 @@
         "page": 128,
         "line": 4,
         "text": "ret combinations even unto destruction except they repent before they are fully ripe",
-        "markdown": "{{ret combinations even unto destructio}}n except they repent before they are ~~fuly~~ [fully]",
+        "markdown": "{{ret combinations even unto destructio}}n except they repent before they are ~~fuly~~ [fully] ripe",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/128"
       }
     ]
@@ -1109,7 +1109,6 @@
         "page": 128,
         "line": 4,
         "text": "& now",
-        "markdown": "ripe &",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/128"
       },
       {
@@ -1275,7 +1274,7 @@
         "page": 128,
         "line": 16,
         "text": "good yea when thou liest down at night lie down unto the Lord that he m",
-        "markdown": "{{go}}od y{{ea}} when thou liest down at night lie down ~~with~~ [unto] the Lord that he",
+        "markdown": "{{go}}od y{{ea}} when thou liest down at night lie down ~~with~~ [unto] the Lord that he m",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/128"
       },
       {
@@ -1298,7 +1297,7 @@
         "page": 128,
         "line": 19,
         "text": "ted up at the last day",
-        "markdown": "ted ~~up~~ up at the last",
+        "markdown": "ted ~~up~~ up at the last day",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/128"
       }
     ]
@@ -1313,7 +1312,6 @@
         "page": 128,
         "line": 19,
         "text": "& now my Son I have somewhat to say concerning the",
-        "markdown": "day & now my Son I have somewhat to say concerning",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/128"
       },
       {
@@ -1328,7 +1326,7 @@
         "page": 128,
         "line": 21,
         "text": "Liahona which is being interpeted a compass & the Lord prep",
-        "markdown": "Liahona which is being ~~interpreted~~ interpeted a compass & the Lord",
+        "markdown": "Liahona which is being ~~interpreted~~ interpeted a compass & the Lord prep",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/128"
       },
       {
@@ -1392,7 +1390,7 @@
         "page": 128,
         "line": 26,
         "text": "cause that those spindles should point the way they should go behold it was",
-        "markdown": "cause that those spindles should {{point}} [the] ~~tow~~ way they should go behold it",
+        "markdown": "cause that those spindles should {{point}} [the] ~~tow~~ way they should go behold it was",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/128"
       },
       {
@@ -1400,7 +1398,7 @@
         "page": 128,
         "line": 27,
         "text": "done therefore they had this miracle & also many other miracles wrought by the po",
-        "markdown": "done therefore they had this m{{iracle}} & also many other miracles ~~work~~ [wrought] by the",
+        "markdown": "done therefore they had this m{{iracle}} & also many other miracles ~~work~~ [wrought] by the po",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/128"
       },
       {
@@ -1540,7 +1538,7 @@
         "page": 129,
         "line": 3,
         "text": "head to this Compass which would point unto them a strait course to the promised land",
-        "markdown": "head to ~~the~~ [this] Compass which would point unto them {{a strait course to the promised",
+        "markdown": "head to ~~the~~ [this] Compass which would point unto them {{a strait course to the promised land}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/129"
       }
     ]
@@ -1555,7 +1553,7 @@
         "page": 129,
         "line": 4,
         "text": "& now I say is there not a type in this thing for just as suredly as this director did br",
-        "markdown": "& now I say is there not a type ~~it~~ [in] this thing for just {{as suredly as this director did",
+        "markdown": "& now I say is there not a type ~~it~~ [in] this thing for just {{as suredly as this director did br}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/129"
       },
       {
@@ -1594,7 +1592,7 @@
         "page": 129,
         "line": 8,
         "text": "our Fathers for so was it prepared for them that if they would look they might live",
-        "markdown": "our Fathers for so was it prepared for them that ~~of~~ [if] they {{would look they might",
+        "markdown": "our Fathers for so was it prepared for them that ~~of~~ [if] they {{would look they might live}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/129"
       },
       {
@@ -1633,7 +1631,7 @@
         "page": 129,
         "line": 12,
         "text": "The Commadments of Alma to his Son Shiblon",
-        "markdown": "The Commadments of Alma to his S{{o}}n Shibl{{on",
+        "markdown": "The Commadments of Alma to his S{{o}}n Shibl{{on }}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/129"
       }
     ]

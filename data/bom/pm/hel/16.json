@@ -16,7 +16,7 @@
         "page": 365,
         "line": 36,
         "text": "of Samuel the Lamanite which he spake upon the walls of the City & as many as",
-        "markdown": "of Samuel the ~~Lamanites~~ Lamanite which he spake upon the walls of the City & as many",
+        "markdown": "of Samuel the ~~Lamanites~~ Lamanite which he spake upon the walls of the City & as many as",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/365"
       },
       {
@@ -243,7 +243,7 @@
         "page": 366,
         "line": 18,
         "text": "lay their hands on him behold he did cast himself down from the wall & did flee out of their hands",
-        "markdown": "lay their hands on him behold he did cast himself down [from the wall] & did flee out of their ~~hands~~",
+        "markdown": "lay their hands on him behold he did cast himself down [from the wall] & did flee out of their ~~hands~~ [hands]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/366"
       },
       {
@@ -427,7 +427,7 @@
         "page": 366,
         "line": 31,
         "text": "men wise men & did declare unto them glad tidings of great joy & thus in this year",
-        "markdown": "men wise men & did declare unto them glad tidings of great ~~go~~ [joy] & thus in this",
+        "markdown": "men wise men & did declare unto them glad tidings of great ~~go~~ [joy] & thus in this year",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/366"
       },
       {

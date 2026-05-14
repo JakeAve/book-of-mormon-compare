@@ -310,7 +310,7 @@
         "page": 197,
         "line": 21,
         "text": "the angel said unto me he is a holy man wherefore I know he is a holy man",
-        "markdown": "the angel said ~~into~~ unto me he is a holy man wherefore I know he is a holy",
+        "markdown": "the angel said ~~into~~ unto me he is a holy man wherefore I know he is a holy man",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/197"
       },
       {
@@ -726,7 +726,7 @@
         "page": 198,
         "line": 21,
         "text": "the voice of his Angels repent ye repent for the Kingdom of heaven is at hand",
-        "markdown": "the voice of his Angels repent ye repent ~~ye~~ for the Kingdom of heaven is at",
+        "markdown": "the voice of his Angels repent ye repent ~~ye~~ for the Kingdom of heaven is at hand",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/198"
       }
     ]
@@ -888,7 +888,7 @@
         "page": 198,
         "line": 35,
         "text": "ing O ye wicked and perverse Generation why hath Satan got such great hold",
-        "markdown": "ing O ye wicked and perverse Generation why ~~has~~ hath Satan got such great",
+        "markdown": "ing O ye wicked and perverse Generation why ~~has~~ hath Satan got such great hold",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/198"
       },
       {
@@ -994,7 +994,7 @@
         "page": 199,
         "line": 8,
         "text": "now we know that this man is a child of the Devil for he hath lieed unto",
-        "markdown": "now we know that this man is a child of the Devil for he hath ~~hath~~ [lieed]",
+        "markdown": "now we know that this man is a child of the Devil for he hath ~~hath~~ [lieed] unto",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/199"
       },
       {

@@ -354,7 +354,7 @@
         "page": 264,
         "line": 15,
         "text": "& thus ended the",
-        "markdown": "& ~~this~~ thus ended",
+        "markdown": "& ~~this~~ thus ended the",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/264"
       },
       {
@@ -404,7 +404,7 @@
         "page": 264,
         "line": 20,
         "text": "ed a war betwixt the Lamanites & the Nephites in the eighteeth year of the",
-        "markdown": "ed a war ~~between~~ betwixt the Lamanites & the Nephites in the eighteeth year of",
+        "markdown": "ed a war ~~between~~ betwixt the Lamanites & the Nephites in the eighteeth year of the",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/264"
       },
       {
@@ -412,7 +412,7 @@
         "page": 264,
         "line": 21,
         "text": "reign of the Judges & an account shall be given of their wars",
-        "markdown": "reign of the Judges & an account shall be given ~~hereafter~~ of their",
+        "markdown": "reign of the Judges & an account shall be given ~~hereafter~~ of their wars",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/264"
       },
       {
@@ -553,7 +553,7 @@
         "page": 264,
         "line": 36,
         "text": "unto righteousness. & we have an account of his",
-        "markdown": "unto righteousness. & we have an ~~accoun~~ account of",
+        "markdown": "unto righteousness. & we have an ~~accoun~~ account of his",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/264"
       },
       {
@@ -582,7 +582,7 @@
         "page": 265,
         "line": 2,
         "text": "The Commandment of Alma to his Son Helaman—",
-        "markdown": "—— The Commandment of Alma to his Son",
+        "markdown": "—— The Commandment of Alma to his Son Helaman—",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/265"
       }
     ]

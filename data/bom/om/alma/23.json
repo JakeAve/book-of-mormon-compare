@@ -345,7 +345,7 @@
         "page": 94,
         "line": 1,
         "text": "they did not fight against God no more neither against any of their brethrennow",
-        "markdown": "{{they did not fight against God no mor}}e neither against any of ~~them~~ [their]",
+        "markdown": "{{they did not fight against God no mor}}e neither against any of ~~them~~ [their] {{brethrennow",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/94"
       }
     ]
@@ -360,7 +360,7 @@
         "page": 94,
         "line": 1,
         "text": "these are they which were converted unto the Lord",
-        "markdown": "{{brethrennow these are they which were conv}}erted unto the",
+        "markdown": "these are they which were conv}}erted unto the Lord",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/94"
       }
     ]
@@ -375,7 +375,7 @@
         "page": 94,
         "line": 1,
         "text": "the People of the Lamaniteswhich were in the land of Ishmael",
-        "markdown": "Lord the People of {{the Lamaniteswhich were in the land of",
+        "markdown": "the People of {{the Lamaniteswhich were in the land of Ishmael}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/94"
       }
     ]
@@ -390,7 +390,7 @@
         "page": 94,
         "line": 1,
         "text": "& also of the people of the Lamanites whichwere in the land of Middoni",
-        "markdown": "Ishmael}} & also of the ~~Peop~~ people of the Lam{{anites whichwere in the land",
+        "markdown": "& also of the ~~Peop~~ people of the Lam{{anites whichwere in the land of Middoni",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/94"
       }
     ]
@@ -405,7 +405,7 @@
         "page": 94,
         "line": 1,
         "text": "& also of the People of the Lamanites which were in the",
-        "markdown": "of Middoni & also of}} the People of the Lamanites which w{{ere",
+        "markdown": "& also of}} the People of the Lamanites which w{{ere i}}n the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/94"
       },
       {
@@ -505,7 +505,7 @@
         "page": 94,
         "line": 8,
         "text": "Lamanites in that part of the land whitheersoever they dwelt yea & all",
-        "markdown": "{{Lamanites in that part of the lan}}d ~~whee~~ whitheersoever they dwelt yea &",
+        "markdown": "{{Lamanites in that part of the lan}}d ~~whee~~ whitheersoever they dwelt yea & all",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/94"
       },
       {

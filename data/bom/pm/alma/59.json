@@ -44,6 +44,7 @@
         "page": 323,
         "line": 20,
         "text": "yea & he did make it known unto all his people in all the land",
+        "markdown": "yea & he did make it known unto all his people in all the land ~~round~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/323"
       },
       {
@@ -121,7 +122,7 @@
         "page": 323,
         "line": 27,
         "text": "lay a plan that he might obtain the remainder of those possessions & cities which",
-        "markdown": "lay a plan that he might obtain the remainder of those possessions & cities ~~which~~",
+        "markdown": "lay a plan that he might obtain the remainder of those possessions & cities ~~which~~ [which]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/323"
       },
       {
@@ -319,7 +320,7 @@
         "page": 324,
         "line": 8,
         "text": "places which he had recovered",
-        "markdown": "~~cities~~ places which he had",
+        "markdown": "~~cities~~ places which he had recovered",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/324"
       }
     ]
@@ -334,7 +335,6 @@
         "page": 324,
         "line": 8,
         "text": "& now when Moroni saw that the city of",
-        "markdown": "recovered & now when Moroni saw that the city",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/324"
       },
       {
@@ -405,7 +405,7 @@
         "page": 324,
         "line": 14,
         "text": "the goverment because of their indifferance concerning the freedom of their country",
-        "markdown": "the goverment because of ~~the~~ [their] indifferance concerning the freedom of their",
+        "markdown": "the goverment because of ~~the~~ [their] indifferance concerning the freedom of their country",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/324"
       }
     ]

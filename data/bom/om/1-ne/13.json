@@ -213,6 +213,7 @@
         "page": 18,
         "line": 18,
         "text": "& the Angel spake unto me saying",
+        "markdown": "& the Angel spake unto me saying ~~beh~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/18"
       },
       {
@@ -255,6 +256,7 @@
         "page": 18,
         "line": 22,
         "text": "& also for the praise of the",
+        "markdown": "& also for the praise of the ~~w~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/18"
       },
       {
@@ -297,7 +299,7 @@
         "page": 18,
         "line": 26,
         "text": "the seed of my Brethren",
-        "markdown": "the seed of my ~~Brethers~~",
+        "markdown": "the seed of my ~~Brethers~~ [Brethren]",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/18"
       }
     ]
@@ -312,7 +314,6 @@
         "page": 18,
         "line": 26,
         "text": "& it came to pass that the",
-        "markdown": "[Brethren] & it came to pass that",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/18"
       },
       {
@@ -328,7 +329,7 @@
         "page": 18,
         "line": 28,
         "text": "on the seed of thy Brethren",
-        "markdown": "on the seed of ~~my~~ [thy]",
+        "markdown": "on the seed of ~~my~~ [thy] Brethren",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/18"
       }
     ]
@@ -343,7 +344,6 @@
         "page": 18,
         "line": 28,
         "text": "& I looked & Beheld a",
-        "markdown": "Brethren & I looked & Beheld",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/18"
       },
       {
@@ -414,7 +414,7 @@
         "page": 18,
         "line": 36,
         "text": "it wrought upon other gentiles & they went for",
-        "markdown": "it wrought upon ~~of~~ [other] gentiles [&] they went",
+        "markdown": "it wrought upon ~~of~~ [other] gentiles [&] they went for",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/18"
       },
       {
@@ -450,7 +450,7 @@
         "page": 18,
         "line": 39,
         "text": "gentiles upon the land of promise & I Beheld",
-        "markdown": "gentiles ~~int~~ [upon] the land of promise & I",
+        "markdown": "gentiles ~~int~~ [upon] the land of promise & I Beheld",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/18"
       },
       {
@@ -558,7 +558,7 @@
         "page": 18,
         "line": 50,
         "text": "them",
-        "markdown": "~~then~~",
+        "markdown": "~~then~~ [them]",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/18"
       }
     ]
@@ -573,7 +573,6 @@
         "page": 18,
         "line": 50,
         "text": "& I Beheld that their mother gentiles was",
-        "markdown": "[them] & I Beheld that their mother gentiles",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/18"
       },
       {
@@ -602,7 +601,7 @@
         "page": 18,
         "line": 52,
         "text": "& I Beheld that the",
-        "markdown": "& I Beheld ~~the~~ [that]",
+        "markdown": "& I Beheld ~~the~~ [that] the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/18"
       },
       {
@@ -638,7 +637,7 @@
         "page": 19,
         "line": 1,
         "text": "& I Nephi Beheld that",
-        "markdown": "& I Nephi Beheld ~~the~~",
+        "markdown": "& I Nephi Beheld ~~the~~ [that]",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/19"
       },
       {
@@ -653,7 +652,7 @@
         "page": 19,
         "line": 3,
         "text": "were delivered by the power of God out of the",
-        "markdown": "were delivered ~~of~~ [by] the power of God out of",
+        "markdown": "were delivered ~~of~~ [by] the power of God out of the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/19"
       },
       {
@@ -689,7 +688,7 @@
         "page": 19,
         "line": 6,
         "text": "Land & I Beheld A Book & it was carried forth",
-        "markdown": "Land & I Beheld ~~it~~ [A] Book ~~it~~ [&] it was",
+        "markdown": "Land & I Beheld ~~it~~ [A] Book ~~it~~ [&] it was carried forth",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/19"
       },
       {
@@ -844,7 +843,7 @@
         "page": 19,
         "line": 20,
         "text": "& the Ange",
-        "markdown": "& the ~~gen~~",
+        "markdown": "& the ~~gen~~ [Ange]",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/19"
       },
       {
@@ -1128,7 +1127,7 @@
         "page": 19,
         "line": 50,
         "text": "the gentiles & after it goeth forth unto all the",
-        "markdown": "the gentiles & after it ~~giveth~~ [goeth] forth unto all",
+        "markdown": "the gentiles & after it ~~giveth~~ [goeth] forth unto all the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/19"
       },
       {
@@ -1230,7 +1229,7 @@
         "page": 20,
         "line": 9,
         "text": "nevertheless thou beholdest that the",
-        "markdown": "nevertheless thou beholdest ~~the~~ [that]",
+        "markdown": "nevertheless thou beholdest ~~the~~ [that] the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/20"
       },
       {
@@ -1245,7 +1244,7 @@
         "page": 20,
         "line": 11,
         "text": "& have been lifted up by the power of God",
-        "markdown": "& have been ~~listed~~ [lifted] up ~~above~~ by the power",
+        "markdown": "& have been ~~listed~~ [lifted] up ~~above~~ by the power of God",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/20"
       },
       {
@@ -1275,7 +1274,7 @@
         "page": 20,
         "line": 15,
         "text": "thy father that his seed shoud have for the land",
-        "markdown": "thy father that ~~this~~ [his] seed shoud have for the",
+        "markdown": "thy father that ~~this~~ [his] seed shoud have for the land",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/20"
       },
       {
@@ -1325,7 +1324,7 @@
         "page": 20,
         "line": 20,
         "text": "he suffer that the gentiles shall destroy the seed",
-        "markdown": "he suffer that the gentiles ~~will~~ [shall] destroy the",
+        "markdown": "he suffer that the gentiles ~~will~~ [shall] destroy the seed",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/20"
       },
       {
@@ -1354,7 +1353,7 @@
         "page": 20,
         "line": 22,
         "text": "that the gentiles shall forever remain in that",
-        "markdown": "that the gentiles shall forever ~~retain~~ [remain] in",
+        "markdown": "that the gentiles shall forever ~~retain~~ [remain] in that",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/20"
       },
       {
@@ -1369,7 +1368,7 @@
         "page": 20,
         "line": 24,
         "text": "that they are in because of the plain & most",
-        "markdown": "that they are in because of the ~~great~~ [plain] &",
+        "markdown": "that they are in because of the ~~great~~ [plain] & most",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/20"
       },
       {
@@ -1476,7 +1475,7 @@
         "page": 20,
         "line": 37,
         "text": "Judgement & smiten them by the hand of",
-        "markdown": "Judgement & smiten ~~<​him​>~~ them by the hand",
+        "markdown": "Judgement & smiten ~~<​him​>~~ them by the hand of",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/20"
       },
       {
@@ -1498,7 +1497,7 @@
         "page": 20,
         "line": 40,
         "text": "& precious parts of the gosple of the",
-        "markdown": "& ~~pre <​most​>~~ precious parts of the gosple",
+        "markdown": "& ~~pre <​most​>~~ precious parts of the gosple of the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/20"
       },
       {
@@ -1600,7 +1599,7 @@
         "page": 20,
         "line": 52,
         "text": "& precious & after that they seed shall be destroy",
-        "markdown": "& precious & after that ~~thy~~ [they] seed shall be",
+        "markdown": "& precious & after that ~~thy~~ [they] seed shall be destroy",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/20"
       },
       {
@@ -1608,7 +1607,7 @@
         "page": 20,
         "line": 53,
         "text": "ed & dwindle in unbelief & also the seed of",
-        "markdown": "ed & dwindle in unbelief ~~I~~ [&] also the seed",
+        "markdown": "ed & dwindle in unbelief ~~I~~ [&] also the seed of",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/20"
       },
       {

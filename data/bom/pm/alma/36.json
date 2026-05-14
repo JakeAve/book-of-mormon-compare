@@ -606,7 +606,7 @@
         "page": 266,
         "line": 14,
         "text": "my joy yea",
-        "markdown": "my ~~joy~~ [joy]",
+        "markdown": "my ~~joy~~ [joy] yea",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/266"
       }
     ]
@@ -621,7 +621,6 @@
         "page": 266,
         "line": 14,
         "text": "& me thought I saw even as our father Lehi saw God sitting upon",
-        "markdown": "yea & me thought I saw even as our father Lehi saw God sitting",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/266"
       },
       {

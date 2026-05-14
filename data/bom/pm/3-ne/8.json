@@ -80,7 +80,7 @@
         "page": 380,
         "line": 21,
         "text": "gn which had been given by the prophet Samuel the Lamanite yea for the time that there sh",
-        "markdown": "gn which had been ~~given~~ [given] by the prophet Samuel the Lamanite yea for the ~~sign~~ [time] that",
+        "markdown": "gn which had been ~~given~~ [given] by the prophet Samuel the Lamanite yea for the ~~sign~~ [time] that there sh",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/380"
       },
       {
@@ -613,7 +613,7 @@
         "page": 381,
         "line": 18,
         "text": "that it did last for the space of three days that there was no light seen & there was gre",
-        "markdown": "that it did last for the space of three ~~days~~ [days] that there was no light seen & there was",
+        "markdown": "that it did last for the space of three ~~days~~ [days] that there was no light seen & there was gre",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/381"
       },
       {
@@ -657,6 +657,7 @@
         "page": 381,
         "line": 22,
         "text": "& terrible day & then would our brethren have been spared & they would not have",
+        "markdown": "& terrible day & then would our brethren have been spared & they would not have ~~be~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/381"
       },
       {
@@ -699,7 +700,7 @@
         "page": 381,
         "line": 26,
         "text": "our children have been spared & not have been buried up in that great City Moronihah",
-        "markdown": "our children have been spared & not have been ~~burned~~ [buried] up in that great City",
+        "markdown": "our children have been spared & not have been ~~burned~~ [buried] up in that great City Moronihah",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/381"
       },
       {

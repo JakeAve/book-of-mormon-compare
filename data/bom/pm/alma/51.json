@@ -532,7 +532,7 @@
         "page": 302,
         "line": 26,
         "text": "the Govornor of the land desireing that he should head it & give him Moro",
-        "markdown": "the ~~Chief~~ Govornor of the land desireing that he should head it & give him",
+        "markdown": "the ~~Chief~~ Govornor of the land desireing that he should head it & give him Moro",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/302"
       },
       {
@@ -631,6 +631,7 @@
         "page": 302,
         "line": 35,
         "text": "insomuch that as they did lift their weapons of war to fight against the",
+        "markdown": "insomuch that as they did lift their weapons of war to fight against the ~~men~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/302"
       },
       {
@@ -1054,7 +1055,7 @@
         "page": 303,
         "line": 33,
         "text": "but behold he met with a disapointment by",
-        "markdown": "but behold he met with a disapointment ~~of~~",
+        "markdown": "but behold he met with a disapointment ~~of~~ [by]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/303"
       },
       {
@@ -1070,7 +1071,7 @@
         "page": 303,
         "line": 35,
         "text": "of Teancum did excede the Lamanites in their strength & in their skill",
-        "markdown": "of Teancum did excede ~~did excede~~ the Lamanites in their strength & in",
+        "markdown": "of Teancum did excede ~~did excede~~ the Lamanites in their strength & in their skill",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/303"
       },
       {
@@ -1148,7 +1149,7 @@
         "page": 304,
         "line": 5,
         "text": "forth & went out by night & went into the camp of Amalickiah & behold sleep",
-        "markdown": "~~away~~ [forth &] went out by night & went into the camp of Amalickiah & behold",
+        "markdown": "~~away~~ [forth &] went out by night & went into the camp of Amalickiah & behold sleep",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/304"
       },
       {
@@ -1268,6 +1269,7 @@
         "page": 304,
         "line": 15,
         "text": "Chapter XXIV——",
+        "markdown": "Chapter XXIV—— And now it came to pass in the twenty & sixth",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/304"
       }
     ]

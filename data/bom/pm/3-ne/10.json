@@ -44,7 +44,7 @@
         "page": 383,
         "line": 10,
         "text": "the people that they did cease lamenting & howling for the loss of their kindreds which had been slain",
-        "markdown": "the people that they did [cease] ~~from~~ [lamenting &] howling for the loss of their kindreds which had been",
+        "markdown": "the people that they did [cease] ~~from~~ [lamenting &] howling for the loss of their kindreds which had been slain",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/383"
       },
       {
@@ -136,7 +136,7 @@
         "page": 383,
         "line": 17,
         "text": "the house of Israel which have fallen yea O ye people of the house of Israel ye that dwell",
-        "markdown": "the house of Israel which have ~~falllen~~ [fallen] yea O ye people of the house of Israel ye that",
+        "markdown": "the house of Israel which have ~~falllen~~ [fallen] yea O ye people of the house of Israel ye that dwell",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/383"
       },
       {
@@ -256,7 +256,7 @@
         "page": 383,
         "line": 26,
         "text": "darkness dispersed from off the face of the land & the earth did cease to tremble & the rocks",
-        "markdown": "darkness ~~did pass~~ [dispersed] from off the face of the land & the earth did cease to tremble &",
+        "markdown": "darkness ~~did pass~~ [dispersed] from off the face of the land & the earth did cease to tremble & the rocks",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/383"
       },
       {
@@ -286,7 +286,7 @@
         "page": 383,
         "line": 28,
         "text": "& the earth did cleave together again that it stood & the mourning & the weep",
-        "markdown": "& the ~~dark~~ [earth] did ~~close~~ [cleave] together again that it stood & the mourning &",
+        "markdown": "& the ~~dark~~ [earth] did ~~close~~ [cleave] together again that it stood & the mourning & the weep",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/383"
       },
       {
@@ -301,7 +301,7 @@
         "page": 383,
         "line": 30,
         "text": "turned into joy & their lamentations into the praise & the thanks giveing unto the Lord Jesus",
-        "markdown": "turned ~~unto~~ into joy & their lamentations into the praise & the thanks giveing unto the Lord",
+        "markdown": "turned ~~unto~~ into joy & their lamentations into the praise & the thanks giveing unto the Lord Jesus",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/383"
       },
       {
@@ -379,7 +379,7 @@
         "page": 383,
         "line": 35,
         "text": "drowned in the debths of the Sea & they were not burned by fire neither were they fallen",
-        "markdown": "drowned in the debths of the Sea & they were not burned by fire neither were they ~~falle~~",
+        "markdown": "drowned in the debths of the Sea & they were not burned by fire neither were they ~~falle~~ [fallen]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/383"
       },
       {
@@ -485,7 +485,7 @@
         "page": 384,
         "line": 5,
         "text": "ings because they testified particular concerning us which is the remnant of their seed beh",
-        "markdown": "ings because they testified particular ~~of~~ [concerning] us which is ~~a~~ [the] remnant of their",
+        "markdown": "ings because they testified particular ~~of~~ [concerning] us which is ~~a~~ [the] remnant of their seed beh",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/384"
       }
     ]
@@ -542,6 +542,7 @@
         "page": 384,
         "line": 10,
         "text": "I will shew unto you that the people of Nephi which were spared & also they which",
+        "markdown": "I will shew unto you that the people of Nephi which were spared & also they which ~~had~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/384"
       },
       {
@@ -592,6 +593,7 @@
         "page": 384,
         "line": 16,
         "text": "Chapter——",
+        "markdown": "Chapter—— []— Jesus Christ sheweth himself unto the",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/384"
       },
       {

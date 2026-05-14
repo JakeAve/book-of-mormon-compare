@@ -9,6 +9,7 @@
         "page": 180,
         "line": 14,
         "text": "& bhold now it came to pass that our next",
+        "markdown": "& bhold now it came to pass that our next ~~obje~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/180"
       },
       {
@@ -73,7 +74,7 @@
         "page": 180,
         "line": 20,
         "text": "yea & it became expedient that we should employ our men to the mai",
-        "markdown": "yea ~~it <​&​>~~ [&] it became expedient that we should employ our men to",
+        "markdown": "yea ~~it <​&​>~~ [&] it became expedient that we should employ our men to the mai",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/180"
       },
       {
@@ -81,7 +82,7 @@
         "page": 180,
         "line": 21,
         "text": "ntaining those parts of the land of the which we had retained of our posses",
-        "markdown": "ntaining ~~these~~ [those] parts of the land of the which we had retained of our",
+        "markdown": "ntaining ~~these~~ [those] parts of the land of the which we had retained of our posses",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/180"
       },
       {
@@ -153,7 +154,7 @@
         "page": 180,
         "line": 27,
         "text": "but behold this did not proffit us but little for the Laman",
-        "markdown": "~~but~~ but behold this did not proffit us but little for the",
+        "markdown": "~~but~~ but behold this did not proffit us but little for the Laman",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/180"
       },
       {
@@ -161,7 +162,7 @@
         "page": 180,
         "line": 28,
         "text": "ites were also receiveing great strength from day to day & also many prov",
-        "markdown": "ites were also receiveing great strength from ~~g~~ day to day & also many",
+        "markdown": "ites were also receiveing great strength from ~~g~~ day to day & also many prov",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/180"
       },
       {
@@ -359,7 +360,7 @@
         "page": 181,
         "line": 10,
         "text": "yea & it came to pass that the Lord our",
-        "markdown": "~~&~~ ~~it~~ [yea] & it cam{{e to pass that the",
+        "markdown": "~~&~~ ~~it~~ [yea] & it cam{{e to pass that the Lord our}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/181"
       },
       {
@@ -406,7 +407,7 @@
         "page": 181,
         "line": 14,
         "text": "with our small force which we had received & were fixed with a determination to conquer our enemies & to maintain our lands & <​our​> possessions & our wives & our Children & the cause of our liberty",
-        "markdown": "with our small ~~forc~~ force which we had recei{{ved & were fixed with a determina}}tion to ~~com~~ conquer our enemies & to m{{aintain our lands & <​our​> possessions & our wives}} & our Children & the cause of",
+        "markdown": "with our small ~~forc~~ force which we had recei{{ved & were fixed with a determina}}tion to ~~com~~ conquer our enemies & to m{{aintain our lands & <​our​> possessions & our wives}} & our Children & the cause of our liber{{ty",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/181"
       }
     ]
@@ -421,7 +422,7 @@
         "page": 181,
         "line": 14,
         "text": "& thus we did go forth with all ourmight against the Lamanites which were in the City of Manti & we did",
-        "markdown": "our liber{{ty & thus we did go forth with all ourm}}ight against the Lamanites which {{were in the City of Manti &",
+        "markdown": "& thus we did go forth with all ourm}}ight against the Lamanites which {{were in the City of Manti & we did}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/181"
       },
       {
@@ -460,7 +461,7 @@
         "page": 181,
         "line": 17,
         "text": "by the wilderness which was near the city <​that​> they sent out their spies round abo",
-        "markdown": "by the wilderness which was near the city ~~ci~~ <​th{{at}}​>{{ they sent out their spies round",
+        "markdown": "by the wilderness which was near the city ~~ci~~ <​th{{at}}​>{{ they sent out their spies round abo}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/181"
       },
       {
@@ -491,7 +492,7 @@
         "page": 181,
         "line": 19,
         "text": "to pass that when they saw that we were not strong according to our numbers & fearing",
-        "markdown": "to pass that when they saw that ~~w<​e​>~~ we were not st{{rong according to our numbers &",
+        "markdown": "to pass that when they saw that ~~w<​e​>~~ we were not st{{rong according to our numbers & fearing}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/181"
       },
       {
@@ -499,7 +500,7 @@
         "page": 181,
         "line": 20,
         "text": "that we should cut them off from their support except they should come out to battle",
-        "markdown": "that ~~the~~ [we] should cut them off from their support ex{{cept they should come out to",
+        "markdown": "that ~~the~~ [we] should cut them off from their support ex{{cept they should come out to battle}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/181"
       },
       {
@@ -515,7 +516,7 @@
         "page": 181,
         "line": 22,
         "text": "ous hosts therefore they began to make preperations to come out against us to battle",
-        "markdown": "ous hosts therefore they began ~~preperations~~ [to make preperations] {{to come out against us to",
+        "markdown": "ous hosts therefore they began ~~preperations~~ [to make preperations] {{to come out against us to battle",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/181"
       }
     ]
@@ -530,7 +531,7 @@
         "page": 181,
         "line": 22,
         "text": "&",
-        "markdown": "battle",
+        "markdown": "&}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/181"
       },
       {
@@ -599,7 +600,7 @@
         "page": 182,
         "line": 1,
         "text": "to pass that the Lamanites did come out with their numerous army againstus & when they had come & were about to fall upon us with the sword I causedthat my men those which were with me should retreat into the wilderness&",
-        "markdown": "{{to pass that the Lamanites did come out}} with ~~the nu~~ [their] numerous army {{againstus & when they had come & were about}} to fall upon us with the sword I {{causedthat my men those which were with}} me should retreat into",
+        "markdown": "{{to pass that the Lamanites did come out}} with ~~the nu~~ [their] numerous army {{againstus & when they had come & were about}} to fall upon us with the sword I {{causedthat my men those which were with}} me should retreat into the w{{ilderness&",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/182"
       }
     ]
@@ -614,7 +615,7 @@
         "page": 182,
         "line": 1,
         "text": "it came to pass that the Lamanites did follow after us with great speed for",
-        "markdown": "the w{{ilderness& it came to pass that the Lamanites}} did follow after us with great sp{{eed}}",
+        "markdown": "it came to pass that the Lamanites}} did follow after us with great sp{{eed}} for",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/182"
       },
       {
@@ -622,7 +623,7 @@
         "page": 182,
         "line": 2,
         "text": "they were excedingly desireous to overtake us that they might slay us therefore",
-        "markdown": "{{they were excedingly desireous to o}}vertake us that they ~~may~~ [might] ~~sl~~ slay",
+        "markdown": "{{they were excedingly desireous to o}}vertake us that they ~~may~~ [might] ~~sl~~ slay us the{{re}}fore",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/182"
       },
       {
@@ -729,7 +730,7 @@
         "page": 182,
         "line": 10,
         "text": "now this was done because the Lamanites did suffer their whole",
-        "markdown": "now this}} was done because the Lamanites did suffer their ~~wh~~",
+        "markdown": "now this}} was done because the Lamanites did suffer their ~~wh~~ [whole]",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/182"
       },
       {
@@ -737,7 +738,7 @@
         "page": 182,
         "line": 11,
         "text": "army save a few guards only to be lead away into the wilderness",
-        "markdown": "{{army save a few guards}} ~~to~~ only to be lead away into the",
+        "markdown": "{{army save a few guards}} ~~to~~ only to be lead away into the wilderness",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/182"
       }
     ]
@@ -752,7 +753,6 @@
         "page": 182,
         "line": 11,
         "text": "& it came to",
-        "markdown": "wilderness & it came",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/182"
       },
       {
@@ -768,7 +768,7 @@
         "page": 182,
         "line": 13,
         "text": "ld & it came to pass that we took our course after having traveled much in",
-        "markdown": "{{ld & it came to pass tha}}t we took ~~out~~ [our] ~~cause~~ [course] after having traveled",
+        "markdown": "{{ld & it came to pass tha}}t we took ~~out~~ [our] ~~cause~~ [course] after having traveled much in",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/182"
       },
       {
@@ -828,7 +828,7 @@
         "page": 182,
         "line": 17,
         "text": "nites had supposed that the Nephites were weary because of their march",
-        "markdown": "{{nites had supposed that the Nephites}} were weary because of their march",
+        "markdown": "{{nites had supposed that the Nephites}} were weary because of their march ~~that t~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/182"
       },
       {
@@ -1358,6 +1358,7 @@
         "page": 183,
         "line": 26,
         "text": "Chapter",
+        "markdown": "Chapter {{}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/183"
       }
     ]

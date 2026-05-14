@@ -30,7 +30,7 @@
         "page": 73,
         "line": 19,
         "text": "the mighty",
-        "markdown": "~~& th~~",
+        "markdown": "~~& th~~ [the] mighty",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/73"
       },
       {
@@ -157,6 +157,7 @@
         "page": 73,
         "line": 27,
         "text": "in that day shall he swear saying I will not be a healer for in my house",
+        "markdown": "in that day shall he swear saying I will not be a healer for in my house ~~is~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/73"
       },
       {
@@ -473,7 +474,7 @@
         "page": 74,
         "line": 9,
         "text": "the bonnets & the ornaments of the legs & the headbands & the tablets & the",
-        "markdown": "the bonnets & the ornaments of the legs & the headbands & the ~~tables~~ tablets &",
+        "markdown": "the bonnets & the ornaments of the legs & the headbands & the ~~tables~~ tablets & the",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/74"
       },
       {

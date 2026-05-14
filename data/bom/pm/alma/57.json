@@ -44,7 +44,7 @@
         "page": 317,
         "line": 18,
         "text": "unto the king that we were sure our forces were sufficient to take the city of",
-        "markdown": "unto the king that we were sure ~~oou~~ [our] forces were sufficient to take the city",
+        "markdown": "unto the king that we were sure ~~oou~~ [our] forces were sufficient to take the city of",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/317"
       },
       {
@@ -52,7 +52,7 @@
         "page": 317,
         "line": 19,
         "text": "Antiparah by our force & by delivering up the prisoners for that city we shou",
-        "markdown": "Antiparah by our force & by delivering up the prisoners ~~we~~ [for] that city we",
+        "markdown": "Antiparah by our force & by delivering up the prisoners ~~we~~ [for] that city we shou",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/317"
       },
       {
@@ -110,7 +110,7 @@
         "page": 317,
         "line": 23,
         "text": "but the people of Antiparah did leave the city & fled to their other cities",
-        "markdown": "but the people of Antiparah did leave the city & fled to their other ~~city~~",
+        "markdown": "but the people of Antiparah did leave the city & fled to their other ~~city~~ cities",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/317"
       },
       {
@@ -168,7 +168,7 @@
         "page": 317,
         "line": 27,
         "text": "supply of provisions & also an addition to our army from the land of Zarahemla",
-        "markdown": "supply of provisions & also an ~~at~~ addition to our army from the land of",
+        "markdown": "supply of provisions & also an ~~at~~ addition to our army from the land of Zarahemla",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/317"
       },
       {
@@ -190,7 +190,7 @@
         "page": 317,
         "line": 30,
         "text": "little band of two thousand & now behold we were strong yea & we had also a",
-        "markdown": "little band of two thousand & now behold we were strong yea & ~~we~~ [we] had also",
+        "markdown": "little band of two thousand & now behold we were strong yea & ~~we~~ [we] had also a",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/317"
       },
       {
@@ -198,7 +198,7 @@
         "page": 317,
         "line": 31,
         "text": "plenty of provisions brought unto us",
-        "markdown": "plenty of provisions brought ~~to~~ [unto]",
+        "markdown": "plenty of provisions brought ~~to~~ [unto] us",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/317"
       }
     ]
@@ -213,7 +213,6 @@
         "page": 317,
         "line": 31,
         "text": "& it came to pass that it was our desire to wed",
-        "markdown": "us & it came to pass that it was our desire to",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/317"
       },
       {
@@ -242,7 +241,7 @@
         "page": 317,
         "line": 34,
         "text": "yea with our strong force or with a part of our strong force we did surround",
-        "markdown": "yea with our strong force or with a part of our strong force ~~whic~~ [we] did",
+        "markdown": "yea with our strong force or with a part of our strong force ~~whic~~ [we] did surround",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/317"
       },
       {
@@ -355,7 +354,7 @@
         "page": 318,
         "line": 9,
         "text": "became expediant that we should take those provisions & send them to Judeah",
-        "markdown": "became expediant that we should take those ~~prisoners~~ [provisions] & send them to",
+        "markdown": "became expediant that we should take those ~~prisoners~~ [provisions] & send them to Judeah",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/318"
       },
       {
@@ -412,7 +411,7 @@
         "page": 318,
         "line": 13,
         "text": "but it came to pass that our prisoners were so numerous that",
-        "markdown": "~~&~~ [but] it came to pass that our prisoners were so numerous",
+        "markdown": "~~&~~ [but] it came to pass that our prisoners were so numerous that ~~no~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/318"
       },
       {
@@ -420,7 +419,7 @@
         "page": 318,
         "line": 14,
         "text": "not withstanding the enormity of our numbers we were oblidged to employ",
-        "markdown": "not withstanding the ~~enumerority~~ [enormity] of our numbers we were oblidged to",
+        "markdown": "not withstanding the ~~enumerority~~ [enormity] of our numbers we were oblidged to employ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/318"
       },
       {
@@ -492,7 +491,7 @@
         "page": 318,
         "line": 20,
         "text": "them sword in hand down to the land of Zarahemla & also our provisions were",
-        "markdown": "them sword in hand down to the land of Zarahemla & also our ~~prosoners~~ [provisions]",
+        "markdown": "them sword in hand down to the land of Zarahemla & also our ~~prosoners~~ [provisions] were",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/318"
       },
       {
@@ -825,7 +824,7 @@
         "page": 319,
         "line": 13,
         "text": "nevertheless according to the goodness of God & to our great astonishment & also the joy of",
-        "markdown": "nevertheless according to the goodness of God & to our great astonishment & also the joy ~~of~~",
+        "markdown": "nevertheless according to the goodness of God & to our great astonishment & also the joy ~~of~~ [of]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/319"
       },
       {
@@ -875,7 +874,7 @@
         "page": 319,
         "line": 18,
         "text": "<​the miraculous​> power of God because of their exceding faith in that which they had been taught to belie",
-        "markdown": "~~marac~~ <​[the] miraculous​> power of God because of their exceding faith [in that] which they had been taught to",
+        "markdown": "~~marac~~ <​[the] miraculous​> power of God because of their exceding faith [in that] which they had been taught to belie",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/319"
       },
       {
@@ -948,7 +947,7 @@
         "page": 319,
         "line": 24,
         "text": "cerning the prisoners which they had started to go down to the land of Zarahemla",
-        "markdown": "cerning the prisoners which they had ~~stard~~ [started] to go down to the land of",
+        "markdown": "cerning the prisoners which they had ~~stard~~ [started] to go down to the land of Zarahemla",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/319"
       },
       {
@@ -970,7 +969,7 @@
         "page": 319,
         "line": 25,
         "text": "now Gid was the chief captain over the band which was appointed to gu",
-        "markdown": "now Gid was the chief captain over the ~~loan~~ [band] which was appointed to",
+        "markdown": "now Gid was the chief captain over the ~~loan~~ [band] which was appointed to gu",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/319"
       },
       {
@@ -978,7 +977,7 @@
         "page": 319,
         "line": 26,
         "text": "ide them down to that land",
-        "markdown": "ide them down to ~~the~~ [that]",
+        "markdown": "ide them down to ~~the~~ [that] land",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/319"
       }
     ]
@@ -993,7 +992,7 @@
         "page": 319,
         "line": 26,
         "text": "& now these are the words which Gid said unto me",
-        "markdown": "land ~~of Zarahemla~~ [& now these] are the words which Gid",
+        "markdown": "~~of Zarahemla~~ [& now these] are the words which Gid said unto me",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/319"
       },
       {
@@ -1001,7 +1000,7 @@
         "page": 319,
         "line": 27,
         "text": "behold we did start to go down to the land of Zarahemla with our prisoners & it came to",
-        "markdown": "behold we did start to go down to the land of Zarahemla ~~& it~~ [with] our prisoners & it",
+        "markdown": "behold we did start to go down to the land of Zarahemla ~~& it~~ [with] our prisoners & it came to",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/319"
       },
       {

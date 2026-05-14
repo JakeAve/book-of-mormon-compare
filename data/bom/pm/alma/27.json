@@ -115,7 +115,7 @@
         "page": 244,
         "line": 33,
         "text": "ved them for they were treated as tho they were Angels sent from God to save them",
-        "markdown": "ved them for they were treated as tho they were ~~the~~ [Angels] sent from God to save",
+        "markdown": "ved them for they were treated as tho they were ~~the~~ [Angels] sent from God to save them",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/244"
       },
       {
@@ -333,7 +333,7 @@
         "page": 245,
         "line": 10,
         "text": "get this",
-        "markdown": "~~let~~ get",
+        "markdown": "~~let~~ get this",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/245"
       },
       {
@@ -411,7 +411,7 @@
         "page": 245,
         "line": 17,
         "text": "ir flocks & herds & departed out of the land & came <​into the​> wilderness which divided",
-        "markdown": "ir flocks & herds & departed out of the land & ~~it~~ came ~~to pass~~ <​into the​>",
+        "markdown": "ir flocks & herds & departed out of the land & ~~it~~ came ~~to pass~~ <​into the​> wilderness which divided",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/245"
       },
       {
@@ -440,7 +440,7 @@
         "page": 245,
         "line": 20,
         "text": "into the land of Zarahemla & ye shall remain here until we return & we will try the hearts of our",
-        "markdown": "into the land ~~of~~ [of Zarahemla &] ye shall remain here until we return & we will try the hearts of",
+        "markdown": "into the land ~~of~~ [of Zarahemla &] ye shall remain here until we return & we will try the hearts of our",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/245"
       },
       {

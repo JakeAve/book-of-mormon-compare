@@ -100,7 +100,7 @@
         "page": 218,
         "line": 30,
         "text": "not but this much we do know that he cannot be slain by the ene",
-        "markdown": "not but this ~~mutch~~ [much] we do know that he cannot be slain by the",
+        "markdown": "not but this ~~mutch~~ [much] we do know that he cannot be slain by the ene",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/218"
       },
       {
@@ -411,7 +411,7 @@
         "page": 219,
         "line": 27,
         "text": "would desire him that he come in unto me but I dearst not",
-        "markdown": "would desire him that he come in unto ~~thee~~ [me] but I dearst",
+        "markdown": "would desire him that he come in unto ~~thee~~ [me] but I dearst not",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/219"
       }
     ]
@@ -426,7 +426,6 @@
         "page": 219,
         "line": 27,
         "text": "& it came",
-        "markdown": "not & it",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/219"
       },
       {
@@ -442,7 +441,7 @@
         "page": 219,
         "line": 29,
         "text": "ants he went in unto the king & he saw that the countenance of the King was",
-        "markdown": "ants he went in unto the king & he saw that the countenance of the King ~~had~~",
+        "markdown": "ants he went in unto the king & he saw that the countenance of the King ~~had~~ [was]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/219"
       },
       {
@@ -1227,7 +1226,7 @@
         "page": 221,
         "line": 19,
         "text": "ption which was prepared from the foundation of the world & he also ma",
-        "markdown": "ption which was prepared from the foundation of the ~~world~~ [world] & he also",
+        "markdown": "ption which was prepared from the foundation of the ~~world~~ [world] & he also ma",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/221"
       },
       {
@@ -1354,7 +1353,7 @@
         "page": 221,
         "line": 29,
         "text": "over him after the manner of the Lamanites greatly lamenting his loss",
-        "markdown": "over him after the manner of the Lamanites greatly lamenting his ~~loss~~",
+        "markdown": "over him after the manner of the Lamanites greatly lamenting his ~~loss~~ [loss]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/221"
       }
     ]

@@ -378,7 +378,7 @@
         "page": 92,
         "line": 23,
         "text": "they wear stiff necks & high heads yea & because",
-        "markdown": "they wear stiff necks & high heads ~~&~~ yea &",
+        "markdown": "they wear stiff necks & high heads ~~&~~ yea & because",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/92"
       },
       {
@@ -597,7 +597,7 @@
         "page": 93,
         "line": 3,
         "text": "& others will he pacify & lull them awa",
-        "markdown": "& others will he pacify & ~~tell~~ lull them",
+        "markdown": "& others will he pacify & ~~tell~~ lull them awa",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/93"
       },
       {
@@ -781,7 +781,7 @@
         "page": 93,
         "line": 16,
         "text": "of the truth of God for behold he that is built upon the rock receiveth it with g",
-        "markdown": "of the truth of God for behold he that is built upon the rock receiveth it ~~with~~ with",
+        "markdown": "of the truth of God for behold he that is built upon the rock receiveth it ~~with~~ with g",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/93"
       },
       {
@@ -901,7 +901,7 @@
         "page": 93,
         "line": 27,
         "text": "then out mine arm unto them from day to day they will deny me nevertheless I wi",
-        "markdown": "then ~~our~~ out mine arm unto them from day to day they will deny me nevertheless I",
+        "markdown": "then ~~our~~ out mine arm unto them from day to day they will deny me nevertheless I wi",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/93"
       },
       {

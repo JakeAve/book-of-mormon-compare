@@ -128,7 +128,7 @@
         "page": 42,
         "line": 24,
         "text": "parts of them should be written upon these plates & that the things which",
-        "markdown": "parts of them should be written upon ~~them~~ [these] plates & that the things",
+        "markdown": "parts of them should be written upon ~~them~~ [these] plates & that the things which",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/42"
       },
       {
@@ -241,6 +241,7 @@
         "page": 42,
         "line": 36,
         "text": "ertheless I do not write any thing upon plates save it be that I think",
+        "markdown": "ertheless I do not write any thing upon plates save it be that I think ~~to~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/42"
       },
       {
@@ -297,7 +298,7 @@
         "page": 43,
         "line": 6,
         "text": "do men trample under their feet I say trample under their feet",
-        "markdown": "do men trample under their feet I ~~saay~~ [say] trample under their",
+        "markdown": "do men trample under their feet I ~~saay~~ [say] trample under their feet ~~be~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/43"
       },
       {
@@ -410,7 +411,7 @@
         "page": 43,
         "line": 17,
         "text": "el as a man into the hands of wicked men to be lifted up according to",
-        "markdown": "el as a man into the hands of wicked men to be ~~bifted~~ [lifted] up according",
+        "markdown": "el as a man into the hands of wicked men to be ~~bifted~~ [lifted] up according to",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/43"
       },
       {
@@ -474,7 +475,7 @@
         "page": 43,
         "line": 24,
         "text": "the house of Israel at that day some with his voice because of their righteou",
-        "markdown": "the house of Israel ~~it~~ at that day some with his voice because of [their]",
+        "markdown": "the house of Israel ~~it~~ at that day some with his voice because of [their] righteou",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/43"
       },
       {
@@ -671,7 +672,7 @@
         "page": 44,
         "line": 6,
         "text": "ds of the Prophet Zenos from the four quarters of the earth",
-        "markdown": "ds of the Prophet~~s~~ Zenos from the four quarters of the ~~eath~~",
+        "markdown": "ds of the Prophet~~s~~ Zenos from the four quarters of the ~~eath~~ [earth]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/44"
       }
     ]
@@ -686,7 +687,6 @@
         "page": 44,
         "line": 6,
         "text": "yea & all the",
-        "markdown": "[earth] yea & all",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/44"
       },
       {
@@ -764,7 +764,7 @@
         "page": 44,
         "line": 11,
         "text": "for behold I have workings",
-        "markdown": "for behold I have ~~worked~~",
+        "markdown": "for behold I have ~~worked~~ workings",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/44"
       },
       {
@@ -849,7 +849,7 @@
         "page": 44,
         "line": 19,
         "text": "Brethren these things & it came to pass that I did read many things to the",
-        "markdown": "~~things unto my~~ [Brethren these] things & it came to pass that I did read many",
+        "markdown": "~~things unto my~~ [Brethren these] things & it came to pass that I did read many things to the",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/44"
       },
       {

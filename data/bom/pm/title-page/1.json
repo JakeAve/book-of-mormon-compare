@@ -9,6 +9,7 @@
         "page": 1,
         "line": 1,
         "text": "The Book of Mormon——",
+        "markdown": "The Book of Mormon—— An account written by the hand",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/1"
       },
       {
@@ -16,7 +17,7 @@
         "page": 1,
         "line": 1,
         "text": "An account written by the hand",
-        "markdown": "The Book of Mormon—— An account",
+        "markdown": "The Book of Mormon—— An account written by the hand",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/1"
       },
       {
@@ -73,7 +74,7 @@
         "page": 1,
         "line": 7,
         "text": "power of God unto the interpretation thereof sealed by the hand of Moroni & hid",
-        "markdown": "power of God unto the interpretation thereof sealed by the hand of Moroni & ~~hiid~~",
+        "markdown": "power of God unto the interpretation thereof sealed by the hand of Moroni & ~~hiid~~ hid",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/1"
       },
       {
@@ -102,7 +103,7 @@
         "page": 1,
         "line": 9,
         "text": "an abridgment taken from the Book of Ether also which is a re",
-        "markdown": "an abridgment taken from the Book of Ether also which ~~as~~ [is] a",
+        "markdown": "an abridgment taken from the Book of Ether also which ~~as~~ [is] a re",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/1"
       },
       {
@@ -166,7 +167,7 @@
         "page": 1,
         "line": 17,
         "text": "By Joseph Smith Juniour Author & proprietor",
-        "markdown": "—— By Joseph Smith Juniour Author &",
+        "markdown": "—— By Joseph Smith Juniour Author & proprietor",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/1"
       },
       {
@@ -188,7 +189,7 @@
         "page": 1,
         "line": 20,
         "text": "1829 Joseph Smith Junior of the said Destrict hath deposited in this office the",
-        "markdown": "1829 Joseph Smith Junior of the ~~sai~~ said Destrict hath deposited in this office",
+        "markdown": "1829 Joseph Smith Junior of the ~~sai~~ said Destrict hath deposited in this office the",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/1"
       },
       {
@@ -203,6 +204,7 @@
         "page": 1,
         "line": 22,
         "text": "Tthe Book of Mormon. . &.C.——",
+        "markdown": "Tthe Book of Mormon. . &.C.—— By Joseph Smith Junor Author ~~& propri~~ [propriet[or]]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/1"
       },
       {
@@ -210,7 +212,7 @@
         "page": 1,
         "line": 22,
         "text": "By Joseph Smith Junor Author propriet[or]",
-        "markdown": "Tthe Book of Mormon. . &.C.—— By",
+        "markdown": "Tthe Book of Mormon. . &.C.—— By Joseph Smith Junor Author ~~& propri~~ [propriet[or]]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/1"
       },
       {
@@ -239,7 +241,7 @@
         "page": 3,
         "line": 2,
         "text": "As mang fals reports have been Sirculated respecting the following work & also many unla",
-        "markdown": "As mang fals reports have been Sirculated respecting ~~this~~ [the following] work & also many",
+        "markdown": "As mang fals reports have been Sirculated respecting ~~this~~ [the following] work & also many unla",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/3"
       },
       {
@@ -338,7 +340,7 @@
         "page": 3,
         "line": 16,
         "text": "untill ye come to that which ye have translated which ye have retained &",
-        "markdown": "untill ~~yeu~~ ye come to that which ye have translated which ye have retained",
+        "markdown": "untill ~~yeu~~ ye come to that which ye have translated which ye have retained &",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/3"
       },
       {
@@ -367,7 +369,7 @@
         "page": 3,
         "line": 20,
         "text": "wherefore to be obediant unto the commandments of God I have through his grace",
-        "markdown": "wherefore to be obediant unto the ~~commands~~ commandments of God I have through his",
+        "markdown": "wherefore to be obediant unto the ~~commands~~ commandments of God I have through his grace",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/3"
       },
       {

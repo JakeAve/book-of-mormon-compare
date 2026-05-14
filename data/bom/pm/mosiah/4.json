@@ -193,7 +193,7 @@
         "page": 128,
         "line": 16,
         "text": "say unto you that if ye have come to a knowledge of the good",
-        "markdown": "say unto you that if ye have come to ~~a knowedge~~ [a knowledge] of the",
+        "markdown": "say unto you that if ye have come to ~~a knowedge~~ [a knowledge] of the good",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/128"
       },
       {
@@ -201,7 +201,7 @@
         "page": 128,
         "line": 17,
         "text": "ness of God & his matchless power & his wisdom & his patience & his long suffering",
-        "markdown": "ness of God & his matchless power & his wisdom & his patience & his ~~glory~~ long",
+        "markdown": "ness of God & his matchless power & his wisdom & his patience & his ~~glory~~ long suffering",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/128"
       },
       {
@@ -209,6 +209,7 @@
         "page": 128,
         "line": 18,
         "text": "towards the children of men & also the atonement which hath been",
+        "markdown": "towards the children of men & also the atonement which hath been ~~prophesied from~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/128"
       },
       {
@@ -428,7 +429,7 @@
         "page": 129,
         "line": 2,
         "text": "in the debths of humility calling on the name of the Lord daily & standing stedfastly in the",
-        "markdown": "in the debths of ~~humititly~~ [humility] calling on the name of the Lord daily & standing stedfastly in",
+        "markdown": "in the debths of ~~humititly~~ [humility] calling on the name of the Lord daily & standing stedfastly in the",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/129"
       },
       {
@@ -844,7 +845,7 @@
         "page": 129,
         "line": 36,
         "text": "& again I say unto the poor ye that have not & yet hath sufficient that",
-        "markdown": "& again I say unto the poor ye that ~~have~~ [have] not & yet hath sufficient",
+        "markdown": "& again I say unto the poor ye that ~~have~~ [have] not & yet hath sufficient that",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/129"
       },
       {
@@ -894,7 +895,7 @@
         "page": 130,
         "line": 4,
         "text": "ye have not received",
-        "markdown": "~~he~~ [ye] have not",
+        "markdown": "~~he~~ [ye] have not received",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/130"
       }
     ]
@@ -909,7 +910,6 @@
         "page": 130,
         "line": 4,
         "text": "& now for the sake of these things which I have spoken unto",
-        "markdown": "received & now for the sake of these things which I have spoken",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/130"
       },
       {
@@ -1078,7 +1078,7 @@
         "page": 130,
         "line": 20,
         "text": "ing of our Lord even unto the end of your lives ye must perish & now O man remember",
-        "markdown": "ing of our Lord even unto the end of your lives ye must perish & now ~~re~~ [O] man",
+        "markdown": "ing of our Lord even unto the end of your lives ye must perish & now ~~re~~ [O] man remember",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/130"
       },
       {

@@ -72,7 +72,7 @@
         "page": 176,
         "line": 36,
         "text": "began to endeavor to establish Amlici to be a King over the people",
-        "markdown": "began to endeavor ~~Amlici~~ to establish Amlici to be a King over the",
+        "markdown": "began to endeavor ~~Amlici~~ to establish Amlici to be a King over the people",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/176"
       }
     ]
@@ -87,7 +87,6 @@
         "page": 176,
         "line": 36,
         "text": "now",
-        "markdown": "people",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/176"
       },
       {
@@ -983,7 +982,7 @@
         "page": 179,
         "line": 1,
         "text": "I may be an instrument in thy hands to save and protect this people,",
-        "markdown": "I may be an instrument in ~~the~~ [thy] hands to save and protect this",
+        "markdown": "I may be an instrument in ~~the~~ [thy] hands to save and protect this people,",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/179"
       }
     ]
@@ -998,7 +997,6 @@
         "page": 179,
         "line": 1,
         "text": "now when",
-        "markdown": "people, now",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/179"
       },
       {
@@ -1013,7 +1011,7 @@
         "page": 179,
         "line": 3,
         "text": "that he slew Amlici with the sword,",
-        "markdown": "~~the slew~~ that he slew Amlici with",
+        "markdown": "~~the slew~~ that he slew Amlici with the sword,",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/179"
       }
     ]
@@ -1028,7 +1026,6 @@
         "page": 179,
         "line": 3,
         "text": "and he also contended with the King",
-        "markdown": "the sword, and he also contended with",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/179"
       },
       {
@@ -1204,6 +1201,7 @@
         "page": 179,
         "line": 18,
         "text": "ounts & it was that part of the wilderness which was infested by wild",
+        "markdown": "ounts & it was that part of the wilderness which was infested by wild ~~beasts~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/179"
       },
       {

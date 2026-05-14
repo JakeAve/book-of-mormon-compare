@@ -9,7 +9,7 @@
         "page": 145,
         "line": 24,
         "text": "& it",
-        "markdown": "& ~~&",
+        "markdown": "& ~~& cam~~ it",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/145"
       },
       {
@@ -17,7 +17,7 @@
         "page": 145,
         "line": 25,
         "text": "came to pass that as many as would not hearken to the words of Helaman & his",
-        "markdown": "came to pass that as many as would not ~~list~~ hearken to the words of Helaman &",
+        "markdown": "came to pass that as many as would not ~~list~~ hearken to the words of Helaman & his",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/145"
       },
       {
@@ -25,7 +25,7 @@
         "page": 145,
         "line": 26,
         "text": "Brethren were gathered together against their Brethren",
-        "markdown": "Brethren were gathered ~~to ge~~ together against",
+        "markdown": "Brethren were gathered ~~to ge~~ together against their Brethren",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/145"
       }
     ]
@@ -40,7 +40,6 @@
         "page": 145,
         "line": 26,
         "text": "& now behold they w",
-        "markdown": "their Brethren & now behold",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/145"
       },
       {
@@ -120,7 +119,7 @@
         "page": 145,
         "line": 32,
         "text": "wer they had been lead by the flatteries of Amelickiah that if they would su",
-        "markdown": "wer they had been lead by the flatteries of Amelickiah that if ~~he~~ [they] would",
+        "markdown": "wer they had been lead by the flatteries of Amelickiah that if ~~he~~ [they] would su",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/145"
       },
       {
@@ -128,6 +127,7 @@
         "page": 145,
         "line": 33,
         "text": "pport him & establish him to be their King that he would make them",
+        "markdown": "pport him & establish him to be their King that he would make them ~~Rule~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/145"
       },
       {
@@ -156,7 +156,7 @@
         "page": 145,
         "line": 35,
         "text": "otwithstanding the Preaching of Helaman & his Brethren yea",
-        "markdown": "otwithstanding ~~the many~~the Preaching of Helaman & his Brethren",
+        "markdown": "otwithstanding ~~the many~~the Preaching of Helaman & his Brethren yea",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/145"
       },
       {
@@ -241,7 +241,7 @@
         "page": 146,
         "line": 7,
         "text": "men doth forget the Lord their God yea how quick to do iniquity &",
-        "markdown": "{{men doth forget the Lord}} ~~there~~ [their] God yea ~~to d~~ how quick to",
+        "markdown": "{{men doth forget the Lord}} ~~there~~ [their] God yea ~~to d~~ how quick to do iniquity &",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/146"
       },
       {
@@ -310,7 +310,7 @@
         "page": 146,
         "line": 13,
         "text": "the foundation of liberty which God had granted unto them or which blessing",
-        "markdown": "{{the founda}}tion ~~<​or​>~~ of liberty which God had granted unto them ~~of~~ [or]",
+        "markdown": "{{the founda}}tion ~~<​or​>~~ of liberty which God had granted unto them ~~of~~ [or] which blessing",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/146"
       },
       {
@@ -404,7 +404,7 @@
         "page": 146,
         "line": 21,
         "text": "& he took the pole which had on the end thereoff & he called it the title of",
-        "markdown": "& he took the pole which had on the end thereoff & he called it the ~~tittle~~ title",
+        "markdown": "& he took the pole which had on the end thereoff & he called it the ~~tittle~~ title of",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/146"
       },
       {
@@ -419,7 +419,7 @@
         "page": 146,
         "line": 23,
         "text": "for the blessings of liberty to rest upon so long as there should a band of Christ",
-        "markdown": "for the blessings of liberty to rest upon ~~long~~ [so long] as there should a band of",
+        "markdown": "for the blessings of liberty to rest upon ~~long~~ [so long] as there should a band of Christ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/146"
       },
       {
@@ -476,7 +476,7 @@
         "page": 146,
         "line": 27,
         "text": "ue believers in Christ took upon them gladly the name of Christ or Christians",
-        "markdown": "ue beli{{e}}vers ~~Chirs~~ [in Christ] took upon them gladly the name of Christ~~i~~ or",
+        "markdown": "ue beli{{e}}vers ~~Chirs~~ [in Christ] took upon them gladly the name of Christ~~i~~ or Christians",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/146"
       },
       {
@@ -526,7 +526,7 @@
         "page": 146,
         "line": 30,
         "text": "& it came to pass that when he had poured out his so",
-        "markdown": "& ~~it~~ it came to pass that when he had poured out his",
+        "markdown": "& ~~it~~ it came to pass that when he had poured out his so",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/146"
       },
       {
@@ -542,7 +542,7 @@
         "page": 146,
         "line": 32,
         "text": "in fine all the land both on the North & on the South a chosen land & the lan",
-        "markdown": "in fine all the land both on the North & on the South ~~& he~~ a chosen land~~s~~ ~~a~~",
+        "markdown": "in fine all the land both on the North & on the South ~~& he~~ a chosen land~~s~~ ~~a~~ [&] the lan",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/146"
       },
       {
@@ -631,7 +631,7 @@
         "page": 147,
         "line": 4,
         "text": "upon the land let them come forth in the strength of the Lord & enter into a",
-        "markdown": "~~the~~ [upon] the land let them come forth in the {{strength of the Lord & enter into",
+        "markdown": "~~the~~ [upon] the land let them come forth in the {{strength of the Lord & enter into a}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/147"
       },
       {
@@ -685,7 +685,7 @@
         "page": 147,
         "line": 9,
         "text": "forsake the Lord their God or in other words if they should transgress the commandments",
-        "markdown": "~~forget~~ [forsake] the Lord their God or in other words ~~th <​if​>~~ if they s{{houl}}d",
+        "markdown": "~~forget~~ [forsake] the Lord their God or in other words ~~th <​if​>~~ if they s{{houl}}d transgre{{ss the commandments}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/147"
       },
       {
@@ -701,7 +701,7 @@
         "page": 147,
         "line": 11,
         "text": "Lord should rend them even as they had rent their garments",
-        "markdown": "Lord should rend them even as they ~~rent~~ [had] rent~~s~~ their",
+        "markdown": "Lord should rend them even as they ~~rent~~ [had] rent~~s~~ their garments",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/147"
       }
     ]
@@ -716,7 +716,7 @@
         "page": 147,
         "line": 11,
         "text": "now this was the cov",
-        "markdown": "garments n{{ow this was the",
+        "markdown": "n{{ow this was the cov}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/147"
       },
       {
@@ -724,7 +724,7 @@
         "page": 147,
         "line": 12,
         "text": "enant which they made & they cast their garments at the feet of Moroni",
-        "markdown": "~~ennat~~ enant which the[y] made & they cast ~~there~~ [their] garments at th{{e feet",
+        "markdown": "~~ennat~~ enant which the[y] made & they cast ~~there~~ [their] garments at th{{e feet of Moroni}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/147"
       },
       {
@@ -732,7 +732,7 @@
         "page": 147,
         "line": 13,
         "text": "saying we covenant with our God that we shall be destroid even as our Bre",
-        "markdown": "saying ~~w<​e​>~~ we covenant with our God that we shal{{l}} be destroid ~~as~~ [ev]{{en as",
+        "markdown": "saying ~~w<​e​>~~ we covenant with our God that we shal{{l}} be destroid ~~as~~ [ev]{{en as our Bre}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/147"
       },
       {
@@ -748,7 +748,7 @@
         "page": 147,
         "line": 15,
         "text": "our enemies even as we have cast our garments at they [thy] feet to be troden under",
-        "markdown": "our enemies even as we have cast our garments at they [thy] feet ~~be~~ [to] be {{troden",
+        "markdown": "our enemies even as we have cast our garments at they [thy] feet ~~be~~ [to] be {{troden under}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/147"
       },
       {
@@ -756,7 +756,7 @@
         "page": 147,
         "line": 16,
         "text": "foot if we should fall into transgression",
-        "markdown": "~~our fo~~ [foot] if we should fall",
+        "markdown": "~~our fo~~ [foot] if we should fall into transgression",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/147"
       }
     ]
@@ -771,7 +771,7 @@
         "page": 147,
         "line": 16,
         "text": "Moroni sayeth unto them behold we",
-        "markdown": "into transgression Moroni sayeth unto th{{em",
+        "markdown": "Moroni sayeth unto th{{em behold we}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/147"
       },
       {
@@ -825,7 +825,7 @@
         "page": 147,
         "line": 21,
         "text": "ty as a remnant of Joseph yea let us remember the words of Jacob before his dea",
-        "markdown": "ty as a remnant ~~y~~ of Joseph yea let ~~h~~ us remember the wo{{rds of Jacob before",
+        "markdown": "ty as a remnant ~~y~~ of Joseph yea let ~~h~~ us remember the wo{{rds of Jacob before his dea}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/147"
       },
       {
@@ -857,7 +857,7 @@
         "page": 147,
         "line": 25,
         "text": "by the hand of God & be taken unto himself while the remainder of the se",
-        "markdown": "by the ~~hands~~ [hand] ~~go~~ [of] God & be taken unto ~~his~~ [him]{{self while the remainder",
+        "markdown": "by the ~~hands~~ [hand] ~~go~~ [of] God & be taken unto ~~his~~ [him]{{self while the remainder of the se}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/147"
       },
       {
@@ -865,7 +865,7 @@
         "page": 147,
         "line": 26,
         "text": "ed of Joseph shall perish even as the remnant of his garm",
-        "markdown": "ed of Joseph shall perish even ~~like~~ {{ as the remnant of",
+        "markdown": "ed of Joseph shall perish even ~~like~~ {{ as the remnant of his garm}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/147"
       },
       {
@@ -895,7 +895,7 @@
         "page": 147,
         "line": 28,
         "text": "Son because that part of his seed which shall be taken unto God",
-        "markdown": "Son because ~~the~~ [that] part of his seed which sh{{all be taken unto",
+        "markdown": "Son because ~~the~~ [that] part of his seed which sh{{all be taken unto God",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/147"
       }
     ]
@@ -910,7 +910,7 @@
         "page": 147,
         "line": 28,
         "text": "now behold this w",
-        "markdown": "God now behold this",
+        "markdown": "now behold this w}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/147"
       },
       {
@@ -979,7 +979,7 @@
         "page": 147,
         "line": 33,
         "text": "forth in all the parts of the land where there were dissensions & gathered togeth",
-        "markdown": "forth ~~the~~ [in] all the parts of the land w{{here there were dissensions & gathered",
+        "markdown": "forth ~~the~~ [in] all the parts of the land w{{here there were dissensions & gathered togeth}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/147"
       },
       {
@@ -987,7 +987,7 @@
         "page": 147,
         "line": 34,
         "text": "ered all the People which were desireous to maintain their liberty to stand",
-        "markdown": "ered all ~~of~~ [the] People which were desireo{{us to maintain their liberty to",
+        "markdown": "ered all ~~of~~ [the] People which were desireo{{us to maintain their liberty to stand}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/147"
       },
       {
@@ -1010,7 +1010,7 @@
         "page": 148,
         "line": 2,
         "text": "& it came to pass that when Ameleckiah saw that the People of Moroni weremore numerous than the Ameleckiahites & he also saw that his People were doubtful concerning the justice of the cause in which they had undertaken there",
-        "markdown": "{{& it came to pass that when Amelecki}}ah saw that the People of Moroni w{{eremore numerous than the Amele}}ckiahites & he also saw that his People were {{doubtful concerning the justice of}} the cause in which they had undertaken ~~to~~",
+        "markdown": "{{& it came to pass that when Amelecki}}ah saw that the People of Moroni w{{eremore numerous than the Amele}}ckiahites & he also saw that his People were {{doubtful concerning the justice of}} the cause in which they had undertaken ~~to~~ [there]",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/148"
       },
       {
@@ -1064,7 +1064,7 @@
         "page": 148,
         "line": 7,
         "text": "ckiah to death yaa for he knnew that they would stir up the Lamanites to ang",
-        "markdown": "{{ckiah to deat}}h yaa for he knnew ~~that he~~ that they would stir up the Lamanites",
+        "markdown": "{{ckiah to deat}}h yaa for he knnew ~~that he~~ that they would stir up the Lamanites to ang",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/148"
       },
       {
@@ -1102,7 +1102,7 @@
         "page": 148,
         "line": 10,
         "text": "expediant that he should take his armies which had gathered themselves togeth",
-        "markdown": "{{expediant}} that he should take his armies which ~~g~~ had ~~to~~ [gathered]",
+        "markdown": "{{expediant}} that he should take his armies which ~~g~~ had ~~to~~ [gathered] themselves togeth",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/148"
       },
       {
@@ -1216,7 +1216,7 @@
         "page": 148,
         "line": 19,
         "text": "according to his will with the armies of the Nephites to establish & to exercise au",
-        "markdown": "{{according to}} his will with the armies of the Nephites to establish & ~~do~~ [to] exercise",
+        "markdown": "{{according to}} his will with the armies of the Nephites to establish & ~~do~~ [to] exercise ~~by~~ au",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/148"
       },
       {
@@ -1278,7 +1278,7 @@
         "page": 148,
         "line": 23,
         "text": "& it came to pass also that he caused the title of liberty to be",
-        "markdown": "& it came to pass}} also that he caused the title of liberty to ~~be~~",
+        "markdown": "& it came to pass}} also that he caused the title of liberty to ~~be~~ be",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/148"
       },
       {
@@ -1339,7 +1339,7 @@
         "page": 148,
         "line": 27,
         "text": "& Helaman & the high",
-        "markdown": "~~& ord~~ & Helaman &",
+        "markdown": "~~& ord~~ & Helaman & the~~y~~ high",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/148"
       },
       {
@@ -1408,7 +1408,7 @@
         "page": 148,
         "line": 32,
         "text": "were some who died with feavers which at some seasons of the year was verry",
-        "markdown": "{{were some who died with feavers whic}}h ~~had~~ [at] some seasons of the year was",
+        "markdown": "{{were some who died with feavers whic}}h ~~had~~ [at] some seasons of the year was verry",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/148"
       },
       {
@@ -1470,7 +1470,7 @@
         "page": 149,
         "line": 4,
         "text": "happy in him as we must kneeds suppose",
-        "markdown": "happy in him as ~~w~~ we must kneeds",
+        "markdown": "happy in him as ~~w~~ we must kneeds suppo{{se",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/149"
       }
     ]

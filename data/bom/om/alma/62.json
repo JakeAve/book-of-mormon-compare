@@ -315,7 +315,7 @@
         "page": 191,
         "line": 6,
         "text": "the Judges over the People of Nephi & thus they had had wars & bloodsheds &",
-        "markdown": "the Judges over the People of ~~Nepth~~ Nephi & thus they {{had had wars & bloodsheds",
+        "markdown": "the Judges over the People of ~~Nepth~~ Nephi & thus they {{had had wars & bloodsheds &}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/191"
       },
       {
@@ -439,7 +439,7 @@
         "page": 191,
         "line": 16,
         "text": "man returned to the place of his inheritance & there was once more peace estab",
-        "markdown": "man returned to ~~the~~ the place of his inheritance & there {{was once more peace",
+        "markdown": "man returned to ~~the~~ the place of his inheritance & there {{was once more peace estab}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/191"
       },
       {
@@ -469,7 +469,7 @@
         "page": 191,
         "line": 18,
         "text": "armies into the hands of his Son whose name was Moronihah & he retir",
-        "markdown": "~~◊◊~~ armies into the hands of his Son whose name was M{{oronihah & he",
+        "markdown": "~~◊◊~~ armies into the hands of his Son whose name was M{{oronihah & he retir}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/191"
       },
       {
@@ -725,7 +725,7 @@
         "page": 192,
         "line": 3,
         "text": "Chapter",
-        "markdown": "{{",
+        "markdown": "{{ Chapt}}er",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/192"
       },
       {

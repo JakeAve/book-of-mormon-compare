@@ -118,7 +118,7 @@
         "page": 46,
         "line": 8,
         "text": "wood & of iron & of Copper & of Brass & of steel & of Gold & of Silver & of precious",
-        "markdown": "wood & of iron & of {{Copper}} & of Brass & of steel & of Gold & of Silver & ~~wa~~ of",
+        "markdown": "wood & of iron & of {{Copper}} & of Brass & of steel & of Gold & of Silver & ~~wa~~ of pre{{cious}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/46"
       },
       {
@@ -293,7 +293,7 @@
         "page": 47,
         "line": 6,
         "text": "away fro[m] the time we left Jerusalem &",
-        "markdown": "~~awy~~ away fro[m] the time we left Jer{{usalem",
+        "markdown": "~~awy~~ away fro[m] the time we left Jer{{usalem &",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/47"
       }
     ]
@@ -308,7 +308,7 @@
         "page": 47,
         "line": 6,
         "text": "I Nephi had cept the rec",
-        "markdown": "& I }} N{{e}}phi had cep{{t the",
+        "markdown": "I }} N{{e}}phi had cep{{t the rec}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/47"
       },
       {

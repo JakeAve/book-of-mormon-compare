@@ -51,7 +51,7 @@
         "page": 421,
         "line": 1,
         "text": "& it came to pass that the Lord did say unto me cry unto this people repent ye & come unto me & be",
-        "markdown": "& it came to pass that ~~he~~ the Lord did say unto me cry unto this people repent ye & come unto me &",
+        "markdown": "& it came to pass that ~~he~~ the Lord did say unto me cry unto this people repent ye & come unto me & be",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/421"
       },
       {
@@ -389,7 +389,7 @@
         "page": 421,
         "line": 26,
         "text": "& when they had sworn by",
-        "markdown": "& when they had sworn ~~by~~",
+        "markdown": "& when they had sworn ~~by~~ by",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/421"
       },
       {
@@ -446,6 +446,7 @@
         "page": 421,
         "line": 31,
         "text": "& it came to pass that I utterly refused to go up against mine enemies & I did",
+        "markdown": "& it came to pass that I utterly refused to go up against mine enemies & I did ~~stand as an~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/421"
       },
       {

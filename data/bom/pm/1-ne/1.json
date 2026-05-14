@@ -44,7 +44,7 @@
         "page": 5,
         "line": 6,
         "text": "rney into the wilderness with his family— Nephi taketh his Brethren & retur",
-        "markdown": "rney ~~un~~ into the wilderness with his family— Nephi taketh his Brethren &",
+        "markdown": "rney ~~un~~ into the wilderness with his family— Nephi taketh his Brethren & retur",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/5"
       },
       {
@@ -115,6 +115,7 @@
         "page": 5,
         "line": 14,
         "text": "I Nephi haveing been",
+        "markdown": "I Nephi haveing been ~~bor~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/5"
       },
       {
@@ -249,7 +250,7 @@
         "page": 5,
         "line": 27,
         "text": "repent or the great City Jerusalem must be destroid",
-        "markdown": "repent ~~of~~ or ~~that~~ [the] great City Jerusalem must",
+        "markdown": "repent ~~of~~ or ~~that~~ [the] great City Jerusalem must be destroid",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/5"
       }
     ]
@@ -264,7 +265,7 @@
         "page": 5,
         "line": 27,
         "text": "wherefore it came to",
-        "markdown": "be destroid wherefore it",
+        "markdown": "wherefore it came [to]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/5"
       },
       {
@@ -447,7 +448,7 @@
         "page": 6,
         "line": 6,
         "text": "first came & stood before my father & gave unto him a Book & bade him that",
-        "markdown": "first came & stood before my father & gave unto him a Book & ~~bade~~ [bade] him",
+        "markdown": "first came & stood before my father & gave unto him a Book & ~~bade~~ [bade] him that",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/6"
       },
       {
@@ -618,7 +619,7 @@
         "page": 6,
         "line": 20,
         "text": "y father hath written for he hath written many things which he saw in",
-        "markdown": "y father hath written for he hath written many things which he ~~hath~~ saw",
+        "markdown": "y father hath written for he hath written many things which he ~~hath~~ saw in",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/6"
       },
       {
@@ -668,7 +669,7 @@
         "page": 6,
         "line": 25,
         "text": "own hands wherefore after that I have abridged the record of my father then will I make an account of mine own life",
-        "markdown": "own hands wherefore after that I have abridged the record of my father ~~of my father~~ then will I make an account of",
+        "markdown": "own hands wherefore after that I have abridged the record of my father ~~of my father~~ then will I make an account of mine own life",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/6"
       }
     ]
@@ -683,7 +684,6 @@
         "page": 6,
         "line": 25,
         "text": "therefore I would that",
-        "markdown": "mine own life therefore",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/6"
       },
       {

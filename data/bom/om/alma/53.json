@@ -115,7 +115,7 @@
         "page": 167,
         "line": 8,
         "text": "ring in diging a ditch round about the land or the city Bountiful",
-        "markdown": "ring in diging a ditch ~~a~~round about the land or the {{city Bountiful",
+        "markdown": "ring in diging a ditch ~~a~~round about the land or the {{city Bountiful & he}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/167"
       }
     ]
@@ -130,7 +130,6 @@
         "page": 167,
         "line": 8,
         "text": "& he",
-        "markdown": "& he}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/167"
       },
       {
@@ -162,7 +161,7 @@
         "page": 167,
         "line": 12,
         "text": "eled the City of Bountiful round about with a strong wall of timbe",
-        "markdown": "eled the City of ~~of~~ [Bountiful] ~~a~~round about wit{{h a strong wall of",
+        "markdown": "eled the City of ~~of~~ [Bountiful] ~~a~~round about wit{{h a strong wall of timbe}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/167"
       },
       {
@@ -192,7 +191,7 @@
         "page": 167,
         "line": 14,
         "text": "ever after & in this city they did guard the Prisoners of the Lamanites yea even",
-        "markdown": "~~&~~ [ever] after & in this city they did guard the Prisoners {{of the L}}aman{{ites yea",
+        "markdown": "~~&~~ [ever] after & in this city they did guard the Prisoners {{of the L}}aman{{ites yea even}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/167"
       },
       {
@@ -311,7 +310,7 @@
         "page": 167,
         "line": 26,
         "text": "children from famine & affliction & providing food for their armies",
-        "markdown": "~~Chi~~ children from famine & affliction & providing food for ~~them~~",
+        "markdown": "~~Chi~~ children from famine & affliction & providing food for ~~them~~ [their] armies",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/167"
       }
     ]
@@ -326,7 +325,6 @@
         "page": 167,
         "line": 26,
         "text": "& now it ca",
-        "markdown": "[their] armies & now",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/167"
       },
       {
@@ -334,7 +332,7 @@
         "page": 167,
         "line": 27,
         "text": "me to pass that the armies of the Lamanites on the west Sea South while in the",
-        "markdown": "me to pass that the armies of the Lamanites on the ~~Se~~ west Sea South while in",
+        "markdown": "me to pass that the armies of the Lamanites on the ~~Se~~ west Sea South while in the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/167"
       },
       {
@@ -342,7 +340,7 @@
         "page": 167,
         "line": 28,
         "text": "absence of Moroni on account of some intreague amongst the Nephites",
-        "markdown": "absence of Moroni on account of some intreague amongst the ~~Lamanites~~",
+        "markdown": "absence of Moroni on account of some intreague amongst the ~~Lamanites~~ Nephites",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/167"
       },
       {
@@ -385,7 +383,7 @@
         "page": 167,
         "line": 32,
         "text": "yea because of desensions & intreague among themselves they were plased in",
-        "markdown": "yea because [of] desensions & intreague among themselves they were plased in",
+        "markdown": "yea because [of] desensions & intreague among themselves they were plased in ~~an~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/167"
       },
       {
@@ -393,7 +391,7 @@
         "page": 167,
         "line": 33,
         "text": "the most dangerous circumstances",
-        "markdown": "the most ~~generous~~ [dangerous]",
+        "markdown": "the most ~~generous~~ [dangerous] circumstances",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/167"
       }
     ]
@@ -408,7 +406,6 @@
         "page": 167,
         "line": 33,
         "text": "& now behold I have some what to say conc",
-        "markdown": "circumstances & now behold I have some what to say",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/167"
       },
       {
@@ -416,7 +413,7 @@
         "page": 167,
         "line": 34,
         "text": "erning the People of Ammon which in the beginning were Lamanites but",
-        "markdown": "erning the People of ~~M~~ Ammon which in the beginning were Lamanites",
+        "markdown": "erning the People of ~~M~~ Ammon which in the beginning were Lamanites but",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/167"
       },
       {
@@ -453,7 +450,7 @@
         "page": 168,
         "line": 1,
         "text": "& because of their oath they had been kept from",
-        "markdown": "& bec}}ause of their oath they ~~h~~ had been kep{{t",
+        "markdown": "& bec}}ause of their oath they ~~h~~ had been kep{{t f}}rom",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/168"
       },
       {
@@ -461,7 +458,7 @@
         "page": 168,
         "line": 2,
         "text": "takeing up arms against their Brethren for they had taken an oath that they",
-        "markdown": "{{takeing up arms against their Br}}ethren ~~& w~~ for they had taken an oath",
+        "markdown": "{{takeing up arms against their Br}}ethren ~~& w~~ for they had taken an oath t{{hat}} t{{he}}y",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/168"
       },
       {
@@ -508,7 +505,7 @@
         "page": 168,
         "line": 6,
         "text": "& for this cause they were brought down into the land of",
-        "markdown": "& for ~~the~~ [this] cause they were brought down into the land",
+        "markdown": "& for ~~the~~ [this] cause they were brought down into the land of",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/168"
       },
       {
@@ -614,7 +611,7 @@
         "page": 168,
         "line": 14,
         "text": "ch had entered into this covenant were compeled to behold their Brethren wa",
-        "markdown": "{{ch ha}}d entered int{{o this}} covenant were compeled ~~be~~ [to] behold their Brethren",
+        "markdown": "{{ch ha}}d entered int{{o this}} covenant were compeled ~~be~~ [to] behold their Brethren wa",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/168"
       },
       {
@@ -753,7 +750,7 @@
         "page": 168,
         "line": 25,
         "text": "& now behold as they never had hitherto be",
-        "markdown": "& now behold as they never had ~~th~~ hitherto",
+        "markdown": "& now behold as they never had ~~th~~ hitherto be",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/168"
       },
       {
@@ -768,7 +765,7 @@
         "page": 168,
         "line": 27,
         "text": "so a great support for they took their weopons of war & they would that He",
-        "markdown": "so a great support for they took ~~theer~~ [their] weopons of war & they would that",
+        "markdown": "so a great support for they took ~~theer~~ [their] weopons of war & they would that He",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/168"
       },
       {
@@ -861,7 +858,7 @@
         "page": 168,
         "line": 34,
         "text": "of his two thousand striplingsoldiers to the support of the People",
-        "markdown": "of his two ~~hu~~ thousand stripling~~s~~soldiers to the support of the",
+        "markdown": "of his two ~~hu~~ thousand stripling~~s~~soldiers to the support of the People",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/168"
       },
       {
@@ -900,6 +897,7 @@
         "page": 169,
         "line": 3,
         "text": "Chapter",
+        "markdown": "Chapter {{}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/169"
       },
       {

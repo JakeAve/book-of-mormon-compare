@@ -114,7 +114,7 @@
         "page": 117,
         "line": 32,
         "text": "cerning prayer or worship",
-        "markdown": "cerning prayer ~~of~~ or",
+        "markdown": "cerning prayer ~~of~~ or worship",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/117"
       }
     ]
@@ -129,7 +129,6 @@
         "page": 117,
         "line": 32,
         "text": "for he sayeth thou art merciful O God for thou",
-        "markdown": "worship for he sayeth thou art merciful O God for",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/117"
       },
       {
@@ -369,7 +368,7 @@
         "page": 118,
         "line": 13,
         "text": "& now Alma sayeth unto them do ye believe those scriptures which have been w",
-        "markdown": "{{& now Alma sayeth unto the}}m do ye believe ~~in~~ [th]ose scriptures which have been",
+        "markdown": "{{& now Alma sayeth unto the}}m do ye believe ~~in~~ [th]ose scriptures which have been w",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/118"
       },
       {
@@ -392,7 +391,7 @@
         "page": 118,
         "line": 14,
         "text": "behold if ye do ye must believe what Zenos sayeth",
-        "markdown": "{{beh}}old if ye do ye must believe what Zenos ~~says~~",
+        "markdown": "{{beh}}old if ye do ye must believe what Zenos ~~says~~ [sayeth]",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/118"
       },
       {
@@ -400,7 +399,7 @@
         "page": 118,
         "line": 15,
         "text": "for behold he sayeth thou hast turned away thy Judgments because of thy son",
-        "markdown": "{{for behol}}d he sayeth ~~that~~ [thou] has{{t}} turned away thy Judgments because of thy",
+        "markdown": "{{for behol}}d he sayeth ~~that~~ [thou] has{{t}} turned away thy Judgments because of thy son",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/118"
       }
     ]
@@ -415,7 +414,6 @@
         "page": 118,
         "line": 15,
         "text": "now",
-        "markdown": "son",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/118"
       },
       {
@@ -453,7 +451,7 @@
         "page": 118,
         "line": 18,
         "text": "these things but Zenoch also spake of these things",
-        "markdown": "these things but ~~Zenock~~ Zenoch also spake of ~~th~~",
+        "markdown": "these things but ~~Zenock~~ Zenoch also spake of ~~th~~ these things",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/118"
       }
     ]
@@ -468,7 +466,6 @@
         "page": 118,
         "line": 18,
         "text": "for behold he s",
-        "markdown": "these things for behold",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/118"
       },
       {
@@ -590,7 +587,7 @@
         "page": 118,
         "line": 27,
         "text": "the hardness of their hearts but there were many which were so heardoned",
-        "markdown": "the ~~hea~~ hardness of their heart{{s but there we}}re many which were so",
+        "markdown": "the ~~hea~~ hardness of their heart{{s but there we}}re many which were so heardoned",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/118"
       },
       {

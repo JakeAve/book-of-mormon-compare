@@ -16,7 +16,7 @@
         "page": 282,
         "line": 30,
         "text": "that they did stop & withdrew a pace from them & Moroni said unto Zerahemnah behold",
-        "markdown": "that they did stop & withdrew a pace from them & Moroni said unto Zerahemnah ~~be~~",
+        "markdown": "that they did stop & withdrew a pace from them & Moroni said unto Zerahemnah ~~be~~ [behold]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/282"
       },
       {
@@ -453,7 +453,7 @@
         "page": 283,
         "line": 34,
         "text": "he raised his sword behold one of Moronis Soldiers smote it even to the earth it",
-        "markdown": "he raised his sword behold one of Moronis Soldiers smote it even to the earth ~~&",
+        "markdown": "he raised his sword behold one of Moronis Soldiers smote it even to the earth ~~& ~~ it",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/283"
       },
       {
@@ -503,7 +503,7 @@
         "page": 284,
         "line": 1,
         "text": "& streached it forth unto them saying unto them with a loud voice saying",
-        "markdown": "& streached it forth ~~towards~~ [unto them] saying unto them with a loud voice",
+        "markdown": "& streached it forth ~~towards~~ [unto them] saying unto them with a loud voice saying",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/284"
       }
     ]
@@ -518,7 +518,6 @@
         "page": 284,
         "line": 1,
         "text": "even as",
-        "markdown": "saying even",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/284"
       },
       {
@@ -533,7 +532,7 @@
         "page": 284,
         "line": 3,
         "text": "the earth except ye will deliver up your weapons of war & depart with a covenant of peace",
-        "markdown": "the earth except ye [will] deliver up your ~~swords~~ [weapons] of war & depart with a covenant of",
+        "markdown": "the earth except ye [will] deliver up your ~~swords~~ [weapons] of war & depart with a covenant of peace",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/284"
       }
     ]
@@ -548,7 +547,6 @@
         "page": 284,
         "line": 3,
         "text": "now",
-        "markdown": "peace",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/284"
       },
       {
@@ -556,7 +554,7 @@
         "page": 284,
         "line": 4,
         "text": "there were many when they heard these words & saw the scalp which was upon the sword",
-        "markdown": "there were many when they ~~saw~~ [heard] these words & saw the scalp which was upon the",
+        "markdown": "there were many when they ~~saw~~ [heard] these words & saw the scalp which was upon the sword",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/284"
       },
       {
@@ -782,7 +780,7 @@
         "page": 284,
         "line": 24,
         "text": "the number of their dead were exceding great both on the Nephites & on the Laman",
-        "markdown": "the number of their dead were exceding great ~~on~~ both on the Nephites & on the",
+        "markdown": "the number of their dead were exceding great ~~on~~ both on the Nephites & on the Laman",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/284"
       },
       {
@@ -882,6 +880,7 @@
         "page": 284,
         "line": 32,
         "text": "Helaman according to the record of Helaman which he kept in his days——",
+        "markdown": "Helaman according to the record of Helaman which he kept in his days—— Behold",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/284"
       },
       {
@@ -889,7 +888,7 @@
         "page": 284,
         "line": 32,
         "text": "Behold",
-        "markdown": "Helaman",
+        "markdown": "Helaman according to the record of Helaman which he kept in his days—— Behold",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/284"
       }
     ]

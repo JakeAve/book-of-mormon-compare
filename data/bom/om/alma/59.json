@@ -25,7 +25,7 @@
         "page": 183,
         "line": 29,
         "text": "rejoiced because of the wellfare yea the exceding success which Helaman hadhad in obtaining those lands which were lost",
-        "markdown": "rejo{{iced b}}ecause of the wellfare ~~of~~ yea the exceding success which H{{elaman hadhad}} in obtaining those lands which were",
+        "markdown": "rejo{{iced b}}ecause of the wellfare ~~of~~ yea the exceding success which H{{elaman hadhad}} in obtaining those lands which were lost",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/183"
       }
     ]
@@ -40,7 +40,7 @@
         "page": 183,
         "line": 29,
         "text": "yea & he did make it known unto all his People in all the land round about in that part where he was that theymight rejoice also",
-        "markdown": "lost yea & he did m{{ake it known unto all hi}}s People in all the land round about in that part where h{{e was that theymight rejoi}}ce",
+        "markdown": "yea & he did m{{ake it known unto all hi}}s People in all the land round about in that part where h{{e was that theymight rejoi}}ce also",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/183"
       }
     ]
@@ -55,7 +55,7 @@
         "page": 183,
         "line": 29,
         "text": "& it came to pass that he immediately sent an epistle",
-        "markdown": "also & it came to pass that he immediately sent a{{n",
+        "markdown": "& it came to pass that he immediately sent a{{n epistle}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/183"
       },
       {
@@ -194,7 +194,7 @@
         "page": 184,
         "line": 9,
         "text": "& their armies were so numerous that the remainder of the People of Nephihah w",
-        "markdown": "{{& their armies were so n}}umerous that ~~remainder of~~ [the remainder] of the People of",
+        "markdown": "{{& their armies were so n}}umerous that ~~remainder of~~ [the remainder] of the People of Nep{{hi}}hah w",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/184"
       },
       {
@@ -262,7 +262,7 @@
         "page": 184,
         "line": 14,
         "text": "therefore he retained all",
-        "markdown": "~~&~~ therefore he reta{{i}}ned",
+        "markdown": "~~&~~ therefore he reta{{i}}ned all",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/184"
       },
       {

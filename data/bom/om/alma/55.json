@@ -56,7 +56,7 @@
         "page": 171,
         "line": 6,
         "text": "stated in my epistle for I will not grant unto him that he shall have any more power than",
-        "markdown": "stated in my epistle for I will not grant ~~in~~ [unto] him {{that he shall have any more power",
+        "markdown": "stated in my epistle for I will not grant ~~in~~ [unto] him {{that he shall have any more power than}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/171"
       },
       {
@@ -102,7 +102,7 @@
         "page": 171,
         "line": 10,
         "text": "ll seek death among them untill they shall sue for peace",
-        "markdown": "ll seek death among them untill they shall ~~sue~~ [sue] for",
+        "markdown": "ll seek death among them untill they shall ~~sue~~ [sue] for pe{{ace",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/171"
       }
     ]
@@ -117,7 +117,7 @@
         "page": 171,
         "line": 10,
         "text": "& now it came to pass",
-        "markdown": "pe{{ace & now it came to",
+        "markdown": "& now it came to pass}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/171"
       },
       {
@@ -125,7 +125,7 @@
         "page": 171,
         "line": 11,
         "text": "that when Moroni had said these words he caused that a search should",
-        "markdown": "~~&~~ that when Moroni had said these words he c{{aused that a search",
+        "markdown": "~~&~~ that when Moroni had said these words he c{{aused that a search should}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/171"
       },
       {
@@ -141,7 +141,7 @@
         "page": 171,
         "line": 13,
         "text": "dant of Lamans among them",
-        "markdown": "dant~~s~~ of ~~Lamman~~ [Lamans] among",
+        "markdown": "dant~~s~~ of ~~Lamman~~ [Lamans] among them",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/171"
       }
     ]
@@ -156,7 +156,7 @@
         "page": 171,
         "line": 13,
         "text": "& it came to pass that they found one whose na",
-        "markdown": "them & ~~th~~ [it] came to pass {{that they found one",
+        "markdown": "& ~~th~~ [it] came to pass {{that they found one whose na}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/171"
       },
       {
@@ -164,7 +164,7 @@
         "page": 171,
         "line": 14,
         "text": "me was Laman & he was one of the Servants of the King which was murd",
-        "markdown": "me was ~~Lamman~~ [Laman] & he was one of the Servants {{of the}} King which {{was",
+        "markdown": "me was ~~Lamman~~ [Laman] & he was one of the Servants {{of the}} King which {{was murd}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/171"
       },
       {
@@ -194,7 +194,7 @@
         "page": 171,
         "line": 16,
         "text": "of his men should go forth unto the guards which were over the Nephites",
-        "markdown": "of his men should go forth unto ~~tth~~ the guards which were over the",
+        "markdown": "of his men should go forth unto ~~tth~~ the guards which were over the Nephit{{es",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/171"
       }
     ]
@@ -209,7 +209,7 @@
         "page": 171,
         "line": 16,
         "text": "now",
-        "markdown": "Nephit{{es",
+        "markdown": "now}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/171"
       },
       {
@@ -254,7 +254,7 @@
         "page": 171,
         "line": 21,
         "text": "eth unto them fear not behold I am a Lamanite behold we have escaped fr",
-        "markdown": "eth unto ~~him~~ them fear not behold I am a Lamanite~~s~~ behold we have escaped",
+        "markdown": "eth unto ~~him~~ them fear not behold I am a Lamanite~~s~~ behold we have escaped fr",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/171"
       },
       {
@@ -290,7 +290,7 @@
         "page": 171,
         "line": 24,
         "text": "joy & they said unto him give us of your wine that we may drink we are glad",
-        "markdown": "joy & they said unto him give us of your wine that we may drink ~~were are~~ [we",
+        "markdown": "joy & they said unto him give us of your wine that we may drink ~~were are~~ [we are] glad",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/171"
       },
       {
@@ -312,6 +312,7 @@
         "page": 171,
         "line": 25,
         "text": "but Laman sayeth",
+        "markdown": "but Laman sayeth ~~un~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/171"
       },
       {
@@ -389,6 +390,7 @@
         "page": 171,
         "line": 30,
         "text": "& it came to pass that they did",
+        "markdown": "& it came to pass that they did ~~tak~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/171"
       },
       {
@@ -396,7 +398,7 @@
         "page": 171,
         "line": 31,
         "text": "take of the wine freely & it was pleasant to their taste therefore they took",
-        "markdown": "take of the wine freely & it was pleasant to their taste ~~of~~ [therefore] they",
+        "markdown": "take of the wine freely & it was pleasant to their taste ~~of~~ [therefore] they took",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/171"
       },
       {
@@ -485,7 +487,7 @@
         "page": 172,
         "line": 4,
         "text": "the Lamanites were in a deep sleep & drunken & cast in the weopons of war",
-        "markdown": "{{the Lamanites were in a deep slee}}p & ~~th~~ drunken & cast in the weopons of",
+        "markdown": "{{the Lamanites were in a deep slee}}p & ~~th~~ drunken & cast in the weopons of {{w}}ar",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/172"
       },
       {
@@ -515,7 +517,7 @@
         "page": 172,
         "line": 6,
         "text": "ir women & all those of their children as many as were able to use a",
-        "markdown": "{{ir women & all those of}} ~~there~~ [their] children as many as were able to use",
+        "markdown": "{{ir women & all those of}} ~~there~~ [their] children as many as were able to use a",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/172"
       },
       {
@@ -568,6 +570,7 @@
         "page": 172,
         "line": 9,
         "text": "but behold this",
+        "markdown": "but behold this ~~w~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/172"
       },
       {
@@ -726,7 +729,7 @@
         "page": 172,
         "line": 22,
         "text": "t they should fight with the Nephites therefore their Chief Captains dema",
-        "markdown": "t they should fight with the Nephites ~~◊◊~~ therefore their Chief Captains",
+        "markdown": "t they should fight with the Nephites ~~◊◊~~ therefore their Chief Captains dema",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/172"
       },
       {
@@ -832,7 +835,7 @@
         "page": 172,
         "line": 31,
         "text": "should be taken to the City Bountiful & he also guarded that city with an ex",
-        "markdown": "should be taken to ~~h~~ the City Bountiful & he also guarded that city with an",
+        "markdown": "should be taken to ~~h~~ the City Bountiful & he also guarded that city with an ex",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/172"
       },
       {
@@ -861,7 +864,7 @@
         "page": 172,
         "line": 33,
         "text": "treagues of the Lamanites keep & protect all the prisoners which they had",
-        "markdown": "treagues of the Lamanites keep ~~a~~ [&] protect all the prisoners which they",
+        "markdown": "treagues of the Lamanites keep ~~a~~ [&] protect all the prisoners which they had",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/172"
       },
       {
@@ -891,7 +894,7 @@
         "page": 173,
         "line": 1,
         "text": "reclaim their rites & their privileges",
-        "markdown": "~~Proclaim~~ [reclaim] their rites & their",
+        "markdown": "~~Proclaim~~ [reclaim] their rites & their privil{{eges",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/173"
       }
     ]
@@ -906,7 +909,7 @@
         "page": 173,
         "line": 1,
         "text": "many times did the Lamanites at",
-        "markdown": "privil{{eges many times did the Lamanites",
+        "markdown": "many times did the Lamanites at}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/173"
       },
       {
@@ -1087,7 +1090,7 @@
         "page": 173,
         "line": 14,
         "text": "year of the Reign of the Judges over the People of Nephi",
-        "markdown": "~~teentt~~ year of the Reign of the Judges over the People of",
+        "markdown": "~~teentt~~ year of the Reign of the Judges over the People of N{{ephi }}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/173"
       },
       {
@@ -1095,6 +1098,7 @@
         "page": 173,
         "line": 15,
         "text": "Chipter",
+        "markdown": "Chipter {{}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/173"
       },
       {

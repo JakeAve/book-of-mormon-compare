@@ -241,7 +241,7 @@
         "page": 237,
         "line": 8,
         "text": "the matter I thank my God my beloved People that our great God",
-        "markdown": "the matter I thank my God my beloved ~~brethren~~ [People] that our great",
+        "markdown": "the matter I thank my God my beloved ~~brethren~~ [People] that our great God",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/237"
       },
       {
@@ -536,7 +536,7 @@
         "page": 238,
         "line": 2,
         "text": "are made bright let us hade them away that they may be kept bright",
-        "markdown": "are made bright let us hade them away that they may be kept ~~as~~",
+        "markdown": "are made bright let us hade them away that they may be kept ~~as~~ bright",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/238"
       },
       {
@@ -909,7 +909,7 @@
         "page": 239,
         "line": 6,
         "text": "there were many whose hearts had swollen in them for those of their",
-        "markdown": "there were many ~~which~~ [whose] hearts had swollen in them for those of",
+        "markdown": "there were many ~~which~~ [whose] hearts had swollen in them for those of their",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/239"
       },
       {

@@ -101,7 +101,7 @@
         "page": 35,
         "line": 26,
         "text": "en keep the commandments of God he doth nourish them & strengthen them",
-        "markdown": "en keep the commandments of God he doth nourish ~~them~~ [them &] strengthen",
+        "markdown": "en keep the commandments of God he doth nourish ~~them~~ [them &] strengthen them",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/35"
       },
       {
@@ -431,7 +431,7 @@
         "page": 36,
         "line": 16,
         "text": "& I will also be your light in the wilderness & I will prepare the way",
-        "markdown": "& I will also be you[r] light in the wilderness & I will prepare ~~y◊~~ the",
+        "markdown": "& I will also be you[r] light in the wilderness & I will prepare ~~y◊~~ the way",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/36"
       },
       {
@@ -775,7 +775,7 @@
         "page": 37,
         "line": 11,
         "text": "le & our father hath Judged them & hath lead us away because we would hearken",
-        "markdown": "le & our father hath Judged ~~&~~ them & hath lead us away because we would",
+        "markdown": "le & our father hath Judged ~~&~~ them & hath lead us away because we would hearken ~~to~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/37"
       },
       {
@@ -1059,7 +1059,7 @@
         "page": 37,
         "line": 34,
         "text": "to his word he did lead them & according to his word he did do all things for",
-        "markdown": "to his word he did lead them & according to his word he did ~~to~~ [do] all things",
+        "markdown": "to his word he did lead them & according to his word he did ~~to~~ [do] all things for",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/37"
       },
       {
@@ -1123,7 +1123,7 @@
         "page": 38,
         "line": 2,
         "text": "children of this land which were in the land of promise which were driven out",
-        "markdown": "children of this land which were in the land of promise which were ~~driven~~ [driven]",
+        "markdown": "children of this land which were in the land of promise which were ~~driven~~ [driven] out",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/38"
       },
       {
@@ -1321,7 +1321,7 @@
         "page": 38,
         "line": 16,
         "text": "hich will have him to be their God behold he loved our fathers & he",
-        "markdown": "hich will have him to be their God behold he loved our ~~fath~~ fathers &",
+        "markdown": "hich will have him to be their God behold he loved our ~~fath~~ fathers & he",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/38"
       },
       {
@@ -1883,7 +1883,7 @@
         "page": 39,
         "line": 34,
         "text": "had spoken",
-        "markdown": "~~has~~ [had]",
+        "markdown": "~~has~~ [had] spoken",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/39"
       }
     ]
@@ -1898,7 +1898,6 @@
         "page": 39,
         "line": 34,
         "text": "& now they said we know of a surety that the Lord is with thee for",
-        "markdown": "spoken & now they said we know of a surety that the Lord is with thee",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/39"
       },
       {
@@ -1913,6 +1912,7 @@
         "page": 39,
         "line": 36,
         "text": "before me & were about to worship me but I would not suffer them",
+        "markdown": "before me & were about to worship me but I would not suffer them ~~say~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/39"
       },
       {

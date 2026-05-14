@@ -58,7 +58,7 @@
         "page": 439,
         "line": 35,
         "text": "shall assist to bring forth this work",
-        "markdown": "shall assist to bring ~~forth~~ [forth this]",
+        "markdown": "shall assist to bring ~~forth~~ [forth this] work",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/439"
       }
     ]
@@ -73,7 +73,6 @@
         "page": 439,
         "line": 35,
         "text": "& unto three shall they be shewn by the power",
-        "markdown": "work & unto three shall they be shewn by the",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/439"
       },
       {

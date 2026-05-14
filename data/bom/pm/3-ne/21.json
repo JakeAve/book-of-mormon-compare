@@ -51,7 +51,7 @@
         "page": 402,
         "line": 32,
         "text": "rily I say unto you that when these things which I deliver unto you and wh",
-        "markdown": "rily I say unto you that when these things which I ~~deliver~~ [deliver] unto you and",
+        "markdown": "rily I say unto you that when these things which I ~~deliver~~ [deliver] unto you and wh",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/402"
       },
       {
@@ -143,7 +143,7 @@
         "page": 403,
         "line": 2,
         "text": "the Father that these might come forth from them unto a remnant of your",
-        "markdown": "~~of~~ the Father that these might come forth from them unto a remnant of",
+        "markdown": "~~of~~ the Father that these might come forth from them unto a remnant of your",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/403"
       },
       {
@@ -207,7 +207,7 @@
         "page": 403,
         "line": 7,
         "text": "for thus it behoveth the Father that it should",
-        "markdown": "for thus it ~~becometh~~ behoveth the Father that it",
+        "markdown": "for thus it ~~becometh~~ behoveth the Father that it should",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/403"
       },
       {
@@ -334,7 +334,7 @@
         "page": 403,
         "line": 19,
         "text": "work a work which shall be a great & a marvelous work among them",
-        "markdown": "work a work ~~among~~ which shall be a great & a marvelous work among",
+        "markdown": "work a work ~~among~~ which shall be a great & a marvelous work among them",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/403"
       },
       {
@@ -377,7 +377,7 @@
         "page": 403,
         "line": 23,
         "text": "because of them yet I will heal him for I will shew unto them that",
-        "markdown": "because of them yet I will heal him for I will shew unto ~~him~~ them",
+        "markdown": "because of them yet I will heal him for I will shew unto ~~him~~ them that",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/403"
       },
       {
@@ -756,7 +756,7 @@
         "page": 404,
         "line": 14,
         "text": "as many of the house of Israel as shall come, that they may build",
-        "markdown": "as many of the house of ~~Jacob~~ Israel as shall come, that they may",
+        "markdown": "as many of the house of ~~Jacob~~ Israel as shall come, that they may build",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/404"
       },
       {

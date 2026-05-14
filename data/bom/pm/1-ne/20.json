@@ -9,7 +9,7 @@
         "page": 44,
         "line": 31,
         "text": "hearken & hear this O house of Jacob which are called",
-        "markdown": "hearken & hear this O house of ~~Israel~~ [Jacob] which are",
+        "markdown": "hearken & hear this O house of ~~Israel~~ [Jacob] which are called",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/44"
       },
       {
@@ -108,7 +108,7 @@
         "page": 45,
         "line": 4,
         "text": "thy brow brass",
-        "markdown": "~~thy~~ [thy] brow",
+        "markdown": "~~thy~~ [thy] brow brass",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/45"
       }
     ]
@@ -123,7 +123,6 @@
         "page": 45,
         "line": 4,
         "text": "& I have even from the beginning declared to thee befo",
-        "markdown": "brass & I have even from the beginning declared to thee",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/45"
       },
       {
@@ -250,7 +249,7 @@
         "page": 45,
         "line": 14,
         "text": "nevertheless for <​my ​>",
-        "markdown": "nevertheless for ~~thy~~ <​my",
+        "markdown": "nevertheless for ~~thy~~ <​my ~~name~~​> name",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/45"
       },
       {

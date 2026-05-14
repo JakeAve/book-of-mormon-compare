@@ -129,7 +129,7 @@
         "page": 235,
         "line": 9,
         "text": "ughout all the land that his people might be convinced concerning",
-        "markdown": "ughout all ~~his~~ [the] land that his people might be convinced",
+        "markdown": "ughout all ~~his~~ [the] land that his people might be convinced concerning",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/235"
       },
       {
@@ -221,7 +221,7 @@
         "page": 235,
         "line": 18,
         "text": "thousands were borught to the knowledge of the Lord yea thousands were",
-        "markdown": "thousands were ~~born~~ borught to the knowledge of the Lord yea thousands",
+        "markdown": "thousands were ~~born~~ borught to the knowledge of the Lord yea thousands were",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/235"
       },
       {

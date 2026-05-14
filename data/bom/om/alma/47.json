@@ -9,7 +9,7 @@
         "page": 149,
         "line": 4,
         "text": "now we will return in our rec",
-        "markdown": "suppo{{se now we will return in our",
+        "markdown": "now we will return in our rec}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/149"
       },
       {
@@ -17,7 +17,7 @@
         "page": 149,
         "line": 5,
         "text": "kord to Amaleckiah & those which fled with him into the wilderness for be",
-        "markdown": "kord to Amaleckiah & those which [fled] ~~were~~ w{{ith him into the wilderness for",
+        "markdown": "kord to Amaleckiah & those which [fled] ~~were~~ w{{ith him into the wilderness for be}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/149"
       },
       {
@@ -25,7 +25,7 @@
         "page": 149,
         "line": 6,
         "text": "hold he had took those which were with him & went up into the land of Nephi",
-        "markdown": "hold he had took those which ~~went~~ [were] with {{him & went up into the land of",
+        "markdown": "hold he had took those which ~~went~~ [were] with {{him & went up into the land of Nephi}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/149"
       },
       {
@@ -49,7 +49,7 @@
         "page": 149,
         "line": 9,
         "text": "nd among all his People that they should gather themselves together again to go to",
-        "markdown": "nd among all ~~hi~~ his People that they should gather thems{{elv}}es tog{{ether again to go",
+        "markdown": "nd among all ~~hi~~ his People that they should gather thems{{elv}}es tog{{ether again to go to}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/149"
       },
       {
@@ -80,7 +80,7 @@
         "page": 149,
         "line": 11,
         "text": "th among them they were exceding fraid yea they feard to displease the Kin",
-        "markdown": "th among ~~<​their​>~~ [them] they were exceding fraid yea they ~~were~~ feard to d{{isplease",
+        "markdown": "th among ~~<​their​>~~ [them] they were exceding fraid yea they ~~were~~ feard to d{{isplease the Kin}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/149"
       },
       {
@@ -96,7 +96,7 @@
         "page": 149,
         "line": 13,
         "text": "their lives & it came to pass that they would not or the more part of them would n",
-        "markdown": "their ~~lives~~ [lives] & it came to pass that they would not or the~~y~~ more part {{of them would",
+        "markdown": "their ~~lives~~ [lives] & it came to pass that they would not or the~~y~~ more part {{of them would n}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/149"
       },
       {
@@ -126,7 +126,7 @@
         "page": 149,
         "line": 15,
         "text": "because of their disobediance therefore he gave Amelickiah the command of",
-        "markdown": "becaus[e] of ~~there~~ [their] disobediance therefore he gave Ame{{li}}ckiah {{the command",
+        "markdown": "becaus[e] of ~~there~~ [their] disobediance therefore he gave Ame{{li}}ckiah {{the command of}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/149"
       },
       {
@@ -208,7 +208,7 @@
         "page": 149,
         "line": 22,
         "text": "to the place which was called Oneidah for thither had all the Lamanites fled",
-        "markdown": "to the place which was called Oneidah for thither had all ~~of <​the​>~~ the",
+        "markdown": "to the place which was called Oneidah for thither had all ~~of <​the​>~~ the Lamanites fled",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/149"
       },
       {
@@ -244,7 +244,7 @@
         "page": 149,
         "line": 25,
         "text": "ed a man to be a King & a leader over them being fixed in their minds",
-        "markdown": "ed a man to be a King & a leader over ~~being~~ [them] being fixed in their",
+        "markdown": "ed a man to be a King & a leader over ~~being~~ [them] being fixed in their minds",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/149"
       },
       {
@@ -259,7 +259,7 @@
         "page": 149,
         "line": 27,
         "text": "st the Nephites & it came to pass that thay had gathered themselves to gether up",
-        "markdown": "st the Nephites & it came to pass that thay had gathered themselves to ~~gather~~ [gether]",
+        "markdown": "st the Nephites & it came to pass that thay had gathered themselves to ~~gather~~ [gether] up",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/149"
       }
     ]
@@ -339,7 +339,7 @@
         "page": 149,
         "line": 34,
         "text": "was near the Mount Antipus",
-        "markdown": "was ~~in the~~ near the",
+        "markdown": "was ~~in the~~ near the Mount Antipus",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/149"
       }
     ]
@@ -354,7 +354,6 @@
         "page": 149,
         "line": 34,
         "text": "& it came to pass that when it was",
-        "markdown": "Mount Antipus & it came to pass that when",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/149"
       },
       {
@@ -362,7 +361,7 @@
         "page": 149,
         "line": 35,
         "text": "night he sent a secret Embassy into the Mount Antipas desireing",
-        "markdown": "night he sent a secret ~~A~~ Embassy into the Mount Antipas",
+        "markdown": "night he sent a secret ~~A~~ Embassy into the Mount Antipas desirein{{g}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/149"
       },
       {
@@ -517,7 +516,7 @@
         "page": 150,
         "line": 14,
         "text": "liver them up into Lehonties hands if he would make him Ameleckiah the",
-        "markdown": "{{liver them up into Leho}}nties hands if he ~~mad~~ [would] make him Ameleckiah",
+        "markdown": "{{liver them up into Leho}}nties hands if he ~~mad~~ [would] make him Ameleckiah the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/150"
       },
       {
@@ -540,6 +539,7 @@
         "page": 150,
         "line": 15,
         "text": "& it came to pass that Lehonti came",
+        "markdown": "& it came to pass that Lehonti came ~~down~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/150"
       },
       {
@@ -547,7 +547,7 @@
         "page": 150,
         "line": 16,
         "text": "down with his men & surrounded the men of Amelickiah so that before they awoke at the dawn of the day they were surrounded by the armies of Lehonti",
-        "markdown": "{{do}}wn w{{it}}h his men [&] ~~to~~ surrounded the men of Amelickiah so that before ~~thy~~ [they] ~~awo~~ awoke at the dawn of the day they were surrounded by the",
+        "markdown": "{{do}}wn w{{it}}h his men [&] ~~to~~ surrounded the men of Amelickiah so that before ~~thy~~ [they] ~~awo~~ awoke at the dawn of the day they were surrounded by the armies of Lehonti",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/150"
       }
     ]
@@ -562,7 +562,6 @@
         "page": 150,
         "line": 16,
         "text": "&",
-        "markdown": "armies",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/150"
       },
       {
@@ -577,6 +576,7 @@
         "page": 150,
         "line": 18,
         "text": "Amelickiah that he would suffer them to fall in with their Brethren",
+        "markdown": "Amelickiah that he would suffer them to fall in with their Brethren ~~tha~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/150"
       },
       {
@@ -633,7 +633,7 @@
         "page": 150,
         "line": 22,
         "text": "now it was the custom",
-        "markdown": "now it ~~was~~ was the",
+        "markdown": "now it ~~was~~ was the custom",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/150"
       },
       {
@@ -641,7 +641,7 @@
         "page": 150,
         "line": 23,
         "text": "among the Lamanites if their chief leader was killed to appoint the second le",
-        "markdown": "among the Lamanites if ~~there~~ [their] chief leader was killed to appoint the second",
+        "markdown": "among the Lamanites if ~~there~~ [their] chief leader was killed to appoint the second le",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/150"
       },
       {
@@ -705,7 +705,7 @@
         "page": 150,
         "line": 27,
         "text": "& it came to pass that Amelickiah march",
-        "markdown": "& it came to pass that Amelickiah ~~mar~~",
+        "markdown": "& it came to pass that Amelickiah ~~mar~~ march",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/150"
       },
       {
@@ -748,6 +748,7 @@
         "page": 150,
         "line": 31,
         "text": "eleckiah had gathered together so great an army for to go against the Nephites",
+        "markdown": "eleckiah had gathered together so great an army for to go against the Nephites ~~in~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/150"
       },
       {
@@ -769,7 +770,7 @@
         "page": 150,
         "line": 32,
         "text": "but behold as the King came out to meet him Amelickiah",
-        "markdown": "but behold as the King came out ~~be~~ [to] meet him",
+        "markdown": "but behold as the King came out ~~be~~ [to] meet him Amelickiah ~~caused~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/150"
       },
       {
@@ -777,7 +778,7 @@
         "page": 150,
         "line": 33,
         "text": "caused that his servants should go forth to meet the King & they went forth",
-        "markdown": "caused that his servants should go forth to meet the King & they went ~~up~~",
+        "markdown": "caused that his servants should go forth to meet the King & they went ~~up~~ [forth]",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/150"
       },
       {
@@ -912,7 +913,7 @@
         "page": 151,
         "line": 7,
         "text": "& it came to pass that Ameleckiah commanded that his",
-        "markdown": "& it came to pass that Amelec{{kiah commanded that his",
+        "markdown": "& it came to pass that Amelec{{kiah commanded that his }}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/151"
       },
       {
@@ -920,7 +921,7 @@
         "page": 151,
         "line": 8,
         "text": "armies should march forth & see what had hapened to the King & w",
-        "markdown": "armies should march ~~froeth~~ forth ~~& s~~ & see what had {{hapened to the",
+        "markdown": "armies should march ~~froeth~~ forth ~~& s~~ & see what had {{hapened to the King & w}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/151"
       },
       {
@@ -1004,7 +1005,7 @@
         "page": 151,
         "line": 15,
         "text": "of Zarahemla & joined the People of Ammon",
-        "markdown": "of Zarahemla & joined the People of ~~Ameleck~~",
+        "markdown": "of Zarahemla & joined the People of ~~Ameleck~~ [Ammon]",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/151"
       }
     ]
@@ -1019,7 +1020,7 @@
         "page": 151,
         "line": 15,
         "text": "& the army which persued after them",
-        "markdown": "[Ammon] & the army whic{{h persue}}d {{after",
+        "markdown": "& the army whic{{h persue}}d {{after them}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/151"
       },
       {
@@ -1078,7 +1079,7 @@
         "page": 151,
         "line": 19,
         "text": "een when she had heard that the King was slain for Amelickiah had sent an",
-        "markdown": "een when she ~~hath~~ [had] heard that the King was slain ~~&~~ for Amelickia{{h}} had",
+        "markdown": "een when she ~~hath~~ [had] heard that the King was slain ~~&~~ for Amelickia{{h}} had sent an",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/151"
       },
       {
@@ -1086,7 +1087,7 @@
         "page": 151,
         "line": 20,
         "text": "embassy to the Queen informing her that the King had been slain by his ser",
-        "markdown": "embassy to the Queen informing her that the ~~Qu~~ King had been {{sl}}ain by his",
+        "markdown": "embassy to the Queen informing her that the ~~Qu~~ King had been {{sl}}ain by his ser",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/151"
       },
       {
@@ -1094,7 +1095,7 @@
         "page": 151,
         "line": 21,
         "text": "vants that he had persued them with his army but it was invain & they had",
-        "markdown": "vants that he had persued them with his army but it ~~was~~ was invain & they",
+        "markdown": "vants that he had persued them with his army but it ~~was~~ was invain & they had",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/151"
       },
       {
@@ -1151,7 +1152,7 @@
         "page": 151,
         "line": 26,
         "text": "& it came to pass that Ameleckiah took that same servant that slew",
-        "markdown": "& it came to pass that ~~same se~~ Ameleckiah took that same servant~~s~~",
+        "markdown": "& it came to pass that ~~same se~~ Ameleckiah took that same servant~~s~~ that slew",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/151"
       },
       {
@@ -1259,7 +1260,7 @@
         "page": 152,
         "line": 2,
         "text": "it is strange to relate not long after their desensions they became",
-        "markdown": "{{it is strange to relate not long}} after their desensions they became",
+        "markdown": "{{it is strange to relate not long}} after their desensions they became ~~more im~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/152"
       },
       {
@@ -1267,7 +1268,7 @@
         "page": 152,
         "line": 3,
         "text": "more heardened & impenitent & more wild wicked & ferocious than the Lam",
-        "markdown": "{{more heardened & impenitent &}} more wild wicked & ferocious ~~that~~ [than] the",
+        "markdown": "{{more heardened & impenitent &}} more wild wicked & ferocious ~~that~~ [than] the Lam",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/152"
       },
       {

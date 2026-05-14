@@ -40,7 +40,7 @@
         "page": 73,
         "line": 8,
         "text": "ing unto the people & this he done that he might overthreow the doc",
-        "markdown": "{{ing unto the people & this he}} done that he might ~~overthrew~~ [overthreow] the",
+        "markdown": "{{ing unto the people & this he}} done that he might ~~overthrew~~ [overthreow] the doc",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/73"
       },
       {
@@ -499,7 +499,7 @@
         "page": 74,
         "line": 18,
         "text": "of eternal",
-        "markdown": "& of",
+        "markdown": "& of eternal}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/74"
       }
     ]

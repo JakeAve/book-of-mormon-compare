@@ -9,7 +9,7 @@
         "page": 147,
         "line": 30,
         "text": "And now it came to pass that when Abinadi",
-        "markdown": "—— Chapter []—— And now it came to pass",
+        "markdown": "—— Chapter []—— And now it came to pass that when Abinadi",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/147"
       },
       {
@@ -38,6 +38,7 @@
         "page": 147,
         "line": 32,
         "text": "but there was one among them whose name was",
+        "markdown": "but there was one among them whose name was ~~Alma~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/147"
       },
       {
@@ -45,7 +46,7 @@
         "page": 147,
         "line": 33,
         "text": "Alma & he believed the words which Abinadi had spoken for he knew concerning the",
-        "markdown": "Alma & he believed the ~~words~~ [words] which Abinadi had spoken for he knew concerning",
+        "markdown": "Alma & he believed the ~~words~~ [words] which Abinadi had spoken for he knew concerning the",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/147"
       },
       {
@@ -53,7 +54,7 @@
         "page": 147,
         "line": 34,
         "text": "iniquity which Abinadi had testified against them therefore he began to",
-        "markdown": "iniquity which Abinadi had ~~spoken~~ testified against them therefore he began",
+        "markdown": "iniquity which Abinadi had ~~spoken~~ testified against them therefore he began to",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/147"
       },
       {

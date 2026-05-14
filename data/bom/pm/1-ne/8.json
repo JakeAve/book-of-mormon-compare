@@ -100,7 +100,7 @@
         "page": 16,
         "line": 7,
         "text": "behold methought I saw a dark & dreary wilderness",
-        "markdown": "behold ~~me~~ [me]thought I saw a dark & dreary",
+        "markdown": "behold ~~me~~ [me]thought I saw a dark & dreary wilderness",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/16"
       }
     ]
@@ -115,7 +115,6 @@
         "page": 16,
         "line": 7,
         "text": "& it came to pass that",
-        "markdown": "wilderness & it came to pass",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/16"
       },
       {
@@ -123,7 +122,7 @@
         "page": 16,
         "line": 8,
         "text": "I saw a man & he was dressed in a white robe & he came & stood before me",
-        "markdown": "I saw a man & he was ~~drest~~ [dressed] in a white robe & he came & stood before",
+        "markdown": "I saw a man & he was ~~drest~~ [dressed] in a white robe & he came & stood before me",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/16"
       }
     ]
@@ -138,7 +137,7 @@
         "page": 16,
         "line": 9,
         "text": "& it came to pass that he spake unto me & bade me follow him",
-        "markdown": "& it came to pass that he spake unto me & ~~said~~ bade me follow",
+        "markdown": "& it came to pass that he spake unto me & ~~said~~ bade me follow him",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/16"
       }
     ]
@@ -216,7 +215,7 @@
         "page": 16,
         "line": 15,
         "text": "Lord beheld a large & spacious field",
-        "markdown": "Lord ~~behold~~ beheld a large & spacious",
+        "markdown": "Lord ~~behold~~ beheld a large & spacious field",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/16"
       }
     ]
@@ -231,7 +230,6 @@
         "page": 16,
         "line": 15,
         "text": "& it came to pass that I beheld a tree",
-        "markdown": "field & it came to pass that I beheld a",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/16"
       },
       {
@@ -604,7 +602,7 @@
         "page": 17,
         "line": 5,
         "text": "mist of darkness insomuch that they which had commenced in the path did lose",
-        "markdown": "mist of darkness insomuch that they which had commenced in the path did ~~loose~~",
+        "markdown": "mist of darkness insomuch that they which had commenced in the path did ~~loose~~ [lose]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/17"
       },
       {
@@ -648,7 +646,7 @@
         "page": 17,
         "line": 9,
         "text": "they did come forth & partook of the fruit of the tree",
-        "markdown": "they did come forth & ~~partake~~ [partook] of the fruit of the",
+        "markdown": "they did come forth & ~~partake~~ [partook] of the fruit of the tree",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/17"
       }
     ]
@@ -663,7 +661,6 @@
         "page": 17,
         "line": 9,
         "text": "& after that they had partook of the",
-        "markdown": "tree & after that they had partook of",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/17"
       },
       {
@@ -799,7 +796,7 @@
         "page": 17,
         "line": 18,
         "text": "but to be short in writing behold he saw other multitudes pressing forward &",
-        "markdown": "but ~~be~~ to be short in writing behold he saw other multitude[s] pressing forward",
+        "markdown": "but ~~be~~ to be short in writing behold he saw other multitude[s] pressing forward &",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/17"
       },
       {
@@ -898,7 +895,7 @@
         "page": 17,
         "line": 26,
         "text": "but we heeded them not",
-        "markdown": "but we ~~beheld~~ ~~<​headed​>~~ heeded",
+        "markdown": "but we ~~beheld~~ ~~<​headed​>~~ heeded them not",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/17"
       }
     ]
@@ -913,7 +910,7 @@
         "page": 17,
         "line": 26,
         "text": "these are the words of my father for as many as heeded them",
-        "markdown": "them not these are the words of my father for [as] many as",
+        "markdown": "these are the words of my father for [as] many as heeded them",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/17"
       },
       {

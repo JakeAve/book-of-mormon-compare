@@ -135,6 +135,7 @@
         "page": 96,
         "line": 16,
         "text": "& now if the Lamb",
+        "markdown": "& now if the Lamb ~~of~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/96"
       },
       {
@@ -170,7 +171,7 @@
         "page": 96,
         "line": 19,
         "text": "w I would ask of you my beloved Brethren wherein the Lamb of God did fulfil all right",
-        "markdown": "w I would ask of you my ~~believed~~ beloved Brethren wherein the Lamb of God did fulfil all",
+        "markdown": "w I would ask of you my ~~believed~~ beloved Brethren wherein the Lamb of God did fulfil all right",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/96"
       },
       {
@@ -213,7 +214,7 @@
         "page": 96,
         "line": 23,
         "text": "obediant unto him in keeping his commandments",
-        "markdown": "obediant unto [him] ~~the Father~~ in keeping",
+        "markdown": "obediant unto [him] ~~the Father~~ in keeping his commandments",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/96"
       }
     ]
@@ -228,7 +229,6 @@
         "page": 96,
         "line": 23,
         "text": "wherefore after that he was Baptis",
-        "markdown": "his commandments wherefore after that he",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/96"
       },
       {
@@ -264,7 +264,7 @@
         "page": 96,
         "line": 26,
         "text": "hich they should enter he haveing set the example before them",
-        "markdown": "hich they should enter ~~he~~ [he] haveing set the example before",
+        "markdown": "hich they should enter ~~he~~ [he] haveing set the example before them",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/96"
       }
     ]
@@ -279,7 +279,6 @@
         "page": 96,
         "line": 26,
         "text": "& he sayeth unto the ch",
-        "markdown": "them & he sayeth unto the",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/96"
       },
       {
@@ -336,7 +335,7 @@
         "page": 96,
         "line": 30,
         "text": "unto me saying he that is Baptised in my name to him will the Father give the Holy Ghost",
-        "markdown": "~~to~~ [unto] me saying he that is Baptised in my name to him will the Father give the Holy",
+        "markdown": "~~to~~ [unto] me saying he that is Baptised in my name to him will the Father give the Holy Ghost",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/96"
       },
       {
@@ -379,7 +378,7 @@
         "page": 96,
         "line": 35,
         "text": "st by Baptism yea by following your Lord & Saviour down into the water according to",
-        "markdown": "st by Baptism yea by ~~followein~~ [following] your Lord & Saviour down into the water according",
+        "markdown": "st by Baptism yea by ~~followein~~ [following] your Lord & Saviour down into the water according to",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/96"
       },
       {
@@ -612,7 +611,7 @@
         "page": 97,
         "line": 19,
         "text": "him relying wholely upon the merrits of him who is mighty to save",
-        "markdown": "him relying wholely upon the merrits of him who is ~~able~~ mighty to",
+        "markdown": "him relying wholely upon the merrits of him who is ~~able~~ mighty to save",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/97"
       }
     ]
@@ -627,7 +626,6 @@
         "page": 97,
         "line": 19,
         "text": "wherefore ye must",
-        "markdown": "save wherefore ye",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/97"
       },
       {
@@ -684,7 +682,7 @@
         "page": 97,
         "line": 25,
         "text": "the only & true doctrine of the Father & of the Son & of the Holy Ghost which is one",
-        "markdown": "the only & true ~~doctrine~~ doctrine of the Father & of the Son & of the Holy Ghost which is",
+        "markdown": "the only & true ~~doctrine~~ doctrine of the Father & of the Son & of the Holy Ghost which is ~~one~~ [one]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/97"
       },
       {

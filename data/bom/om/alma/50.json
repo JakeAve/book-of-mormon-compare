@@ -9,7 +9,7 @@
         "page": 157,
         "line": 1,
         "text": "And now it Came to pass that Moroni did not stop makeing preperations for war or to defend themselves against the Lamanites for he caused",
-        "markdown": "And now it Came to pass that M{{oroni did not stop makeing preperation}}s for war or ~~de~~ to defend themsel{{ves against the Lamanites for he",
+        "markdown": "And now it Came to pass that M{{oroni did not stop makeing preperation}}s for war or ~~de~~ to defend themsel{{ves against the Lamanites for he caused}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/157"
       },
       {
@@ -177,7 +177,7 @@
         "page": 157,
         "line": 15,
         "text": "round about every City in all the land",
-        "markdown": "~~a~~round about every City in all the land",
+        "markdown": "~~a~~round about every City in all the land & it came to pass that Mo{{r}}oni c{{aus}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/157"
       }
     ]
@@ -192,7 +192,6 @@
         "page": 157,
         "line": 15,
         "text": "& it came to pass that Moroni caus",
-        "markdown": "& it came to pass that Mo{{r}}oni c{{aus}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/157"
       },
       {
@@ -200,7 +199,7 @@
         "page": 157,
         "line": 16,
         "text": "ed that his armies should go forth into the east wilderness yea & they went",
-        "markdown": "ed that his armies should go forth into the east ~~w~~ wilderness yea & they",
+        "markdown": "ed that his armies should go forth into the east ~~w~~ wilderness yea & they went",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/157"
       },
       {
@@ -229,7 +228,7 @@
         "page": 157,
         "line": 18,
         "text": "& the land of Nep",
-        "markdown": "& the ~~lend~~ land of",
+        "markdown": "& the ~~lend~~ land of Nep",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/157"
       },
       {
@@ -237,7 +236,7 @@
         "page": 157,
         "line": 19,
         "text": "hi did run in a straight course from the east Sea to the west",
-        "markdown": "hi did run in a straight course from the east Sea to ~~west~~ [the",
+        "markdown": "hi did run in a straight course from the east Sea to ~~west~~ [the west]",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/157"
       }
     ]
@@ -252,7 +251,6 @@
         "page": 157,
         "line": 19,
         "text": "& it came",
-        "markdown": "west] & it",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/157"
       },
       {
@@ -353,7 +351,7 @@
         "page": 157,
         "line": 29,
         "text": "nd of Nephi from the West Sea running by the head of the River Sidon the Ne",
-        "markdown": "nd of Nephi from the ~~r~~ West Sea running by the head of the River Sidon the",
+        "markdown": "nd of Nephi from the ~~r~~ West Sea running by the head of the River Sidon the Ne",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/157"
       },
       {
@@ -427,7 +425,7 @@
         "page": 158,
         "line": 2,
         "text": "& it came to pass that the Nephites began thefoundation of a city & they called the name of the city Moroni & it was by theeast Sea & it was on a South by the line of the possessions of the Lamanites",
-        "markdown": "&}} it came to pass that the Nephites bega{{n thefoundation of a city & they called the}} name of the city ~~Nephi~~ [Moroni] & it was by {{theeast Sea & it was on a South by the l}}ine of the possessions of the",
+        "markdown": "&}} it came to pass that the Nephites bega{{n thefoundation of a city & they called the}} name of the city ~~Nephi~~ [Moroni] & it was by {{theeast Sea & it was on a South by the l}}ine of the possessions of the Lamanites",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/158"
       }
     ]
@@ -442,7 +440,6 @@
         "page": 158,
         "line": 2,
         "text": "&",
-        "markdown": "Lamanites",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/158"
       },
       {
@@ -587,7 +584,7 @@
         "page": 158,
         "line": 12,
         "text": "& just are all the dealings of the Lord to the fulfiling of all his words unto the",
-        "markdown": "{{& just are all}} the {{dea}}lings~~s~~ of the Lord to the fulfiling of ~~h~~ all his words unto",
+        "markdown": "{{& just are all}} the {{dea}}lings~~s~~ of the Lord to the fulfiling of ~~h~~ all his words unto the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/158"
       },
       {
@@ -618,7 +615,7 @@
         "page": 158,
         "line": 14,
         "text": "blessed art thou & thy Children &",
-        "markdown": "blessed ~~is~~ [art] thou & thy Children",
+        "markdown": "blessed ~~is~~ [art] thou & thy Children &",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/158"
       },
       {
@@ -634,7 +631,7 @@
         "page": 158,
         "line": 16,
         "text": "ll prosper in the land but remember in as much as they will not keep my",
-        "markdown": "ll prosper in the land but remember in as much as they will not ~~k~~ keep",
+        "markdown": "ll prosper in the land but remember in as much as they will not ~~k~~ keep my",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/158"
       },
       {
@@ -642,7 +639,7 @@
         "page": 158,
         "line": 17,
         "text": "Commandments they shall be cut off from the presance of the Lord",
-        "markdown": "Commandments they shall be cut off from the ~~preas~~ presance of the",
+        "markdown": "Commandments they shall be cut off from the ~~preas~~ presance of the Lord",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/158"
       }
     ]
@@ -657,7 +654,6 @@
         "page": 158,
         "line": 17,
         "text": "& we see",
-        "markdown": "Lord & we",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/158"
       },
       {
@@ -672,7 +668,7 @@
         "page": 158,
         "line": 19,
         "text": "rrelings & their contentions yea their murderings & their plunderings their idoletry & their whoardoms & their abominations which were among themselves which bro",
-        "markdown": "rrelings & their contentions yea their murderings & their plunderings ~~there~~ [their] ~~idoletries~~ [idoletry] & their whoardoms & ~~there~~ [their] abominations which were [a]mong",
+        "markdown": "rrelings & their contentions yea their murderings & their plunderings ~~there~~ [their] ~~idoletries~~ [idoletry] & their whoardoms & ~~there~~ [their] abominations which were [a]mong themselves which bro",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/158"
       },
       {
@@ -708,7 +704,7 @@
         "page": 158,
         "line": 22,
         "text": "their wicked Brethren have been consigned to Bondage or to perish by the",
-        "markdown": "~~their~~ ~~there~~ [their] wicked Brethren have been consigned to Bondage or to perish",
+        "markdown": "~~their~~ ~~there~~ [their] wicked Brethren have been consigned to Bondage or to perish by the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/158"
       },
       {
@@ -773,7 +769,7 @@
         "page": 158,
         "line": 27,
         "text": "yea & also the twenty & third year",
-        "markdown": "yea & also the ~~thwenty thi~~ twenty &",
+        "markdown": "yea & also the ~~thwenty thi~~ twenty & third year",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/158"
       }
     ]
@@ -788,7 +784,6 @@
         "page": 158,
         "line": 27,
         "text": "& it came to pass that in the",
-        "markdown": "third year & it came to pass that",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/158"
       },
       {
@@ -804,7 +799,7 @@
         "page": 158,
         "line": 29,
         "text": "peace among the People of Nephi had it not been for a contension",
-        "markdown": "peace among the People [of Nephi] ~~were it not for~~ had it not",
+        "markdown": "peace among the People [of Nephi] ~~were it not for~~ had it not been for a contension",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/158"
       },
       {
@@ -924,7 +919,7 @@
         "page": 159,
         "line": 6,
         "text": "to pass that the People of Morionton which was <​were​> lead by a man whose name was Mo",
-        "markdown": "to pass that ~~this~~ [the] People of Morionton which was <​we{{re}}​> l{{ead by a man whose name was",
+        "markdown": "to pass that ~~this~~ [the] People of Morionton which was <​we{{re}}​> l{{ead by a man whose name was Mo }}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/159"
       },
       {
@@ -940,7 +935,7 @@
         "page": 159,
         "line": 8,
         "text": "e exceding fearful lest the army of Moroni should come upon them & destroy",
-        "markdown": "e exceding fearful ~~of~~ lest ~~he~~ [the] army of Moroni sh{{ould come upon them",
+        "markdown": "e exceding fearful ~~of~~ lest ~~he~~ [the] army of Moroni sh{{ould come upon them & destroy}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/159"
       },
       {
@@ -962,7 +957,7 @@
         "page": 159,
         "line": 9,
         "text": "therefore Morionton put it into their hearts that they should flee to the land",
-        "markdown": "therefore Morionton put it into ~~there~~ [their] hearts that {{they should flee to the",
+        "markdown": "therefore Morionton put it into ~~there~~ [their] hearts that {{they should flee to the land}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/159"
       },
       {
@@ -1134,7 +1129,7 @@
         "page": 159,
         "line": 22,
         "text": "& it came to pass that they did not head them untill they had cam",
-        "markdown": "& it came to pass that they did not ~~head~~ head them untill they had",
+        "markdown": "& it came to pass that they did not ~~head~~ head them untill they had cam",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/159"
       },
       {
@@ -1227,7 +1222,7 @@
         "page": 159,
         "line": 32,
         "text": "peace they were restored to the land of Morionton & a union took place betwe",
-        "markdown": "peace ~~there~~ [they] were restored to the land of Morionton & a union took place",
+        "markdown": "peace ~~there~~ [they] were restored to the land of Morionton & a union took place betwe",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/159"
       },
       {
@@ -1347,7 +1342,7 @@
         "page": 160,
         "line": 7,
         "text": "to grant unto them their Sacred privileges to worship the Lord their God yea to support",
-        "markdown": "{{to grant unto them their Sacr}}ed privileges to worship the Lord their God ~~&~~ [yea] to",
+        "markdown": "{{to grant unto them their Sacr}}ed privileges to worship the Lord their God ~~&~~ [yea] to support",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/160"
       },
       {
@@ -1394,7 +1389,7 @@
         "page": 160,
         "line": 11,
         "text": "Chapter",
-        "markdown": "{{",
+        "markdown": "{{ Chapter}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/160"
       }
     ]

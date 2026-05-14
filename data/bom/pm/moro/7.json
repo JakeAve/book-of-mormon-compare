@@ -9,7 +9,7 @@
         "page": 459,
         "line": 22,
         "text": "And now I Moroni write a few",
-        "markdown": "Chapter []—— And now I Moroni write",
+        "markdown": "Chapter []—— And now I Moroni write a few",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/459"
       },
       {
@@ -143,7 +143,7 @@
         "page": 459,
         "line": 33,
         "text": "word of God which saith By their works ye shall know them for if their works be good than",
-        "markdown": "word of God which saith ~~by ther~~ [By their] works ye shall know them for if their works be",
+        "markdown": "word of God which saith ~~by ther~~ [By their] works ye shall know them for if their works be good than",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/459"
       },
       {
@@ -496,7 +496,7 @@
         "page": 460,
         "line": 20,
         "text": "ter this manner doth the devil work for he persuadeth no man to do good no not one",
-        "markdown": "ter this manner doth the devil work for he ~~persuaet~~ [persuadeth] no man to do good no not",
+        "markdown": "ter this manner doth the devil work for he ~~persuaet~~ [persuadeth] no man to do good no not one",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/460"
       },
       {
@@ -721,7 +721,7 @@
         "page": 460,
         "line": 36,
         "text": "wherefore by the ministering of angels & by every word which proceded",
-        "markdown": "wherefore by the ministering of angels & by every word which ~~proceeded~~",
+        "markdown": "wherefore by the ministering of angels & by every word which ~~proceeded~~ [proceded]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/460"
       },
       {
@@ -1094,7 +1094,7 @@
         "page": 461,
         "line": 29,
         "text": "the earth shall stand or there shall be one man upon the face thereof to be saved",
-        "markdown": "~~or~~ the earth shall stand or there shall be one man upon the face thereof to be",
+        "markdown": "~~or~~ the earth shall stand or there shall be one man upon the face thereof to be saved",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/461"
       }
     ]
@@ -1249,7 +1249,7 @@
         "page": 462,
         "line": 2,
         "text": "of his resurrection to be raised unto life Eternal & this because of your faith in him",
-        "markdown": "of his resurrection to be raised ~~uto~~ [unto] life Eternal & this because of your faith in",
+        "markdown": "of his resurrection to be raised ~~uto~~ [unto] life Eternal & this because of your faith in him",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/462"
       },
       {
@@ -1460,6 +1460,7 @@
         "page": 462,
         "line": 18,
         "text": "become the Sons of God that when he shall appear we shall be like him for we",
+        "markdown": "become the Sons of God that when he shall appear we shall be like him for we ~~shall~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/462"
       },
       {

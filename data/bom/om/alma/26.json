@@ -86,7 +86,7 @@
         "page": 99,
         "line": 14,
         "text": "them are brought to behold the marvelous light of God & this is the blessing which",
-        "markdown": "~~they a~~ [them] are brought to behold the marvelous light of G{{od & this is the",
+        "markdown": "~~they a~~ [them] are brought to behold the marvelous light of G{{od & this is the blessing which}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/99"
       },
       {
@@ -146,7 +146,7 @@
         "page": 99,
         "line": 18,
         "text": "thrust in the Sickle & did reap with your mights yea all the day long did",
-        "markdown": "~~thrirst~~ [thrust] in the Sickle & did reap ~~to~~ with your m{{ights yea all the day",
+        "markdown": "~~thrirst~~ [thrust] in the Sickle & did reap ~~to~~ with your m{{ights yea all the day long did}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/99"
       },
       {
@@ -301,7 +301,7 @@
         "page": 99,
         "line": 30,
         "text": "have so dearly beloved us would still have been racked with hatred",
-        "markdown": "have so dearly beloved us would still have been racked ~~of~~ [with]",
+        "markdown": "have so dearly beloved us would still have been racked ~~of~~ [with] hatred",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/99"
       },
       {
@@ -399,7 +399,7 @@
         "page": 100,
         "line": 2,
         "text": "but I will boast of my God for in his strength I can do all things yea behold",
-        "markdown": "{{but I will boast of my God for in}} his strength I can do all things yea behold",
+        "markdown": "{{but I will boast of my God for in}} his strength I can do all things yea behold ~~how~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/100"
       },
       {
@@ -590,7 +590,7 @@
         "page": 100,
         "line": 17,
         "text": "have supposed that our God would have been so merciful as to have snatcht",
-        "markdown": "{{have supposed that our God}} would have been so ~~mercifully~~ [merciful] as to have",
+        "markdown": "{{have supposed that our God}} would have been so ~~mercifully~~ [merciful] as to have snatcht",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/100"
       },
       {
@@ -613,7 +613,7 @@
         "page": 100,
         "line": 18,
         "text": "behold we went forth even",
-        "markdown": "behold ~~he~~ [we] went forth",
+        "markdown": "behold ~~he~~ [we] went forth even",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/100"
       },
       {
@@ -856,7 +856,7 @@
         "page": 101,
         "line": 4,
         "text": "spent in the grossest iniquity whose ways have been the ways of a transgressor from",
-        "markdown": "spent in the grossest iniquity ~~&~~ [whose] ways have {{been the ways of a transgressor",
+        "markdown": "spent in the grossest iniquity ~~&~~ [whose] ways have {{been the ways of a transgressor from}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/101"
       },
       {
@@ -1156,7 +1156,7 @@
         "page": 101,
         "line": 27,
         "text": "sacrifise their lives thon even to take the life of their enemy & they have buried",
-        "markdown": "sacrifise their lives thon ~~ever~~ [even] to t{{ake the life of}} their enemy & they have",
+        "markdown": "sacrifise their lives thon ~~ever~~ [even] to t{{ake the life of}} their enemy & they have bu{{ried}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/101"
       },
       {
@@ -1208,7 +1208,7 @@
         "page": 101,
         "line": 31,
         "text": "take up arms against their Brethren they would not suffer themselves to be",
-        "markdown": "~~taking~~ [take] up arms against their Brethren they would not suffer themselves to",
+        "markdown": "~~taking~~ [take] up arms against their Brethren they would not suffer themselves to b{{e}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/101"
       },
       {
@@ -1307,7 +1307,7 @@
         "page": 102,
         "line": 4,
         "text": "ting wo yea blessed is the name of my God who hath been mindful of this people which are a branch of",
-        "markdown": "{{ting wo yea blessed is the name of my}} God who hath been mindful of this people ~~who is~~ [which] [are] a",
+        "markdown": "{{ting wo yea blessed is the name of my}} God who hath been mindful of this people ~~who is~~ [which] [are] a branch of",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/102"
       },
       {
@@ -1345,7 +1345,7 @@
         "page": 102,
         "line": 7,
         "text": "that God is mindful of every people in whatsoever land they may be in yea he numbereth hispeople & his bowels of mercy is over all the earth now this is my joy & my great thanks givin",
-        "markdown": "{{that God is mindful of every peopl}}e in whatsoever land they may be in yea he numbereth hi{{speople & his bowels of mercy is ov}}er all the earth now this is my ~~j~~ joy & my great thanks",
+        "markdown": "{{that God is mindful of every peopl}}e in whatsoever land they may be in yea he numbereth hi{{speople & his bowels of mercy is ov}}er all the earth now this is my ~~j~~ joy & my great thanks givin",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/102"
       },
       {
@@ -1361,7 +1361,7 @@
         "page": 102,
         "line": 9,
         "text": "Chapter",
-        "markdown": "{{}}",
+        "markdown": "{{}} Chapter",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/102"
       }
     ]

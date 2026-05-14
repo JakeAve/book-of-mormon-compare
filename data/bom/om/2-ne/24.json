@@ -56,7 +56,7 @@
         "page": 56,
         "line": 5,
         "text": "& they shall take them captives unto whom they were captives & they",
-        "markdown": "& they shall take them captives unto whom they ~~were~~ were cap{{tives &",
+        "markdown": "& they shall take them captives unto whom they ~~were~~ were cap{{tives & they}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/56"
       },
       {
@@ -168,7 +168,7 @@
         "page": 57,
         "line": 1,
         "text": "I will also make it a possession for the bitern & pools of water & I will sweep it with the bosom of destruction saith the",
-        "markdown": "I wi}}ll {{also}} mak{{e it}} a p{{o}}ssession for th{{e bitern & pools of}} water & I will sweep {{it wi}}th ~~des~~ the bosom of destruction saith",
+        "markdown": "I wi}}ll {{also}} mak{{e it}} a p{{o}}ssession for th{{e bitern & pools of}} water & I will sweep {{it wi}}th ~~des~~ the bosom of destruction saith the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/57"
       },
       {

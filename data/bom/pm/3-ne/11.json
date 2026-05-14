@@ -65,7 +65,7 @@
         "page": 384,
         "line": 23,
         "text": "& it came to pass that while they were",
-        "markdown": "& it came to pass that while they ~~we~~",
+        "markdown": "& it came to pass that while they ~~we~~ [were]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/384"
       },
       {
@@ -242,6 +242,7 @@
         "page": 384,
         "line": 38,
         "text": "turned upon him & they dearst not open their mouths even one to another &",
+        "markdown": "turned upon him & they dearst not open their mouths even one to another & ~~they~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/384"
       },
       {
@@ -425,7 +426,7 @@
         "page": 385,
         "line": 13,
         "text": "went forth & thrust their hands into his side & did feel the prints of the nails in his hands & in his",
-        "markdown": "went forth & ~~did~~ [thrust] their hands into his side & did feel the prints of the nails in his hands & in",
+        "markdown": "went forth & ~~did~~ [thrust] their hands into his side & did feel the prints of the nails in his hands & in his",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/385"
       },
       {
@@ -489,7 +490,7 @@
         "page": 385,
         "line": 18,
         "text": "nah blessed be the name of the most high God & they did fall down at the feet of Jesus & did",
-        "markdown": "nah ~~to the most~~ ~~<​blessed be​>~~ ~~had~~ [blessed] be the name of the most high God & they did fall down at",
+        "markdown": "nah ~~to the most~~ ~~<​blessed be​>~~ ~~had~~ [blessed] be the name of the most high God & they did fall down at the feet of Jesus & did",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/385"
       },
       {
@@ -681,7 +682,7 @@
         "page": 385,
         "line": 29,
         "text": "Having authority given me of Jesus Christ",
-        "markdown": "~~having authority~~ [Having authority] given me of",
+        "markdown": "~~having authority~~ [Having authority] given me of Jesus Christ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/385"
       },
       {
@@ -759,7 +760,7 @@
         "page": 385,
         "line": 34,
         "text": "you thus shall ye baptise & there shall be no disputations among you <​as there hath hitherto been neither shall there be disputations among you​> concerning the points of",
-        "markdown": "you thus shall ye baptise & there shall be no disputations among you <​as there hath hitherto been neither shall there be disputations among ~~you~~ ~~concernin~~ you​> concerning the",
+        "markdown": "you thus shall ye baptise & there shall be no disputations among you <​as there hath hitherto been neither shall there be disputations among ~~you~~ ~~concernin~~ you​> concerning the points of",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/385"
       },
       {
@@ -816,7 +817,7 @@
         "page": 385,
         "line": 38,
         "text": "doctrine to stir up the hearts of men with anger one against another but this is my doctrine th",
-        "markdown": "doctrine to stir up the hearts of men ~~to~~ [with] anger ~~against~~ one [against] another but this is my",
+        "markdown": "doctrine to stir up the hearts of men ~~to~~ [with] anger ~~against~~ one [against] another but this is my doctrine th",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/385"
       },
       {
@@ -895,6 +896,7 @@
         "page": 386,
         "line": 4,
         "text": "& whoso believeth in me & is baptised the same",
+        "markdown": "& whoso believeth in me & is baptised the same ~~<​shall​>~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/386"
       },
       {
@@ -916,7 +918,7 @@
         "page": 386,
         "line": 5,
         "text": "& whos believeth not in",
-        "markdown": "& whos ~~believes~~ believeth not",
+        "markdown": "& whos ~~believes~~ believeth not in",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/386"
       },
       {
@@ -938,7 +940,7 @@
         "page": 386,
         "line": 6,
         "text": "verily verily I say unto you that this is my doctrine &",
-        "markdown": "~~&~~ verily verily I say unto you that [this] is my doctrine",
+        "markdown": "~~&~~ verily verily I say unto you that [this] is my doctrine &",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/386"
       },
       {
@@ -1002,7 +1004,7 @@
         "page": 386,
         "line": 11,
         "text": "unto you ye must repent & become as a little child & be baptized in my",
-        "markdown": "unto you ye must repent & become as a little child & be ~~pap~~ baptized in",
+        "markdown": "unto you ye must repent & become as a little child & be ~~pap~~ baptized in my",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/386"
       },
       {
@@ -1094,6 +1096,7 @@
         "page": 386,
         "line": 18,
         "text": "rock but he buildeth upon a sandy foundation & the gates of Hell standeth",
+        "markdown": "rock but he buildeth upon a sandy foundation & the gates of Hell standeth ~~open~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/386"
       },
       {

@@ -171,7 +171,7 @@
         "page": 390,
         "line": 19,
         "text": "Ask & it shall be given unto",
-        "markdown": "Ask & it shall be given ~~un~~",
+        "markdown": "Ask & it shall be given ~~un~~ [unto]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/390"
       },
       {
@@ -337,7 +337,7 @@
         "page": 390,
         "line": 29,
         "text": "because strait is the gate & narrow is the way which leadeth un",
-        "markdown": "because strait is the ~~gait~~ [gate] & narrow is the way which leadeth",
+        "markdown": "because strait is the ~~gait~~ [gate] & narrow is the way which leadeth un",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/390"
       },
       {
@@ -366,7 +366,7 @@
         "page": 390,
         "line": 31,
         "text": "in sheep’s clothing but inwardly they are ravening wolves ye",
-        "markdown": "~~is~~ in sheep’s clothing but inwardly [they] are ravening wolves",
+        "markdown": "~~is~~ in sheep’s clothing but inwardly [they] are ravening wolves ye",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/390"
       }
     ]
@@ -381,7 +381,6 @@
         "page": 390,
         "line": 31,
         "text": "shall know them",
-        "markdown": "ye shall know them",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/390"
       },
       {
@@ -649,7 +648,7 @@
         "page": 391,
         "line": 9,
         "text": "Chapter [] And now it came to pass that when Jesus had ended these",
-        "markdown": "Chapter [] And ~~it~~ now it came to pass that when Jesus had ended",
+        "markdown": "Chapter [] And ~~it~~ now it came to pass that when Jesus had ended these",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/391"
       }
     ]

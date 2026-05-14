@@ -100,7 +100,7 @@
         "page": 126,
         "line": 14,
         "text": "oice & that thou mayest declare unto thy People that they may also be filled with Joy",
-        "markdown": "oice & that thou mayest declare unto thy People that they ~~also~~ may [also] be filled with",
+        "markdown": "oice & that thou mayest declare unto thy People that they ~~also~~ may [also] be filled with Joy",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/126"
       }
     ]
@@ -115,7 +115,6 @@
         "page": 126,
         "line": 14,
         "text": "for",
-        "markdown": "Joy",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/126"
       },
       {
@@ -720,7 +719,7 @@
         "page": 127,
         "line": 26,
         "text": "& thus saith the Lord they shall stand as a bright testimony",
-        "markdown": "& ~~this~~ thus saith the Lord they shall stand as a bright",
+        "markdown": "& ~~this~~ thus saith the Lord they shall stand as a bright testimony",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/127"
       },
       {
@@ -834,6 +833,7 @@
         "page": 127,
         "line": 36,
         "text": "endeth up forever & ever thus hath the Lord commanded me——",
+        "markdown": "endeth up forever & ever thus hath the Lord commanded me—— Amen.",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/127"
       },
       {
@@ -841,7 +841,7 @@
         "page": 127,
         "line": 36,
         "text": "Amen.",
-        "markdown": "endeth",
+        "markdown": "endeth up forever & ever thus hath the Lord commanded me—— Amen.",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/127"
       }
     ]

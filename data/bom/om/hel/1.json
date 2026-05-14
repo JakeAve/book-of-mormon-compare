@@ -292,7 +292,7 @@
         "page": 194,
         "line": 5,
         "text": "ry & behold they sent forth one Kishcumen even to the Judgment seat of Pa",
-        "markdown": "{{ry & behold they sent forth}} one Kishcumen even to the Judgment ~~of~~ [seat] of",
+        "markdown": "{{ry & behold they sent forth}} one Kishcumen even to the Judgment ~~of~~ [seat] of Pa",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/194"
       },
       {
@@ -444,7 +444,7 @@
         "page": 194,
         "line": 17,
         "text": "ing to his right & all this was done in the fortyeth year of the Reign of the Judges",
-        "markdown": "{{ing to his right & all}} this was done in the fortyeth year of the Reign of the Judges",
+        "markdown": "{{ing to his right & all}} this was done in the fortyeth year of the Reign of the Judges ~~&~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/194"
       },
       {
@@ -474,7 +474,7 @@
         "page": 194,
         "line": 19,
         "text": "ges that the Lamanites had gathered together an innumerable army of men &",
-        "markdown": "{{ges}} that the Lamanites had gathered together an innumerable army of men ~~&",
+        "markdown": "{{ges}} that the Lamanites had gathered together an innumerable army of men ~~& had~~ ~~gat~~ [&]",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/194"
       },
       {
@@ -518,7 +518,7 @@
         "page": 194,
         "line": 23,
         "text": "a man whose name was Coriantumr & he was a desendant",
-        "markdown": "{{a}} man whose name was ~~Coriantummer~~ Coriantumr & he was a",
+        "markdown": "{{a}} man whose name was ~~Coriantummer~~ Coriantumr & he was a desendant",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/194"
       },
       {
@@ -657,7 +657,7 @@
         "page": 195,
         "line": 3,
         "text": "did march forth at the head of his numerous host & came upon the inhabita",
-        "markdown": "did march forth at the head of ~~thei~~ his numero{{us host & came upon the",
+        "markdown": "did march forth at the head of ~~thei~~ his numero{{us host & came upon the inhabita}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/195"
       },
       {
@@ -796,7 +796,7 @@
         "page": 195,
         "line": 15,
         "text": "that he was about to go forth against all the land",
-        "markdown": "that he was about to go forth ~~all~~ [against] all the",
+        "markdown": "that he was about to go forth ~~all~~ [against] all the land",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/195"
       }
     ]
@@ -811,7 +811,7 @@
         "page": 195,
         "line": 15,
         "text": "& now he did not tarry in the",
-        "markdown": "land & {{now he did not tarry in",
+        "markdown": "& {{now he did not tarry in the}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/195"
       },
       {
@@ -874,7 +874,7 @@
         "page": 195,
         "line": 21,
         "text": "all boddies & in this manner they did fall upon them & cut them down to the earth",
-        "markdown": "all boddies & ~~it~~ in this manner they did fall upon them & cut them down to the",
+        "markdown": "all boddies & ~~it~~ in this manner they did fall upon them & cut them down to the {{earth}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/195"
       }
     ]
@@ -979,7 +979,7 @@
         "page": 195,
         "line": 30,
         "text": "the capatal City which was the city of Zarahemla & were marching",
-        "markdown": "the capatal City ~~which~~ which was the city of Zarahemla & were",
+        "markdown": "the capatal City ~~which~~ which was the city of Zarahemla & were mar{{ching}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/195"
       },
       {
@@ -1163,7 +1163,7 @@
         "page": 196,
         "line": 9,
         "text": "it came to pass that Moronihah took possession of the city of Zarahemla again & caused that the",
-        "markdown": "{{it came to pass that Moronihah}} took possession of the city of Zarahemla again & caused that the",
+        "markdown": "{{it came to pass that Moronihah}} took possession of the city of Zarahemla again & caused that the ~~La~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/196"
       },
       {

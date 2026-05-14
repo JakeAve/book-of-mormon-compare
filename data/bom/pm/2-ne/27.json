@@ -23,7 +23,7 @@
         "page": 89,
         "line": 24,
         "text": "they which shall come upon this land & they which shall be upon other lands yea",
-        "markdown": "they which shall come upon this land & they which shall ~~come~~ [be] upon other lands",
+        "markdown": "they which shall come upon this land & they which shall ~~come~~ [be] upon other lands yea",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/89"
       },
       {
@@ -200,7 +200,7 @@
         "page": 90,
         "line": 2,
         "text": "Lord God shall bring forth unto you the words of a Book & shall be the words of them",
-        "markdown": "Lord God shall bring forth unto ~~you~~ [you] the words of a Book & shall be the words of",
+        "markdown": "Lord God shall bring forth unto ~~you~~ [you] the words of a Book & shall be the words of them",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/90"
       },
       {
@@ -320,7 +320,7 @@
         "page": 90,
         "line": 11,
         "text": "the power of God & the revelation which was Sealed shall be kept in the Book untill",
-        "markdown": "the power of God & the revelation ~~&~~ which was Sealed shall be kept in the ~~Booth~~",
+        "markdown": "the power of God & the revelation ~~&~~ which was Sealed shall be kept in the ~~Booth~~ Book untill",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/90"
       },
       {
@@ -644,7 +644,7 @@
         "page": 90,
         "line": 36,
         "text": "touch not the things which are",
-        "markdown": "touch not the things which ~~are~~",
+        "markdown": "touch not the things which ~~are~~ [are] ~~Sea~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/90"
       },
       {
@@ -687,7 +687,7 @@
         "page": 91,
         "line": 3,
         "text": "promised unto thee then shalt thou Seal up the Book & hide it up unto me that I m",
-        "markdown": "promised unto thee then shalt thou Seal up the Book & ~~hade~~ [hide] it up unto me that I",
+        "markdown": "promised unto thee then shalt thou Seal up the Book & ~~hade~~ [hide] it up unto me that I m",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/91"
       },
       {
@@ -695,7 +695,7 @@
         "page": 91,
         "line": 4,
         "text": "ay preserve the words which thou hast not read untill I shall see fit in mine ow",
-        "markdown": "ay preserve the words which ~~the~~ thou hast not read untill I shall see fit in mine",
+        "markdown": "ay preserve the words which ~~the~~ thou hast not read untill I shall see fit in mine ow",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/91"
       },
       {
@@ -780,7 +780,7 @@
         "page": 91,
         "line": 10,
         "text": "their mouth & with their lips do honour me but have removed their heart far",
-        "markdown": "their mouth & with ~~them~~ their lips do honour me but have removed their heart",
+        "markdown": "their mouth & with ~~them~~ their lips do honour me but have removed their heart far",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/91"
       },
       {
@@ -1063,7 +1063,7 @@
         "page": 91,
         "line": 32,
         "text": "one of Jacob & shall fear the God of Israel",
-        "markdown": "one of ~~Israel~~ [Jacob] & shall fear the God of",
+        "markdown": "one of ~~Israel~~ [Jacob] & shall fear the God of Israel",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/91"
       }
     ]
@@ -1078,7 +1078,6 @@
         "page": 91,
         "line": 32,
         "text": "they also that erred in spirit shall come",
-        "markdown": "Israel they also that erred in spirit shall",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/91"
       },
       {

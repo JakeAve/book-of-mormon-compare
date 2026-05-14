@@ -25,7 +25,7 @@
         "page": 143,
         "line": 33,
         "text": "they gave thanks unto the Lord their God yea & they did fast much & pray m",
-        "markdown": "they gave thanks unto the Lord ~~there~~ [their] God yea & they did fast much & pray",
+        "markdown": "they gave thanks unto the Lord ~~there~~ [their] God yea & they did fast much & pray m",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/143"
       },
       {
@@ -54,7 +54,7 @@
         "page": 144,
         "line": 1,
         "text": "the nineteenth year of the Reign of the Judges over the People of Nephithat Alma came unto his son Helaman & sayest unto him believest",
-        "markdown": "{{the nineteenth year of the}} Reign of the Judges over the People of Neph{{ithat Alma came unto his son H}}elaman & sayest unto ~~his~~ [him]",
+        "markdown": "{{the nineteenth year of the}} Reign of the Judges over the People of Neph{{ithat Alma came unto his son H}}elaman & sayest unto ~~his~~ [him] belie{{ve}}st",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/144"
       },
       {
@@ -188,7 +188,7 @@
         "page": 144,
         "line": 7,
         "text": "then Alma sayeth unto him blessed art thou & the",
-        "markdown": "the}}n Alma sayeth unto him ~~bel~~ blessed art thou &",
+        "markdown": "the}}n Alma sayeth unto him ~~bel~~ blessed art thou & the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/144"
       },
       {
@@ -376,7 +376,7 @@
         "page": 144,
         "line": 22,
         "text": "which are now or the seed of those which are now numbered among the people of Nephi shall no more be numbered among the People of Nephi",
-        "markdown": "which are now or the seed of those which are now numbered among th[e] people ~~Nephites~~ [of Nephi] shall no more be numbered among the People of",
+        "markdown": "which are now or the seed of those which are now numbered among th[e] people ~~Nephites~~ [of Nephi] shall no more be numbered among the People of Nephi",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/144"
       }
     ]
@@ -391,7 +391,6 @@
         "page": 144,
         "line": 22,
         "text": "but whosoever remaineth",
-        "markdown": "Nephi but whosoever",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/144"
       },
       {
@@ -470,7 +469,7 @@
         "page": 144,
         "line": 29,
         "text": "thus saith the Lord God cursed shall be the land yea this land unto every",
-        "markdown": "thus saith the Lord God cursed shall be the land yea this ~~&~~ [land] unto",
+        "markdown": "thus saith the Lord God cursed shall be the land yea this ~~&~~ [land] unto every",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/144"
       },
       {
@@ -558,7 +557,7 @@
         "page": 145,
         "line": 4,
         "text": "pass that he was never heard of more as to his death or <​his​> buriel we know",
-        "markdown": "pass that he ~~were~~ [was] never heard of more as to {{his death or <​his​> buriel we",
+        "markdown": "pass that he ~~were~~ [was] never heard of more as to {{his death or <​his​> buriel we know}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/145"
       },
       {
@@ -588,7 +587,7 @@
         "page": 145,
         "line": 6,
         "text": "abrod in the Church that he was taken up by the spirit or buried by the",
-        "markdown": "abrod in the Church ~~he~~ [that] he ~~took~~ [was] take{{n up by the spirit or buried",
+        "markdown": "abrod in the Church ~~he~~ [that] he ~~took~~ [was] take{{n up by the spirit or buried by the}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/145"
       },
       {
@@ -596,7 +595,7 @@
         "page": 145,
         "line": 7,
         "text": "hand of the Lord even as Moses but Behold the scripture sayeth the Lord",
-        "markdown": "hand of the Lord even as Moses ~~Behold~~ [but Behol]{{d the scripture sayeth the",
+        "markdown": "hand of the Lord even as Moses ~~Behold~~ [but Behol]{{d the scripture sayeth the Lord}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/145"
       },
       {
@@ -612,7 +611,7 @@
         "page": 145,
         "line": 9,
         "text": "in the spirit unto himself therefore for this cause we know nothing concer",
-        "markdown": "in the spirit unto himself therefore ~~we~~ [for] this {{caus}}e we k{{now nothing",
+        "markdown": "in the spirit unto himself therefore ~~we~~ [for] this {{caus}}e we k{{now nothing concer}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/145"
       },
       {
@@ -650,7 +649,7 @@
         "page": 145,
         "line": 12,
         "text": "the People to declare the word unto them",
-        "markdown": "the People~~s~~ ~~declare~~ [to declare] ~~the~~ the word",
+        "markdown": "the People~~s~~ ~~declare~~ [to declare] ~~the~~ the word unto them",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/145"
       }
     ]
@@ -665,7 +664,7 @@
         "page": 145,
         "line": 12,
         "text": "for behold because of their wars w",
-        "markdown": "unto them for behold because of {{their",
+        "markdown": "for behold because of {{their wars w}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/145"
       },
       {
@@ -673,7 +672,7 @@
         "page": 145,
         "line": 13,
         "text": "ith the Lamanites & the many little desensions",
-        "markdown": "ith the Lamanites ~~they had become exceding desenting~~",
+        "markdown": "ith the Lamanites ~~they had become exceding desenting~~ & the man{{y little desensions}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/145"
       },
       {
@@ -727,7 +726,7 @@
         "page": 145,
         "line": 18,
         "text": "<​was​> possessed by the people of Nephi and it came to pass that <​they​> did ap",
-        "markdown": "~~were~~ <​was​> possessed by the people of Nephi and it came to pass t{{h}}at <​they​> did",
+        "markdown": "~~were~~ <​was​> possessed by the people of Nephi and it came to pass t{{h}}at <​they​> did ap",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/145"
       },
       {
@@ -763,7 +762,7 @@
         "page": 145,
         "line": 21,
         "text": "over the Churches that there arose a desension among them & they would not",
-        "markdown": "~~of~~ [over] the Churches that there arose a desension among them & they would",
+        "markdown": "~~of~~ [over] the Churches that there arose a desension among them & they would not",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/145"
       },
       {

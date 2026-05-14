@@ -23,7 +23,7 @@
         "page": 454,
         "line": 18,
         "text": "his tool or his sword upon the shelf or upon the place whither he would keep it & behold",
-        "markdown": "his tool or his sword upon the shelf or upon the place ~~which~~ [whither] he would keep it &",
+        "markdown": "his tool or his sword upon the shelf or upon the place ~~which~~ [whither] he would keep it & behold",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/454"
       },
       {
@@ -116,7 +116,7 @@
         "page": 454,
         "line": 25,
         "text": "& it came to pass that the brother of Shared did give battle unto",
-        "markdown": "& it came to pass that the brother of ~~Jared~~ [Shared] did give battle",
+        "markdown": "& it came to pass that the brother of ~~Jared~~ [Shared] did give battle unto",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/454"
       },
       {
@@ -229,7 +229,7 @@
         "page": 454,
         "line": 33,
         "text": "received great strength to his army because of secret combinations",
-        "markdown": "received great strength to his army ~~also~~ because of secret",
+        "markdown": "received great strength to his army ~~also~~ because of secret combinations",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/454"
       }
     ]
@@ -244,7 +244,6 @@
         "page": 454,
         "line": 33,
         "text": "& it came to pass",
-        "markdown": "combinations & it came to",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/454"
       },
       {
@@ -281,7 +280,7 @@
         "page": 454,
         "line": 36,
         "text": "name was Lib & Lib was a man of great stature more than any other man among all the people",
-        "markdown": "name was Lib & Lib was a man of great stature more than any other man among ~~them~~ [all the]",
+        "markdown": "name was Lib & Lib was a man of great stature more than any other man among ~~them~~ [all the] people",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/454"
       }
     ]
@@ -324,6 +323,7 @@
         "page": 454,
         "line": 39,
         "text": "smite upon his arm that he was wounded nevertheless the army of Coriantumr did",
+        "markdown": "smite upon his arm that he was wounded nevertheless the army of Coriantumr did ~~press~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/454"
       },
       {
@@ -422,7 +422,7 @@
         "page": 455,
         "line": 6,
         "text": "& when he had came to the plains of Agosh he gave battle unto",
-        "markdown": "& when he had came to the plains of Agosh he gave battle ~~unto~~",
+        "markdown": "& when he had came to the plains of Agosh he gave battle ~~unto~~ [unto]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/455"
       },
       {
@@ -542,7 +542,7 @@
         "page": 455,
         "line": 15,
         "text": "they were divided & a part of them fled to the army of Shiz & a part of them fled to the army",
-        "markdown": "they were divided & a part of them fled to the army of Shiz & a part of them fled to the ~~arm~~",
+        "markdown": "they were divided & a part of them fled to the army of Shiz & a part of them fled to the ~~arm~~ [army]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/455"
       },
       {

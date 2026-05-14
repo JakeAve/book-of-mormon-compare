@@ -212,7 +212,7 @@
         "page": 208,
         "line": 5,
         "text": "yea he began be enserceled about by the pains of hell",
-        "markdown": "yea he began ~~be~~ be enserceled about by the pains of",
+        "markdown": "yea he began ~~be~~ be enserceled about by the pains of hell",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/208"
       }
     ]
@@ -227,7 +227,6 @@
         "page": 208,
         "line": 5,
         "text": "& it came to pass",
-        "markdown": "hell & it came to",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/208"
       },
       {
@@ -242,6 +241,7 @@
         "page": 208,
         "line": 7,
         "text": "are spotless before God & it came to pass that he began to plead for them",
+        "markdown": "are spotless before God & it came to pass that he began to plead for them ~~from~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/208"
       },
       {
@@ -481,7 +481,7 @@
         "page": 208,
         "line": 30,
         "text": "Alma saith be it according to the will of the Lord but behold our work",
-        "markdown": "Alma saith be it according to the will of ~~God~~ [the] Lord but behold our",
+        "markdown": "Alma saith be it according to the will of ~~God~~ [the] Lord but behold our work",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/208"
       },
       {
@@ -664,7 +664,7 @@
         "page": 209,
         "line": 11,
         "text": "to the prison to see them & they questioned them about many words but they",
-        "markdown": "to the prison to see them & they questioned them about many words ~~&~~ [but]",
+        "markdown": "to the prison to see them & they questioned them about many words ~~&~~ [but] they",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/209"
       },
       {

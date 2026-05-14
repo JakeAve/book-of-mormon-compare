@@ -58,6 +58,7 @@
         "page": 66,
         "line": 10,
         "text": "God when they shall be gathered home to the lands of their inheritance & shall",
+        "markdown": "God when they shall be gathered home to the lands of their inheritance & shall ~~& shall~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/66"
       },
       {
@@ -234,7 +235,7 @@
         "page": 66,
         "line": 25,
         "text": "uld not put on incorruption wherefore the first Judgment which came upon m",
-        "markdown": "uld not put on incorruption wherefore the first Judgment ~~whiich~~ [which] came upon",
+        "markdown": "uld not put on incorruption wherefore the first Judgment ~~whiich~~ [which] came upon m",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/66"
       },
       {
@@ -284,7 +285,7 @@
         "page": 66,
         "line": 30,
         "text": "ce of the Eternal God & became the Devil to rise no more",
-        "markdown": "ce of the ~~Lord~~ Eternal God & became the Devil to rise no",
+        "markdown": "ce of the ~~Lord~~ Eternal God & became the Devil to rise no more",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/66"
       }
     ]
@@ -299,7 +300,6 @@
         "page": 66,
         "line": 30,
         "text": "& our spirits mu",
-        "markdown": "more & our spirits",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/66"
       },
       {
@@ -433,7 +433,7 @@
         "page": 67,
         "line": 5,
         "text": "liver up its captive spirits & the grave must deliver up its captive bodies & the bod",
-        "markdown": "liver up its captive spirits & the grave must deliver up its captive bodies & the ~~do~~",
+        "markdown": "liver up its captive spirits & the grave must deliver up its captive bodies & the ~~do~~ bod",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/67"
       },
       {
@@ -610,7 +610,7 @@
         "page": 67,
         "line": 22,
         "text": "go away into everlasting fire prepared for them & their torment is a lake of fi",
-        "markdown": "go away ~~unto~~ into everlasting fire prepared for them & their torment is a lake of",
+        "markdown": "go away ~~unto~~ into everlasting fire prepared for them & their torment is a lake of fi",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/67"
       },
       {
@@ -1341,7 +1341,7 @@
         "page": 69,
         "line": 2,
         "text": "come unto the Lord the holy one remember that his paths are righteousness behold the",
-        "markdown": "come unto the Lord the holy one ~~of Israel~~ [remember] that his paths are righteousness",
+        "markdown": "come unto the Lord the holy one ~~of Israel~~ [remember] that his paths are righteousness behold the",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/69"
       },
       {

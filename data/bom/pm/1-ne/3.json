@@ -499,7 +499,7 @@
         "page": 9,
         "line": 25,
         "text": "dwell in the land after that he hath been commanded to flee out of the land",
-        "markdown": "dwell in the land after that he ~~had~~ [hath] been commanded to flee out of the",
+        "markdown": "dwell in the land after that he ~~had~~ [hath] been commanded to flee out of the land",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/9"
       },
       {
@@ -592,7 +592,7 @@
         "page": 9,
         "line": 33,
         "text": "that they might be faithful in keeping the commandments of God",
-        "markdown": "that they might be faithful in keeping the commandments of ~~the",
+        "markdown": "that they might be faithful in keeping the commandments of ~~the Lord~~ God",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/9"
       }
     ]
@@ -607,7 +607,6 @@
         "page": 9,
         "line": 33,
         "text": "&",
-        "markdown": "Lord~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/9"
       },
       {
@@ -797,7 +796,7 @@
         "page": 10,
         "line": 11,
         "text": "did speak many hard words unto us their younger Brothres & they did",
-        "markdown": "did speak many hard ~~things~~ [words] unto us their younger ~~Brethre◊~~[Brothres] & they",
+        "markdown": "did speak many hard ~~things~~ [words] unto us their younger ~~Brethre◊~~[Brothres] & they did",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/10"
       },
       {
@@ -905,7 +904,7 @@
         "page": 10,
         "line": 20,
         "text": "deliver Laban into our hands behold he is a mighty man & he can comma",
-        "markdown": "deliver Laban ~~u◊o~~ into our hands behold he is a mighty man & he can",
+        "markdown": "deliver Laban ~~u◊o~~ into our hands behold he is a mighty man & he can comma",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/10"
       },
       {

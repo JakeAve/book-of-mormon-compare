@@ -16,7 +16,7 @@
         "page": 39,
         "line": 30,
         "text": "gs which were engraven upon the plates of Brass my Brethren came un",
-        "markdown": "gs which were engraven ~~upon my~~ upon the plates of Brass my Brethren",
+        "markdown": "gs which were engraven ~~upon my~~ upon the plates of Brass my Brethren came un",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/39"
       },
       {
@@ -105,7 +105,7 @@
         "page": 39,
         "line": 38,
         "text": "ual for it appears that the house of Israel sooner or later will be scattered",
-        "markdown": "{{ua}}l for it appears that the house of Israel sooner ~~of~~ [or] later will be",
+        "markdown": "{{ua}}l for it appears that the house of Israel sooner ~~of~~ [or] later will be scattered",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/39"
       },
       {
@@ -193,7 +193,7 @@
         "page": 40,
         "line": 7,
         "text": "Israel for against him will they harden their hearts wherefore they shall",
-        "markdown": "Israel for against ~~the~~ him will they harden their hearts wherefore they",
+        "markdown": "Israel for against ~~the~~ him will they harden their hearts wherefore they shall",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/40"
       },
       {
@@ -238,7 +238,7 @@
         "page": 40,
         "line": 11,
         "text": "in their arms & their daughters shall be carried upon their shoulders behold these",
-        "markdown": "in ~~them~~ [their] arms & their daughters shall be carried upon their shoulders behold",
+        "markdown": "in ~~them~~ [their] arms & their daughters shall be carried upon their shoulders behold these",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/40"
       },
       {
@@ -845,7 +845,7 @@
         "page": 41,
         "line": 25,
         "text": "for the time speadily shall come that all churches",
-        "markdown": "for the time speadily shall come ~~which are~~ that",
+        "markdown": "for the time speadily shall come ~~which are~~ that all churches",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/41"
       },
       {
@@ -1025,7 +1025,7 @@
         "page": 42,
         "line": 3,
         "text": "I Nephi say unto you that all these things must come according to the",
-        "markdown": "I Nephi say unto you that all these things must ~~come~~ come according to",
+        "markdown": "I Nephi say unto you that all these things must ~~come~~ come according to the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/42"
       },
       {
@@ -1124,7 +1124,7 @@
         "page": 42,
         "line": 9,
         "text": "wherefore ye nead not",
-        "markdown": "wherefore ye ~~tr~~ nead",
+        "markdown": "wherefore ye ~~tr~~ nead not",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/42"
       },
       {

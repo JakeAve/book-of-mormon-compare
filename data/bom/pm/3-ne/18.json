@@ -9,7 +9,7 @@
         "page": 395,
         "line": 14,
         "text": "And it came to pass that Jesus commanded his descipels that they should",
-        "markdown": "~~And~~ And it came to pass that Jesus commanded his descipels that they",
+        "markdown": "~~And~~ And it came to pass that Jesus commanded his descipels that they should",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/395"
       },
       {
@@ -484,7 +484,7 @@
         "page": 396,
         "line": 12,
         "text": "ltitude & saith unto",
-        "markdown": "ltitude & ~~saieth~~ [saith",
+        "markdown": "ltitude & ~~saieth~~ [saith unto]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/396"
       }
     ]
@@ -499,7 +499,6 @@
         "page": 396,
         "line": 12,
         "text": "them Behold verily verily I say unto you ye must watch &",
-        "markdown": "unto] them Behold verily verily I say unto you ye must watch",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/396"
       },
       {
@@ -661,7 +660,7 @@
         "page": 396,
         "line": 24,
         "text": "which ye shall hold up that which ye have seen me do behold ye see that",
-        "markdown": "which ye shall hold up that which ye have seen me do behold ye ~~have seen~~",
+        "markdown": "which ye shall hold up that which ye have seen me do behold ye ~~have seen~~ [see that]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/396"
       },
       {
@@ -760,7 +759,7 @@
         "page": 396,
         "line": 32,
         "text": "then I must go unto my Father that I may fulfil other commandments which he",
-        "markdown": "then I must go unto my Father that I ~~must~~ [may] fulfil other commandments which",
+        "markdown": "then I must go unto my Father that I ~~must~~ [may] fulfil other commandments which he",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/396"
       },
       {
@@ -915,7 +914,7 @@
         "page": 397,
         "line": 6,
         "text": "ue to minister for ye know not but what they will return & & come",
-        "markdown": "ue to minister for ye know not but what they will ~~repent~~ [return] & ~~return~~",
+        "markdown": "ue to minister for ye know not but what they will ~~repent~~ [return] & ~~return~~ ~~unto~~ [& come]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/397"
       },
       {
@@ -1140,7 +1139,7 @@
         "page": 397,
         "line": 23,
         "text": "And now it",
-        "markdown": "Chapter []—— And",
+        "markdown": "Chapter []—— And now it",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/397"
       }
     ]

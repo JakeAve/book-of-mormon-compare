@@ -9,7 +9,7 @@
         "page": 465,
         "line": 31,
         "text": "Now I Moroni write somewhat as seemeth me",
-        "markdown": "Chapter []—— Now I Moroni write somewhat as",
+        "markdown": "Chapter []—— Now I Moroni write somewhat as seemeth me",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/465"
       },
       {
@@ -80,7 +80,7 @@
         "page": 465,
         "line": 37,
         "text": "unto the children of men from the creation of Adam even down until the time that ye",
-        "markdown": "unto the children of men from the creation of Adam even down until the time that ~~t◊~~",
+        "markdown": "unto the children of men from the creation of Adam even down until the time that ~~t◊~~ ye",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/465"
       },
       {
@@ -749,7 +749,7 @@
         "page": 467,
         "line": 4,
         "text": "written is true",
-        "markdown": "written is ~~true~~",
+        "markdown": "written is ~~true~~ [true]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/467"
       }
     ]
@@ -764,7 +764,6 @@
         "page": 467,
         "line": 4,
         "text": "& again I would exhort you that ye would come unto Christ &",
-        "markdown": "[true] & again I would exhort you that ye would come unto Christ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/467"
       },
       {
@@ -935,6 +934,7 @@
         "page": 467,
         "line": 20,
         "text": "vah the Eternal Judge of both quick & dead Amen——",
+        "markdown": "vah the Eternal Judge of both quick & dead Amen—— ~~TE~~ THE END.",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/467"
       }
     ]
@@ -949,7 +949,7 @@
         "page": 467,
         "line": 20,
         "text": "THE END.",
-        "markdown": "vah the",
+        "markdown": "vah the Eternal Judge of both quick & dead Amen—— ~~TE~~ THE END.",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/467"
       }
     ]

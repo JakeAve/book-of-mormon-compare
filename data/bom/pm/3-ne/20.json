@@ -115,6 +115,7 @@
         "page": 399,
         "line": 39,
         "text": "and when",
+        "markdown": "and when ~~tth~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/399"
       },
       {
@@ -326,7 +327,7 @@
         "page": 400,
         "line": 16,
         "text": "verily I say unto you that when they shall be fullfiled then is the",
-        "markdown": "verily I say unto you that when ~~their~~ they shall be fullfiled then is",
+        "markdown": "verily I say unto you that when ~~their~~ they shall be fullfiled then is the",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/400"
       },
       {
@@ -334,6 +335,7 @@
         "page": 400,
         "line": 17,
         "text": "fullfilling of the covenant which the Father hath made unto his",
+        "markdown": "fullfilling of the covenant which the Father hath made unto his ~~peo~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/400"
       },
       {
@@ -362,7 +364,7 @@
         "page": 400,
         "line": 19,
         "text": "shall be scattered abroad upon the face of the Earth be gathered",
-        "markdown": "shall be scattered ~~t◊◊~~ abroad upon the face of the Earth be",
+        "markdown": "shall be scattered ~~t◊◊~~ abroad upon the face of the Earth be gathered",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/400"
       },
       {
@@ -468,6 +470,7 @@
         "page": 400,
         "line": 28,
         "text": "ye shall be among them as a Lion among the beasts of",
+        "markdown": "ye shall be among them as a Lion among the beasts of ~~the beast~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/400"
       },
       {
@@ -602,7 +605,7 @@
         "page": 401,
         "line": 1,
         "text": "upon them saith the Father yea even upon all the Nations of",
-        "markdown": "upon them saith [the] Father yea even upon all the ~~Gentiles~~ Nations",
+        "markdown": "upon them saith [the] Father yea even upon all the ~~Gentiles~~ Nations of",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/401"
       },
       {
@@ -687,7 +690,7 @@
         "page": 401,
         "line": 7,
         "text": "he of whom Moses spake, saying a People shall the Lord your God",
-        "markdown": "~~in the~~ he of whom Moses spake, saying a People shall the Lord",
+        "markdown": "~~in the~~ he of whom Moses spake, saying a People shall the Lord your God",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/401"
       },
       {
@@ -709,7 +712,7 @@
         "page": 401,
         "line": 10,
         "text": "pass that every Soul which will not hear that Prophet shall be cut",
-        "markdown": "pass that every Soul which will not hear that ~~People~~ Prophet shall be",
+        "markdown": "pass that every Soul which will not hear that ~~People~~ Prophet shall be cut",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/401"
       },
       {
@@ -1033,7 +1036,7 @@
         "page": 401,
         "line": 37,
         "text": "then shall they break forth into joy",
-        "markdown": "then ~~all~~ shall they break forth into",
+        "markdown": "then ~~all~~ shall they break forth into joy",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/401"
       },
       {
@@ -1385,7 +1388,7 @@
         "page": 402,
         "line": 26,
         "text": "with his People be fulfiled & then shall Jerusalem be inhabited again with",
-        "markdown": "with his People be fulfiled & ~~there~~ then shall Jerusalem be inhabited again",
+        "markdown": "with his People be fulfiled & ~~there~~ then shall Jerusalem be inhabited again with",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/402"
       },
       {

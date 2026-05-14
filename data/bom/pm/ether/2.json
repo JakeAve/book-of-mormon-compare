@@ -86,7 +86,7 @@
         "page": 434,
         "line": 24,
         "text": "ation is a honey bee & thus they did carry with them swarms of bees & all man",
-        "markdown": "ation is a honey bee & ~~this~~ thus they did carry with them swarms of bees & all",
+        "markdown": "ation is a honey bee & ~~this~~ thus they did carry with them swarms of bees & all man",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/434"
       },
       {
@@ -363,7 +363,7 @@
         "page": 435,
         "line": 8,
         "text": "repent & not continue in your iniquities until the fulness be come that ye may not bring down the",
-        "markdown": "repent & not continue in your iniquities until the fulness be come that ye may ~~know~~ [not bring] down",
+        "markdown": "repent & not continue in your iniquities until the fulness be come that ye may ~~know~~ [not bring] down the",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/435"
       },
       {
@@ -611,7 +611,7 @@
         "page": 435,
         "line": 31,
         "text": "& they were built after a manner that they were",
-        "markdown": "& they were built ~~upon~~ [after] a manner that they",
+        "markdown": "& they were built ~~upon~~ [after] a manner that they were",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/435"
       },
       {
@@ -619,6 +619,7 @@
         "page": 435,
         "line": 32,
         "text": "exceeding tight even that they would hold water like unto a dish & the bottom",
+        "markdown": "exceeding tight even that they would hold water like unto a dish & the bottom ~~there~~ ~~<​thereof​>~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/435"
       },
       {
@@ -830,7 +831,7 @@
         "page": 436,
         "line": 11,
         "text": "hold ye cannot have windows for they will be dashed in peces neither shall ye take",
-        "markdown": "hold ye cannot have windows for they will be dashed in ~~peaces~~ [peces] neither shall ye",
+        "markdown": "hold ye cannot have windows for they will be dashed in ~~peaces~~ [peces] neither shall ye take",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/436"
       },
       {
@@ -873,7 +874,7 @@
         "page": 436,
         "line": 15,
         "text": "so the rains & the floods have I sent forth",
-        "markdown": "so ~~&~~ the rains & the floods have I sent",
+        "markdown": "so ~~&~~ the rains & the floods have I sent forth",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/436"
       }
     ]
@@ -888,7 +889,6 @@
         "page": 436,
         "line": 15,
         "text": "& behold I prepare you against these things for",
-        "markdown": "forth & behold I prepare you against these things",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/436"
       },
       {

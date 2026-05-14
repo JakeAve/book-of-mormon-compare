@@ -259,7 +259,7 @@
         "page": 198,
         "line": 1,
         "text": "& the People which were in the land Northward did dwell in tents & inhouses of Cement & they did suffer whatsoever tree should spring up upon the",
-        "markdown": "& the People which were in th}}e land Northward did dwell in ten{{ts & inhouses of Cement & they did suffer}} whatsoever ~~he~~ [tree] should spring up upon",
+        "markdown": "& the People which were in th}}e land Northward did dwell in ten{{ts & inhouses of Cement & they did suffer}} whatsoever ~~he~~ [tree] should spring up upon the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/198"
       },
       {
@@ -351,7 +351,7 @@
         "page": 198,
         "line": 8,
         "text": "ple of Ammon which were Lamanites by Bearth did also go forth into this land",
-        "markdown": "{{ple of Ammon which were La}}manites by Bearth ~~als <​di​>~~ did also go forth into",
+        "markdown": "{{ple of Ammon which were La}}manites by Bearth ~~als <​di​>~~ did also go forth into ~~the~~ [this] land",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/198"
       }
     ]
@@ -497,7 +497,7 @@
         "page": 198,
         "line": 20,
         "text": "of the earth & mixed with the Lamanites untill they are no more called the Nephi",
-        "markdown": "{{of}} the earth & mixed ~~wi~~ with the Lamanites untill they are no more called the",
+        "markdown": "{{of}} the earth & mixed ~~wi~~ with the Lamanites untill they are no more called the Nephi",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/198"
       },
       {

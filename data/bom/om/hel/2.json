@@ -248,7 +248,7 @@
         "page": 196,
         "line": 30,
         "text": "came to pass that when the servant of Helaman had known all the heart of",
-        "markdown": "came to pass}} that when the servant of Helaman had known all the heart of",
+        "markdown": "came to pass}} that when the servant of Helaman had known all the heart of ~~Kish~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/196"
       },
       {
@@ -303,7 +303,7 @@
         "page": 197,
         "line": 4,
         "text": "all the things which he had seen & heard & done",
-        "markdown": "all the things which he had seen & heard & ~~ob~~",
+        "markdown": "all the things which he had seen & heard & ~~ob~~ done",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/197"
       }
     ]
@@ -318,7 +318,7 @@
         "page": 197,
         "line": 4,
         "text": "& it came to pass that Helaman did",
-        "markdown": "done {{& it came to pass that Helaman",
+        "markdown": "{{& it came to pass that Helaman did}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/197"
       },
       {
@@ -349,7 +349,7 @@
         "page": 197,
         "line": 6,
         "text": "return he feared lest that he should be destroid therefore he caused that his band shou",
-        "markdown": "return he feared lest that ~~the~~ he should be destroid th{{erefore he caused that his band",
+        "markdown": "return he feared lest that ~~the~~ he should be destroid th{{erefore he caused that his band shou}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/197"
       },
       {
@@ -365,7 +365,7 @@
         "page": 197,
         "line": 8,
         "text": "& thus when Helaman sent forth to take them they could no where be found",
-        "markdown": "& ~~this~~ [thus] when Helaman sent forth to take them they co{{uld no where be",
+        "markdown": "& ~~this~~ [thus] when Helaman sent forth to take them they co{{uld no where be found",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/197"
       }
     ]
@@ -380,7 +380,7 @@
         "page": 197,
         "line": 8,
         "text": "& more of this",
-        "markdown": "found & more of",
+        "markdown": "& more of this}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/197"
       },
       {
@@ -418,7 +418,7 @@
         "page": 197,
         "line": 11,
         "text": "did prove the overthrow yea almost the entire destruction of the People of Nephi beh",
-        "markdown": "did prove the overthrow ~~of~~ yea almost the enti{{re}} des{{truction of the People of Nephi",
+        "markdown": "did prove the overthrow ~~of~~ yea almost the enti{{re}} des{{truction of the People of Nephi beh}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/197"
       }
     ]
@@ -433,7 +433,7 @@
         "page": 197,
         "line": 12,
         "text": "old I do not mean the end of the Book of Helaman but I mean the end of the Book",
-        "markdown": "old I ~~do C~~ do not mean the end of the Book of Helaman {{but I mean the end of",
+        "markdown": "old I ~~do C~~ do not mean the end of the Book of Helaman {{but I mean the end of the Book}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/197"
       },
       {
@@ -441,7 +441,7 @@
         "page": 197,
         "line": 13,
         "text": "of Nephi from which I have taken all the account which I have written",
-        "markdown": "of Nephi from which I have taken all the account w{{hich I have written",
+        "markdown": "of Nephi from which I have taken all the account w{{hich I have written }}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/197"
       },
       {
@@ -449,6 +449,7 @@
         "page": 197,
         "line": 14,
         "text": "Chapter",
+        "markdown": "Chapter {{}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/197"
       }
     ]

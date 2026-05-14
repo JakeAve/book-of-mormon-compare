@@ -81,7 +81,7 @@
         "page": 173,
         "line": 23,
         "text": "that these were a desendant of Laman which was the eldest Son of our Father Lehi",
-        "markdown": "that these were a desendant of Laman ~~the~~ [which] was the eldest Son of ~~are~~ [our]",
+        "markdown": "that these were a desendant of Laman ~~the~~ [which] was the eldest Son of ~~are~~ [our] Father Lehi",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/173"
       }
     ]
@@ -96,7 +96,7 @@
         "page": 173,
         "line": 24,
         "text": "now I knead not rehearse unto you concerning their traditions or their unlebief for thou",
-        "markdown": "now I knead not rehearse unto you concerning ~~there~~ [their] traditions or their unlebief for",
+        "markdown": "now I knead not rehearse unto you concerning ~~there~~ [their] traditions or their unlebief for thou",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/173"
       },
       {
@@ -118,7 +118,7 @@
         "page": 173,
         "line": 25,
         "text": "therefore it supficeth [sufficeth] me that I tell you that two",
-        "markdown": "therefore it supficeth [sufficeth] me that I tell you that ~~tw~~",
+        "markdown": "therefore it supficeth [sufficeth] me that I tell you that ~~tw~~ two",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/173"
       },
       {
@@ -247,7 +247,7 @@
         "page": 174,
         "line": 1,
         "text": "but behold here is one thingin which we may have great joy for behold in the twenty & six year IHelaman did march at the head of these two thousand young men to theCity of Judeah to assist Antipus whom ye had appointed a leader over the",
-        "markdown": "but behold ~~theres~~ [here is] one thi{{ngin which we may have great joy for}} behold in the twenty & six year {{IHelaman did march at the head o}}f these two thousand young men to {{theCity of Judeah to assist Anti}}pus whom ye had appointed a leader ove{{r",
+        "markdown": "but behold ~~theres~~ [here is] one thi{{ngin which we may have great joy for}} behold in the twenty & six year {{IHelaman did march at the head o}}f these two thousand young men to {{theCity of Judeah to assist Anti}}pus whom ye had appointed a leader ove{{r t}}he",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/174"
       },
       {
@@ -277,7 +277,7 @@
         "page": 174,
         "line": 3,
         "text": "they are worthy to be called Sons to the army of Antipus in the which stren",
-        "markdown": "{{they are worthy to be called So}}ns ~~of~~ to the army of Antipus in ~~he~~ [the]",
+        "markdown": "{{they are worthy to be called So}}ns ~~of~~ to the army of Antipus in ~~he~~ [the] which stren",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/174"
       },
       {
@@ -301,7 +301,7 @@
         "page": 174,
         "line": 6,
         "text": "in a vast number of our men for which cause we have to mourn",
-        "markdown": "{{in a vast number of our}} men ~~of~~ [for] which cause we have to",
+        "markdown": "{{in a vast number of our}} men ~~of~~ [for] which cause we have to mourn",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/174"
       }
     ]
@@ -316,7 +316,6 @@
         "page": 174,
         "line": 6,
         "text": "nevertheless",
-        "markdown": "mourn",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/174"
       },
       {
@@ -385,7 +384,7 @@
         "page": 174,
         "line": 11,
         "text": "& now these are the cities which the Lamanites have obtained possession of",
-        "markdown": "& now these are the cit}}ies which the Lamanites ~~hath~~ [have] obtained possession",
+        "markdown": "& now these are the cit}}ies which the Lamanites ~~hath~~ [have] obtained possession of",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/174"
       },
       {
@@ -408,7 +407,7 @@
         "page": 174,
         "line": 12,
         "text": "the land of Manti or the",
-        "markdown": "the land of Manti ~~of~~ [or]",
+        "markdown": "the land of Manti ~~of~~ [or] the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/174"
       },
       {
@@ -439,6 +438,7 @@
         "page": 174,
         "line": 14,
         "text": "& these are the cities which they possessed when I arived at the City",
+        "markdown": "& these are the cities which they possessed when I arived at the City ~~off~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/174"
       },
       {
@@ -446,7 +446,7 @@
         "page": 174,
         "line": 15,
         "text": "of Judeah & I found Antipus & his men toiling with their mights to fortify the",
-        "markdown": "{{of Jude}}ah & I found Antipus & his ~~sold~~ [men] ~~sold~~ [toiling] with their mights to",
+        "markdown": "{{of Jude}}ah & I found Antipus & his ~~sold~~ [men] ~~sold~~ [toiling] with their mights to fortify the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/174"
       },
       {
@@ -498,7 +498,7 @@
         "page": 174,
         "line": 18,
         "text": "& now they were determined to conquer in this",
-        "markdown": "& now they were determined to conquer in ~~thus~~",
+        "markdown": "& now they were determined to conquer in ~~thus~~ [this]",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/174"
       },
       {
@@ -513,7 +513,7 @@
         "page": 174,
         "line": 20,
         "text": "ught with me yea those Sons of mine gave them great hopes & much joy",
-        "markdown": "ught with ~~my~~ [me] yea those Sons of mine gave them great hope[s] & much",
+        "markdown": "ught with ~~my~~ [me] yea those Sons of mine gave them great hope[s] & much joy",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/174"
       }
     ]
@@ -528,7 +528,6 @@
         "page": 174,
         "line": 20,
         "text": "& n",
-        "markdown": "joy &",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/174"
       },
       {
@@ -550,7 +549,7 @@
         "page": 174,
         "line": 23,
         "text": "come against the city of Judeah or against us to Battle",
-        "markdown": "come against the city of Judeah ~~of~~ [or] against us to",
+        "markdown": "come against the city of Judeah ~~of~~ [or] against us to Battle",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/174"
       }
     ]
@@ -565,7 +564,6 @@
         "page": 174,
         "line": 23,
         "text": "& thus were we favoured",
-        "markdown": "Battle & thus were we",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/174"
       },
       {
@@ -617,7 +615,7 @@
         "page": 174,
         "line": 28,
         "text": "we had prepaired our city & ourselves for defence",
-        "markdown": "~~he~~ [we] had prepaired our city & ourselves for",
+        "markdown": "~~he~~ [we] had prepaired our city & ourselves for defence",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/174"
       }
     ]
@@ -632,7 +630,6 @@
         "page": 174,
         "line": 28,
         "text": "now we were desireous th",
-        "markdown": "defence now we were desireous",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/174"
       },
       {
@@ -668,7 +665,7 @@
         "page": 174,
         "line": 31,
         "text": "out round about to watch the movements of the Lamanites that they mig",
-        "markdown": "~~r~~ out round about to watch the movements of the~~i~~ Lamanites that they",
+        "markdown": "~~r~~ out round about to watch the movements of the~~i~~ Lamanites that they mig",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/174"
       },
       {
@@ -751,7 +748,7 @@
         "page": 175,
         "line": 4,
         "text": "neither dearst they march down against",
-        "markdown": "~~&~~ neither dea{{rst they march down",
+        "markdown": "~~&~~ neither dea{{rst they march down against}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/175"
       },
       {
@@ -833,7 +830,7 @@
         "page": 175,
         "line": 9,
         "text": "& also there was sent two thousand men unto us from the",
-        "markdown": "& also there ~~were~~ was sent two tho{{usand men unto us from",
+        "markdown": "& also there ~~were~~ was sent two tho{{usand men unto us from the}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/175"
       },
       {
@@ -939,7 +936,7 @@
         "page": 175,
         "line": 18,
         "text": "& we were to march near the city Antiparah as if we were going to the city",
-        "markdown": "& we were to march near the city Antiparah as if we were ~~g~~ going to the",
+        "markdown": "& we were to march near the city Antiparah as if we were ~~g~~ going to the city",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/175"
       },
       {
@@ -947,7 +944,7 @@
         "page": 175,
         "line": 19,
         "text": "beyond on the borders by the Sea Shore",
-        "markdown": "beyond ~~shore~~ [on] the borders by the Sea",
+        "markdown": "beyond ~~shore~~ [on] the borders by the Sea Shore",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/175"
       }
     ]
@@ -962,7 +959,6 @@
         "page": 175,
         "line": 19,
         "text": "& it came to pass that we did march forth as",
-        "markdown": "Shore & it came to pass that we did march forth",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/175"
       },
       {
@@ -984,7 +980,7 @@
         "page": 175,
         "line": 20,
         "text": "& it came to pass that Antipu",
-        "markdown": "& it came to pass that ~~Antipara~~",
+        "markdown": "& it came to pass that ~~Antipara~~ Antipu",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/175"
       },
       {
@@ -1000,7 +996,7 @@
         "page": 175,
         "line": 22,
         "text": "the city but he did not march forth until I had gone forth with my little",
-        "markdown": "the city ~~Antipar~~ [but he] did not march forth until I had gone forth with my",
+        "markdown": "the city ~~Antipar~~ [but he] did not march forth until I had gone forth with my little",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/175"
       },
       {
@@ -1079,7 +1075,7 @@
         "page": 175,
         "line": 27,
         "text": "fore them northward & thus we did lead away the most powerful army of the",
-        "markdown": "fore them ~~a K~~ northward & thus we did lead away the most powerful army",
+        "markdown": "fore them ~~a K~~ northward & thus we did lead away the most powerful army of the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/175"
       },
       {
@@ -1219,7 +1215,7 @@
         "page": 176,
         "line": 7,
         "text": "surrounded neither would I turn to the right or to the left lest they should",
-        "markdown": "{{surrounded neither wo}}uld I turn to the right or ~~be~~ [to] the left lest they",
+        "markdown": "{{surrounded neither wo}}uld I turn to the right or ~~be~~ [to] the left lest they should",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/176"
       },
       {
@@ -1243,7 +1239,7 @@
         "page": 176,
         "line": 10,
         "text": "even until it was dark & it came to pass that again",
-        "markdown": "{{even until it was dark}} & it came to pass that again",
+        "markdown": "{{even until it was dark}} & it came to pass that again ~~we saw the Laman~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/176"
       }
     ]
@@ -1327,7 +1323,7 @@
         "page": 176,
         "line": 16,
         "text": "that we should come against them that they may catch us in their snare ther",
-        "markdown": "{{that w}}e should come against them that they may ~~cacth~~ catch us in their snare",
+        "markdown": "{{that w}}e should come against them that they may ~~cacth~~ catch us in their snare ther",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/176"
       }
     ]
@@ -1399,7 +1395,7 @@
         "page": 176,
         "line": 21,
         "text": "th us & he will not suffer that we shall fall then let us go forth we would not",
-        "markdown": "th us & he will not suffer that we shall fall then let ~~it~~ [us] go forth ~~we~~ we",
+        "markdown": "th us & he will not suffer that we shall fall then let ~~it~~ [us] go forth ~~we~~ we would not",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/176"
       },
       {
@@ -1471,7 +1467,7 @@
         "page": 176,
         "line": 27,
         "text": "the words of their Mothers saying we do not doubt our Mothers knew &",
-        "markdown": "the words of their Mothers saying we do not doubt our Mothers ~~kenew~~ knew",
+        "markdown": "the words of their Mothers saying we do not doubt our Mothers ~~kenew~~ knew &",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/176"
       }
     ]
@@ -1486,7 +1482,6 @@
         "page": 176,
         "line": 27,
         "text": "it",
-        "markdown": "&",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/176"
       },
       {
@@ -1544,7 +1539,7 @@
         "page": 176,
         "line": 33,
         "text": "thousand they would have obtained their purpose",
-        "markdown": "thousand ~~&~~ they would have obtained their",
+        "markdown": "thousand ~~&~~ they would have obtained their purpose",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/176"
       }
     ]
@@ -1559,7 +1554,7 @@
         "page": 176,
         "line": 33,
         "text": "for Antipus had",
-        "markdown": "purpose for Antipus",
+        "markdown": "for Antipus had ~~fel~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/176"
       },
       {
@@ -1567,7 +1562,7 @@
         "page": 177,
         "line": 1,
         "text": "fallen by the Sword & many of his leaders because of their weariness whichwas occasioned by the spede of their march therefore the men of Antipus beingconfused because of the fall of their leaders began to give way before the",
-        "markdown": "{{fa}}ll{{e}}n by the Sword & many of his lead{{ers because of their weariness whichwas occ}}asioned by the ~~spe◊y~~ [spede] of their marc{{h therefore the men of Antipus beingconfus}}ed because of the fall of their leaders beg{{an to give way before",
+        "markdown": "{{fa}}ll{{e}}n by the Sword & many of his lead{{ers because of their weariness whichwas occ}}asioned by the ~~spe◊y~~ [spede] of their marc{{h therefore the men of Antipus beingconfus}}ed because of the fall of their leaders beg{{an to give way before the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/177"
       }
     ]
@@ -1582,7 +1577,7 @@
         "page": 177,
         "line": 1,
         "text": "Lamanites & itcame to pass that the Lamanites took courage & began to persue them & thus were the Laman",
-        "markdown": "the Lamanites & itcame}} to pass that the Lamanites ~~◊~~took courage & be{{gan to persue them & thus were the",
+        "markdown": "Lamanites & itcame}} to pass that the Lamanites ~~◊~~took courage & be{{gan to persue them & thus were the Laman}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/177"
       },
       {
@@ -1598,7 +1593,7 @@
         "page": 177,
         "line": 3,
         "text": "two thousand & began to slay them excedingly insomuch that the whole army of the",
-        "markdown": "two thousand & began to slay ~~thing~~ [them] excedingly inso{{much that the whole army of",
+        "markdown": "two thousand & began to slay ~~thing~~ [them] excedingly inso{{much that the whole army of the}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/177"
       },
       {
@@ -1772,7 +1767,7 @@
         "page": 177,
         "line": 16,
         "text": "could guard them to keep them from the armies of the Lamanites therefore we sent",
-        "markdown": "could guard them ~~there~~ to keep them from the armies of the Lamanites therefo{{re we",
+        "markdown": "could guard them ~~there~~ to keep them from the armies of the Lamanites therefo{{re we sent}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/177"
       },
       {
@@ -1795,7 +1790,7 @@
         "page": 177,
         "line": 19,
         "text": "rch back to the City of Judeah",
-        "markdown": "{{rc}}h back to the City of ~~Jewd~~",
+        "markdown": "{{rc}}h back to the City of ~~Jewd~~ Judeah",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/177"
       }
     ]

@@ -135,6 +135,7 @@
         "page": 438,
         "line": 27,
         "text": "Wherefore the Lord hath commanded me to write them & I",
+        "markdown": "Wherefore the Lord hath commanded me to write them & I ~~have~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/438"
       },
       {
@@ -373,7 +374,7 @@
         "page": 439,
         "line": 8,
         "text": "of none save it be of me I am the same that leadeth men to all good he that will not",
-        "markdown": "of none save it be of me ~~&~~ I am the same that leadeth men to all good he that will",
+        "markdown": "of none save it be of me ~~&~~ I am the same that leadeth men to all good he that will not",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/439"
       },
       {
@@ -571,7 +572,7 @@
         "page": 439,
         "line": 24,
         "text": "therefore repent all ye ends of the earth & come unto me & believe in my Gospel & be baptized in",
-        "markdown": "~~earth~~ [therefore] repent all ye ends of the earth & come unto me & believe in my Gospel & be baptized",
+        "markdown": "~~earth~~ [therefore] repent all ye ends of the earth & come unto me & believe in my Gospel & be baptized in",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/439"
       },
       {

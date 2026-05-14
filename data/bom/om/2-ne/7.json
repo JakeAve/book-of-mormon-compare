@@ -56,7 +56,7 @@
         "page": 49,
         "line": 5,
         "text": "dry up the Sea I make the rivers a wilderness & their fish to stink becausethe waters are dried up & they dieth because of thurst",
-        "markdown": "dry up the Sea I make the rivers a wilderness & ~~then~~ [their] fish {{to stink becausethe}} waters are dried up & they dieth because of",
+        "markdown": "dry up the Sea I make the rivers a wilderness & ~~then~~ [their] fish {{to stink becausethe}} waters are dried up & they dieth because of thurst",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/49"
       }
     ]
@@ -71,7 +71,7 @@
         "page": 49,
         "line": 5,
         "text": "I cloath the heavens with",
-        "markdown": "thurst I clo{{ath the heavens",
+        "markdown": "I clo{{ath the heavens with}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/49"
       },
       {
@@ -101,7 +101,7 @@
         "page": 49,
         "line": 7,
         "text": "tongue of the learned that I should know how to speak a word in Season unto theeO house of Israel when ye are weary he wakeneth morning by morning he",
-        "markdown": "tongue of the learned that I should know how to speak a word {{in Season unto theeO}} house of Israel when ye are weary ~~ye~~ he wakeneth morning {{by morning",
+        "markdown": "tongue of the learned that I should know how to speak a word {{in Season unto theeO}} house of Israel when ye are weary ~~ye~~ he wakeneth morning {{by morning he}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/49"
       },
       {
@@ -220,7 +220,7 @@
         "page": 49,
         "line": 9,
         "text": "all they which shall condemn",
-        "markdown": "& all they which shall",
+        "markdown": "& all they which shall condemn}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/49"
       }
     ]

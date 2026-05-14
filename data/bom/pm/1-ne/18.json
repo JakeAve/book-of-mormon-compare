@@ -240,7 +240,7 @@
         "page": 40,
         "line": 22,
         "text": "after we had all gone down into the Ship & had taken with us our provisions & things",
-        "markdown": "after we had all gone down ~~in~~ [into] the Ship & had taken with us our provisions &",
+        "markdown": "after we had all gone down ~~in~~ [into] the Ship & had taken with us our provisions & things",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/40"
       },
       {
@@ -367,7 +367,7 @@
         "page": 40,
         "line": 35,
         "text": "ey did treat me with much hashness nevertheless the Lord did suffer it th",
-        "markdown": "ey did ~~tread~~ [treat] me with much hashness nevertheless the Lord did suffer it",
+        "markdown": "ey did ~~tread~~ [treat] me with much hashness nevertheless the Lord did suffer it th",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/40"
       },
       {
@@ -641,7 +641,7 @@
         "page": 41,
         "line": 23,
         "text": "time to meet their God yea their gray hairs were about to be brought do",
-        "markdown": "time to meet their God yea their gray hairs were about ~~be~~ to be brought",
+        "markdown": "time to meet their God yea their gray hairs were about ~~be~~ to be brought do",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/41"
       },
       {
@@ -838,7 +838,7 @@
         "page": 42,
         "line": 3,
         "text": "& it came to pass that we did begin to till the earth & we be",
-        "markdown": "& it came to pass that we did begin to till the ~~ground~~ [earth] & we",
+        "markdown": "& it came to pass that we did begin to till the ~~ground~~ [earth] & we be",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/42"
       },
       {
@@ -846,6 +846,7 @@
         "page": 42,
         "line": 4,
         "text": "gan to plant seeds yea we did put all our seeds into the earth which we",
+        "markdown": "gan to plant seeds yea we did put all our seeds into the earth which we ~~hah~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/42"
       },
       {
@@ -888,7 +889,7 @@
         "page": 42,
         "line": 8,
         "text": "there was beasts in the forests of every kind both the cow & the Ox & the",
-        "markdown": "there ~~were~~ was beasts in the forests of every kind both the cow & the Ox &",
+        "markdown": "there ~~were~~ was beasts in the forests of every kind both the cow & the Ox & the",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/42"
       },
       {

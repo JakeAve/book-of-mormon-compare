@@ -77,7 +77,7 @@
         "page": 104,
         "line": 27,
         "text": "Lehi left Jerusalem yea & tens of thousands of the Lamanites were slain",
-        "markdown": "Lehi left Jerusalem yea & {{tens of thous}}ands ~~the~~ [of] the Lamanites were",
+        "markdown": "Lehi left Jerusalem yea & {{tens of thous}}ands ~~the~~ [of] the Lamanites were slain",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/104"
       },
       {
@@ -165,7 +165,7 @@
         "page": 104,
         "line": 33,
         "text": "bands & also of Fathers a mourning for their Sons & the Daughter for the Broth",
-        "markdown": "bands & also of Fathers [a] mourning for ~~them~~ [their] Sons & the Daughter for the",
+        "markdown": "bands & also of Fathers [a] mourning for ~~them~~ [their] Sons & the Daughter for the Broth",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/104"
       },
       {
@@ -303,7 +303,7 @@
         "page": 105,
         "line": 8,
         "text": "ween the Nephites & the Lamanites & the fifteenth year of the reign of the",
-        "markdown": "ween the Nephites & th[e] Lamanites & the ~~fiftht~~ fifte{{enth year of the reign of",
+        "markdown": "ween the Nephites & th[e] Lamanites & the ~~fiftht~~ fifte{{enth year of the reign of the}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/105"
       },
       {
@@ -372,7 +372,7 @@
         "page": 105,
         "line": 13,
         "text": "& many thousands are mourning for the loss of their Kindred because they have",
-        "markdown": "& many thousands are mourning for ~~th~~ the loss of t{{heir Kindred because they",
+        "markdown": "& many thousands are mourning for ~~th~~ the loss of t{{heir Kindred because they have}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/105"
       },
       {
@@ -419,7 +419,7 @@
         "page": 105,
         "line": 17,
         "text": "of the Lord that they are raised to dwell at the right hand of God in a state of nev",
-        "markdown": "of the Lord that they are raised to dwell at the right hand of God ~~t~~ in a stat{{e of",
+        "markdown": "of the Lord that they are raised to dwell at the right hand of God ~~t~~ in a stat{{e of nev}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/105"
       },
       {
@@ -449,7 +449,7 @@
         "page": 105,
         "line": 19,
         "text": "nsgression & the Power of the Devil which comes by the cunning plans which he",
-        "markdown": "nsgression & the Power of the Devil which comes by the cunning ~~of~~ plan{{s which",
+        "markdown": "nsgression & the Power of the Devil which comes by the cunning ~~of~~ plan{{s which he}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/105"
       },
       {
@@ -479,7 +479,7 @@
         "page": 105,
         "line": 21,
         "text": "ce of men to labour in the vineyards of the Lord & thus we see the great reason",
-        "markdown": "ce of ~~man <​men​>~~ men to labour in the vineyards of the Lord & thus we s{{ee the",
+        "markdown": "ce of ~~man <​men​>~~ men to labour in the vineyards of the Lord & thus we s{{ee the great reason}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/105"
       },
       {

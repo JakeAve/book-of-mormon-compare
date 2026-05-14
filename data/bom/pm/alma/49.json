@@ -643,7 +643,7 @@
         "page": 297,
         "line": 5,
         "text": "Nephites prepared to destroy all such as should attempt to climb up to enter the fort",
-        "markdown": "Nephites prepared to destroy all such as should attempt to climb up to enter ~~in~~ the",
+        "markdown": "Nephites prepared to destroy all such as should attempt to climb up to enter ~~in~~ the fort",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/297"
       },
       {
@@ -686,7 +686,7 @@
         "page": 297,
         "line": 9,
         "text": "thus were they prepared to defend themselves against the Lamanites",
-        "markdown": "thus were they ~~prep~~ [prepared] to defend themselves against the",
+        "markdown": "thus were they ~~prep~~ [prepared] to defend themselves against the Lamanites",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/297"
       }
     ]
@@ -701,7 +701,6 @@
         "page": 297,
         "line": 9,
         "text": "& it came to pass that",
-        "markdown": "Lamanites & it came to pass",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/297"
       },
       {
@@ -716,7 +715,7 @@
         "page": 297,
         "line": 11,
         "text": "an to contend with the Nephites to get into their place of security but behold they",
-        "markdown": "an to contend with the ~~Lamanites~~ [Nephites] to get into their place of security but behold",
+        "markdown": "an to contend with the ~~Lamanites~~ [Nephites] to get into their place of security but behold they",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/297"
       },
       {
@@ -990,7 +989,7 @@
         "page": 298,
         "line": 2,
         "text": "God because of his matchless power in delivering them from the hands of their enemies",
-        "markdown": "God because of his matchless power in delivering them from ~~their~~ [the hands] of their",
+        "markdown": "God because of his matchless power in delivering them from ~~their~~ [the hands] of their enemies",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/298"
       }
     ]

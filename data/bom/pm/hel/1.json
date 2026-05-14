@@ -59,7 +59,7 @@
         "page": 334,
         "line": 24,
         "text": "called the Book of Helaman &C——",
-        "markdown": "called the Book of Helaman &C—— And",
+        "markdown": "called the Book of Helaman &C—— And now behold it came to pass",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/334"
       },
       {
@@ -67,7 +67,7 @@
         "page": 334,
         "line": 24,
         "text": "And now behold it came to pass",
-        "markdown": "called the Book of Helaman &C—— And",
+        "markdown": "called the Book of Helaman &C—— And now behold it came to pass",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/334"
       }
     ]
@@ -145,7 +145,7 @@
         "page": 334,
         "line": 30,
         "text": "mentseat whicd did also cause the people to contend Pahoron Paanchi & Pacumeni",
-        "markdown": "mentseat ~~Pahoron Pa cause~~ [whicd did also cause] the people to contend Pahoron",
+        "markdown": "mentseat ~~Pahoron Pa cause~~ [whicd did also cause] the people to contend Pahoron Paanchi & Pacumeni",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/334"
       }
     ]
@@ -188,7 +188,7 @@
         "page": 334,
         "line": 33,
         "text": "nevertheless it came to pass that Pahoron was appointed by the voice of the people to",
-        "markdown": "~~newer~~ [nevertheless] it came to pass that Pahoron was appointed by the voice of the people",
+        "markdown": "~~newer~~ [nevertheless] it came to pass that Pahoron was appointed by the voice of the people to",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/334"
       },
       {
@@ -434,7 +434,7 @@
         "page": 335,
         "line": 19,
         "text": "was appointed according to the voice of the people to be a chief Judge & a governor over",
-        "markdown": "was appointed according to the voice of the people ~~be~~ to be a chief Judge & a governor",
+        "markdown": "was appointed according to the voice of the people ~~be~~ to be a chief Judge & a governor over",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/335"
       },
       {
@@ -547,7 +547,7 @@
         "page": 335,
         "line": 29,
         "text": "loth who was the Son of Ammoron now Tubaloth supposeing that Coriantumr he",
-        "markdown": "loth who was the Son of Ammoron now Tubaloth supposeing ~~the~~ that Coriantumr",
+        "markdown": "loth who was the Son of Ammoron now Tubaloth supposeing ~~the~~ that Coriantumr he",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/335"
       },
       {
@@ -597,7 +597,7 @@
         "page": 335,
         "line": 34,
         "text": "ld march down to the land of Zarahemla to battle against the Nephites",
-        "markdown": "ld march down ~~in~~to the land of Zarahemla to battle against the Nephites",
+        "markdown": "ld march down ~~in~~to the land of Zarahemla to battle against the Nephites & it came to",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/335"
       }
     ]
@@ -640,7 +640,7 @@
         "page": 336,
         "line": 3,
         "text": "lands & attackt that great City Zarahemla",
-        "markdown": "lands ~~to~~ & attackt that great City",
+        "markdown": "lands ~~to~~ & attackt that great City Zarahemla",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/336"
       }
     ]
@@ -655,7 +655,6 @@
         "page": 336,
         "line": 3,
         "text": "but it came to pass that Coriantumr",
-        "markdown": "Zarahemla but it came to pass that",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/336"
       },
       {
@@ -776,6 +775,7 @@
         "page": 336,
         "line": 14,
         "text": "prison & that he had obtained the possession of the strongest hold in all the land his",
+        "markdown": "prison & that he had obtained the possession of the strongest hold in all the land his ~~he~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/336"
       },
       {
@@ -874,7 +874,7 @@
         "page": 336,
         "line": 22,
         "text": "Coriantumr through the centre of the land gave Moronihah great advantage over",
-        "markdown": "Coriantumr through the centre of the land gave Moronihah great advantage ~~over~~",
+        "markdown": "Coriantumr through the centre of the land gave Moronihah great advantage ~~over~~ [over]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/336"
       },
       {
@@ -1071,7 +1071,7 @@
         "page": 337,
         "line": 6,
         "text": "now behold the Lamanites could not retreat neither way neither on the nor",
-        "markdown": "now behold the Lamanites could not retreat ~~no farther~~ neither way neither on",
+        "markdown": "now behold the Lamanites could not retreat ~~no farther~~ neither way neither on the nor",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/337"
       },
       {

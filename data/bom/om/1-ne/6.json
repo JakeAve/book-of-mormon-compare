@@ -94,7 +94,7 @@
         "page": 7,
         "line": 31,
         "text": "can not be ritten uppon these plates for i desire",
-        "markdown": "can not be ritten uppon ~~there~~ [these] plates for i",
+        "markdown": "can not be ritten uppon ~~there~~ [these] plates for i desire",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/7"
       },
       {
@@ -200,7 +200,7 @@
         "page": 7,
         "line": 40,
         "text": "shall not occupy these plate with things which",
-        "markdown": "shall not occupy these plate with things ~~wth~~",
+        "markdown": "shall not occupy these plate with things ~~wth~~ [which]",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/7"
       },
       {

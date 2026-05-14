@@ -51,7 +51,7 @@
         "page": 378,
         "line": 27,
         "text": "separate one from another into tribes every man according to his family & his kindred & h◊◊",
-        "markdown": "separate one from another into tribes every man according to his family & his ~~kind~~ [kindred] &",
+        "markdown": "separate one from another into tribes every man according to his family & his ~~kind~~ [kindred] & h◊◊",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/378"
       },
       {
@@ -108,7 +108,7 @@
         "page": 378,
         "line": 31,
         "text": "therefore their tribes became exceding great",
-        "markdown": "therefore ~~there~~ [their] tribes became exceding",
+        "markdown": "therefore ~~there~~ [their] tribes became exceding great",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/378"
       }
     ]
@@ -123,7 +123,6 @@
         "page": 378,
         "line": 31,
         "text": "now all this was done & there was no wars as",
-        "markdown": "great now all this was done & there was no wars",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/378"
       },
       {
@@ -314,7 +313,7 @@
         "page": 379,
         "line": 8,
         "text": "re Jacob seeing that their enemies were more numerous than they he being the king of the band",
-        "markdown": "re Jacob seeing that their enemies were more numerous than they he being the ~~kind~~ [king] of the",
+        "markdown": "re Jacob seeing that their enemies were more numerous than they he being the ~~kind~~ [king] of the band",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/379"
       },
       {
@@ -483,7 +482,7 @@
         "page": 379,
         "line": 26,
         "text": "ckedness & abominations",
-        "markdown": "ckedness & ~~also~~",
+        "markdown": "ckedness & ~~also~~ abominations",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/379"
       }
     ]
@@ -498,7 +497,6 @@
         "page": 379,
         "line": 26,
         "text": "therefore being grieved for the hardness of their hearts",
-        "markdown": "abominations therefore being grieved for the hardness of their",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/379"
       },
       {
@@ -682,7 +680,7 @@
         "page": 380,
         "line": 2,
         "text": "& as many as had Devils cast out from them & were healed",
-        "markdown": "& as many as had Devils cast out from them & ~~was~~ [were]",
+        "markdown": "& as many as had Devils cast out from them & ~~was~~ [were] healed",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/380"
       },
       {
@@ -754,7 +752,7 @@
         "page": 380,
         "line": 8,
         "text": "were none which were brought unto repentance who were not Baptised with water there",
-        "markdown": "were none which were brought unto repentance who were not Baptised with water ~~the~~",
+        "markdown": "were none which were brought unto repentance who were not Baptised with water ~~the~~ [there]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/380"
       }
     ]

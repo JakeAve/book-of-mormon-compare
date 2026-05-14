@@ -129,7 +129,7 @@
         "page": 77,
         "line": 1,
         "text": "because Syria Ephraim & the Son of Remeliah have",
-        "markdown": "because Syria Ephraim & the Son of Remeliah ~~because~~",
+        "markdown": "because Syria Ephraim & the Son of Remeliah ~~because~~ have",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/77"
       },
       {
@@ -151,7 +151,7 @@
         "page": 77,
         "line": 2,
         "text": "let us go up against Judah & vex it & let us",
-        "markdown": "let us go up against Judah & vex it & let ~~&~~",
+        "markdown": "let us go up against Judah & vex it & let ~~&~~ us",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/77"
       },
       {
@@ -264,7 +264,7 @@
         "page": 77,
         "line": 9,
         "text": "Lord thy God ask either in the debths or in the hights above",
-        "markdown": "Lord thy God ask either in the debths ~~of~~ or in the hights",
+        "markdown": "Lord thy God ask either in the debths ~~of~~ or in the hights above",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/77"
       }
     ]
@@ -279,7 +279,6 @@
         "page": 77,
         "line": 9,
         "text": "but Ahaz said I will",
-        "markdown": "above but Ahaz said I",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/77"
       },
       {
@@ -392,7 +391,7 @@
         "page": 77,
         "line": 16,
         "text": "the Lord shall bring upon thee & upon thy People & upon",
-        "markdown": "the Lord shall bring upon thee & upon thy ~~Children~~ People &",
+        "markdown": "the Lord shall bring upon thee & upon thy ~~Children~~ People & upon",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/77"
       },
       {
@@ -610,7 +609,7 @@
         "page": 77,
         "line": 31,
         "text": "the treading of lesser Cattle",
-        "markdown": "the ~~tred~~ treading of lesser",
+        "markdown": "the ~~tred~~ treading of lesser Cattle",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/77"
       }
     ]

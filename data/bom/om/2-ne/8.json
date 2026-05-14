@@ -70,7 +70,7 @@
         "page": 50,
         "line": 3,
         "text": "art thou notit which hath dried the Sea the waters of the great deep that hath made the",
-        "markdown": "{{art thou notit which hath dr}}ied ~~up~~ the Sea the waters of the great deep that hath made",
+        "markdown": "{{art thou notit which hath dr}}ied ~~up~~ the Sea the waters of the great deep that hath made the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/50"
       },
       {
@@ -161,7 +161,7 @@
         "page": 50,
         "line": 7,
         "text": "the captive exile hasteneth that he may beloosed & that he should not die in the pit nor that his bread should",
-        "markdown": "~~as if~~ the captive exile hasteneth that he may {{beloosed & that he}} should not die in the pit nor that his",
+        "markdown": "~~as if~~ the captive exile hasteneth that he may {{beloosed & that he}} should not die in the pit nor that his bread should",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/50"
       }
     ]
@@ -176,7 +176,7 @@
         "page": 50,
         "line": 7,
         "text": "failbut I am the Lord thy God whose waves roared the Lord of hoasts is my name",
-        "markdown": "bread should fai{{lbut I am the Lord}} th{{y}} God whose waves roared the Lord of hoasts is",
+        "markdown": "fai{{lbut I am the Lord}} th{{y}} God whose waves roared the Lord of hoasts is my name",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/50"
       }
     ]
@@ -191,7 +191,6 @@
         "page": 50,
         "line": 7,
         "text": "& I",
-        "markdown": "my name",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/50"
       },
       {

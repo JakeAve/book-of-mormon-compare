@@ -178,7 +178,7 @@
         "page": 445,
         "line": 10,
         "text": "cked & secret society that it had corrupted the hearts of all the people therefore Jared",
-        "markdown": "cked & ~~secred~~ [secret] society that it had corrupted the hearts of all the people therefore",
+        "markdown": "cked & ~~secred~~ [secret] society that it had corrupted the hearts of all the people therefore Jared",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/445"
       },
       {
@@ -628,7 +628,7 @@
         "page": 446,
         "line": 4,
         "text": "antum to reign in his stead he lived four years & he saw peace in the land yea & he even saw",
-        "markdown": "antum to reign in his ~~sted~~ [stead] he lived four years & he saw peace in the land yea & he even",
+        "markdown": "antum to reign in his ~~sted~~ [stead] he lived four years & he saw peace in the land yea & he even saw",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/446"
       },
       {
@@ -636,7 +636,7 @@
         "page": 446,
         "line": 5,
         "text": "the Son of Righteousness & did rejoice & glory in his day & he died in peace",
-        "markdown": "the Son of Righteousness & did rejoice & glory in his day & he died in ~~faith~~",
+        "markdown": "the Son of Righteousness & did rejoice & glory in his day & he died in ~~faith~~ [peace]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/446"
       }
     ]
@@ -651,7 +651,6 @@
         "page": 446,
         "line": 5,
         "text": "& it came to pass that",
-        "markdown": "[peace] & it came to pass",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/446"
       },
       {

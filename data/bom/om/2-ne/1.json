@@ -9,7 +9,7 @@
         "page": 42,
         "line": 13,
         "text": "The Book of Nephi An account of the death of Lehi Nepis",
-        "markdown": "The Book of Nephi An account of the death of Lehi ~~the",
+        "markdown": "The Book of Nephi An account of the death of Lehi ~~the Lord~~ Nepis",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/42"
       },
       {
@@ -338,7 +338,7 @@
         "page": 43,
         "line": 5,
         "text": "this land unto themselves & if it so be that they shall keep his command",
-        "markdown": "this land unto themselves & if it so be that they shall keep ~~his~~ his",
+        "markdown": "this land unto themselves & if it so be that they shall keep ~~his~~ his command",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/43"
       },
       {
@@ -346,7 +346,7 @@
         "page": 43,
         "line": 6,
         "text": "ments they shall be blessed upon the face of this land & their shall be none to",
-        "markdown": "{{m}}ents they shall be blessed upon the face of ~~the~~ [this] land & their shall be none",
+        "markdown": "{{m}}ents they shall be blessed upon the face of ~~the~~ [this] land & their shall be none to",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/43"
       },
       {
@@ -382,7 +382,7 @@
         "page": 43,
         "line": 9,
         "text": "dwindle in unbelief after that they have received so great blessings",
-        "markdown": "dwindle in unbelief ~~they~~ after that they have received so great",
+        "markdown": "dwindle in unbelief ~~they~~ after that they have received so great blessings",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/43"
       },
       {
@@ -456,7 +456,7 @@
         "page": 43,
         "line": 18,
         "text": "take away from them the lands of their possessions & he will cause them to too",
-        "markdown": "{{t}}ake away from them the lands of their possessions & he will cause them ~~be~~ [to]",
+        "markdown": "{{t}}ake away from them the lands of their possessions & he will cause them ~~be~~ [to] [too]",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/43"
       },
       {
@@ -555,7 +555,7 @@
         "page": 43,
         "line": 26,
         "text": "rds of a trembleing parent whose limbs ye must soon lay down in thecold & silent grave from whence no traveller can returm a few more days",
-        "markdown": "{{rds}} of a trembleing ~~of <​pernt​>~~ parent whose limbs ye must soon lay down in t{{heco}}ld & silent grave from whence no traveller can returm a few",
+        "markdown": "{{rds}} of a trembleing ~~of <​pernt​>~~ parent whose limbs ye must soon lay down in t{{heco}}ld & silent grave from whence no traveller can returm a few more days",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/43"
       },
       {
@@ -714,7 +714,7 @@
         "page": 44,
         "line": 2,
         "text": "the Lord but behold his will be done for his ways are righteousness",
-        "markdown": "the Lord but ~~but~~ behold his will be done for his ways are",
+        "markdown": "the Lord but ~~but~~ behold his will be done for his ways are righteou{{sness}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/44"
       },
       {
@@ -736,7 +736,7 @@
         "page": 44,
         "line": 3,
         "text": "& he hath said that in as much as ye shall keep my commandments ye",
-        "markdown": "& he hath said that in ~~so~~ [as] much as ye shall keep my commandments",
+        "markdown": "& he hath said that in ~~so~~ [as] much as ye shall keep my commandments y{{e}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/44"
       },
       {
@@ -774,7 +774,7 @@
         "page": 44,
         "line": 6,
         "text": "Sons & be men & be determined in one mind & in one heart united in",
-        "markdown": "Sons & be men & ~~to~~ [be] determined in one mind & in one heart united",
+        "markdown": "Sons & be men & ~~to~~ [be] determined in one mind & in one heart united in",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/44"
       },
       {
@@ -1025,7 +1025,7 @@
         "page": 44,
         "line": 29,
         "text": "but it was the spirit of the Lord which was in him which opened his",
-        "markdown": "but ~~is~~ it was the spirit of the Lord which was in him which opened",
+        "markdown": "but ~~is~~ it was the spirit of the Lord which was in him which opened h{{is}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/44"
       },
       {
@@ -1062,7 +1062,7 @@
         "page": 44,
         "line": 32,
         "text": "behold if ye will hearken unto the voice of Nephi ye shall not",
-        "markdown": "behold if ye will hearken unto the ~~word <​voice​>~~ voice of Nephi ye",
+        "markdown": "behold if ye will hearken unto the ~~word <​voice​>~~ voice of Nephi ye shall not",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/44"
       },
       {

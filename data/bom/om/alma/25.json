@@ -9,7 +9,7 @@
         "page": 97,
         "line": 24,
         "text": "& behold now it came to",
-        "markdown": "things & behold now it came",
+        "markdown": "& behold now it came to}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/97"
       },
       {
@@ -202,7 +202,7 @@
         "page": 98,
         "line": 4,
         "text": "the Lord & that he gave great power unto the Nephites & thus there were man",
-        "markdown": "{{the Lord & that he gave great powe}}r unto the Nephites & thus ~~these~~ [there] were",
+        "markdown": "{{the Lord & that he gave great powe}}r unto the Nephites & thus ~~these~~ [there] were man",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/98"
       },
       {
@@ -279,7 +279,7 @@
         "page": 98,
         "line": 10,
         "text": "the seed of Amulon & his brethren & began to slay them & they fled in",
-        "markdown": "{{the seed of Amulon & his}} brethren & began to slay ~~there~~ [them] & they fled",
+        "markdown": "{{the seed of Amulon & his}} brethren & began to slay ~~there~~ [them] & they fled in",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/98"
       },
       {
@@ -456,7 +456,7 @@
         "page": 98,
         "line": 23,
         "text": "saw that they could not overpower the Nephites they returned again",
-        "markdown": "{{saw that they could not overpower the}} Nephites they ~~returneth~~ [returned]",
+        "markdown": "{{saw that they could not overpower the}} Nephites they ~~returneth~~ [returned] again",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/98"
       },
       {
@@ -518,7 +518,7 @@
         "page": 98,
         "line": 29,
         "text": "erve to keep his commandments & his statutes",
-        "markdown": "{{erve to keep his com}}mandments & his ~~states",
+        "markdown": "{{erve to keep his com}}mandments & his ~~states &~~ [statutes]",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/98"
       }
     ]
@@ -533,7 +533,6 @@
         "page": 98,
         "line": 29,
         "text": "yea & they did keep the",
-        "markdown": "&~~ [statutes] yea & they did",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/98"
       },
       {
@@ -541,7 +540,7 @@
         "page": 98,
         "line": 30,
         "text": "law of Moses for it was expediant that they should keep the law of",
-        "markdown": "{{law of Moses}} for it was expediant that they should keep the law of",
+        "markdown": "{{law of Moses}} for it was expediant that they should keep the law of ~~M~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/98"
       },
       {
@@ -565,7 +564,7 @@
         "page": 98,
         "line": 33,
         "text": "sidering that the law of Mose was a type of his comeing & believeing",
-        "markdown": "{{sidering that}} the ~~lord~~ [law] of Mose was a type of his comeing &",
+        "markdown": "{{sidering that}} the ~~lord~~ [law] of Mose was a type of his comeing & believeing",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/98"
       },
       {
@@ -573,7 +572,7 @@
         "page": 98,
         "line": 34,
         "text": "that they must keep those outward performances untill the time",
-        "markdown": "{{that they mus}}t keep those outward performances untill the time",
+        "markdown": "{{that they mus}}t keep those outward performances untill the time ~~of~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/98"
       },
       {
@@ -581,7 +580,7 @@
         "page": 98,
         "line": 35,
         "text": "that he should be revealed unto",
-        "markdown": "~~the~~ [that] he should be revealed",
+        "markdown": "~~the~~ [that] he should be revealed unto",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/98"
       },
       {
@@ -603,7 +602,7 @@
         "page": 99,
         "line": 1,
         "text": "now they did not suppose that Salvation came by the law of Moses but the",
-        "markdown": "~~nor~~ [now] they did~~t~~ not suppose that Salvat{{ion came by the law of Moses but",
+        "markdown": "~~nor~~ [now] they did~~t~~ not suppose that Salvat{{ion came by the law of Moses but the}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/99"
       },
       {
@@ -611,7 +610,7 @@
         "page": 99,
         "line": 2,
         "text": "law of Mose did serve to strengthen their faith in Christ & thus they did",
-        "markdown": "law of Mose did serve ~~be~~ [to] strengthen their f{{aith in Christ & thus they",
+        "markdown": "law of Mose did serve ~~be~~ [to] strengthen their f{{aith in Christ & thus they did}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/99"
       },
       {
@@ -619,7 +618,7 @@
         "page": 99,
         "line": 3,
         "text": "retain a hope through faith unto Eternal Salvation relying upon the spirit",
-        "markdown": "~~ain ~~ [retain] a hope through ~~faath~~ faith unto Eter{{nal Salvation relying",
+        "markdown": "~~ain ~~ [retain] a hope through ~~faath~~ faith unto Eter{{nal Salvation relying upon the spirit}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/99"
       },
       {
@@ -627,7 +626,7 @@
         "page": 99,
         "line": 4,
         "text": "of Prophesy which spake of those things to come",
-        "markdown": "of Prophesy which spake of those things ~~be~~ [to]",
+        "markdown": "of Prophesy which spake of those things ~~be~~ [to] come",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/99"
       }
     ]
@@ -642,7 +641,7 @@
         "page": 99,
         "line": 4,
         "text": "& now behold Ammon & Aaron &",
-        "markdown": "come & {{now behold Ammon & Aaron",
+        "markdown": "& {{now behold Ammon & Aaron &}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/99"
       },
       {
@@ -666,7 +665,7 @@
         "page": 99,
         "line": 7,
         "text": "ding to their prayers & that he had also verrified his word unto them in every",
-        "markdown": "ding ~~be~~ [to] their prayers & that he had ~~asl~~ also verr{{i}}f{{ied his word unto them",
+        "markdown": "ding ~~be~~ [to] their prayers & that he had ~~asl~~ also verr{{i}}f{{ied his word unto them in every}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/99"
       },
       {

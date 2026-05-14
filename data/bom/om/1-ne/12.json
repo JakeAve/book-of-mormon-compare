@@ -30,7 +30,7 @@
         "page": 16,
         "line": 25,
         "text": "eople yea even as it ware in number as menny as",
-        "markdown": "eople yea even as it ware ~~as~~ [in] number as menny",
+        "markdown": "eople yea even as it ware ~~as~~ [in] number as menny as",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/16"
       },
       {
@@ -143,7 +143,7 @@
         "page": 16,
         "line": 37,
         "text": "rent the roks & i saw mountains tumbling",
-        "markdown": "~~that it~~ rent the roks & i saw",
+        "markdown": "~~that it~~ rent the roks & i saw mountains tumbling",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/16"
       },
       {
@@ -200,7 +200,7 @@
         "page": 16,
         "line": 43,
         "text": "pass that after i saw these things i saw the vaper",
-        "markdown": "pass that after i saw ~~there~~ [these] things i saw the",
+        "markdown": "pass that after i saw ~~there~~ [these] things i saw the vaper",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/16"
       },
       {
@@ -258,7 +258,7 @@
         "page": 16,
         "line": 49,
         "text": "d himself unto them",
-        "markdown": "d ~~it unto them~~",
+        "markdown": "d ~~it unto them~~ himself unto them",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/16"
       }
     ]
@@ -273,7 +273,7 @@
         "page": 16,
         "line": 49,
         "text": "& i also saw",
-        "markdown": "himself unto them ~~b~~",
+        "markdown": "~~b~~ & i also saw",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/16"
       },
       {
@@ -359,7 +359,7 @@
         "page": 17,
         "line": 4,
         "text": "wherefore the twelve Ministers of thy seed shall be",
-        "markdown": "wherefore the twelve Ministers of ~~they~~ [thy] seed shall",
+        "markdown": "wherefore the twelve Ministers of ~~they~~ [thy] seed shall be",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/17"
       },
       {
@@ -403,7 +403,7 @@
         "page": 17,
         "line": 8,
         "text": "because of their faith in the lamb of God their gar",
-        "markdown": "~~of~~ [be]cause of their faith in the lamb of God their",
+        "markdown": "~~of~~ [be]cause of their faith in the lamb of God their gar",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/17"
       },
       {
@@ -432,7 +432,7 @@
         "page": 17,
         "line": 10,
         "text": "saith unto me look & I looked & beheld three gener",
-        "markdown": "~~say~~ [saith] unto me look & I looked & beheld three",
+        "markdown": "~~say~~ [saith] unto me look & I looked & beheld three gener",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/17"
       },
       {
@@ -454,7 +454,7 @@
         "page": 17,
         "line": 13,
         "text": "Angel said unto me these are maid white in the",
-        "markdown": "Angel ~~an~~ [said] unto me these are maid white in",
+        "markdown": "Angel ~~an~~ [said] unto me these are maid white in the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/17"
       },
       {
@@ -618,6 +618,7 @@
         "page": 17,
         "line": 25,
         "text": "&",
+        "markdown": "& ~~the~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/17"
       },
       {
@@ -632,7 +633,7 @@
         "page": 17,
         "line": 27,
         "text": "which Blindeth the eyes & hardeneth the hearts of",
-        "markdown": "which Blindeth the eyes & ~~hardenest~~ [hardeneth] the hearts",
+        "markdown": "which Blindeth the eyes & ~~hardenest~~ [hardeneth] the hearts of",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/17"
       },
       {
@@ -640,7 +641,7 @@
         "page": 17,
         "line": 28,
         "text": "the Children of men & leadeth them away into",
-        "markdown": "the Children of men & leadeth ~~then~~ [them] away",
+        "markdown": "the Children of men & leadeth ~~then~~ [them] away into",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/17"
       },
       {
@@ -669,7 +670,7 @@
         "page": 17,
         "line": 30,
         "text": "ious Building which thy father saw is vain im",
-        "markdown": "ious Building which ~~their~~ [thy] father saw is vain",
+        "markdown": "ious Building which ~~their~~ [thy] father saw is vain im",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/17"
       },
       {
@@ -691,7 +692,7 @@
         "page": 17,
         "line": 33,
         "text": "en the sword of the Justice of the Eternal God & Jesus",
-        "markdown": "en the sword ~~if~~ [of] [the] Justice of the Eternal God &",
+        "markdown": "en the sword ~~if~~ [of] [the] Justice of the Eternal God & Jesus",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/17"
       },
       {
@@ -883,7 +884,7 @@
         "page": 17,
         "line": 51,
         "text": "Beheld that after they had dwindled in unbelief",
-        "markdown": "Beheld that ~~they~~ after they had dwindled in",
+        "markdown": "Beheld that ~~they~~ after they had dwindled in unbelief",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/17"
       },
       {
@@ -891,7 +892,7 @@
         "page": 17,
         "line": 52,
         "text": "they Became a dark & Loathesone & a filthy People",
-        "markdown": "they Became ~~of~~ [a] dark & Loathesone & a filthy",
+        "markdown": "they Became ~~of~~ [a] dark & Loathesone & a filthy People",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/17"
       },
       {

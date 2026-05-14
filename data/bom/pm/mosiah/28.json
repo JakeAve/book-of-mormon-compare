@@ -30,7 +30,7 @@
         "page": 168,
         "line": 4,
         "text": "se whom they had Selected go up to the land of Nephi that they migh",
-        "markdown": "se whom they had Selected ~~to~~ go up to the land of Nephi that they",
+        "markdown": "se whom they had Selected ~~to~~ go up to the land of Nephi that they migh",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/168"
       },
       {
@@ -38,7 +38,7 @@
         "page": 168,
         "line": 5,
         "text": "t preach the things which they had heard and that they",
-        "markdown": "t ~~preaeach~~ preach the ~~gospel~~ things which they had heard and",
+        "markdown": "t ~~preaeach~~ preach the ~~gospel~~ things which they had heard and that they",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/168"
       },
       {
@@ -60,6 +60,7 @@
         "page": 168,
         "line": 6,
         "text": "that",
+        "markdown": "that ~~they~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/168"
       },
       {

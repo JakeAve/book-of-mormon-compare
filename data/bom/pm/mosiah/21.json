@@ -72,7 +72,7 @@
         "page": 154,
         "line": 7,
         "text": "their cheeks & exercise authority over them & began to put heavy burdens upon their",
-        "markdown": "their cheeks & exercise authority over them & began to put heavy burdens upon ~~them~~",
+        "markdown": "their cheeks & exercise authority over them & began to put heavy burdens upon ~~them~~ [their]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/154"
       },
       {
@@ -346,7 +346,7 @@
         "page": 154,
         "line": 26,
         "text": "humble themselves even to the dust subjecting themselves to the yoke of bondage",
-        "markdown": "humble themselves even to ~~thes~~ [the] dust subjecting themselves to the yoke of",
+        "markdown": "humble themselves even to ~~thes~~ [the] dust subjecting themselves to the yoke of bondage",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/154"
       },
       {

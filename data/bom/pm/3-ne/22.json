@@ -51,7 +51,7 @@
         "page": 404,
         "line": 34,
         "text": "enlarge the place of thy tent & let them streach forth the curtain",
-        "markdown": "enlarge the ~~place~~ place of thy tent & let them streach forth the",
+        "markdown": "enlarge the ~~place~~ place of thy tent & let them streach forth the curtain",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/404"
       },
       {
@@ -416,6 +416,7 @@
         "page": 405,
         "line": 19,
         "text": "have created the Smith that bloweth the Coals in the fire & that",
+        "markdown": "have created the Smith that bloweth the Coals in the fire & that ~~bringing~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/405"
       },
       {
@@ -423,7 +424,7 @@
         "page": 405,
         "line": 20,
         "text": "bringeth forth an instrument for his work & I have created the waster to destroy",
-        "markdown": "bringeth forth an instrument for his work & I have created the ~~water~~ [waster] to",
+        "markdown": "bringeth forth an instrument for his work & I have created the ~~water~~ [waster] to destroy",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/405"
       }
     ]

@@ -66,7 +66,7 @@
         "page": 45,
         "line": 7,
         "text": "up my way but the ways of mine enemy",
-        "markdown": "up ~~way~~ [my] way but the ways of mine",
+        "markdown": "up ~~way~~ [my] way but the ways of mine enemy",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/45"
       }
     ]
@@ -81,7 +81,6 @@
         "page": 45,
         "line": 7,
         "text": "O Lord I have trusted in thee & I will",
-        "markdown": "enemy O Lord I have trusted in thee & I",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/45"
       },
       {

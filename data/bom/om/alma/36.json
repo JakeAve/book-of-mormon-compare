@@ -39,7 +39,7 @@
         "page": 123,
         "line": 17,
         "text": "do as I have done in remembering the Captivity of our fathers for they were in bo",
-        "markdown": "do as I have done in remembering the Captivity of our fathers for the{{y}} [were] ~~was~~ in",
+        "markdown": "do as I have done in remembering the Captivity of our fathers for the{{y}} [were] ~~was~~ in b{{o}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/123"
       },
       {
@@ -76,7 +76,7 @@
         "page": 123,
         "line": 20,
         "text": "Son Helaman behold thou art in thy Youth & therefore I beseach of thee",
-        "markdown": "Son Helaman behold thou art in thy ~~Y~~ Youth & therefore I beseach of",
+        "markdown": "Son Helaman behold thou art in thy ~~Y~~ Youth & therefore I beseach of thee",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/123"
       },
       {
@@ -120,7 +120,7 @@
         "page": 123,
         "line": 24,
         "text": "I know of myself not of the <​ ​> temporal",
-        "markdown": "I know of myself not of the ~~Carnal mind~~ ~~but",
+        "markdown": "I know of myself not of the ~~Carnal mind~~ ~~but of~~ ~~the spiritual~~ <​~~tempral but of~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/123"
       },
       {
@@ -321,7 +321,7 @@
         "page": 124,
         "line": 1,
         "text": "& the Angel spake more things un t o me which",
-        "markdown": "& the A}}ngel spake more things un ~~o~~ [t] o me",
+        "markdown": "& the A}}ngel spake more things un ~~o~~ [t] o me which",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/124"
       },
       {
@@ -337,7 +337,7 @@
         "page": 124,
         "line": 3,
         "text": "if thou wilt be destroid of thyself seek no more to destroy the church of God I was",
-        "markdown": "{{if thou wilt be destroid of th}}yself seek no more to destroy ~~be~~ the church of God I",
+        "markdown": "{{if thou wilt be destroid of th}}yself seek no more to destroy ~~be~~ the church of God I was",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/124"
       },
       {
@@ -489,7 +489,7 @@
         "page": 124,
         "line": 13,
         "text": "now for three day & for three nights was I racked even with the pains of a damned",
-        "markdown": "{{now for thre}}e day & for th{{ree}} nights was I racked ~~ever~~ [even] with the pains of a",
+        "markdown": "{{now for thre}}e day & for th{{ree}} nights was I racked ~~ever~~ [even] with the pains of a damned",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/124"
       },
       {
@@ -551,7 +551,7 @@
         "page": 124,
         "line": 17,
         "text": "now as my mind cacht hold upon this thou",
-        "markdown": "now as my mind ~~caghed~~ [cacht] hold upon this",
+        "markdown": "now as my mind ~~caghed~~ [cacht] hold upon this thou",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/124"
       },
       {
@@ -559,7 +559,7 @@
         "page": 124,
         "line": 18,
         "text": "ght I [cried?] O Jesus thou Son of God have mercy on me who art in the gaul of bitterness",
-        "markdown": "ght I [cried?] O Jesus thou Son of God have mercy on me who ~~are~~ [art] in the gaul of",
+        "markdown": "ght I [cried?] O Jesus thou Son of God have mercy on me who ~~are~~ [art] in the gaul of bitterness",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/124"
       },
       {
@@ -698,7 +698,7 @@
         "page": 124,
         "line": 28,
         "text": "again & I stood upon my feet & did manifest unto the People that I had been born of",
-        "markdown": "again & ~~st~~ I stood upon my feet & d{{id manif}}est unto the People that I had been born",
+        "markdown": "again & ~~st~~ I stood upon my feet & d{{id manif}}est unto the People that I had been born of",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/124"
       },
       {
@@ -866,7 +866,7 @@
         "page": 125,
         "line": 6,
         "text": "with him in glory yea & I will praise him forever for he hath brought our fathers",
-        "markdown": "with him in ~~everl~~ ~~<​etern​>~~ [glory] yea & I will praise him fo{{rever for he hath brought",
+        "markdown": "with him in ~~everl~~ ~~<​etern​>~~ [glory] yea & I will praise him fo{{rever for he hath brought our fathers}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/125"
       },
       {
@@ -958,7 +958,7 @@
         "page": 125,
         "line": 14,
         "text": "had ought to know as I do know that in as much as ye shall keep the comma",
-        "markdown": "had ought to know as I ~~did~~ do know that in as muc{{h a}}s ye shall k{{eep the",
+        "markdown": "had ought to know as I ~~did~~ do know that in as muc{{h a}}s ye shall k{{eep the comma}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/125"
       },
       {

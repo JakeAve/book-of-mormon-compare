@@ -80,7 +80,7 @@
         "page": 329,
         "line": 17,
         "text": "of men according to the desire of Pahoron & gave Lehi & Teancum command over the",
-        "markdown": "of men according to the desire of Pahoron & gave Lehi & Teancum command ~~orer~~ [over]",
+        "markdown": "of men according to the desire of Pahoron & gave Lehi & Teancum command ~~orer~~ [over] the",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/329"
       },
       {
@@ -130,7 +130,7 @@
         "page": 329,
         "line": 20,
         "text": "& it came to pass that",
-        "markdown": "& it came to pass ~~that~~",
+        "markdown": "& it came to pass ~~that~~ [that]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/329"
       },
       {
@@ -145,7 +145,7 @@
         "page": 329,
         "line": 22,
         "text": "of their freedom that they might not come into bondage",
-        "markdown": "of their freedom that they might not come into ~~bong~~",
+        "markdown": "of their freedom that they might not come into ~~bong~~ [bondage]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/329"
       }
     ]
@@ -160,7 +160,6 @@
         "page": 329,
         "line": 22,
         "text": "& thus when Moroni",
-        "markdown": "[bondage] & thus when",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/329"
       },
       {
@@ -218,7 +217,7 @@
         "page": 329,
         "line": 28,
         "text": "armies into the land of Zarahemla & went forth against the city & did meet the",
-        "markdown": "armies into the land of Zarahemla & ~~were~~ went forth against the city & did meet",
+        "markdown": "armies into the land of Zarahemla & ~~were~~ went forth against the city & did meet the",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/329"
       },
       {
@@ -606,7 +605,7 @@
         "page": 330,
         "line": 24,
         "text": "ni was desireous that the Lamanites should come out to battle against them",
-        "markdown": "ni was desireous ~~ous~~ that the Lamanites should come out to battle against",
+        "markdown": "ni was desireous ~~ous~~ that the Lamanites should come out to battle against them",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/330"
       },
       {
@@ -614,7 +613,7 @@
         "page": 330,
         "line": 25,
         "text": "upon the planes but the Lamanites knowing of their exceding great courage & beholding the greatness of their numbers therefore they dearst not come out against th",
-        "markdown": "upon the planes but the Lamanites knowing of their exceding great courage & [beholding] ~~knowing~~ the greatness of their numbers therefore they dearst not come out against",
+        "markdown": "upon the planes but the Lamanites knowing of their exceding great courage & [beholding] ~~knowing~~ the greatness of their numbers therefore they dearst not come out against th",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/330"
       },
       {
@@ -860,7 +859,7 @@
         "page": 331,
         "line": 12,
         "text": "to join the people of Ammon & become a free people",
-        "markdown": "to join the people of Ammon & ~~it~~ become a free",
+        "markdown": "to join the people of Ammon & ~~it~~ become a free people",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/331"
       }
     ]
@@ -875,7 +874,7 @@
         "page": 331,
         "line": 12,
         "text": "& it came to pass that as nany",
-        "markdown": "people & it came to pass [that] as",
+        "markdown": "& it came to pass [that] as nany",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/331"
       },
       {
@@ -925,7 +924,7 @@
         "page": 331,
         "line": 17,
         "text": "were releaved from all the prisoners of the Lamanites",
-        "markdown": "were ~~thus~~ releaved from all the prisoners of the",
+        "markdown": "were ~~thus~~ releaved from all the prisoners of the Lamanites",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/331"
       }
     ]
@@ -940,7 +939,6 @@
         "page": 331,
         "line": 17,
         "text": "now it came to pass th",
-        "markdown": "Lamanites now it came to pass",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/331"
       },
       {
@@ -1379,7 +1377,7 @@
         "page": 332,
         "line": 21,
         "text": "of the exceding great length of the war & many were softened because of their aff",
-        "markdown": "of the exceding great length of the war & many were ~~supported~~ [softened] because of their",
+        "markdown": "of the exceding great length of the war & many were ~~supported~~ [softened] because of their aff",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/332"
       },
       {
@@ -1472,6 +1470,7 @@
         "page": 332,
         "line": 29,
         "text": "& Pahoron did return to his Judgmentseat & Helaman",
+        "markdown": "& Pahoron did return to his Judgmentseat & Helaman ~~did~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/332"
       },
       {
@@ -1486,7 +1485,7 @@
         "page": 332,
         "line": 31,
         "text": "of so many wars & contentions it had become expediant that a regulation should be made again in the church",
-        "markdown": "of so many wars & contentions it had become expediant that a regulation should ~~again~~ be made [again] in the",
+        "markdown": "of so many wars & contentions it had become expediant that a regulation should ~~again~~ be made [again] in the church",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/332"
       }
     ]
@@ -1501,7 +1500,6 @@
         "page": 332,
         "line": 31,
         "text": "therefore Helaman & his brethren went forth & did dec",
-        "markdown": "church therefore Helaman & his brethren went forth & did",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/332"
       },
       {
@@ -1636,7 +1634,7 @@
         "page": 333,
         "line": 6,
         "text": "yea they did remember how great things the Lord had done for them that he had delivered",
-        "markdown": "yea they did remember how great things ~~he~~ [the Lord] had done for them that he had",
+        "markdown": "yea they did remember how great things ~~he~~ [the Lord] had done for them that he had delivered",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/333"
       },
       {

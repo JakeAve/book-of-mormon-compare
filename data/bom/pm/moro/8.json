@@ -37,7 +37,7 @@
         "page": 462,
         "line": 23,
         "text": "My beloved son Moroni I rejoice exceedingly that your Lord Je",
-        "markdown": "~~my~~ [My] beloved son Moroni I rejoice exceedingly that your Lord",
+        "markdown": "~~my~~ [My] beloved son Moroni I rejoice exceedingly that your Lord Je",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/462"
       },
       {
@@ -304,7 +304,7 @@
         "page": 463,
         "line": 4,
         "text": "& their little children need no repentance neither baptism",
-        "markdown": "& their little children ~~not~~ [need] no repentance neither",
+        "markdown": "& their little children ~~not~~ [need] no repentance neither baptism",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/463"
       },
       {
@@ -340,7 +340,7 @@
         "page": 463,
         "line": 7,
         "text": "if not so God is a partial God & also a changeable God & a respecter to persons for how many",
-        "markdown": "if not so God is a partial God & also a changeable ~~being~~ [God &] a respecter to persons for how",
+        "markdown": "if not so God is a partial God & also a changeable ~~being~~ [God &] a respecter to persons for how many",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/463"
       },
       {
@@ -433,7 +433,7 @@
         "page": 463,
         "line": 14,
         "text": "perish because he hath no baptism",
-        "markdown": "perish because he hath [no] ~~not~~",
+        "markdown": "perish because he hath [no] ~~not~~ baptism",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/463"
       }
     ]
@@ -448,7 +448,6 @@
         "page": 463,
         "line": 14,
         "text": "wo be unto him that shall pervert the way of the Lord",
-        "markdown": "baptism wo be unto him that shall pervert the way of the",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/463"
       },
       {
@@ -463,7 +462,7 @@
         "page": 463,
         "line": 16,
         "text": "ing authority from God & I fear not what man can do for perfect love casteth out all fear",
-        "markdown": "ing authority from God ~~for~~ [&] I fear not what man can do for perfect love casteth out all",
+        "markdown": "ing authority from God ~~for~~ [&] I fear not what man can do for perfect love casteth out all fear",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/463"
       }
     ]
@@ -555,7 +554,7 @@
         "page": 463,
         "line": 22,
         "text": "& he that saith that little children needeth baptism denieth the",
-        "markdown": "& he that saith that little children needeth ~~repentance~~ [baptism denieth]",
+        "markdown": "& he that saith that little children needeth ~~repentance~~ [baptism denieth] the",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/463"
       },
       {
@@ -858,7 +857,7 @@
         "page": 464,
         "line": 6,
         "text": "farewell",
-        "markdown": "~~my",
+        "markdown": "~~my Son~~ [farewell]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/464"
       },
       {
@@ -880,6 +879,7 @@
         "page": 464,
         "line": 9,
         "text": "The second epistle of Mormon to his son Moroni——",
+        "markdown": "The second epistle of Mormon to his son Moroni—— My beloved son I write",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/464"
       }
     ]

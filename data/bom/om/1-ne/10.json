@@ -23,7 +23,7 @@
         "page": 12,
         "line": 13,
         "text": "fore to proseed with mine acount i must speak somewhat",
-        "markdown": "fore to proseed with mine ~~c~~ acount i must speak",
+        "markdown": "fore to proseed with mine ~~c~~ acount i must speak somewhat",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
       },
       {
@@ -208,7 +208,7 @@
         "page": 12,
         "line": 30,
         "text": "wherefore all man kind was",
-        "markdown": "wherefor[e] all ~~men~~ [man] kind",
+        "markdown": "wherefor[e] all ~~men~~ [man] kind was",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
       },
       {
@@ -252,7 +252,7 @@
         "page": 12,
         "line": 34,
         "text": "masiah to prepare the way of the lord",
-        "markdown": "masiah ~~whi~~ to prepare the way of the",
+        "markdown": "masiah ~~whi~~ to prepare the way of the lord",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
       }
     ]
@@ -267,7 +267,6 @@
         "page": 12,
         "line": 34,
         "text": "yea even",
-        "markdown": "lord yea",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
       },
       {
@@ -495,7 +494,7 @@
         "page": 13,
         "line": 5,
         "text": "wherefore he said it must need",
-        "markdown": "wherefore ~~the~~ [he] said it must",
+        "markdown": "wherefore ~~the~~ [he] said it must need",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/13"
       },
       {
@@ -517,6 +516,7 @@
         "page": 13,
         "line": 8,
         "text": "lord that we should be scattered uppon all the fase",
+        "markdown": "lord that we should be scattered uppon all the fase ~~of~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/13"
       },
       {
@@ -545,6 +545,7 @@
         "page": 13,
         "line": 10,
         "text": "ld be scattered they should be gethered to gether",
+        "markdown": "ld be scattered they should be gethered to gether ~~ag~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/13"
       },
       {
@@ -608,7 +609,7 @@
         "page": 13,
         "line": 18,
         "text": "nny more things which i do not write in this book",
-        "markdown": "nny more things which i do not ~~writhe~~ [write] in this",
+        "markdown": "nny more things which i do not ~~writhe~~ [write] in this book",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/13"
       },
       {
@@ -694,7 +695,7 @@
         "page": 13,
         "line": 27,
         "text": "by faith on the son of god and the son of god was the",
-        "markdown": "by faith on the son of god and the son of god ~~wast~~ [was",
+        "markdown": "by faith on the son of god and the son of god ~~wast~~ [was the]",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/13"
       },
       {
@@ -808,7 +809,7 @@
         "page": 13,
         "line": 39,
         "text": "er of the holy gost as well in this time as in times of",
-        "markdown": "er of the holy gost ~~is~~ [as] well in this time ~~an~~ [as] in",
+        "markdown": "er of the holy gost ~~is~~ [as] well in this time ~~an~~ [as] in times of",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/13"
       },
       {
@@ -816,7 +817,7 @@
         "page": 13,
         "line": 40,
         "text": "old & as well in times of old as in times to come wher",
-        "markdown": "old & as well in times of old ~~an~~ [as] in times to come",
+        "markdown": "old & as well in times of old ~~an~~ [as] in times to come wher",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/13"
       },
       {
@@ -838,7 +839,7 @@
         "page": 13,
         "line": 42,
         "text": "re remember o man for all thy doings thou shalt",
-        "markdown": "re remember o ~~men~~ [man] for all thy doings thou",
+        "markdown": "re remember o ~~men~~ [man] for all thy doings thou shalt",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/13"
       },
       {
@@ -846,7 +847,7 @@
         "page": 13,
         "line": 43,
         "text": "be brot into judgment where",
-        "markdown": "be brot ~~unto~~ [into] judgment",
+        "markdown": "be brot ~~unto~~ [into] judgment where",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/13"
       }
     ]
@@ -861,7 +862,6 @@
         "page": 13,
         "line": 43,
         "text": "for if ye have sot to",
-        "markdown": "where for if ye have sot",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/13"
       },
       {

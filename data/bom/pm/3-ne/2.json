@@ -9,7 +9,7 @@
         "page": 369,
         "line": 26,
         "text": "& it came to pass that thus passed away",
-        "markdown": "& it came to pass that ~~thus~~ [thus] passed",
+        "markdown": "& it came to pass that ~~thus~~ [thus] passed away",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/369"
       },
       {
@@ -284,7 +284,7 @@
         "page": 370,
         "line": 9,
         "text": "hesying which was sent among them & thus passed away the tenth year also & the",
-        "markdown": "hesying which was sent among them & thus passed away the tenth year also & ~~they~~",
+        "markdown": "hesying which was sent among them & thus passed away the tenth year also & ~~they~~ the",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/370"
       },
       {
@@ -426,7 +426,7 @@
         "page": 370,
         "line": 21,
         "text": "soar & it came to pass that those Lamanites which had united with the Nephites were",
-        "markdown": "soar & it came to pass that those Lamanites which ~~were~~ [had] [united] with the Nephites",
+        "markdown": "soar & it came to pass that those Lamanites which ~~were~~ [had] [united] with the Nephites were",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/370"
       },
       {
@@ -497,7 +497,7 @@
         "page": 370,
         "line": 25,
         "text": "in the Commencement of the fourteenth year the war between the robbers & the people of Nephi did",
-        "markdown": "in the ~~Commencenemt~~ [Commencement of] the fourteenth [year] the war between the robbers & the people of Nephi",
+        "markdown": "in the ~~Commencenemt~~ [Commencement of] the fourteenth [year] the war between the robbers & the people of Nephi did",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/370"
       },
       {
@@ -589,6 +589,7 @@
         "page": 370,
         "line": 34,
         "text": "Chapter——",
+        "markdown": "Chapter—— []—— And now it came to pass that in the sixteenth year",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/370"
       }
     ]

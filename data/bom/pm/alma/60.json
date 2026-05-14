@@ -65,7 +65,7 @@
         "page": 324,
         "line": 21,
         "text": "appointed to gather together men & arm them with swords & with simitars &",
-        "markdown": "appointed ~~by~~ [to] gather together men & arm them with swords & with simitars",
+        "markdown": "appointed ~~by~~ [to] gather together men & arm them with swords & with simitars &",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/324"
       },
       {
@@ -73,7 +73,7 @@
         "page": 324,
         "line": 22,
         "text": "all manner of weapons of war of every kind & send forth against the Lamanites in wh",
-        "markdown": "all manner of weapons of war ~~&~~ [of] every kind & send forth against the Lamanites in",
+        "markdown": "all manner of weapons of war ~~&~~ [of] every kind & send forth against the Lamanites in wh",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/324"
       },
       {
@@ -382,6 +382,7 @@
         "page": 325,
         "line": 12,
         "text": "do ye suppose that because so many of",
+        "markdown": "do ye suppose that because so many of ~~you~~ ~~<​your​>~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/325"
       },
       {
@@ -396,7 +397,7 @@
         "page": 325,
         "line": 14,
         "text": "ye have supposed this ye have supposed in vain for I say unto you there",
-        "markdown": "ye have supposed this ye have supposed in vain for I say unto you ~~that~~",
+        "markdown": "ye have supposed this ye have supposed in vain for I say unto you ~~that~~ there",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/325"
       },
       {
@@ -460,7 +461,7 @@
         "page": 325,
         "line": 20,
         "text": "ments of God will come upon this people because of their exceding slothfulness",
-        "markdown": "ments of God will come upon ~~you~~ [this] people because of their exceding",
+        "markdown": "ments of God will come upon ~~you~~ [this] people because of their exceding slothfulness",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/325"
       },
       {
@@ -539,7 +540,7 @@
         "page": 325,
         "line": 27,
         "text": "ing among ourselves if we had united our strength as we hitherto have done",
-        "markdown": "ing among ourselves if we had united our strength as we ~~had~~ hitherto have",
+        "markdown": "ing among ourselves if we had united our strength as we ~~had~~ hitherto have done",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/325"
       },
       {
@@ -561,7 +562,7 @@
         "page": 325,
         "line": 30,
         "text": "gone forth against our enemies instead of taking up their swords against us wh",
-        "markdown": "gone forth against our enemies instead of taking up ~~our~~ [their] swords against us",
+        "markdown": "gone forth against our enemies instead of taking up ~~our~~ [their] swords against us wh",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/325"
       },
       {
@@ -653,7 +654,7 @@
         "page": 326,
         "line": 3,
         "text": "this matter for we know not but what ye yourselves are a seeking for authority",
-        "markdown": "this matter ~~but~~ [for] we know not but what ye yourselves are a seeking for",
+        "markdown": "this matter ~~but~~ [for] we know not but what ye yourselves are a seeking for authority",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/326"
       },
       {
@@ -773,7 +774,7 @@
         "page": 326,
         "line": 12,
         "text": "nded with thousands of those yea & tens of thousands which do also sit in idleness",
-        "markdown": "nded with thousands of those yea & tens of thousands ~~of those~~ [which do] also sit",
+        "markdown": "nded with thousands of those yea & tens of thousands ~~of those~~ [which do] also sit in idleness",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/326"
       },
       {
@@ -872,7 +873,7 @@
         "page": 326,
         "line": 22,
         "text": "we contend no more with the Lamanites until we have first cleansed our inner",
-        "markdown": "we contend no more with the Lamanites until we have first cleansed our ~~inner~~",
+        "markdown": "we contend no more with the Lamanites until we have first cleansed our ~~inner~~ [inner]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/326"
       },
       {
@@ -922,7 +923,7 @@
         "page": 326,
         "line": 27,
         "text": "<​& ​> the blessings of God upon them that none other power can opperate against",
-        "markdown": "~~of~~ <​& ~~&~~​> the blessings of God upon them that none other power can opperate",
+        "markdown": "~~of~~ <​& ~~&~~​> the blessings of God upon them that none other power can opperate against them &",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/326"
       }
     ]
@@ -937,7 +938,6 @@
         "page": 326,
         "line": 27,
         "text": "them",
-        "markdown": "against",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/326"
       },
       {
@@ -1142,7 +1142,7 @@
         "page": 327,
         "line": 8,
         "text": "against the Lamanites when it is the tradition of their fathers that hath caused their",
-        "markdown": "against the Lamanites when it is the tradition of their fathers that hath caused ~~their~~",
+        "markdown": "against the Lamanites when it is the tradition of their fathers that hath caused ~~their~~ [their]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/327"
       },
       {

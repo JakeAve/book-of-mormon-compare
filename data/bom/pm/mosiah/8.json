@@ -9,7 +9,6 @@
         "page": 134,
         "line": 25,
         "text": "& it came to pass that after",
-        "markdown": "bondage & it came to pass that",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/134"
       },
       {
@@ -270,7 +269,7 @@
         "page": 135,
         "line": 11,
         "text": "& for a testimony that the things that they <​h◊ve​> said is true they have brought",
-        "markdown": "& for a testimony that the things that they ~~had~~ <​h◊ve​> said ~~were~~ [is] true they have",
+        "markdown": "& for a testimony that the things that they ~~had~~ <​h◊ve​> said ~~were~~ [is] true they have brought",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/135"
       },
       {
@@ -357,7 +356,7 @@
         "page": 135,
         "line": 17,
         "text": "& I say unto thee again knowest thou of any one that can translate for I am desireous that these records should be translated into our language for perhaps they will",
-        "markdown": "& I say unto thee again knowest thou of any one that can translate for I am ~~desireable~~ [desireous] that these records should be translated into our language for perhaps they",
+        "markdown": "& I say unto thee again knowest thou of any one that can translate for I am ~~desireable~~ [desireous] that these records should be translated into our language for perhaps they will",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/135"
       },
       {
@@ -471,7 +470,7 @@
         "page": 135,
         "line": 27,
         "text": "& the king saith that a seer is greater then a Prophet",
-        "markdown": "& the king saith that a seer is greater then a ~~Prop~~",
+        "markdown": "& the king saith that a seer is greater then a ~~Prop~~ [Prophet]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/135"
       }
     ]
@@ -521,6 +520,7 @@
         "page": 135,
         "line": 31,
         "text": "rather shall secret things be made manifest & hiden things shall come to light & things",
+        "markdown": "rather shall secret things be made manifest & hiden things shall come to light & things ~~which~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/135"
       },
       {
@@ -528,7 +528,7 @@
         "page": 135,
         "line": 32,
         "text": "which is not known shall be made known by them & also things shall be made known by",
-        "markdown": "which ~~as~~ [is] not known shall be made known by them & also things shall be made known",
+        "markdown": "which ~~as~~ [is] not known shall be made known by them & also things shall be made known by",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/135"
       },
       {
@@ -592,7 +592,7 @@
         "page": 136,
         "line": 1,
         "text": "ined within these plates & these interpreters was doubtless prepared for the purpose",
-        "markdown": "ined within these plates ~~& th~~ & these interpreters was doubtless prepared for",
+        "markdown": "ined within these plates ~~& th~~ & these interpreters was doubtless prepared for the purpose",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/136"
       },
       {
@@ -670,7 +670,7 @@
         "page": 136,
         "line": 7,
         "text": "The record of Zeniff",
-        "markdown": "Chapter []—— The record",
+        "markdown": "Chapter []—— The record of Zeniff",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/136"
       },
       {

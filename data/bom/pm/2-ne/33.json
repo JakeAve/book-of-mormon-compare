@@ -72,7 +72,7 @@
         "page": 98,
         "line": 21,
         "text": "lly unto my People for I pray continually for them by day & mine eyes water my pillow by",
-        "markdown": "lly unto my People for I pray ~~for them~~ continually [for them] by day & mine eyes water my",
+        "markdown": "lly unto my People for I pray ~~for them~~ continually [for them] by day & mine eyes water my pillow by",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/98"
       },
       {
@@ -171,7 +171,7 @@
         "page": 98,
         "line": 29,
         "text": "laneness I glory in truth I glory in my Jesus for he hath redeemed my soul from he",
-        "markdown": "laneness I glory in ~~th~~ truth I glory in my Jesus for he hath redeemed my soul from",
+        "markdown": "laneness I glory in ~~th~~ truth I glory in my Jesus for he hath redeemed my soul from he",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/98"
       },
       {

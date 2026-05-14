@@ -86,7 +86,7 @@
         "page": 105,
         "line": 29,
         "text": "for I had ought to be content with the things which the Lord hath alloted",
-        "markdown": "for I had ought to be content wi{{th the thi}}ngs ~~with~~ which the Lord hath",
+        "markdown": "for I had ought to be content wi{{th the thi}}ngs ~~with~~ which the Lord hath allote{{d}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/105"
       },
       {
@@ -115,7 +115,7 @@
         "page": 105,
         "line": 31,
         "text": "just God for I Kno that he granteth unto men according to their desires",
-        "markdown": "just God for I ~~I~~ Kno that he granteth unto men according to their",
+        "markdown": "just God for I ~~I~~ Kno that he granteth unto men according to their ~~desires~~ desir{{es}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/105"
       },
       {
@@ -123,7 +123,7 @@
         "page": 105,
         "line": 32,
         "text": "whither it be unto death or unto life yea I Know that he alloteth unto man",
-        "markdown": "whither it be unto death or unto life yea I Know ~~the~~ [that] he ~~allothe~~ alloteth",
+        "markdown": "whither it be unto death or unto life yea I Know ~~the~~ [that] he ~~allothe~~ alloteth ~~to~~ [unto] ma{{n}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/105"
       },
       {
@@ -131,7 +131,7 @@
         "page": 105,
         "line": 33,
         "text": "yea decreeth unto them decrees which are unalterable according to their",
-        "markdown": "yea decreeth unto them decrees which are unalterable ~~whether~~ according to",
+        "markdown": "yea decreeth unto them decrees which are unalterable ~~whether~~ according to thei{{r}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/105"
       },
       {
@@ -198,7 +198,7 @@
         "page": 106,
         "line": 2,
         "text": "now seeing that I",
-        "markdown": "now seeing ~~the~~ [that]",
+        "markdown": "now seeing ~~the~~ [that] I",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/106"
       },
       {
@@ -260,7 +260,7 @@
         "page": 106,
         "line": 6,
         "text": "his word yea in wisdom all that he seeth fit that they should have therefore we see that",
-        "markdown": "{{his word yea in wisdom all that he see}}th fit ~~but <​that​>~~ that they should have therefore we",
+        "markdown": "{{his word yea in wisdom all that he see}}th fit ~~but <​that​>~~ that they should have therefore we see that",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/106"
       },
       {
@@ -375,7 +375,7 @@
         "page": 106,
         "line": 15,
         "text": "I surely do know that the Lord did deliver them out of bondage & by then did esta",
-        "markdown": "{{I surely do k}}now that the Lord did deliver them out of bondage & ~~I then~~ [by then]",
+        "markdown": "{{I surely do k}}now that the Lord did deliver them out of bondage & ~~I then~~ [by then] did esta",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/106"
       },
       {
@@ -383,7 +383,7 @@
         "page": 106,
         "line": 16,
         "text": "blish <​hi​>s Church yea the Lord God the God of Abraham the God of Isaac & the",
-        "markdown": "{{blish <​hi​>}}[s] Church ~~yea the Lord~~ yea the Lord God the God of Abraham the God of Isaac",
+        "markdown": "{{blish <​hi​>}}[s] Church ~~yea the Lord~~ yea the Lord God the God of Abraham the God of Isaac & the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/106"
       },
       {
@@ -406,7 +406,7 @@
         "page": 106,
         "line": 17,
         "text": "yea I have always remembered the",
-        "markdown": "yea I have ~~also~~ [always] remembered",
+        "markdown": "yea I have ~~also~~ [always] remembered the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/106"
       },
       {

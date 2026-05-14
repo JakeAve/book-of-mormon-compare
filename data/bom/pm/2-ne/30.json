@@ -58,7 +58,7 @@
         "page": 95,
         "line": 6,
         "text": "ny of the Jews as will not repent shall be cast off for the Lord covenanteth with none save",
-        "markdown": "ny of the Jews as will not repent shall be ~~cut~~ [cast] off for the Lord covenanteth with none",
+        "markdown": "ny of the Jews as will not repent shall be ~~cut~~ [cast] off for the Lord covenanteth with none save",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/95"
       },
       {
@@ -66,7 +66,7 @@
         "page": 95,
         "line": 7,
         "text": "it be with them that repent & believe in his Son which is the holy one of Israel",
-        "markdown": "it be with them that repent [&] ~~&~~ believe in his Son which is the holy one of",
+        "markdown": "it be with them that repent [&] ~~&~~ believe in his Son which is the holy one of Israel",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/95"
       }
     ]
@@ -81,7 +81,7 @@
         "page": 95,
         "line": 7,
         "text": "& now",
-        "markdown": "Israel [&]",
+        "markdown": "[&] now",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/95"
       },
       {

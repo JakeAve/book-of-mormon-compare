@@ -121,7 +121,7 @@
         "page": 419,
         "line": 5,
         "text": "we did fortify the city with our mights but notwithstanding all our fortifications the",
-        "markdown": "we did fortify the city with ~~all u~~ our mights but notwithstanding all our",
+        "markdown": "we did fortify the city with ~~all u~~ our mights but notwithstanding all our fortifications the",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/419"
       },
       {
@@ -300,7 +300,7 @@
         "page": 419,
         "line": 18,
         "text": "& it came to pass that the Nephites began to repent of their iniquity & began to cry",
-        "markdown": "& it came to pass that the Nephites began to repent of their ~~iniquities~~ iniquity & began to",
+        "markdown": "& it came to pass that the Nephites began to repent of their ~~iniquities~~ iniquity & began to cry",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/419"
       },
       {
@@ -505,6 +505,7 @@
         "page": 419,
         "line": 36,
         "text": "& it came to pass that in the three hundred & forty & fifth year",
+        "markdown": "& it came to pass that in the three hundred & forty & fifth year ~~the~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/419"
       },
       {

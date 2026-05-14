@@ -604,7 +604,7 @@
         "page": 433,
         "line": 24,
         "text": "&",
-        "markdown": "~~And~~",
+        "markdown": "~~And~~ [&]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/433"
       },
       {
@@ -647,7 +647,7 @@
         "page": 433,
         "line": 28,
         "text": "ple & swear in his wrath that they should be scattered upon all the face of",
-        "markdown": "ple & swear in his wrath that they should be scattered ~~upon~~ [upon] all the face",
+        "markdown": "ple & swear in his wrath that they should be scattered ~~upon~~ [upon] all the face of",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/433"
       },
       {
@@ -809,7 +809,7 @@
         "page": 434,
         "line": 3,
         "text": "& if he will drive us out of the land cry unto him whither shall we Go & who knoweth",
-        "markdown": "& if he will drive us out of the land cry unto him whither shall we ~~go~~ [Go] & who",
+        "markdown": "& if he will drive us out of the land cry unto him whither shall we ~~go~~ [Go] & who knoweth",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/434"
       },
       {
@@ -894,7 +894,7 @@
         "page": 434,
         "line": 10,
         "text": "& also Jared thy brother & his family & also thy friends & their families & the friends of Jared &",
-        "markdown": "& also Jared thy brother & his family & ~~also~~ [also] thy friends & their families & the friends of Jared",
+        "markdown": "& also Jared thy brother & his family & ~~also~~ [also] thy friends & their families & the friends of Jared &",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/434"
       },
       {

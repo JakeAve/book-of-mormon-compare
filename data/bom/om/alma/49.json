@@ -54,7 +54,7 @@
         "page": 154,
         "line": 10,
         "text": "city & they had cast up dirt round about to shield them from the arrows",
-        "markdown": "{{city & they had cast u}}p dirt round about to shield them from the arrows",
+        "markdown": "{{city & they had cast u}}p dirt round about to shield them from the arrows ~~of~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/154"
       },
       {
@@ -174,7 +174,7 @@
         "page": 154,
         "line": 21,
         "text": "the wisdom of the Nephites in repairing their places of security",
-        "markdown": "the wisdom of the Nephites in ~~p~~ repairing their places of",
+        "markdown": "the wisdom of the Nephites in ~~p~~ repairing their places of security",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/154"
       }
     ]
@@ -189,7 +189,6 @@
         "page": 154,
         "line": 21,
         "text": "now the",
-        "markdown": "security now",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/154"
       },
       {
@@ -197,7 +196,7 @@
         "page": 154,
         "line": 22,
         "text": "leaders of the Lamanites had suposed because of the greatness of",
-        "markdown": "leaders of the Lamanites had suposed ~~by the~~ because of the",
+        "markdown": "leaders of the Lamanites had suposed ~~by the~~ because of the greatness of",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/154"
       },
       {
@@ -205,7 +204,7 @@
         "page": 154,
         "line": 23,
         "text": "their numbers yea they supposed that they should be privilidged to",
-        "markdown": "their numbers yea they supposed that they ~~shoudd~~ should be privilidge[d]",
+        "markdown": "their numbers yea they supposed that they ~~shoudd~~ should be privilidge[d] to",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/154"
       },
       {
@@ -256,7 +255,7 @@
         "page": 154,
         "line": 28,
         "text": "ily overpower & subject their Brethren to the yoke of bondage or slay &",
-        "markdown": "ily overpower & subject their Brethren to the yoke of bondage ~~of~~ [or] slay",
+        "markdown": "ily overpower & subject their Brethren to the yoke of bondage ~~of~~ [or] slay &",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/154"
       },
       {
@@ -613,7 +612,7 @@
         "page": 155,
         "line": 24,
         "text": "& now behold it came to pass that when the Lamanites had",
-        "markdown": "& now behold [it came to pass] that when the Lamanites ~~had~~",
+        "markdown": "& now behold [it came to pass] that when the Lamanites ~~had~~ had",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/155"
       },
       {
@@ -663,7 +662,7 @@
         "page": 155,
         "line": 29,
         "text": "trance because of the highness of the bank which had been thrown up & the de",
-        "markdown": "trance because of the highness of the ~~band~~ [bank] which had been thrown ~~p~~up & the",
+        "markdown": "trance because of the highness of the ~~band~~ [bank] which had been thrown ~~p~~up & the de",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/155"
       },
       {
@@ -671,7 +670,7 @@
         "page": 155,
         "line": 30,
         "text": "bth of the ditch which had been dug round about save it were by",
-        "markdown": "bth of the ditch which ~~had~~ had been dug ~~roung~~ round about ~~same~~ [save]",
+        "markdown": "bth of the ditch which ~~had~~ had been dug ~~roung~~ round about ~~same~~ [save] it were by",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/155"
       },
       {
@@ -700,7 +699,7 @@
         "page": 155,
         "line": 32,
         "text": "attempt to climb up to enter the fort by any other way by casting over st",
-        "markdown": "attempt to climb up to enter the fort by any other way by casting over ~~st~~",
+        "markdown": "attempt to climb up to enter the fort by any other way by casting over ~~st~~ st",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/155"
       },
       {
@@ -736,7 +735,7 @@
         "page": 155,
         "line": 35,
         "text": "to come in to their place of security by the place of enterance & thus w",
-        "markdown": "to come ~~un~~ in to their place of security by the place of enterance & thus",
+        "markdown": "to come ~~un~~ in to their place of security by the place of enterance & thus w",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/155"
       },
       {
@@ -852,7 +851,7 @@
         "page": 156,
         "line": 10,
         "text": "their dead & wounded bodies",
-        "markdown": "{{their dead & wounded}} ~~od~~",
+        "markdown": "{{their dead & wounded}} ~~od~~ bodies",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/156"
       }
     ]
@@ -867,7 +866,6 @@
         "page": 156,
         "line": 10,
         "text": "thus the Nephites had all power over their",
-        "markdown": "bodies thus the Nephites had all power over",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/156"
       },
       {
@@ -883,7 +881,7 @@
         "page": 156,
         "line": 12,
         "text": "their chief captains were all slain yea & more than a thousand of the",
-        "markdown": "{{their chief captains}} were all slain yea & more ~~that~~ [than] a thousand of",
+        "markdown": "{{their chief captains}} were all slain yea & more ~~that~~ [than] a thousand of the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/156"
       },
       {
@@ -914,7 +912,7 @@
         "page": 156,
         "line": 14,
         "text": "there were about fifty which were wou",
-        "markdown": "~~they~~ [there] were about fifty which were",
+        "markdown": "~~they~~ [there] were about fifty which were wou",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/156"
       },
       {
@@ -1003,7 +1001,7 @@
         "page": 156,
         "line": 22,
         "text": "was exceding angary with his People because he had not obtained his desires",
-        "markdown": "was exceding angary with his People because he had not ~~op~~ obtained his",
+        "markdown": "was exceding angary with his People because he had not ~~op~~ obtained his desires",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/156"
       },
       {
@@ -1040,7 +1038,7 @@
         "page": 156,
         "line": 25,
         "text": "ould drink his Blood & this because Moroni had kept the Commandments of",
-        "markdown": "ould drink his Blood & this ~~C~~ because Moroni had kept the Commandments",
+        "markdown": "ould drink his Blood & this ~~C~~ because Moroni had kept the Commandments of",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/156"
       },
       {
@@ -1076,7 +1074,7 @@
         "page": 156,
         "line": 28,
         "text": "power in delivering them from the hands of their enemies",
-        "markdown": "power in delivering them from the hands of their ~~enemy",
+        "markdown": "power in delivering them from the hands of their ~~enemy &~~ [enemies]",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/156"
       }
     ]
@@ -1091,7 +1089,7 @@
         "page": 156,
         "line": 28,
         "text": "& thus ended the nine",
-        "markdown": "&~~ [enemies] & ~~this~~ [thus]",
+        "markdown": "& ~~this~~ [thus] ended the nine",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/156"
       },
       {
@@ -1113,7 +1111,7 @@
         "page": 156,
         "line": 29,
         "text": "yea & there was con",
-        "markdown": "yea & ~~their~~ [there] was",
+        "markdown": "yea & ~~their~~ [there] was con",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/156"
       },
       {

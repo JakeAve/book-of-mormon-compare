@@ -363,7 +363,7 @@
         "page": 92,
         "line": 9,
         "text": "distance of a day & a halfs journey for a Nephite on the line bounti",
-        "markdown": "{{distance of a day & a halfs journey for a Neph}}ite on the line ~~w~~",
+        "markdown": "{{distance of a day & a halfs journey for a Neph}}ite on the line ~~w~~ bounti",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/92"
       },
       {
@@ -479,7 +479,7 @@
         "page": 93,
         "line": 1,
         "text": "of Ammon & Aaron Omner & Himni & there brethren",
-        "markdown": "{{ of A}}mmon & Aaron Omner & Hi{{mni & there",
+        "markdown": "{{ of A}}mmon & Aaron Omner & Hi{{mni & there brethren }}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/93"
       },
       {
@@ -487,7 +487,7 @@
         "page": 93,
         "line": 2,
         "text": "Chapter",
-        "markdown": "{{}}",
+        "markdown": "{{}} Ch{{a}}pter {{}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/93"
       },
       {

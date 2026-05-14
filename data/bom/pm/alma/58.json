@@ -51,6 +51,7 @@
         "page": 320,
         "line": 15,
         "text": "they were so exceding more numerous than was our army that we dearst not",
+        "markdown": "they were so exceding more numerous than was our army that we dearst not ~~of~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/320"
       },
       {
@@ -122,7 +123,7 @@
         "page": 320,
         "line": 21,
         "text": "the Governor of our land to acquaint him concerning the affairs of our people & it came to pass th",
-        "markdown": "the Governor of our land to acquaint him ~~of~~ [concerning] the affairs of our people & it came to pass",
+        "markdown": "the Governor of our land to acquaint him ~~of~~ [concerning] the affairs of our people & it came to pass th",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/320"
       },
       {
@@ -130,7 +131,7 @@
         "page": 320,
         "line": 22,
         "text": "at we did wait to receive provisions & strength from the land of Zarahemla",
-        "markdown": "at we did wait to receive ~~strength~~ provisions & strength from the land of",
+        "markdown": "at we did wait to receive ~~strength~~ provisions & strength from the land of Zarahemla",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/320"
       }
     ]
@@ -313,7 +314,7 @@
         "page": 321,
         "line": 1,
         "text": "therefore we did pour out our souls in prayer to God",
-        "markdown": "therefore we did pour out our souls ~~to~~ in prayer to",
+        "markdown": "therefore we did pour out our souls ~~to~~ in prayer to God",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/321"
       },
       {
@@ -478,7 +479,7 @@
         "page": 321,
         "line": 15,
         "text": "& it came to pass that when they saw that we were not strong according to our",
-        "markdown": "& it came to pass that when they saw ~~thad~~ [that] we were not strong ~~as~~ [according]",
+        "markdown": "& it came to pass that when they saw ~~thad~~ [that] we were not strong ~~as~~ [according] to our ~~<​numbers​>~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/321"
       },
       {
@@ -543,7 +544,7 @@
         "page": 321,
         "line": 22,
         "text": "secrete himself also in the wilderness",
-        "markdown": "secrete ~~themselves~~ [himself] also in the",
+        "markdown": "secrete ~~themselves~~ [himself] also in the wilderness",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/321"
       }
     ]
@@ -558,7 +559,7 @@
         "page": 321,
         "line": 22,
         "text": "now Gid & his men was on the right & the other",
-        "markdown": "wilderness now Gid & his men ~~were~~ [was] on the right &",
+        "markdown": "now Gid & his men ~~were~~ [was] on the right & the other",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/321"
       },
       {
@@ -573,7 +574,7 @@
         "page": 321,
         "line": 24,
         "text": "remainder of my army in that same place where we had first pitched our tents agai",
-        "markdown": "remainder of my army in ~~the~~ [that] same place where we had first pitched our tents",
+        "markdown": "remainder of my army in ~~the~~ [that] same place where we had first pitched our tents agai",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/321"
       },
       {
@@ -707,6 +708,7 @@
         "page": 321,
         "line": 36,
         "text": "upon the guards which were left to guard the city insomuch that they did",
+        "markdown": "upon the guards which were left to guard the city insomuch that they did ~~destroy~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/321"
       },
       {
@@ -735,7 +737,7 @@
         "page": 322,
         "line": 2,
         "text": "ites did suffer their whole army save a few guards to be lead away into the wilderness",
-        "markdown": "ites did ~~suppose~~ [suffer] their whole army save a few guards to be lead away into the",
+        "markdown": "ites did ~~suppose~~ [suffer] their whole army save a few guards to be lead away into the wilderness",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/322"
       }
     ]
@@ -757,7 +759,7 @@
         "page": 322,
         "line": 4,
         "text": "strong hold & it came to pass that we took our course after having traveled much in",
-        "markdown": "~~City~~ [strong] hold & it came to pass that we took our course after ~~trav~~ [having] traveled",
+        "markdown": "~~City~~ [strong] hold & it came to pass that we took our course after ~~trav~~ [having] traveled much in",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/322"
       },
       {
@@ -793,7 +795,7 @@
         "page": 322,
         "line": 7,
         "text": "was a plan laid to lead them on to destruction therefore they began to retreat into the",
-        "markdown": "was a plan laid to lead them on to destruction therefore they began to retreat ~~back~~ [into]",
+        "markdown": "was a plan laid to lead them on to destruction therefore they began to retreat ~~back~~ [into] the",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/322"
       },
       {
@@ -970,7 +972,7 @@
         "page": 322,
         "line": 21,
         "text": "arter of the land but behold they have carried with them many women & child",
-        "markdown": "arter of the land but behold they have carried with them many ~~of~~ ~~our~~ women",
+        "markdown": "arter of the land but behold they have carried with them many ~~of~~ ~~our~~ women & child",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/322"
       },
       {
@@ -992,7 +994,7 @@
         "page": 322,
         "line": 22,
         "text": "& the cities which had been taken by the Lamanites all of them",
-        "markdown": "& the cities ~~<​which had been taken by the Lamanites​>~~ which had been",
+        "markdown": "& the cities ~~<​which had been taken by the Lamanites​>~~ which had been taken by the Lamanites all of them",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/322"
       },
       {
@@ -1142,7 +1144,7 @@
         "page": 322,
         "line": 33,
         "text": "we fear that there is some farction in the govorment that they do not send more",
-        "markdown": "we fear that there is some farction in the govorment that they do not ~~send~~ [send]",
+        "markdown": "we fear that there is some farction in the govorment that they do not ~~send~~ [send] more",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/322"
       },
       {
@@ -1199,7 +1201,7 @@
         "page": 323,
         "line": 2,
         "text": "behold this is the twenty & ninth year in the latter end & we are in",
-        "markdown": "behold this is the twenty & ninth year ~~&~~ in the latter end & we are",
+        "markdown": "behold this is the twenty & ninth year ~~&~~ in the latter end & we are in",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/323"
       },
       {
@@ -1229,7 +1231,7 @@
         "page": 323,
         "line": 4,
         "text": "Sons of the people of Ammon of which I have so highly spoken are with me in",
-        "markdown": "Sons of the people of Ammon of which I have so highly spoken are with ~~with~~ me",
+        "markdown": "Sons of the people of Ammon of which I have so highly spoken are with ~~with~~ me in",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/323"
       },
       {
@@ -1237,7 +1239,7 @@
         "page": 323,
         "line": 5,
         "text": "the city of Manti & the Lord hath supported them yea & kept them from falling by",
-        "markdown": "the city of Manti & the Lord hath supported them yea & kept them from falling ~~by~~",
+        "markdown": "the city of Manti & the Lord hath supported them yea & kept them from falling ~~by~~ by",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/323"
       },
       {
@@ -1336,7 +1338,7 @@
         "page": 323,
         "line": 15,
         "text": "behold I close mine Epistle I am Helaman the Son of Alma——",
-        "markdown": "behold I close mine Epistle I am ~~the~~ Helaman the Son of",
+        "markdown": "behold I close mine Epistle I am ~~the~~ Helaman the Son of Alma——",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/323"
       },
       {

@@ -142,7 +142,7 @@
         "page": 225,
         "line": 28,
         "text": "o told thee that thy brethren were in prison",
-        "markdown": "o told thee ~~thy~~ that thy brethren were in",
+        "markdown": "o told thee ~~thy~~ that thy brethren were in prison",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/225"
       }
     ]
@@ -157,7 +157,6 @@
         "page": 225,
         "line": 28,
         "text": "& Ammon sayeth unto him no",
-        "markdown": "prison & Ammon sayeth unto him",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/225"
       },
       {
@@ -186,7 +185,7 @@
         "page": 225,
         "line": 30,
         "text": "now when Lamoni had heard",
-        "markdown": "now when Lamoni had ~~heared~~",
+        "markdown": "now when Lamoni had ~~heared~~ [heard]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/225"
       },
       {
@@ -285,7 +284,7 @@
         "page": 226,
         "line": 6,
         "text": "& he also sayeth whither art thou going with this Nephite which is one of",
-        "markdown": "& he also sayeth whither art thou going ~~wh~~ [with] this Nephite which is one",
+        "markdown": "& he also sayeth whither art thou going ~~wh~~ [with] this Nephite which is one of",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/226"
       },
       {
@@ -293,7 +292,7 @@
         "page": 226,
         "line": 7,
         "text": "the children of a liar",
-        "markdown": "the ~~Sons~~ [children] of a",
+        "markdown": "the ~~Sons~~ [children] of a liar",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/226"
       }
     ]
@@ -308,7 +307,6 @@
         "page": 226,
         "line": 7,
         "text": "& it came to pass that Lamoni rehearst unto him whi",
-        "markdown": "liar & it came to pass that Lamoni rehearst unto him",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/226"
       },
       {
@@ -394,7 +392,7 @@
         "page": 226,
         "line": 15,
         "text": "that they again may rob us of our property",
-        "markdown": "~~thy~~ that they again may rob us of our",
+        "markdown": "~~thy~~ that they again may rob us of our property",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/226"
       }
     ]
@@ -409,7 +407,6 @@
         "page": 226,
         "line": 15,
         "text": "now the father of Lamoni comma",
-        "markdown": "property now the father of Lamoni",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/226"
       },
       {
@@ -487,7 +484,7 @@
         "page": 226,
         "line": 22,
         "text": "his father heard these words he was angry with him & he drew his sword that",
-        "markdown": "his father heard these words he was angry with him & he drew his ~~sword~~ [sword]",
+        "markdown": "his father heard these words he was angry with him & he drew his ~~sword~~ [sword] that",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/226"
       },
       {

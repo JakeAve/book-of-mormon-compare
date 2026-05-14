@@ -9,7 +9,7 @@
         "page": 72,
         "line": 1,
         "text": "to be burned with fire",
-        "markdown": "to be burned wit{{h fire",
+        "markdown": "to be burned wit{{h fire }}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/72"
       }
     ]
@@ -24,7 +24,7 @@
         "page": 72,
         "line": 2,
         "text": "Chapter",
-        "markdown": "{{}}",
+        "markdown": "{{}} Chap{{ter }}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/72"
       }
     ]
@@ -100,7 +100,7 @@
         "page": 73,
         "line": 5,
         "text": "ead & fear——",
-        "markdown": "{{ead & fear——",
+        "markdown": "{{ead & fear—— Amen}}——",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/73"
       },
       {
@@ -108,7 +108,7 @@
         "page": 73,
         "line": 5,
         "text": "Amen——",
-        "markdown": "{{ead",
+        "markdown": "{{ead & fear—— Amen}}——",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/73"
       }
     ]

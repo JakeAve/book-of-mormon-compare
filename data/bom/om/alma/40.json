@@ -9,7 +9,7 @@
         "page": 131,
         "line": 30,
         "text": "now my Son here is somewhat",
-        "markdown": "~~norn~~ now my Son here is",
+        "markdown": "~~norn~~ now my Son here is somewh{{at}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/131"
       },
       {
@@ -17,7 +17,7 @@
         "page": 131,
         "line": 31,
         "text": "more I would say unto thee for I perceive that thy mind is worried concerning the",
-        "markdown": "more I would say unto thee for I perceive that ~~the~~ [thy] mind is worried concerning",
+        "markdown": "more I would say unto thee for I perceive that ~~the~~ [thy] mind is worried concerning {{the}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/131"
       },
       {
@@ -25,7 +25,7 @@
         "page": 131,
         "line": 32,
         "text": "resurrection of the dead",
-        "markdown": "resurrection of the ~~dead~~",
+        "markdown": "resurrection of the ~~dead~~ dead",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/131"
       }
     ]
@@ -40,7 +40,7 @@
         "page": 131,
         "line": 32,
         "text": "behold I say unto you that there is no resurrection",
-        "markdown": "dead behold I say unto you that there is no",
+        "markdown": "behold I say unto you that there is no resurrectio{{n}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/131"
       },
       {
@@ -124,7 +124,7 @@
         "page": 132,
         "line": 4,
         "text": "from the dead now when this time cometh no one knoes but God knoweth the time which is appointed",
-        "markdown": "{{from the dead now when this}} time cometh no one ~~noes~~ [knoes] but God knoweth the time w{{hich is",
+        "markdown": "{{from the dead now when this}} time cometh no one ~~noes~~ [knoes] but God knoweth the time w{{hich is appointed",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/132"
       }
     ]
@@ -139,7 +139,7 @@
         "page": 132,
         "line": 4,
         "text": "now whether there shall be one time or a second time or a third",
-        "markdown": "appointed now whether there}} shall be one time or a second time or a",
+        "markdown": "now whether there}} shall be one time or a second time or a third",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/132"
       },
       {
@@ -346,7 +346,7 @@
         "page": 132,
         "line": 20,
         "text": "shall it come to pass that the spirits of those which are righteous are received into",
-        "markdown": "~~that~~ shall it come to pass that the spirits of those which are righteous are received",
+        "markdown": "~~that~~ shall it come to pass that the spirits of those which are righteous are received into",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/132"
       },
       {
@@ -375,7 +375,7 @@
         "page": 132,
         "line": 22,
         "text": "& then shall it come to",
-        "markdown": "~~&~~ & then shall it come to",
+        "markdown": "~~&~~ & then shall it come to ~~pa~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/132"
       },
       {
@@ -383,7 +383,7 @@
         "page": 132,
         "line": 23,
         "text": "pass that the spirits of the wicked yea which are evil for behold they have no part nor",
-        "markdown": "pass ~~the~~ [that] the spirits of the wicked ye{{a which}} are evil for behold they have no part",
+        "markdown": "pass ~~the~~ [that] the spirits of the wicked ye{{a which}} are evil for behold they have no part nor",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/132"
       },
       {
@@ -399,7 +399,7 @@
         "page": 132,
         "line": 25,
         "text": "the spirit of the Devil did enter into them & take posession of their house &",
-        "markdown": "the spirit of the ~~Lord~~ Devil did {{enter in}}to them & take posession of their house",
+        "markdown": "the spirit of the ~~Lord~~ Devil did {{enter in}}to them & take posession of their house &",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/132"
       },
       {
@@ -438,7 +438,7 @@
         "page": 132,
         "line": 29,
         "text": "ful looking for of the firey indignation of the wrath of God upon them thus they",
-        "markdown": "{{f}}ul looking for of the firey indignation of the wrath of God upon them ~~so <​th​>~~",
+        "markdown": "{{f}}ul looking for of the firey indignation of the wrath of God upon them ~~so <​th​>~~ thus they",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/132"
       },
       {
@@ -590,7 +590,7 @@
         "page": 133,
         "line": 9,
         "text": "of Adam down to the resurrection of Christ",
-        "markdown": "of Adam ~~donw~~ down to the resurrection of",
+        "markdown": "of Adam ~~donw~~ down to the resurrection of Christ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/133"
       }
     ]
@@ -605,7 +605,7 @@
         "page": 133,
         "line": 9,
         "text": "now whether the souls & the bodies of th",
-        "markdown": "Christ n{{ow whether the souls & the bodies of",
+        "markdown": "n{{ow whether the souls & the bodies of th}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/133"
       },
       {
@@ -613,7 +613,7 @@
         "page": 133,
         "line": 10,
         "text": "ose of which have been spoken shall all be reunited at once the wicked as well as the",
-        "markdown": "ose ~~t~~ [of] which have been spoken shall all be reunited a{{t on}}ce the w{{icked as well as",
+        "markdown": "ose ~~t~~ [of] which have been spoken shall all be reunited a{{t on}}ce the w{{icked as well as the}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/133"
       },
       {
@@ -704,7 +704,7 @@
         "page": 133,
         "line": 18,
         "text": "state of the soul in happiness or in miseary untill the time which is appointed of God",
-        "markdown": "state of the soul in happiness [or] ~~&~~ in miseary untill the time which is app{{o}}inted of",
+        "markdown": "state of the soul in happiness [or] ~~&~~ in miseary untill the time which is app{{o}}inted of God",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/133"
       },
       {
@@ -762,7 +762,7 @@
         "page": 133,
         "line": 22,
         "text": "stored to the body & the body to the soul yea & every limb & joint shall be restored",
-        "markdown": "stored to the body & the body to the soul yea & every ~~limb~~ limb & joint shall be",
+        "markdown": "stored to the body & the body to the soul yea & every ~~limb~~ limb & joint shall be restored",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/133"
       },
       {

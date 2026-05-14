@@ -493,7 +493,7 @@
         "page": 161,
         "line": 33,
         "text": "therefore Alma",
-        "markdown": "~~before~~ therefore",
+        "markdown": "~~before~~ therefore Alma",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/161"
       },
       {
@@ -515,7 +515,7 @@
         "page": 161,
         "line": 36,
         "text": "yea and as many as he did baptise did blong to the church of God and",
-        "markdown": "yea and ~~is~~ as many as he did baptise did blong to the church of God",
+        "markdown": "yea and ~~is~~ as many as he did baptise did blong to the church of God and",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/161"
       },
       {
@@ -649,7 +649,7 @@
         "page": 162,
         "line": 11,
         "text": "-es except it were repentance and faith in",
-        "markdown": "~~es in the land of Zarahemla~~ -es except",
+        "markdown": "~~es in the land of Zarahemla~~ -es except it were repentance and faith in",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/162"
       },
       {

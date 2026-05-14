@@ -51,7 +51,7 @@
         "page": 381,
         "line": 31,
         "text": "Sons & Daughters of my people & it is because of their iniquity & abominations that they",
-        "markdown": "Sons & Daughters of my people & it is because of their iniquity & ~~their~~ abominations that",
+        "markdown": "Sons & Daughters of my people & it is because of their iniquity & ~~their~~ abominations that they",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/381"
       },
       {
@@ -129,7 +129,7 @@
         "page": 381,
         "line": 36,
         "text": "ns from before my face that the blood of the prophets & of the Saints shall not come",
-        "markdown": "ns from before my face that the blood of the prophets & of the Saints ~~should~~ [shall] not",
+        "markdown": "ns from before my face that the blood of the prophets & of the Saints ~~should~~ [shall] not come ~~up~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/381"
       },
       {
@@ -200,7 +200,7 @@
         "page": 382,
         "line": 3,
         "text": "minations from before my face that the blood of the prophets & the saints shall not",
-        "markdown": "minations from [before] my face that the blood of the prophets & the saints ~~should~~ [shall]",
+        "markdown": "minations from [before] my face that the blood of the prophets & the saints ~~should~~ [shall] not",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/382"
       },
       {
@@ -250,7 +250,7 @@
         "page": 382,
         "line": 8,
         "text": "inations from before my face that the blood of the prophets & the Saints shall not come up any more unto me against them",
-        "markdown": "inations from before my face that the blood of the prophets & the Saints ~~should~~ [shall] not come up any more unto me against",
+        "markdown": "inations from before my face that the blood of the prophets & the Saints ~~should~~ [shall] not come up any more unto me against them",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/382"
       }
     ]
@@ -265,7 +265,6 @@
         "page": 382,
         "line": 8,
         "text": "& behold that great city",
-        "markdown": "them & behold that great",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/382"
       },
       {
@@ -308,7 +307,7 @@
         "page": 382,
         "line": 14,
         "text": "ore my face that the blood of the prophets & the saints should not come up unto",
-        "markdown": "ore my face that the blood of the prophets & the saints should not come up ~~to~~",
+        "markdown": "ore my face that the blood of the prophets & the saints should not come up ~~to~~ unto",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/382"
       },
       {
@@ -506,7 +505,7 @@
         "page": 382,
         "line": 30,
         "text": "the beginning I am in the Father & the Father in me & in me hath the Father Glorified",
-        "markdown": "the beginning I am in the Father & the Father in me ~~I~~ & in me hath the Father",
+        "markdown": "the beginning I am in the Father & the Father in me ~~I~~ & in me hath the Father Glorified",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/382"
       },
       {

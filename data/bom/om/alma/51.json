@@ -9,7 +9,7 @@
         "page": 160,
         "line": 12,
         "text": "And now it came to pass in the commencement of the twenty & fifth year",
-        "markdown": "{{ And now it came to p}}ass in the commencement of the twenty & fifth",
+        "markdown": "{{ And now it came to p}}ass in the commencement of the twenty & fifth year",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/160"
       },
       {
@@ -91,7 +91,7 @@
         "page": 160,
         "line": 19,
         "text": "ld not alter nor suffer the law to be altered therefore he did not hearken to th",
-        "markdown": "ld not alter nor suffer ~~to~~ [the] law to be altered therefore he did not hearken to",
+        "markdown": "ld not alter nor suffer ~~to~~ [the] law to be altered therefore he did not hearken to th",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/160"
       },
       {
@@ -233,7 +233,7 @@
         "page": 160,
         "line": 31,
         "text": "the voice of the People & it came to pass that the voice of the People came in the fav",
-        "markdown": "the voice of the People & it came to pass ~~the~~ [that] the voice of the People came in the",
+        "markdown": "the voice of the People & it came to pass ~~the~~ [that] the voice of the People came in the fav",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/160"
       },
       {
@@ -255,7 +255,7 @@
         "page": 160,
         "line": 34,
         "text": "so put the King men to silence that they dearst not oppose but were obliged to m",
-        "markdown": "so put the King men to silence ~~the~~ [that] they dearst not oppose but were obliged to",
+        "markdown": "so put the King men to silence ~~the~~ [that] they dearst not oppose but were obliged to m",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/160"
       },
       {
@@ -314,7 +314,7 @@
         "page": 161,
         "line": 3,
         "text": "er Soldiers from all parts of his land & arming them & prepareing for war with all di",
-        "markdown": "er Soldiers from all parts ~~f~~ of his land & arming {{them & prepareing for war with all",
+        "markdown": "er Soldiers from all parts ~~f~~ of his land & arming {{them & prepareing for war with all di}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/161"
       },
       {
@@ -452,7 +452,7 @@
         "page": 161,
         "line": 14,
         "text": "the men which were called King men had heard that the Lamanites were comeing",
-        "markdown": "the ~~c~~ men ~~of~~ [which] were called King men had heard that the Lamanites",
+        "markdown": "the ~~c~~ men ~~of~~ [which] were called King men had heard that the Lamanites {{were comeing}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/161"
       },
       {
@@ -510,7 +510,7 @@
         "page": 161,
         "line": 20,
         "text": "red with somuch diligence to preserve yea he was exceding wroth his soul was",
-        "markdown": "red with somuch diligence to preserve yea he ~~was~~ was exceding wroth his soul",
+        "markdown": "red with somuch diligence to preserve yea he ~~was~~ was exceding wroth his soul was",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/161"
       },
       {
@@ -624,7 +624,7 @@
         "page": 161,
         "line": 29,
         "text": "& it came to pass that the armies did march forth against them &",
-        "markdown": "& it came to pass ~~that~~ that the armies did march forth against them",
+        "markdown": "& it came to pass ~~that~~ that the armies did march forth against them &",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/161"
       },
       {
@@ -744,7 +744,7 @@
         "page": 162,
         "line": 5,
         "text": "to humble themselves like unto their Brethren & to fight valiantly for their free",
-        "markdown": "{{to humble themselves like un}}to their Brethren & to fight valiantly ~~for~~ for their",
+        "markdown": "{{to humble themselves like un}}to their Brethren & to fight valiantly ~~for~~ for their free",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/162"
       },
       {
@@ -783,7 +783,7 @@
         "page": 162,
         "line": 8,
         "text": "iliseation & makeing regulations to prepare for war against the Lama",
-        "markdown": "{{iliseation & makein}}g ~~regulating~~ [regulations] to prepare for war against the",
+        "markdown": "{{iliseation & makein}}g ~~regulating~~ [regulations] to prepare for war against the ~~Lamites~~ Lama",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/162"
       },
       {
@@ -830,7 +830,7 @@
         "page": 162,
         "line": 12,
         "text": "& it came to pass that Amelickiah took possession of the City yea possession of all the",
-        "markdown": "{{& it came to p}}ass that Amelickiah took possession of the City ~~&~~ yea possession of all",
+        "markdown": "{{& it came to p}}ass that Amelickiah took possession of the City ~~&~~ yea possession of all the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/162"
       },
       {
@@ -931,6 +931,7 @@
         "page": 162,
         "line": 20,
         "text": "& the city of Gid & the City of Mulek all of which were on the east Borders by",
+        "markdown": "& the city of Gid & the City of Mulek all of which were on the east Borders by ~~Sea <​t​>~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/162"
       },
       {
@@ -1016,6 +1017,7 @@
         "page": 162,
         "line": 26,
         "text": "pass that they were met by Teancum who had slain Morionton & had",
+        "markdown": "pass that they were met by Teancum who had slain Morionton & had ~~head~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/162"
       },
       {
@@ -1072,6 +1074,7 @@
         "page": 162,
         "line": 30,
         "text": "behold he met with a disappointment of being repulsed by Teancum &",
+        "markdown": "behold he met with a disappointment of being repulsed by Teancum & ~~hs~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/162"
       },
       {
@@ -1262,7 +1265,7 @@
         "page": 163,
         "line": 13,
         "text": "me upon them & thus ended the twenty & fifth year of the Reign of the Judges",
-        "markdown": "me upon them & thus ended the twenty & fifth ~~&~~ yea{{r of the Reign of the",
+        "markdown": "me upon them & thus ended the twenty & fifth ~~&~~ yea{{r of the Reign of the Judges}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/163"
       },
       {
@@ -1270,7 +1273,7 @@
         "page": 163,
         "line": 14,
         "text": "over the People of Nephi & thus ended the days of Ameleckiah",
-        "markdown": "over the People of Nephi & ~~this <​thus​>~~ thus ended the days",
+        "markdown": "over the People of Nephi & ~~this <​thus​>~~ thus ended the days {{of Am}}el{{eckiah }}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/163"
       },
       {
@@ -1278,6 +1281,7 @@
         "page": 163,
         "line": 15,
         "text": "Chapter",
+        "markdown": "Chapter {{}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/163"
       }
     ]

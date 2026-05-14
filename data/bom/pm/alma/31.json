@@ -354,7 +354,7 @@
         "page": 254,
         "line": 9,
         "text": "ey did pervert the ways of the Lord in <​ verry many​> instances therefore",
-        "markdown": "ey did pervert the ways of the Lord in ~~verry~~ ~~many~~ <​~~every~~ verry many​>",
+        "markdown": "ey did pervert the ways of the Lord in ~~verry~~ ~~many~~ <​~~every~~ verry many​> instances therefore",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/254"
       },
       {
@@ -432,7 +432,7 @@
         "page": 254,
         "line": 16,
         "text": "ogue a place of standing which was high above the head & the top thereof",
-        "markdown": "ogue a place of standing which was high above the head ~~of~~ [&] the top",
+        "markdown": "ogue a place of standing which was high above the head ~~of~~ [&] the top there[of]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/254"
       },
       {
@@ -538,6 +538,7 @@
         "page": 254,
         "line": 25,
         "text": "us to be thy holy children & also thou hast made it known unto us that",
+        "markdown": "us to be thy holy children & also thou hast made it known unto us that ~~the~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/254"
       },
       {
@@ -566,7 +567,7 @@
         "page": 254,
         "line": 27,
         "text": "thou hast elected us that we shall be saved whilst all around us",
-        "markdown": "thou hast ~~hast~~ elected us that we shall be saved whilst all around",
+        "markdown": "thou hast ~~hast~~ elected us that we shall be saved whilst all around us",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/254"
       },
       {
@@ -616,7 +617,7 @@
         "page": 254,
         "line": 32,
         "text": "& again we thank thee O God that we",
-        "markdown": "& again we thank thee O ~~our~~ God that",
+        "markdown": "& again we thank thee O ~~our~~ God that we",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/254"
       },
       {
@@ -842,7 +843,7 @@
         "page": 255,
         "line": 11,
         "text": "that thy servants shall dwell here below in the flesh to behold such gross",
-        "markdown": "that ~~they~~ thy servants shall dwell here below in the flesh to behold such",
+        "markdown": "that ~~they~~ thy servants shall dwell here below in the flesh to behold such gross",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/255"
       },
       {

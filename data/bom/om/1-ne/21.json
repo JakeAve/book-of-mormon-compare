@@ -38,7 +38,7 @@
         "page": 38,
         "line": 10,
         "text": "called me from the womb from the bowels of my Mother hath he made mention",
-        "markdown": "called me from the womb ~~foro~~ from the bowels of my Mother hath he made",
+        "markdown": "called me from the womb ~~foro~~ from the bowels of my Mother hath he made mention",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/38"
       },
       {
@@ -109,7 +109,7 @@
         "page": 38,
         "line": 14,
         "text": "then I said I have laboured in vain I have spent my strength for nought",
-        "markdown": "then I said I have laboured in ~~vane~~ [vain] I have spent my strength for",
+        "markdown": "then I said I have laboured in ~~vane~~ [vain] I have spent my strength for nought",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/38"
       },
       {
@@ -131,6 +131,7 @@
         "page": 38,
         "line": 15,
         "text": "&",
+        "markdown": "& ~~now~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/38"
       },
       {
@@ -363,7 +364,7 @@
         "page": 38,
         "line": 34,
         "text": "house of Israel behold these shall come from far & lo these from the north",
-        "markdown": "house of Israel behold these shall come from far & ~~to~~ lo these from the",
+        "markdown": "house of Israel behold these shall come from far & ~~to~~ lo these from the north",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/38"
       },
       {
@@ -486,7 +487,7 @@
         "page": 39,
         "line": 4,
         "text": "upon the palms of my hands thy walls are continually before me",
-        "markdown": "upon the palms of my hands ~~the~~ [thy] walls are continually before",
+        "markdown": "upon the palms of my hands ~~the~~ [thy] walls are continually before me",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/39"
       }
     ]
@@ -501,7 +502,6 @@
         "page": 39,
         "line": 4,
         "text": "thy children",
-        "markdown": "me thy",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/39"
       },
       {
@@ -558,7 +558,7 @@
         "page": 39,
         "line": 8,
         "text": "for thy waste & thy",
-        "markdown": "for ~~the~~ [thy] waste &",
+        "markdown": "for ~~the~~ [thy] waste & thy",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/39"
       },
       {
@@ -637,7 +637,7 @@
         "page": 39,
         "line": 15,
         "text": "ght up these behold I was left alone these where have they been",
-        "markdown": "ght up these behold I was left alone these where [have] ~~had~~ they",
+        "markdown": "ght up these behold I was left alone these where [have] ~~had~~ they been",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/39"
       }
     ]
@@ -652,7 +652,6 @@
         "page": 39,
         "line": 15,
         "text": "thus saith the",
-        "markdown": "been thus saith",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/39"
       },
       {
@@ -695,7 +694,7 @@
         "page": 39,
         "line": 20,
         "text": "towards the earth & lick up the dust of thy feet & thou shalt know that I am the",
-        "markdown": "towards the earth & lick up the dust of thy feet & ~~thee~~ [thou] shalt know that I am",
+        "markdown": "towards the earth & lick up the dust of thy feet & ~~thee~~ [thou] shalt know that I am the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/39"
       },
       {
@@ -746,7 +745,7 @@
         "page": 39,
         "line": 24,
         "text": "shall be delivered for I will contend with him that contendeth wi",
-        "markdown": "shall be delivered ~~beca~~ for I will contend with him that contendeth",
+        "markdown": "shall be delivered ~~beca~~ for I will contend with him that contendeth wi",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/39"
       },
       {

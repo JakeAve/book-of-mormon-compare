@@ -51,7 +51,7 @@
         "page": 298,
         "line": 14,
         "text": "& upon the top of those ri",
-        "markdown": "& upon the top of ~~these~~ those",
+        "markdown": "& upon the top of ~~these~~ those ri",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/298"
       },
       {
@@ -353,7 +353,7 @@
         "page": 299,
         "line": 7,
         "text": "even all the land which was northward of the land Bountiful according to their pleasure",
-        "markdown": "even all the land which was ~~Not~~ [northward] of the land Bountiful according to their",
+        "markdown": "even all the land which was ~~Not~~ [northward] of the land Bountiful according to their pleasure",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/299"
       }
     ]
@@ -663,7 +663,7 @@
         "page": 299,
         "line": 32,
         "text": "were delivered at all times whilst thousands of their wicked brethren have been con",
-        "markdown": "were delivered at all times whilst ~~others~~ [thousands] of their wicked brethren have been",
+        "markdown": "were delivered at all times whilst ~~others~~ [thousands] of their wicked brethren have been con",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/299"
       },
       {
@@ -798,7 +798,7 @@
         "page": 300,
         "line": 5,
         "text": "the land of Morianton did claim a part of the land of Lehi therefore there began",
-        "markdown": "the land of Morianton did claim a part of the land of Lehi therefore ~~they~~ there",
+        "markdown": "the land of Morianton did claim a part of the land of Lehi therefore ~~they~~ there began",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/300"
       },
       {
@@ -806,7 +806,7 @@
         "page": 300,
         "line": 6,
         "text": "to be a warm contention between them insomuch that the people of Morianton took",
-        "markdown": "to be a warm contention ~~among~~ [between] them insomuch that the people of Morianton",
+        "markdown": "to be a warm contention ~~among~~ [between] them insomuch that the people of Morianton took",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/300"
       },
       {
@@ -996,7 +996,7 @@
         "page": 300,
         "line": 22,
         "text": "Morianton & unite with his people & thus he would obtain possession of those parts",
-        "markdown": "Morianton & unite~~s~~ with his people & thus he would obtain possession~~s~~ of ~~that~~ [those]",
+        "markdown": "Morianton & unite~~s~~ with his people & thus he would obtain possession~~s~~ of ~~that~~ [those] parts",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/300"
       },
       {
@@ -1242,7 +1242,7 @@
         "page": 301,
         "line": 10,
         "text": "appointed Chief Judge & Governor over the people with an oath & sacred ordinance to Ju",
-        "markdown": "appointed Chief Judge & Governor over the people with an oath & ~~sacred~~ [sacred] ordinance to",
+        "markdown": "appointed Chief Judge & Governor over the people with an oath & ~~sacred~~ [sacred] ordinance to Ju",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/301"
       },
       {
@@ -1299,6 +1299,7 @@
         "page": 301,
         "line": 16,
         "text": "Chapter XXIII——",
+        "markdown": "Chapter XXIII—— And now it came to pass in the twenty & fifth",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/301"
       },
       {
@@ -1306,7 +1307,7 @@
         "page": 301,
         "line": 16,
         "text": "And now it came to pass in the twenty & fifth",
-        "markdown": "Chapter XXIII—— And now it came to pass in the twenty",
+        "markdown": "Chapter XXIII—— And now it came to pass in the twenty & fifth",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/301"
       }
     ]

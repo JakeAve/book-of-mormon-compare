@@ -9,6 +9,7 @@
         "page": 117,
         "line": 11,
         "text": "The Book of Omni Chapter first——",
+        "markdown": "The Book of Omni Chapter first—— Behold it came to pass that I Om",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/117"
       },
       {
@@ -16,7 +17,7 @@
         "page": 117,
         "line": 11,
         "text": "Behold it came to pass that I Om",
-        "markdown": "The Book of Omni Chapter first—— Behold it",
+        "markdown": "The Book of Omni Chapter first—— Behold it came to pass that I Om",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/117"
       }
     ]
@@ -474,7 +475,7 @@
         "page": 118,
         "line": 12,
         "text": "discovered a People which was called the People of Zarahemla now there was",
-        "markdown": "discovered a People which was called ~~a~~ the People of Zarahemla now there",
+        "markdown": "discovered a People which was called ~~a~~ the People of Zarahemla now there was",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/118"
       },
       {
@@ -727,7 +728,7 @@
         "page": 118,
         "line": 32,
         "text": "it also spake a few words concern",
-        "markdown": "it ~~as~~ [also] spake a few words",
+        "markdown": "it ~~as~~ [also] spake a few words concern",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/118"
       },
       {
@@ -861,7 +862,7 @@
         "page": 119,
         "line": 8,
         "text": "things which is good for there is nothing which is good save it comes from the Lord",
-        "markdown": "things which is good for there is nothing which is good save it comes from ~~God~~ the",
+        "markdown": "things which is good for there is nothing which is good save it comes from ~~God~~ the Lord",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/119"
       },
       {

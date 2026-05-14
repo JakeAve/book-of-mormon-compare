@@ -9,7 +9,7 @@
         "page": 70,
         "line": 8,
         "text": "And now I Jacob speak unto you",
-        "markdown": "Chapter []—— And now I Jacob speak",
+        "markdown": "Chapter []—— And now I Jacob speak unto you",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/70"
       },
       {
@@ -467,7 +467,7 @@
         "page": 71,
         "line": 6,
         "text": "t for me are against me saith Our God",
-        "markdown": "t for me are against me saith ~~our~~ [Our]",
+        "markdown": "t for me are against me saith ~~our~~ [Our] God",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/71"
       }
     ]
@@ -482,7 +482,6 @@
         "page": 71,
         "line": 6,
         "text": "for I will fulfil my promises which I have",
-        "markdown": "God for I will fulfil my promises which I",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/71"
       },
       {
@@ -567,7 +566,7 @@
         "page": 71,
         "line": 14,
         "text": "ve all other lands wherefore I will have all men that dwell thereon that they",
-        "markdown": "ve ~~oll~~ [all] other lands wherefore I will have all men that dwell thereon that",
+        "markdown": "ve ~~oll~~ [all] other lands wherefore I will have all men that dwell thereon that they",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/71"
       },
       {
@@ -681,7 +680,7 @@
         "page": 71,
         "line": 24,
         "text": "d the Lord remembereth all they which have been broken off wherefore he remembereth us",
-        "markdown": "d the Lord remembereth all they which ~~are~~ [have been] broken off wherefore he remembereth",
+        "markdown": "d the Lord remembereth all they which ~~are~~ [have been] broken off wherefore he remembereth us",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/71"
       },
       {

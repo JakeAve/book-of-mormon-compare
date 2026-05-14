@@ -156,7 +156,7 @@
         "page": 375,
         "line": 29,
         "text": "breathing out threatnings against their brethren were condemned & punished according",
-        "markdown": "breathing out threatnings against their brethren were ~~pun~~ condemned & punished",
+        "markdown": "breathing out threatnings against their brethren were ~~pun~~ condemned & punished according",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/375"
       },
       {
@@ -269,7 +269,7 @@
         "page": 375,
         "line": 38,
         "text": "a true account was given by Nephi",
-        "markdown": "a true account ~~is~~ [was] given by",
+        "markdown": "a true account ~~is~~ [was] given by Nephi",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/375"
       }
     ]
@@ -284,7 +284,6 @@
         "page": 375,
         "line": 38,
         "text": "therefore I have made my record of these things according",
-        "markdown": "Nephi therefore I have made my record of these things",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/375"
       },
       {
@@ -369,7 +368,7 @@
         "page": 376,
         "line": 4,
         "text": "behold I am a Desiple",
-        "markdown": "~~yea~~ [behold] I am a",
+        "markdown": "~~yea~~ [behold] I am a Desiple",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/376"
       },
       {
@@ -566,7 +565,7 @@
         "page": 376,
         "line": 18,
         "text": "brought out of that land & that he hath given me & my people so much knowledge unto the",
-        "markdown": "brought out of that land & ~~thus~~ [that] he hath given me & my people so much knowledge unto",
+        "markdown": "brought out of that land & ~~thus~~ [that] he hath given me & my people so much knowledge unto the",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/376"
       },
       {
@@ -749,7 +748,7 @@
         "page": 376,
         "line": 31,
         "text": "And now it came to pa",
-        "markdown": "Chapter []—— And now it came",
+        "markdown": "Chapter []—— And now it came to pa",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/376"
       }
     ]

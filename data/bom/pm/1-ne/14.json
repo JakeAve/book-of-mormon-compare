@@ -493,6 +493,7 @@
         "page": 28,
         "line": 16,
         "text": "& it came to pass that I",
+        "markdown": "& it came to pass that I ~~behed~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/28"
       },
       {
@@ -535,7 +536,7 @@
         "page": 28,
         "line": 20,
         "text": "I Nephi beheld the power of the Lamb of God that it decended upon the",
-        "markdown": "I Nephi beheld the power of the Lamb of ~~the~~ God that it decended upon",
+        "markdown": "I Nephi beheld the power of the Lamb of ~~the~~ God that it decended upon the",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/28"
       },
       {
@@ -712,7 +713,7 @@
         "page": 28,
         "line": 35,
         "text": "& I looked & beheld a man & he was dress",
-        "markdown": "& I looked & beheld a man & he was ~~dressed~~",
+        "markdown": "& I looked & beheld a man & he was ~~dressed~~ dress",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/28"
       },
       {
@@ -853,7 +854,7 @@
         "page": 29,
         "line": 8,
         "text": "stle of the Lamb shall write are many things which thou hast seen & behold the remainder shalt thou see",
-        "markdown": "stle of the Lamb shall write are many things which thou hast seen & ~~behold th~~ behold the remainder shalt",
+        "markdown": "stle of the Lamb shall write are many things which thou hast seen & ~~behold th~~ behold the remainder shalt thou see",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/29"
       }
     ]
@@ -868,7 +869,6 @@
         "page": 29,
         "line": 8,
         "text": "but the things which thou",
-        "markdown": "thou see but the things",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/29"
       },
       {
@@ -1038,7 +1038,7 @@
         "page": 29,
         "line": 22,
         "text": "the things which I saw are not written the things which I have written",
-        "markdown": "the things which I saw are not ~~true~~ written the things which I have",
+        "markdown": "the things which I saw are not ~~true~~ written the things which I have written",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/29"
       },
       {

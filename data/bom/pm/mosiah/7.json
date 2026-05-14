@@ -9,7 +9,7 @@
         "page": 132,
         "line": 11,
         "text": "And now it came to pass that",
-        "markdown": "Chapter []—— And now it came to",
+        "markdown": "Chapter []—— And now it came to pass that",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/132"
       },
       {
@@ -38,7 +38,7 @@
         "page": 132,
         "line": 15,
         "text": "the time they left the land of Zarahemla therefore they wearied him with their",
-        "markdown": "the time they left the land of Zarahemla therefore they [wearied] ~~wearyied~~ him with",
+        "markdown": "the time they left the land of Zarahemla therefore they [wearied] ~~wearyied~~ him with their",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/132"
       },
       {
@@ -487,7 +487,7 @@
         "page": 133,
         "line": 13,
         "text": "Brethren but caused that they should go to the hill which was North of Shilom & br",
-        "markdown": "Brethren but caused that they should go to the hill which was North of ~~the~~ Shilom &",
+        "markdown": "Brethren but caused that they should go to the hill which was North of ~~the~~ Shilom & br",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/133"
       },
       {
@@ -580,7 +580,7 @@
         "page": 133,
         "line": 22,
         "text": "struglings which have been in vain yet I trust there remaineth an effectual strugg",
-        "markdown": "~~struggl~~ [struglings] which have been in vain yet I trust there remaineth an effectual",
+        "markdown": "~~struggl~~ [struglings] which have been in vain yet I trust there remaineth an effectual strugg",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/133"
       },
       {
@@ -798,6 +798,7 @@
         "page": 134,
         "line": 4,
         "text": "hold how mang of our Brethren have been slain & their blood hath been spilt in vain &",
+        "markdown": "hold how mang of our Brethren have been slain & their blood hath been spilt in vain & ~~all~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/134"
       },
       {
@@ -1071,7 +1072,7 @@
         "page": 134,
         "line": 25,
         "text": "according to his own will & pleasure deliver you out of bondage",
-        "markdown": "according to his own ~~word~~ [will] & pleasure deliver you out of",
+        "markdown": "according to his own ~~word~~ [will] & pleasure deliver you out of bondage",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/134"
       }
     ]

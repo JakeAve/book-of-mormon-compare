@@ -73,7 +73,7 @@
         "page": 181,
         "line": 27,
         "text": "God sent upon them because of their wickedness & their Abominations",
-        "markdown": "~~of~~ God sent upon them because of their wickedness & their",
+        "markdown": "~~of~~ God sent upon them because of their wickedness & their Abominations",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/181"
       },
       {
@@ -165,7 +165,7 @@
         "page": 181,
         "line": 36,
         "text": "was Continual Peace in all that time.",
-        "markdown": "was Continual Peace in all ~~the land~~",
+        "markdown": "was Continual Peace in all ~~the land~~ [that] time.",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/181"
       }
     ]
@@ -180,7 +180,6 @@
         "page": 181,
         "line": 36,
         "text": "And it came to pass in the Eighth",
-        "markdown": "[that] time. And it came to pass in",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/181"
       },
       {
@@ -616,7 +615,7 @@
         "page": 183,
         "line": 3,
         "text": "mans name was Nephiah & he was appointed Chief Judge & he sat in the",
-        "markdown": "mans name was Nephiah & he was appointed Chief Judge & he sat ~~upon~~ in",
+        "markdown": "mans name was Nephiah & he was appointed Chief Judge & he sat ~~upon~~ in the",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/183"
       },
       {
@@ -722,7 +721,7 @@
         "page": 183,
         "line": 12,
         "text": "And thus in the commencement",
-        "markdown": "And thus in the ~~ninth◊~~",
+        "markdown": "And thus in the ~~ninth◊~~ commencement",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/183"
       },
       {

@@ -136,7 +136,7 @@
         "page": 20,
         "line": 8,
         "text": "spake these words the spirit cried with a loud voice saying Hosanna to the",
-        "markdown": "~~spoken~~ [spake] these words the spirit cried with a loud voice saying Hosanna to",
+        "markdown": "~~spoken~~ [spake] these words the spirit cried with a loud voice saying Hosanna to the",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/20"
       },
       {
@@ -172,7 +172,7 @@
         "page": 20,
         "line": 12,
         "text": "& behold this thing shall be given unto thee for a sign that after thou",
-        "markdown": "~~& behold~~ & behold this thing shall be given unto thee for a sign that",
+        "markdown": "~~& behold~~ & behold this thing shall be given unto thee for a sign that after thou",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/20"
       },
       {
@@ -307,7 +307,7 @@
         "page": 20,
         "line": 25,
         "text": "as a man speaketh with another",
-        "markdown": "as a man speaketh ~~unto~~ [with]",
+        "markdown": "as a man speaketh ~~unto~~ [with] another",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/20"
       }
     ]
@@ -322,7 +322,6 @@
         "page": 20,
         "line": 25,
         "text": "& it came to pass that he said unto me look &",
-        "markdown": "another & it came to pass that he said unto me look",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/20"
       },
       {
@@ -505,7 +504,7 @@
         "page": 20,
         "line": 37,
         "text": "ed away in the spirit & after she had been Carried away in the",
-        "markdown": "ed away in the spirit & after ~~that~~ she had been Carried away in",
+        "markdown": "ed away in the spirit & after ~~that~~ she had been Carried away in the ~~spir~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/20"
       },
       {
@@ -555,7 +554,7 @@
         "page": 21,
         "line": 3,
         "text": "el said unto me behold the Lamb of God yea even the eternal Father",
-        "markdown": "el said unto me behold the Lamb of God yea even the eternal ~~God~~",
+        "markdown": "el said unto me behold the Lamb of God yea even the eternal ~~God~~ Father",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/21"
       },
       {
@@ -640,7 +639,7 @@
         "page": 21,
         "line": 9,
         "text": "among the Children of men & I saw many fall down at his feet & worship",
-        "markdown": "among the Children of men ~~&~~ [&] I saw many fall down at his feet &",
+        "markdown": "among the Children of men ~~&~~ [&] I saw many fall down at his feet & worship",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/21"
       },
       {

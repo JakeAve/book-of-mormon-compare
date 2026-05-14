@@ -9,7 +9,7 @@
         "page": 356,
         "line": 1,
         "text": "And now it came to pass in the seventy",
-        "markdown": "Chapter—— []—— And now it came to pass in",
+        "markdown": "Chapter—— []—— And now it came to pass in the seventy",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/356"
       },
       {
@@ -53,7 +53,7 @@
         "page": 356,
         "line": 5,
         "text": "& this war did last all that year & in the seventy & third year it did also last",
-        "markdown": "& ~~thus~~ this war did last all that year & in the seventy & third year it did also",
+        "markdown": "& ~~thus~~ this war did last all that year & in the seventy & third year it did also last",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/356"
       }
     ]
@@ -68,7 +68,6 @@
         "page": 356,
         "line": 5,
         "text": "& it came",
-        "markdown": "last & it",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/356"
       },
       {
@@ -504,7 +503,7 @@
         "page": 357,
         "line": 2,
         "text": "the Lord did turn away his anger from the people & caused that rain should fall",
-        "markdown": "the Lord did turn away his anger from the people & caused that ~~reign~~ [rain] should",
+        "markdown": "the Lord did turn away his anger from the people & caused that ~~reign~~ [rain] should fall",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/357"
       },
       {
@@ -519,7 +518,7 @@
         "page": 357,
         "line": 4,
         "text": "it & it came to pass that it did bring forth her grain in the season of her grain",
-        "markdown": "it & it came to pass that it did bring forth her grain ~~& it~~ [in the] season of",
+        "markdown": "it & it came to pass that it did bring forth her grain ~~& it~~ [in the] season of her grain",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/357"
       }
     ]
@@ -534,7 +533,6 @@
         "page": 357,
         "line": 4,
         "text": "& behold",
-        "markdown": "her grain",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/357"
       },
       {
@@ -711,7 +709,7 @@
         "page": 357,
         "line": 19,
         "text": "enty & ninth year there began to be much strife but it came to pass that Nephi",
-        "markdown": "enty & ninth year there began to be much strife but it came to pass ~~the~~ that",
+        "markdown": "enty & ninth year there began to be much strife but it came to pass ~~the~~ that Nephi",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/357"
       },
       {
@@ -755,7 +753,7 @@
         "page": 357,
         "line": 23,
         "text": "pass that in the eightieth year of the reign of the Judges over the",
-        "markdown": "pass that in the ~~eighteeth y~~ eightieth year of the reign of the Judges",
+        "markdown": "pass that in the ~~eighteeth y~~ eightieth year of the reign of the Judges over the",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/357"
       },
       {
@@ -946,6 +944,7 @@
         "page": 358,
         "line": 1,
         "text": "year they were driven back even into their own lands & thus ended the eightieth",
+        "markdown": "year they were driven back even into their own lands & thus ended the eightieth ~~yea~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/358"
       },
       {
@@ -1079,7 +1078,7 @@
         "page": 358,
         "line": 12,
         "text": "now this great evil which come unto the people because of their iniquity did",
-        "markdown": "~~&~~ now this great evil which come unto the people because of their iniquity",
+        "markdown": "~~&~~ now this great evil which come unto the people because of their iniquity did",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/358"
       },
       {

@@ -65,7 +65,7 @@
         "page": 74,
         "line": 20,
         "text": "& it shall come to pass them that are left in Zion & remaineth in Jeru",
-        "markdown": "& it shall come to pass them that are left in Zion & ~~remam~~ [remaineth] in",
+        "markdown": "& it shall come to pass them that are left in Zion & ~~remam~~ [remaineth] in Jeru",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/74"
       },
       {
@@ -129,7 +129,7 @@
         "page": 74,
         "line": 25,
         "text": "Zion & upon her assemblies a cloud & smoke by day & the shineing of a flameing",
-        "markdown": "Zion & upon her assemblies a cloud ~~of~~ [&] smoke by day & the shineing of a",
+        "markdown": "Zion & upon her assemblies a cloud ~~of~~ [&] smoke by day & the shineing of a flameing",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/74"
       },
       {

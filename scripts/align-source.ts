@@ -59,6 +59,41 @@ function parseArgs(argv: string[]): Args {
   return args;
 }
 
+/** Build a mapping from text word index to markdown word index.
+ * Deleted markdown words (~~x~~ or multi-word ~~x y~~) have no text equivalent
+ * and are assigned to the group of the text word that follows them. This lets
+ * segment slicing use text-based tokenStart/tokenEnd while correctly including
+ * any deleted words that precede each canonical word. */
+function buildTextToMdMapping(
+  textWords: string[],
+  mdWords: string[],
+): number[] {
+  const mapping = new Array(textWords.length + 1).fill(mdWords.length);
+  let mdIdx = 0;
+  let inDeleted = false;
+  for (let ti = 0; ti <= textWords.length; ti++) {
+    mapping[ti] = mdIdx;
+    if (ti < textWords.length) {
+      // Advance past deleted markdown words before this text word
+      while (mdIdx < mdWords.length) {
+        const w = mdWords[mdIdx];
+        if (inDeleted) {
+          mdIdx++;
+          if (w.endsWith("~~")) inDeleted = false;
+        } else if (w.startsWith("~~")) {
+          // Single-word deletion (~~x~~) or start of multi-word deletion
+          inDeleted = !(w.endsWith("~~") && w.length > 4);
+          mdIdx++;
+        } else {
+          break;
+        }
+      }
+      if (mdIdx < mdWords.length) mdIdx++; // advance past canonical word
+    }
+  }
+  return mapping;
+}
+
 async function run(cfg: SourceConfig, opts: { preview: number; dry: boolean }) {
   console.log(`Aligning ${cfg.label} (${cfg.raw} → ${cfg.out})`);
   const fragments = await loadOM(cfg.raw);
@@ -83,10 +118,19 @@ async function run(cfg: SourceConfig, opts: { preview: number; dry: boolean }) {
     const words = frag.text.split(/\s+/).filter((w) => w.length > 0);
     const mdRaw = meta.markdown as string | undefined;
     const mdWords = mdRaw?.split(/\s+/).filter((w) => w.length > 0);
+    const textToMd = mdWords ? buildTextToMdMapping(words, mdWords) : null;
     for (const seg of a.segments) {
       const slice = words.slice(seg.tokenStart, seg.tokenEnd).join(" ");
       if (!slice) continue;
-      const mdSlice = mdWords?.slice(seg.tokenStart, seg.tokenEnd).join(" ");
+      let mdSlice: string | undefined;
+      if (mdWords && textToMd) {
+        const mdStart = textToMd[seg.tokenStart] ?? 0;
+        const mdEnd = seg.tokenEnd >= words.length
+          ? mdWords.length
+          : (textToMd[seg.tokenEnd] ?? mdWords.length);
+        const raw = mdWords.slice(mdStart, mdEnd).join(" ");
+        if (raw) mdSlice = raw;
+      }
       const k = verseKey(seg.verse.book, seg.verse.chapter, seg.verse.verse);
       let v = byKey.get(k);
       if (!v) {

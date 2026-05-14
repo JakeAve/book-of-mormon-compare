@@ -227,7 +227,7 @@
         "page": 279,
         "line": 16,
         "text": "ites & this he don◊ that he might usurp great power over them & also that he might",
-        "markdown": "ites & this he don◊ that he might ~~usep~~ [usurp] great power over them & also that he",
+        "markdown": "ites & this he don◊ that he might ~~usep~~ [usurp] great power over them & also that he might",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/279"
       },
       {
@@ -721,7 +721,7 @@
         "page": 280,
         "line": 20,
         "text": "but it came to pass as soon as they had departed into the wilderness Moroni sent",
-        "markdown": "but it came to pass as soon as they had departed into the wilderness Moroni ~~sent~~",
+        "markdown": "but it came to pass as soon as they had departed into the wilderness Moroni ~~sent~~ [sent]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/280"
       },
       {
@@ -834,7 +834,7 @@
         "page": 280,
         "line": 31,
         "text": "that all the people in that quarter of the land should gather themselves <​together ​> to battle",
-        "markdown": "that all the people in that quarter of the land should gather themselves <​together ~~to battle~~​> to",
+        "markdown": "that all the people in that quarter of the land should gather themselves <​together ~~to battle~~​> to battle aga",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/280"
       },
       {
@@ -926,7 +926,7 @@
         "page": 281,
         "line": 2,
         "text": "that it was their intention to destroy their brethren or to subject them & bring them into bo",
-        "markdown": "that it was their ~~intent~~ [intention] to destroy their brethren or to subject them & bring them into",
+        "markdown": "that it was their ~~intent~~ [intention] to destroy their brethren or to subject them & bring them into bo",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/281"
       },
       {
@@ -1074,6 +1074,7 @@
         "page": 281,
         "line": 12,
         "text": "to pass that as the Lamanites",
+        "markdown": "to pass that as the Lamanites ~~had~~ ~~<​had​>~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/281"
       },
       {
@@ -1158,7 +1159,7 @@
         "page": 281,
         "line": 20,
         "text": "heavy blows of the Nephites with their swords & their simeters which brought death",
-        "markdown": "heavy blows of the ~~Lamanites~~ [Nephites] with their swords & their simeters which brought",
+        "markdown": "heavy blows of the ~~Lamanites~~ [Nephites] with their swords & their simeters which brought death",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/281"
       },
       {
@@ -1180,7 +1181,7 @@
         "page": 281,
         "line": 21,
         "text": "while on the other hand there was now & then a man fell among",
-        "markdown": "while on the other hand there was now & then a man ~~of~~ fell",
+        "markdown": "while on the other hand there was now & then a man ~~of~~ fell among",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/281"
       },
       {
@@ -1295,7 +1296,7 @@
         "page": 281,
         "line": 32,
         "text": "& to slay them & it came to",
-        "markdown": "& to slay ~~they~~ them & it came",
+        "markdown": "& to slay ~~they~~ them & it came to",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/281"
       }
     ]
@@ -1310,7 +1311,7 @@
         "page": 281,
         "line": 32,
         "text": "pass that the Lamanites did flee again before them towards",
-        "markdown": "to pass that the Lamanites did flee again before them",
+        "markdown": "pass that the Lamanites did flee again before them toward[s]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/281"
       },
       {
@@ -1502,7 +1503,7 @@
         "page": 282,
         "line": 12,
         "text": "this cause were the Nephites contending with the Lamanites to defend themselves & their",
-        "markdown": "this cause ~~was~~ [were] the Nephites contending with the Lamanites to defend themselves &",
+        "markdown": "this cause ~~was~~ [were] the Nephites contending with the Lamanites to defend themselves & their",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/282"
       },
       {
@@ -1510,7 +1511,7 @@
         "page": 282,
         "line": 13,
         "text": "families & their lands their country & their rights & their religion",
-        "markdown": "families & their lands their country & their ~~rites~~ rights & their",
+        "markdown": "families & their lands their country & their ~~rites~~ rights & their religion",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/282"
       }
     ]
@@ -1525,7 +1526,6 @@
         "page": 282,
         "line": 13,
         "text": "& it came to pass that",
-        "markdown": "religion & it came to pass",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/282"
       },
       {
@@ -1660,7 +1660,7 @@
         "page": 282,
         "line": 24,
         "text": "therefore the armies of Moroni enserceled them about yea even",
-        "markdown": "therefore the armies of Moroni enserceled them about yea ~~even~~",
+        "markdown": "therefore the armies of Moroni enserceled them about yea ~~even~~ [even]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/282"
       },
       {

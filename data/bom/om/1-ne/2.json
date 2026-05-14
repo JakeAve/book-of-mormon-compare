@@ -229,7 +229,7 @@
         "page": 1,
         "line": 18,
         "text": "that thou mightest be like unto this River continually runn",
-        "markdown": "that thou ~~migh~~ mightest be like unto this River continually",
+        "markdown": "that thou ~~migh~~ mightest be like unto this River continually ~~ru~~ runn",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/1"
       },
       {
@@ -584,7 +584,7 @@
         "page": 1,
         "line": 47,
         "text": "in as much as ye shall keep my commandments ye shall prosper & sh",
-        "markdown": "in as much as ye shall keep my commandments ye shall prosper ~~in~~ &",
+        "markdown": "in as much as ye shall keep my commandments ye shall prosper ~~in~~ & sh",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/1"
       },
       {
@@ -670,6 +670,7 @@
         "page": 1,
         "line": 54,
         "text": "re curse & they shall have no power over thy seed except they shall",
+        "markdown": "re curse & they shall have no power over thy seed except they shall ~~re~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/1"
       },
       {

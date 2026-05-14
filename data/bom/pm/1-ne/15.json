@@ -149,6 +149,7 @@
         "page": 29,
         "line": 36,
         "text": "fall",
+        "markdown": "fall ~~fall~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/29"
       }
     ]
@@ -191,7 +192,7 @@
         "page": 30,
         "line": 3,
         "text": "said behold we cannot understand the words which our father hath spoken",
-        "markdown": "said behold we cannot understand the words ~~of~~ [which] our father hath",
+        "markdown": "said behold we cannot understand the words ~~of~~ [which] our father hath spoken",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/30"
       },
       {
@@ -333,7 +334,7 @@
         "page": 30,
         "line": 14,
         "text": "Lord which was in our fathers & behold are we not broken off from the",
-        "markdown": "Lord which was in our fathers & behold ~~&~~ are we not broken off from",
+        "markdown": "Lord which was in our fathers & behold ~~&~~ are we not broken off from the",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/30"
       },
       {
@@ -518,7 +519,7 @@
         "page": 30,
         "line": 33,
         "text": "House of Israel they shall be grafted in being a natural branch",
-        "markdown": "House of Israel they shall be ~~gathered~~ grafted in being a natural",
+        "markdown": "House of Israel they shall be ~~gathered~~ grafted in being a natural branch",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/30"
       },
       {
@@ -568,7 +569,7 @@
         "page": 31,
         "line": 1,
         "text": "for the verry cause that he shall be rejected of the Jews or of the House of",
-        "markdown": "for the verry ~~reason~~ [cause] that he shall be rejected of the Jews or of the House",
+        "markdown": "for the verry ~~reason~~ [cause] that he shall be rejected of the Jews or of the House of",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/31"
       },
       {
@@ -639,7 +640,7 @@
         "page": 31,
         "line": 7,
         "text": "cerning the restoration of the Jews in the latter days",
-        "markdown": "cerning the ~~restoreng~~ [restoration] of the Jews in the latter",
+        "markdown": "cerning the ~~restoreng~~ [restoration] of the Jews in the latter days",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/31"
       }
     ]
@@ -654,7 +655,6 @@
         "page": 31,
         "line": 7,
         "text": "& I did rehears unto",
-        "markdown": "days & I did rehears",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/31"
       },
       {
@@ -711,7 +711,7 @@
         "page": 31,
         "line": 13,
         "text": "did speak unto me again saying what meaneth the thing which our father",
-        "markdown": "did speak unto me again saying what meaneth the thing which ~~of~~ our",
+        "markdown": "did speak unto me again saying what meaneth the thing which ~~of~~ our father",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/31"
       },
       {

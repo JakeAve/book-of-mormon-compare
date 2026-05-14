@@ -99,7 +99,7 @@
         "page": 48,
         "line": 5,
         "text": "th shewn me that they which were at Jerusalem from whence we came have beenslain & carried away captive",
-        "markdown": "{{th s}}hewn me that they which ~~are~~ [were] at Jerusalem from whence we came hav{{e beenslain}} & carried away",
+        "markdown": "{{th s}}hewn me that they which ~~are~~ [were] at Jerusalem from whence we came hav{{e beenslain}} & carried away captive",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/48"
       }
     ]
@@ -114,7 +114,7 @@
         "page": 48,
         "line": 5,
         "text": "nevertheless the Lord hath shewn unto me thatthey should return again & he also hath shewn unto me that the Lord God the holy one of Israel should manifest himself unto them in the flesh & afterthat he should manifest himself they should scorge him & crucify him according",
-        "markdown": "captive nevertheless the Lord hath shewn unto me tha{{tthey s}}hould return ag{{ain}} & he also hath shewn unto me that the Lord God the h{{oly on}}e of Israel shou{{ld manifest himself un}}to them in the flesh & aft{{erthat he}} sh{{ou}}ld manifest hi{{mself they should sco}}rge him & crucify him",
+        "markdown": "nevertheless the Lord hath shewn unto me tha{{tthey s}}hould return ag{{ain}} & he also hath shewn unto me that the Lord God the h{{oly on}}e of Israel shou{{ld manifest himself un}}to them in the flesh & aft{{erthat he}} sh{{ou}}ld manifest hi{{mself they should sco}}rge him & crucify him according",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/48"
       },
       {

@@ -170,7 +170,7 @@
         "page": 54,
         "line": 5,
         "text": "from that which is good & become miserable forever",
-        "markdown": "from that which is good & ~~because~~ [become] miserable",
+        "markdown": "from that which is good & ~~because~~ [become] miserable forever",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/54"
       }
     ]
@@ -185,7 +185,6 @@
         "page": 54,
         "line": 5,
         "text": "wherefore redemp",
-        "markdown": "forever wherefore",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/54"
       },
       {
@@ -390,7 +389,7 @@
         "page": 54,
         "line": 25,
         "text": "miseary neither good nor bad wherefore all things must needs be a compound in one wherefore if it should be one body it must needs remain as dead",
-        "markdown": "miseary neither good nor bad wherefore all things must needs be [a compound] ~~accomplished~~ [in] one wherefore if it should be one body it must needs remain as",
+        "markdown": "miseary neither good nor bad wherefore all things must needs be [a compound] ~~accomplished~~ [in] one wherefore if it should be one body it must needs remain as dead",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/54"
       },
       {
@@ -664,7 +663,7 @@
         "page": 55,
         "line": 14,
         "text": "he sought also the miseary of all mankind wherefore he sayeth unto eve yea even that",
-        "markdown": "~~&~~ he sought also the miseary of all mankind wherefore he sayeth unto eve yea even",
+        "markdown": "~~&~~ he sought also the miseary of all mankind wherefore he sayeth unto eve yea even that",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/55"
       },
       {
@@ -918,7 +917,7 @@
         "page": 55,
         "line": 34,
         "text": "ve become free forever knowing good from evil to act for themselves & not to be",
-        "markdown": "ve become ~~frao~~ [free] forever knowing good from evil to act for themselves & not to",
+        "markdown": "ve become ~~frao~~ [free] forever knowing good from evil to act for themselves & not to be",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/55"
       },
       {

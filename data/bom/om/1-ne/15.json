@@ -23,7 +23,7 @@
         "page": 23,
         "line": 1,
         "text": "for I considered that mine afflictions were great above all because",
-        "markdown": "[for] I considered that mine afflictions ~~was~~ [were] great above {{all",
+        "markdown": "[for] I considered that mine afflictions ~~was~~ [were] great above {{all because}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/23"
       },
       {
@@ -205,7 +205,7 @@
         "page": 23,
         "line": 14,
         "text": "believeing that ye shall receive with dilligence in",
-        "markdown": "believeing that ye shall ~~believe~~ [receive] ~~their~~ [with]",
+        "markdown": "believeing that ye shall ~~believe~~ [receive] ~~their~~ [with] dilligence in",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/23"
       },
       {
@@ -900,7 +900,7 @@
         "page": 25,
         "line": 6,
         "text": "his mind swallowed up in other things that he beheld not",
-        "markdown": "his mind swallowed up in other things that he ~~behold~~ [beheld]",
+        "markdown": "his mind swallowed up in other things that he ~~behold~~ [beheld] n{{ot}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/25"
       },
       {
@@ -988,7 +988,7 @@
         "page": 25,
         "line": 13,
         "text": "Justices of god did also divide the wicked from the",
-        "markdown": "Justices of god ~~als~~ [did] also divide the wicked from",
+        "markdown": "Justices of god ~~als~~ [did] also divide the wicked from the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/25"
       },
       {
@@ -1192,7 +1192,7 @@
         "page": 25,
         "line": 34,
         "text": "ng enter into the kingdom of god wherefore there must",
-        "markdown": "ng enter into the kingdom of god wherefore [there] ~~it~~",
+        "markdown": "ng enter into the kingdom of god wherefore [there] ~~it~~ must",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/25"
       },
       {

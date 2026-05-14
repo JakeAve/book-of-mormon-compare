@@ -367,7 +367,7 @@
         "page": 359,
         "line": 6,
         "text": "yea & if he saieth unto the",
-        "markdown": "yea & if he ~~say~~ saieth unto",
+        "markdown": "yea & if he ~~say~~ saieth unto the",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/359"
       },
       {
@@ -669,7 +669,7 @@
         "page": 359,
         "line": 26,
         "text": "& I would that all men might be saved but",
-        "markdown": "& I would that all men might be saved ~~for~~",
+        "markdown": "& I would that all men might be saved ~~for~~ [but]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/359"
       },
       {
@@ -705,7 +705,7 @@
         "page": 359,
         "line": 29,
         "text": "to a state of endless miseary fulfilling the words which saieth they that have done",
-        "markdown": "to a state of endless miseary fulfilling the words which ~~say~~ [saieth] they that have",
+        "markdown": "to a state of endless miseary fulfilling the words which ~~say~~ [saieth] they that have done",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/359"
       },
       {

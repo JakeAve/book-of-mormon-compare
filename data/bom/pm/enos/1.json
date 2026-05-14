@@ -262,7 +262,7 @@
         "page": 114,
         "line": 28,
         "text": "& while I was thus struggleing in the spirit behold the voice of the Lord ca",
-        "markdown": "& while I was ~~this~~ thus struggleing in the spirit behold the voice of the Lord",
+        "markdown": "& while I was ~~this~~ thus struggleing in the spirit behold the voice of the Lord ca",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/114"
       },
       {
@@ -453,7 +453,7 @@
         "page": 115,
         "line": 7,
         "text": "erve our records I cried unto him continually for he had said unto me whatsoever thing",
-        "markdown": "erve our records I cried unto him continually for he had said unto me whatsoever ~~thing~~",
+        "markdown": "erve our records I cried unto him continually for he had said unto me whatsoever ~~thing~~ [thing]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/115"
       },
       {

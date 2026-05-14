@@ -9,7 +9,7 @@
         "page": 72,
         "line": 17,
         "text": "the word that Isaiah the Son of <​ Amoz​> saw concerning",
-        "markdown": "the word that Isaiah the Son of ~~Amoz~~ <​~~Amoz~~ Amoz​> saw",
+        "markdown": "the word that Isaiah the Son of ~~Amoz~~ <​~~Amoz~~ Amoz​> saw concerning",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/72"
       },
       {
@@ -45,7 +45,7 @@
         "page": 72,
         "line": 20,
         "text": "ed above the hills & all Nations shall flow unto it",
-        "markdown": "ed above the ~~to~~ hills & all Nations shall flow unto",
+        "markdown": "ed above the ~~to~~ hills & all Nations shall flow unto it",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/72"
       }
     ]
@@ -60,7 +60,6 @@
         "page": 72,
         "line": 20,
         "text": "& many People shall go & say come",
-        "markdown": "it & many People shall go & say",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/72"
       },
       {

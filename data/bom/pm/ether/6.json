@@ -23,7 +23,7 @@
         "page": 440,
         "line": 6,
         "text": "For it came to pass after that the Lord had prepared the stones which the brother of",
-        "markdown": "For it came to pass ~~that~~ after [that] the Lord had prepared the stones which the brother",
+        "markdown": "For it came to pass ~~that~~ after [that] the Lord had prepared the stones which the brother of",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/440"
       },
       {
@@ -201,7 +201,7 @@
         "page": 440,
         "line": 21,
         "text": "& it came to pass that when they were buried in the deep",
-        "markdown": "~~And~~ [& it came] to pass that when they were buried in the",
+        "markdown": "~~And~~ [& it came] to pass that when they were buried in the deep",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/440"
       },
       {
@@ -209,7 +209,7 @@
         "page": 440,
         "line": 22,
         "text": "there was no water that could hurt them their vessels being tight like unto <​a dish",
-        "markdown": "there was no water that could hurt them their vessels being tight like unto ~~a dish~~",
+        "markdown": "there was no water that could hurt them their vessels being tight like unto ~~a dish~~ <​a dish",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/440"
       },
       {
@@ -324,7 +324,7 @@
         "page": 440,
         "line": 31,
         "text": "& thus they were driven forth three hundred & forty &",
-        "markdown": "& thus they were driven forth ~~upon~~ [three] hundred & forty",
+        "markdown": "& thus they were driven forth ~~upon~~ [three] hundred & forty &",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/440"
       },
       {
@@ -713,7 +713,7 @@
         "page": 441,
         "line": 20,
         "text": "would not & he commanded them that they should constrain no man to be their",
-        "markdown": "would not & he commanded them that they should ~~not~~ constrain no man to be",
+        "markdown": "would not & he commanded them that they should ~~not~~ constrain no man to be their",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/441"
       },
       {
