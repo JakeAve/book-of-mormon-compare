@@ -231,8 +231,8 @@
     "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/168"
   },
   {
-    "text": "of his two thousand stripling soldiers to the support of the People [p. [338]]",
-    "markdown": "of his two ~~hu~~ thousand stripling~~s~~ soldiers to the support of the People [p. [338]]",
+    "text": "of his two thousand striplingsoldiers to the support of the People",
+    "markdown": "of his two ~~hu~~ thousand stripling~~s~~soldiers to the support of the People",
     "chapter": 168,
     "verse": 34,
     "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/168"
