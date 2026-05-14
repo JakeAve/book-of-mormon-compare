@@ -91,7 +91,7 @@ export function DiffPage({
 
   return (
     <main>
-      <div style={{ maxWidth: "56rem", margin: "0 auto", overflowX: "hidden" }}>
+      <div style={{ maxWidth: "56rem", margin: "0 auto", overflowX: "clip" }}>
         {/* Sticky header */}
         <div style={{ position: "sticky", top: 0, zIndex: 10 }}>
           {/* Title bar */}
