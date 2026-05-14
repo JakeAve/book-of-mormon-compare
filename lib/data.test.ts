@@ -53,3 +53,20 @@ Deno.test("getAdjacentChapters: unknown version returns null prev and next", asy
   assertEquals(prev, null);
   assertEquals(next, null);
 });
+
+Deno.test("loadChapter om: verse with markup lines has markdown set", async () => {
+  const verses = await loadChapter("om", "1-ne", "10", BOM_DIR);
+  const withMarkdown = verses.filter((v) => v.markdown !== undefined);
+  assertEquals(withMarkdown.length > 0, true);
+  // markdown stitches line.markdown ?? line.text
+  const v = withMarkdown[0];
+  assertEquals(typeof v.markdown, "string");
+  assertEquals(v.markdown!.length > 0, true);
+});
+
+Deno.test("loadChapter om: verse with no markup lines has undefined markdown", async () => {
+  // Load a chapter where all lines have no markdown field — markdown should be absent
+  const verses = await loadChapter("2013", "1-ne", "1", BOM_DIR);
+  const withMarkdown = verses.filter((v) => v.markdown !== undefined);
+  assertEquals(withMarkdown.length, 0);
+});

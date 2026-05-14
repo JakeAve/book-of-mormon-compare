@@ -141,6 +141,7 @@ export interface VerseLine {
   page: number;
   line: number;
   text: string;
+  markdown?: string;
   source?: string;
 }
 
@@ -182,17 +183,27 @@ interface AlignedVerse {
 
 function normalizeVerse(v: Verse | AlignedVerse): Verse {
   if ("lines" in v && v.lines) {
+    const markdown = stitchMarkdown(v.lines);
     return {
       chapter: v.chapter,
       verse: v.verse,
       text: stitchLines(v.lines),
       // For aligned sources we link to the first contributing manuscript page;
       // the full per-line provenance lives on `lines`.
+      ...(markdown !== undefined ? { markdown } : {}),
       source: v.lines[0]?.source,
       lines: v.lines,
     };
   }
   return v as Verse;
+}
+
+function stitchMarkdown(lines: VerseLine[]): string | undefined {
+  if (!lines.some((l) => l.markdown !== undefined)) return undefined;
+  return lines
+    .map((l) => (l.markdown ?? l.text).trim())
+    .filter((t) => t.length > 0)
+    .join(" ");
 }
 
 /** Join scribal line fragments into a single verse text. The OM transcript
