@@ -64,9 +64,12 @@ Deno.test("loadChapter om: verse with markup lines has markdown set", async () =
   assertEquals(v.markdown!.length > 0, true);
 });
 
-Deno.test("loadChapter om: verse with no markup lines has undefined markdown", async () => {
-  // Load a chapter where all lines have no markdown field — markdown should be absent
-  const verses = await loadChapter("2013", "1-ne", "1", BOM_DIR);
-  const withMarkdown = verses.filter((v) => v.markdown !== undefined);
-  assertEquals(withMarkdown.length, 0);
+Deno.test("loadChapter om: verse with no markdown on lines has undefined markdown", async () => {
+  // enim 1:2 has lines but no markdown field — stitchMarkdown early-return
+  // tests that normalizeVerse(aligned) returns verse unchanged
+  const verses = await loadChapter("om", "enos", "1", BOM_DIR);
+  const v2 = verses.find((v) => v.verse === 2);
+  assertEquals(v2 !== undefined, true);
+  // lines exist but none have markdown field
+  assertEquals(v2!.markdown, undefined);
 });
