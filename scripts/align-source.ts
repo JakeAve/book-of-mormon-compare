@@ -24,6 +24,7 @@ import {
   SOURCES,
   TARGET_ROOT,
 } from "./align/paths.ts";
+import { applyJoins, buildCanonIndex } from "./align/stitch.ts";
 
 interface OutLine {
   id: string;
@@ -112,6 +113,11 @@ async function run(cfg: SourceConfig, opts: { preview: number; dry: boolean }) {
   const verseKey = (b: string, c: number, v: number) => `${b}|${c}|${v}`;
   const byKey = new Map<string, OutVerse>();
 
+  const canonByKey = new Map<string, string>();
+  for (const v of verses) {
+    canonByKey.set(verseKey(v.book, v.chapter, v.verse), v.text);
+  }
+
   for (const a of aligned) {
     const frag = fragById.get(a.id)!;
     const meta = frag.meta ?? {};
@@ -151,6 +157,11 @@ async function run(cfg: SourceConfig, opts: { preview: number; dry: boolean }) {
         source: meta.source as string | undefined,
       });
     }
+  }
+
+  for (const [k, outVerse] of byKey) {
+    const canonText = canonByKey.get(k) ?? "";
+    applyJoins(outVerse.lines, buildCanonIndex(canonText));
   }
 
   // Group into per-chapter files, preserving canonical verse order.

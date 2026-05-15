@@ -201,22 +201,14 @@ function normalizeVerse(v: Verse | AlignedVerse): Verse {
 function stitchMarkdown(lines: VerseLine[]): string | undefined {
   if (!lines.some((l) => l.markdown !== undefined)) return undefined;
   return lines
-    .map((l) => (l.markdown ?? l.text).trim())
+    .map((l) => l.markdown ?? l.text)
     .filter((t) => t.length > 0)
-    .join(" ");
+    .join("");
 }
 
-/** Join scribal line fragments into a single verse text. The OM transcript
- * doesn't mark which line-ends are mid-word breaks (e.g. "...it ca / me to
- * pass...") versus normal end-of-word breaks ("...wherefore he / did as the
- * Lord..."), so we always insert a space. This leaves visible artifacts on
- * mid-word breaks ("wildern ess") but keeps every other word boundary correct
- * — and the diff tokenizer still finds anchor matches on the surrounding
- * words. A future pass with a dictionary or bigram check could split the
- * cases. */
 function stitchLines(lines: VerseLine[]): string {
   return lines
-    .map((l) => l.text.trim())
+    .map((l) => l.text)
     .filter((t) => t.length > 0)
-    .join(" ");
+    .join("");
 }

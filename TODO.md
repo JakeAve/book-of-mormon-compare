@@ -46,3 +46,10 @@ e2e tests.
 ## Pretty Header
 
 Add photos and nice data to headers for shareable links
+
+## Cleanups
+
+### PM
+
+1 Nephi 4:17-18 1 Nephi 5:8-9, 9-10 1 Nephi 5:22 end of chapter ! Nephi 7:8-9,
+19-20
