@@ -97,6 +97,37 @@ const STEPS: TutorialStep[] = [
     ),
   },
   {
+    title: "Manuscript Markings",
+    body: (
+      <>
+        <p style={{ margin: "0 0 0.75rem" }}>
+          The Original and Printer's Manuscripts include editorial markings from
+          the Joseph Smith Papers transcription:
+        </p>
+        <p style={{ margin: "0 0 0.5rem" }}>
+          <span
+            style={{ textDecoration: "line-through", marginRight: "0.5rem" }}
+          >
+            crossed out
+          </span>
+          — text the scribe deleted
+        </p>
+        <p style={{ margin: "0 0 0.5rem" }}>
+          <span style={{ color: "var(--color-muted)", marginRight: "0.5rem" }}>
+            dimmed
+          </span>
+          — text that is hard to read but assumed
+        </p>
+        <p style={{ margin: 0 }}>
+          <span style={{ fontWeight: 600, marginRight: "0.5rem" }}>
+            bold
+          </span>
+          — text inserted above the line or in the margin
+        </p>
+      </>
+    ),
+  },
+  {
     title: "You're ready!",
     body: (
       <p style={{ margin: 0 }}>
