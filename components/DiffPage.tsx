@@ -37,6 +37,7 @@ function renderCell(verse: Verse | undefined, col: 1 | 2, row: number) {
     paddingTop: "0.5rem",
     paddingBottom: "0.5rem",
     margin: "0",
+    scrollMarginTop: "6rem",
     ...padding,
   };
   if (!verse) {
@@ -58,7 +59,10 @@ function renderCell(verse: Verse | undefined, col: 1 | 2, row: number) {
     );
   }
   return (
-    <p style={{ ...base, gridColumnStart: col }}>
+    <p
+      id={`v-${verse.verse}`}
+      style={{ ...base, gridColumnStart: col }}
+    >
       <span
         style={{
           color: "var(--color-verse-num)",

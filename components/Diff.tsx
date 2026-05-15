@@ -117,6 +117,7 @@ export function Diff({ verses1, verses2, startRow = 1 }: DiffProps) {
     if (t1Idx === split1?.length) {
       content.push(
         <p
+          id={v1 ? `v-${v1.verse}` : undefined}
           class="col-start-1"
           style={{
             gridRow: row1,
@@ -125,6 +126,7 @@ export function Diff({ verses1, verses2, startRow = 1 }: DiffProps) {
             paddingLeft: "1.5rem",
             paddingRight: "1rem",
             margin: "0",
+            scrollMarginTop: "6rem",
           }}
         >
           {v1 && (
