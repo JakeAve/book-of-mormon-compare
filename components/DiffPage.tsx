@@ -118,13 +118,15 @@ export function DiffPage({
                     fontSize: "1.25rem",
                     lineHeight: 1,
                     textDecoration: "none",
+                    flex: 1,
+                    textAlign: "left",
                   }}
                 >
                   ‹
                 </a>
               )
-              : <span style={{ display: "inline-block", width: "1rem" }} />}
-            <div style={{ textAlign: "center" }}>
+              : <span style={{ flex: 1 }} />}
+            <div style={{ textAlign: "center", flex: 1 }}>
               <ChapterNavDialog
                 book={book}
                 chapter={chapter}
@@ -141,12 +143,14 @@ export function DiffPage({
                     fontSize: "1.25rem",
                     lineHeight: 1,
                     textDecoration: "none",
+                    flex: 1,
+                    textAlign: "right",
                   }}
                 >
                   ›
                 </a>
               )
-              : <span style={{ display: "inline-block", width: "1rem" }} />}
+              : <span style={{ flex: 1 }} />}
           </div>
           {/* Edition selector row */}
           <div
