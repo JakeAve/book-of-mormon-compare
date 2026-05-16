@@ -42,6 +42,12 @@ export const SOURCES = {
     raw: "data/raw/1830",
     out: "data/bom/1830",
   },
+  "1837": {
+    slug: "1837",
+    label: "1837 Second Edition",
+    raw: "data/raw/1837",
+    out: "data/bom/1837",
+  },
 } as const satisfies Record<string, SourceConfig>;
 
 export type SourceSlug = keyof typeof SOURCES;
