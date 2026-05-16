@@ -129,6 +129,7 @@ const STEPS: TutorialStep[] = [
   },
   {
     title: "You're ready!",
+    domElements: ["[data-tutorial='tutorial-trigger']"],
     body: (
       <p style={{ margin: 0 }}>
         That's everything. Enjoy exploring the text. You can reopen this
@@ -159,7 +160,6 @@ function applyHighlights(selectors: string[] | undefined) {
   if (!selectors) return;
   for (const sel of selectors) {
     document.querySelectorAll(sel).forEach((el) => {
-      console.log({ el });
       el.classList.add("tutorial-highlight");
     });
   }
@@ -176,7 +176,14 @@ export default function TutorialDialog() {
   const dialogRef = useRef<HTMLDialogElement>(null);
 
   useEffect(() => {
-    if (new URLSearchParams(globalThis.location.search).has("tutorial")) {
+    const url = new URL(globalThis.location.href);
+    if (url.searchParams.has("tutorial")) {
+      url.searchParams.delete("tutorial");
+      globalThis.history.replaceState(
+        null,
+        "",
+        url.pathname + (url.search ? url.search : "") + url.hash,
+      );
       step.value = 0;
       dialogRef.current?.showModal();
       applyHighlights(STEPS[0]?.domElements);

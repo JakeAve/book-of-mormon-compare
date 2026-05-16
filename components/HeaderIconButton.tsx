@@ -31,6 +31,7 @@ type Props =
     children: ComponentChildren;
     label: string;
     style?: CSSProperties;
+    "data-tutorial"?: string;
   }
   & (
     | { href: string; onClick?: never }
@@ -38,13 +39,19 @@ type Props =
   );
 
 export default function HeaderIconButton(
-  { children, label, style, href, onClick }: Props,
+  { children, label, style, href, onClick, ...rest }: Props,
 ) {
   const merged = { ...baseStyle, ...style };
 
   if (href) {
     return (
-      <a href={href} aria-label={label} title={label} style={merged}>
+      <a
+        href={href}
+        aria-label={label}
+        title={label}
+        style={merged}
+        {...rest}
+      >
         <span style={circleStyle}>{children}</span>
       </a>
     );
@@ -57,6 +64,7 @@ export default function HeaderIconButton(
       aria-label={label}
       title={label}
       style={merged}
+      {...rest}
     >
       <span style={circleStyle}>{children}</span>
     </button>

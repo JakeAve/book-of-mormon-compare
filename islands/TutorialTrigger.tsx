@@ -10,6 +10,7 @@ export default function TutorialTrigger() {
       onClick={onClick}
       label="Open tutorial"
       style={{ right: "3.5rem" }}
+      data-tutorial="tutorial-trigger"
     >
       ?
     </HeaderIconButton>
