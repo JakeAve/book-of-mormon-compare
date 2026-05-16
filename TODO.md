@@ -1,8 +1,3 @@
-## Support rich text
-
-Support either HTML or markdown to allow strike throughs, superscript, subscript
-and other markings.
-
 ## Fix remaining markdown truncation cases in aligned data (9 cases)
 
 These lines in the aligned JSON have `markdown` with fewer words than `text`
