@@ -10,6 +10,7 @@ import { DiffPage } from "../../components/DiffPage.tsx";
 import VersionSelector from "../../islands/VersionSelector.tsx";
 import WordMatchListener from "../../islands/WordMatchListener.tsx";
 import TutorialDialog from "../../islands/TutorialDialog.tsx";
+import SwipeNavigator from "../../islands/SwipeNavigator.tsx";
 
 interface PageData {
   verses1: Verse[];
@@ -80,6 +81,9 @@ export const handler = define.handlers({
 export default define.page<typeof handler>(({ data }) => {
   const { verses1, verses2, v1, v2, versions, book, chapter, prev, next } =
     data;
+  const qs = `?v1=${encodeURIComponent(v1)}&v2=${encodeURIComponent(v2)}`;
+  const prevHref = prev ? `/${prev.book}/${prev.chapter}${qs}` : null;
+  const nextHref = next ? `/${next.book}/${next.chapter}${qs}` : null;
   return (
     <>
       <DiffPage
@@ -96,6 +100,7 @@ export default define.page<typeof handler>(({ data }) => {
       />
       <WordMatchListener />
       <TutorialDialog />
+      <SwipeNavigator prevHref={prevHref} nextHref={nextHref} />
     </>
   );
 });
