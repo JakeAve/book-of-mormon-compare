@@ -6,9 +6,16 @@ interface Props {
   versions: string[];
 }
 
+const SCROLL_KEY_PREFIX = "version-scroll:";
+
 export default function VersionSelector({ side, current, versions }: Props) {
+  // sessionStorage round-trip preserves exact scroll position.
+  // Restore happens via an inline script in routes/_app.tsx so it runs
+  // before first paint, avoiding the flash from a post-hydration effect.
   function onChange(e: Event) {
     const select = e.target as HTMLSelectElement;
+    const key = SCROLL_KEY_PREFIX + globalThis.location.pathname;
+    sessionStorage.setItem(key, String(globalThis.scrollY));
     const params = new URLSearchParams(globalThis.location.search);
     params.set(side, select.value);
     globalThis.location.search = params.toString();

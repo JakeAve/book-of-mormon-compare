@@ -125,7 +125,12 @@ export function DiffPage({
               )
               : <span style={{ display: "inline-block", width: "1rem" }} />}
             <div style={{ textAlign: "center" }}>
-              <ChapterNavDialog book={book} chapter={chapter} v1={v1} v2={v2} />
+              <ChapterNavDialog
+                book={book}
+                chapter={chapter}
+                v1={v1}
+                v2={v2}
+              />
             </div>
             {next
               ? (
