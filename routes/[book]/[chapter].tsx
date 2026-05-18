@@ -2,10 +2,13 @@ import { HttpError } from "fresh";
 import { define } from "../../utils/state.ts";
 import {
   getAdjacentChapters,
+  getBookDisplayName,
+  getVersionDisplayName,
   getVersions,
   loadChapter,
 } from "../../lib/data.ts";
 import type { Verse } from "../../lib/data.ts";
+import { getSiteUrl } from "../../lib/config.ts";
 import { DiffPage } from "../../components/DiffPage.tsx";
 import VersionSelector from "../../islands/VersionSelector.tsx";
 import WordMatchListener from "../../islands/WordMatchListener.tsx";
@@ -61,6 +64,29 @@ export const handler = define.handlers({
     if (verses1.length === 0 && verses2.length === 0) {
       throw new HttpError(404);
     }
+
+    const bookName = getBookDisplayName(book);
+    const siteUrl = getSiteUrl();
+    const v1Display = getVersionDisplayName(v1);
+    const v2Display = getVersionDisplayName(v2);
+
+    const titleBase = `${bookName} Chapter ${chapter} — Book of Mormon Compare`;
+    ctx.state.head = {
+      title: titleBase.length <= 60
+        ? titleBase
+        : `${bookName} Ch. ${chapter} — Book of Mormon Compare`,
+      description: `Side-by-side comparison of ${v1Display} and ${v2Display}`
+        .slice(
+          0,
+          155,
+        ),
+      imageUrl: `${siteUrl}/og-image?book=${encodeURIComponent(book)}&chapter=${
+        encodeURIComponent(chapter)
+      }&v1=${encodeURIComponent(v1)}&v2=${encodeURIComponent(v2)}`,
+      pageUrl: `${siteUrl}/${book}/${chapter}?v1=${encodeURIComponent(v1)}&v2=${
+        encodeURIComponent(v2)
+      }`,
+    };
 
     return {
       data: {
