@@ -2,7 +2,7 @@ import { initWasm, Resvg } from "@resvg/resvg-wasm";
 import { define } from "@/utils/state.ts";
 import { buildOgImageSvg } from "@/lib/ogImage.ts";
 import { isBookAbbr, VERSION_DISPLAY_NAMES } from "@/lib/data.ts";
-import { getSiteUrl } from "@/lib/config.ts";
+import { getCormorantGaramondBytes } from "@/lib/fontData.ts";
 
 const KNOWN_VERSIONS = new Set(Object.keys(VERSION_DISPLAY_NAMES));
 
@@ -26,18 +26,6 @@ function ensureWasm(): Promise<void> {
   return wasmInit;
 }
 
-let fontBytesCache: Uint8Array | null = null;
-
-async function loadFontBytes(): Promise<Uint8Array> {
-  if (!fontBytesCache) {
-    const fontUrl = `${getSiteUrl()}/CormorantGaramond-Regular.ttf`;
-    const res = await fetch(fontUrl);
-    if (!res.ok) throw new Error(`Failed to fetch font: ${res.status}`);
-    fontBytesCache = new Uint8Array(await res.arrayBuffer());
-  }
-  return fontBytesCache;
-}
-
 export const handler = define.handlers({
   async GET(ctx) {
     try {
@@ -50,7 +38,10 @@ export const handler = define.handlers({
       const v1 = KNOWN_VERSIONS.has(rawV1) ? rawV1 : "";
       const v2 = KNOWN_VERSIONS.has(rawV2) ? rawV2 : "";
 
-      const [, fontBytes] = await Promise.all([ensureWasm(), loadFontBytes()]);
+      const [fontBytes] = await Promise.all([
+        Promise.resolve(getCormorantGaramondBytes()),
+        ensureWasm(),
+      ]);
 
       const svg = buildOgImageSvg({ book, chapter, v1, v2 });
       const resvg = new Resvg(svg, {
