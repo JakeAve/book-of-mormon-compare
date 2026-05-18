@@ -2,8 +2,36 @@
   {
     "book": "alma",
     "chapter": 5,
+    "verse": 0,
+    "lines": [
+      {
+        "id": "183:18",
+        "page": 183,
+        "line": 18,
+        "text": "The words which Alma the high priest according to the holy order of god ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/183"
+      },
+      {
+        "id": "183:19",
+        "page": 183,
+        "line": 19,
+        "text": "delivered to the people in their Citties & viliges through out the land",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/183"
+      }
+    ]
+  },
+  {
+    "book": "alma",
+    "chapter": 5,
     "verse": 1,
     "lines": [
+      {
+        "id": "183:19",
+        "page": 183,
+        "line": 19,
+        "text": "Now ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/183"
+      },
       {
         "id": "183:20",
         "page": 183,

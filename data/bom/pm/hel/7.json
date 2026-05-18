@@ -2,6 +2,57 @@
   {
     "book": "hel",
     "chapter": 7,
+    "verse": 0,
+    "lines": [
+      {
+        "id": "348:27",
+        "page": 348,
+        "line": 27,
+        "text": "The prophecy of Nephi the Son of Helaman",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/348"
+      },
+      {
+        "id": "348:28",
+        "page": 348,
+        "line": 28,
+        "text": "God threatens the people of Nephi that he will visit them in his anger to their ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/348"
+      },
+      {
+        "id": "348:29",
+        "page": 348,
+        "line": 29,
+        "text": "utter destruction except they repent of their wickedness— God smiteth the people ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/348"
+      },
+      {
+        "id": "348:30",
+        "page": 348,
+        "line": 30,
+        "text": "of Nephi with pestilence— they repent & turm unto him— Samuel a Lama",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/348"
+      },
+      {
+        "id": "348:31",
+        "page": 348,
+        "line": 31,
+        "text": "nite prophesies unto the Nephites—— ",
+        "markdown": "nite prophesies unto the Nephites—— Behold now it came ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/348"
+      },
+      {
+        "id": "348:31",
+        "page": 348,
+        "line": 31,
+        "text": "Behold now it came",
+        "markdown": "nite prophesies unto the Nephites—— Behold now it came",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/348"
+      }
+    ]
+  },
+  {
+    "book": "hel",
+    "chapter": 7,
     "verse": 1,
     "lines": [
       {

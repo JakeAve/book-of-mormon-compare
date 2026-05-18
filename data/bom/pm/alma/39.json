@@ -2,6 +2,20 @@
   {
     "book": "alma",
     "chapter": 39,
+    "verse": 0,
+    "lines": [
+      {
+        "id": "271:37",
+        "page": 271,
+        "line": 37,
+        "text": "The Commandments of Alma to his Son Corianton",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/271"
+      }
+    ]
+  },
+  {
+    "book": "alma",
+    "chapter": 39,
     "verse": 1,
     "lines": [
       {

@@ -2,6 +2,21 @@
   {
     "book": "moro",
     "chapter": 9,
+    "verse": 0,
+    "lines": [
+      {
+        "id": "464:9",
+        "page": 464,
+        "line": 9,
+        "text": "The second epistle of Mormon to his son Moroni——",
+        "markdown": "The second epistle of Mormon to his son Moroni—— My beloved son I write",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/464"
+      }
+    ]
+  },
+  {
+    "book": "moro",
+    "chapter": 9,
     "verse": 1,
     "lines": [
       {

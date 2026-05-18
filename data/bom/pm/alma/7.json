@@ -2,13 +2,34 @@
   {
     "book": "alma",
     "chapter": 7,
+    "verse": 0,
+    "lines": [
+      {
+        "id": "189:8",
+        "page": 189,
+        "line": 8,
+        "text": "The words of Alma which he delivered to the People in Gideon according to his own ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/189"
+      },
+      {
+        "id": "189:9",
+        "page": 189,
+        "line": 9,
+        "text": "Reccord.—",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/189"
+      }
+    ]
+  },
+  {
+    "book": "alma",
+    "chapter": 7,
     "verse": 1,
     "lines": [
       {
         "id": "189:9",
         "page": 189,
         "line": 9,
-        "text": "Reccord.— Behold my beloved Brethren seeing that I have been permited to come ",
+        "text": "Behold my beloved Brethren seeing that I have been permited to come ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/189"
       },
       {
