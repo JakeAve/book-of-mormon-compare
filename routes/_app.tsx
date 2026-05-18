@@ -20,6 +20,7 @@ export default function App({ Component, state }: PageProps<unknown, State>) {
         <link rel="icon" type="image/svg+xml" href="/logo.svg" />
         <meta name="description" content={description} />
         <meta property="og:type" content="website" />
+        <meta property="og:site_name" content="Book of Mormon Compare" />
         <meta property="og:title" content={title} />
         <meta property="og:description" content={description} />
         {head && (

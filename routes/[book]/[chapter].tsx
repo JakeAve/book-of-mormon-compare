@@ -74,7 +74,7 @@ export const handler = define.handlers({
     ctx.state.head = {
       title: titleBase.length <= 60
         ? titleBase
-        : `${bookName} Ch. ${chapter} — Book of Mormon Compare`,
+        : `${bookName} Ch. ${chapter} — Book of Mormon Compare`.slice(0, 60),
       description: `Side-by-side comparison of ${v1Display} and ${v2Display}`
         .slice(
           0,
