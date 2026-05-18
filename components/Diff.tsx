@@ -9,6 +9,10 @@ import {
   stripManuscriptMarkup,
 } from "../lib/manuscriptMarkup.ts";
 
+function verseLabel(verse: number) {
+  return verse === 0 ? "Intro" : verse;
+}
+
 function kindStyle(kind: ManuscriptKind) {
   switch (kind) {
     case "deleted":
@@ -148,7 +152,7 @@ export function Diff({ verses1, verses2, startRow = 1 }: DiffProps) {
                       cursor: "pointer",
                     }}
                   >
-                    {v1.verse}
+                    {verseLabel(v1.verse)}
                   </a>
                 )
                 : (
@@ -161,7 +165,7 @@ export function Diff({ verses1, verses2, startRow = 1 }: DiffProps) {
                       marginRight: "0.375rem",
                     }}
                   >
-                    {v1.verse}
+                    {verseLabel(v1.verse)}
                   </span>
                 )}
               {c1}
@@ -218,7 +222,7 @@ export function Diff({ verses1, verses2, startRow = 1 }: DiffProps) {
                       cursor: "pointer",
                     }}
                   >
-                    {v2.verse}
+                    {verseLabel(v2.verse)}
                   </a>
                 )
                 : (
@@ -231,7 +235,7 @@ export function Diff({ verses1, verses2, startRow = 1 }: DiffProps) {
                       marginRight: "0.375rem",
                     }}
                   >
-                    {v2.verse}
+                    {verseLabel(v2.verse)}
                   </span>
                 )}
               {c2}
