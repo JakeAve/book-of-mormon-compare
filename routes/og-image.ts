@@ -17,23 +17,28 @@ function ensureWasm(): Promise<void> {
 
 export const handler = define.handlers({
   async GET(ctx) {
-    const { searchParams } = ctx.url;
-    const book = searchParams.get("book") ?? "";
-    const chapter = searchParams.get("chapter") ?? "";
-    const v1 = searchParams.get("v1") ?? "";
-    const v2 = searchParams.get("v2") ?? "";
+    try {
+      const { searchParams } = ctx.url;
+      const book = searchParams.get("book") ?? "";
+      const chapter = searchParams.get("chapter") ?? "";
+      const v1 = searchParams.get("v1") ?? "";
+      const v2 = searchParams.get("v2") ?? "";
 
-    await ensureWasm();
+      await ensureWasm();
 
-    const svg = buildOgImageSvg({ book, chapter, v1, v2 });
-    const resvg = new Resvg(svg, { font: { loadSystemFonts: false } });
-    const png = resvg.render().asPng() as unknown as BodyInit;
+      const svg = buildOgImageSvg({ book, chapter, v1, v2 });
+      const resvg = new Resvg(svg, { font: { loadSystemFonts: false } });
+      const png = resvg.render().asPng() as BodyInit;
 
-    return new Response(png, {
-      headers: {
-        "Content-Type": "image/png",
-        "Cache-Control": "public, max-age=86400",
-      },
-    });
+      return new Response(png, {
+        headers: {
+          "Content-Type": "image/png",
+          "Cache-Control": "public, max-age=86400",
+        },
+      });
+    } catch (err) {
+      const message = err instanceof Error ? err.message : String(err);
+      return new Response(`Internal Server Error: ${message}`, { status: 500 });
+    }
   },
 });
