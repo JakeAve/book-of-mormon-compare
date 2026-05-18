@@ -11,6 +11,7 @@ export default function App({ Component }: PageProps) {
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <title>Book of Mormon Compare</title>
+        <link rel="icon" type="image/svg+xml" href="/logo.svg" />
       </head>
       <body
         class="flex flex-col min-h-screen"
