@@ -1,4 +1,8 @@
-import { getBookDisplayName, getVersionDisplayName } from "./data.ts";
+import {
+  getBookDisplayName,
+  getVersionDisplayName,
+  VERSION_SHORT_NAMES,
+} from "./data.ts";
 
 export interface OgImageParams {
   book: string;
@@ -6,14 +10,6 @@ export interface OgImageParams {
   v1: string;
   v2: string;
 }
-
-const VERSION_SHORT_NAMES: Record<string, string> = {
-  "om": "Original Manuscript",
-  "pm": "Printer's Manuscript",
-  "1830": "1830 First Edition",
-  "1837": "1837 Second Edition",
-  "2013": "2013 Edition",
-};
 
 function getShortVersionName(version: string): string {
   return VERSION_SHORT_NAMES[version] ?? getVersionDisplayName(version);
@@ -42,13 +38,13 @@ export function buildOgImageSvg(params: OgImageParams): string {
   <path d="M1172 80 L1172 28 L1120 28" stroke="#C48A4A" stroke-width="3" fill="none"/>
   <path d="M28 550 L28 602 L80 602" stroke="#C48A4A" stroke-width="3" fill="none"/>
   <path d="M1172 550 L1172 602 L1120 602" stroke="#C48A4A" stroke-width="3" fill="none"/>
-  <text x="600" y="195" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#888888" letter-spacing="4">BOOK OF MORMON COMPARE</text>
-  <line x1="560" y1="218" x2="640" y2="218" stroke="#C48A4A" stroke-width="2"/>
-  <text x="600" y="322" text-anchor="middle" font-family="Georgia, serif" font-size="68" fill="#F4F0E8">${bookName}</text>
-  <text x="600" y="388" text-anchor="middle" font-family="Georgia, serif" font-size="44" fill="#F4F0E8">Chapter ${chapterEsc}</text>
-  <text x="320" y="460" text-anchor="middle" font-family="Georgia, serif" font-size="21" fill="#C48A4A">${v1Name}</text>
-  <text x="600" y="460" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#555555">vs</text>
-  <text x="880" y="460" text-anchor="middle" font-family="Georgia, serif" font-size="21" fill="#C48A4A">${v2Name}</text>
-  <text x="600" y="530" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#666666" letter-spacing="3">SIDE-BY-SIDE TEXTUAL COMPARISON</text>
+  <text x="600" y="160" text-anchor="middle" font-family="Cormorant Garamond, serif" font-size="22" fill="#888888" letter-spacing="4">BOOK OF MORMON COMPARE</text>
+  <line x1="540" y1="185" x2="660" y2="185" stroke="#C48A4A" stroke-width="2"/>
+  <text x="600" y="310" text-anchor="middle" font-family="Cormorant Garamond, serif" font-size="96" fill="#F4F0E8">${bookName}</text>
+  <text x="600" y="390" text-anchor="middle" font-family="Cormorant Garamond, serif" font-size="58" fill="#F4F0E8">Chapter ${chapterEsc}</text>
+  <text x="300" y="490" text-anchor="middle" font-family="Cormorant Garamond, serif" font-size="30" fill="#C48A4A">${v1Name}</text>
+  <text x="600" y="490" text-anchor="middle" font-family="Cormorant Garamond, serif" font-size="24" fill="#555555">vs</text>
+  <text x="900" y="490" text-anchor="middle" font-family="Cormorant Garamond, serif" font-size="30" fill="#C48A4A">${v2Name}</text>
+  <text x="600" y="570" text-anchor="middle" font-family="Cormorant Garamond, serif" font-size="18" fill="#666666" letter-spacing="3">SIDE-BY-SIDE TEXTUAL COMPARISON</text>
 </svg>`;
 }
