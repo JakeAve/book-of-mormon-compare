@@ -2,6 +2,34 @@
   {
     "book": "alma",
     "chapter": 45,
+    "verse": 0,
+    "lines": [
+      {
+        "id": "354:2",
+        "page": 354,
+        "line": 2,
+        "text": "The account of the people of Nephi, and their wars and dis",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/354"
+      },
+      {
+        "id": "354:3",
+        "page": 354,
+        "line": 3,
+        "text": "sentions, in the days of Helaman, according to the record ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/354"
+      },
+      {
+        "id": "354:4",
+        "page": 354,
+        "line": 4,
+        "text": "of Helaman, which he kept in his days.",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/354"
+      }
+    ]
+  },
+  {
+    "book": "alma",
+    "chapter": 45,
     "verse": 1,
     "lines": [
       {
