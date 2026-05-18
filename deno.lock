@@ -37,6 +37,7 @@
     "npm:@preact/signals@^2.9.0": "2.9.0_preact@10.29.1",
     "npm:@prefresh/vite@^2.4.8": "2.4.12_preact@10.29.1_vite@7.3.2",
     "npm:@remix-run/node-fetch-server@0.12": "0.12.0",
+    "npm:@resvg/resvg-wasm@^2.6.2": "2.6.2",
     "npm:@tailwindcss/vite@^4.1.12": "4.2.4_vite@7.3.2",
     "npm:@types/babel__core@^7.20.5": "7.20.5",
     "npm:esbuild-wasm@~0.25.11": "0.25.12",
@@ -821,6 +822,9 @@
     "@remix-run/node-fetch-server@0.12.0": {
       "integrity": "sha512-oeg8w8aJJSuq1fCx85jCkcgTfI6On7sKwWVSO4/OW5AvTBuosAIwnuBd/LYeU/I7lYPOTW2NXhUfyfpyeexs4w=="
     },
+    "@resvg/resvg-wasm@2.6.2": {
+      "integrity": "sha512-FqALmHI8D4o6lk/LRWDnhw95z5eO+eAa6ORjVg09YRR7BkcM6oPHU9uyC0gtQG5vpFLvgpeU4+zEAz2H8APHNw=="
+    },
     "@rollup/pluginutils@4.2.1": {
       "integrity": "sha512-iKnFXr7NkdZAIHiIWE+BX5ULi/ucVFYWD6TbAV+rZctiRTY2PL6tsIKhoIOaoskiWAkgu+VsbXgUVDNLHf+InQ==",
       "dependencies": [
@@ -1546,6 +1550,7 @@
       "jsr:@fresh/plugin-vite@^1.1.2",
       "jsr:@std/assert@^1.0.19",
       "npm:@preact/signals@^2.9.0",
+      "npm:@resvg/resvg-wasm@^2.6.2",
       "npm:@tailwindcss/vite@^4.1.12",
       "npm:@types/babel__core@^7.20.5",
       "npm:preact@^10.29.1",
