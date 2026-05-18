@@ -1,7 +1,15 @@
 import { createDefine } from "fresh";
 
+export interface HeadMeta {
+  title: string;
+  description: string;
+  imageUrl: string;
+  pageUrl: string;
+}
+
 export interface State {
   versions: string[];
+  head?: HeadMeta;
 }
 
 export const define = createDefine<State>();
