@@ -15,11 +15,6 @@ after stripping markup. Most are cross-line unclosed markers or raw data quirks.
 | pm      | alma/20.json | 228:12  | Chapter header, leading `——`                       |
 | pm      | alma/58.json | 323:16  | Chapter header, leading `——`                       |
 
-## Organize supplementary texts
-
-The intos to 1 Nephi, intro to Alma 5, all need to find a way to fit in verse
-structure. Probably do 0 verses.
-
 ## Witnesses and title page
 
 Populate the witnesses and title page

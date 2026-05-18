@@ -2,6 +2,13 @@
   {
     "book": "alma",
     "chapter": 5,
+    "verse": 0,
+    "text": "The words which Alma, the High Priest according to the holy order of God, delivered to the people in their cities and villages throughout the land.",
+    "source": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/5?lang=eng&id=intro1#intro1"
+  },
+  {
+    "book": "alma",
+    "chapter": 5,
     "verse": 1,
     "text": "Now it came to pass that Alma began to deliver the word of God unto the people, first in the land of Zarahemla, and from thence throughout all the land.",
     "source": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/5?lang=eng&id=p1#p1"
