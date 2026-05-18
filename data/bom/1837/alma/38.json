@@ -2,6 +2,20 @@
   {
     "book": "alma",
     "chapter": 38,
+    "verse": 0,
+    "lines": [
+      {
+        "id": "353:32",
+        "page": 353,
+        "line": 32,
+        "text": "The commandments of Alma, to his son Shiblon.",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/353"
+      }
+    ]
+  },
+  {
+    "book": "alma",
+    "chapter": 38,
     "verse": 1,
     "lines": [
       {
@@ -624,14 +638,7 @@
         "id": "355:8",
         "page": 355,
         "line": 8,
-        "text": "CHAPTER XIX. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/355"
-      },
-      {
-        "id": "355:9",
-        "page": 355,
-        "line": 9,
-        "text": "The Commandments of Alma, to his son Corianton.",
+        "text": "CHAPTER XIX.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/355"
       }
     ]

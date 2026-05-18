@@ -2,6 +2,48 @@
   {
     "book": "alma",
     "chapter": 9,
+    "verse": 0,
+    "lines": [
+      {
+        "id": "264:15",
+        "page": 264,
+        "line": 15,
+        "text": "The words of Alma, and also the words of Amulek which ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/264"
+      },
+      {
+        "id": "264:16",
+        "page": 264,
+        "line": 16,
+        "text": "were declared unto the people who were in the land of ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/264"
+      },
+      {
+        "id": "264:17",
+        "page": 264,
+        "line": 17,
+        "text": "Ammonihah. And also they are cast into prison, and ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/264"
+      },
+      {
+        "id": "264:18",
+        "page": 264,
+        "line": 18,
+        "text": "delivered by the miraculous power of God which was ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/264"
+      },
+      {
+        "id": "264:19",
+        "page": 264,
+        "line": 19,
+        "text": "in them, according to the record of Alma.",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/264"
+      }
+    ]
+  },
+  {
+    "book": "alma",
+    "chapter": 9,
     "verse": 1,
     "lines": [
       {

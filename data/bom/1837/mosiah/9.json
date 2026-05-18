@@ -2,6 +2,41 @@
   {
     "book": "mosiah",
     "chapter": 9,
+    "verse": 0,
+    "lines": [
+      {
+        "id": "189:2",
+        "page": 189,
+        "line": 2,
+        "text": "THE RECORD OF ZENIFF.",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/189"
+      },
+      {
+        "id": "189:3",
+        "page": 189,
+        "line": 3,
+        "text": "An account of his people, from the time they left the land ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/189"
+      },
+      {
+        "id": "189:4",
+        "page": 189,
+        "line": 4,
+        "text": "of Zarahemla, until the time that they were delivered ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/189"
+      },
+      {
+        "id": "189:5",
+        "page": 189,
+        "line": 5,
+        "text": "out of the hands of the Lamanites.",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/189"
+      }
+    ]
+  },
+  {
+    "book": "mosiah",
+    "chapter": 9,
     "verse": 1,
     "lines": [
       {

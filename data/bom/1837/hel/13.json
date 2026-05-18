@@ -2,6 +2,27 @@
   {
     "book": "hel",
     "chapter": 13,
+    "verse": 0,
+    "lines": [
+      {
+        "id": "470:1",
+        "page": 470,
+        "line": 1,
+        "text": "THE PROPHECY OF SAMUEL, THE ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/470"
+      },
+      {
+        "id": "470:2",
+        "page": 470,
+        "line": 2,
+        "text": "LAMANITE, TO THE NEPHITES",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/470"
+      }
+    ]
+  },
+  {
+    "book": "hel",
+    "chapter": 13,
     "verse": 1,
     "lines": [
       {
