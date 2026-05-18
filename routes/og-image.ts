@@ -2,34 +2,38 @@ import { initWasm, Resvg } from "@resvg/resvg-wasm";
 import { define } from "@/utils/state.ts";
 import { buildOgImageSvg } from "@/lib/ogImage.ts";
 import { isBookAbbr, VERSION_DISPLAY_NAMES } from "@/lib/data.ts";
+import { getSiteUrl } from "@/lib/config.ts";
 
 const KNOWN_VERSIONS = new Set(Object.keys(VERSION_DISPLAY_NAMES));
+
+const RESVG_WASM_URL =
+  "https://cdn.jsdelivr.net/npm/@resvg/resvg-wasm@2.6.2/index_bg.wasm";
 
 let wasmInit: Promise<void> | null = null;
 
 function ensureWasm(): Promise<void> {
   if (!wasmInit) {
-    const wasmPath = new URL(
-      "../node_modules/@resvg/resvg-wasm/index_bg.wasm",
-      import.meta.url,
-    );
-    wasmInit = initWasm(Deno.readFile(wasmPath)).catch((e) => {
-      if (!(e instanceof Error) || !e.message.includes("Already initialized")) {
-        throw e;
-      }
-    });
+    wasmInit = fetch(RESVG_WASM_URL)
+      .then((res) => initWasm(res))
+      .catch((e) => {
+        if (
+          !(e instanceof Error) || !e.message.includes("Already initialized")
+        ) {
+          throw e;
+        }
+      });
   }
   return wasmInit;
 }
 
-const FONT_PATH =
-  new URL("../assets/fonts/CormorantGaramond-Regular.ttf", import.meta.url)
-    .pathname;
 let fontBytesCache: Uint8Array | null = null;
 
 async function loadFontBytes(): Promise<Uint8Array> {
   if (!fontBytesCache) {
-    fontBytesCache = await Deno.readFile(FONT_PATH);
+    const fontUrl = `${getSiteUrl()}/CormorantGaramond-Regular.ttf`;
+    const res = await fetch(fontUrl);
+    if (!res.ok) throw new Error(`Failed to fetch font: ${res.status}`);
+    fontBytesCache = new Uint8Array(await res.arrayBuffer());
   }
   return fontBytesCache;
 }
