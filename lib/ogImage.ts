@@ -39,19 +39,14 @@ export function buildOgImageSvg(params: OgImageParams): string {
   <path d="M1172 80 L1172 28 L1120 28" stroke="#C48A4A" stroke-width="3" fill="none"/>
   <path d="M28 550 L28 602 L80 602" stroke="#C48A4A" stroke-width="3" fill="none"/>
   <path d="M1172 550 L1172 602 L1120 602" stroke="#C48A4A" stroke-width="3" fill="none"/>
-  <text x="600" y="160" text-anchor="middle" font-family="Cormorant Garamond, serif" font-size="22" fill="#888888" letter-spacing="4">BOOK OF MORMON COMPARE</text>
-  <line x1="540" y1="185" x2="660" y2="185" stroke="#C48A4A" stroke-width="2"/>
-  <text x="600" y="${
-    showChapter ? "310" : "340"
-  }" text-anchor="middle" font-family="Cormorant Garamond, serif" font-size="96" fill="#F4F0E8">${bookName}</text>
-  ${
-    showChapter
-      ? `<text x="600" y="390" text-anchor="middle" font-family="Cormorant Garamond, serif" font-size="58" fill="#F4F0E8">Chapter ${chapterEsc}</text>`
-      : ""
-  }
-  <text x="300" y="490" text-anchor="middle" font-family="Cormorant Garamond, serif" font-size="30" fill="#C48A4A">${v1Name}</text>
-  <text x="600" y="490" text-anchor="middle" font-family="Cormorant Garamond, serif" font-size="24" fill="#555555">vs</text>
-  <text x="900" y="490" text-anchor="middle" font-family="Cormorant Garamond, serif" font-size="30" fill="#C48A4A">${v2Name}</text>
-  <text x="600" y="570" text-anchor="middle" font-family="Cormorant Garamond, serif" font-size="18" fill="#666666" letter-spacing="3">SIDE-BY-SIDE TEXTUAL COMPARISON</text>
+  <text x="600" y="160" text-anchor="middle" font-family="Cormorant Garamond, serif" font-size="28" fill="#BBBBBB" letter-spacing="5">BOOK OF MORMON COMPARE</text>
+  <line x1="520" y1="188" x2="680" y2="188" stroke="#C48A4A" stroke-width="2"/>
+  <text x="600" y="338" text-anchor="middle" font-family="Cormorant Garamond, serif" font-size="96" fill="#F4F0E8">${
+    showChapter ? `${bookName}  |  Chapter ${chapterEsc}` : bookName
+  }</text>
+  <text x="300" y="455" text-anchor="middle" font-family="Cormorant Garamond, serif" font-size="42" fill="#C48A4A">${v1Name}</text>
+  <text x="600" y="455" text-anchor="middle" font-family="Cormorant Garamond, serif" font-size="34" fill="#AAAAAA">vs</text>
+  <text x="900" y="455" text-anchor="middle" font-family="Cormorant Garamond, serif" font-size="42" fill="#C48A4A">${v2Name}</text>
+  <text x="600" y="525" text-anchor="middle" font-family="Cormorant Garamond, serif" font-size="26" fill="#AAAAAA" letter-spacing="4">SIDE-BY-SIDE TEXTUAL COMPARISON</text>
 </svg>`;
 }
