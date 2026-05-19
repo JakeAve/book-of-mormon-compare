@@ -3,6 +3,9 @@
   "nodeModulesDir": "manual",
   "tasks": {
     "check": "deno fmt --check . && deno lint . && deno check",
+    "test": "deno test -A",
+    "pre-commit": "deno task check && deno task test",
+    "pre-push": "deno task check && deno task test",
     "dev": "vite",
     "build": "vite build",
     "start": "deno serve -A _fresh/server.js",

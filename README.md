@@ -1,19 +1,22 @@
-**NOT READY FOR RELEASE - STILL CLEANING UP DATA**
+**NOT READY FOR RELEASE — STILL CLEANING UP DATA**
 
 # Book of Mormon Compare
 
 A side-by-side diff viewer for comparing different versions of the Book of
 Mormon, built with [Fresh 2](https://fresh.deno.dev/) and Deno.
 
+Live (beta): https://bofm.scripturecompare.org?tutorial
+
 ## Features
 
 - Side-by-side verse comparison across multiple text versions
 - Word-level diff highlighting (additions and removals)
-- Interactive word match highlighting — click a word to highlight all matching
-  words across both columns
-- Version selector per column via URL query params (`?v1=stub&v2=stub2`)
-- Jump-to-chapter dialog for quick navigation
-- Dynamic routing by book and chapter: `/:book/:chapter`
+- Click a word to highlight all matching words across both columns
+- Per-column version selector via URL query params (`?v1=2013&v2=om`)
+- Jump-to-chapter dialog and swipe navigation between chapters
+- Selection menu for sharing or copying verse ranges
+- First-visit tutorial
+- Dynamic OG images for social previews
 - Non-extant chapters (present in one version, missing in another) are clearly
   marked
 
@@ -21,103 +24,65 @@ Mormon, built with [Fresh 2](https://fresh.deno.dev/) and Deno.
 
 | Key    | Description                                              |
 | ------ | -------------------------------------------------------- |
-| `2013` | 2013 Church of Jesus Christ of Latter-day Saints edition |
 | `om`   | Original Manuscript                                      |
 | `pm`   | Printer's Manuscript                                     |
-
-## Project Structure
-
-```
-routes/
-  index.tsx            # Redirects to 1-ne/1
-  about.tsx            # About page
-  [book]/[chapter].tsx # Main comparison page
-components/
-  DiffPage.tsx         # Two-column layout with verse diffs
-  Diff.tsx             # Renders a single verse diff
-  WordMatch.tsx        # Word match highlight component
-islands/
-  VersionSelector.tsx      # Interactive version picker
-  WordMatchListener.tsx    # Handles word match click events
-  ChapterNavDialog.tsx     # Jump-to-chapter dialog
-lib/
-  data.ts              # Data types, version/book constants, chapter loading
-  diff.ts              # Word-level LCS diff algorithm
-  textHelpers.ts       # Text tokenization utilities
-  bookChapters.ts      # Book/chapter metadata
-scripts/
-  align-source.ts      # Manuscript alignment pipeline
-data/
-  bom/<version>/       # One directory per text version, containing JSON verse files
-  raw/                 # Raw source transcripts for alignment scripts
-```
-
-## Data Format
-
-Each chapter is a JSON file at `data/bom/<version>/<book>/<chapter>.json`
-containing an array of verses:
-
-```json
-[
-  { "chapter": 1, "verse": 1, "text": "...", "markdown": "..." }
-]
-```
-
-Aligned sources (Original Manuscript, Printer's Manuscript) use a line-based
-format:
-
-```json
-[
-  {
-    "chapter": 1,
-    "verse": 1,
-    "lines": [
-      {
-        "id": "1:1",
-        "page": 1,
-        "line": 1,
-        "text": "...",
-        "source": "https://..."
-      }
-    ]
-  }
-]
-```
-
-Versions are discovered automatically from subdirectories of `data/bom/`. To add
-a new version, create `data/bom/<key>/` and register the display name in
-`VERSION_DISPLAY_NAMES` in `lib/data.ts`.
+| `1830` | 1830 First Edition                                       |
+| `1837` | 1837 Second Edition                                      |
+| `2013` | 2013 Church of Jesus Christ of Latter-day Saints edition |
 
 ## Setup
 
 Install Deno: https://docs.deno.com/runtime/getting_started/installation
 
+Clone the repo and run the dev server:
+
 ```bash
-# Development
+git clone https://github.com/JakeAve/book-of-mormon-compare.git
+cd book-of-mormon-compare
 deno task dev
-
-# Build
-deno task build
-
-# Start production server
-deno task start
-
-# Lint + format check + type check
-deno task check
-
-# Unit tests
-deno test lib/
 ```
 
-## Data Pipeline
+Then open http://localhost:5173.
 
-Manuscript alignment scripts normalize raw transcripts into verse-structured
-JSON:
+### Git hooks
+
+The repo ships pre-commit and pre-push hooks in `.githooks/` that run
+`deno task check` and the test suite. Git doesn't pick these up automatically —
+after cloning, point git at the directory once:
 
 ```bash
-deno task align:om   # Original Manuscript → data/bom/om/
-deno task align:pm   # Printer's Manuscript → data/bom/pm/
+git config core.hooksPath .githooks
 ```
+
+This setting is local to your clone (not checked in), so each contributor runs
+it once.
+
+## Tasks
+
+```bash
+deno task dev          # Vite dev server
+deno task build        # Production build → _fresh/
+deno task start        # Serve the production build
+deno task check        # fmt check + lint + type check
+deno task test         # Run all unit tests
+deno task pre-commit   # check + test (run by .githooks/pre-commit)
+deno task pre-push     # check + test (run by .githooks/pre-push)
+deno task align:*     # Aligns verses and chapters to 2013 Church of Jesus Christ edition
+```
+
+## Adding a new text version
+
+1. Drop chapter JSON files at `data/bom/<key>/<book>/<chapter>.json`.
+2. Add the display name to `VERSION_DISPLAY_NAMES` in `lib/data.ts`.
+
+Versions are auto-discovered from subdirectories of `data/bom/` at runtime. See
+[CLAUDE.md](./CLAUDE.md) for the verse JSON format and the manuscript alignment
+pipeline.
+
+## Environment
+
+- `SITE_URL` — canonical site URL used for OG images and absolute links.
+  Defaults to `https://bofm.scripturecompare.org`.
 
 ## Disclaimer
 

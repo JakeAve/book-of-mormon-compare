@@ -1,2 +1,2 @@
 #!/bin/sh
-deno task check
+deno task pre-commit
