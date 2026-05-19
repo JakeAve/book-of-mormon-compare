@@ -49,6 +49,19 @@ deno task align:pm  # Re-run Printer's Manuscript alignment script
 - `islands/WordMatchListener.tsx` — word click highlight events (client island)
 - `islands/ChapterNavDialog.tsx` — jump-to-chapter dialog (client island)
 
+### Database / Persistence
+
+- `db/interface.ts` — `SecurityStore` interface (domain-specific methods:
+  `isBanned`, `setBan`, `record404`)
+- `db/kv.ts` — `DenoKvSecurityStore`: Deno KV implementation of `SecurityStore`;
+  owns all key construction, prefix, and atomic retry logic
+- `utils/security.ts` — `SecurityService` accepts a `SecurityStore`; handles
+  probe detection, ban logic, and logging; no KV imports
+
+The `db/` layer is intentionally isolated so the KV backend can be replaced
+without touching `SecurityService`. To swap backends, implement `SecurityStore`
+and pass the new instance in `main.ts`.
+
 ### Data
 
 All text lives in `data/bom/<version>/<book>/<chapter>.json`. Versions are
@@ -111,7 +124,7 @@ deno test lib/
 ```
 
 Tests cover: diff algorithm, text tokenization, data helpers, book/chapter
-utilities.
+utilities, and security/IP-banning logic.
 
 ## Data Pipeline (Manuscript Alignment)
 
