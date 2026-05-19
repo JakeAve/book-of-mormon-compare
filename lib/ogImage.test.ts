@@ -56,6 +56,28 @@ Deno.test("buildOgImageSvg escapes XML in unknown version", () => {
   assertStringIncludes(svg, "&lt;evil&gt;");
 });
 
+Deno.test("buildOgImageSvg omits chapter for title-page", () => {
+  const svg = buildOgImageSvg({
+    book: "title-page",
+    chapter: "1",
+    v1: "pm",
+    v2: "2013",
+  });
+  assertEquals(svg.includes("Chapter"), false);
+  assertStringIncludes(svg, "Title Page");
+});
+
+Deno.test("buildOgImageSvg omits chapter for witnesses", () => {
+  const svg = buildOgImageSvg({
+    book: "witnesses",
+    chapter: "1",
+    v1: "pm",
+    v2: "2013",
+  });
+  assertEquals(svg.includes("Chapter"), false);
+  assertStringIncludes(svg, "Witness");
+});
+
 Deno.test("buildOgImageSvg handles unknown book gracefully", () => {
   const svg = buildOgImageSvg({
     book: "unknown-book",
