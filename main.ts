@@ -1,4 +1,5 @@
 import { App, staticFiles } from "fresh";
+import { DenoKvSecurityStore } from "@/db/kv.ts";
 import { SecurityService } from "@/utils/security.ts";
 import { createIpBlockMiddleware } from "@/utils/middleware/ip-block.ts";
 import { createProbeDetectMiddleware } from "@/utils/middleware/probe-detect.ts";
@@ -6,7 +7,7 @@ import { createProbeDetectMiddleware } from "@/utils/middleware/probe-detect.ts"
 export const app = new App();
 
 const kv = await Deno.openKv();
-const security = new SecurityService(kv);
+const security = new SecurityService(new DenoKvSecurityStore(kv));
 
 app.use(staticFiles());
 app.use(createIpBlockMiddleware(security));

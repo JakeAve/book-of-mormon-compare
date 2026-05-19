@@ -1,9 +1,10 @@
 import { assertEquals } from "@std/assert";
-import { KV_KEYS, KV_PREFIX, SecurityService } from "@/utils/security.ts";
+import { DenoKvSecurityStore, KV_KEYS, KV_PREFIX } from "@/db/kv.ts";
+import { SecurityService } from "@/utils/security.ts";
 
 async function makeService(): Promise<[SecurityService, Deno.Kv]> {
   const kv = await Deno.openKv(":memory:");
-  return [new SecurityService(kv), kv];
+  return [new SecurityService(new DenoKvSecurityStore(kv)), kv];
 }
 
 Deno.test("isProbe — blocks observed traffic", async () => {
@@ -29,12 +30,10 @@ Deno.test("isProbe — passes real routes", async () => {
   const [svc, kv] = await makeService();
   try {
     const allowed = [
-      // real app routes
       "/witnesses/1",
       "/1-ne/1",
       "/about",
       "/",
-      // honest-mistake 404s — real users mistyping book names
       "/1-nephi/1",
       "/1-nephi",
       "/info",
@@ -42,7 +41,6 @@ Deno.test("isProbe — passes real routes", async () => {
       "/enos/1",
       "/jacob/1",
       "/alma/1",
-      // og-image route
       "/og-image",
     ];
     for (const path of allowed) {
