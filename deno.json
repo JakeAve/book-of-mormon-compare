@@ -1,4 +1,5 @@
 {
+  "unstable": ["kv"],
   "nodeModulesDir": "manual",
   "tasks": {
     "check": "deno fmt --check . && deno lint . && deno check",
@@ -40,7 +41,8 @@
       "dom",
       "dom.asynciterable",
       "dom.iterable",
-      "deno.ns"
+      "deno.ns",
+      "deno.unstable"
     ],
     "jsx": "precompile",
     "jsxImportSource": "preact",
