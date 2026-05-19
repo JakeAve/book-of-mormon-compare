@@ -1,4 +1,4 @@
-export function parseVerseParam(raw: string | null): Set<number> | null {
+export function parseMarkParam(raw: string | null): Set<number> | null {
   if (!raw) return null;
   const result = new Set<number>();
   for (const segment of raw.split(",")) {

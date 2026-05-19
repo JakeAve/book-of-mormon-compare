@@ -30,11 +30,11 @@ export interface DiffProps {
   verses1: Verse[];
   verses2: Verse[];
   startRow?: number;
-  highlightVerses?: Set<number> | null;
+  markedVerses?: Set<number> | null;
 }
 
 export function Diff(
-  { verses1, verses2, startRow = 1, highlightVerses }: DiffProps,
+  { verses1, verses2, startRow = 1, markedVerses }: DiffProps,
 ) {
   const text1 = verses1.map((v) => stripManuscriptMarkup(v.markdown ?? v.text))
     .join("\n");
@@ -122,7 +122,7 @@ export function Diff(
     }
 
     if (t1Idx === split1?.length) {
-      const isHighlighted = !!v1 && !!highlightVerses?.has(v1.verse);
+      const isMarked = !!v1 && !!markedVerses?.has(v1.verse);
       content.push(
         <p
           id={v1 ? `v-${v1.verse}` : undefined}
@@ -131,12 +131,15 @@ export function Diff(
             gridRow: row1,
             paddingTop: "0.5rem",
             paddingBottom: "0.5rem",
-            paddingLeft: isHighlighted ? "calc(1.5rem - 3px)" : "1.5rem",
+            paddingLeft: isMarked ? "calc(1.5rem - 3px)" : "1.5rem",
             paddingRight: "1rem",
             margin: "0",
             scrollMarginTop: "6rem",
-            ...(isHighlighted
-              ? { borderLeft: "3px solid var(--color-accent)" }
+            ...(isMarked
+              ? {
+                borderLeft: "3px solid var(--color-mark-line)",
+                backgroundColor: "var(--color-mark-bg)",
+              }
               : {}),
           }}
         >
@@ -196,6 +199,7 @@ export function Diff(
     }
 
     if (t2Idx === split2?.length) {
+      const isMarkedV2 = !!v2 && !!markedVerses?.has(v2.verse);
       content.push(
         <p
           class="col-start-2"
@@ -206,8 +210,14 @@ export function Diff(
             paddingTop: "0.5rem",
             paddingBottom: "0.5rem",
             paddingLeft: "1rem",
-            paddingRight: "1.5rem",
+            paddingRight: isMarkedV2 ? "calc(1.5rem - 3px)" : "1.5rem",
             margin: "0",
+            ...(isMarkedV2
+              ? {
+                borderRight: "3px solid var(--color-mark-line)",
+                backgroundColor: "var(--color-mark-bg)",
+              }
+              : {}),
           }}
         >
           {v2 && (

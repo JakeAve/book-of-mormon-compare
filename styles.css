@@ -27,6 +27,8 @@
   --color-book-row-current-bg: #f5f0e6;
   --color-muted: #9e8e7e;
   --color-accent: #c48a4a;
+  --color-mark-line: #c48a4a;
+  --color-mark-bg: rgba(196, 138, 74, 0.07);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -57,6 +59,8 @@
     --color-chip-active-fg: #1c1c1c;
     --color-book-row-current-bg: #2a2a2a;
     --color-muted: #9e8e7e;
+    --color-mark-line: #c48a4a;
+    --color-mark-bg: rgba(196, 138, 74, 0.1);
   }
 }
 

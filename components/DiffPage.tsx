@@ -14,21 +14,21 @@ interface Props {
   next: { book: string; chapter: string } | null;
   v1: string;
   v2: string;
-  highlightVerses: Set<number> | null;
+  markedVerses: Set<number> | null;
 }
 
 function NonExtantView(
-  { verses1, verses2, highlightVerses }: {
+  { verses1, verses2, markedVerses }: {
     verses1: Verse[];
     verses2: Verse[];
-    highlightVerses: Set<number> | null;
+    markedVerses: Set<number> | null;
   },
 ) {
   const rows = Math.max(verses1.length, verses2.length, 1);
   const cells: ReturnType<typeof renderCell>[] = [];
   for (let i = 0; i < rows; i++) {
-    cells.push(renderCell(verses1[i], 1, i + 1, highlightVerses));
-    cells.push(renderCell(verses2[i], 2, i + 1, highlightVerses));
+    cells.push(renderCell(verses1[i], 1, i + 1, markedVerses));
+    cells.push(renderCell(verses2[i], 2, i + 1, markedVerses));
   }
   return <>{cells}</>;
 }
@@ -37,7 +37,7 @@ function renderCell(
   verse: Verse | undefined,
   col: 1 | 2,
   row: number,
-  highlightVerses: Set<number> | null,
+  markedVerses: Set<number> | null,
 ) {
   const padding = col === 1
     ? { paddingLeft: "1.5rem", paddingRight: "1rem" }
@@ -68,11 +68,20 @@ function renderCell(
       </p>
     );
   }
-  const isHighlighted = col === 1 && !!verse &&
-    !!highlightVerses?.has(verse.verse);
-  const leftPad = isHighlighted ? "calc(1.5rem - 3px)" : "1.5rem";
-  const borderStyle = isHighlighted
-    ? { borderLeft: "3px solid var(--color-accent)" }
+  const isMarked = !!verse && !!markedVerses?.has(verse.verse);
+  const markStyle = isMarked
+    ? {
+      backgroundColor: "var(--color-mark-bg)",
+      ...(col === 1
+        ? {
+          borderLeft: "3px solid var(--color-mark-line)",
+          paddingLeft: "calc(1.5rem - 3px)",
+        }
+        : {
+          borderRight: "3px solid var(--color-mark-line)",
+          paddingRight: "calc(1.5rem - 3px)",
+        }),
+    }
     : {};
 
   return (
@@ -81,8 +90,7 @@ function renderCell(
       style={{
         ...base,
         gridColumnStart: col,
-        paddingLeft: col === 1 ? leftPad : undefined,
-        ...borderStyle,
+        ...markStyle,
       }}
     >
       <span
@@ -112,7 +120,7 @@ export function DiffPage({
   next,
   v1,
   v2,
-  highlightVerses,
+  markedVerses,
 }: Props) {
   const qs = `?v1=${encodeURIComponent(v1)}&v2=${encodeURIComponent(v2)}`;
 
@@ -232,7 +240,7 @@ export function DiffPage({
               <NonExtantView
                 verses1={verses1}
                 verses2={verses2}
-                highlightVerses={highlightVerses}
+                markedVerses={markedVerses}
               />
             )
             : (
@@ -240,7 +248,7 @@ export function DiffPage({
                 verses1={verses1}
                 verses2={verses2}
                 startRow={0}
-                highlightVerses={highlightVerses}
+                markedVerses={markedVerses}
               />
             )}
         </div>
