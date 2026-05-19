@@ -9,6 +9,7 @@ import {
 } from "../../lib/data.ts";
 import type { Verse } from "../../lib/data.ts";
 import { getSiteUrl } from "../../lib/config.ts";
+import { parseVerseParam } from "../../lib/verseHighlight.ts";
 import { DiffPage } from "../../components/DiffPage.tsx";
 import VersionSelector from "../../islands/VersionSelector.tsx";
 import WordMatchListener from "../../islands/WordMatchListener.tsx";
@@ -25,6 +26,7 @@ interface PageData {
   chapter: string;
   prev: { book: string; chapter: string } | null;
   next: { book: string; chapter: string } | null;
+  highlightVerses: Set<number> | null;
 }
 
 export const handler = define.handlers({
@@ -50,6 +52,7 @@ export const handler = define.handlers({
 
     const v1 = params.get("v1")!;
     const v2 = params.get("v2")!;
+    const highlightVerses = parseVerseParam(params.get("v"));
 
     if (!versions.includes(v1) || !versions.includes(v2)) {
       throw new HttpError(404);
@@ -99,14 +102,25 @@ export const handler = define.handlers({
         chapter,
         prev: adjacent.prev,
         next: adjacent.next,
+        highlightVerses,
       } as PageData,
     };
   },
 });
 
 export default define.page<typeof handler>(({ data }) => {
-  const { verses1, verses2, v1, v2, versions, book, chapter, prev, next } =
-    data;
+  const {
+    verses1,
+    verses2,
+    v1,
+    v2,
+    versions,
+    book,
+    chapter,
+    prev,
+    next,
+    highlightVerses,
+  } = data;
   const qs = `?v1=${encodeURIComponent(v1)}&v2=${encodeURIComponent(v2)}`;
   const prevHref = prev ? `/${prev.book}/${prev.chapter}${qs}` : null;
   const nextHref = next ? `/${next.book}/${next.chapter}${qs}` : null;
@@ -123,6 +137,7 @@ export default define.page<typeof handler>(({ data }) => {
         next={next}
         v1={v1}
         v2={v2}
+        highlightVerses={highlightVerses}
       />
       <WordMatchListener />
       <TutorialDialog />
