@@ -1,3 +1,5 @@
+import { log } from "./logger.ts";
+
 export const BOOK_ORDER = [
   "witnesses",
   "title-page",
@@ -179,6 +181,12 @@ export async function loadChapter(
     return raw.map(normalizeVerse);
   } catch (err) {
     if (err instanceof Deno.errors.NotFound) return [];
+    log("error", "load_chapter_error", {
+      version,
+      book,
+      chapter,
+      error: (err as Error).message,
+    });
     throw err;
   }
 }
