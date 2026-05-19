@@ -12,18 +12,42 @@ export const PROBE_PATTERNS: RegExp[] = [
   /\/phpmy/,
 ];
 
+export const KV_PREFIX = "bofm-compare";
+
+export const KV_KEYS = {
+  BAN: "ban",
+  RATE_COUNT: "rate_count",
+  RATE_WINDOW: "rate_window",
+} as const;
+
 const RATE_LIMIT_WINDOW_MS = 10 * 60 * 1000;
 const RATE_LIMIT_THRESHOLD = 10;
 
 export class SecurityService {
-  constructor(private kv: Deno.Kv) {}
+  readonly #prefix: string;
+
+  constructor(private kv: Deno.Kv, prefix = KV_PREFIX) {
+    this.#prefix = prefix;
+  }
+
+  #banKey(ip: string): Deno.KvKey {
+    return [this.#prefix, KV_KEYS.BAN, ip];
+  }
+
+  #countKey(ip: string): Deno.KvKey {
+    return [this.#prefix, KV_KEYS.RATE_COUNT, ip];
+  }
+
+  #windowKey(ip: string): Deno.KvKey {
+    return [this.#prefix, KV_KEYS.RATE_WINDOW, ip];
+  }
 
   isProbe(path: string): boolean {
     return PROBE_PATTERNS.some((p) => p.test(path));
   }
 
   async isBanned(ip: string): Promise<boolean> {
-    const entry = await this.kv.get<boolean>(["ban", ip]);
+    const entry = await this.kv.get<boolean>(this.#banKey(ip));
     return entry.value === true;
   }
 
@@ -32,7 +56,7 @@ export class SecurityService {
     triggerPath: string,
     reason: BanReason,
   ): Promise<void> {
-    await this.kv.set(["ban", ip], true);
+    await this.kv.set(this.#banKey(ip), true);
     console.log(JSON.stringify({
       type: "ip_banned",
       ip,
@@ -43,12 +67,9 @@ export class SecurityService {
   }
 
   async record404(ip: string): Promise<void> {
-    const countKey: Deno.KvKey = ["404_count", ip];
-    const windowKey: Deno.KvKey = ["404_window", ip];
-
     while (true) {
-      const countEntry = await this.kv.get<number>(countKey);
-      const windowEntry = await this.kv.get<number>(windowKey);
+      const countEntry = await this.kv.get<number>(this.#countKey(ip));
+      const windowEntry = await this.kv.get<number>(this.#windowKey(ip));
       const now = Date.now();
       const windowStart = windowEntry.value ?? now;
       const count = countEntry.value ?? 0;
@@ -67,8 +88,8 @@ export class SecurityService {
       const result = await this.kv.atomic()
         .check(countEntry)
         .check(windowEntry)
-        .set(countKey, newCount)
-        .set(windowKey, newWindowStart)
+        .set(this.#countKey(ip), newCount)
+        .set(this.#windowKey(ip), newWindowStart)
         .commit();
 
       if (result.ok) {

@@ -1,5 +1,5 @@
 import { assertEquals } from "@std/assert";
-import { SecurityService } from "@/utils/security.ts";
+import { KV_KEYS, KV_PREFIX, SecurityService } from "@/utils/security.ts";
 
 async function makeService(): Promise<[SecurityService, Deno.Kv]> {
   const kv = await Deno.openKv(":memory:");
@@ -122,8 +122,8 @@ Deno.test("record404 — resets count after window expires", async () => {
   try {
     const ip = "10.0.0.2";
     const expiredStart = Date.now() - 11 * 60 * 1000;
-    await kv.set(["404_count", ip], 9);
-    await kv.set(["404_window", ip], expiredStart);
+    await kv.set([KV_PREFIX, KV_KEYS.RATE_COUNT, ip], 9);
+    await kv.set([KV_PREFIX, KV_KEYS.RATE_WINDOW, ip], expiredStart);
     await svc.record404(ip);
     assertEquals(await svc.isBanned(ip), false);
   } finally {
