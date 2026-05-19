@@ -30,9 +30,13 @@ export interface DiffProps {
   verses1: Verse[];
   verses2: Verse[];
   startRow?: number;
+  highlightVerses?: Set<number> | null;
 }
 
-export function Diff({ verses1, verses2, startRow = 1 }: DiffProps) {
+export function Diff(
+  { verses1, verses2, startRow = 1, highlightVerses: _highlightVerses }:
+    DiffProps,
+) {
   const text1 = verses1.map((v) => stripManuscriptMarkup(v.markdown ?? v.text))
     .join("\n");
   const text2 = verses2.map((v) => stripManuscriptMarkup(v.markdown ?? v.text))

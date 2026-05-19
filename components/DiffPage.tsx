@@ -14,21 +14,31 @@ interface Props {
   next: { book: string; chapter: string } | null;
   v1: string;
   v2: string;
+  highlightVerses: Set<number> | null;
 }
 
 function NonExtantView(
-  { verses1, verses2 }: { verses1: Verse[]; verses2: Verse[] },
+  { verses1, verses2, highlightVerses }: {
+    verses1: Verse[];
+    verses2: Verse[];
+    highlightVerses: Set<number> | null;
+  },
 ) {
   const rows = Math.max(verses1.length, verses2.length, 1);
   const cells: ReturnType<typeof renderCell>[] = [];
   for (let i = 0; i < rows; i++) {
-    cells.push(renderCell(verses1[i], 1, i + 1));
-    cells.push(renderCell(verses2[i], 2, i + 1));
+    cells.push(renderCell(verses1[i], 1, i + 1, highlightVerses));
+    cells.push(renderCell(verses2[i], 2, i + 1, highlightVerses));
   }
   return <>{cells}</>;
 }
 
-function renderCell(verse: Verse | undefined, col: 1 | 2, row: number) {
+function renderCell(
+  verse: Verse | undefined,
+  col: 1 | 2,
+  row: number,
+  highlightVerses: Set<number> | null,
+) {
   const padding = col === 1
     ? { paddingLeft: "1.5rem", paddingRight: "1rem" }
     : { paddingLeft: "1rem", paddingRight: "1.5rem" };
@@ -58,10 +68,22 @@ function renderCell(verse: Verse | undefined, col: 1 | 2, row: number) {
       </p>
     );
   }
+  const isHighlighted = col === 1 && !!verse &&
+    !!highlightVerses?.has(verse.verse);
+  const leftPad = isHighlighted ? "calc(1.5rem - 3px)" : "1.5rem";
+  const borderStyle = isHighlighted
+    ? { borderLeft: "3px solid var(--color-accent)" }
+    : {};
+
   return (
     <p
       id={`v-${verse.verse}`}
-      style={{ ...base, gridColumnStart: col }}
+      style={{
+        ...base,
+        gridColumnStart: col,
+        paddingLeft: col === 1 ? leftPad : undefined,
+        ...borderStyle,
+      }}
     >
       <span
         style={{
@@ -90,6 +112,7 @@ export function DiffPage({
   next,
   v1,
   v2,
+  highlightVerses,
 }: Props) {
   const qs = `?v1=${encodeURIComponent(v1)}&v2=${encodeURIComponent(v2)}`;
 
@@ -209,9 +232,17 @@ export function DiffPage({
               <NonExtantView
                 verses1={verses1}
                 verses2={verses2}
+                highlightVerses={highlightVerses}
               />
             )
-            : <Diff verses1={verses1} verses2={verses2} startRow={0} />}
+            : (
+              <Diff
+                verses1={verses1}
+                verses2={verses2}
+                startRow={0}
+                highlightVerses={highlightVerses}
+              />
+            )}
         </div>
       </div>
     </main>
