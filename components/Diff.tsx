@@ -34,8 +34,7 @@ export interface DiffProps {
 }
 
 export function Diff(
-  { verses1, verses2, startRow = 1, highlightVerses: _highlightVerses }:
-    DiffProps,
+  { verses1, verses2, startRow = 1, highlightVerses }: DiffProps,
 ) {
   const text1 = verses1.map((v) => stripManuscriptMarkup(v.markdown ?? v.text))
     .join("\n");
@@ -123,6 +122,7 @@ export function Diff(
     }
 
     if (t1Idx === split1?.length) {
+      const isHighlighted = !!v1 && !!highlightVerses?.has(v1.verse);
       content.push(
         <p
           id={v1 ? `v-${v1.verse}` : undefined}
@@ -131,10 +131,13 @@ export function Diff(
             gridRow: row1,
             paddingTop: "0.5rem",
             paddingBottom: "0.5rem",
-            paddingLeft: "1.5rem",
+            paddingLeft: isHighlighted ? "calc(1.5rem - 3px)" : "1.5rem",
             paddingRight: "1rem",
             margin: "0",
             scrollMarginTop: "6rem",
+            ...(isHighlighted
+              ? { borderLeft: "3px solid var(--color-accent)" }
+              : {}),
           }}
         >
           {v1 && (
