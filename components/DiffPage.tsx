@@ -87,6 +87,7 @@ function renderCell(
   return (
     <p
       id={`v-${verse.verse}`}
+      data-verse={verse?.verse}
       style={{
         ...base,
         gridColumnStart: col,

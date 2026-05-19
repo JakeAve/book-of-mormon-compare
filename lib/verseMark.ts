@@ -17,3 +17,16 @@ export function parseMarkParam(raw: string | null): Set<number> | null {
   }
   return result.size > 0 ? result : null;
 }
+
+export function serializeMarkParam(verses: Set<number>): string {
+  const sorted = [...verses].sort((a, b) => a - b);
+  const segments: string[] = [];
+  let i = 0;
+  while (i < sorted.length) {
+    let j = i;
+    while (j + 1 < sorted.length && sorted[j + 1] === sorted[j] + 1) j++;
+    segments.push(j > i ? `${sorted[i]}-${sorted[j]}` : `${sorted[i]}`);
+    i = j + 1;
+  }
+  return segments.join(",");
+}

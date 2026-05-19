@@ -126,6 +126,7 @@ export function Diff(
       content.push(
         <p
           id={v1 ? `v-${v1.verse}` : undefined}
+          data-verse={v1?.verse}
           class="col-start-1"
           style={{
             gridRow: row1,
@@ -202,6 +203,7 @@ export function Diff(
       const isMarkedV2 = !!v2 && !!markedVerses?.has(v2.verse);
       content.push(
         <p
+          data-verse={v2?.verse}
           class="col-start-2"
           style={{
             gridRow: `${row2} / ${

@@ -13,6 +13,7 @@ import { parseMarkParam } from "../../lib/verseMark.ts";
 import { DiffPage } from "../../components/DiffPage.tsx";
 import VersionSelector from "../../islands/VersionSelector.tsx";
 import WordMatchListener from "../../islands/WordMatchListener.tsx";
+import SelectionMenu from "../../islands/SelectionMenu.tsx";
 import TutorialDialog from "../../islands/TutorialDialog.tsx";
 import SwipeNavigator from "../../islands/SwipeNavigator.tsx";
 
@@ -140,6 +141,7 @@ export default define.page<typeof handler>(({ data }) => {
         markedVerses={markedVerses}
       />
       <WordMatchListener />
+      <SelectionMenu book={book} chapter={chapter} v1={v1} v2={v2} />
       <TutorialDialog />
       <SwipeNavigator prevHref={prevHref} nextHref={nextHref} />
     </>
