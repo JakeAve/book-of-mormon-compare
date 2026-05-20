@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /og-image
+Sitemap: https://bofm.scripturecompare.org/sitemap.xml
