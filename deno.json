@@ -69,5 +69,9 @@
     "types": [
       "vite/client"
     ]
+  },
+  "deploy": {
+    "org": "jakeave",
+    "app": "book-of-mormon-compare"
   }
 }
