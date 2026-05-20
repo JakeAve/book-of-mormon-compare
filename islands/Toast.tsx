@@ -4,6 +4,10 @@ import { toast } from "./toastSignal.ts";
 export default function Toast() {
   const t = toast.value;
 
+  function dismiss() {
+    toast.value = null;
+  }
+
   useEffect(() => {
     if (!t) return;
     function onKeyDown(e: KeyboardEvent) {
@@ -15,12 +19,10 @@ export default function Toast() {
 
   if (!t) return null;
 
-  function dismiss() {
-    toast.value = null;
-  }
-
   return (
     <div
+      role="status"
+      aria-live="polite"
       style={{
         position: "fixed",
         bottom: "1.5rem",
