@@ -1,0 +1,3 @@
+Contact: https://github.com/JakeAve/book-of-mormon-compare/issues
+Expires: 2027-01-01T00:00:00.000Z
+Canonical: https://bofm.scripturecompare.org/.well-known/security.txt
