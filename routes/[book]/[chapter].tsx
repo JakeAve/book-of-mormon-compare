@@ -101,6 +101,7 @@ export const handler = define.handlers({
       pageUrl: `${siteUrl}/${book}/${chapter}?v1=${encodeURIComponent(v1)}&v2=${
         encodeURIComponent(v2)
       }`,
+      canonicalUrl: `${siteUrl}/${book}/${chapter}?v1=pm&v2=2013`,
     };
 
     log("info", "page_view", {
