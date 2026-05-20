@@ -1,6 +1,7 @@
 import { useEffect, useRef } from "preact/hooks";
 import { useSignal, useSignalEffect } from "@preact/signals";
 import { parseMarkParam, serializeMarkParam } from "../lib/verseMark.ts";
+import { toast } from "./toastSignal.ts";
 
 interface Props {
   book: string;
@@ -147,8 +148,9 @@ export default function SelectionMenu(_props: Props) {
     const combined = new Set([...marked.value, ...verses]);
     const url = new URL(globalThis.location.href);
     url.searchParams.set("mark", serializeMarkParam(combined));
-    url.hash = `v-${Math.min(...verses)}`;
+    url.hash = `v-${Math.min(...combined)}`;
     navigator.clipboard.writeText(url.toString()).catch(() => {});
+    toast.value = { url: url.toString() };
     menu.value = null;
     document.getSelection()?.removeAllRanges();
   }
