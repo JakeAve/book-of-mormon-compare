@@ -9,7 +9,7 @@ import {
 } from "../../lib/data.ts";
 import type { Verse } from "../../lib/data.ts";
 import { getSiteUrl } from "../../lib/config.ts";
-import { parseMarkParam } from "../../lib/verseMark.ts";
+import { parseMarkParam, serializeMarkParam } from "../../lib/verseMark.ts";
 import { DiffPage } from "../../components/DiffPage.tsx";
 import VersionSelector from "../../islands/VersionSelector.tsx";
 import WordMatchListener from "../../islands/WordMatchListener.tsx";
@@ -93,7 +93,11 @@ export const handler = define.handlers({
         ),
       imageUrl: `${siteUrl}/og-image?book=${encodeURIComponent(book)}&chapter=${
         encodeURIComponent(chapter)
-      }&v1=${encodeURIComponent(v1)}&v2=${encodeURIComponent(v2)}`,
+      }&v1=${encodeURIComponent(v1)}&v2=${encodeURIComponent(v2)}${
+        markedVerses && markedVerses.size > 0
+          ? `&mark=${encodeURIComponent(serializeMarkParam(markedVerses))}`
+          : ""
+      }`,
       pageUrl: `${siteUrl}/${book}/${chapter}?v1=${encodeURIComponent(v1)}&v2=${
         encodeURIComponent(v2)
       }`,
