@@ -4,6 +4,7 @@ import Footer from "@/components/Footer.tsx";
 import Header from "@/components/Header.tsx";
 import BetaBanner from "@/components/BetaBanner.tsx";
 import ScrollRestorer from "@/islands/ScrollRestorer.tsx";
+import Toast from "@/islands/Toast.tsx";
 
 export default function App({ Component, state }: PageProps<unknown, State>) {
   const head = state.head;
@@ -43,6 +44,7 @@ export default function App({ Component, state }: PageProps<unknown, State>) {
         <Component />
         <Footer />
         <ScrollRestorer />
+        <Toast />
       </body>
     </html>
   );
