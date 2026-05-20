@@ -39,16 +39,12 @@ function renderCell(
   row: number,
   markedVerses: Set<number> | null,
 ) {
-  const padding = col === 1
-    ? { paddingLeft: "1.5rem", paddingRight: "1rem" }
-    : { paddingLeft: "1rem", paddingRight: "1.5rem" };
   const base = {
     gridRow: row,
     paddingTop: "0.5rem",
     paddingBottom: "0.5rem",
     margin: "0",
     scrollMarginTop: "6rem",
-    ...padding,
   };
   if (!verse) {
     if (row !== 1) {
@@ -69,29 +65,16 @@ function renderCell(
     );
   }
   const isMarked = !!verse && !!markedVerses?.has(verse.verse);
-  const markStyle = isMarked
-    ? {
-      backgroundColor: "var(--color-mark-bg)",
-      ...(col === 1
-        ? {
-          borderLeft: "3px solid var(--color-mark-line)",
-          paddingLeft: "calc(1.5rem - 3px)",
-        }
-        : {
-          borderRight: "3px solid var(--color-mark-line)",
-          paddingRight: "calc(1.5rem - 3px)",
-        }),
-    }
-    : {};
 
   return (
     <p
       id={`v-${verse.verse}`}
       data-verse={verse?.verse}
+      data-col={col}
+      data-marked={isMarked ? "" : undefined}
       style={{
         ...base,
         gridColumnStart: col,
-        ...markStyle,
       }}
     >
       <span

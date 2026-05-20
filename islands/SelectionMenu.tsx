@@ -33,26 +33,8 @@ function getVerseFromNode(node: Node | null): number | null {
 }
 
 function applyMarkStyle(el: HTMLElement, isMarked: boolean) {
-  const col = el.style.gridColumnStart;
-  if (isMarked) {
-    el.style.backgroundColor = "var(--color-mark-bg)";
-    if (col === "1") {
-      el.style.borderLeft = "3px solid var(--color-mark-line)";
-      el.style.paddingLeft = "calc(1.5rem - 3px)";
-    } else {
-      el.style.borderRight = "3px solid var(--color-mark-line)";
-      el.style.paddingRight = "calc(1.5rem - 3px)";
-    }
-  } else {
-    el.style.backgroundColor = "";
-    if (col === "1") {
-      el.style.borderLeft = "";
-      el.style.paddingLeft = "";
-    } else {
-      el.style.borderRight = "";
-      el.style.paddingRight = "";
-    }
-  }
+  if (isMarked) el.dataset.marked = "";
+  else delete el.dataset.marked;
 }
 
 export default function SelectionMenu(_props: Props) {

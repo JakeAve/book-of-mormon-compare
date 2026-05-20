@@ -127,21 +127,15 @@ export function Diff(
         <p
           id={v1 ? `v-${v1.verse}` : undefined}
           data-verse={v1?.verse}
+          data-col="1"
+          data-marked={isMarked ? "" : undefined}
           class="col-start-1"
           style={{
             gridRow: row1,
             paddingTop: "0.5rem",
             paddingBottom: "0.5rem",
-            paddingLeft: isMarked ? "calc(1.5rem - 3px)" : "1.5rem",
-            paddingRight: "1rem",
             margin: "0",
             scrollMarginTop: "6rem",
-            ...(isMarked
-              ? {
-                borderLeft: "3px solid var(--color-mark-line)",
-                backgroundColor: "var(--color-mark-bg)",
-              }
-              : {}),
           }}
         >
           {v1 && (
@@ -204,6 +198,8 @@ export function Diff(
       content.push(
         <p
           data-verse={v2?.verse}
+          data-col="2"
+          data-marked={isMarkedV2 ? "" : undefined}
           class="col-start-2"
           style={{
             gridRow: `${row2} / ${
@@ -211,15 +207,7 @@ export function Diff(
             }`,
             paddingTop: "0.5rem",
             paddingBottom: "0.5rem",
-            paddingLeft: "1rem",
-            paddingRight: isMarkedV2 ? "calc(1.5rem - 3px)" : "1.5rem",
             margin: "0",
-            ...(isMarkedV2
-              ? {
-                borderRight: "3px solid var(--color-mark-line)",
-                backgroundColor: "var(--color-mark-bg)",
-              }
-              : {}),
           }}
         >
           {v2 && (

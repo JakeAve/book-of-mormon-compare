@@ -354,6 +354,27 @@ body {
   color: inherit;
 }
 
+/* Verse cell padding */
+[data-col="1"] {
+  padding-left: 1.5rem;
+  padding-right: 1rem;
+}
+[data-col="2"] {
+  padding-left: 1rem;
+  padding-right: 1.5rem;
+}
+
+/* Verse mark */
+[data-marked] {
+  background-color: var(--color-mark-bg);
+}
+[data-marked][data-col="1"] {
+  box-shadow: inset 3px 0 0 var(--color-mark-line);
+}
+[data-marked][data-col="2"] {
+  box-shadow: inset -3px 0 0 var(--color-mark-line);
+}
+
 /* DOM element highlight */
 @keyframes tutorial-pulse {
   0%,
