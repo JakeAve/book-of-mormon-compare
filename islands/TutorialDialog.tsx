@@ -97,6 +97,90 @@ const STEPS: TutorialStep[] = [
     ),
   },
   {
+    title: "Mark & Share",
+    body: (
+      <>
+        <p style={{ margin: "0 0 0.75rem" }}>
+          Select any text in the comparison to get a small menu:
+        </p>
+        <div
+          style={{
+            position: "relative",
+            paddingTop: "2.25rem",
+            marginBottom: "0.75rem",
+          }}
+        >
+          <div
+            style={{
+              position: "absolute",
+              top: 0,
+              left: "50%",
+              transform: "translateX(-50%)",
+              display: "inline-flex",
+              gap: "0.125rem",
+              background: "var(--color-header-edition)",
+              border: "1px solid var(--color-header-border)",
+              borderRadius: "0.375rem",
+              padding: "0.25rem",
+              boxShadow: "0 2px 8px rgba(0,0,0,0.15)",
+              whiteSpace: "nowrap",
+            }}
+          >
+            {["Mark", "Share"].map((label) => (
+              <span
+                key={label}
+                style={{
+                  display: "inline-block",
+                  padding: "0.25rem 0.625rem",
+                  borderRadius: "0.25rem",
+                  color: "var(--color-header-text)",
+                  fontFamily: "sans-serif",
+                  fontSize: "0.75rem",
+                  fontWeight: 500,
+                }}
+              >
+                {label}
+              </span>
+            ))}
+          </div>
+          <p
+            style={{
+              border: "1px solid var(--color-dialog-border)",
+              padding: "1rem",
+              margin: 0,
+              fontSize: "0.875rem",
+              lineHeight: 1.6,
+            }}
+          >
+            <span style={{ color: "var(--color-verse-num)" }}>1</span>{" "}
+            I, Nephi, having been{" "}
+            <mark
+              style={{
+                background: "rgba(74, 124, 219, 0.25)",
+                color: "inherit",
+                borderRadius: "0.125rem",
+                padding: "0 0.125rem",
+              }}
+            >
+              born of goodly parents
+            </mark>
+            , therefore I was taught somewhat in all the learning of my father.
+          </p>
+        </div>
+        <p style={{ margin: "0 0 0.5rem" }}>
+          <strong>Mark</strong>{" "}
+          highlights the selected verses with a colored stripe and saves them in
+          the URL — useful for bookmarking a passage.
+        </p>
+        <p style={{ margin: 0 }}>
+          <strong>Share</strong>{" "}
+          copies a link to the clipboard that opens directly to the marked
+          verses.
+        </p>
+      </>
+    ),
+  },
+  {
     title: "Manuscript Markings",
     body: (
       <>
@@ -127,6 +211,7 @@ const STEPS: TutorialStep[] = [
       </>
     ),
   },
+
   {
     title: "You're ready!",
     domElements: ["[data-tutorial='tutorial-trigger']"],
