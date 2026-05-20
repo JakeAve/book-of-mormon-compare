@@ -62,15 +62,7 @@ export default function Toast() {
           type="button"
           onClick={dismiss}
           aria-label="Close"
-          style={{
-            background: "transparent",
-            border: "none",
-            fontSize: "1.5rem",
-            lineHeight: 1,
-            color: "var(--color-muted)",
-            cursor: "pointer",
-            padding: "0 0.25rem",
-          }}
+          class="toast-close-x"
         >
           ×
         </button>
@@ -98,17 +90,7 @@ export default function Toast() {
         <button
           type="button"
           onClick={dismiss}
-          style={{
-            fontFamily: "system-ui, -apple-system, sans-serif",
-            fontSize: "0.8125rem",
-            fontWeight: 600,
-            padding: "0.4rem 0.875rem",
-            borderRadius: "6px",
-            border: "1px solid var(--color-dialog-border)",
-            background: "var(--color-chip-bg)",
-            color: "var(--color-text)",
-            cursor: "pointer",
-          }}
+          class="toast-btn"
         >
           Close
         </button>
