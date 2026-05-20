@@ -32,6 +32,9 @@ export default function App({ Component, state }: PageProps<unknown, State>) {
             <meta name="twitter:title" content={title} />
             <meta name="twitter:description" content={description} />
             <meta name="twitter:image" content={head.imageUrl} />
+            {head.canonicalUrl && (
+              <link rel="canonical" href={head.canonicalUrl} />
+            )}
           </>
         )}
       </head>

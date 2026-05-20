@@ -5,6 +5,7 @@ export interface HeadMeta {
   description: string;
   imageUrl: string;
   pageUrl: string;
+  canonicalUrl?: string;
 }
 
 export interface State {
