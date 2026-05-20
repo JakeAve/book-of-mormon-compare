@@ -138,9 +138,6 @@ export default function SelectionMenu(_props: Props) {
       url.searchParams.delete("mark");
     }
     history.pushState(null, "", url.toString());
-
-    menu.value = null;
-    document.getSelection()?.removeAllRanges();
   }
 
   function handleShare() {
@@ -151,8 +148,6 @@ export default function SelectionMenu(_props: Props) {
     url.hash = `v-${Math.min(...combined)}`;
     navigator.clipboard.writeText(url.toString()).catch(() => {});
     toast.value = { url: url.toString() };
-    menu.value = null;
-    document.getSelection()?.removeAllRanges();
   }
 
   const m = menu.value;

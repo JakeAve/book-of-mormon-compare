@@ -23,11 +23,12 @@ export default function Toast() {
     <div
       role="status"
       aria-live="polite"
+      onMouseDown={(e) => e.stopPropagation()}
       style={{
         position: "fixed",
-        bottom: "1.5rem",
+        top: "50%",
         left: "50%",
-        transform: "translateX(-50%)",
+        transform: "translate(-50%, -50%)",
         width: "clamp(280px, 92vw, 480px)",
         background: "var(--color-dialog-bg)",
         border: "1px solid var(--color-dialog-border)",
@@ -53,7 +54,7 @@ export default function Toast() {
             fontWeight: 700,
             textTransform: "uppercase",
             letterSpacing: "0.08em",
-            color: "var(--color-muted)",
+            color: "var(--color-text)",
           }}
         >
           Link copied
@@ -71,9 +72,9 @@ export default function Toast() {
         style={{
           padding: "0.875rem 1rem",
           fontFamily: "monospace",
-          fontSize: "0.8125rem",
+          fontSize: "0.6875rem",
           wordBreak: "break-all",
-          color: "var(--color-muted)",
+          color: "var(--color-text)",
           lineHeight: 1.5,
         }}
       >
