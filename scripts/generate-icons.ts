@@ -6,12 +6,30 @@ const RESVG_WASM_URL =
 
 await fetch(RESVG_WASM_URL).then((res) => initWasm(res));
 
-const svgText = await Deno.readTextFile(
+const fontData = await Deno.readFile(
+  new URL("../static/CormorantGaramond-Regular.ttf", import.meta.url),
+);
+
+const svgRaw = await Deno.readTextFile(
   new URL("../static/logo.svg", import.meta.url),
 );
 
+// Substitute the font family so resvg resolves it against the loaded font
+const svgText = svgRaw.replace(
+  /font-family="[^"]*"/,
+  'font-family="Cormorant Garamond"',
+);
+
+const fontOpts = {
+  fontBuffers: [fontData],
+  defaultFontFamily: "Cormorant Garamond",
+};
+
 function renderPng(size: number): Uint8Array {
-  const resvg = new Resvg(svgText, { fitTo: { mode: "width", value: size } });
+  const resvg = new Resvg(svgText, {
+    fitTo: { mode: "width", value: size },
+    font: fontOpts,
+  });
   return resvg.render().asPng();
 }
 
