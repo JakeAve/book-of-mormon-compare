@@ -57,7 +57,10 @@ export default function PwaManager() {
       });
     }
 
-    navigator.serviceWorker.register("/sw.js", { scope: "/" }).then((reg) => {
+    navigator.serviceWorker.register("/sw.js", { scope: "/" }).catch(() => {
+      // sw.js is only available in the production build — silent in dev
+    }).then((reg) => {
+      if (!reg) return;
       if (reg.waiting) {
         showSwUpdateNote(reg.waiting);
       }

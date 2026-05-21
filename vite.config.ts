@@ -14,8 +14,7 @@ export default defineConfig({
       injectRegister: false,
       manifest: false,
       devOptions: {
-        enabled: true,
-        type: "module",
+        enabled: false,
       },
     }),
   ],
