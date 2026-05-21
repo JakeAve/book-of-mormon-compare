@@ -75,19 +75,19 @@ export default function PwaManager() {
       });
     });
 
-    // Content-change messages from BroadcastUpdatePlugin
-    const channel = new BroadcastChannel("workbox");
-    channel.addEventListener("message", (event) => {
+    // Content-change messages from BroadcastUpdatePlugin (v7 uses postMessage, not BroadcastChannel)
+    const onSwMessage = (event: MessageEvent) => {
       if (event.data?.type === "CACHE_UPDATED") {
         setNote({
           message: "This page has been updated — tap to reload.",
           action: { label: "Reload", onClick: () => location.reload() },
         });
       }
-    });
+    };
+    navigator.serviceWorker.addEventListener("message", onSwMessage);
 
     return () => {
-      channel.close();
+      navigator.serviceWorker.removeEventListener("message", onSwMessage);
       globalThis.removeEventListener("beforeinstallprompt", onInstallPrompt);
     };
   }, []);

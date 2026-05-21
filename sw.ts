@@ -1,4 +1,5 @@
 /// <reference lib="webworker" />
+import { clientsClaim } from "workbox-core";
 import { cleanupOutdatedCaches, precacheAndRoute } from "workbox-precaching";
 import { registerRoute } from "workbox-routing";
 import {
@@ -15,6 +16,7 @@ declare const self: ServiceWorkerGlobalScope & {
 
 precacheAndRoute(self.__WB_MANIFEST);
 cleanupOutdatedCaches();
+clientsClaim();
 
 const NETWORK_ONLY_PATHS = ["/og-image", "/sitemap.xml", "/robots.txt"];
 
