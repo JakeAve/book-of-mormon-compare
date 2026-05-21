@@ -1,4 +1,22 @@
-export default function About() {
+import { define } from "@/utils/state.ts";
+import { getSiteUrl } from "@/lib/config.ts";
+
+export const handler = define.handlers({
+  GET(ctx) {
+    const siteUrl = getSiteUrl();
+    ctx.state.head = {
+      title: "About — Book of Mormon Compare",
+      description:
+        "About Book of Mormon Compare: a tool for textual-critical study of Book of Mormon manuscripts and editions.",
+      imageUrl: `${siteUrl}/og-image?book=1-ne&chapter=1&v1=pm&v2=2013`,
+      pageUrl: `${siteUrl}/about`,
+      canonicalUrl: `${siteUrl}/about`,
+    };
+    return { data: {} };
+  },
+});
+
+export default define.page<typeof handler>(() => {
   return (
     <main
       class="flex flex-col gap-8 max-w-2xl mx-auto px-6 pt-10 pb-16 font-serif text-base leading-relaxed"
@@ -9,19 +27,74 @@ export default function About() {
       <section class="flex flex-col gap-3">
         <h2 class="text-xl font-semibold">What this is</h2>
         <p>
-          Book of Mormon Compare is a side-by-side reader for comparing
-          different versions of the Book of Mormon. Verses are aligned across
-          two columns, with word-level differences highlighted so that
-          additions, removals, and edits between editions are easy to see.
+          Book of Mormon Compare is a tool for textual-critical study of the
+          Book of Mormon. It presents manuscript and print witnesses
+          side-by-side, with word-level differences highlighted so that
+          additions, deletions, and substitutions between any two versions are
+          immediately visible.
+        </p>
+        <p>
+          Available versions span the documentary record from early manuscripts
+          through modern printed editions. See{" "}
+          <a href="/versions" class="underline">Versions</a>{" "}
+          for details on each one.
+        </p>
+      </section>
+
+      <section class="flex flex-col gap-3">
+        <h2 class="text-xl font-semibold">Textual criticism</h2>
+        <p>
+          Textual criticism is the discipline of reconstructing a text's history
+          by comparing its surviving manuscript and print witnesses. Developed
+          primarily in the study of classical and biblical literature, it
+          identifies copying errors, scribal interventions, editorial changes,
+          and transmission variants — the accumulated differences that arise
+          each time a text is copied, typeset, or revised.
+        </p>
+        <p>
+          The Book of Mormon presents an unusual case in this field. No
+          autograph exists; the text originates in dictation rather than
+          authorial manuscript. Yet two early manuscript witnesses survive — the
+          Original Manuscript and the Printer's Manuscript — alongside a clear
+          chain of printed editions. This gives scholars a more complete
+          documentary record than is typical for 19th-century texts of
+          comparable length.
+        </p>
+        <p>
+          For a fuller treatment of the transmission chain, categories of
+          change, and key scholarly resources, see{" "}
+          <a href="/textual-criticism" class="underline">
+            Textual Criticism
+          </a>.
         </p>
       </section>
 
       <section class="flex flex-col gap-3">
         <h2 class="text-xl font-semibold">Sources</h2>
         <p>
-          All text has been sourced from official channels. For manuscript
-          versions, each line links back to its original source — click the
-          verse number to open the source reference.
+          Manuscript transcriptions are drawn from the{" "}
+          <a
+            href="https://www.josephsmithpapers.org"
+            class="underline"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Joseph Smith Papers Project
+          </a>{" "}
+          who sourced from Royal Skousen's{" "}
+          <a
+            href="https://criticaltext.byustudies.byu.edu"
+            class="underline"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Critical Text Project
+          </a>. The Original Manuscript fragments and Printer's Manuscript are
+          now held at the Church History Library, Salt Lake City.
+        </p>
+        <p>
+          Printed editions have been sourced from Joseph Smith Papers, online
+          archives and their respective publishers.
         </p>
       </section>
 
@@ -42,7 +115,7 @@ export default function About() {
           </li>
           <li>
             Where a chapter exists in one edition but not the other, the missing
-            side is marked “Non-extant.”
+            side is marked "Non-extant."
           </li>
         </ul>
         <p>
@@ -51,4 +124,4 @@ export default function About() {
       </section>
     </main>
   );
-}
+});

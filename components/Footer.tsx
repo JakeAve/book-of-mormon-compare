@@ -8,6 +8,11 @@ export default function Footer() {
         opacity: 0.6,
       }}
     >
+      <nav class="flex justify-center gap-4 mb-4">
+        <a href="/about" class="underline">About</a>
+        <a href="/versions" class="underline">Versions</a>
+        <a href="/textual-criticism" class="underline">Textual Criticism</a>
+      </nav>
       <p class="max-w-2xl mx-auto mb-2">
         This project is an independent study and research tool. It is not
         affiliated with, endorsed by, or sponsored by The Church of Jesus Christ
