@@ -45,7 +45,7 @@ File-based routes. Server-rendered by default.
 
 - `_app.tsx` — root document shell (header, footer, global styles)
 - `_error.tsx` — error page
-- `index.tsx` — redirects to `1-ne/1`
+- `index.tsx` — redirects to `witnesses/1`
 - `about.tsx` — about page
 - `og-image.ts` — dynamic OG image renderer (uses `lib/ogImage.ts`)
 - `[book]/index.tsx` — book landing (redirects to chapter 1)
