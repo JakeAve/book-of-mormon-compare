@@ -1,3 +1,4 @@
+import { log } from "@/lib/logger.ts";
 import type { SecurityStore } from "@/db/interface.ts";
 
 export type BanReason = "probe_path" | "rate_limit_404";
@@ -31,13 +32,7 @@ export class SecurityService {
     reason: BanReason,
   ): Promise<void> {
     await this.store.setBan(ip);
-    console.log(JSON.stringify({
-      type: "ip_banned",
-      ip,
-      trigger_path: triggerPath,
-      reason,
-      ts: new Date().toISOString(),
-    }));
+    log("warn", "ip_banned", { ip, trigger_path: triggerPath, reason });
   }
 
   async record404(ip: string): Promise<void> {

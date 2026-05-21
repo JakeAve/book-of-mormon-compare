@@ -1,4 +1,5 @@
 import { Context } from "fresh";
+import { log } from "@/lib/logger.ts";
 import type { SecurityService } from "@/utils/security.ts";
 
 export function createProbeDetectMiddleware(security: SecurityService) {
@@ -9,13 +10,7 @@ export function createProbeDetectMiddleware(security: SecurityService) {
 
     if (security.isProbe(path)) {
       if (ip) await security.banIp(ip, path, "probe_path");
-      console.log(JSON.stringify({
-        type: "blocked_request",
-        ip,
-        path,
-        reason: "probe_path",
-        ts: new Date().toISOString(),
-      }));
+      log("warn", "blocked_request", { ip, path, reason: "probe_path" });
       return new Response(null, { status: 403 });
     }
 
