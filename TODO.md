@@ -1,4 +1,26 @@
-## Fix remaining markdown truncation cases in aligned data (9 cases)
+## Metadata
+
+Each version should have a bit of metadata about the version like a short intro.
+Not sure where that lives.
+
+## Load Times
+
+Find a way to decrease cpu time for DiffPages
+
+- We could pretokenize diffs in generated files or KV - would get very big
+- We could set up the diff to run at verse level once the verses are completely
+  aligned, probably the simplest way
+- We could sort of memcache in KV - also would get big
+- Set up a robust cache policy for individual users
+
+## Cleanups
+
+### PM
+
+1 Nephi 4:17-18 1 Nephi 5:8-9, 9-10 1 Nephi 5:22 end of chapter ! Nephi 7:8-9,
+19-20
+
+### Fix remaining markdown truncation cases in aligned data (9 cases)
 
 These lines in the aligned JSON have `markdown` with fewer words than `text`
 after stripping markup. Most are cross-line unclosed markers or raw data quirks.
@@ -14,32 +36,3 @@ after stripping markup. Most are cross-line unclosed markers or raw data quirks.
 | om      | 2-ne/7.json  | 49:9    | Unclosed `}}`, cuts off last word                  |
 | pm      | alma/20.json | 228:12  | Chapter header, leading `——`                       |
 | pm      | alma/58.json | 323:16  | Chapter header, leading `——`                       |
-
-## Witnesses and title page
-
-Populate the witnesses and title page
-
-## Reference links
-
-Add reference links to the sources
-
-## Metadata
-
-Each version should have a bit of metadata about the version like a short intro.
-Not sure where that lives.
-
-## Git hooks
-
-Add pre commit hook that fmt, lint and unit test. Push will do all checks plus
-e2e tests.
-
-## Pretty Header
-
-Add photos and nice data to headers for shareable links
-
-## Cleanups
-
-### PM
-
-1 Nephi 4:17-18 1 Nephi 5:8-9, 9-10 1 Nephi 5:22 end of chapter ! Nephi 7:8-9,
-19-20

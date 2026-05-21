@@ -80,7 +80,7 @@ Deno.test("banIp — logs ip_banned JSON to stdout", async () => {
     await svc.banIp("5.6.7.8", "/api/.env", "probe_path");
     assertEquals(logged.length, 1);
     const entry = JSON.parse(logged[0]);
-    assertEquals(entry.type, "ip_banned");
+    assertEquals(entry.event, "ip_banned");
     assertEquals(entry.ip, "5.6.7.8");
     assertEquals(entry.trigger_path, "/api/.env");
     assertEquals(entry.reason, "probe_path");
