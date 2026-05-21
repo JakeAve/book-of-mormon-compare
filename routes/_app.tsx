@@ -5,6 +5,7 @@ import Header from "@/components/Header.tsx";
 import BetaBanner from "@/components/BetaBanner.tsx";
 import ScrollRestorer from "@/islands/ScrollRestorer.tsx";
 import Toast from "@/islands/Toast.tsx";
+import PwaManager from "@/islands/PwaManager.tsx";
 
 export default function App({ Component, state }: PageProps<unknown, State>) {
   const head = state.head;
@@ -19,6 +20,9 @@ export default function App({ Component, state }: PageProps<unknown, State>) {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <title>{title}</title>
         <link rel="icon" type="image/svg+xml" href="/logo.svg" />
+        <link rel="manifest" href="/manifest.webmanifest" />
+        <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+        <meta name="theme-color" content="#f4f0e8" />
         <meta name="description" content={description} />
         <meta property="og:type" content="website" />
         <meta property="og:site_name" content="Book of Mormon Compare" />
@@ -48,6 +52,7 @@ export default function App({ Component, state }: PageProps<unknown, State>) {
         <Footer />
         <ScrollRestorer />
         <Toast />
+        <PwaManager />
       </body>
     </html>
   );
