@@ -19,5 +19,6 @@ export default defineConfig({
   },
   define: {
     "self.__WB_MANIFEST": "[]",
+    "process.env.NODE_ENV": JSON.stringify("development"),
   },
 });
