@@ -8,6 +8,7 @@ import {
   parseManuscriptMarkup,
   stripManuscriptMarkup,
 } from "../lib/manuscriptMarkup.ts";
+import VerseLinePopup from "../islands/VerseLinePopup.tsx";
 
 function verseLabel(verse: number) {
   return verse === 0 ? "Intro" : verse;
@@ -140,7 +141,9 @@ export function Diff(
         >
           {v1 && (
             <>
-              {v1.source
+              {v1.lines
+                ? <VerseLinePopup verse={v1.verse} lines={v1.lines} />
+                : v1.source
                 ? (
                   <a
                     href={v1.source}
@@ -212,7 +215,9 @@ export function Diff(
         >
           {v2 && (
             <>
-              {v2.source
+              {v2.lines
+                ? <VerseLinePopup verse={v2.verse} lines={v2.lines} />
+                : v2.source
                 ? (
                   <a
                     href={v2.source}
