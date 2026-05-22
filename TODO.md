@@ -13,6 +13,15 @@ Find a way to decrease cpu time for DiffPages
 - We could sort of memcache in KV - also would get big
 - Set up a robust cache policy for individual users
 
+## Mark and Share position on IOS
+
+The position of that mark and share buttons does not work on IOS because of the
+native options that appear
+
+## Offline page for PWA
+
+Need an offline page that helps re-orient if offline
+
 ## Cleanups
 
 ### PM
