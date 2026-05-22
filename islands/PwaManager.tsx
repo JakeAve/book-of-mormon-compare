@@ -12,6 +12,22 @@ export default function PwaManager() {
   const [note, setNote] = useState<Banner | null>(null);
 
   useEffect(() => {
+    // In dev, unregister any leftover SW from a previous `sw:dev` or `preview`
+    // run and clear its caches so dev never serves stale content.
+    if (import.meta.env.DEV) {
+      if ("serviceWorker" in navigator) {
+        navigator.serviceWorker.getRegistrations().then((regs) => {
+          for (const reg of regs) reg.unregister();
+        });
+      }
+      if ("caches" in globalThis) {
+        caches.keys().then((keys) => {
+          for (const key of keys) caches.delete(key);
+        });
+      }
+      return;
+    }
+
     // Increment first so that when onInstallPrompt fires (or already fired and
     // we read deferredPrompt below), the count reflects the current visit.
     const isChapter = /^\/[^/]+\/\d+/.test(globalThis.location.pathname);
