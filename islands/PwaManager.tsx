@@ -12,19 +12,14 @@ export default function PwaManager() {
   const [note, setNote] = useState<Banner | null>(null);
 
   useEffect(() => {
-    const isChapter = /^\/[^/]+\/\d+/.test(globalThis.location?.pathname ?? "");
-    if (!isChapter) return;
-    const count = parseInt(localStorage.getItem(VISIT_KEY) ?? "0", 10);
-    const next = count + 1;
-    localStorage.setItem(VISIT_KEY, String(next));
-    // Surface deferred install prompt once threshold is reached, accounting for
-    // the fact that beforeinstallprompt fires before this effect runs.
-    if (next >= VISIT_THRESHOLD) {
-      globalThis.dispatchEvent(new CustomEvent("pwa-visit-threshold-met"));
+    // Increment first so that when onInstallPrompt fires (or already fired and
+    // we read deferredPrompt below), the count reflects the current visit.
+    const isChapter = /^\/[^/]+\/\d+/.test(globalThis.location.pathname);
+    if (isChapter) {
+      const count = parseInt(localStorage.getItem(VISIT_KEY) ?? "0", 10);
+      localStorage.setItem(VISIT_KEY, String(count + 1));
     }
-  }, []);
 
-  useEffect(() => {
     if (!("serviceWorker" in navigator)) return;
 
     let deferredPrompt: (Event & { prompt(): void }) | null = null;
@@ -51,11 +46,6 @@ export default function PwaManager() {
       if (count >= VISIT_THRESHOLD) showInstallNote();
     };
     globalThis.addEventListener("beforeinstallprompt", onInstallPrompt);
-
-    // Fired when the current visit pushes count over the threshold (the
-    // beforeinstallprompt event has already fired by this point).
-    const onThresholdMet = () => showInstallNote();
-    globalThis.addEventListener("pwa-visit-threshold-met", onThresholdMet);
 
     // Dismiss banner if user installs via OS-level prompt rather than ours.
     const onAppInstalled = () => {
@@ -106,7 +96,7 @@ export default function PwaManager() {
         // sw.js is only available in the production build — silent in dev
       });
 
-    // Content-change messages from BroadcastUpdatePlugin (v7 uses postMessage, not BroadcastChannel)
+    // BroadcastUpdatePlugin delivers cache-change notifications via postMessage to clients.
     const onSwMessage = (event: MessageEvent) => {
       if (event.data?.type === "CACHE_UPDATED") {
         setNote({
@@ -123,7 +113,6 @@ export default function PwaManager() {
     return () => {
       navigator.serviceWorker.removeEventListener("message", onSwMessage);
       globalThis.removeEventListener("beforeinstallprompt", onInstallPrompt);
-      globalThis.removeEventListener("pwa-visit-threshold-met", onThresholdMet);
       globalThis.removeEventListener("appinstalled", onAppInstalled);
     };
   }, []);
