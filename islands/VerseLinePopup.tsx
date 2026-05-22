@@ -88,6 +88,8 @@ export default function VerseLinePopup({ verse, lines }: Props) {
             boxShadow: "0 4px 12px rgba(0,0,0,0.15)",
             minWidth: "16rem",
             maxWidth: "22rem",
+            maxHeight: "min(20rem, 60vh)",
+            overflowY: "auto",
             padding: "0.25rem 0",
           }}
           role="list"
