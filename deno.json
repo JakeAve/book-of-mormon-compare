@@ -8,6 +8,7 @@
     "pre-push": "deno task check && deno task test",
     "dev": "vite",
     "build": "vite build",
+    "preview": "deno task build && deno task start",
     "start": "deno serve -A _fresh/server.js",
     "update": "deno run -A -r jsr:@fresh/update .",
     "align:om": "deno run -A scripts/align-source.ts om",
