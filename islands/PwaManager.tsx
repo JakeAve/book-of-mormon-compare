@@ -12,18 +12,30 @@ export default function PwaManager() {
   const [note, setNote] = useState<Banner | null>(null);
 
   useEffect(() => {
-    // In dev, unregister any leftover SW from a previous `sw:dev` or `preview`
-    // run and clear its caches so dev never serves stale content.
+    // In dev, unregister any leftover SW from a previous `preview` run and
+    // clear its caches so dev never serves stale content. unregister() releases
+    // control on the *next* navigation, so reload once if a controller is
+    // currently serving this page.
     if (import.meta.env.DEV) {
+      const hadController = "serviceWorker" in navigator &&
+        navigator.serviceWorker.controller !== null;
+      const tasks: Promise<unknown>[] = [];
       if ("serviceWorker" in navigator) {
-        navigator.serviceWorker.getRegistrations().then((regs) => {
-          for (const reg of regs) reg.unregister();
-        });
+        tasks.push(
+          navigator.serviceWorker.getRegistrations().then((regs) =>
+            Promise.all(regs.map((reg) => reg.unregister()))
+          ),
+        );
       }
       if ("caches" in globalThis) {
-        caches.keys().then((keys) => {
-          for (const key of keys) caches.delete(key);
-        });
+        tasks.push(
+          caches.keys().then((keys) =>
+            Promise.all(keys.map((key) => caches.delete(key)))
+          ),
+        );
+      }
+      if (hadController) {
+        Promise.all(tasks).then(() => globalThis.location.reload());
       }
       return;
     }
