@@ -14,8 +14,7 @@
     "align:om": "deno run -A scripts/align-source.ts om",
     "align:pm": "deno run -A scripts/align-source.ts pm",
     "align:1830": "deno run -A scripts/align-source.ts 1830",
-    "align:1837": "deno run -A scripts/align-source.ts 1837",
-    "sw:dev": "vite build --config vite.sw.config.ts"
+    "align:1837": "deno run -A scripts/align-source.ts 1837"
   },
   "lint": {
     "rules": {

@@ -1,6 +1,5 @@
 _fresh/
 node_modules/
-static/sw.js
 .env
 docs/
 **/.DS_Store
