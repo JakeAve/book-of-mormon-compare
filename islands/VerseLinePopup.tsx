@@ -5,6 +5,7 @@ import {
   type ManuscriptKind,
   parseManuscriptMarkup,
 } from "@/lib/manuscriptMarkup.ts";
+import { insertSpaceBetween } from "@/lib/textHelpers.ts";
 
 function verseLabel(verse: number) {
   return verse === 0 ? "Intro" : verse;
@@ -129,7 +130,10 @@ function LineEntry({ line }: { line: VerseLine }) {
       }}
     >
       {parsed.map((token, i) => (
-        <span key={i} style={kindStyle(token.kind)}>{token.text}</span>
+        <span key={i} style={kindStyle(token.kind)}>
+          {token.text}
+          {insertSpaceBetween(token.text, parsed[i + 1]?.text)}
+        </span>
       ))}
     </span>
   );
