@@ -1,6 +1,6 @@
 import { useEffect, useState } from "preact/hooks";
 
-type Notification = {
+type Banner = {
   message: string;
   action?: { label: string; onClick: () => void };
 };
@@ -9,40 +9,60 @@ const VISIT_KEY = "pwa_chapter_visits";
 const VISIT_THRESHOLD = 2;
 
 export default function PwaManager() {
-  const [note, setNote] = useState<Notification | null>(null);
+  const [note, setNote] = useState<Banner | null>(null);
 
-  // Count chapter page visits for install prompt gating
   useEffect(() => {
     const isChapter = /^\/[^/]+\/\d+/.test(globalThis.location?.pathname ?? "");
     if (!isChapter) return;
     const count = parseInt(localStorage.getItem(VISIT_KEY) ?? "0", 10);
-    localStorage.setItem(VISIT_KEY, String(count + 1));
+    const next = count + 1;
+    localStorage.setItem(VISIT_KEY, String(next));
+    // Surface deferred install prompt once threshold is reached, accounting for
+    // the fact that beforeinstallprompt fires before this effect runs.
+    if (next >= VISIT_THRESHOLD) {
+      globalThis.dispatchEvent(new CustomEvent("pwa-visit-threshold-met"));
+    }
   }, []);
 
   useEffect(() => {
     if (!("serviceWorker" in navigator)) return;
 
-    // Capture beforeinstallprompt; surface after visit threshold
     let deferredPrompt: (Event & { prompt(): void }) | null = null;
+
+    function showInstallNote() {
+      if (!deferredPrompt) return;
+      setNote({
+        message: "Add to home screen for offline access.",
+        action: {
+          label: "Install",
+          onClick: () => {
+            deferredPrompt?.prompt();
+            deferredPrompt = null;
+            setNote(null);
+          },
+        },
+      });
+    }
+
     const onInstallPrompt = (e: Event) => {
       e.preventDefault();
       deferredPrompt = e as typeof deferredPrompt;
       const count = parseInt(localStorage.getItem(VISIT_KEY) ?? "0", 10);
-      if (count >= VISIT_THRESHOLD) {
-        setNote({
-          message: "Add to home screen for offline access.",
-          action: {
-            label: "Install",
-            onClick: () => {
-              deferredPrompt?.prompt();
-              deferredPrompt = null;
-              setNote(null);
-            },
-          },
-        });
-      }
+      if (count >= VISIT_THRESHOLD) showInstallNote();
     };
     globalThis.addEventListener("beforeinstallprompt", onInstallPrompt);
+
+    // Fired when the current visit pushes count over the threshold (the
+    // beforeinstallprompt event has already fired by this point).
+    const onThresholdMet = () => showInstallNote();
+    globalThis.addEventListener("pwa-visit-threshold-met", onThresholdMet);
+
+    // Dismiss banner if user installs via OS-level prompt rather than ours.
+    const onAppInstalled = () => {
+      deferredPrompt = null;
+      setNote(null);
+    };
+    globalThis.addEventListener("appinstalled", onAppInstalled);
 
     function showSwUpdateNote(worker: ServiceWorker) {
       setNote({
@@ -50,40 +70,51 @@ export default function PwaManager() {
         action: {
           label: "Apply",
           onClick: () => {
+            // Wait for the new SW to take control before reloading so the
+            // page is served by the updated worker, not the old one.
+            navigator.serviceWorker.addEventListener(
+              "controllerchange",
+              () => globalThis.location.reload(),
+              { once: true },
+            );
             worker.postMessage({ type: "SKIP_WAITING" });
-            location.reload();
           },
         },
       });
     }
 
-    navigator.serviceWorker.register("/sw.js", { scope: "/" }).catch(() => {
-      // sw.js is only available in the production build — silent in dev
-    }).then((reg) => {
-      if (!reg) return;
-      if (reg.waiting) {
-        showSwUpdateNote(reg.waiting);
-      }
-      reg.addEventListener("updatefound", () => {
-        const incoming = reg.installing;
-        if (!incoming) return;
-        incoming.addEventListener("statechange", () => {
-          if (
-            incoming.state === "installed" &&
-            navigator.serviceWorker.controller
-          ) {
-            showSwUpdateNote(incoming);
-          }
+    navigator.serviceWorker
+      .register("/sw.js", { scope: "/" })
+      .then((reg) => {
+        if (reg.waiting) {
+          showSwUpdateNote(reg.waiting);
+        }
+        reg.addEventListener("updatefound", () => {
+          const incoming = reg.installing;
+          if (!incoming) return;
+          incoming.addEventListener("statechange", () => {
+            if (
+              incoming.state === "installed" &&
+              navigator.serviceWorker.controller
+            ) {
+              showSwUpdateNote(incoming);
+            }
+          });
         });
+      })
+      .catch(() => {
+        // sw.js is only available in the production build — silent in dev
       });
-    });
 
     // Content-change messages from BroadcastUpdatePlugin (v7 uses postMessage, not BroadcastChannel)
     const onSwMessage = (event: MessageEvent) => {
       if (event.data?.type === "CACHE_UPDATED") {
         setNote({
           message: "This page has been updated — tap to reload.",
-          action: { label: "Reload", onClick: () => location.reload() },
+          action: {
+            label: "Reload",
+            onClick: () => globalThis.location.reload(),
+          },
         });
       }
     };
@@ -92,6 +123,8 @@ export default function PwaManager() {
     return () => {
       navigator.serviceWorker.removeEventListener("message", onSwMessage);
       globalThis.removeEventListener("beforeinstallprompt", onInstallPrompt);
+      globalThis.removeEventListener("pwa-visit-threshold-met", onThresholdMet);
+      globalThis.removeEventListener("appinstalled", onAppInstalled);
     };
   }, []);
 

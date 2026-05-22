@@ -21,6 +21,7 @@ clientsClaim();
 const NETWORK_ONLY_PATHS = ["/og-image", "/sitemap.xml", "/robots.txt"];
 
 function isSlowConnection(): boolean {
+  if (!navigator.onLine) return true;
   const conn =
     (navigator as unknown as { connection?: { effectiveType: string } })
       .connection;
@@ -39,14 +40,22 @@ registerRoute(
     if (isSlowConnection()) {
       return await new CacheFirst({
         cacheName: "navigation-cache",
-        plugins: [new ExpirationPlugin({ maxEntries: 100 })],
+        plugins: [
+          new ExpirationPlugin({
+            maxEntries: 100,
+            maxAgeSeconds: 30 * 24 * 60 * 60,
+          }),
+        ],
       }).handle(context);
     }
     return await new StaleWhileRevalidate({
       cacheName: "navigation-cache",
       plugins: [
         new BroadcastUpdatePlugin(),
-        new ExpirationPlugin({ maxEntries: 100 }),
+        new ExpirationPlugin({
+          maxEntries: 100,
+          maxAgeSeconds: 30 * 24 * 60 * 60,
+        }),
       ],
     }).handle(context);
   },
