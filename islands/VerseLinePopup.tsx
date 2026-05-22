@@ -30,7 +30,7 @@ interface Props {
 
 export default function VerseLinePopup({ verse, lines }: Props) {
   const open = useSignal(false);
-  const ref = useRef<HTMLDivElement>(null);
+  const ref = useRef<HTMLSpanElement>(null);
 
   useEffect(() => {
     if (!open.value) return;
@@ -54,7 +54,7 @@ export default function VerseLinePopup({ verse, lines }: Props) {
   }, [open.value]);
 
   return (
-    <div ref={ref} style={{ position: "relative", display: "inline-block" }}>
+    <span ref={ref} style={{ position: "relative", display: "inline-block" }}>
       <button
         type="button"
         data-tutorial="verse-source"
@@ -97,7 +97,7 @@ export default function VerseLinePopup({ verse, lines }: Props) {
           {lines.map((line) => <LineEntry key={line.id} line={line} />)}
         </div>
       )}
-    </div>
+    </span>
   );
 }
 
