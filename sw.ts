@@ -1,7 +1,7 @@
 /// <reference lib="webworker" />
 import { clientsClaim } from "workbox-core";
 import { cleanupOutdatedCaches, precacheAndRoute } from "workbox-precaching";
-import { registerRoute } from "workbox-routing";
+import { registerRoute, setCatchHandler } from "workbox-routing";
 import {
   CacheFirst,
   NetworkOnly,
@@ -17,6 +17,17 @@ declare const self: ServiceWorkerGlobalScope & {
 precacheAndRoute(self.__WB_MANIFEST);
 cleanupOutdatedCaches();
 clientsClaim();
+
+const OFFLINE_CACHE = "offline-fallback";
+const OFFLINE_URL = "/offline";
+
+self.addEventListener("install", (event) => {
+  event.waitUntil(
+    caches.open(OFFLINE_CACHE).then((cache) =>
+      cache.add(new Request(OFFLINE_URL, { cache: "reload" }))
+    ),
+  );
+});
 
 const NETWORK_ONLY_PATHS = ["/og-image", "/sitemap.xml", "/robots.txt"];
 
@@ -68,6 +79,16 @@ registerRoute(
     plugins: [new ExpirationPlugin({ maxAgeSeconds: 30 * 24 * 60 * 60 })],
   }),
 );
+
+setCatchHandler(async ({ request }) => {
+  if (request.mode === "navigate") {
+    const cached = await caches.match(OFFLINE_URL, {
+      cacheName: OFFLINE_CACHE,
+    });
+    if (cached) return cached;
+  }
+  return Response.error();
+});
 
 self.addEventListener("message", (event) => {
   if (event.data?.type === "SKIP_WAITING") {
