@@ -55,50 +55,55 @@ export default function VerseLinePopup({ verse, lines }: Props) {
   }, [open.value]);
 
   return (
-    <span ref={ref} style={{ position: "relative", display: "inline-block" }}>
-      <button
-        type="button"
-        data-tutorial="verse-source"
-        aria-expanded={open.value}
-        aria-label={`Verse ${verseLabel(verse)} — view source lines`}
-        onClick={() => (open.value = !open.value)}
-        style={{
-          color: "var(--color-verse-num)",
-          fontSize: "0.6875rem",
-          fontFamily: "sans-serif",
-          fontWeight: "500",
-          marginRight: "0.375rem",
-          background: "none",
-          border: "none",
-          padding: "0",
-          cursor: "pointer",
-        }}
-      >
-        {verseLabel(verse)}
-      </button>
-      {open.value && (
-        <div
+    <>
+      <style>
+        {`.verse-source-link:hover,.verse-source-link:focus{text-decoration:underline}`}
+      </style>
+      <span ref={ref} style={{ position: "relative", display: "inline-block" }}>
+        <button
+          type="button"
+          data-tutorial="verse-source"
+          aria-expanded={open.value}
+          aria-label={`Verse ${verseLabel(verse)} — view source lines`}
+          onClick={() => (open.value = !open.value)}
           style={{
-            position: "absolute",
-            top: "100%",
-            left: "0",
-            zIndex: 50,
-            background: "var(--color-dialog-bg)",
-            border: "1px solid var(--color-dialog-border)",
-            borderRadius: "0.375rem",
-            boxShadow: "0 4px 12px rgba(0,0,0,0.15)",
-            minWidth: "16rem",
-            maxWidth: "22rem",
-            maxHeight: "min(20rem, 60vh)",
-            overflowY: "auto",
-            padding: "0.25rem 0",
+            color: "var(--color-verse-num)",
+            fontSize: "0.6875rem",
+            fontFamily: "sans-serif",
+            fontWeight: "500",
+            marginRight: "0.375rem",
+            background: "none",
+            border: "none",
+            padding: "0",
+            cursor: "pointer",
           }}
-          role="list"
         >
-          {lines.map((line) => <LineEntry key={line.id} line={line} />)}
-        </div>
-      )}
-    </span>
+          {verseLabel(verse)}
+        </button>
+        {open.value && (
+          <div
+            style={{
+              position: "absolute",
+              top: "100%",
+              left: "0",
+              zIndex: 50,
+              background: "var(--color-dialog-bg)",
+              border: "1px solid var(--color-dialog-border)",
+              borderRadius: "0.375rem",
+              boxShadow: "0 4px 12px rgba(0,0,0,0.15)",
+              minWidth: "16rem",
+              maxWidth: "22rem",
+              maxHeight: "min(20rem, 60vh)",
+              overflowY: "auto",
+              padding: "0.25rem 0",
+            }}
+            role="list"
+          >
+            {lines.map((line) => <LineEntry key={line.id} line={line} />)}
+          </div>
+        )}
+      </span>
+    </>
   );
 }
 
@@ -125,31 +130,33 @@ function LineEntry({ line }: { line: VerseLine }) {
     </span>
   );
 
-  const rowStyle = {
-    display: "flex",
-    alignItems: "center",
-    padding: "0.3rem 0.75rem",
-    fontSize: "0.75rem",
-    fontFamily: "sans-serif",
-    color: "var(--color-text)",
-    gap: "0.375rem",
-  };
-
   if (line.source) {
     return (
-      <div role="listitem" style={rowStyle}>
-        <a
-          href={line.source}
-          target="_blank"
-          rel="noopener noreferrer"
-          title="View source"
-          class="verse-source-link"
+      <a
+        role="listitem"
+        href={line.source}
+        target="_blank"
+        rel="noopener noreferrer"
+        title="View source"
+        class="verse-source-link"
+        style={{
+          display: "flex",
+          alignItems: "center",
+          padding: "0.3rem 0.75rem",
+          fontSize: "0.75rem",
+          fontFamily: "sans-serif",
+          color: "var(--color-text)",
+          gap: "0.375rem",
+          textDecoration: "none",
+          cursor: "pointer",
+          overflow: "hidden",
+        }}
+      >
+        <span
           style={{
             display: "inline-flex",
             alignItems: "center",
             gap: "0.2rem",
-            color: "var(--color-text)",
-            textDecoration: "none",
             flexShrink: 0,
           }}
         >
@@ -164,15 +171,27 @@ function LineEntry({ line }: { line: VerseLine }) {
           >
             <path d="M200-120q-33 0-56.5-23.5T120-200v-560q0-33 23.5-56.5T200-840h280v80H200v560h560v-280h80v280q0 33-23.5 56.5T760-120H200Zm188-212-56-56 372-372H560v-80h280v280h-80v-144L388-332Z" />
           </svg>
-        </a>
+        </span>
         {preview}
-      </div>
+      </a>
     );
   }
 
   return (
-    <div role="listitem" style={rowStyle}>
-      <span style={{ flexShrink: 0, color: "var(--color-text)" }}>
+    <div
+      role="listitem"
+      style={{
+        display: "flex",
+        alignItems: "center",
+        padding: "0.3rem 0.75rem",
+        fontSize: "0.75rem",
+        fontFamily: "sans-serif",
+        color: "var(--color-text)",
+        gap: "0.375rem",
+        overflow: "hidden",
+      }}
+    >
+      <span style={{ flexShrink: 0 }}>
         Line {line.line}:
       </span>
       {preview}

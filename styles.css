@@ -186,12 +186,6 @@ body {
   font-weight: 600;
 }
 
-/* Verse source link */
-.verse-source-link:hover,
-.verse-source-link:focus {
-  text-decoration: underline;
-}
-
 /* Tutorial dialog */
 .tutorial-dialog {
   width: clamp(280px, 92vw, 480px);
