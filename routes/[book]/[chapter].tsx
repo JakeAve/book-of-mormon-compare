@@ -16,7 +16,6 @@ import WordMatchListener from "../../islands/WordMatchListener.tsx";
 import SelectionMenu from "../../islands/SelectionMenu.tsx";
 import TutorialDialog from "../../islands/TutorialDialog.tsx";
 import SwipeNavigator from "../../islands/SwipeNavigator.tsx";
-import { log } from "../../lib/logger.ts";
 
 interface PageData {
   verses1: Verse[];
@@ -33,12 +32,10 @@ interface PageData {
 
 export const handler = define.handlers({
   async GET(ctx) {
-    const start = performance.now();
     const { book, chapter } = ctx.params;
     const versions = await getVersions();
 
     if (versions.length === 0) {
-      log("warn", "not_found", { book, chapter });
       throw new HttpError(404);
     }
 
@@ -61,7 +58,6 @@ export const handler = define.handlers({
     const markedVerses = parseMarkParam(params.get("mark"));
 
     if (!versions.includes(v1) || !versions.includes(v2)) {
-      log("warn", "not_found", { book, chapter, v1, v2 });
       throw new HttpError(404);
     }
 
@@ -72,7 +68,6 @@ export const handler = define.handlers({
     ]);
 
     if (verses1.length === 0 && verses2.length === 0) {
-      log("warn", "not_found", { book, chapter, v1, v2 });
       throw new HttpError(404);
     }
 
@@ -103,14 +98,6 @@ export const handler = define.handlers({
       }`,
       canonicalUrl: `${siteUrl}/${book}/${chapter}?v1=pm&v2=2013`,
     };
-
-    log("info", "page_view", {
-      book,
-      chapter,
-      v1,
-      v2,
-      durationMs: Math.round(performance.now() - start),
-    });
 
     return {
       data: {
