@@ -30,6 +30,7 @@ export default define.page<typeof handler>(() => {
           connection.
         </p>
       </header>
+      <div data-offline-fallback hidden />
       <CachedPagesList />
     </main>
   );

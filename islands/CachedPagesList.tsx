@@ -23,8 +23,6 @@ export default function CachedPagesList() {
   const [groups, setGroups] = useState<CachedGroup[] | null>(null);
 
   useEffect(() => {
-    globalThis.dispatchEvent(new CustomEvent("pwa-offline-fallback"));
-
     if (!("caches" in globalThis)) {
       setGroups([]);
       return;

@@ -138,7 +138,7 @@ export default function PwaManager() {
     };
     navigator.serviceWorker.addEventListener("message", onSwMessage);
 
-    const onOfflineFallback = () => {
+    if (document.querySelector("[data-offline-fallback]")) {
       setNote({
         message: "You're offline — try reloading the page you wanted.",
         action: {
@@ -146,17 +146,12 @@ export default function PwaManager() {
           onClick: () => globalThis.location.reload(),
         },
       });
-    };
-    globalThis.addEventListener("pwa-offline-fallback", onOfflineFallback);
+    }
 
     return () => {
       navigator.serviceWorker.removeEventListener("message", onSwMessage);
       globalThis.removeEventListener("beforeinstallprompt", onInstallPrompt);
       globalThis.removeEventListener("appinstalled", onAppInstalled);
-      globalThis.removeEventListener(
-        "pwa-offline-fallback",
-        onOfflineFallback,
-      );
     };
   }, []);
 
