@@ -19,6 +19,8 @@ export const handler = define.handlers({
       `<?xml version="1.0" encoding="UTF-8"?>`,
       `<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">`,
       `  <url><loc>${base}/about</loc></url>`,
+      `  <url><loc>${base}/versions</loc></url>`,
+      `  <url><loc>${base}/textual-criticism</loc></url>`,
       ...chapterUrls,
       `</urlset>`,
     ].join("\n");
