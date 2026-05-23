@@ -105,19 +105,6 @@ export default function VerseLinePopup({ verse, lines }: Props) {
 function LineEntry({ line }: { line: VerseLine }) {
   const parsed = parseManuscriptMarkup(line.markdown ?? line.text);
 
-  const label = (
-    <span
-      style={{
-        flexShrink: 0,
-        marginRight: "0.25rem",
-        color: "var(--color-verse-num)",
-        fontWeight: "500",
-      }}
-    >
-      Line {line.line}:
-    </span>
-  );
-
   const preview = (
     <span
       style={{
@@ -144,38 +131,50 @@ function LineEntry({ line }: { line: VerseLine }) {
     padding: "0.3rem 0.75rem",
     fontSize: "0.75rem",
     fontFamily: "sans-serif",
-    textDecoration: "none",
     color: "var(--color-text)",
+    gap: "0.375rem",
   };
 
   if (line.source) {
     return (
-      <a
-        href={line.source}
-        target="_blank"
-        rel="noopener noreferrer"
-        title="View source"
-        role="listitem"
-        style={{ ...rowStyle, cursor: "pointer" }}
-      >
-        {label}
-        {preview}
-        <span
+      <div role="listitem" style={rowStyle}>
+        <a
+          href={line.source}
+          target="_blank"
+          rel="noopener noreferrer"
+          title="View source"
+          class="verse-source-link"
           style={{
+            display: "inline-flex",
+            alignItems: "center",
+            gap: "0.2rem",
+            color: "var(--color-text)",
+            textDecoration: "none",
             flexShrink: 0,
-            marginLeft: "0.25rem",
-            color: "var(--color-verse-num)",
           }}
         >
-          ↗
-        </span>
-      </a>
+          Line {line.line}:
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            height="14"
+            viewBox="0 -960 960 960"
+            width="14"
+            fill="currentColor"
+            style={{ display: "block", flexShrink: 0 }}
+          >
+            <path d="M200-120q-33 0-56.5-23.5T120-200v-560q0-33 23.5-56.5T200-840h280v80H200v560h560v-280h80v280q0 33-23.5 56.5T760-120H200Zm188-212-56-56 372-372H560v-80h280v280h-80v-144L388-332Z" />
+          </svg>
+        </a>
+        {preview}
+      </div>
     );
   }
 
   return (
     <div role="listitem" style={rowStyle}>
-      {label}
+      <span style={{ flexShrink: 0, color: "var(--color-text)" }}>
+        Line {line.line}:
+      </span>
       {preview}
     </div>
   );
