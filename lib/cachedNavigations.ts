@@ -15,6 +15,8 @@ export type CachedGroup = {
 };
 
 const BOOK_SET = new Set<string>(BOOK_ORDER as readonly string[]);
+const bookIndex = new Map<string, number>();
+(BOOK_ORDER as readonly string[]).forEach((b, i) => bookIndex.set(b, i));
 
 function parse(href: string): CachedEntry | null {
   let url: URL;
@@ -28,7 +30,6 @@ function parse(href: string): CachedEntry | null {
   const [, book, chapterStr] = match;
   if (!BOOK_SET.has(book)) return null;
   const chapter = Number(chapterStr);
-  if (!Number.isInteger(chapter)) return null;
   const v1 = url.searchParams.get("v1");
   const v2 = url.searchParams.get("v2");
   if (!v1 || !v2) return null;
@@ -42,9 +43,6 @@ function parse(href: string): CachedEntry | null {
 }
 
 export function groupCachedNavigations(hrefs: string[]): CachedGroup[] {
-  const bookIndex = new Map<string, number>();
-  (BOOK_ORDER as readonly string[]).forEach((b, i) => bookIndex.set(b, i));
-
   const byPair = new Map<string, CachedGroup>();
   for (const href of hrefs) {
     const entry = parse(href);
