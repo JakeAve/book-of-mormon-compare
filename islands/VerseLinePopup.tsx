@@ -147,7 +147,6 @@ function LineEntry({ line }: { line: VerseLine }) {
           fontFamily: "sans-serif",
           color: "var(--color-text)",
           gap: "0.375rem",
-          textDecoration: "none",
           cursor: "pointer",
           overflow: "hidden",
         }}
