@@ -95,13 +95,14 @@ function headingToBook(normalized: string): string | null {
 
 /** Fraction of canonical chapter words counted as the "tail" for boundary
  *  anchoring. The last matched source position within this tail determines
- *  the chapter cut-point, preventing common words later in the source from
- *  inflating the advance past the real chapter end. */
-const CHAPTER_TAIL_FRACTION = 0.15;
+ *  the chapter cut-point. A small value (≈ last verse) gives the most
+ *  specific vocabulary for anchoring — large tails include common phrases
+ *  that also appear in the following chapter and pull the boundary too far. */
+const CHAPTER_TAIL_FRACTION = 0.02;
 
 /** Minimum number of canonical words in the tail window, regardless of
  *  chapter length. */
-const CHAPTER_TAIL_MIN = 10;
+const CHAPTER_TAIL_MIN = 3;
 
 /** Search window multiplier: how many source words to look at per canonical
  *  chapter word. Keep this at 1.0 (= the expected PM/canonical ratio) so the
