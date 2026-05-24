@@ -36,6 +36,7 @@ Deno.test("tokenizeSource: produces words in page/line order", async () => {
     assertEquals(words[0].page, 1);
     assertEquals(words[0].line, 1);
     assertEquals(words[0].wordIndexInLine, 0);
+    assertEquals(words[0].source, "url1");
     assertEquals(words[1].norm, "nephi");
     assertEquals(words[1].wordIndexInLine, 1);
   });
@@ -97,5 +98,20 @@ Deno.test("tokenizeSource: skips punctuation-only tokens from norm", async () =>
   }, async (dir) => {
     const { words } = await tokenizeSource(dir);
     assertEquals(words.map((w) => w.norm), ["end", "start"]);
+  });
+});
+
+Deno.test("tokenizeSource: {{shaded}} text is included in norm (delimiters stripped)", async () => {
+  await withFixture({
+    "1.json": [{
+      text: "it came",
+      markdown: "{{it}} came",
+      chapter: 1,
+      verse: 1,
+    }],
+  }, async (dir) => {
+    const { words } = await tokenizeSource(dir);
+    // "it" is shaded in markdown but still present in text — should appear in norm stream
+    assertEquals(words.map((w) => w.norm), ["it", "came"]);
   });
 });
