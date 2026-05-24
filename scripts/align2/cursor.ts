@@ -119,7 +119,7 @@ export function runCursor(
     const newCursor = lcs.lastMatchedIdx >= 0
       ? cursor + Math.min(
         lcs.lastMatchedIdx + 1,
-        Math.max(Math.round(verseNorms.length * 1.25), 20),
+        Math.max(Math.round(verseNorms.length * 1.0), 5),
       )
       : cursor;
 
