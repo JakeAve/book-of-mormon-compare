@@ -66,15 +66,21 @@ Deno.test("runCursor: unmatched source words inherit surrounding verse", () => {
 });
 
 Deno.test("runCursor: stuck recovery — wide window finds match beyond normal window", () => {
-  // 160 filler words push "i" and "nephi" past the normal W=150 window
+  // Verse 1 has words that don't appear in source → stuckCount = 1 after verse 1
+  // Verse 2 words are at source index 160+, beyond normal W=150 → stuckCount = 2,
+  // triggers wide window (W=400) which reaches them
   const filler = Array.from({ length: 160 }, (_, i) => `zzz${i}`);
   const result = runCursor(
     src([...filler, "i", "nephi"]),
-    [tgt(1, ["i", "nephi"])],
+    [
+      tgt(1, ["doesnotappear1", "doesnotappear2"]), // no matches → stuck
+      tgt(2, ["i", "nephi"]), // beyond W=150, needs wide window
+    ],
   );
-  const verse1 = result.filter((r) => r.assignedVerse.verse === 1);
-  assertExists(verse1.find((r) => r.norm === "i"));
-  assertExists(verse1.find((r) => r.norm === "nephi"));
+  // "i" and "nephi" must be assigned to verse 2 via wide window
+  const verse2 = result.filter((r) => r.assignedVerse.verse === 2);
+  assertExists(verse2.find((r) => r.norm === "i"));
+  assertExists(verse2.find((r) => r.norm === "nephi"));
 });
 
 Deno.test("runCursor: trailing source words after all verses get last verse", () => {
