@@ -104,8 +104,11 @@ const CHAPTER_TAIL_FRACTION = 0.15;
 const CHAPTER_TAIL_MIN = 10;
 
 /** Search window multiplier: how many source words to look at per canonical
- *  chapter word. 1.2 gives 20% slack over the expected PM/canonical ratio. */
-const WINDOW_SLACK = 1.2;
+ *  chapter word. Keep this at 1.0 (= the expected PM/canonical ratio) so the
+ *  LCS cannot see the next chapter's content and match against it. The consume
+ *  cap (CONSUME_SLACK) provides the small extra buffer needed for verbosity
+ *  variance without exposing adjacent-chapter vocabulary to the LCS. */
+const WINDOW_SLACK = 1.0;
 
 /** Minimum source-word window per canonical chapter. */
 const WINDOW_MIN = 30;
@@ -179,7 +182,11 @@ function chapterLCS(
       }
       i--;
       j--;
-    } else if (dp[i - 1][j] >= dp[i][j - 1]) {
+    } else if (dp[i - 1][j] > dp[i][j - 1]) {
+      // Strict > (not >=): on a tie, advance canonical (j) rather than source (i).
+      // This matches each canonical word to the earliest possible source position,
+      // preventing the same phrase appearing later in the source from pulling the
+      // chapter boundary forward (e.g. "fifty yea" in 3:31 vs its echo in 4:1).
       i--;
     } else {
       j--;
