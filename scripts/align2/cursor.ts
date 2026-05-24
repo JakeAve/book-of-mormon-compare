@@ -271,7 +271,7 @@ export function runCursor(
       fillGaps(rawAssignments, canon.words.length - 1);
 
       const expectedConsume = Math.max(
-        Math.round(canon.words.length * srcPerCanon),
+        Math.round(canon.words.length * srcPerCanon * 1.05),
         5,
       );
       const consumeCount = lastMatchedSrc >= 0
