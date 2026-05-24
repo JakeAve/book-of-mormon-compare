@@ -38,14 +38,22 @@ function compareNormalized(a: string, b: string): MatchLevel {
   if (!a || !b) return 0;
   if (a === b) return 1;
   if (
+    Math.min(a.length, b.length) >= 5 &&
     a[0] === b[0] &&
     a[a.length - 1] === b[b.length - 1] &&
     Math.abs(a.length - b.length) <= 2
   ) return 2;
-  if (levenshtein(a, b) <= levThreshold(Math.max(a.length, b.length))) return 3;
+  if (
+    Math.min(a.length, b.length) >= 4 &&
+    levenshtein(a, b) <= levThreshold(Math.max(a.length, b.length))
+  ) return 3;
   return 0;
 }
 
+/**
+ * @param a - scribal (source) word — normalized
+ * @param b - canonical (target) word — normalized
+ */
 export function matchQuality(a: string, b: string): MatchLevel {
   const direct = compareNormalized(a, b);
   if (direct > 0) return direct;

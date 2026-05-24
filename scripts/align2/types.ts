@@ -1,5 +1,3 @@
-// scripts/align2/types.ts
-
 export interface SourceWord {
   /** Normalized form used for matching. */
   norm: string;

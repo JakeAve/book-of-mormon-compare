@@ -26,7 +26,7 @@ Deno.test("matches: level 2 — obediant → obedient", () => {
 Deno.test("matches: level 3 — Levenshtein catches edit distance variants", () => {
   // 'spak' vs 'spake': 1 edit, lengths 4 and 5 — threshold for len<=5 is 1
   assertEquals(matches("spak", "spake"), true);
-  assertEquals(matchQuality("spak", "spake") >= 3, true);
+  assertEquals(matchQuality("spak", "spake"), 3);
 });
 
 Deno.test("matches: level 4 — dictionary lookup", () => {
@@ -53,4 +53,12 @@ Deno.test("matches: returns false for clearly different words", () => {
 Deno.test("matches: empty strings do not match", () => {
   assertEquals(matches("", "word"), false);
   assertEquals(matches("word", ""), false);
+});
+
+Deno.test("matches: short words require exact match — no level 2/3 fuzzy", () => {
+  // 3-letter words with 1 char difference must NOT match
+  assertEquals(matches("him", "hum"), false);
+  assertEquals(matches("saw", "sow"), false);
+  // exact short words still match
+  assertEquals(matches("him", "him"), true);
 });
