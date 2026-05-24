@@ -8,6 +8,8 @@ const STUCK_THRESHOLD = 0.3;
 const STUCK_CONSECUTIVE = 2;
 
 interface LCSResult {
+  /** Index into the source window of the first matched source word. -1 if no matches. */
+  firstMatchedIdx: number;
   /** Index into the source window of the last matched source word. -1 if no matches. */
   lastMatchedIdx: number;
   matchedCount: number;
@@ -16,7 +18,9 @@ interface LCSResult {
 function windowLCS(verseNorms: string[], window: SourceWord[]): LCSResult {
   const m = verseNorms.length;
   const n = window.length;
-  if (m === 0 || n === 0) return { lastMatchedIdx: -1, matchedCount: 0 };
+  if (m === 0 || n === 0) {
+    return { firstMatchedIdx: -1, lastMatchedIdx: -1, matchedCount: 0 };
+  }
 
   // O(m*n) DP — m ≤ ~100 verse words, n ≤ 400 window words: at most 40k cells
   const dp: Uint16Array[] = Array.from(
@@ -31,14 +35,17 @@ function windowLCS(verseNorms: string[], window: SourceWord[]): LCSResult {
     }
   }
 
-  // Backtrack to find last (rightmost) matched source index
+  // Backtrack to find first and last matched source indices
   let i = m;
   let j = n;
+  let firstMatchedIdx = -1;
   let lastMatchedIdx = -1;
   let matchedCount = 0;
   while (i > 0 && j > 0) {
     if (matches(window[j - 1].norm, verseNorms[i - 1])) {
-      if (j - 1 > lastMatchedIdx) lastMatchedIdx = j - 1;
+      // Backtracking finds matches in reverse — last in source = first we encounter
+      if (lastMatchedIdx === -1) lastMatchedIdx = j - 1;
+      firstMatchedIdx = j - 1; // always update — last update is the smallest index
       matchedCount++;
       i--;
       j--;
@@ -48,7 +55,7 @@ function windowLCS(verseNorms: string[], window: SourceWord[]): LCSResult {
       j--;
     }
   }
-  return { lastMatchedIdx, matchedCount };
+  return { firstMatchedIdx, lastMatchedIdx, matchedCount };
 }
 
 export function runCursor(
@@ -105,9 +112,15 @@ export function runCursor(
       stuckCount = 0;
     }
 
-    // Consume source words up through the last matched position
+    // Consume source words up through the last matched position, capped to prevent
+    // over-consumption when common words (e.g. "and", "the") appear far into the window
+    // and inflate lastMatchedIdx. Cap the total advance to ~1.5× the verse length so
+    // the cursor stays close to the true verse boundary regardless of window position.
     const newCursor = lcs.lastMatchedIdx >= 0
-      ? cursor + lcs.lastMatchedIdx + 1
+      ? cursor + Math.min(
+        lcs.lastMatchedIdx + 1,
+        Math.max(Math.round(verseNorms.length * 1.25), 20),
+      )
       : cursor;
 
     for (let k = cursor; k < newCursor; k++) {
