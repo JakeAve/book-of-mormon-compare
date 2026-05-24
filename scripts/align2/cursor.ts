@@ -61,8 +61,16 @@ function windowLCS(verseNorms: string[], window: SourceWord[]): LCSResult {
 export function runCursor(
   source: SourceWord[],
   verseGroups: VerseGroup[],
+  opts: { advanceMultiplier?: number } = {},
 ): CursorResult[] {
   if (source.length === 0 || verseGroups.length === 0) return [];
+
+  const totalTargetWords = verseGroups.reduce(
+    (s, vg) => s + vg.words.length,
+    0,
+  );
+  const advanceMultiplier = opts.advanceMultiplier ??
+    (totalTargetWords > 0 ? source.length / totalTargetWords : 1.4);
 
   const result: CursorResult[] = [];
   let cursor = 0;
@@ -119,7 +127,7 @@ export function runCursor(
     const newCursor = lcs.lastMatchedIdx >= 0
       ? cursor + Math.min(
         lcs.lastMatchedIdx + 1,
-        Math.max(Math.round(verseNorms.length * 1.0), 5),
+        Math.max(Math.round(verseNorms.length * advanceMultiplier), 5),
       )
       : cursor;
 

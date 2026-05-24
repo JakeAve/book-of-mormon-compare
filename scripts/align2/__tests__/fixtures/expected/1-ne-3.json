@@ -5,18 +5,18 @@
     "verse": 1,
     "lines": [
       {
-        "id": "7:27b",
+        "id": "7:30b",
         "page": 7,
-        "line": 27,
-        "text": "was a visionary man ",
-        "markdown": "was a visionary [man] ",
+        "line": 30,
+        "text": "this they said he had done because of the foolish immagiona ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/7"
       },
       {
-        "id": "7:28a",
+        "id": "7:31a",
         "page": 7,
-        "line": 28,
-        "text": "& that he had lead them out of the land of Jerusalem to leave the land",
+        "line": 31,
+        "text": "tions of his heart & thus Laman & Lemuel",
+        "markdown": "tions of his heart & ~~this~~ [thus] Laman & Lemuel",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/7"
       }
     ]
@@ -27,31 +27,32 @@
     "verse": 2,
     "lines": [
       {
-        "id": "7:28b",
-        "page": 7,
-        "line": 28,
-        "text": "of the ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/7"
-      },
-      {
-        "id": "7:29",
-        "page": 7,
-        "line": 29,
-        "text": "ir inheritance & their gold & their silver & their precious things & to perish in ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/7"
-      },
-      {
-        "id": "7:30",
-        "page": 7,
-        "line": 30,
-        "text": "the wilderness & this they said he had done because of the foolish immagiona ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/7"
-      },
-      {
-        "id": "7:31a",
+        "id": "7:31b",
         "page": 7,
         "line": 31,
-        "text": "tions of",
+        "text": "being the eldest did murmur ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/7"
+      },
+      {
+        "id": "7:32",
+        "page": 7,
+        "line": 32,
+        "text": "against their father & they did murmur because they knew not the ",
+        "markdown": "against their father & they did murmur because they ~~knew~~ knew not the ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/7"
+      },
+      {
+        "id": "7:33",
+        "page": 7,
+        "line": 33,
+        "text": "dealings of that God who had created them neither did they believe that Jer",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/7"
+      },
+      {
+        "id": "7:34a",
+        "page": 7,
+        "line": 34,
+        "text": "usalem that great City",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/7"
       }
     ]
@@ -62,19 +63,24 @@
     "verse": 3,
     "lines": [
       {
-        "id": "7:31b",
+        "id": "7:34b",
         "page": 7,
-        "line": 31,
-        "text": "his heart & thus Laman & Lemuel being the eldest did murmur ",
-        "markdown": "his heart & ~~this~~ [thus] Laman & Lemuel being the eldest did murmur ",
+        "line": 34,
+        "text": "could be destroid according to the words of the ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/7"
       },
       {
-        "id": "7:32",
+        "id": "7:35",
         "page": 7,
-        "line": 32,
-        "text": "against their father & they did murmur because they knew not the",
-        "markdown": "against their father & they did murmur because they ~~knew~~ knew not the",
+        "line": 35,
+        "text": "prophets & they were like unto the Jews which were at Jerusalem which sought ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/7"
+      },
+      {
+        "id": "7:36a",
+        "page": 7,
+        "line": 36,
+        "text": "to take",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/7"
       }
     ]
@@ -85,25 +91,25 @@
     "verse": 4,
     "lines": [
       {
-        "id": "7:33",
+        "id": "7:36b",
         "page": 7,
-        "line": 33,
-        "text": "dealings of that God who had created them neither did they believe that Jer ",
+        "line": 36,
+        "text": "away the life of my father & it came to pass that my father did ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/7"
       },
       {
-        "id": "7:34",
+        "id": "7:37",
         "page": 7,
-        "line": 34,
-        "text": "usalem that great City could be destroid according to the words of the ",
+        "line": 37,
+        "text": "speak unto them in the vally of Lemuel with power being filled ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/7"
       },
       {
-        "id": "7:35a",
-        "page": 7,
-        "line": 35,
-        "text": "prophets & they",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/7"
+        "id": "8:1a",
+        "page": 8,
+        "line": 1,
+        "text": "with the spirit untill",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
       }
     ]
   },
@@ -113,59 +119,10 @@
     "verse": 5,
     "lines": [
       {
-        "id": "7:35b",
-        "page": 7,
-        "line": 35,
-        "text": "were like unto the Jews which were at Jerusalem which sought ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/7"
-      },
-      {
-        "id": "7:36",
-        "page": 7,
-        "line": 36,
-        "text": "to take away the life of my father & it came to pass that my father did ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/7"
-      },
-      {
-        "id": "7:37a",
-        "page": 7,
-        "line": 37,
-        "text": "speak unto them in the vally of",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/7"
-      }
-    ]
-  },
-  {
-    "book": "1-ne",
-    "chapter": 3,
-    "verse": 6,
-    "lines": [
-      {
-        "id": "7:37b",
-        "page": 7,
-        "line": 37,
-        "text": "Lemuel with power being filled ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/7"
-      },
-      {
-        "id": "8:1a",
-        "page": 8,
-        "line": 1,
-        "text": "with the spirit untill their frames did shake before him & he",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
-      }
-    ]
-  },
-  {
-    "book": "1-ne",
-    "chapter": 3,
-    "verse": 7,
-    "lines": [
-      {
         "id": "8:1b",
         "page": 8,
         "line": 1,
-        "text": "did ",
+        "text": "their frames did shake before him & he did ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
       },
       {
@@ -179,9 +136,16 @@
         "id": "8:3",
         "page": 8,
         "line": 3,
-        "text": "did do as he commanded them & my father dwelt in a tent & it came ",
+        "text": "did do as he commanded them & my father dwelt in a tent & it came",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
-      },
+      }
+    ]
+  },
+  {
+    "book": "1-ne",
+    "chapter": 3,
+    "verse": 6,
+    "lines": [
       {
         "id": "8:4",
         "page": 8,
@@ -190,17 +154,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
       },
       {
-        "id": "8:5",
+        "id": "8:5a",
         "page": 8,
         "line": 5,
-        "text": "in statture & also haveing great desires to know of the mysteries of ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
-      },
-      {
-        "id": "8:6a",
-        "page": 8,
-        "line": 6,
-        "text": "God wherefore I did",
+        "text": "in statture & also haveing great",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
       }
     ]
@@ -208,29 +165,29 @@
   {
     "book": "1-ne",
     "chapter": 3,
-    "verse": 8,
+    "verse": 7,
     "lines": [
       {
-        "id": "8:6b",
+        "id": "8:5b",
+        "page": 8,
+        "line": 5,
+        "text": "desires to know of the mysteries of ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
+      },
+      {
+        "id": "8:6",
         "page": 8,
         "line": 6,
-        "text": "cry unto the Lord & behold he did visit me & did sof ",
+        "text": "God wherefore I did cry unto the Lord & behold he did visit me & did sof ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
       },
       {
         "id": "8:7",
         "page": 8,
         "line": 7,
-        "text": "ten my heart that I did believe all the words which had been spoken by",
+        "text": "ten my heart that I did believe all the words which had been spoken by ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
-      }
-    ]
-  },
-  {
-    "book": "1-ne",
-    "chapter": 3,
-    "verse": 9,
-    "lines": [
+      },
       {
         "id": "8:8",
         "page": 8,
@@ -242,7 +199,7 @@
         "id": "8:9a",
         "page": 8,
         "line": 9,
-        "text": "others & I spake unto Sam makeing known unto him",
+        "text": "others & I spake unto",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
       }
     ]
@@ -250,13 +207,13 @@
   {
     "book": "1-ne",
     "chapter": 3,
-    "verse": 10,
+    "verse": 8,
     "lines": [
       {
         "id": "8:9b",
         "page": 8,
         "line": 9,
-        "text": "the things whi ",
+        "text": "Sam makeing known unto him the things whi ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
       },
       {
@@ -271,7 +228,7 @@
         "id": "8:11a",
         "page": 8,
         "line": 11,
-        "text": "that he believed in my words",
+        "text": "that he believed in my",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
       }
     ]
@@ -279,13 +236,13 @@
   {
     "book": "1-ne",
     "chapter": 3,
-    "verse": 11,
+    "verse": 9,
     "lines": [
       {
         "id": "8:11b",
         "page": 8,
         "line": 11,
-        "text": "but behold Laman & Lemuel would ",
+        "text": "words but behold Laman & Lemuel would ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
       },
       {
@@ -296,18 +253,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
       },
       {
-        "id": "8:13",
+        "id": "8:13a",
         "page": 8,
         "line": 13,
-        "text": "of their hearts I cried unto the Lord for them & it came to pass that the ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
-      },
-      {
-        "id": "8:14a",
-        "page": 8,
-        "line": 14,
-        "text": "Lord spake unto me saying blessed art thou Nephi because",
-        "markdown": "Lord spake unto me saying blessed art thou Nephi ~~because~~ because",
+        "text": "of their hearts I",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
       }
     ]
@@ -315,27 +264,28 @@
   {
     "book": "1-ne",
     "chapter": 3,
-    "verse": 12,
+    "verse": 10,
     "lines": [
       {
-        "id": "8:14b",
+        "id": "8:13b",
         "page": 8,
-        "line": 14,
-        "text": "of ",
+        "line": 13,
+        "text": "cried unto the Lord for them & it came to pass that the ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
       },
       {
-        "id": "8:15",
+        "id": "8:14",
+        "page": 8,
+        "line": 14,
+        "text": "Lord spake unto me saying blessed art thou Nephi because of ",
+        "markdown": "Lord spake unto me saying blessed art thou Nephi ~~because~~ because of ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
+      },
+      {
+        "id": "8:15a",
         "page": 8,
         "line": 15,
-        "text": "thy faith for thou hast sought me diligently with lowliness of heart ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
-      },
-      {
-        "id": "8:16a",
-        "page": 8,
-        "line": 16,
-        "text": "& in as much as ye shall keep my",
+        "text": "thy faith",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
       }
     ]
@@ -343,13 +293,20 @@
   {
     "book": "1-ne",
     "chapter": 3,
-    "verse": 13,
+    "verse": 11,
     "lines": [
       {
-        "id": "8:16b",
+        "id": "8:15b",
+        "page": 8,
+        "line": 15,
+        "text": "for thou hast sought me diligently with lowliness of heart ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
+      },
+      {
+        "id": "8:16",
         "page": 8,
         "line": 16,
-        "text": "commandments ye shall prosper & shall ",
+        "text": "& in as much as ye shall keep my commandments ye shall prosper & shall ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
       },
       {
@@ -360,18 +317,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
       },
       {
-        "id": "8:18",
+        "id": "8:18a",
         "page": 8,
         "line": 18,
-        "text": "a land which is choice above all other lands & in asmuch as thy Brethren ",
-        "markdown": "a land which is choice above ~~of~~ all other lands & in asmuch as thy Brethren ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
-      },
-      {
-        "id": "8:19a",
-        "page": 8,
-        "line": 19,
-        "text": "shall rebell against",
+        "text": "a land which",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
       }
     ]
@@ -379,13 +328,35 @@
   {
     "book": "1-ne",
     "chapter": 3,
-    "verse": 14,
+    "verse": 12,
+    "lines": [
+      {
+        "id": "8:18b",
+        "page": 8,
+        "line": 18,
+        "text": "is choice above all other lands & in asmuch as thy Brethren ",
+        "markdown": "is choice above ~~of~~ all other lands & in asmuch as thy Brethren ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
+      },
+      {
+        "id": "8:19a",
+        "page": 8,
+        "line": 19,
+        "text": "shall rebell against thee they shall be cut off from",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
+      }
+    ]
+  },
+  {
+    "book": "1-ne",
+    "chapter": 3,
+    "verse": 13,
     "lines": [
       {
         "id": "8:19b",
         "page": 8,
         "line": 19,
-        "text": "thee they shall be cut off from the presance of the Lord ",
+        "text": "the presance of the Lord ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
       },
       {
@@ -396,10 +367,17 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
       },
       {
-        "id": "8:21a",
+        "id": "8:21",
         "page": 8,
         "line": 21,
-        "text": "ade a ruler & a teacher over thy Brethren for behold",
+        "text": "ade a ruler & a teacher over thy Brethren for behold in that day that ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
+      },
+      {
+        "id": "8:22a",
+        "page": 8,
+        "line": 22,
+        "text": "they shall rebell against me I will curse them",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
       }
     ]
@@ -407,20 +385,13 @@
   {
     "book": "1-ne",
     "chapter": 3,
-    "verse": 15,
+    "verse": 14,
     "lines": [
       {
-        "id": "8:21b",
-        "page": 8,
-        "line": 21,
-        "text": "in that day that ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
-      },
-      {
-        "id": "8:22",
+        "id": "8:22b",
         "page": 8,
         "line": 22,
-        "text": "they shall rebell against me I will curse them even with a sore curse ",
+        "text": "even with a sore curse ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
       },
       {
@@ -431,10 +402,17 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
       },
       {
-        "id": "8:24a",
+        "id": "8:24",
         "page": 8,
         "line": 24,
-        "text": "me also & if it so",
+        "text": "me also & if it so be that they rebell against me they shall be a scorge un",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
+      },
+      {
+        "id": "8:25a",
+        "page": 8,
+        "line": 25,
+        "text": "to",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
       }
     ]
@@ -442,20 +420,13 @@
   {
     "book": "1-ne",
     "chapter": 3,
-    "verse": 16,
+    "verse": 15,
     "lines": [
       {
-        "id": "8:24b",
-        "page": 8,
-        "line": 24,
-        "text": "be that they rebell against me they shall be a scorge un ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
-      },
-      {
-        "id": "8:25",
+        "id": "8:25b",
         "page": 8,
         "line": 25,
-        "text": "to thy seed to stir them up in the ways of rememberance & it came to pass that ",
+        "text": "thy seed to stir them up in the ways of rememberance & it came to pass that",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
       },
       {
@@ -469,7 +440,7 @@
         "id": "8:27a",
         "page": 8,
         "line": 27,
-        "text": "me to",
+        "text": "me to pass that he",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
       }
     ]
@@ -477,34 +448,20 @@
   {
     "book": "1-ne",
     "chapter": 3,
-    "verse": 17,
+    "verse": 16,
     "lines": [
       {
         "id": "8:27b",
         "page": 8,
         "line": 27,
-        "text": "pass that he spake unto me saying behold I have dreamed a dream ",
+        "text": "spake unto me saying behold I have dreamed a dream ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
       },
       {
-        "id": "8:28a",
+        "id": "8:28",
         "page": 8,
         "line": 28,
-        "text": "in the",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
-      }
-    ]
-  },
-  {
-    "book": "1-ne",
-    "chapter": 3,
-    "verse": 18,
-    "lines": [
-      {
-        "id": "8:28b",
-        "page": 8,
-        "line": 28,
-        "text": "which the Lord hath commanded me that thou & thy Brethren ",
+        "text": "in the which the Lord hath commanded me that thou & thy Brethren ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
       },
       {
@@ -515,17 +472,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
       },
       {
-        "id": "8:30",
+        "id": "8:30a",
         "page": 8,
         "line": 30,
-        "text": "also a genealogy of my forefathers & they are engraven upon plates of Brass wher",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
-      },
-      {
-        "id": "8:31a",
-        "page": 8,
-        "line": 31,
-        "text": "efore the Lord hath commanded me that",
+        "text": "also a genealogy of my forefathers & they are engraven upon plates of",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
       }
     ]
@@ -533,13 +483,34 @@
   {
     "book": "1-ne",
     "chapter": 3,
-    "verse": 19,
+    "verse": 17,
+    "lines": [
+      {
+        "id": "8:30b",
+        "page": 8,
+        "line": 30,
+        "text": "Brass wher ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
+      },
+      {
+        "id": "8:31a",
+        "page": 8,
+        "line": 31,
+        "text": "efore the Lord hath commanded me that thou & thy Brothers should go",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
+      }
+    ]
+  },
+  {
+    "book": "1-ne",
+    "chapter": 3,
+    "verse": 18,
     "lines": [
       {
         "id": "8:31b",
         "page": 8,
         "line": 31,
-        "text": "thou & thy Brothers should go unto ",
+        "text": "unto ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
       },
       {
@@ -550,10 +521,45 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
       },
       {
-        "id": "8:33a",
+        "id": "8:33",
         "page": 8,
         "line": 33,
-        "text": "ness &",
+        "text": "ness & now behold thy Brothers murmur saying it is a hard thing which I ha",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
+      },
+      {
+        "id": "8:34a",
+        "page": 8,
+        "line": 34,
+        "text": "ve required of them but behold I have not required it of them but it",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
+      }
+    ]
+  },
+  {
+    "book": "1-ne",
+    "chapter": 3,
+    "verse": 19,
+    "lines": [
+      {
+        "id": "8:34b",
+        "page": 8,
+        "line": 34,
+        "text": "is a com ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
+      },
+      {
+        "id": "8:35",
+        "page": 8,
+        "line": 35,
+        "text": "mandment of the Lord therefore go my Son & thou shalt be favoured of the Lo ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
+      },
+      {
+        "id": "8:36a",
+        "page": 8,
+        "line": 36,
+        "text": "rd because thou hast not murmured &",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
       }
     ]
@@ -564,66 +570,17 @@
     "verse": 20,
     "lines": [
       {
-        "id": "8:33b",
-        "page": 8,
-        "line": 33,
-        "text": "now behold thy Brothers murmur saying it is a hard thing which I ha",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
-      },
-      {
-        "id": "8:34",
-        "page": 8,
-        "line": 34,
-        "text": "ve required of them but behold I have not required it of them but it is a com ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
-      },
-      {
-        "id": "8:35a",
-        "page": 8,
-        "line": 35,
-        "text": "mandment of the Lord therefore go my Son & thou shalt be favoured",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
-      }
-    ]
-  },
-  {
-    "book": "1-ne",
-    "chapter": 3,
-    "verse": 21,
-    "lines": [
-      {
-        "id": "8:35b",
-        "page": 8,
-        "line": 35,
-        "text": "of the Lo ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
-      },
-      {
-        "id": "8:36",
+        "id": "8:36b",
         "page": 8,
         "line": 36,
-        "text": "rd because thou hast not murmured & it came to pass that I Nephi said ",
+        "text": "it came to pass that I Nephi said ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
       },
       {
-        "id": "8:37a",
+        "id": "8:37",
         "page": 8,
         "line": 37,
-        "text": "unto my father I will go & do the",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
-      }
-    ]
-  },
-  {
-    "book": "1-ne",
-    "chapter": 3,
-    "verse": 22,
-    "lines": [
-      {
-        "id": "8:37b",
-        "page": 8,
-        "line": 37,
-        "text": "things which the Lord hath commanded ",
+        "text": "unto my father I will go & do the things which the Lord hath commanded ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
       },
       {
@@ -645,7 +602,7 @@
   {
     "book": "1-ne",
     "chapter": 3,
-    "verse": 23,
+    "verse": 21,
     "lines": [
       {
         "id": "9:2b",
@@ -655,10 +612,52 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/9"
       },
       {
-        "id": "9:3a",
+        "id": "9:3",
         "page": 9,
         "line": 3,
-        "text": "he commandeth them & it came to pass that when",
+        "text": "he commandeth them & it came to pass that when my father had heard these words ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/9"
+      },
+      {
+        "id": "9:4a",
+        "page": 9,
+        "line": 4,
+        "text": "he was exceding glad for",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/9"
+      }
+    ]
+  },
+  {
+    "book": "1-ne",
+    "chapter": 3,
+    "verse": 22,
+    "lines": [
+      {
+        "id": "9:4b",
+        "page": 9,
+        "line": 4,
+        "text": "he knew that I had been blessed of the Lord & I Nephi & ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/9"
+      },
+      {
+        "id": "9:5",
+        "page": 9,
+        "line": 5,
+        "text": "my Brethren took our journey in the wilderness with our tents to go up to the",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/9"
+      }
+    ]
+  },
+  {
+    "book": "1-ne",
+    "chapter": 3,
+    "verse": 23,
+    "lines": [
+      {
+        "id": "9:6a",
+        "page": 9,
+        "line": 6,
+        "text": "land of Jerusalem & it came to pass that when we had come up to the land",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/9"
       }
     ]
@@ -669,45 +668,10 @@
     "verse": 24,
     "lines": [
       {
-        "id": "9:3b",
-        "page": 9,
-        "line": 3,
-        "text": "my father had heard these words ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/9"
-      },
-      {
-        "id": "9:4",
-        "page": 9,
-        "line": 4,
-        "text": "he was exceding glad for he knew that I had been blessed of the Lord & I Nephi & ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/9"
-      },
-      {
-        "id": "9:5",
-        "page": 9,
-        "line": 5,
-        "text": "my Brethren took our journey in the wilderness with our tents to go up to the ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/9"
-      },
-      {
-        "id": "9:6a",
-        "page": 9,
-        "line": 6,
-        "text": "land of Jerusalem & it came",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/9"
-      }
-    ]
-  },
-  {
-    "book": "1-ne",
-    "chapter": 3,
-    "verse": 25,
-    "lines": [
-      {
         "id": "9:6b",
         "page": 9,
         "line": 6,
-        "text": "to pass that when we had come up to the land of ",
+        "text": "of ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/9"
       },
       {
@@ -718,38 +682,17 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/9"
       },
       {
-        "id": "9:8a",
+        "id": "9:8",
         "page": 9,
         "line": 8,
-        "text": "which of us should go in unto the house of Laban & it came to",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/9"
-      }
-    ]
-  },
-  {
-    "book": "1-ne",
-    "chapter": 3,
-    "verse": 26,
-    "lines": [
-      {
-        "id": "9:8b",
-        "page": 9,
-        "line": 8,
-        "text": "pass that the lo ",
+        "text": "which of us should go in unto the house of Laban & it came to pass that the lo ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/9"
       },
       {
-        "id": "9:9",
+        "id": "9:9a",
         "page": 9,
         "line": 9,
-        "text": "[t] fell upon Laman & Laman went in unto the house of Laban & he talked with ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/9"
-      },
-      {
-        "id": "9:10a",
-        "page": 9,
-        "line": 10,
-        "text": "him as he sat in his house & he desired",
+        "text": "[t] fell upon Laman & Laman went in unto the house of Laban &",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/9"
       }
     ]
@@ -757,13 +700,20 @@
   {
     "book": "1-ne",
     "chapter": 3,
-    "verse": 27,
+    "verse": 25,
     "lines": [
       {
-        "id": "9:10b",
+        "id": "9:9b",
+        "page": 9,
+        "line": 9,
+        "text": "he talked with ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/9"
+      },
+      {
+        "id": "9:10",
         "page": 9,
         "line": 10,
-        "text": "of Laban the records which were en ",
+        "text": "him as he sat in his house & he desired of Laban the records which were en ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/9"
       },
       {
@@ -777,7 +727,7 @@
         "id": "9:12a",
         "page": 9,
         "line": 12,
-        "text": "& behold it came to pass that Laban was angery",
+        "text": "& behold it came to pass that Laban was",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/9"
       }
     ]
@@ -785,13 +735,13 @@
   {
     "book": "1-ne",
     "chapter": 3,
-    "verse": 28,
+    "verse": 26,
     "lines": [
       {
         "id": "9:12b",
         "page": 9,
         "line": 12,
-        "text": "& thrust him out from his ",
+        "text": "angery & thrust him out from his ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/9"
       },
       {
@@ -802,17 +752,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/9"
       },
       {
-        "id": "9:14",
+        "id": "9:14a",
         "page": 9,
         "line": 14,
-        "text": "m behold thou art a robber & I will slay thee but Laman fled out of his ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/9"
-      },
-      {
-        "id": "9:15a",
-        "page": 9,
-        "line": 15,
-        "text": "presance & told the things which Laban had done unto us &",
+        "text": "m behold thou art a robber & I will",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/9"
       }
     ]
@@ -820,20 +763,41 @@
   {
     "book": "1-ne",
     "chapter": 3,
-    "verse": 29,
+    "verse": 27,
     "lines": [
       {
-        "id": "9:15b",
+        "id": "9:14b",
         "page": 9,
-        "line": 15,
-        "text": "we began to be exce ",
+        "line": 14,
+        "text": "slay thee but Laman fled out of his ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/9"
       },
       {
-        "id": "9:16",
+        "id": "9:15",
+        "page": 9,
+        "line": 15,
+        "text": "presance & told the things which Laban had done unto us & we began to be exce ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/9"
+      },
+      {
+        "id": "9:16a",
         "page": 9,
         "line": 16,
-        "text": "ding sorrowful & my Brethren were about to return unto my father in the wilde ",
+        "text": "ding sorrowful & my Brethren were",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/9"
+      }
+    ]
+  },
+  {
+    "book": "1-ne",
+    "chapter": 3,
+    "verse": 28,
+    "lines": [
+      {
+        "id": "9:16b",
+        "page": 9,
+        "line": 16,
+        "text": "about to return unto my father in the wilde ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/9"
       },
       {
@@ -851,17 +815,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/9"
       },
       {
-        "id": "9:19",
+        "id": "9:19a",
         "page": 9,
         "line": 19,
-        "text": "thing which the Lord hath commanded us wherefore let us be faithful in keeping ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/9"
-      },
-      {
-        "id": "9:20a",
-        "page": 9,
-        "line": 20,
-        "text": "the commandments of the Lord therefore let us go down to",
+        "text": "thing which the Lord hath commanded us wherefore let us be",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/9"
       }
     ]
@@ -869,34 +826,27 @@
   {
     "book": "1-ne",
     "chapter": 3,
-    "verse": 30,
+    "verse": 29,
     "lines": [
       {
-        "id": "9:20b",
+        "id": "9:19b",
         "page": 9,
-        "line": 20,
-        "text": "the land of our fathers ",
+        "line": 19,
+        "text": "faithful in keeping ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/9"
       },
       {
-        "id": "9:21a",
+        "id": "9:20",
         "page": 9,
-        "line": 21,
-        "text": "inheritance for behold he left",
+        "line": 20,
+        "text": "the commandments of the Lord therefore let us go down to the land of our fathers ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/9"
-      }
-    ]
-  },
-  {
-    "book": "1-ne",
-    "chapter": 3,
-    "verse": 31,
-    "lines": [
+      },
       {
-        "id": "9:21b",
+        "id": "9:21",
         "page": 9,
         "line": 21,
-        "text": "gold & silver & all manner of riches & all this ",
+        "text": "inheritance for behold he left gold & silver & all manner of riches & all this ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/9"
       },
       {
@@ -914,10 +864,74 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/9"
       },
       {
-        "id": "9:24a",
+        "id": "9:24",
         "page": 9,
         "line": 24,
-        "text": "behold they have rejected the words of the prophets wherefore if",
+        "text": "behold they have rejected the words of the prophets wherefore if my father should ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/9"
+      },
+      {
+        "id": "9:25a",
+        "page": 9,
+        "line": 25,
+        "text": "dwell in the land",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/9"
+      }
+    ]
+  },
+  {
+    "book": "1-ne",
+    "chapter": 3,
+    "verse": 30,
+    "lines": [
+      {
+        "id": "9:25b",
+        "page": 9,
+        "line": 25,
+        "text": "after that he hath been commanded to flee out of",
+        "markdown": "after that he ~~had~~ [hath] been commanded to flee out of",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/9"
+      }
+    ]
+  },
+  {
+    "book": "1-ne",
+    "chapter": 3,
+    "verse": 31,
+    "lines": [
+      {
+        "id": "9:25c",
+        "page": 9,
+        "line": 25,
+        "text": "the land ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/9"
+      },
+      {
+        "id": "9:26",
+        "page": 9,
+        "line": 26,
+        "text": "behold he would also perish wherefore it must needs be that he flee out of ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/9"
+      },
+      {
+        "id": "9:27",
+        "page": 9,
+        "line": 27,
+        "text": "the land & behold it is wisdom in God that we should obtain these records ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/9"
+      },
+      {
+        "id": "9:28",
+        "page": 9,
+        "line": 28,
+        "text": "that we might preserve unto our children the language of our fathers & also ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/9"
+      },
+      {
+        "id": "9:29a",
+        "page": 9,
+        "line": 29,
+        "text": "that we may",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/9"
       }
     ]
