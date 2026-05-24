@@ -25,7 +25,7 @@ async function runAligner2ForChapters(
   const { words: sourceWords, lines: lineInfos } = await tokenizeSource(rawDir);
   const targetWords = tokenizeTarget(allCanon);
   const verseGroups = groupByVerse(targetWords);
-  const cursorResults = runCursor(sourceWords, verseGroups);
+  const cursorResults = runCursor(sourceWords, verseGroups, lineInfos);
   const canonByKey = new Map(
     allCanon.map((v) => [`${v.book}|${v.chapter}|${v.verse}`, v.text]),
   );

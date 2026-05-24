@@ -22,7 +22,7 @@ async function run(opts: { dry: boolean; preview: number }) {
   const targetWords = tokenizeTarget(canonVerses);
   const verseGroups = groupByVerse(targetWords);
 
-  const cursorResults = runCursor(sourceWords, verseGroups);
+  const cursorResults = runCursor(sourceWords, verseGroups, lineInfos);
   console.log(`  cursor assigned: ${cursorResults.length} words`);
 
   const canonByKey = new Map(

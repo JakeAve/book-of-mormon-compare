@@ -31,6 +31,7 @@ Deno.test("runCursor: single verse — all words assigned to it", () => {
   const result = runCursor(
     src(["I", "Nephi", "having", "been", "born"]),
     [tgt(1, ["i", "nephi", "having", "been", "born"])],
+    new Map(),
   );
   assertEquals(result.length, 5);
   for (const r of result) {
@@ -45,6 +46,7 @@ Deno.test("runCursor: two verses — boundary at correct word", () => {
       tgt(1, ["i", "nephi"]),
       tgt(2, ["having", "been", "born"]),
     ],
+    new Map(),
   );
   assertEquals(result[0].assignedVerse.verse, 1);
   assertEquals(result[1].assignedVerse.verse, 1);
@@ -58,6 +60,7 @@ Deno.test("runCursor: unmatched source words inherit surrounding verse", () => {
   const result = runCursor(
     src(["I", "xyzabc", "Nephi"]),
     [tgt(1, ["i", "nephi"])],
+    new Map(),
   );
   assertEquals(result.length, 3);
   for (const r of result) {
@@ -65,28 +68,42 @@ Deno.test("runCursor: unmatched source words inherit surrounding verse", () => {
   }
 });
 
-Deno.test("runCursor: stuck recovery — wide window finds match beyond normal window", () => {
-  // Verse 1 has words that don't appear in source → stuckCount = 1 after verse 1
-  // Verse 2 words are at source index 160+, beyond normal W=150 → stuckCount = 2,
-  // triggers wide window (W=400) which reaches them
-  const filler = Array.from({ length: 160 }, (_, i) => `zzz${i}`);
+Deno.test("runCursor: no-match chapter advances by canonical length, next chapter still matches", () => {
+  // Canon chapter 1 has no words in source — cursor advances by ~1 word (canon length).
+  // Canon chapter 2 words appear at source positions 10-11 — must still be matched.
+  // Uses separate chapter numbers so buildCanonChapters treats them independently.
+  const filler = Array.from({ length: 10 }, (_, i) => `zzz${i}`);
   const result = runCursor(
     src([...filler, "i", "nephi"]),
     [
-      tgt(1, ["doesnotappear1", "doesnotappear2"]), // no matches → stuck
-      tgt(2, ["i", "nephi"]), // beyond W=150, needs wide window
+      {
+        book: "1-ne",
+        chapter: 1,
+        verse: 1,
+        words: [{ norm: "doesnotappear", book: "1-ne", chapter: 1, verse: 1 }],
+      },
+      {
+        book: "1-ne",
+        chapter: 2,
+        verse: 1,
+        words: [
+          { norm: "i", book: "1-ne", chapter: 2, verse: 1 },
+          { norm: "nephi", book: "1-ne", chapter: 2, verse: 1 },
+        ],
+      },
     ],
+    new Map(),
   );
-  // "i" and "nephi" must be assigned to verse 2 via wide window
-  const verse2 = result.filter((r) => r.assignedVerse.verse === 2);
-  assertExists(verse2.find((r) => r.norm === "i"));
-  assertExists(verse2.find((r) => r.norm === "nephi"));
+  const ch2 = result.filter((r) => r.assignedVerse.chapter === 2);
+  assertExists(ch2.find((r) => r.norm === "i"));
+  assertExists(ch2.find((r) => r.norm === "nephi"));
 });
 
 Deno.test("runCursor: trailing source words after all verses get last verse", () => {
   const result = runCursor(
     src(["I", "Nephi", "extra", "words"]),
     [tgt(1, ["i", "nephi"])],
+    new Map(),
   );
   for (const r of result) {
     assertEquals(r.assignedVerse.verse, 1);
@@ -98,6 +115,6 @@ Deno.test("runCursor: result length equals source length", () => {
   const result = runCursor(source, [
     tgt(1, ["a", "b"]),
     tgt(2, ["c", "d", "e"]),
-  ]);
+  ], new Map());
   assertEquals(result.length, source.length);
 });
