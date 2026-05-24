@@ -7,7 +7,6 @@ import {
   NetworkOnly,
   StaleWhileRevalidate,
 } from "workbox-strategies";
-import { BroadcastUpdatePlugin } from "workbox-broadcast-update";
 import { ExpirationPlugin } from "workbox-expiration";
 
 declare const self: ServiceWorkerGlobalScope & {
@@ -62,7 +61,6 @@ registerRoute(
     return await new StaleWhileRevalidate({
       cacheName: "navigation-cache",
       plugins: [
-        new BroadcastUpdatePlugin(),
         new ExpirationPlugin({
           maxEntries: 100,
           maxAgeSeconds: 30 * 24 * 60 * 60,

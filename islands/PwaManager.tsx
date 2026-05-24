@@ -124,20 +124,6 @@ export default function PwaManager() {
         // sw.js is only available in the production build — silent in dev
       });
 
-    // BroadcastUpdatePlugin delivers cache-change notifications via postMessage to clients.
-    const onSwMessage = (event: MessageEvent) => {
-      if (event.data?.type === "CACHE_UPDATED") {
-        setNote({
-          message: "This page has been updated — tap to reload.",
-          action: {
-            label: "Reload",
-            onClick: () => globalThis.location.reload(),
-          },
-        });
-      }
-    };
-    navigator.serviceWorker.addEventListener("message", onSwMessage);
-
     if (document.querySelector("[data-offline-fallback]")) {
       setNote({
         message: "You're offline — try reloading the page you wanted.",
@@ -149,7 +135,6 @@ export default function PwaManager() {
     }
 
     return () => {
-      navigator.serviceWorker.removeEventListener("message", onSwMessage);
       globalThis.removeEventListener("beforeinstallprompt", onInstallPrompt);
       globalThis.removeEventListener("appinstalled", onAppInstalled);
     };
@@ -167,8 +152,8 @@ export default function PwaManager() {
         left: "50%",
         transform: "translateX(-50%)",
         display: "flex",
-        alignItems: "center",
-        gap: "0.75rem",
+        flexDirection: "column",
+        gap: "0.5rem",
         padding: "0.625rem 1rem",
         background: "var(--color-dialog-bg)",
         border: "1px solid var(--color-dialog-border)",
@@ -178,16 +163,37 @@ export default function PwaManager() {
         fontFamily: "system-ui, -apple-system, sans-serif",
         fontSize: "0.875rem",
         color: "var(--color-text)",
-        whiteSpace: "nowrap",
+        maxWidth: "calc(100vw - 2rem)",
+        width: "max-content",
       }}
     >
-      <span>{note.message}</span>
+      <div style={{ display: "flex", alignItems: "flex-start", gap: "0.5rem" }}>
+        <span style={{ flex: 1 }}>{note.message}</span>
+        <button
+          type="button"
+          aria-label="Dismiss"
+          onClick={() => setNote(null)}
+          style={{
+            background: "none",
+            border: "none",
+            cursor: "pointer",
+            color: "var(--color-text)",
+            fontSize: "1rem",
+            lineHeight: 1,
+            padding: "0 0.25rem",
+            opacity: 0.6,
+            flexShrink: 0,
+          }}
+        >
+          ×
+        </button>
+      </div>
       {note.action && (
         <button
           type="button"
           onClick={note.action.onClick}
           style={{
-            padding: "0.25rem 0.75rem",
+            padding: "0.375rem 0.75rem",
             background: "var(--color-text)",
             color: "var(--color-bg)",
             border: "none",
@@ -195,28 +201,12 @@ export default function PwaManager() {
             cursor: "pointer",
             fontSize: "0.8125rem",
             fontWeight: 600,
+            width: "100%",
           }}
         >
           {note.action.label}
         </button>
       )}
-      <button
-        type="button"
-        aria-label="Dismiss"
-        onClick={() => setNote(null)}
-        style={{
-          background: "none",
-          border: "none",
-          cursor: "pointer",
-          color: "var(--color-text)",
-          fontSize: "1rem",
-          lineHeight: 1,
-          padding: "0 0.25rem",
-          opacity: 0.6,
-        }}
-      >
-        ×
-      </button>
     </div>
   );
 }
