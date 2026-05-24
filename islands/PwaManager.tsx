@@ -124,20 +124,6 @@ export default function PwaManager() {
         // sw.js is only available in the production build — silent in dev
       });
 
-    // BroadcastUpdatePlugin delivers cache-change notifications via postMessage to clients.
-    const onSwMessage = (event: MessageEvent) => {
-      if (event.data?.type === "CACHE_UPDATED") {
-        setNote({
-          message: "This page has been updated — tap to reload.",
-          action: {
-            label: "Reload",
-            onClick: () => globalThis.location.reload(),
-          },
-        });
-      }
-    };
-    navigator.serviceWorker.addEventListener("message", onSwMessage);
-
     if (document.querySelector("[data-offline-fallback]")) {
       setNote({
         message: "You're offline — try reloading the page you wanted.",
@@ -149,7 +135,6 @@ export default function PwaManager() {
     }
 
     return () => {
-      navigator.serviceWorker.removeEventListener("message", onSwMessage);
       globalThis.removeEventListener("beforeinstallprompt", onInstallPrompt);
       globalThis.removeEventListener("appinstalled", onAppInstalled);
     };
