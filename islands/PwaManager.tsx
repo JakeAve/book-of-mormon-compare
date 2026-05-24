@@ -138,6 +138,16 @@ export default function PwaManager() {
     };
     navigator.serviceWorker.addEventListener("message", onSwMessage);
 
+    if (document.querySelector("[data-offline-fallback]")) {
+      setNote({
+        message: "You're offline — try reloading the page you wanted.",
+        action: {
+          label: "Retry",
+          onClick: () => globalThis.location.reload(),
+        },
+      });
+    }
+
     return () => {
       navigator.serviceWorker.removeEventListener("message", onSwMessage);
       globalThis.removeEventListener("beforeinstallprompt", onInstallPrompt);
