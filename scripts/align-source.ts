@@ -25,6 +25,11 @@ import {
   TARGET_ROOT,
 } from "./align/paths.ts";
 import { applyJoins, buildCanonIndex } from "./align/stitch.ts";
+import { getPlugin } from "./align/plugins/index.ts";
+import { joinSplitWordsAcrossFragments } from "./align/split-fix.ts";
+import { shiftLeadingConnectives } from "./align/connective-shift.ts";
+import { shiftChapterMarkers } from "./align/chapter-marker-shift.ts";
+import { buildTextToMdMapping } from "./align/markdown.ts";
 
 interface OutLine {
   id: string;
@@ -60,44 +65,12 @@ function parseArgs(argv: string[]): Args {
   return args;
 }
 
-/** Build a mapping from text word index to markdown word index.
- * Deleted markdown words (~~x~~ or multi-word ~~x y~~) have no text equivalent
- * and are assigned to the group of the text word that follows them. This lets
- * segment slicing use text-based tokenStart/tokenEnd while correctly including
- * any deleted words that precede each canonical word. */
-function buildTextToMdMapping(
-  textWords: string[],
-  mdWords: string[],
-): number[] {
-  const mapping = new Array(textWords.length + 1).fill(mdWords.length);
-  let mdIdx = 0;
-  let inDeleted = false;
-  for (let ti = 0; ti <= textWords.length; ti++) {
-    mapping[ti] = mdIdx;
-    if (ti < textWords.length) {
-      // Advance past deleted markdown words before this text word
-      while (mdIdx < mdWords.length) {
-        const w = mdWords[mdIdx];
-        if (inDeleted) {
-          mdIdx++;
-          if (w.endsWith("~~")) inDeleted = false;
-        } else if (w.startsWith("~~")) {
-          // Single-word deletion (~~x~~) or start of multi-word deletion
-          inDeleted = !(w.endsWith("~~") && w.length > 4);
-          mdIdx++;
-        } else {
-          break;
-        }
-      }
-      if (mdIdx < mdWords.length) mdIdx++; // advance past canonical word
-    }
-  }
-  return mapping;
-}
-
 async function run(cfg: SourceConfig, opts: { preview: number; dry: boolean }) {
   console.log(`Aligning ${cfg.label} (${cfg.raw} → ${cfg.out})`);
-  const fragments = await loadOM(cfg.raw);
+  const plugin = getPlugin(cfg.slug);
+  if (plugin) console.log(`  plugin: ${cfg.slug}`);
+  let fragments = await loadOM(cfg.raw);
+  if (plugin?.beforeAlign) fragments = plugin.beforeAlign(fragments);
   const verses = await loadBooks(TARGET_ROOT);
   console.log(
     `  source lines: ${fragments.length}, target verses: ${verses.length}`,
@@ -118,6 +91,36 @@ async function run(cfg: SourceConfig, opts: { preview: number; dry: boolean }) {
     canonByKey.set(verseKey(v.book, v.chapter, v.verse), v.text);
   }
 
+  const splitStats = joinSplitWordsAcrossFragments(
+    aligned,
+    fragments,
+    canonByKey,
+  );
+  if (splitStats.movedLeftward || splitStats.movedRightward) {
+    console.log(
+      `  split-word fix: moved ${splitStats.movedLeftward} leftward, ${splitStats.movedRightward} rightward`,
+    );
+    for (const j of splitStats.joins) {
+      console.log(
+        `    ${
+          j.direction === "left" ? "←" : "→"
+        } ${j.book} ${j.chapter}:${j.verse}\t${j.word}`,
+      );
+    }
+  }
+
+  const shiftStats = shiftLeadingConnectives(aligned, fragments, canonByKey);
+  if (shiftStats.shifts.length) {
+    console.log(
+      `  connective shift: ${shiftStats.shifts.length} verse boundaries adjusted`,
+    );
+    for (const s of shiftStats.shifts) {
+      console.log(
+        `    → ${s.book} ${s.chapter}:${s.verse}\t${s.tokens.join(" ")}`,
+      );
+    }
+  }
+
   for (const a of aligned) {
     const frag = fragById.get(a.id)!;
     const meta = frag.meta ?? {};
@@ -125,6 +128,13 @@ async function run(cfg: SourceConfig, opts: { preview: number; dry: boolean }) {
     const mdRaw = meta.markdown as string | undefined;
     const mdWords = mdRaw?.split(/\s+/).filter((w) => w.length > 0);
     const textToMd = mdWords ? buildTextToMdMapping(words, mdWords) : null;
+    // Pre-count non-empty segments so we know whether to disambiguate ids.
+    let nonEmptyCount = 0;
+    for (const seg of a.segments) {
+      if (words.slice(seg.tokenStart, seg.tokenEnd).join(" ")) nonEmptyCount++;
+    }
+    const baseId = `${meta.page}:${meta.line}`;
+    let outIdx = 0;
     for (const seg of a.segments) {
       const slice = words.slice(seg.tokenStart, seg.tokenEnd).join(" ");
       if (!slice) continue;
@@ -148,8 +158,12 @@ async function run(cfg: SourceConfig, opts: { preview: number; dry: boolean }) {
         };
         byKey.set(k, v);
       }
+      const id = nonEmptyCount > 1
+        ? `${baseId}${String.fromCharCode(97 + outIdx)}`
+        : baseId;
+      outIdx++;
       v.lines.push({
-        id: `${meta.page}:${meta.line}`,
+        id,
         page: meta.page as number,
         line: meta.line as number,
         text: slice,
@@ -162,6 +176,33 @@ async function run(cfg: SourceConfig, opts: { preview: number; dry: boolean }) {
   for (const [k, outVerse] of byKey) {
     const canonText = canonByKey.get(k) ?? "";
     applyJoins(outVerse.lines, buildCanonIndex(canonText));
+  }
+
+  if (plugin?.afterSegment) {
+    const transformed = plugin.afterSegment([...byKey.values()], {
+      canonByKey,
+    });
+    byKey.clear();
+    for (const v of transformed) {
+      byKey.set(verseKey(v.book, v.chapter, v.verse), v);
+    }
+  }
+
+  const chapterMarkerStats = shiftChapterMarkers(
+    [...byKey.values()],
+    BOOK_ORDER,
+  );
+  if (chapterMarkerStats.shifts.length) {
+    console.log(
+      `  chapter-marker shift: ${chapterMarkerStats.shifts.length} markers moved`,
+    );
+    for (const s of chapterMarkerStats.shifts) {
+      console.log(
+        `    → ${s.book} ${s.fromChapter}→${s.toChapter}\t${s.lineId}\t${
+          JSON.stringify(s.text.slice(0, 60))
+        }`,
+      );
+    }
   }
 
   // Group into per-chapter files, preserving canonical verse order.
