@@ -119,7 +119,10 @@ export function buildAllVerseOutputs(
       const suffix = lineVerseSuffix.get(lvk);
       const id = suffix ? `${page}:${line}${suffix}` : `${page}:${line}`;
 
-      lines.push({ id, page, line, text, markdown, source: info?.source });
+      const outLine: OutLine = { id, page, line, text };
+      if (markdown !== undefined) outLine.markdown = markdown;
+      if (info?.source !== undefined) outLine.source = info.source;
+      lines.push(outLine);
     }
 
     applyJoins(lines, buildCanonIndex(canonText));
