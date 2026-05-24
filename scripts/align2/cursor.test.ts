@@ -118,3 +118,47 @@ Deno.test("runCursor: result length equals source length", () => {
   ], new Map());
   assertEquals(result.length, source.length);
 });
+
+Deno.test("runCursor: line-break split words are merged before LCS and assigned together", () => {
+  // "wher" ends line 1, "efore" starts line 2. Together they form "wherefore"
+  // which is a canonical word in verse 2. Both should be assigned to verse 2.
+  const srcWords: SourceWord[] = [
+    { norm: "brass", raw: "brass", page: 1, line: 1, wordIndexInLine: 0 },
+    { norm: "wher", raw: "wher", page: 1, line: 1, wordIndexInLine: 1 }, // line 1 end
+    { norm: "efore", raw: "efore", page: 1, line: 2, wordIndexInLine: 0 }, // line 2 start
+    { norm: "the", raw: "the", page: 1, line: 2, wordIndexInLine: 1 },
+    { norm: "lord", raw: "lord", page: 1, line: 2, wordIndexInLine: 2 },
+  ];
+  const result = runCursor(
+    srcWords,
+    [
+      {
+        book: "1-ne",
+        chapter: 3,
+        verse: 3,
+        words: [{ norm: "brass", book: "1-ne", chapter: 3, verse: 3 }],
+      },
+      {
+        book: "1-ne",
+        chapter: 3,
+        verse: 4,
+        words: [{ norm: "wherefore", book: "1-ne", chapter: 3, verse: 4 }, {
+          norm: "the",
+          book: "1-ne",
+          chapter: 3,
+          verse: 4,
+        }, { norm: "lord", book: "1-ne", chapter: 3, verse: 4 }],
+      },
+    ],
+    new Map(),
+  );
+  assertEquals(result.length, srcWords.length);
+  // "brass" → verse 3
+  assertEquals(result[0].assignedVerse.verse, 3);
+  // "wher" and "efore" are the merged "wherefore" → both should be verse 4
+  assertEquals(result[1].assignedVerse.verse, 4);
+  assertEquals(result[2].assignedVerse.verse, 4);
+  // "the" and "lord" → verse 4
+  assertEquals(result[3].assignedVerse.verse, 4);
+  assertEquals(result[4].assignedVerse.verse, 4);
+});

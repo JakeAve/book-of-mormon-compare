@@ -188,6 +188,48 @@ function chapterLCS(
   return { assignments, lastTailMatchedSrc, lastMatchedSrc };
 }
 
+// ── Line-break split joining ───────────────────────────────────────────────
+//
+// Manuscript line breaks sometimes fall mid-word. Detect pairs of adjacent
+// tokens from different source lines where the combined norm is a canonical
+// word (e.g. "wher" + "efore" → "wherefore"). Merge them before the LCS so
+// the aligner can match the full word correctly. The caller must expand the
+// merged result back to the original source indices after verse assignment.
+
+interface MergeResult {
+  words: SourceWord[];
+  /** Maps merged-array index → count of original source words it replaced (1 or 2). */
+  spanOf: Uint8Array;
+}
+
+function mergeLineBreakSplits(
+  source: SourceWord[],
+  canonNorms: Set<string>,
+): MergeResult {
+  const words: SourceWord[] = [];
+  const spanOf: Uint8Array = new Uint8Array(source.length); // upper bound
+  let i = 0;
+  while (i < source.length) {
+    const w = source[i];
+    const next = source[i + 1];
+    if (
+      next !== undefined &&
+      w.line !== next.line && // tokens are on different source lines
+      canonNorms.has(w.norm + next.norm) && // combined is a canonical word
+      !canonNorms.has(w.norm) // first fragment alone is not canonical
+    ) {
+      spanOf[words.length] = 2;
+      words.push({ ...w, norm: w.norm + next.norm });
+      i += 2;
+    } else {
+      spanOf[words.length] = 1;
+      words.push(w);
+      i++;
+    }
+  }
+  return { words, spanOf };
+}
+
 interface CanonChapter {
   words: Array<{ norm: string; vg: VerseGroup }>;
 }
@@ -209,25 +251,27 @@ function buildCanonChapters(verseGroups: VerseGroup[]): CanonChapter[] {
 }
 
 function fillGaps(a: Int32Array, maxIdx: number): void {
-  // Forward-fill -1s from matched anchors
-  let cur = 0;
+  // Forward-fill -1s with the most recent matched canonical index.
+  // Use -1 as sentinel (not 0) so a legitimate index-0 match is preserved.
+  let cur = -1;
   for (let i = 0; i < a.length; i++) {
     if (a[i] !== -1) cur = a[i];
-    else a[i] = cur;
+    else if (cur >= 0) a[i] = cur;
+    // else: still -1, handled by back-fill below
   }
-  // Back-fill any leading zeros that were never set
+  // Back-fill any leading -1s with the first real assignment.
   let first = 0;
   for (let i = 0; i < a.length; i++) {
-    if (a[i] > 0 || (a[i] === 0 && i > 0)) {
+    if (a[i] !== -1) {
       first = a[i];
       break;
     }
   }
   for (let i = 0; i < a.length; i++) {
-    if (a[i] === 0 && i === 0) a[i] = first;
+    if (a[i] === -1) a[i] = first;
     else break;
   }
-  // Clamp
+  // Clamp to valid range.
   for (let i = 0; i < a.length; i++) {
     if (a[i] > maxIdx) a[i] = maxIdx;
     if (a[i] < 0) a[i] = 0;
@@ -243,8 +287,18 @@ export function runCursor(
 ): CursorResult[] {
   if (source.length === 0 || verseGroups.length === 0) return [];
 
+  // Pre-merge line-break splits: "wher" + "efore" → "wherefore".
+  // Build the canonical norm set once from all verse groups.
+  const allCanonNorms = new Set(
+    verseGroups.flatMap((vg) => vg.words.map((w) => w.norm)),
+  );
+  const { words: mergedSource, spanOf } = mergeLineBreakSplits(
+    source,
+    allCanonNorms,
+  );
+
   // Phase 1: segment source at chapter headings (hard anchors that reset drift)
-  const segments = segmentSource(source, lineInfos);
+  const segments = segmentSource(mergedSource, lineInfos);
 
   // Phase 2: group canonical verse groups by chapter
   const canonChapters = buildCanonChapters(verseGroups);
@@ -256,13 +310,15 @@ export function runCursor(
     if (b && !bookStart.has(b)) bookStart.set(b, i);
   }
 
-  // Expected source words per canonical word.
+  // Expected source words per canonical word (use original source length so the
+  // ratio reflects the true PM/canonical proportion before merging).
   const totalCanonWords = verseGroups.reduce((s, vg) => s + vg.words.length, 0);
   const srcPerCanon = totalCanonWords > 0
     ? source.length / totalCanonWords
     : 1.1;
 
-  const result: CursorResult[] = new Array(source.length);
+  // Result indexed by mergedSource position; expanded to original source length below.
+  const mergedResult: CursorResult[] = new Array(mergedSource.length);
   let canonIdx = 0;
 
   // Precompute canonical limit for each segment: don't process past the book
@@ -345,7 +401,7 @@ export function runCursor(
       for (let k = 0; k < consumeCount; k++) {
         const idx = Math.min(rawAssignments[k], canon.words.length - 1);
         const { vg } = canon.words[idx];
-        result[srcBase + k] = {
+        mergedResult[srcBase + k] = {
           ...window[k],
           assignedVerse: {
             book: vg.book,
@@ -360,16 +416,34 @@ export function runCursor(
     }
   }
 
-  // Assign any remaining source words to the last known verse
+  // Assign any remaining merged-source words to the last known verse
   const lastVg = verseGroups[verseGroups.length - 1];
   let lastAssigned: CursorResult["assignedVerse"] = {
     book: lastVg.book,
     chapter: lastVg.chapter,
     verse: lastVg.verse,
   };
-  for (let i = 0; i < source.length; i++) {
-    if (!result[i]) result[i] = { ...source[i], assignedVerse: lastAssigned };
-    else lastAssigned = result[i].assignedVerse;
+  for (let i = 0; i < mergedSource.length; i++) {
+    if (!mergedResult[i]) {
+      mergedResult[i] = { ...mergedSource[i], assignedVerse: lastAssigned };
+    } else {
+      lastAssigned = mergedResult[i].assignedVerse;
+    }
+  }
+
+  // Expand merged tokens back to original source indices.
+  // A merged token (spanOf = 2) emits two CursorResult entries — one for each
+  // original source fragment — both with the same assignedVerse. This lets the
+  // segment builder produce separate line entries that applyJoins then joins.
+  const result: CursorResult[] = new Array(source.length);
+  let origIdx = 0;
+  for (let mi = 0; mi < mergedSource.length; mi++) {
+    const span = spanOf[mi];
+    const av = mergedResult[mi].assignedVerse;
+    for (let s = 0; s < span; s++) {
+      result[origIdx] = { ...source[origIdx], assignedVerse: av };
+      origIdx++;
+    }
   }
 
   return result;

@@ -68,17 +68,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
       },
       {
-        "id": "8:30",
+        "id": "8:30a",
         "page": 8,
         "line": 30,
-        "text": "also a genealogy of my forefathers & they are engraven upon plates of Brass wher ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
-      },
-      {
-        "id": "8:31a",
-        "page": 8,
-        "line": 31,
-        "text": "efore",
+        "text": "also a genealogy of my forefathers & they are engraven upon plates of Brass",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
       }
     ]
@@ -89,10 +82,17 @@
     "verse": 4,
     "lines": [
       {
-        "id": "8:31b",
+        "id": "8:30b",
+        "page": 8,
+        "line": 30,
+        "text": "wher",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
+      },
+      {
+        "id": "8:31",
         "page": 8,
         "line": 31,
-        "text": "the Lord hath commanded me that thou & thy Brothers should go unto ",
+        "text": "efore the Lord hath commanded me that thou & thy Brothers should go unto ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/8"
       },
       {
@@ -932,8 +932,15 @@
         "id": "10:24",
         "page": 10,
         "line": 24,
-        "text": "then all the earth then why not mightyer then Laban & his fifty yea or even then",
-        "markdown": "then all the earth then why not mightyer then Laban & his fifty yea or even [then]",
+        "text": "then all the earth then why not mightyer then Laban & his fifty yea or even then ",
+        "markdown": "then all the earth then why not mightyer then Laban & his fifty yea or even [then] ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/10"
+      },
+      {
+        "id": "10:25a",
+        "page": 10,
+        "line": 25,
+        "text": "his tens of thousands therefore let us go up let",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/10"
       }
     ]
