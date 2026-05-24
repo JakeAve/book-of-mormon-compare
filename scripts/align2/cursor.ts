@@ -91,20 +91,63 @@ function headingToBook(normalized: string): string | null {
   return null; // chapter heading or mid-text reference — no book change
 }
 
-// ── Full-segment LCS ───────────────────────────────────────────────────────
+// ── Tuning constants ──────────────────────────────────────────────────────
+
+/** Fraction of canonical chapter words counted as the "tail" for boundary
+ *  anchoring. The last matched source position within this tail determines
+ *  the chapter cut-point, preventing common words later in the source from
+ *  inflating the advance past the real chapter end. */
+const CHAPTER_TAIL_FRACTION = 0.15;
+
+/** Minimum number of canonical words in the tail window, regardless of
+ *  chapter length. */
+const CHAPTER_TAIL_MIN = 10;
+
+/** Search window multiplier: how many source words to look at per canonical
+ *  chapter word. 1.2 gives 20% slack over the expected PM/canonical ratio. */
+const WINDOW_SLACK = 1.2;
+
+/** Minimum source-word window per canonical chapter. */
+const WINDOW_MIN = 30;
+
+/** Consume cap multiplier: at most this many source words per canonical word.
+ *  5% slack over the PM/canonical ratio lets the LCS reach the last word of
+ *  a chapter without systematically cutting a word or two short. */
+const CONSUME_SLACK = 1.05;
+
+/** Minimum source words consumed per canonical chapter (prevents stalling on
+ *  very short chapters like single-verse headings). */
+const CONSUME_MIN = 5;
+
+// ── Per-chapter LCS ────────────────────────────────────────────────────────
 //
-// Run LCS between a source window and the flat canonical word list for one
-// chapter. Returns canon-word index assignments per source word (-1 = unmatched).
-// O(m*n) where m ≤ window size and n ≤ canonical chapter words — typically
-// O(400 × 900) = 360k cells per chapter call.
+// Returns:
+//   assignments — canon-word index per source word (-1 = unmatched)
+//   lastTailMatchedSrc — last source position that matched a canonical word
+//     in the chapter's tail (final CHAPTER_TAIL_FRACTION of canonical words).
+//     Used as the primary boundary anchor; the global last match is only a
+//     fallback for chapters whose tail produces no matches.
+//
+// O(m*n) where m ≤ window size, n ≤ canonical chapter words.
+interface ChapterLCSResult {
+  assignments: Int32Array;
+  lastTailMatchedSrc: number;
+  lastMatchedSrc: number;
+}
+
 function chapterLCS(
   window: SourceWord[],
   canonWords: Array<{ norm: string; vg: VerseGroup }>,
-): Int32Array {
+): ChapterLCSResult {
   const m = window.length;
   const n = canonWords.length;
   const assignments = new Int32Array(m).fill(-1);
-  if (m === 0 || n === 0) return assignments;
+  const empty: ChapterLCSResult = {
+    assignments,
+    lastTailMatchedSrc: -1,
+    lastMatchedSrc: -1,
+  };
+  if (m === 0 || n === 0) return empty;
 
   const dp: Uint16Array[] = Array.from(
     { length: m + 1 },
@@ -117,10 +160,23 @@ function chapterLCS(
         : Math.max(dp[i - 1][j], dp[i][j - 1]);
     }
   }
+
+  // The canonical tail starts at this index — matches here anchor the boundary.
+  const tailStart = Math.max(
+    n - Math.max(Math.round(n * CHAPTER_TAIL_FRACTION), CHAPTER_TAIL_MIN),
+    0,
+  );
+
   let i = m, j = n;
+  let lastTailMatchedSrc = -1;
+  let lastMatchedSrc = -1;
   while (i > 0 && j > 0) {
     if (matches(window[i - 1].norm, canonWords[j - 1].norm)) {
       assignments[i - 1] = j - 1;
+      if (lastMatchedSrc === -1) lastMatchedSrc = i - 1;
+      if (j - 1 >= tailStart && lastTailMatchedSrc === -1) {
+        lastTailMatchedSrc = i - 1;
+      }
       i--;
       j--;
     } else if (dp[i - 1][j] >= dp[i][j - 1]) {
@@ -129,7 +185,7 @@ function chapterLCS(
       j--;
     }
   }
-  return assignments;
+  return { assignments, lastTailMatchedSrc, lastMatchedSrc };
 }
 
 interface CanonChapter {
@@ -254,28 +310,35 @@ export function runCursor(
       const available = seg.words.slice(srcOffset);
       const windowSize = Math.min(
         available.length,
-        Math.max(Math.round(canon.words.length * srcPerCanon * 1.2), 30),
+        Math.max(
+          Math.round(canon.words.length * srcPerCanon * WINDOW_SLACK),
+          WINDOW_MIN,
+        ),
       );
       const window = available.slice(0, windowSize);
 
-      const rawAssignments = chapterLCS(window, canon.words);
-
-      let lastMatchedSrc = -1;
-      for (let k = rawAssignments.length - 1; k >= 0; k--) {
-        if (rawAssignments[k] !== -1) {
-          lastMatchedSrc = k;
-          break;
-        }
-      }
+      const {
+        assignments: rawAssignments,
+        lastTailMatchedSrc,
+        lastMatchedSrc,
+      } = chapterLCS(window, canon.words);
 
       fillGaps(rawAssignments, canon.words.length - 1);
 
       const expectedConsume = Math.max(
-        Math.round(canon.words.length * srcPerCanon * 1.05),
-        5,
+        Math.round(canon.words.length * srcPerCanon * CONSUME_SLACK),
+        CONSUME_MIN,
       );
-      const consumeCount = lastMatchedSrc >= 0
-        ? Math.min(lastMatchedSrc + 1, expectedConsume)
+
+      // Prefer the tail-anchored cut: the last source word matching the
+      // chapter's final canonical words. This prevents common words later in
+      // the source from dragging the boundary past the real chapter end.
+      // Fall back to the global last match only when the tail produced nothing.
+      const anchorSrc = lastTailMatchedSrc >= 0
+        ? lastTailMatchedSrc
+        : lastMatchedSrc;
+      const consumeCount = anchorSrc >= 0
+        ? Math.min(anchorSrc + 1, expectedConsume)
         : Math.min(expectedConsume, window.length);
 
       const srcBase = seg.startIdx + srcOffset;
