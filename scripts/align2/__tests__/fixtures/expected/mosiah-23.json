@@ -5,10 +5,17 @@
     "verse": 0,
     "lines": [
       {
-        "id": "157:13b",
+        "id": "157:12",
+        "page": 157,
+        "line": 12,
+        "text": "Chapter An account of Alma & the people of the Lord which ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/157"
+      },
+      {
+        "id": "157:13a",
         "page": 157,
         "line": 13,
-        "text": "by the people of king Noah——",
+        "text": "was driven into the wilderness by the people of king Noah——",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/157"
       }
     ]
@@ -19,7 +26,7 @@
     "verse": 1,
     "lines": [
       {
-        "id": "157:13c",
+        "id": "157:13b",
         "page": 157,
         "line": 13,
         "text": "Now Alma ",
@@ -1071,7 +1078,7 @@
         "id": "159:13a",
         "page": 159,
         "line": 13,
-        "text": "to the will of the king of the Lamanites",
+        "text": "to the",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/159"
       }
     ]

@@ -153,15 +153,19 @@ function chapterLCS(
   };
   if (m === 0 || n === 0) return empty;
 
-  const dp: Uint16Array[] = Array.from(
+  // Suffix LCS table: ds[i][j] = LCS length for source[i..m-1] vs canonical[j..n-1].
+  // Used for forward backtracking which finds the LEFTMOST (earliest) match for
+  // each canonical word, preventing a repeated phrase in the next chapter from
+  // pulling the boundary forward (e.g. "our father" in 4:38 vs 5:1).
+  const ds: Uint16Array[] = Array.from(
     { length: m + 1 },
     () => new Uint16Array(n + 1),
   );
-  for (let i = 1; i <= m; i++) {
-    for (let j = 1; j <= n; j++) {
-      dp[i][j] = matches(window[i - 1].norm, canonWords[j - 1].norm)
-        ? dp[i - 1][j - 1] + 1
-        : Math.max(dp[i - 1][j], dp[i][j - 1]);
+  for (let i = m - 1; i >= 0; i--) {
+    for (let j = n - 1; j >= 0; j--) {
+      ds[i][j] = matches(window[i].norm, canonWords[j].norm)
+        ? ds[i + 1][j + 1] + 1
+        : Math.max(ds[i + 1][j], ds[i][j + 1]);
     }
   }
 
@@ -171,26 +175,29 @@ function chapterLCS(
     0,
   );
 
-  let i = m, j = n;
+  // Forward backtracking using the suffix table: walk from (0,0) to (m,n).
+  // At each step, take a match only when it's on an optimal suffix path.
+  // Advance source (skip source word) when future LCS without it is at least
+  // as good — this matches each canonical word to the EARLIEST valid source
+  // position, preventing repeated phrases in the next chapter from pulling
+  // the boundary forward.
+  let fi = 0, fj = 0;
   let lastTailMatchedSrc = -1;
   let lastMatchedSrc = -1;
-  while (i > 0 && j > 0) {
-    if (matches(window[i - 1].norm, canonWords[j - 1].norm)) {
-      assignments[i - 1] = j - 1;
-      if (lastMatchedSrc === -1) lastMatchedSrc = i - 1;
-      if (j - 1 >= tailStart && lastTailMatchedSrc === -1) {
-        lastTailMatchedSrc = i - 1;
-      }
-      i--;
-      j--;
-    } else if (dp[i - 1][j] > dp[i][j - 1]) {
-      // Strict > (not >=): on a tie, advance canonical (j) rather than source (i).
-      // This matches each canonical word to the earliest possible source position,
-      // preventing the same phrase appearing later in the source from pulling the
-      // chapter boundary forward (e.g. "fifty yea" in 3:31 vs its echo in 4:1).
-      i--;
+  while (fi < m && fj < n) {
+    if (
+      matches(window[fi].norm, canonWords[fj].norm) &&
+      ds[fi][fj] === ds[fi + 1][fj + 1] + 1
+    ) {
+      assignments[fi] = fj;
+      lastMatchedSrc = fi;
+      if (fj >= tailStart) lastTailMatchedSrc = fi;
+      fi++;
+      fj++;
+    } else if (ds[fi + 1][fj] >= ds[fi][fj + 1]) {
+      fi++; // skip source word: future LCS without it is at least as good
     } else {
-      j--;
+      fj++; // skip canonical word: must advance canonical to maintain LCS
     }
   }
   return { assignments, lastTailMatchedSrc, lastMatchedSrc };
