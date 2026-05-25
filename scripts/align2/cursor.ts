@@ -119,6 +119,13 @@ const CONSUME_SLACK = 1.10;
  *  very short verses). */
 const CONSUME_MIN = 3;
 
+/** Match fraction threshold above which we trust lastMatchedSrc directly
+ *  (no consume cap). Only EVERY canonical word matched (= 1.0) bypasses the
+ *  cap — that's a strong signal the last match is genuinely the verse boundary
+ *  (e.g. short heading-style verses like "The Testimony of Eight Witnesses"
+ *  where leading unmatched words push lastMatchedSrc just past expectedConsume). */
+const HIGH_MATCH_FRACTION = 1.0;
+
 // ── Per-verse LCS ──────────────────────────────────────────────────────────
 //
 // Aligns one canonical verse against a small window of source words using
@@ -136,6 +143,9 @@ interface VerseLCSResult {
   assignments: Int32Array;
   /** Last source position matched to any canonical word in this verse. */
   lastMatchedSrc: number;
+  /** Number of canonical words actually matched (0..n). Used by the cursor to
+   *  decide whether to trust lastMatchedSrc directly or apply the consume cap. */
+  matchedCount: number;
 }
 
 function verseLCS(
@@ -145,7 +155,9 @@ function verseLCS(
   const m = window.length;
   const n = canonWords.length;
   const assignments = new Int32Array(m).fill(-1);
-  if (m === 0 || n === 0) return { assignments, lastMatchedSrc: -1 };
+  if (m === 0 || n === 0) {
+    return { assignments, lastMatchedSrc: -1, matchedCount: 0 };
+  }
 
   // Suffix LCS table: ds[i][j] = LCS length for source[i..m-1] vs canonical[j..n-1].
   const ds: Uint16Array[] = Array.from(
@@ -163,6 +175,7 @@ function verseLCS(
   // Forward backtracking: match each canonical word at its earliest valid position.
   let fi = 0, fj = 0;
   let lastMatchedSrc = -1;
+  let matchedCount = 0;
   while (fi < m && fj < n) {
     if (
       matches(window[fi].norm, canonWords[fj].norm) &&
@@ -170,6 +183,7 @@ function verseLCS(
     ) {
       assignments[fi] = fj;
       lastMatchedSrc = fi;
+      matchedCount++;
       fi++;
       fj++;
     } else if (ds[fi + 1][fj] >= ds[fi][fj + 1]) {
@@ -178,7 +192,7 @@ function verseLCS(
       fj++; // skip canonical word: must advance canonical to maintain LCS
     }
   }
-  return { assignments, lastMatchedSrc };
+  return { assignments, lastMatchedSrc, matchedCount };
 }
 
 // ── Line-break split joining ───────────────────────────────────────────────
@@ -348,10 +362,8 @@ export function runCursor(
       );
       const window = available.slice(0, windowSize);
 
-      const { assignments: rawAssignments, lastMatchedSrc } = verseLCS(
-        window,
-        vg.words,
-      );
+      const { assignments: rawAssignments, lastMatchedSrc, matchedCount } =
+        verseLCS(window, vg.words);
 
       fillGaps(rawAssignments, vg.words.length - 1);
 
@@ -371,11 +383,16 @@ export function runCursor(
         break; // exit segment loop without advancing vgIdx
       }
 
-      // Consume up to and including the last matched source word, capped by
-      // the expected consume count to prevent over-consumption when the LCS
-      // matches common words into the next verse's territory.
+      // High-confidence path: when the LCS matched most of the verse's
+      // canonical words (≥ HIGH_MATCH_FRACTION), trust lastMatchedSrc directly
+      // and skip the consume cap. The cap is meant for low-match cases where
+      // the LCS may have matched into the next verse's territory; with a
+      // high match rate, lastMatchedSrc is the precise verse boundary.
+      const matchFraction = matchedCount / vg.words.length;
       const consumeCount = lastMatchedSrc >= 0
-        ? Math.min(lastMatchedSrc + 1, expectedConsume)
+        ? (matchFraction >= HIGH_MATCH_FRACTION
+          ? lastMatchedSrc + 1
+          : Math.min(lastMatchedSrc + 1, expectedConsume))
         : Math.min(expectedConsume, window.length);
 
       const srcBase = seg.startIdx + srcOffset;

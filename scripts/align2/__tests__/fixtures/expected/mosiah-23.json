@@ -92,7 +92,7 @@
         "id": "157:18b",
         "page": 157,
         "line": 18,
-        "text": "& it came to pass that they fled eight days",
+        "text": "& it came to pass that they fled eight days journey into the wilderness",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/157"
       }
     ]
@@ -106,14 +106,14 @@
         "id": "157:18c",
         "page": 157,
         "line": 18,
-        "text": "journey into the wilderness & they came ",
+        "text": "& they came ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/157"
       },
       {
         "id": "157:19a",
         "page": 157,
         "line": 19,
-        "text": "to a land yea even a verry beautiful & pleasant land a land of",
+        "text": "to a land yea even a verry beautiful & pleasant land a land of pure water",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/157"
       }
     ]
@@ -127,7 +127,7 @@
         "id": "157:19b",
         "page": 157,
         "line": 19,
-        "text": "pure water & it ",
+        "text": "& it ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/157"
       },
       {
@@ -141,7 +141,7 @@
         "id": "157:21a",
         "page": 157,
         "line": 21,
-        "text": "build buildings .&C. yea they were",
+        "text": "build buildings .&C. yea they were industrious & did labour excedingly",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/157"
       }
     ]
@@ -155,14 +155,21 @@
         "id": "157:21b",
         "page": 157,
         "line": 21,
-        "text": "industrious & did labour excedingly & it came ",
+        "text": "& it came ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/157"
       },
       {
-        "id": "157:22a",
+        "id": "157:22",
         "page": 157,
         "line": 22,
-        "text": "to pass that the people were desireous that Alma should be their",
+        "text": "to pass that the people were desireous that Alma should be their king for he was be",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/157"
+      },
+      {
+        "id": "157:23a",
+        "page": 157,
+        "line": 23,
+        "text": "loved by his people",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/157"
       }
     ]
@@ -173,17 +180,10 @@
     "verse": 7,
     "lines": [
       {
-        "id": "157:22b",
-        "page": 157,
-        "line": 22,
-        "text": "king for he was be ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/157"
-      },
-      {
-        "id": "157:23",
+        "id": "157:23b",
         "page": 157,
         "line": 23,
-        "text": "loved by his people but he saith unto them behold it is not expediant that we ",
+        "text": "but he saith unto them behold it is not expediant that we ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/157"
       },
       {
@@ -204,7 +204,7 @@
         "id": "157:26a",
         "page": 157,
         "line": 26,
-        "text": "you it is not expediant that ye should",
+        "text": "you it is not expediant that ye should have a king",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/157"
       }
     ]
@@ -218,7 +218,7 @@
         "id": "157:26b",
         "page": 157,
         "line": 26,
-        "text": "have a king nevertheless if it were possi",
+        "text": "nevertheless if it were possi",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/157"
       },
       {
@@ -923,7 +923,7 @@
         "id": "159:1a",
         "page": 159,
         "line": 1,
-        "text": "because",
+        "text": "because of their wives",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/159"
       }
     ]
@@ -937,8 +937,8 @@
         "id": "159:1b",
         "page": 159,
         "line": 1,
-        "text": "of their wives & Amulon & his brethren did join the Lamanites & they were ",
-        "markdown": "of their wives & Amulon & his brethren did join the~~m~~ Lamanites & they were ",
+        "text": "& Amulon & his brethren did join the Lamanites & they were ",
+        "markdown": "& Amulon & his brethren did join the~~m~~ Lamanites & they were ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/159"
       },
       {
