@@ -1,0 +1,95 @@
+[
+  {
+    "book": "moro",
+    "chapter": 2,
+    "verse": 1,
+    "lines": [
+      {
+        "id": "458:11",
+        "page": 458,
+        "line": 11,
+        "text": "Chapter ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/458"
+      },
+      {
+        "id": "458:12",
+        "page": 458,
+        "line": 12,
+        "text": "The words of Christ which he spake unto his desipels the twelve whom he had chosen ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/458"
+      },
+      {
+        "id": "458:13a",
+        "page": 458,
+        "line": 13,
+        "text": "as he laid his hands upon them",
+        "markdown": "as he laid his hands upon ~~their~~ them",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/458"
+      }
+    ]
+  },
+  {
+    "book": "moro",
+    "chapter": 2,
+    "verse": 2,
+    "lines": [
+      {
+        "id": "458:13b",
+        "page": 458,
+        "line": 13,
+        "text": "& he called them by name saying Ye shall call ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/458"
+      },
+      {
+        "id": "458:14",
+        "page": 458,
+        "line": 14,
+        "text": "on the Father in my name in mighty prayer & after that ye have done this ye shall ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/458"
+      },
+      {
+        "id": "458:15",
+        "page": 458,
+        "line": 15,
+        "text": "have power that on him whom ye shall lay your hands ye shall give the Holy Ghost ",
+        "markdown": "have power that on him whom ye shall lay your hand[s] ye shall give the Holy Ghost ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/458"
+      },
+      {
+        "id": "458:16a",
+        "page": 458,
+        "line": 16,
+        "text": "& in my name shall ye give it for thus do mine Apostles",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/458"
+      }
+    ]
+  },
+  {
+    "book": "moro",
+    "chapter": 2,
+    "verse": 3,
+    "lines": [
+      {
+        "id": "458:16b",
+        "page": 458,
+        "line": 16,
+        "text": "now Christ spake these words ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/458"
+      },
+      {
+        "id": "458:17",
+        "page": 458,
+        "line": 17,
+        "text": "unto them at the time of his first appearing & the multitude heard it not but the de ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/458"
+      },
+      {
+        "id": "458:18",
+        "page": 458,
+        "line": 18,
+        "text": "sipels heard it & on as many as they laid their hands fell the Holy Ghost",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/458"
+      }
+    ]
+  }
+]

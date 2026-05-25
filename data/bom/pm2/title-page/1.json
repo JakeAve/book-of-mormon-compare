@@ -1,0 +1,387 @@
+[
+  {
+    "book": "title-page",
+    "chapter": 1,
+    "verse": 1,
+    "lines": [
+      {
+        "id": "1:1",
+        "page": 1,
+        "line": 1,
+        "text": "The Book of Mormon—— An account written by the hand ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/1"
+      },
+      {
+        "id": "1:2a",
+        "page": 1,
+        "line": 2,
+        "text": "of Mormon upon plates taken from the plates of Nephi",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/1"
+      }
+    ]
+  },
+  {
+    "book": "title-page",
+    "chapter": 1,
+    "verse": 2,
+    "lines": [
+      {
+        "id": "1:2b",
+        "page": 1,
+        "line": 2,
+        "text": "wherefore it is an abrid",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/1"
+      },
+      {
+        "id": "1:3",
+        "page": 1,
+        "line": 3,
+        "text": "gment of the record of the People of Nephi & also of the Lamanites written to the Lamanites ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/1"
+      },
+      {
+        "id": "1:4",
+        "page": 1,
+        "line": 4,
+        "text": "which are a remnant of the house of Israel & also to Jew & Gentile written by way of ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/1"
+      },
+      {
+        "id": "1:5",
+        "page": 1,
+        "line": 5,
+        "text": "commandment & also by the spirit of Prophesy & of revelation written & sealed up ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/1"
+      },
+      {
+        "id": "1:6",
+        "page": 1,
+        "line": 6,
+        "text": "& hid up unto the Lord that they might not be destroid to come forth by the gift & ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/1"
+      },
+      {
+        "id": "1:7",
+        "page": 1,
+        "line": 7,
+        "text": "power of God unto the interpretation thereof sealed by the hand of Moroni & hid ",
+        "markdown": "power of God unto the interpretation thereof sealed by the hand of Moroni & ~~hiid~~ hid ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/1"
+      },
+      {
+        "id": "1:8",
+        "page": 1,
+        "line": 8,
+        "text": "up unto the Lord to come forth in due time by the way of Gentile the interpretation thereof ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/1"
+      },
+      {
+        "id": "1:9a",
+        "page": 1,
+        "line": 9,
+        "text": "by the gift of God",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/1"
+      }
+    ]
+  },
+  {
+    "book": "title-page",
+    "chapter": 1,
+    "verse": 3,
+    "lines": [
+      {
+        "id": "1:9b",
+        "page": 1,
+        "line": 9,
+        "text": "an abridgment taken from the Book of Ether also which is a re",
+        "markdown": "an abridgment taken from the Book of Ether also which ~~as~~ [is] a re",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/1"
+      },
+      {
+        "id": "1:10",
+        "page": 1,
+        "line": 10,
+        "text": "cord of the People of Jared which were scattered at the time the Lord confounded the lan",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/1"
+      },
+      {
+        "id": "1:11",
+        "page": 1,
+        "line": 11,
+        "text": "guage of the People when they were building a tower to get to heaven which is to shew unto ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/1"
+      },
+      {
+        "id": "1:12",
+        "page": 1,
+        "line": 12,
+        "text": "the remnant of the house of Israel how great things the Lord hath done for their fathers ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/1"
+      },
+      {
+        "id": "1:13",
+        "page": 1,
+        "line": 13,
+        "text": "& that they may know the covenants of the Lord that they are not cast off forever & also to ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/1"
+      },
+      {
+        "id": "1:14",
+        "page": 1,
+        "line": 14,
+        "text": "the convinceing of the Jew & Gentile that Jesus is the Christ the Eternal God manifesting ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/1"
+      },
+      {
+        "id": "1:15",
+        "page": 1,
+        "line": 15,
+        "text": "himself unto all Nations & now if there be fault it be the mistake of men wherefore conde",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/1"
+      },
+      {
+        "id": "1:16",
+        "page": 1,
+        "line": 16,
+        "text": "mn not the things of God that ye may be found spotless at the Judgment seat of Christ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/1"
+      }
+    ]
+  },
+  {
+    "book": "title-page",
+    "chapter": 1,
+    "verse": 4,
+    "lines": [
+      {
+        "id": "1:17",
+        "page": 1,
+        "line": 17,
+        "text": "By Joseph Smith Juniour Author & proprietor ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/1"
+      },
+      {
+        "id": "1:18",
+        "page": 1,
+        "line": 18,
+        "text": "Be it remembered that on the eleventh day of June ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/1"
+      },
+      {
+        "id": "1:19",
+        "page": 1,
+        "line": 19,
+        "text": "in the fifty third year of the independance of the A.D ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/1"
+      },
+      {
+        "id": "1:20",
+        "page": 1,
+        "line": 20,
+        "text": "1829 Joseph Smith Junior of the said Destrict hath deposited in this office the ",
+        "markdown": "1829 Joseph Smith Junior of the ~~sai~~ said Destrict hath deposited in this office the ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/1"
+      },
+      {
+        "id": "1:21",
+        "page": 1,
+        "line": 21,
+        "text": "title of a Book the right whereof he claims a author in the words following to wit ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/1"
+      },
+      {
+        "id": "1:22",
+        "page": 1,
+        "line": 22,
+        "text": "Tthe Book of Mormon. &.C.—— By Joseph Smith Junor Author propriet[or] ",
+        "markdown": "Tthe Book of Mormon. . &.C.—— By Joseph Smith Junor Author ~~& propri~~ [propriet[or]] ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/1"
+      },
+      {
+        "id": "1:23",
+        "page": 1,
+        "line": 23,
+        "text": "Cherk of the Destrict ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/1"
+      },
+      {
+        "id": "1:24",
+        "page": 1,
+        "line": 24,
+        "text": "cort for the Northren District of ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/1"
+      },
+      {
+        "id": "3:1",
+        "page": 3,
+        "line": 1,
+        "text": "To the Reader—— ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/3"
+      },
+      {
+        "id": "3:2",
+        "page": 3,
+        "line": 2,
+        "text": "As mang fals reports have been Sirculated respecting the following work & also many unla ",
+        "markdown": "As mang fals reports have been Sirculated respecting ~~this~~ [the following] work & also many unla ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/3"
+      },
+      {
+        "id": "3:3",
+        "page": 3,
+        "line": 3,
+        "text": "wful measures taken by evil desineing persons to destroy me & also the work I would ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/3"
+      },
+      {
+        "id": "3:4",
+        "page": 3,
+        "line": 4,
+        "text": "inform you that I translated by the gift & power of God & caused to be written one ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/3"
+      },
+      {
+        "id": "3:5",
+        "page": 3,
+        "line": 5,
+        "text": "hundred & sixteen pages the which I took from the Book of Lehi which was an acc ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/3"
+      },
+      {
+        "id": "3:6",
+        "page": 3,
+        "line": 6,
+        "text": "ount abridged from the plates of Lehi by the hand of Mormon which said account ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/3"
+      },
+      {
+        "id": "3:7",
+        "page": 3,
+        "line": 7,
+        "text": "some person or persons have stolen & kept from me notwithstanding my utmost exer ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/3"
+      },
+      {
+        "id": "3:8",
+        "page": 3,
+        "line": 8,
+        "text": "sion to recover it again & being commanded of the Lord that I should not translate ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/3"
+      },
+      {
+        "id": "3:9",
+        "page": 3,
+        "line": 9,
+        "text": "the same over again for Satan had put it into their hearts to tempt the Lord their God ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/3"
+      },
+      {
+        "id": "3:10",
+        "page": 3,
+        "line": 10,
+        "text": "by altering the words that they did read conterary from that which I translated & ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/3"
+      },
+      {
+        "id": "3:11",
+        "page": 3,
+        "line": 11,
+        "text": "caused to be written & if I should bring forth the same words again or in other words if I ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/3"
+      },
+      {
+        "id": "3:12",
+        "page": 3,
+        "line": 12,
+        "text": "should translate the same over again they would publish that which they had stolen & ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/3"
+      },
+      {
+        "id": "3:13",
+        "page": 3,
+        "line": 13,
+        "text": "Satan would stir up the hearts of this generation that they might not receive this work ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/3"
+      },
+      {
+        "id": "3:14",
+        "page": 3,
+        "line": 14,
+        "text": "but behold the Lord said unto me I will not suffer that Satan shall accomplish ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/3"
+      },
+      {
+        "id": "3:15",
+        "page": 3,
+        "line": 15,
+        "text": "his evil design in this thing therefore thou shalt translate from the plates of Nephi ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/3"
+      },
+      {
+        "id": "3:16",
+        "page": 3,
+        "line": 16,
+        "text": "untill ye come to that which ye have translated which ye have retained & ",
+        "markdown": "untill ~~yeu~~ ye come to that which ye have translated which ye have retained & ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/3"
+      },
+      {
+        "id": "3:17",
+        "page": 3,
+        "line": 17,
+        "text": "behold ye shall publish it as the record of Nephi & thus I will confound those who ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/3"
+      },
+      {
+        "id": "3:18",
+        "page": 3,
+        "line": 18,
+        "text": "have altered my words I will not suffer that they shall destroy my work yea I ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/3"
+      },
+      {
+        "id": "3:19",
+        "page": 3,
+        "line": 19,
+        "text": "will shew unto them that my wisdom is greater then the cunning of the Devil ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/3"
+      },
+      {
+        "id": "3:20",
+        "page": 3,
+        "line": 20,
+        "text": "wherefore to be obediant unto the commandments of God I have through his grace ",
+        "markdown": "wherefore to be obediant unto the ~~commands~~ commandments of God I have through his grace ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/3"
+      },
+      {
+        "id": "3:21",
+        "page": 3,
+        "line": 21,
+        "text": "& mercy accomplished that which he hath commanded me respecting this thing ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/3"
+      },
+      {
+        "id": "3:22",
+        "page": 3,
+        "line": 22,
+        "text": "I would also inform you that the plates of which hath been spoken was found in ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/3"
+      },
+      {
+        "id": "3:23",
+        "page": 3,
+        "line": 23,
+        "text": "the township of Ontario County New Yorkk ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/3"
+      },
+      {
+        "id": "3:24",
+        "page": 3,
+        "line": 24,
+        "text": "The Author",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/3"
+      }
+    ]
+  }
+]
