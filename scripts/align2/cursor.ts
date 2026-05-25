@@ -1,5 +1,10 @@
 import { matches } from "./match.ts";
-import type { CursorResult, LineInfo, SourceWord } from "./types.ts";
+import type {
+  CursorResult,
+  LineInfo,
+  SourceWord,
+  TargetWord,
+} from "./types.ts";
 import type { VerseGroup } from "./tokenize-target.ts";
 
 // ── Heading detection ──────────────────────────────────────────────────────
@@ -93,70 +98,56 @@ function headingToBook(normalized: string): string | null {
 
 // ── Tuning constants ──────────────────────────────────────────────────────
 
-/** Fraction of canonical chapter words counted as the "tail" for boundary
- *  anchoring. The last matched source position within this tail determines
- *  the chapter cut-point. A small value (≈ last verse) gives the most
- *  specific vocabulary for anchoring — large tails include common phrases
- *  that also appear in the following chapter and pull the boundary too far. */
-const CHAPTER_TAIL_FRACTION = 0.02;
+/** Search window multiplier per canonical verse. With WINDOW_SLACK = 1.5 the
+ *  LCS sees enough source words to capture the verse's content plus a small
+ *  look-ahead, while staying small enough to avoid the next verse's vocabulary
+ *  dominating the match. */
+const WINDOW_SLACK = 1.5;
 
-/** Minimum number of canonical words in the tail window, regardless of
- *  chapter length. */
-const CHAPTER_TAIL_MIN = 3;
-
-/** Search window multiplier: how many source words to look at per canonical
- *  chapter word. Keep this at 1.0 (= the expected PM/canonical ratio) so the
- *  LCS cannot see the next chapter's content and match against it. The consume
- *  cap (CONSUME_SLACK) provides the small extra buffer needed for verbosity
- *  variance without exposing adjacent-chapter vocabulary to the LCS. */
-const WINDOW_SLACK = 1.0;
-
-/** Minimum source-word window per canonical chapter. */
-const WINDOW_MIN = 30;
+/** Minimum source-word window per canonical verse — ensures even very short
+ *  verses (chapter headings, single-line verses) have enough source to match. */
+const WINDOW_MIN = 20;
 
 /** Consume cap multiplier: at most this many source words per canonical word.
- *  5% slack over the PM/canonical ratio lets the LCS reach the last word of
- *  a chapter without systematically cutting a word or two short. */
-const CONSUME_SLACK = 1.05;
+ *  10% slack lets each verse capture any extra PM verbosity (scribal additions,
+ *  duplicated words) without leaving them for the next verse to inherit as
+ *  leading-bleed, while staying tight enough to avoid exhausting source before
+ *  the end of long books. */
+const CONSUME_SLACK = 1.10;
 
-/** Minimum source words consumed per canonical chapter (prevents stalling on
- *  very short chapters like single-verse headings). */
-const CONSUME_MIN = 5;
+/** Minimum source words consumed per canonical verse (prevents stalling on
+ *  very short verses). */
+const CONSUME_MIN = 3;
 
-// ── Per-chapter LCS ────────────────────────────────────────────────────────
+// ── Per-verse LCS ──────────────────────────────────────────────────────────
 //
-// Returns:
-//   assignments — canon-word index per source word (-1 = unmatched)
-//   lastTailMatchedSrc — last source position that matched a canonical word
-//     in the chapter's tail (final CHAPTER_TAIL_FRACTION of canonical words).
-//     Used as the primary boundary anchor; the global last match is only a
-//     fallback for chapters whose tail produces no matches.
+// Aligns one canonical verse against a small window of source words using
+// suffix-LCS forward backtracking. Each canonical word is matched to the
+// EARLIEST valid source position; the last matched source position is the
+// verse boundary.
 //
-// O(m*n) where m ≤ window size, n ≤ canonical chapter words.
-interface ChapterLCSResult {
+// Per-verse granularity (rather than per-chapter) keeps the window small enough
+// that the next verse's vocabulary doesn't bleed into the LCS, and any drift
+// is bounded to a single verse before the next iteration recovers.
+//
+// O(m*n) where m ≤ window size, n = verse word count (typically 20-30).
+interface VerseLCSResult {
+  /** canon-word index per source word (-1 = unmatched, filled by fillGaps) */
   assignments: Int32Array;
-  lastTailMatchedSrc: number;
+  /** Last source position matched to any canonical word in this verse. */
   lastMatchedSrc: number;
 }
 
-function chapterLCS(
+function verseLCS(
   window: SourceWord[],
-  canonWords: Array<{ norm: string; vg: VerseGroup }>,
-): ChapterLCSResult {
+  canonWords: TargetWord[],
+): VerseLCSResult {
   const m = window.length;
   const n = canonWords.length;
   const assignments = new Int32Array(m).fill(-1);
-  const empty: ChapterLCSResult = {
-    assignments,
-    lastTailMatchedSrc: -1,
-    lastMatchedSrc: -1,
-  };
-  if (m === 0 || n === 0) return empty;
+  if (m === 0 || n === 0) return { assignments, lastMatchedSrc: -1 };
 
   // Suffix LCS table: ds[i][j] = LCS length for source[i..m-1] vs canonical[j..n-1].
-  // Used for forward backtracking which finds the LEFTMOST (earliest) match for
-  // each canonical word, preventing a repeated phrase in the next chapter from
-  // pulling the boundary forward (e.g. "our father" in 4:38 vs 5:1).
   const ds: Uint16Array[] = Array.from(
     { length: m + 1 },
     () => new Uint16Array(n + 1),
@@ -169,20 +160,8 @@ function chapterLCS(
     }
   }
 
-  // The canonical tail starts at this index — matches here anchor the boundary.
-  const tailStart = Math.max(
-    n - Math.max(Math.round(n * CHAPTER_TAIL_FRACTION), CHAPTER_TAIL_MIN),
-    0,
-  );
-
-  // Forward backtracking using the suffix table: walk from (0,0) to (m,n).
-  // At each step, take a match only when it's on an optimal suffix path.
-  // Advance source (skip source word) when future LCS without it is at least
-  // as good — this matches each canonical word to the EARLIEST valid source
-  // position, preventing repeated phrases in the next chapter from pulling
-  // the boundary forward.
+  // Forward backtracking: match each canonical word at its earliest valid position.
   let fi = 0, fj = 0;
-  let lastTailMatchedSrc = -1;
   let lastMatchedSrc = -1;
   while (fi < m && fj < n) {
     if (
@@ -191,7 +170,6 @@ function chapterLCS(
     ) {
       assignments[fi] = fj;
       lastMatchedSrc = fi;
-      if (fj >= tailStart) lastTailMatchedSrc = fi;
       fi++;
       fj++;
     } else if (ds[fi + 1][fj] >= ds[fi][fj + 1]) {
@@ -200,7 +178,7 @@ function chapterLCS(
       fj++; // skip canonical word: must advance canonical to maintain LCS
     }
   }
-  return { assignments, lastTailMatchedSrc, lastMatchedSrc };
+  return { assignments, lastMatchedSrc };
 }
 
 // ── Line-break split joining ───────────────────────────────────────────────
@@ -243,26 +221,6 @@ function mergeLineBreakSplits(
     }
   }
   return { words, spanOf };
-}
-
-interface CanonChapter {
-  words: Array<{ norm: string; vg: VerseGroup }>;
-}
-
-function buildCanonChapters(verseGroups: VerseGroup[]): CanonChapter[] {
-  const out: CanonChapter[] = [];
-  let cur: CanonChapter | null = null;
-  let curBook = "", curChapter = -1;
-  for (const vg of verseGroups) {
-    if (vg.book !== curBook || vg.chapter !== curChapter) {
-      cur = { words: [] };
-      out.push(cur);
-      curBook = vg.book;
-      curChapter = vg.chapter;
-    }
-    for (const w of vg.words) cur!.words.push({ norm: w.norm, vg });
-  }
-  return out;
 }
 
 function fillGaps(a: Int32Array, maxIdx: number): void {
@@ -315,14 +273,11 @@ export function runCursor(
   // Phase 1: segment source at chapter headings (hard anchors that reset drift)
   const segments = segmentSource(mergedSource, lineInfos);
 
-  // Phase 2: group canonical verse groups by chapter
-  const canonChapters = buildCanonChapters(verseGroups);
-
-  // Build index: canonical book slug → first index in canonChapters
+  // Build index: canonical book slug → first index in verseGroups
   const bookStart = new Map<string, number>();
-  for (let i = 0; i < canonChapters.length; i++) {
-    const b = canonChapters[i].words[0]?.vg.book;
-    if (b && !bookStart.has(b)) bookStart.set(b, i);
+  for (let i = 0; i < verseGroups.length; i++) {
+    const b = verseGroups[i].book;
+    if (!bookStart.has(b)) bookStart.set(b, i);
   }
 
   // Expected source words per canonical word (use original source length so the
@@ -334,12 +289,13 @@ export function runCursor(
 
   // Result indexed by mergedSource position; expanded to original source length below.
   const mergedResult: CursorResult[] = new Array(mergedSource.length);
-  let canonIdx = 0;
+  let vgIdx = 0;
 
-  // Precompute canonical limit for each segment: don't process past the book
-  // that starts in the next book-heading segment. This prevents a segment from
-  // consuming canonical chapters that belong to a different PM source segment.
-  const segCanonLimits: number[] = segments.map(() => canonChapters.length);
+  // Precompute verse-group limit for each segment: don't process past the
+  // first verse group of the book that starts in the next book-heading segment.
+  // This prevents a segment from consuming verse groups that belong to a
+  // different PM source segment.
+  const segVgLimits: number[] = segments.map(() => verseGroups.length);
   for (let si = 0; si < segments.length; si++) {
     for (let sj = si + 1; sj < segments.length; sj++) {
       if (!segments[sj].headingText) continue;
@@ -347,7 +303,7 @@ export function runCursor(
       if (nextBook !== null) {
         const nextStart = bookStart.get(nextBook);
         if (nextStart !== undefined) {
-          segCanonLimits[si] = nextStart;
+          segVgLimits[si] = nextStart;
           break;
         }
       }
@@ -358,23 +314,27 @@ export function runCursor(
     const seg = segments[si];
     if (seg.words.length === 0) continue;
 
-    // When entering a book-heading segment, jump canonIdx to the matching book
+    // When entering a book-heading segment, jump vgIdx to the matching book
     // (always — even backward — to correct any drift from prior segments).
     if (seg.headingText) {
       const targetBook = headingToBook(seg.headingText);
       if (targetBook !== null) {
         const jumpTo = bookStart.get(targetBook);
-        if (jumpTo !== undefined && jumpTo > canonIdx) canonIdx = jumpTo;
+        if (jumpTo !== undefined && jumpTo > vgIdx) vgIdx = jumpTo;
       }
     }
 
-    const canonLimit = segCanonLimits[si];
+    const vgLimit = segVgLimits[si];
     let srcOffset = 0; // position within this segment
 
-    while (srcOffset < seg.words.length && canonIdx < canonLimit) {
-      const canon = canonChapters[canonIdx];
-      if (canon.words.length === 0) {
-        canonIdx++;
+    // Process one canonical verse at a time. Per-verse windows are small
+    // (~20-50 source words) so the next verse's vocabulary is never in view,
+    // and any drift is bounded to a single verse before the next iteration
+    // recovers via its own LCS.
+    while (srcOffset < seg.words.length && vgIdx < vgLimit) {
+      const vg = verseGroups[vgIdx];
+      if (vg.words.length === 0) {
+        vgIdx++;
         continue;
       }
 
@@ -382,40 +342,44 @@ export function runCursor(
       const windowSize = Math.min(
         available.length,
         Math.max(
-          Math.round(canon.words.length * srcPerCanon * WINDOW_SLACK),
+          Math.round(vg.words.length * srcPerCanon * WINDOW_SLACK),
           WINDOW_MIN,
         ),
       );
       const window = available.slice(0, windowSize);
 
-      const {
-        assignments: rawAssignments,
-        lastTailMatchedSrc,
-        lastMatchedSrc,
-      } = chapterLCS(window, canon.words);
+      const { assignments: rawAssignments, lastMatchedSrc } = verseLCS(
+        window,
+        vg.words,
+      );
 
-      fillGaps(rawAssignments, canon.words.length - 1);
+      fillGaps(rawAssignments, vg.words.length - 1);
 
       const expectedConsume = Math.max(
-        Math.round(canon.words.length * srcPerCanon * CONSUME_SLACK),
+        Math.round(vg.words.length * srcPerCanon * CONSUME_SLACK),
         CONSUME_MIN,
       );
 
-      // Prefer the tail-anchored cut: the last source word matching the
-      // chapter's final canonical words. This prevents common words later in
-      // the source from dragging the boundary past the real chapter end.
-      // Fall back to the global last match only when the tail produced nothing.
-      const anchorSrc = lastTailMatchedSrc >= 0
-        ? lastTailMatchedSrc
-        : lastMatchedSrc;
-      const consumeCount = anchorSrc >= 0
-        ? Math.min(anchorSrc + 1, expectedConsume)
+      // If the LCS found no matches AND we're near the end of this segment,
+      // don't advance vgIdx — the verse's actual content is likely in the next
+      // segment (e.g. a PM chapter heading split the verse across segments).
+      // The trailing fill will assign these residual source words to the
+      // previous verse, which is the natural place for them.
+      const segRemaining = seg.words.length - srcOffset;
+      const nearSegmentEnd = segRemaining <= expectedConsume / 2;
+      if (lastMatchedSrc < 0 && nearSegmentEnd) {
+        break; // exit segment loop without advancing vgIdx
+      }
+
+      // Consume up to and including the last matched source word, capped by
+      // the expected consume count to prevent over-consumption when the LCS
+      // matches common words into the next verse's territory.
+      const consumeCount = lastMatchedSrc >= 0
+        ? Math.min(lastMatchedSrc + 1, expectedConsume)
         : Math.min(expectedConsume, window.length);
 
       const srcBase = seg.startIdx + srcOffset;
       for (let k = 0; k < consumeCount; k++) {
-        const idx = Math.min(rawAssignments[k], canon.words.length - 1);
-        const { vg } = canon.words[idx];
         mergedResult[srcBase + k] = {
           ...window[k],
           assignedVerse: {
@@ -427,7 +391,7 @@ export function runCursor(
       }
 
       srcOffset += consumeCount;
-      canonIdx++;
+      vgIdx++;
     }
   }
 
