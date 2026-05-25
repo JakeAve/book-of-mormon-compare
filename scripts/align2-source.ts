@@ -1,19 +1,25 @@
 import { tokenizeSource } from "./align2/tokenize-source.ts";
 import { groupByVerse, tokenizeTarget } from "./align2/tokenize-target.ts";
 import { runCursor } from "./align2/cursor.ts";
-import { buildAllVerseOutputs } from "./align2/segment.ts";
-import { BOOK_ORDER, loadBooks } from "./align/sources/bom2013.ts";
-import { TARGET_ROOT } from "./align/paths.ts";
+import { buildAllVerseOutputs, type OutVerse } from "./align2/build-output.ts";
+import { verseKey } from "./align2/line-key.ts";
+import {
+  ADAPTERS,
+  getAdapter,
+  type SourceAdapter,
+} from "./align2/sources/index.ts";
+import { BOOK_ORDER, loadBooks } from "./shared/bom2013.ts";
+import { TARGET_ROOT } from "./shared/paths.ts";
 
-const PM_RAW = "data/raw/pm";
-const PM2_OUT = "data/bom/pm2";
-
-async function run(opts: { dry: boolean; preview: number }) {
-  console.log("aligner2: PM alignment starting");
+async function run(
+  adapter: SourceAdapter,
+  opts: { dry: boolean; preview: number },
+) {
+  console.log(`aligner2: ${adapter.label} alignment starting`);
 
   const [{ words: sourceWords, lines: lineInfos }, canonVerses] = await Promise
     .all([
-      tokenizeSource(PM_RAW),
+      tokenizeSource(adapter.raw),
       loadBooks(TARGET_ROOT),
     ]);
   console.log(`  source words: ${sourceWords.length}`);
@@ -22,11 +28,17 @@ async function run(opts: { dry: boolean; preview: number }) {
   const targetWords = tokenizeTarget(canonVerses);
   const verseGroups = groupByVerse(targetWords);
 
-  const cursorResults = runCursor(sourceWords, verseGroups, lineInfos);
+  const cursorResults = runCursor(
+    sourceWords,
+    verseGroups,
+    lineInfos,
+    adapter.cursor,
+    adapter.dictionary,
+  );
   console.log(`  cursor assigned: ${cursorResults.length} words`);
 
   const canonByKey = new Map(
-    canonVerses.map((v) => [`${v.book}|${v.chapter}|${v.verse}`, v.text]),
+    canonVerses.map((v) => [verseKey(v.book, v.chapter, v.verse), v.text]),
   );
 
   const outVerses = buildAllVerseOutputs(cursorResults, lineInfos, canonByKey);
@@ -47,41 +59,57 @@ async function run(opts: { dry: boolean; preview: number }) {
   }
 
   try {
-    await Deno.remove(PM2_OUT, { recursive: true });
-  } catch (_) { /* ok if missing */ }
-
-  for (const slug of BOOK_ORDER) {
-    await Deno.mkdir(`${PM2_OUT}/${slug}`, { recursive: true });
+    await Deno.remove(adapter.out, { recursive: true });
+  } catch (err) {
+    if (!(err instanceof Deno.errors.NotFound)) throw err;
   }
 
-  // Write per-chapter files in canonical verse order
-  const byFile = new Map<string, typeof outVerses>();
-  // Iterate canonVerses to guarantee canonical order in output files
+  for (const slug of BOOK_ORDER) {
+    await Deno.mkdir(`${adapter.out}/${slug}`, { recursive: true });
+  }
+
+  const outByKey = new Map<string, OutVerse>();
+  for (const v of outVerses) {
+    outByKey.set(verseKey(v.book, v.chapter, v.verse), v);
+  }
+  const byFile = new Map<string, OutVerse[]>();
   for (const cv of canonVerses) {
-    const vk = `${cv.book}|${cv.chapter}|${cv.verse}`;
-    const outVerse = outVerses.find(
-      (v) => `${v.book}|${v.chapter}|${v.verse}` === vk,
-    );
+    const outVerse = outByKey.get(verseKey(cv.book, cv.chapter, cv.verse));
     if (!outVerse) continue;
     const fk = `${cv.book}/${cv.chapter}`;
-    if (!byFile.has(fk)) byFile.set(fk, []);
-    byFile.get(fk)!.push(outVerse);
+    let bucket = byFile.get(fk);
+    if (!bucket) {
+      bucket = [];
+      byFile.set(fk, bucket);
+    }
+    bucket.push(outVerse);
   }
 
   let filesWritten = 0;
   for (const [fk, arr] of byFile) {
     await Deno.writeTextFile(
-      `${PM2_OUT}/${fk}.json`,
+      `${adapter.out}/${fk}.json`,
       JSON.stringify(arr, null, 2) + "\n",
     );
     filesWritten++;
   }
-  console.log(`\n  wrote ${filesWritten} files → ${PM2_OUT}/`);
+  console.log(`\n  wrote ${filesWritten} files → ${adapter.out}/`);
 }
 
 if (import.meta.main) {
+  const positional = Deno.args.filter((a) => !a.startsWith("--"));
+  const slug = positional[0] ?? "pm";
+  const adapter = getAdapter(slug);
+  if (!adapter) {
+    console.error(
+      `unknown source slug: ${slug}. Known: ${
+        Object.keys(ADAPTERS).join(", ")
+      }`,
+    );
+    Deno.exit(1);
+  }
   const dry = Deno.args.includes("--dry");
   const pi = Deno.args.indexOf("--preview");
   const preview = pi >= 0 ? parseInt(Deno.args[pi + 1]) : 0;
-  await run({ dry, preview });
+  await run(adapter, { dry, preview });
 }

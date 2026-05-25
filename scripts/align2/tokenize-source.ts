@@ -1,3 +1,4 @@
+import { lineKey } from "./line-key.ts";
 import type { LineInfo, SourceWord } from "./types.ts";
 
 interface PMEntry {
@@ -44,7 +45,7 @@ export async function tokenizeSource(
     for (const e of entries) {
       const page = e.chapter;
       const line = e.verse;
-      const key = `${page}:${line}`;
+      const key = lineKey(page, line);
       if (!lines.has(key)) {
         lines.set(key, {
           page,

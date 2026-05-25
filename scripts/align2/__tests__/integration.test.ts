@@ -2,121 +2,173 @@ import { assertEquals, assertLess } from "@std/assert";
 import { tokenizeSource } from "../tokenize-source.ts";
 import { groupByVerse, tokenizeTarget } from "../tokenize-target.ts";
 import { runCursor } from "../cursor.ts";
-import { buildAllVerseOutputs } from "../segment.ts";
-import { loadBooks } from "../../align/sources/bom2013.ts";
-import { TARGET_ROOT } from "../../align/paths.ts";
+import { buildAllVerseOutputs, type OutVerse } from "../build-output.ts";
+import { verseKey } from "../line-key.ts";
+import { getAdapter, type SourceAdapter } from "../sources/index.ts";
+import { loadBooks } from "../../shared/bom2013.ts";
+import { TARGET_ROOT } from "../../shared/paths.ts";
 import { buildChapterReport } from "../../align/report.ts";
 
-// Use the full raw PM directory so the sequential cursor algorithm
-// traverses the complete source, correctly assigning all chapters.
-const FIXTURE_RAW = new URL("../../../data/raw/pm", import.meta.url).pathname;
 const FIXTURE_EXPECTED = new URL("fixtures/expected", import.meta.url).pathname;
 
-const TEST_CHAPTERS = [
-  { slug: "1-ne-3", book: "1-ne", chapter: 3 },
-  { slug: "1-ne-11", book: "1-ne", chapter: 11 },
-  { slug: "mosiah-23", book: "mosiah", chapter: 23 },
-] as const;
+interface TestCase {
+  /** Fixture file basename (without .json). */
+  slug: string;
+  book: string;
+  chapter: number;
+}
 
-async function runAligner2ForChapters(
-  rawDir: string,
-  targetChapters: readonly { book: string; chapter: number }[],
-) {
+interface VersionSuite {
+  adapter: SourceAdapter;
+  /** Directory under data/bom/ holding the aligner1 output for regression comparison. */
+  aligner1Dir: string;
+  chapters: TestCase[];
+}
+
+const SUITES: VersionSuite[] = [
+  {
+    adapter: getAdapter("pm")!,
+    aligner1Dir: "data/bom/pm",
+    chapters: [
+      { slug: "pm/1-ne-3", book: "1-ne", chapter: 3 },
+      { slug: "pm/1-ne-11", book: "1-ne", chapter: 11 },
+      { slug: "pm/mosiah-23", book: "mosiah", chapter: 23 },
+    ],
+  },
+  {
+    adapter: getAdapter("1830")!,
+    aligner1Dir: "data/bom/1830",
+    chapters: [
+      { slug: "1830/1-ne-3", book: "1-ne", chapter: 3 },
+      // alma 32 exercises the dropped-clause tail-trim path (1830 omits a
+      // ~40-word clause in v30 that later editions restored).
+      { slug: "1830/alma-32", book: "alma", chapter: 32 },
+      // alma 50 was completely broken before tail-trim (40/40 verses flagged).
+      { slug: "1830/alma-50", book: "alma", chapter: 50 },
+    ],
+  },
+  {
+    adapter: getAdapter("1837")!,
+    aligner1Dir: "data/bom/1837",
+    chapters: [
+      { slug: "1837/1-ne-3", book: "1-ne", chapter: 3 },
+      // alma 32 is the top-flagged chapter in 1837-2; lock it in.
+      { slug: "1837/alma-32", book: "alma", chapter: 32 },
+      { slug: "1837/alma-50", book: "alma", chapter: 50 },
+    ],
+  },
+  {
+    adapter: getAdapter("om")!,
+    aligner1Dir: "data/bom/om",
+    chapters: [
+      // Chapters where the OM adapter (anchor + srcPerCanon override) aligns
+      // most cleanly (per token-purity audit). The anchor reliably finds the
+      // right canonical position for these early-1-ne and hel chapters.
+      { slug: "om/1-ne-4", book: "1-ne", chapter: 4 },
+      { slug: "om/1-ne-8", book: "1-ne", chapter: 8 },
+      { slug: "om/hel-1", book: "hel", chapter: 1 },
+    ],
+  },
+];
+
+// Cache the per-suite pipeline output so all tests for one version share a run.
+const outputCache = new Map<string, OutVerse[]>();
+
+async function runPipeline(adapter: SourceAdapter): Promise<OutVerse[]> {
+  const cached = outputCache.get(adapter.slug);
+  if (cached) return cached;
   const allCanon = await loadBooks(TARGET_ROOT);
-  const { words: sourceWords, lines: lineInfos } = await tokenizeSource(rawDir);
+  const { words: sourceWords, lines: lineInfos } = await tokenizeSource(
+    adapter.raw,
+  );
   const targetWords = tokenizeTarget(allCanon);
   const verseGroups = groupByVerse(targetWords);
-  const cursorResults = runCursor(sourceWords, verseGroups, lineInfos);
+  const cursorResults = runCursor(
+    sourceWords,
+    verseGroups,
+    lineInfos,
+    adapter.cursor,
+    adapter.dictionary,
+  );
   const canonByKey = new Map(
-    allCanon.map((v) => [`${v.book}|${v.chapter}|${v.verse}`, v.text]),
+    allCanon.map((v) => [verseKey(v.book, v.chapter, v.verse), v.text]),
   );
-  const allOutput = buildAllVerseOutputs(cursorResults, lineInfos, canonByKey);
-  // Filter to just the chapters under test
-  return targetChapters.map(({ book, chapter }) =>
-    allOutput.filter((v) => v.book === book && v.chapter === chapter)
-  );
+  const out = buildAllVerseOutputs(cursorResults, lineInfos, canonByKey);
+  outputCache.set(adapter.slug, out);
+  return out;
 }
 
-// Load canon and run pipeline once for all tests
-let _outputs: Awaited<ReturnType<typeof runAligner2ForChapters>> | null = null;
+function selectChapter(
+  all: OutVerse[],
+  book: string,
+  chapter: number,
+): OutVerse[] {
+  return all.filter((v) => v.book === book && v.chapter === chapter);
+}
 
-async function getOutputs() {
-  if (!_outputs) {
-    _outputs = await runAligner2ForChapters(
-      FIXTURE_RAW,
-      TEST_CHAPTERS,
+for (const suite of SUITES) {
+  for (const tc of suite.chapters) {
+    Deno.test(
+      `integration: aligner2 output matches expected fixture (${tc.slug})`,
+      async () => {
+        const all = await runPipeline(suite.adapter);
+        const actual = selectChapter(all, tc.book, tc.chapter);
+        const expected = JSON.parse(
+          await Deno.readTextFile(`${FIXTURE_EXPECTED}/${tc.slug}.json`),
+        );
+        assertEquals(
+          actual,
+          expected,
+          `Chapter ${tc.book} ${tc.chapter} output mismatch`,
+        );
+      },
     );
   }
-  return _outputs!;
-}
 
-for (let i = 0; i < TEST_CHAPTERS.length; i++) {
-  const { slug, book, chapter } = TEST_CHAPTERS[i];
-  Deno.test(
-    `integration: aligner2 output matches expected fixture (${slug})`,
-    async () => {
-      const outputs = await getOutputs();
-      const actual = outputs[i];
-      const expected = JSON.parse(
-        await Deno.readTextFile(
-          `${FIXTURE_EXPECTED}/${slug}.json`,
-        ),
-      );
-      assertEquals(
-        actual,
-        expected,
-        `Chapter ${book} ${chapter} output mismatch`,
-      );
-    },
-  );
-}
+  for (const tc of suite.chapters) {
+    Deno.test(
+      `regression: aligner2 fewer findings than aligner1 (${tc.slug})`,
+      async () => {
+        const allCanon = await loadBooks(TARGET_ROOT);
+        const canonChapter = allCanon.filter(
+          (v) => v.book === tc.book && v.chapter === tc.chapter,
+        );
 
-// Regression: aligner2 must have fewer report findings than aligner1 on each test chapter.
-for (let i = 0; i < TEST_CHAPTERS.length; i++) {
-  const { slug, book, chapter } = TEST_CHAPTERS[i];
-  Deno.test(
-    `regression: aligner2 fewer findings than aligner1 (${slug})`,
-    async () => {
-      const allCanon = await loadBooks(TARGET_ROOT);
-      const canonChapter = allCanon.filter(
-        (v) => v.book === book && v.chapter === chapter,
-      );
+        const a2Output = JSON.parse(
+          await Deno.readTextFile(`${FIXTURE_EXPECTED}/${tc.slug}.json`),
+        );
+        const a2Report = buildChapterReport({
+          version: `${suite.adapter.slug}-2`,
+          book: tc.book,
+          chapter: tc.chapter,
+          aligned: a2Output,
+          canonical: canonChapter,
+        });
 
-      // aligner2 output from already-run pipeline (fixture)
-      const a2Output = JSON.parse(
-        await Deno.readTextFile(`${FIXTURE_EXPECTED}/${slug}.json`),
-      );
-      const a2Report = buildChapterReport({
-        version: "pm2",
-        book,
-        chapter,
-        aligned: a2Output,
-        canonical: canonChapter,
-      });
+        const a1Output = JSON.parse(
+          await Deno.readTextFile(
+            `${suite.aligner1Dir}/${tc.book}/${tc.chapter}.json`,
+          ),
+        );
+        const a1Report = buildChapterReport({
+          version: suite.adapter.slug,
+          book: tc.book,
+          chapter: tc.chapter,
+          aligned: a1Output,
+          canonical: canonChapter,
+        });
 
-      // aligner1 output from existing data/bom/pm/
-      const a1Output = JSON.parse(
-        await Deno.readTextFile(`data/bom/pm/${book}/${chapter}.json`),
-      );
-      const a1Report = buildChapterReport({
-        version: "pm",
-        book,
-        chapter,
-        aligned: a1Output,
-        canonical: canonChapter,
-      });
-
-      const a1Findings = a1Report.summary.versesWithFindings;
-      const a2Findings = a2Report.summary.versesWithFindings;
-      console.log(
-        `  ${slug}: aligner1=${a1Findings}/${a1Report.summary.totalVerses} aligner2=${a2Findings}/${a2Report.summary.totalVerses}`,
-      );
-      // aligner2 must not be worse than aligner1 (equal is acceptable when aligner1 = 0)
-      assertLess(
-        a2Findings,
-        a1Findings + 1,
-        `Expected aligner2 (${a2Findings}) ≤ aligner1 (${a1Findings}) for ${slug}`,
-      );
-    },
-  );
+        const a1Findings = a1Report.summary.versesWithFindings;
+        const a2Findings = a2Report.summary.versesWithFindings;
+        console.log(
+          `  ${tc.slug}: aligner1=${a1Findings}/${a1Report.summary.totalVerses} aligner2=${a2Findings}/${a2Report.summary.totalVerses}`,
+        );
+        assertLess(
+          a2Findings,
+          a1Findings + 1,
+          `Expected aligner2 (${a2Findings}) ≤ aligner1 (${a1Findings}) for ${tc.slug}`,
+        );
+      },
+    );
+  }
 }
