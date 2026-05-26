@@ -8,9 +8,7 @@ import { DEFAULT_CURSOR_CONFIG, type SourceAdapter } from "./types.ts";
 // it walks canon linearly, so OM source smears into canonical verses it has
 // no content for, and drift compounds. Instead OM uses the SCAFFOLD algorithm
 // — unique n-gram anchor pairs between source and target, monotone-LIS to
-// reject cross-overs, piecewise-linear interpolation between anchors. Adapted
-// from the legacy aligner1, which gets 89.9% token-purity on OM via this
-// approach.
+// reject cross-overs, piecewise-linear interpolation between anchors.
 export const om: SourceAdapter = {
   slug: "om",
   label: "Original Manuscript",

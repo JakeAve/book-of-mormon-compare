@@ -1,4 +1,4 @@
-import { assertEquals, assertLess } from "@std/assert";
+import { assertEquals } from "@std/assert";
 import { tokenizeSource } from "../tokenize-source.ts";
 import { groupByVerse, tokenizeTarget } from "../tokenize-target.ts";
 import { runCursor } from "../cursor.ts";
@@ -10,7 +10,6 @@ import { verseKey } from "../line-key.ts";
 import { getAdapter, type SourceAdapter } from "../sources/index.ts";
 import { loadBooks } from "../../shared/bom2013.ts";
 import { TARGET_ROOT } from "../../shared/paths.ts";
-import { buildChapterReport } from "../../align/report.ts";
 
 const FIXTURE_EXPECTED = new URL("fixtures/expected", import.meta.url).pathname;
 
@@ -23,15 +22,12 @@ interface TestCase {
 
 interface VersionSuite {
   adapter: SourceAdapter;
-  /** Directory under data/bom/ holding the aligner1 output for regression comparison. */
-  aligner1Dir: string;
   chapters: TestCase[];
 }
 
 const SUITES: VersionSuite[] = [
   {
     adapter: getAdapter("pm")!,
-    aligner1Dir: "data/bom/pm",
     chapters: [
       { slug: "pm/1-ne-3", book: "1-ne", chapter: 3 },
       { slug: "pm/1-ne-11", book: "1-ne", chapter: 11 },
@@ -40,7 +36,6 @@ const SUITES: VersionSuite[] = [
   },
   {
     adapter: getAdapter("1830")!,
-    aligner1Dir: "data/bom/1830",
     chapters: [
       { slug: "1830/1-ne-3", book: "1-ne", chapter: 3 },
       // alma 32 exercises the dropped-clause tail-trim path (1830 omits a
@@ -52,17 +47,15 @@ const SUITES: VersionSuite[] = [
   },
   {
     adapter: getAdapter("1837")!,
-    aligner1Dir: "data/bom/1837",
     chapters: [
       { slug: "1837/1-ne-3", book: "1-ne", chapter: 3 },
-      // alma 32 is the top-flagged chapter in 1837-2; lock it in.
+      // alma 32 is the top-flagged chapter for 1837; lock it in.
       { slug: "1837/alma-32", book: "alma", chapter: 32 },
       { slug: "1837/alma-50", book: "alma", chapter: 50 },
     ],
   },
   {
     adapter: getAdapter("om")!,
-    aligner1Dir: "data/bom/om",
     chapters: [
       // Chapters where the OM adapter (scaffold algorithm) aligns most
       // cleanly per the token-purity audit.
@@ -142,7 +135,7 @@ function selectChapter(
 for (const suite of SUITES) {
   for (const tc of suite.chapters) {
     Deno.test(
-      `integration: aligner2 output matches expected fixture (${tc.slug})`,
+      `integration: aligner output matches expected fixture (${tc.slug})`,
       async () => {
         const all = await runPipeline(suite.adapter);
         const actual = selectChapter(all, tc.book, tc.chapter);
@@ -153,53 +146,6 @@ for (const suite of SUITES) {
           actual,
           expected,
           `Chapter ${tc.book} ${tc.chapter} output mismatch`,
-        );
-      },
-    );
-  }
-
-  for (const tc of suite.chapters) {
-    Deno.test(
-      `regression: aligner2 fewer findings than aligner1 (${tc.slug})`,
-      async () => {
-        const allCanon = await loadBooks(TARGET_ROOT);
-        const canonChapter = allCanon.filter(
-          (v) => v.book === tc.book && v.chapter === tc.chapter,
-        );
-
-        const a2Output = JSON.parse(
-          await Deno.readTextFile(`${FIXTURE_EXPECTED}/${tc.slug}.json`),
-        );
-        const a2Report = buildChapterReport({
-          version: `${suite.adapter.slug}-2`,
-          book: tc.book,
-          chapter: tc.chapter,
-          aligned: a2Output,
-          canonical: canonChapter,
-        });
-
-        const a1Output = JSON.parse(
-          await Deno.readTextFile(
-            `${suite.aligner1Dir}/${tc.book}/${tc.chapter}.json`,
-          ),
-        );
-        const a1Report = buildChapterReport({
-          version: suite.adapter.slug,
-          book: tc.book,
-          chapter: tc.chapter,
-          aligned: a1Output,
-          canonical: canonChapter,
-        });
-
-        const a1Findings = a1Report.summary.versesWithFindings;
-        const a2Findings = a2Report.summary.versesWithFindings;
-        console.log(
-          `  ${tc.slug}: aligner1=${a1Findings}/${a1Report.summary.totalVerses} aligner2=${a2Findings}/${a2Report.summary.totalVerses}`,
-        );
-        assertLess(
-          a2Findings,
-          a1Findings + 1,
-          `Expected aligner2 (${a2Findings}) ≤ aligner1 (${a1Findings}) for ${tc.slug}`,
         );
       },
     );
