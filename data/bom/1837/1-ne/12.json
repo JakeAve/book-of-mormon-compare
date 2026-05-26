@@ -222,7 +222,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/34"
       },
       {
-        "id": "34:3",
+        "id": "34:3a",
         "page": 34,
         "line": 3,
         "text": "the Lord.",
@@ -236,7 +236,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "34:3",
+        "id": "34:3b",
         "page": 34,
         "line": 3,
         "text": "And I saw the heavens open, and the Lamb ",
@@ -250,7 +250,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/34"
       },
       {
-        "id": "34:5",
+        "id": "34:5a",
         "page": 34,
         "line": 5,
         "text": "and shewed himself unto them.",
@@ -264,7 +264,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "34:5",
+        "id": "34:5b",
         "page": 34,
         "line": 5,
         "text": "And I also saw and ",
@@ -306,7 +306,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/34"
       },
       {
-        "id": "34:10",
+        "id": "34:10a",
         "page": 34,
         "line": 10,
         "text": "ister unto thy seed.",
@@ -320,7 +320,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "34:10",
+        "id": "34:10b",
         "page": 34,
         "line": 10,
         "text": "And he said unto me, thou re ",
@@ -432,7 +432,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/34"
       },
       {
-        "id": "34:24",
+        "id": "34:24a",
         "page": 34,
         "line": 24,
         "text": "their faith in him.",
@@ -446,24 +446,17 @@
     "verse": 12,
     "lines": [
       {
-        "id": "34:24",
+        "id": "34:24b",
         "page": 34,
         "line": 24,
         "text": "And I, Nephi, also saw many of ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/34"
       },
       {
-        "id": "34:25",
+        "id": "34:25a",
         "page": 34,
         "line": 25,
-        "text": "the fourth generation, who passed away in righteous",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/34"
-      },
-      {
-        "id": "34:26",
-        "page": 34,
-        "line": 26,
-        "text": "ness.",
+        "text": "the fourth generation, who passed away in",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/34"
       }
     ]
@@ -474,6 +467,20 @@
     "verse": 13,
     "lines": [
       {
+        "id": "34:25b",
+        "page": 34,
+        "line": 25,
+        "text": "righteous ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/34"
+      },
+      {
+        "id": "34:26",
+        "page": 34,
+        "line": 26,
+        "text": "ness. ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/34"
+      },
+      {
         "id": "34:27",
         "page": 34,
         "line": 27,
@@ -481,7 +488,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/34"
       },
       {
-        "id": "34:28",
+        "id": "34:28a",
         "page": 34,
         "line": 28,
         "text": "earth gathered together.",
@@ -495,7 +502,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "34:28",
+        "id": "34:28b",
         "page": 34,
         "line": 28,
         "text": "And the angel said unto me, ",
@@ -505,14 +512,7 @@
         "id": "34:29",
         "page": 34,
         "line": 29,
-        "text": "behold thy seed, and also the seed of thy brethren!— ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/34"
-      },
-      {
-        "id": "34:30",
-        "page": 34,
-        "line": 30,
-        "text": "And it came to pass that I looked and beheld the peo",
+        "text": "behold thy seed, and also the seed of thy brethren!—",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/34"
       }
     ]
@@ -522,6 +522,13 @@
     "chapter": 12,
     "verse": 15,
     "lines": [
+      {
+        "id": "34:30",
+        "page": 34,
+        "line": 30,
+        "text": "And it came to pass that I looked and beheld the peo",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/34"
+      },
       {
         "id": "34:31",
         "page": 34,
@@ -572,7 +579,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/34"
       },
       {
-        "id": "34:37",
+        "id": "34:37a",
         "page": 34,
         "line": 37,
         "text": "of are the depths of hell;",
@@ -586,7 +593,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "34:37",
+        "id": "34:37b",
         "page": 34,
         "line": 37,
         "text": "and the mists of darkness are ",
@@ -614,7 +621,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/34"
       },
       {
-        "id": "34:41",
+        "id": "34:41a",
         "page": 34,
         "line": 41,
         "text": "perish, and are lost;",
@@ -628,7 +635,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "34:41",
+        "id": "34:41b",
         "page": 34,
         "line": 41,
         "text": "and the large and spacious build",
@@ -677,7 +684,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/34"
       },
       {
-        "id": "35:1",
+        "id": "35:1a",
         "page": 35,
         "line": 1,
         "text": "and from this time henceforth and forever.",
@@ -691,7 +698,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "35:1",
+        "id": "35:1b",
         "page": 35,
         "line": 1,
         "text": "And while ",
@@ -768,7 +775,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/35"
       },
       {
-        "id": "35:11",
+        "id": "35:11a",
         "page": 35,
         "line": 11,
         "text": "face of the land.",
@@ -782,7 +789,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "35:11",
+        "id": "35:11b",
         "page": 35,
         "line": 11,
         "text": "And I saw them gathered together ",
@@ -803,7 +810,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/35"
       },
       {
-        "id": "35:14",
+        "id": "35:14a",
         "page": 35,
         "line": 14,
         "text": "many generations pass away.",
@@ -817,7 +824,7 @@
     "verse": 22,
     "lines": [
       {
-        "id": "35:14",
+        "id": "35:14b",
         "page": 35,
         "line": 14,
         "text": "And the angel said un",
@@ -862,14 +869,7 @@
         "id": "35:19",
         "page": 35,
         "line": 19,
-        "text": "ner of abominations. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/35"
-      },
-      {
-        "id": "35:20",
-        "page": 35,
-        "line": 20,
-        "text": "And it came to pass that the angel spake unto me",
+        "text": "ner of abominations.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/35"
       }
     ]

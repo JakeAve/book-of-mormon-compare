@@ -5,7 +5,22 @@
     "verse": 1,
     "lines": [
       {
-        "id": "55:2",
+        "id": "54:4b",
+        "page": 54,
+        "line": 4,
+        "text": "away ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/54"
+      },
+      {
+        "id": "55:1",
+        "page": 55,
+        "line": 1,
+        "text": "Chapter ",
+        "markdown": "{{}} Chapt{{er }} ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/55"
+      },
+      {
+        "id": "55:2a",
         "page": 55,
         "line": 2,
         "text": "The burden of Babylon which Isaiah the Son of Amoz did see",
@@ -20,7 +35,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "55:2",
+        "id": "55:2b",
         "page": 55,
         "line": 2,
         "text": "lift yeup a banner upon the high mountain exalt the voice unto them shake the hand thatthey may go into the gates of the nobles",
@@ -35,7 +50,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "55:2",
+        "id": "55:2c",
         "page": 55,
         "line": 2,
         "text": "I have commanded my sanctified ones ",
@@ -51,7 +66,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/55"
       },
       {
-        "id": "55:4",
+        "id": "55:4a",
         "page": 55,
         "line": 4,
         "text": "joice in my highness",
@@ -66,7 +81,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "55:4",
+        "id": "55:4b",
         "page": 55,
         "line": 4,
         "text": "the noise of the multitude in the mountains like ",
@@ -82,7 +97,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/55"
       },
       {
-        "id": "55:6",
+        "id": "55:6a",
         "page": 55,
         "line": 6,
         "text": "ed together the Lord of hosts mustereth the host of the Battle",
@@ -97,7 +112,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "55:6",
+        "id": "55:6b",
         "page": 55,
         "line": 6,
         "text": "they come ",
@@ -112,7 +127,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/55"
       },
       {
-        "id": "55:8",
+        "id": "55:8a",
         "page": 55,
         "line": 8,
         "text": "indignation to destroy the whole land",
@@ -127,48 +142,18 @@
     "verse": 6,
     "lines": [
       {
-        "id": "55:8",
+        "id": "55:8b",
         "page": 55,
         "line": 8,
         "text": "howl ye for the day of the Lord is at ha",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/55"
       },
       {
-        "id": "55:9",
+        "id": "55:9a",
         "page": 55,
         "line": 9,
-        "text": "nd it shall come as a destruction from the Almighty",
-        "markdown": "{{nd it shall come as a destr}}uction from the Almighty",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/55"
-      }
-    ]
-  },
-  {
-    "book": "2-ne",
-    "chapter": 23,
-    "verse": 7,
-    "lines": [
-      {
-        "id": "55:9",
-        "page": 55,
-        "line": 9,
-        "text": "therefore",
-        "markdown": "therefo{{re",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/55"
-      }
-    ]
-  },
-  {
-    "book": "2-ne",
-    "chapter": 23,
-    "verse": 9,
-    "lines": [
-      {
-        "id": "55:9",
-        "page": 55,
-        "line": 9,
-        "text": "shall all",
-        "markdown": "shall all}}",
+        "text": "nd it shall come as a destruction from the Almighty therefore shall",
+        "markdown": "{{nd it shall come as a destr}}uction from the Almighty therefo{{re shall",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/55"
       }
     ]
@@ -179,7 +164,15 @@
     "verse": 22,
     "lines": [
       {
-        "id": "56:1",
+        "id": "55:9b",
+        "page": 55,
+        "line": 9,
+        "text": "all ",
+        "markdown": "all}} ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/55"
+      },
+      {
+        "id": "56:1a",
         "page": 56,
         "line": 1,
         "text": "merciful unto my people but the wicked shall perish",

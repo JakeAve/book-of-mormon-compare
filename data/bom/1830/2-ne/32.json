@@ -5,6 +5,13 @@
     "verse": 1,
     "lines": [
       {
+        "id": "126:24",
+        "page": 126,
+        "line": 24,
+        "text": "CHAPTER XIV. ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/126"
+      },
+      {
         "id": "126:25",
         "page": 126,
         "line": 25,
@@ -26,7 +33,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/126"
       },
       {
-        "id": "126:28",
+        "id": "126:28a",
         "page": 126,
         "line": 28,
         "text": "hold, why do ye ponder these things in your hearts?",
@@ -40,7 +47,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "126:28",
+        "id": "126:28b",
         "page": 126,
         "line": 28,
         "text": "Do ye not ",
@@ -68,7 +75,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/126"
       },
       {
-        "id": "126:32",
+        "id": "126:32a",
         "page": 126,
         "line": 32,
         "text": "were by the Holy Ghost?",
@@ -82,7 +89,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "126:32",
+        "id": "126:32b",
         "page": 126,
         "line": 32,
         "text": "Angels speak by the power of the ",
@@ -110,7 +117,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/126"
       },
       {
-        "id": "126:36",
+        "id": "126:36a",
         "page": 126,
         "line": 36,
         "text": "ye should do.",
@@ -124,7 +131,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "126:36",
+        "id": "126:36b",
         "page": 126,
         "line": 36,
         "text": "Wherefore, now after that I have spoken these ",
@@ -145,7 +152,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/126"
       },
       {
-        "id": "126:39",
+        "id": "126:39a",
         "page": 126,
         "line": 39,
         "text": "the light, but must perish in the dark.",
@@ -159,7 +166,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "126:39",
+        "id": "126:39b",
         "page": 126,
         "line": 39,
         "text": "For behold, again I ",
@@ -180,7 +187,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/127"
       },
       {
-        "id": "127:3",
+        "id": "127:3a",
         "page": 127,
         "line": 3,
         "text": "do.",
@@ -194,7 +201,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "127:3",
+        "id": "127:3b",
         "page": 127,
         "line": 3,
         "text": "Behold, this is the doctrine of Christ; and there will be ",
@@ -320,7 +327,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/127"
       },
       {
-        "id": "127:19",
+        "id": "127:19a",
         "page": 127,
         "line": 19,
         "text": "eth him that he must not pray.",
@@ -334,7 +341,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "127:19",
+        "id": "127:19b",
         "page": 127,
         "line": 19,
         "text": "But behold, I say unto you, ",
@@ -372,14 +379,7 @@
         "id": "127:24",
         "page": 127,
         "line": 24,
-        "text": "be for the welfare of thy soul. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/127"
-      },
-      {
-        "id": "127:25",
-        "page": 127,
-        "line": 25,
-        "text": "CHAPTER XV.",
+        "text": "be for the welfare of thy soul.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/127"
       }
     ]

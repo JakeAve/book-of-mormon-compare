@@ -27,7 +27,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/329"
       },
       {
-        "id": "329:14",
+        "id": "329:14a",
         "page": 329,
         "line": 14,
         "text": "ntry",
@@ -41,7 +41,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "329:14",
+        "id": "329:14b",
         "page": 329,
         "line": 14,
         "text": "but he did also mourn excedingly because of the iniquity of those who had ",
@@ -55,7 +55,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/329"
       },
       {
-        "id": "329:16",
+        "id": "329:16a",
         "page": 329,
         "line": 16,
         "text": "ed against their country & also their God",
@@ -69,7 +69,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "329:16",
+        "id": "329:16b",
         "page": 329,
         "line": 16,
         "text": "& it came to pass that Moroni took a small number ",
@@ -84,7 +84,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/329"
       },
       {
-        "id": "329:18",
+        "id": "329:18a",
         "page": 329,
         "line": 18,
         "text": "remainder of his army & took his march towards the land of Gideon",
@@ -98,7 +98,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "329:18",
+        "id": "329:18b",
         "page": 329,
         "line": 18,
         "text": "& he did ",
@@ -112,7 +112,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/329"
       },
       {
-        "id": "329:20",
+        "id": "329:20a",
         "page": 329,
         "line": 20,
         "text": "force he could in all his march towards the land of Gideon",
@@ -126,7 +126,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "329:20",
+        "id": "329:20b",
         "page": 329,
         "line": 20,
         "text": "& it came to pass that ",
@@ -141,7 +141,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/329"
       },
       {
-        "id": "329:22",
+        "id": "329:22a",
         "page": 329,
         "line": 22,
         "text": "of their freedom that they might not come into bondage",
@@ -156,7 +156,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "329:22",
+        "id": "329:22b",
         "page": 329,
         "line": 22,
         "text": "& thus when Moroni ",
@@ -192,7 +192,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/329"
       },
       {
-        "id": "329:27",
+        "id": "329:27a",
         "page": 329,
         "line": 27,
         "text": "possession of the land",
@@ -206,7 +206,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "329:27",
+        "id": "329:27b",
         "page": 329,
         "line": 27,
         "text": "& it came to pass that Moroni & Pahoron went down with their ",
@@ -221,7 +221,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/329"
       },
       {
-        "id": "329:29",
+        "id": "329:29a",
         "page": 329,
         "line": 29,
         "text": "men of Pachus insomuch that they did come to battle",
@@ -235,24 +235,17 @@
     "verse": 8,
     "lines": [
       {
-        "id": "329:29",
+        "id": "329:29b",
         "page": 329,
         "line": 29,
         "text": "& behold Pachus was ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/329"
       },
       {
-        "id": "329:30",
+        "id": "329:30a",
         "page": 329,
         "line": 30,
-        "text": "slain & his men were taken prisoners & Pahoron was restored to his Judgment",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/329"
-      },
-      {
-        "id": "329:31",
-        "page": 329,
-        "line": 31,
-        "text": "seat",
+        "text": "slain & his men were taken prisoners & Pahoron was restored to his",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/329"
       }
     ]
@@ -263,10 +256,17 @@
     "verse": 9,
     "lines": [
       {
+        "id": "329:30b",
+        "page": 329,
+        "line": 30,
+        "text": "Judgment ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/329"
+      },
+      {
         "id": "329:31",
         "page": 329,
         "line": 31,
-        "text": "& the men of Pachus received their trial according to the law & also those ",
+        "text": "seat & the men of Pachus received their trial according to the law & also those ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/329"
       },
       {
@@ -292,7 +292,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/329"
       },
       {
-        "id": "329:35",
+        "id": "329:35a",
         "page": 329,
         "line": 35,
         "text": "put to death",
@@ -306,7 +306,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "329:35",
+        "id": "329:35b",
         "page": 329,
         "line": 35,
         "text": "& thus it became expediant that this law should be strictly observed ",
@@ -320,7 +320,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/330"
       },
       {
-        "id": "330:2",
+        "id": "330:2a",
         "page": 330,
         "line": 2,
         "text": "freedom was speedily executed according to the law",
@@ -334,7 +334,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "330:2",
+        "id": "330:2b",
         "page": 330,
         "line": 2,
         "text": "& thus ended the thirtieth year ",
@@ -355,7 +355,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/330"
       },
       {
-        "id": "330:5",
+        "id": "330:5a",
         "page": 330,
         "line": 5,
         "text": "upon all those who were not true to the cause of freedom",
@@ -369,7 +369,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "330:5",
+        "id": "330:5b",
         "page": 330,
         "line": 5,
         "text": "& it came to pass in ",
@@ -397,7 +397,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/330"
       },
       {
-        "id": "330:9",
+        "id": "330:9a",
         "page": 330,
         "line": 9,
         "text": "preserving that part of the land",
@@ -411,7 +411,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "330:9",
+        "id": "330:9b",
         "page": 330,
         "line": 9,
         "text": "& he also caused that an army of six thousand men ",
@@ -425,7 +425,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/330"
       },
       {
-        "id": "330:11",
+        "id": "330:11a",
         "page": 330,
         "line": 11,
         "text": "& it came to pass that this was done to fortify the land against the Lamanites",
@@ -439,7 +439,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "330:11",
+        "id": "330:11b",
         "page": 330,
         "line": 11,
         "text": "& ",
@@ -460,7 +460,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/330"
       },
       {
-        "id": "330:14",
+        "id": "330:14a",
         "page": 330,
         "line": 14,
         "text": "hah being determined to overthrow the Lamanites in that city",
@@ -474,7 +474,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "330:14",
+        "id": "330:14b",
         "page": 330,
         "line": 14,
         "text": "& it came to pass that as ",
@@ -489,7 +489,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/330"
       },
       {
-        "id": "330:16",
+        "id": "330:16a",
         "page": 330,
         "line": 16,
         "text": "slew many of them & took their provisions & their weapons of war",
@@ -503,7 +503,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "330:16",
+        "id": "330:16b",
         "page": 330,
         "line": 16,
         "text": "& it came to pass ",
@@ -517,7 +517,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/330"
       },
       {
-        "id": "330:18",
+        "id": "330:18a",
         "page": 330,
         "line": 18,
         "text": "no more take up their weapons of war against the Nephites",
@@ -531,7 +531,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "330:18",
+        "id": "330:18b",
         "page": 330,
         "line": 18,
         "text": "& when they had entered ",
@@ -545,7 +545,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/330"
       },
       {
-        "id": "330:20",
+        "id": "330:20a",
         "page": 330,
         "line": 20,
         "text": "re in number about four thousand which had not been slain",
@@ -559,7 +559,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "330:20",
+        "id": "330:20b",
         "page": 330,
         "line": 20,
         "text": "& it came to pass ",
@@ -583,7 +583,15 @@
         "id": "330:23",
         "page": 330,
         "line": 23,
-        "text": "their tents in the planes of Nephihah which is near the city Nephihah now",
+        "text": "their tents in the planes of Nephihah which is near the city Nephihah now Moro ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/330"
+      },
+      {
+        "id": "330:24a",
+        "page": 330,
+        "line": 24,
+        "text": "ni was desireous that the Lamanites should come",
+        "markdown": "ni was desireous ~~ous~~ that the Lamanites should come",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/330"
       }
     ]
@@ -594,18 +602,10 @@
     "verse": 19,
     "lines": [
       {
-        "id": "330:23",
-        "page": 330,
-        "line": 23,
-        "text": "Moro",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/330"
-      },
-      {
-        "id": "330:24",
+        "id": "330:24b",
         "page": 330,
         "line": 24,
-        "text": "ni was desireous that the Lamanites should come out to battle against them ",
-        "markdown": "ni was desireous ~~ous~~ that the Lamanites should come out to battle against them ",
+        "text": "out to battle against them ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/330"
       },
       {
@@ -617,7 +617,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/330"
       },
       {
-        "id": "330:26",
+        "id": "330:26a",
         "page": 330,
         "line": 26,
         "text": "em therefore they did not come to battle in that day",
@@ -631,7 +631,7 @@
     "verse": 20,
     "lines": [
       {
-        "id": "330:26",
+        "id": "330:26b",
         "page": 330,
         "line": 26,
         "text": "& when the night came Mo",
@@ -645,7 +645,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/330"
       },
       {
-        "id": "330:28",
+        "id": "330:28a",
         "page": 330,
         "line": 28,
         "text": "spy out in what part of the City the Lamanites did camp with their army",
@@ -659,7 +659,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "330:28",
+        "id": "330:28b",
         "page": 330,
         "line": 28,
         "text": "& it ",
@@ -687,7 +687,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/330"
       },
       {
-        "id": "330:32",
+        "id": "330:32a",
         "page": 330,
         "line": 32,
         "text": "part of the wall",
@@ -701,7 +701,7 @@
     "verse": 22,
     "lines": [
       {
-        "id": "330:32",
+        "id": "330:32b",
         "page": 330,
         "line": 32,
         "text": "& it came to pass that Moroni caused that his men should ma",
@@ -743,7 +743,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/331"
       },
       {
-        "id": "331:3",
+        "id": "331:3a",
         "page": 331,
         "line": 3,
         "text": "in the walls of the city",
@@ -757,7 +757,7 @@
     "verse": 24,
     "lines": [
       {
-        "id": "331:3",
+        "id": "331:3b",
         "page": 331,
         "line": 3,
         "text": "& now when the Lamanites awoke & saw that the armies ",
@@ -771,7 +771,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/331"
       },
       {
-        "id": "331:5",
+        "id": "331:5a",
         "page": 331,
         "line": 5,
         "text": "uch that they did flee out by the pass",
@@ -785,7 +785,7 @@
     "verse": 25,
     "lines": [
       {
-        "id": "331:5",
+        "id": "331:5b",
         "page": 331,
         "line": 5,
         "text": "& now when Moroni saw that they we",
@@ -827,7 +827,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/331"
       },
       {
-        "id": "331:10",
+        "id": "331:10a",
         "page": 331,
         "line": 10,
         "text": "out the loss of one soul & there were many of the Lamanites which were slain",
@@ -841,7 +841,7 @@
     "verse": 27,
     "lines": [
       {
-        "id": "331:10",
+        "id": "331:10b",
         "page": 331,
         "line": 10,
         "text": "now ",
@@ -855,7 +855,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/331"
       },
       {
-        "id": "331:12",
+        "id": "331:12a",
         "page": 331,
         "line": 12,
         "text": "to join the people of Ammon & become a free people",
@@ -870,7 +870,7 @@
     "verse": 28,
     "lines": [
       {
-        "id": "331:12",
+        "id": "331:12b",
         "page": 331,
         "line": 12,
         "text": "& it came to pass that as nany ",
@@ -878,7 +878,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/331"
       },
       {
-        "id": "331:13",
+        "id": "331:13a",
         "page": 331,
         "line": 13,
         "text": "as were desireous unto them it was granted according to their desires",
@@ -892,7 +892,7 @@
     "verse": 29,
     "lines": [
       {
-        "id": "331:13",
+        "id": "331:13b",
         "page": 331,
         "line": 13,
         "text": "therefore all the ",
@@ -920,7 +920,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/331"
       },
       {
-        "id": "331:17",
+        "id": "331:17a",
         "page": 331,
         "line": 17,
         "text": "were releaved from all the prisoners of the Lamanites",
@@ -935,7 +935,7 @@
     "verse": 30,
     "lines": [
       {
-        "id": "331:17",
+        "id": "331:17b",
         "page": 331,
         "line": 17,
         "text": "now it came to pass th",
@@ -971,7 +971,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/331"
       },
       {
-        "id": "331:22",
+        "id": "331:22a",
         "page": 331,
         "line": 22,
         "text": "of Nephihah to the land of Lehi",
@@ -985,7 +985,7 @@
     "verse": 31,
     "lines": [
       {
-        "id": "331:22",
+        "id": "331:22b",
         "page": 331,
         "line": 22,
         "text": "& it came to pass that when the Lamanites saw ",
@@ -999,7 +999,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/331"
       },
       {
-        "id": "331:24",
+        "id": "331:24a",
         "page": 331,
         "line": 24,
         "text": "army of Moroni",
@@ -1013,7 +1013,7 @@
     "verse": 32,
     "lines": [
       {
-        "id": "331:24",
+        "id": "331:24b",
         "page": 331,
         "line": 24,
         "text": "& it came to pass that Moroni & his army did persue them from ",
@@ -1034,7 +1034,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/331"
       },
       {
-        "id": "331:27",
+        "id": "331:27a",
         "page": 331,
         "line": 27,
         "text": "to the land of Moroni",
@@ -1048,7 +1048,7 @@
     "verse": 33,
     "lines": [
       {
-        "id": "331:27",
+        "id": "331:27b",
         "page": 331,
         "line": 27,
         "text": "& the armies of the Lamanites were all gathered together ",
@@ -1062,7 +1062,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/331"
       },
       {
-        "id": "331:29",
+        "id": "331:29a",
         "page": 331,
         "line": 29,
         "text": "the Ning of the Lamanites was also with them",
@@ -1076,7 +1076,7 @@
     "verse": 34,
     "lines": [
       {
-        "id": "331:29",
+        "id": "331:29b",
         "page": 331,
         "line": 29,
         "text": "& it came to pass that Moroni & Lehi & ",
@@ -1097,7 +1097,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/331"
       },
       {
-        "id": "331:32",
+        "id": "331:32a",
         "page": 331,
         "line": 32,
         "text": "the wilderness on the south & in the borders by the wilderness on the east",
@@ -1111,7 +1111,7 @@
     "verse": 35,
     "lines": [
       {
-        "id": "331:32",
+        "id": "331:32b",
         "page": 331,
         "line": 32,
         "text": "& thus ",
@@ -1161,7 +1161,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/332"
       },
       {
-        "id": "332:3",
+        "id": "332:3a",
         "page": 332,
         "line": 3,
         "text": "so much famine",
@@ -1175,7 +1175,7 @@
     "verse": 36,
     "lines": [
       {
-        "id": "332:3",
+        "id": "332:3b",
         "page": 332,
         "line": 3,
         "text": "& it came to pass that Teancum in his anger did go forth into the ",
@@ -1203,7 +1203,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/332"
       },
       {
-        "id": "332:7",
+        "id": "332:7a",
         "page": 332,
         "line": 7,
         "text": "servant before he died insomuch that they did persue Teancum & slew him",
@@ -1217,7 +1217,7 @@
     "verse": 37,
     "lines": [
       {
-        "id": "332:7",
+        "id": "332:7b",
         "page": 332,
         "line": 7,
         "text": "now it ",
@@ -1246,7 +1246,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/332"
       },
       {
-        "id": "332:11",
+        "id": "332:11a",
         "page": 332,
         "line": 11,
         "text": "but behold he was dead & had gone the way of all the earth",
@@ -1260,7 +1260,7 @@
     "verse": 38,
     "lines": [
       {
-        "id": "332:11",
+        "id": "332:11b",
         "page": 332,
         "line": 11,
         "text": "now it came to pass that ",
@@ -1281,7 +1281,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/332"
       },
       {
-        "id": "332:14",
+        "id": "332:14a",
         "page": 332,
         "line": 14,
         "text": "they did flee even that they did not return at that time against the Nephites",
@@ -1295,7 +1295,7 @@
     "verse": 39,
     "lines": [
       {
-        "id": "332:14",
+        "id": "332:14b",
         "page": 332,
         "line": 14,
         "text": "& thus ",
@@ -1309,7 +1309,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/332"
       },
       {
-        "id": "332:16",
+        "id": "332:16a",
         "page": 332,
         "line": 16,
         "text": "they had had wars & bloodsheds & famine & affliction for the space of many years",
@@ -1323,7 +1323,7 @@
     "verse": 40,
     "lines": [
       {
-        "id": "332:16",
+        "id": "332:16b",
         "page": 332,
         "line": 16,
         "text": "& ",
@@ -1345,7 +1345,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/332"
       },
       {
-        "id": "332:19",
+        "id": "332:19a",
         "page": 332,
         "line": 19,
         "text": "teous they were spared",
@@ -1359,7 +1359,7 @@
     "verse": 41,
     "lines": [
       {
-        "id": "332:19",
+        "id": "332:19b",
         "page": 332,
         "line": 19,
         "text": "but behold because of the exceding great length of the war ",
@@ -1388,7 +1388,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/332"
       },
       {
-        "id": "332:23",
+        "id": "332:23a",
         "page": 332,
         "line": 23,
         "text": "th of humility",
@@ -1402,7 +1402,7 @@
     "verse": 42,
     "lines": [
       {
-        "id": "332:23",
+        "id": "332:23b",
         "page": 332,
         "line": 23,
         "text": "& it came to pass that after Moroni had fortified those parts of the ",
@@ -1452,7 +1452,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/332"
       },
       {
-        "id": "332:29",
+        "id": "332:29a",
         "page": 332,
         "line": 29,
         "text": "der of his days in peace",
@@ -1466,7 +1466,7 @@
     "verse": 44,
     "lines": [
       {
-        "id": "332:29",
+        "id": "332:29b",
         "page": 332,
         "line": 29,
         "text": "& Pahoron did return to his Judgmentseat & Helaman ",
@@ -1481,7 +1481,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/332"
       },
       {
-        "id": "332:31",
+        "id": "332:31a",
         "page": 332,
         "line": 31,
         "text": "of so many wars & contentions it had become expediant that a regulation should be made again in the church",
@@ -1496,7 +1496,7 @@
     "verse": 45,
     "lines": [
       {
-        "id": "332:31",
+        "id": "332:31b",
         "page": 332,
         "line": 31,
         "text": "therefore Helaman & his brethren went forth & did dec",
@@ -1517,7 +1517,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/332"
       },
       {
-        "id": "332:34",
+        "id": "332:34a",
         "page": 332,
         "line": 34,
         "text": "the Lord their God",
@@ -1531,14 +1531,14 @@
     "verse": 46,
     "lines": [
       {
-        "id": "332:34",
+        "id": "332:34b",
         "page": 332,
         "line": 34,
         "text": "& it came to pass that they did establish again the church of ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/332"
       },
       {
-        "id": "332:35",
+        "id": "332:35a",
         "page": 332,
         "line": 35,
         "text": "God throughout all the land",
@@ -1552,14 +1552,14 @@
     "verse": 47,
     "lines": [
       {
-        "id": "332:35",
+        "id": "332:35b",
         "page": 332,
         "line": 35,
         "text": "yea & regulations were made concerning the law & their ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/332"
       },
       {
-        "id": "333:1",
+        "id": "333:1a",
         "page": 333,
         "line": 1,
         "text": "Judges & their chief Judges were chosen",
@@ -1573,7 +1573,7 @@
     "verse": 48,
     "lines": [
       {
-        "id": "333:1",
+        "id": "333:1b",
         "page": 333,
         "line": 1,
         "text": "& the people of Nephi began to prosper ",
@@ -1588,7 +1588,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/333"
       },
       {
-        "id": "333:3",
+        "id": "333:3a",
         "page": 333,
         "line": 3,
         "text": "to grow exceding rich",
@@ -1602,7 +1602,7 @@
     "verse": 49,
     "lines": [
       {
-        "id": "333:3",
+        "id": "333:3b",
         "page": 333,
         "line": 3,
         "text": "but notwithstanding their riches or their strength or their pros",
@@ -1645,7 +1645,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/333"
       },
       {
-        "id": "333:8",
+        "id": "333:8a",
         "page": 333,
         "line": 8,
         "text": "he had delivered them out of the hands of their enemies",
@@ -1659,7 +1659,7 @@
     "verse": 51,
     "lines": [
       {
-        "id": "333:8",
+        "id": "333:8b",
         "page": 333,
         "line": 8,
         "text": "& they did pray unto the ",
@@ -1673,7 +1673,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/333"
       },
       {
-        "id": "333:10",
+        "id": "333:10a",
         "page": 333,
         "line": 10,
         "text": "word so that they did wax strong & prosper in the land",
@@ -1687,7 +1687,7 @@
     "verse": 52,
     "lines": [
       {
-        "id": "333:10",
+        "id": "333:10b",
         "page": 333,
         "line": 10,
         "text": "& it came to pass that all ",
@@ -1704,14 +1704,7 @@
         "id": "333:12",
         "page": 333,
         "line": 12,
-        "text": "Judges over the people of Nephi—— ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/333"
-      },
-      {
-        "id": "333:13",
-        "page": 333,
-        "line": 13,
-        "text": "Chapter",
+        "text": "Judges over the people of Nephi——",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/333"
       }
     ]

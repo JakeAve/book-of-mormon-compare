@@ -47,7 +47,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/222"
       },
       {
-        "id": "222:30",
+        "id": "222:30a",
         "page": 222,
         "line": 30,
         "text": "the land of Amulon:",
@@ -61,7 +61,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "222:30",
+        "id": "222:30b",
         "page": 222,
         "line": 30,
         "text": "for the Lamanites had taken pos",
@@ -110,7 +110,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/222"
       },
       {
-        "id": "222:36",
+        "id": "222:36a",
         "page": 222,
         "line": 36,
         "text": "king over a numerous people;",
@@ -124,7 +124,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "222:36",
+        "id": "222:36b",
         "page": 222,
         "line": 36,
         "text": "and he appointed teach",
@@ -152,7 +152,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/222"
       },
       {
-        "id": "222:40",
+        "id": "222:40a",
         "page": 222,
         "line": 40,
         "text": "Lamanites.",
@@ -166,7 +166,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "222:40",
+        "id": "222:40b",
         "page": 222,
         "line": 40,
         "text": "And they were a people friendly one with ",
@@ -194,7 +194,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/222"
       },
       {
-        "id": "222:44",
+        "id": "222:44a",
         "page": 222,
         "line": 44,
         "text": "nor did they teach them the words of Abinadi;",
@@ -208,7 +208,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "222:44",
+        "id": "222:44b",
         "page": 222,
         "line": 44,
         "text": "but ",
@@ -222,7 +222,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/222"
       },
       {
-        "id": "222:46",
+        "id": "222:46a",
         "page": 222,
         "line": 46,
         "text": "and that they might write one to another.",
@@ -236,7 +236,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "222:46",
+        "id": "222:46b",
         "page": 222,
         "line": 46,
         "text": "And thus ",
@@ -313,7 +313,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/223"
       },
       {
-        "id": "223:9",
+        "id": "223:9a",
         "page": 223,
         "line": 9,
         "text": "should persecute their children:",
@@ -327,7 +327,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "223:9",
+        "id": "223:9b",
         "page": 223,
         "line": 9,
         "text": "for Amulon knew Al",
@@ -369,10 +369,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/223"
       },
       {
-        "id": "223:15",
+        "id": "223:15a",
         "page": 223,
         "line": 15,
-        "text": "upon them, and put task-masters over them. And",
+        "text": "upon them, and put task-masters over them.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/223"
       }
     ]
@@ -383,10 +383,10 @@
     "verse": 10,
     "lines": [
       {
-        "id": "223:15",
+        "id": "223:15b",
         "page": 223,
         "line": 15,
-        "text": "it ",
+        "text": "And it ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/223"
       },
       {
@@ -397,7 +397,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/223"
       },
       {
-        "id": "223:17",
+        "id": "223:17a",
         "page": 223,
         "line": 17,
         "text": "they began to cry mightily to God.",
@@ -411,7 +411,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "223:17",
+        "id": "223:17b",
         "page": 223,
         "line": 17,
         "text": "And Amulon ",
@@ -439,7 +439,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/223"
       },
       {
-        "id": "223:21",
+        "id": "223:21a",
         "page": 223,
         "line": 21,
         "text": "put to death.",
@@ -453,7 +453,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "223:21",
+        "id": "223:21b",
         "page": 223,
         "line": 21,
         "text": "And Alma and his people did not raise ",
@@ -649,7 +649,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/223"
       },
       {
-        "id": "223:45",
+        "id": "223:45a",
         "page": 223,
         "line": 45,
         "text": "morrow I will deliver you out of bondage.",
@@ -663,7 +663,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "223:45",
+        "id": "223:45b",
         "page": 223,
         "line": 45,
         "text": "And he ",
@@ -677,17 +677,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/223"
       },
       {
-        "id": "224:1",
+        "id": "224:1a",
         "page": 224,
         "line": 1,
-        "text": "I will go with thee, and deliver this people out of bond",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/224"
-      },
-      {
-        "id": "224:2",
-        "page": 224,
-        "line": 2,
-        "text": "age.",
+        "text": "I will go with thee, and deliver this people out of",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/224"
       }
     ]
@@ -697,6 +690,20 @@
     "chapter": 24,
     "verse": 18,
     "lines": [
+      {
+        "id": "224:1b",
+        "page": 224,
+        "line": 1,
+        "text": "bond ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/224"
+      },
+      {
+        "id": "224:2",
+        "page": 224,
+        "line": 2,
+        "text": "age. ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/224"
+      },
       {
         "id": "224:3",
         "page": 224,
@@ -719,7 +726,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/224"
       },
       {
-        "id": "224:6",
+        "id": "224:6a",
         "page": 224,
         "line": 6,
         "text": "they gathering their flocks together.",
@@ -733,7 +740,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "224:6",
+        "id": "224:6b",
         "page": 224,
         "line": 6,
         "text": "And in the morn",
@@ -754,7 +761,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/224"
       },
       {
-        "id": "224:9",
+        "id": "224:9a",
         "page": 224,
         "line": 9,
         "text": "profound sleep.",
@@ -768,7 +775,7 @@
     "verse": 20,
     "lines": [
       {
-        "id": "224:9",
+        "id": "224:9b",
         "page": 224,
         "line": 9,
         "text": "And Alma and his people departed ",
@@ -796,7 +803,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/224"
       },
       {
-        "id": "224:13",
+        "id": "224:13a",
         "page": 224,
         "line": 13,
         "text": "derness;",
@@ -810,7 +817,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "224:13",
+        "id": "224:13b",
         "page": 224,
         "line": 13,
         "text": "yea, and in the valley of Alma they poured ",
@@ -845,7 +852,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/224"
       },
       {
-        "id": "224:18",
+        "id": "224:18a",
         "page": 224,
         "line": 18,
         "text": "God.",
@@ -859,7 +866,7 @@
     "verse": 22,
     "lines": [
       {
-        "id": "224:18",
+        "id": "224:18b",
         "page": 224,
         "line": 18,
         "text": "And they gave thanks to God, yea, all their ",
@@ -929,7 +936,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/224"
       },
       {
-        "id": "224:27",
+        "id": "224:27a",
         "page": 224,
         "line": 27,
         "text": "this people.",
@@ -943,7 +950,7 @@
     "verse": 24,
     "lines": [
       {
-        "id": "224:27",
+        "id": "224:27b",
         "page": 224,
         "line": 27,
         "text": "And it came to pass that they departed ",
@@ -957,7 +964,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/224"
       },
       {
-        "id": "224:29",
+        "id": "224:29a",
         "page": 224,
         "line": 29,
         "text": "derness.",
@@ -971,7 +978,7 @@
     "verse": 25,
     "lines": [
       {
-        "id": "224:29",
+        "id": "224:29b",
         "page": 224,
         "line": 29,
         "text": "And after they had been in the wilderness ",
@@ -985,7 +992,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/224"
       },
       {
-        "id": "224:31",
+        "id": "224:31a",
         "page": 224,
         "line": 31,
         "text": "and king Mosiah did also receive them with joy.",

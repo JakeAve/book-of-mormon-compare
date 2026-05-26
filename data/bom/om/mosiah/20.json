@@ -1,0 +1,17 @@
+[
+  {
+    "book": "mosiah",
+    "chapter": 20,
+    "verse": 2,
+    "lines": [
+      {
+        "id": "77:1a",
+        "page": 77,
+        "line": 1,
+        "text": "it came to pass that there was one among them",
+        "markdown": "{{it came t}}o pas{{s}} tha{{t there was one among them",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/77"
+      }
+    ]
+  }
+]

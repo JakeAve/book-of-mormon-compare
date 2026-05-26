@@ -47,7 +47,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/122"
       },
       {
-        "id": "122:43",
+        "id": "122:43a",
         "page": 122,
         "line": 43,
         "text": "destroyed.",
@@ -61,7 +61,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "122:43",
+        "id": "122:43b",
         "page": 122,
         "line": 43,
         "text": "For behold, I say unto you, as many of the Gen",
@@ -138,7 +138,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/123"
       },
       {
-        "id": "123:10",
+        "id": "123:10a",
         "page": 123,
         "line": 10,
         "text": "them forth unto the remnant of our seed.",
@@ -152,7 +152,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "123:10",
+        "id": "123:10b",
         "page": 123,
         "line": 10,
         "text": "And then shall the ",
@@ -173,7 +173,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/123"
       },
       {
-        "id": "123:13",
+        "id": "123:13a",
         "page": 123,
         "line": 13,
         "text": "Jews.",
@@ -187,7 +187,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "123:13",
+        "id": "123:13b",
         "page": 123,
         "line": 13,
         "text": "And the Gospel of Jesus Christ shall be declared among ",
@@ -208,7 +208,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/123"
       },
       {
-        "id": "123:16",
+        "id": "123:16a",
         "page": 123,
         "line": 16,
         "text": "which was had among their fathers.",
@@ -222,7 +222,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "123:16",
+        "id": "123:16b",
         "page": 123,
         "line": 16,
         "text": "And then shall they re",
@@ -320,7 +320,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/123"
       },
       {
-        "id": "123:28",
+        "id": "123:28a",
         "page": 123,
         "line": 28,
         "text": "bring about the restoration of his people upon the earth.",
@@ -334,7 +334,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "123:28",
+        "id": "123:28b",
         "page": 123,
         "line": 28,
         "text": "And ",
@@ -362,7 +362,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/123"
       },
       {
-        "id": "123:32",
+        "id": "123:32a",
         "page": 123,
         "line": 32,
         "text": "of his lips shall he slay the wicked:",
@@ -376,7 +376,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "123:32",
+        "id": "123:32b",
         "page": 123,
         "line": 32,
         "text": "for the time speedily ",
@@ -404,7 +404,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/123"
       },
       {
-        "id": "123:36",
+        "id": "123:36a",
         "page": 123,
         "line": 36,
         "text": "wicked by fire.",
@@ -418,14 +418,14 @@
     "verse": 11,
     "lines": [
       {
-        "id": "123:36",
+        "id": "123:36b",
         "page": 123,
         "line": 36,
         "text": "And righteousness shall be the girdle of his ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/123"
       },
       {
-        "id": "123:37",
+        "id": "123:37a",
         "page": 123,
         "line": 37,
         "text": "loins, and faithfulness the girdle of his reins.",
@@ -439,7 +439,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "123:37",
+        "id": "123:37b",
         "page": 123,
         "line": 37,
         "text": "And then shall ",
@@ -449,7 +449,21 @@
         "id": "123:38",
         "page": 123,
         "line": 38,
-        "text": "the wolf dwell with the lamb, and the leopard shall lie down",
+        "text": "the wolf dwell with the lamb, and the leopard shall lie down ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/123"
+      },
+      {
+        "id": "123:39",
+        "page": 123,
+        "line": 39,
+        "text": "with the kid; and the calf, and the young lion, and the fatling, ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/123"
+      },
+      {
+        "id": "123:40a",
+        "page": 123,
+        "line": 40,
+        "text": "together; and a little child shall lead them.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/123"
       }
     ]
@@ -460,17 +474,10 @@
     "verse": 13,
     "lines": [
       {
-        "id": "123:39",
-        "page": 123,
-        "line": 39,
-        "text": "with the kid; and the calf, and the young lion, and the fatling, ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/123"
-      },
-      {
-        "id": "123:40",
+        "id": "123:40b",
         "page": 123,
         "line": 40,
-        "text": "together; and a little child shall lead them. And the cow and ",
+        "text": "And the cow and ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/123"
       },
       {
@@ -481,10 +488,24 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/123"
       },
       {
-        "id": "123:42",
+        "id": "123:42a",
         "page": 123,
         "line": 42,
-        "text": "and the lion shall eat straw like the ox. And the sucking ",
+        "text": "and the lion shall eat straw like the ox.",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/123"
+      }
+    ]
+  },
+  {
+    "book": "2-ne",
+    "chapter": 30,
+    "verse": 14,
+    "lines": [
+      {
+        "id": "123:42b",
+        "page": 123,
+        "line": 42,
+        "text": "And the sucking ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/123"
       },
       {
@@ -495,17 +516,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/123"
       },
       {
-        "id": "124:1",
+        "id": "124:1a",
         "page": 124,
         "line": 1,
-        "text": "shall put his hand on the cockatrice’s den. They shall not ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/124"
-      },
-      {
-        "id": "124:2",
-        "page": 124,
-        "line": 2,
-        "text": "hurt nor destroy in all my holy mountain: for the earth shall",
+        "text": "shall put his hand on the cockatrice’s den.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/124"
       }
     ]
@@ -516,6 +530,20 @@
     "verse": 15,
     "lines": [
       {
+        "id": "124:1b",
+        "page": 124,
+        "line": 1,
+        "text": "They shall not ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/124"
+      },
+      {
+        "id": "124:2",
+        "page": 124,
+        "line": 2,
+        "text": "hurt nor destroy in all my holy mountain: for the earth shall ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/124"
+      },
+      {
         "id": "124:3",
         "page": 124,
         "line": 3,
@@ -523,7 +551,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/124"
       },
       {
-        "id": "124:4",
+        "id": "124:4a",
         "page": 124,
         "line": 4,
         "text": "the sea.",
@@ -537,7 +565,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "124:4",
+        "id": "124:4b",
         "page": 124,
         "line": 4,
         "text": "Wherefore, the things of all nations shall be made ",
@@ -551,7 +579,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/124"
       },
       {
-        "id": "124:6",
+        "id": "124:6a",
         "page": 124,
         "line": 6,
         "text": "of men.",
@@ -565,7 +593,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "124:6",
+        "id": "124:6b",
         "page": 124,
         "line": 6,
         "text": "There is nothing which is secret, save it shall be ",
@@ -586,7 +614,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/124"
       },
       {
-        "id": "124:9",
+        "id": "124:9a",
         "page": 124,
         "line": 9,
         "text": "upon the earth, save it shall be loosed.",
@@ -600,7 +628,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "124:9",
+        "id": "124:9b",
         "page": 124,
         "line": 9,
         "text": "Wherefore, all things ",
@@ -631,14 +659,7 @@
         "id": "124:13",
         "page": 124,
         "line": 13,
-        "text": "now, my beloved brethren, I must make an end of my sayings. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/124"
-      },
-      {
-        "id": "124:14",
-        "page": 124,
-        "line": 14,
-        "text": "CHAPTER XIII.",
+        "text": "now, my beloved brethren, I must make an end of my sayings.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/124"
       }
     ]

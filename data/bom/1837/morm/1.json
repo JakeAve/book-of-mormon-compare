@@ -5,13 +5,6 @@
     "verse": 0,
     "lines": [
       {
-        "id": "550:37",
-        "page": 550,
-        "line": 37,
-        "text": "Ammaron. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/550"
-      },
-      {
         "id": "551:1",
         "page": 551,
         "line": 1,
@@ -40,7 +33,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/551"
       },
       {
-        "id": "551:4",
+        "id": "551:4a",
         "page": 551,
         "line": 4,
         "text": "of Mormon.",
@@ -54,7 +47,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "551:4",
+        "id": "551:4b",
         "page": 551,
         "line": 4,
         "text": "And about the time that Ammaron hid ",
@@ -89,7 +82,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/551"
       },
       {
-        "id": "551:9",
+        "id": "551:9a",
         "page": 551,
         "line": 9,
         "text": "art a sober child, and art quick to observe;",
@@ -103,7 +96,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "551:9",
+        "id": "551:9b",
         "page": 551,
         "line": 9,
         "text": "therefore ",
@@ -187,7 +180,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/551"
       },
       {
-        "id": "551:20",
+        "id": "551:20a",
         "page": 551,
         "line": 20,
         "text": "this people.",
@@ -201,7 +194,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "551:20",
+        "id": "551:20b",
         "page": 551,
         "line": 20,
         "text": "And I, Mormon, being a descendant of ",
@@ -243,7 +236,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/551"
       },
       {
-        "id": "551:25",
+        "id": "551:25a",
         "page": 551,
         "line": 25,
         "text": "even to the land of Zarahemla;",
@@ -257,7 +250,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "551:25",
+        "id": "551:25b",
         "page": 551,
         "line": 25,
         "text": "the whole face of the ",
@@ -278,7 +271,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/551"
       },
       {
-        "id": "551:28",
+        "id": "551:28a",
         "page": 551,
         "line": 28,
         "text": "of the sea.",
@@ -292,7 +285,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "551:28",
+        "id": "551:28b",
         "page": 551,
         "line": 28,
         "text": "And it came to pass in this year, there be",
@@ -327,7 +320,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/551"
       },
       {
-        "id": "551:33",
+        "id": "551:33a",
         "page": 551,
         "line": 33,
         "text": "the Ishmaelites.",
@@ -341,7 +334,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "551:33",
+        "id": "551:33b",
         "page": 551,
         "line": 33,
         "text": "Now the Lamanites, and the Lemu",
@@ -355,7 +348,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/551"
       },
       {
-        "id": "551:35",
+        "id": "551:35a",
         "page": 551,
         "line": 35,
         "text": "the two parties were Nephites and Lamanites.",
@@ -369,7 +362,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "551:35",
+        "id": "551:35b",
         "page": 551,
         "line": 35,
         "text": "And ",
@@ -432,7 +425,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/552"
       },
       {
-        "id": "552:4",
+        "id": "552:4a",
         "page": 552,
         "line": 4,
         "text": "did slay many of them.",
@@ -446,7 +439,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "552:4",
+        "id": "552:4b",
         "page": 552,
         "line": 4,
         "text": "And it came to pass that the ",
@@ -467,10 +460,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/552"
       },
       {
-        "id": "552:7",
+        "id": "552:7a",
         "page": 552,
         "line": 7,
-        "text": "of about four years, that there was no blood shed.—",
+        "text": "of about four years, that there was no",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/552"
       }
     ]
@@ -480,6 +473,13 @@
     "chapter": 1,
     "verse": 13,
     "lines": [
+      {
+        "id": "552:7b",
+        "page": 552,
+        "line": 7,
+        "text": "blood shed.— ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/552"
+      },
       {
         "id": "552:8",
         "page": 552,
@@ -502,7 +502,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/552"
       },
       {
-        "id": "552:11",
+        "id": "552:11a",
         "page": 552,
         "line": 11,
         "text": "did cease, because of the iniquity of the people.",
@@ -516,7 +516,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "552:11",
+        "id": "552:11b",
         "page": 552,
         "line": 11,
         "text": "And ",
@@ -537,7 +537,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/552"
       },
       {
-        "id": "552:14",
+        "id": "552:14a",
         "page": 552,
         "line": 14,
         "text": "and unbelief.",
@@ -551,7 +551,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "552:14",
+        "id": "552:14b",
         "page": 552,
         "line": 14,
         "text": "And I, being fifteen years of age, and ",
@@ -572,7 +572,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/552"
       },
       {
-        "id": "552:17",
+        "id": "552:17a",
         "page": 552,
         "line": 17,
         "text": "of Jesus.",
@@ -586,7 +586,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "552:17",
+        "id": "552:17b",
         "page": 552,
         "line": 17,
         "text": "And I did endeavor to preach unto this peo",
@@ -621,7 +621,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/552"
       },
       {
-        "id": "552:22",
+        "id": "552:22a",
         "page": 552,
         "line": 22,
         "text": "iniquity.",
@@ -635,7 +635,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "552:22",
+        "id": "552:22b",
         "page": 552,
         "line": 22,
         "text": "But I did remain among them, but I was ",
@@ -656,7 +656,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/552"
       },
       {
-        "id": "552:25",
+        "id": "552:25a",
         "page": 552,
         "line": 25,
         "text": "hearts, the land was cursed for their sake.",
@@ -670,7 +670,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "552:25",
+        "id": "552:25b",
         "page": 552,
         "line": 25,
         "text": "And these ",
@@ -712,7 +712,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/552"
       },
       {
-        "id": "552:31",
+        "id": "552:31a",
         "page": 552,
         "line": 31,
         "text": "them again.",
@@ -726,7 +726,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "552:31",
+        "id": "552:31b",
         "page": 552,
         "line": 31,
         "text": "And it came to pass that there were ",
@@ -754,7 +754,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/552"
       },
       {
-        "id": "552:35",
+        "id": "552:35a",
         "page": 552,
         "line": 35,
         "text": "adi, and also Samuel the Lamanite.",

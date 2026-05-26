@@ -33,7 +33,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/382"
       },
       {
-        "id": "382:5",
+        "id": "382:5a",
         "page": 382,
         "line": 5,
         "text": "from their towers, against the Nephites;",
@@ -47,7 +47,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "382:5",
+        "id": "382:5b",
         "page": 382,
         "line": 5,
         "text": "and thus he ",
@@ -96,7 +96,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/382"
       },
       {
-        "id": "382:12",
+        "id": "382:12a",
         "page": 382,
         "line": 12,
         "text": "as well as the Lamanites,",
@@ -110,7 +110,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "382:12",
+        "id": "382:12b",
         "page": 382,
         "line": 12,
         "text": "therefore he had accomplish",
@@ -166,7 +166,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/382"
       },
       {
-        "id": "382:19",
+        "id": "382:19a",
         "page": 382,
         "line": 19,
         "text": "and to bring them into bondage;",
@@ -180,7 +180,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "382:19",
+        "id": "382:19b",
         "page": 382,
         "line": 19,
         "text": "and thus he did ap",
@@ -243,10 +243,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/382"
       },
       {
-        "id": "382:27",
+        "id": "382:27a",
         "page": 382,
         "line": 27,
-        "text": "wilderness. Now it came to pass that while Amalic",
+        "text": "wilderness.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/382"
       }
     ]
@@ -256,6 +256,13 @@
     "chapter": 48,
     "verse": 7,
     "lines": [
+      {
+        "id": "382:27b",
+        "page": 382,
+        "line": 27,
+        "text": "Now it came to pass that while Amalic",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/382"
+      },
       {
         "id": "382:28",
         "page": 382,
@@ -278,7 +285,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/382"
       },
       {
-        "id": "382:31",
+        "id": "382:31a",
         "page": 382,
         "line": 31,
         "text": "their God;",
@@ -292,7 +299,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "382:31",
+        "id": "382:31b",
         "page": 382,
         "line": 31,
         "text": "yea, he had been strengthening the armies ",
@@ -362,7 +369,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/382"
       },
       {
-        "id": "382:40",
+        "id": "382:40a",
         "page": 382,
         "line": 40,
         "text": "phites.",
@@ -376,7 +383,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "382:40",
+        "id": "382:40b",
         "page": 382,
         "line": 40,
         "text": "And thus he was preparing to support their ",
@@ -446,7 +453,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/383"
       },
       {
-        "id": "383:2",
+        "id": "383:2a",
         "page": 383,
         "line": 2,
         "text": "brethren from bondage and slavery;",
@@ -460,7 +467,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "383:2",
+        "id": "383:2b",
         "page": 383,
         "line": 2,
         "text": "yea, a man whose ",
@@ -488,7 +495,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/383"
       },
       {
-        "id": "383:6",
+        "id": "383:6a",
         "page": 383,
         "line": 6,
         "text": "welfare and safety of his people;",
@@ -502,7 +509,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "383:6",
+        "id": "383:6b",
         "page": 383,
         "line": 6,
         "text": "yea, and he was a ",
@@ -530,7 +537,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/383"
       },
       {
-        "id": "383:10",
+        "id": "383:10a",
         "page": 383,
         "line": 10,
         "text": "his blood.",
@@ -544,7 +551,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "383:10",
+        "id": "383:10b",
         "page": 383,
         "line": 10,
         "text": "Now the Nephites were taught to defend ",
@@ -579,7 +586,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/383"
       },
       {
-        "id": "383:15",
+        "id": "383:15a",
         "page": 383,
         "line": 15,
         "text": "except it were to preserve their lives:",
@@ -593,7 +600,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "383:15",
+        "id": "383:15b",
         "page": 383,
         "line": 15,
         "text": "and this was ",
@@ -628,7 +635,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/383"
       },
       {
-        "id": "383:20",
+        "id": "383:20a",
         "page": 383,
         "line": 20,
         "text": "to prepare for war, according to their danger;",
@@ -642,7 +649,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "383:20",
+        "id": "383:20b",
         "page": 383,
         "line": 20,
         "text": "and also, ",
@@ -733,7 +740,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/383"
       },
       {
-        "id": "383:32",
+        "id": "383:32a",
         "page": 383,
         "line": 32,
         "text": "hearts of the children of men.",
@@ -747,7 +754,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "383:32",
+        "id": "383:32b",
         "page": 383,
         "line": 32,
         "text": "Behold, he was a man ",
@@ -768,7 +775,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/383"
       },
       {
-        "id": "383:35",
+        "id": "383:35a",
         "page": 383,
         "line": 35,
         "text": "sons, for they were all men of God.",
@@ -782,7 +789,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "383:35",
+        "id": "383:35b",
         "page": 383,
         "line": 35,
         "text": "Now behold, ",
@@ -852,7 +859,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/383"
       },
       {
-        "id": "383:44",
+        "id": "383:44a",
         "page": 383,
         "line": 44,
         "text": "even for the space of four years.",
@@ -866,7 +873,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "383:44",
+        "id": "383:44b",
         "page": 383,
         "line": 44,
         "text": "But as I have said ",
@@ -894,7 +901,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/383"
       },
       {
-        "id": "384:1",
+        "id": "384:1a",
         "page": 384,
         "line": 1,
         "text": "Lamanites;",
@@ -908,7 +915,7 @@
     "verse": 22,
     "lines": [
       {
-        "id": "384:1",
+        "id": "384:1b",
         "page": 384,
         "line": 1,
         "text": "yea, and in fine, their wars never did ",
@@ -922,7 +929,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/384"
       },
       {
-        "id": "384:3",
+        "id": "384:3a",
         "page": 384,
         "line": 3,
         "text": "notwithstanding their much reluctance.",
@@ -936,7 +943,7 @@
     "verse": 23,
     "lines": [
       {
-        "id": "384:3",
+        "id": "384:3b",
         "page": 384,
         "line": 3,
         "text": "Now they ",
@@ -1020,7 +1027,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/384"
       },
       {
-        "id": "384:14",
+        "id": "384:14a",
         "page": 384,
         "line": 14,
         "text": "them, by joining the Lamanites;",
@@ -1034,7 +1041,7 @@
     "verse": 25,
     "lines": [
       {
-        "id": "384:14",
+        "id": "384:14b",
         "page": 384,
         "line": 14,
         "text": "yea, they could not ",

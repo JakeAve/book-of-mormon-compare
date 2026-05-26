@@ -5,6 +5,13 @@
     "verse": 1,
     "lines": [
       {
+        "id": "383:3",
+        "page": 383,
+        "line": 3,
+        "text": "CHAPTER XXV. ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/383"
+      },
+      {
         "id": "383:4",
         "page": 383,
         "line": 4,
@@ -19,7 +26,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/383"
       },
       {
-        "id": "383:6",
+        "id": "383:6a",
         "page": 383,
         "line": 6,
         "text": "would exchange prisoners.",
@@ -33,7 +40,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "383:6",
+        "id": "383:6b",
         "page": 383,
         "line": 6,
         "text": "And it came to pass that Moroni ",
@@ -131,17 +138,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/383"
       },
       {
-        "id": "383:18",
+        "id": "383:18a",
         "page": 383,
         "line": 18,
-        "text": "Now these are the words which he wrote unto Ammoron, say",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/383"
-      },
-      {
-        "id": "383:19",
-        "page": 383,
-        "line": 19,
-        "text": "ing:",
+        "text": "Now these are the words which he wrote unto Ammoron,",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/383"
       }
     ]
@@ -152,10 +152,17 @@
     "verse": 5,
     "lines": [
       {
+        "id": "383:18b",
+        "page": 383,
+        "line": 18,
+        "text": "say ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/383"
+      },
+      {
         "id": "383:19",
         "page": 383,
         "line": 19,
-        "text": "Behold, Ammoron, I have wrote unto you somewhat con",
+        "text": "ing: Behold, Ammoron, I have wrote unto you somewhat con",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/383"
       },
       {
@@ -173,7 +180,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/383"
       },
       {
-        "id": "383:22",
+        "id": "383:22a",
         "page": 383,
         "line": 22,
         "text": "ye are still determined to carry on after his death.",
@@ -187,7 +194,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "383:22",
+        "id": "383:22b",
         "page": 383,
         "line": 22,
         "text": "Behold, I ",
@@ -222,7 +229,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/383"
       },
       {
-        "id": "383:27",
+        "id": "383:27a",
         "page": 383,
         "line": 27,
         "text": "Nephi;",
@@ -236,7 +243,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "383:27",
+        "id": "383:27b",
         "page": 383,
         "line": 27,
         "text": "yea, I would tell you these things, if ye were capable ",
@@ -271,7 +278,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/383"
       },
       {
-        "id": "383:32",
+        "id": "383:32a",
         "page": 383,
         "line": 32,
         "text": "own lands;",
@@ -285,7 +292,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "383:32",
+        "id": "383:32b",
         "page": 383,
         "line": 32,
         "text": "but as ye have rejected these things, and have ",
@@ -334,7 +341,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/383"
       },
       {
-        "id": "383:38",
+        "id": "383:38a",
         "page": 383,
         "line": 38,
         "text": "even to your utter destruction;",
@@ -348,7 +355,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "383:38",
+        "id": "383:38b",
         "page": 383,
         "line": 38,
         "text": "but as the Lord liveth, our ar",
@@ -376,7 +383,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/384"
       },
       {
-        "id": "384:3",
+        "id": "384:3a",
         "page": 384,
         "line": 3,
         "text": "cause of our God.",
@@ -390,7 +397,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "384:3",
+        "id": "384:3b",
         "page": 384,
         "line": 3,
         "text": "But behold, it supposeth me that I talk to ",
@@ -432,7 +439,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/384"
       },
       {
-        "id": "384:9",
+        "id": "384:9a",
         "page": 384,
         "line": 9,
         "text": "it, I will exchange.",
@@ -446,7 +453,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "384:9",
+        "id": "384:9b",
         "page": 384,
         "line": 9,
         "text": "And behold, if ye do not this, I will come ",
@@ -488,7 +495,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/384"
       },
       {
-        "id": "384:15",
+        "id": "384:15a",
         "page": 384,
         "line": 15,
         "text": "troyed from off the face of the earth.",
@@ -502,7 +509,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "384:15",
+        "id": "384:15b",
         "page": 384,
         "line": 15,
         "text": "Behold, I am in my an",
@@ -579,7 +586,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/384"
       },
       {
-        "id": "384:24",
+        "id": "384:24a",
         "page": 384,
         "line": 24,
         "text": "Moroni; and these are the words which he wrote, saying:",
@@ -593,7 +600,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "384:24",
+        "id": "384:24b",
         "page": 384,
         "line": 24,
         "text": "I ",
@@ -621,7 +628,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/384"
       },
       {
-        "id": "384:28",
+        "id": "384:28a",
         "page": 384,
         "line": 28,
         "text": "armies, for I fear not your threatnings.",
@@ -635,7 +642,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "384:28",
+        "id": "384:28b",
         "page": 384,
         "line": 28,
         "text": "For behold, your fa",
@@ -656,7 +663,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/384"
       },
       {
-        "id": "384:31",
+        "id": "384:31a",
         "page": 384,
         "line": 31,
         "text": "unto them.",
@@ -670,7 +677,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "384:31",
+        "id": "384:31b",
         "page": 384,
         "line": 31,
         "text": "And now behold, if ye will lay down your arms, ",
@@ -712,10 +719,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/384"
       },
       {
-        "id": "384:36",
+        "id": "384:36a",
         "page": 384,
         "line": 36,
-        "text": "my people; but behold, we fear not your threatnings; never",
+        "text": "my people; but behold, we fear not your threatnings;",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/384"
       }
     ]
@@ -725,6 +732,13 @@
     "chapter": 54,
     "verse": 20,
     "lines": [
+      {
+        "id": "384:36b",
+        "page": 384,
+        "line": 36,
+        "text": "never",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/384"
+      },
       {
         "id": "384:37",
         "page": 384,
@@ -754,7 +768,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/384"
       },
       {
-        "id": "384:41",
+        "id": "384:41a",
         "page": 384,
         "line": 41,
         "text": "nal extinction.",
@@ -768,7 +782,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "384:41",
+        "id": "384:41b",
         "page": 384,
         "line": 41,
         "text": "And as concerning that God whom ye say we ",
@@ -789,7 +803,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/384"
       },
       {
-        "id": "385:1",
+        "id": "385:1a",
         "page": 385,
         "line": 1,
         "text": "that he hath made us as well as you;",
@@ -803,7 +817,7 @@
     "verse": 22,
     "lines": [
       {
-        "id": "385:1",
+        "id": "385:1b",
         "page": 385,
         "line": 1,
         "text": "and if it so be that there ",
@@ -831,7 +845,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/385"
       },
       {
-        "id": "385:5",
+        "id": "385:5a",
         "page": 385,
         "line": 5,
         "text": "these things mattereth not.",
@@ -845,7 +859,7 @@
     "verse": 23,
     "lines": [
       {
-        "id": "385:5",
+        "id": "385:5b",
         "page": 385,
         "line": 5,
         "text": "I am Ammoron, and a descendant ",
@@ -859,7 +873,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/385"
       },
       {
-        "id": "385:7",
+        "id": "385:7a",
         "page": 385,
         "line": 7,
         "text": "rusalem.",
@@ -873,7 +887,7 @@
     "verse": 24,
     "lines": [
       {
-        "id": "385:7",
+        "id": "385:7b",
         "page": 385,
         "line": 7,
         "text": "And behold, now, I am a bold Lamanite. Behold, ",

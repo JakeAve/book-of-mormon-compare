@@ -13,7 +13,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/73"
       },
       {
-        "id": "73:7",
+        "id": "73:7a",
         "page": 73,
         "line": 7,
         "text": "me a man among the People of Nephi whose name was Sherem",
@@ -28,7 +28,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "73:7",
+        "id": "73:7b",
         "page": 73,
         "line": 7,
         "text": "& it came topass that he began to preach among the people & to declare unto them thatthere should be no Christ & he preached many things which were flatter",
@@ -44,7 +44,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/73"
       },
       {
-        "id": "73:9",
+        "id": "73:9a",
         "page": 73,
         "line": 9,
         "text": "trine of Christ",
@@ -59,7 +59,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "73:9",
+        "id": "73:9b",
         "page": 73,
         "line": 9,
         "text": "& he laboured diligently that he might lead away the he",
@@ -83,7 +83,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/73"
       },
       {
-        "id": "73:12",
+        "id": "73:12a",
         "page": 73,
         "line": 12,
         "text": "ch opportunity that he might come unto me",
@@ -98,7 +98,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "73:12",
+        "id": "73:12b",
         "page": 73,
         "line": 12,
         "text": "& he was learned that he had a pe",
@@ -113,7 +113,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/73"
       },
       {
-        "id": "73:14",
+        "id": "73:14a",
         "page": 73,
         "line": 14,
         "text": "terry & much power of speach according to the power of the Devil",
@@ -128,7 +128,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "73:14",
+        "id": "73:14b",
         "page": 73,
         "line": 14,
         "text": "& he had hope to shake ",
@@ -151,7 +151,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/73"
       },
       {
-        "id": "73:17",
+        "id": "73:17a",
         "page": 73,
         "line": 17,
         "text": "ry word from time to time wherefore I could not be shaken",
@@ -166,7 +166,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "73:17",
+        "id": "73:17b",
         "page": 73,
         "line": 17,
         "text": "& it came to pass ",
@@ -181,7 +181,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/73"
       },
       {
-        "id": "73:19",
+        "id": "73:19a",
         "page": 73,
         "line": 19,
         "text": "I have sought much opportunity that I might speak unto you",
@@ -196,25 +196,10 @@
     "verse": 7,
     "lines": [
       {
-        "id": "73:19",
+        "id": "73:19b",
         "page": 73,
         "line": 19,
-        "text": "for I have",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/73"
-      }
-    ]
-  },
-  {
-    "book": "jacob",
-    "chapter": 7,
-    "verse": 8,
-    "lines": [
-      {
-        "id": "73:19",
-        "page": 73,
-        "line": 19,
-        "text": "heard &",
-        "markdown": "heard &}}",
+        "text": "for I have heard",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/73"
       }
     ]
@@ -225,6 +210,14 @@
     "verse": 11,
     "lines": [
       {
+        "id": "73:19c",
+        "page": 73,
+        "line": 19,
+        "text": "& ",
+        "markdown": "&}} ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/73"
+      },
+      {
         "id": "74:1",
         "page": 74,
         "line": 1,
@@ -233,7 +226,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/74"
       },
       {
-        "id": "74:2",
+        "id": "74:2a",
         "page": 74,
         "line": 2,
         "text": "oken concerning this Christ",
@@ -247,7 +240,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "74:2",
+        "id": "74:2b",
         "page": 74,
         "line": 2,
         "text": "& this is not all it hath been made ma",
@@ -271,7 +264,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/74"
       },
       {
-        "id": "74:5",
+        "id": "74:5a",
         "page": 74,
         "line": 5,
         "text": "be no atonement made all mankind must be lost",
@@ -286,7 +279,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "74:5",
+        "id": "74:5b",
         "page": 74,
         "line": 5,
         "text": "& it came to p",
@@ -294,7 +287,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/74"
       },
       {
-        "id": "74:6",
+        "id": "74:6a",
         "page": 74,
         "line": 6,
         "text": "ass that he sayeth unto me shew me a sign by this power of the Holy Ghostin the which ye know so much",
@@ -309,7 +302,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "74:6",
+        "id": "74:6b",
         "page": 74,
         "line": 6,
         "text": "& I said unto him what am I that I should tempt God to shew unto thee a sign in the thing which thou knowe",
@@ -341,7 +334,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/74"
       },
       {
-        "id": "74:10",
+        "id": "74:10a",
         "page": 74,
         "line": 10,
         "text": "that Christ shall come & thy will O Lord be done & not mine",
@@ -356,7 +349,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "74:10",
+        "id": "74:10b",
         "page": 74,
         "line": 10,
         "text": "& it came ",
@@ -380,7 +373,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/74"
       },
       {
-        "id": "74:13",
+        "id": "74:13a",
         "page": 74,
         "line": 13,
         "text": "as nourished for the space of many days",
@@ -395,7 +388,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "74:13",
+        "id": "74:13b",
         "page": 74,
         "line": 13,
         "text": "& it came to pass that he sayeth un",
@@ -411,7 +404,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/74"
       },
       {
-        "id": "74:15",
+        "id": "74:15a",
         "page": 74,
         "line": 15,
         "text": "ire to speak unto the people before that I shall die",
@@ -426,7 +419,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "74:15",
+        "id": "74:15b",
         "page": 74,
         "line": 15,
         "text": "& it came to pass ",
@@ -450,7 +443,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/74"
       },
       {
-        "id": "74:18",
+        "id": "74:18a",
         "page": 74,
         "line": 18,
         "text": "fessed the Christ & the power of the Holy Ghost & the ministering ofAngels",
@@ -465,57 +458,12 @@
     "verse": 18,
     "lines": [
       {
-        "id": "74:18",
+        "id": "74:18b",
         "page": 74,
         "line": 18,
-        "text": "& he spake plainly unto them that he had been deceived by thepower of the Devil & he spake of <​Hell​> & of eternity",
-        "markdown": "& he spa}}k{{e p}}l{{ai}}nly unto them {{that he had been deceived by thepower of the Devil & he spake of }} <​H{{e}}ll​> {{& of",
+        "text": "& he spake plainly unto them that he had been deceived by thepower of the Devil & he spake of <​Hell​> & of eternity & of eternal",
+        "markdown": "& he spa}}k{{e p}}l{{ai}}nly unto them {{that he had been deceived by thepower of the Devil & he spake of }} <​H{{e}}ll​> {{& of eternity & of eternal}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/74"
-      }
-    ]
-  },
-  {
-    "book": "jacob",
-    "chapter": 7,
-    "verse": 19,
-    "lines": [
-      {
-        "id": "74:18",
-        "page": 74,
-        "line": 18,
-        "text": "&",
-        "markdown": "eternity",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/74"
-      }
-    ]
-  },
-  {
-    "book": "jacob",
-    "chapter": 7,
-    "verse": 20,
-    "lines": [
-      {
-        "id": "74:18",
-        "page": 74,
-        "line": 18,
-        "text": "of eternal",
-        "markdown": "& of eternal}}",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/74"
-      }
-    ]
-  },
-  {
-    "book": "jacob",
-    "chapter": 7,
-    "verse": 23,
-    "lines": [
-      {
-        "id": "75:1",
-        "page": 75,
-        "line": 1,
-        "text": "to",
-        "markdown": "{{to",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/75"
       }
     ]
   },
@@ -528,12 +476,12 @@
         "id": "75:1",
         "page": 75,
         "line": 1,
-        "text": "the knowledge of the truth but it all were vain for they delighted ",
-        "markdown": "the knowledge of the tru}}th but it all were vain for they delighted ",
+        "text": "to the knowledge of the truth but it all were vain for they delighted ",
+        "markdown": "{{to the knowledge of the tru}}th but it all were vain for they delighted ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/75"
       },
       {
-        "id": "75:2",
+        "id": "75:2a",
         "page": 75,
         "line": 2,
         "text": "in wars & bloodsheds & they had an eternal hatred against us their Brethren & they sought by the power of their arms to destroy us continually",
@@ -548,7 +496,7 @@
     "verse": 25,
     "lines": [
       {
-        "id": "75:2",
+        "id": "75:2b",
         "page": 75,
         "line": 2,
         "text": "wherefore the People of Nephi did fortify against them with their arms & with ",
@@ -564,7 +512,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/75"
       },
       {
-        "id": "75:4",
+        "id": "75:4a",
         "page": 75,
         "line": 4,
         "text": "re they became as yet conquerers of their enemies",
@@ -579,7 +527,7 @@
     "verse": 26,
     "lines": [
       {
-        "id": "75:4",
+        "id": "75:4b",
         "page": 75,
         "line": 4,
         "text": "& it came to pass that I Jacob began to be old & the record of this people being kept on the other plates of Nephi wherefore I conclude this record declareing that I havewritten according to the best of my knowledge by saying that the time ",
@@ -619,7 +567,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/75"
       },
       {
-        "id": "75:9",
+        "id": "75:9a",
         "page": 75,
         "line": 9,
         "text": "out our days",
@@ -634,7 +582,7 @@
     "verse": 27,
     "lines": [
       {
-        "id": "75:9",
+        "id": "75:9b",
         "page": 75,
         "line": 9,
         "text": "& I Jacob saw that I must soon go down to my grave ",

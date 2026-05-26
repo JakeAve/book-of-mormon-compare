@@ -5,6 +5,13 @@
     "verse": 1,
     "lines": [
       {
+        "id": "609:18",
+        "page": 609,
+        "line": 18,
+        "text": "CHAPTER II. ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/609"
+      },
+      {
         "id": "609:19",
         "page": 609,
         "line": 19,
@@ -19,7 +26,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/609"
       },
       {
-        "id": "609:21",
+        "id": "609:21a",
         "page": 609,
         "line": 21,
         "text": "hands upon them.",
@@ -33,7 +40,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "609:21",
+        "id": "609:21b",
         "page": 609,
         "line": 21,
         "text": "And he called them by name, say",
@@ -68,7 +75,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/609"
       },
       {
-        "id": "609:26",
+        "id": "609:26a",
         "page": 609,
         "line": 26,
         "text": "give it, for thus do mine apostles.",
@@ -82,7 +89,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "609:26",
+        "id": "609:26b",
         "page": 609,
         "line": 26,
         "text": "Now Christ spake ",
@@ -113,15 +120,8 @@
         "id": "609:30",
         "page": 609,
         "line": 30,
-        "text": "fell the Holy Ghost. ",
+        "text": "fell the Holy Ghost.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/609"
-      },
-      {
-        "id": "610:1",
-        "page": 610,
-        "line": 1,
-        "text": "CHAPTER III.",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/610"
       }
     ]
   }

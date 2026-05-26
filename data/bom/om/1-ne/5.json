@@ -5,6 +5,14 @@
     "verse": 1,
     "lines": [
       {
+        "id": "6:3b",
+        "page": 6,
+        "line": 3,
+        "text": "& it came to pass that after we had ",
+        "markdown": "& it came to pass that after [we] had ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/6"
+      },
+      {
         "id": "6:4",
         "page": 6,
         "line": 4,
@@ -15,8 +23,8 @@
         "id": "6:5",
         "page": 6,
         "line": 5,
-        "text": "He was filled <​ with​> joy and also my mother sariah was ",
-        "markdown": "He was filled <​~~joy~~ [with]​> joy and also my mother sariah was ",
+        "text": "He was filled with​> joy and also my mother sariah was ex ",
+        "markdown": "He was filled <​~~joy~~ [with]​> joy and also my mother sariah was ex ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/6"
       },
       {
@@ -70,7 +78,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/6"
       },
       {
-        "id": "6:12",
+        "id": "6:12a",
         "page": 6,
         "line": 12,
         "text": "Wilderness",
@@ -84,14 +92,14 @@
     "verse": 3,
     "lines": [
       {
-        "id": "6:12",
+        "id": "6:12b",
         "page": 6,
         "line": 12,
         "text": "and after this manner of language had my ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/6"
       },
       {
-        "id": "6:13",
+        "id": "6:13a",
         "page": 6,
         "line": 13,
         "text": "Mother complaind against my father",
@@ -105,7 +113,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "6:13",
+        "id": "6:13b",
         "page": 6,
         "line": 13,
         "text": "and it had came ",
@@ -142,7 +150,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/6"
       },
       {
-        "id": "6:18",
+        "id": "6:18a",
         "page": 6,
         "line": 18,
         "text": "Perrished with my brethren",
@@ -156,7 +164,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "6:18",
+        "id": "6:18b",
         "page": 6,
         "line": 18,
         "text": "but behold i have obtaind ",
@@ -184,7 +192,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/6"
       },
       {
-        "id": "6:22",
+        "id": "6:22a",
         "page": 6,
         "line": 22,
         "text": "unto us in the wilderness",
@@ -198,7 +206,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "6:22",
+        "id": "6:22b",
         "page": 6,
         "line": 22,
         "text": "and after this manner of language did ",
@@ -220,7 +228,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/6"
       },
       {
-        "id": "6:25",
+        "id": "6:25a",
         "page": 6,
         "line": 25,
         "text": "land of jerusalem to obtain the record of the jews",
@@ -234,7 +242,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "6:25",
+        "id": "6:25b",
         "page": 6,
         "line": 25,
         "text": "and ",
@@ -248,7 +256,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/6"
       },
       {
-        "id": "6:27",
+        "id": "6:27a",
         "page": 6,
         "line": 27,
         "text": "their joy was full and my mother was comforted",
@@ -262,7 +270,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "6:27",
+        "id": "6:27b",
         "page": 6,
         "line": 27,
         "text": "and she ",
@@ -313,7 +321,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/6"
       },
       {
-        "id": "6:34",
+        "id": "6:34a",
         "page": 6,
         "line": 34,
         "text": "this manner of language did she speak",
@@ -327,7 +335,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "6:34",
+        "id": "6:34b",
         "page": 6,
         "line": 34,
         "text": "and it came to pass ",
@@ -348,10 +356,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/6"
       },
       {
-        "id": "6:37",
+        "id": "6:37a",
         "page": 6,
         "line": 37,
-        "text": "unto the god of israel and",
+        "text": "unto the god of israel",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/6"
       }
     ]
@@ -362,10 +370,10 @@
     "verse": 10,
     "lines": [
       {
-        "id": "6:37",
+        "id": "6:37b",
         "page": 6,
         "line": 37,
-        "text": "after that they had given thanks ",
+        "text": "and after that they had given thanks ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/6"
       },
       {
@@ -383,7 +391,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/6"
       },
       {
-        "id": "6:40",
+        "id": "6:40a",
         "page": 6,
         "line": 40,
         "text": "he did search them from the beginning",
@@ -398,7 +406,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "6:40",
+        "id": "6:40b",
         "page": 6,
         "line": 40,
         "text": "and he beheld ",
@@ -420,10 +428,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/6"
       },
       {
-        "id": "6:43",
+        "id": "6:43a",
         "page": 6,
         "line": 43,
-        "text": "And Eve which was our first parants and",
+        "text": "And Eve which was our first parants",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/6"
       }
     ]
@@ -434,10 +442,10 @@
     "verse": 12,
     "lines": [
       {
-        "id": "6:43",
+        "id": "6:43b",
         "page": 6,
         "line": 43,
-        "text": "also a recor[d] of the jews ",
+        "text": "and also a recor[d] of the jews ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/6"
       },
       {
@@ -448,10 +456,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/6"
       },
       {
-        "id": "6:45",
+        "id": "6:45a",
         "page": 6,
         "line": 45,
-        "text": "the Rein of Zedeciah king of juda and also the prophasies",
+        "text": "the Rein of Zedeciah king of juda",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/6"
       }
     ]
@@ -461,6 +469,13 @@
     "chapter": 5,
     "verse": 13,
     "lines": [
+      {
+        "id": "6:45b",
+        "page": 6,
+        "line": 45,
+        "text": "and also the prophasies ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/6"
+      },
       {
         "id": "6:46",
         "page": 6,
@@ -533,7 +548,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/7"
       },
       {
-        "id": "7:2",
+        "id": "7:2a",
         "page": 7,
         "line": 2,
         "text": "With fammin",
@@ -547,7 +562,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "7:2",
+        "id": "7:2b",
         "page": 7,
         "line": 2,
         "text": "and they ware also led out of captivity and out ",
@@ -583,7 +598,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/7"
       },
       {
-        "id": "7:6",
+        "id": "7:6a",
         "page": 7,
         "line": 6,
         "text": "his fathers had kept the records",
@@ -597,7 +612,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "7:6",
+        "id": "7:6b",
         "page": 7,
         "line": 6,
         "text": "and nnow when my father saw ",
@@ -612,7 +627,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/7"
       },
       {
-        "id": "7:8",
+        "id": "7:8a",
         "page": 7,
         "line": 8,
         "text": "prophesy conserning his seed",
@@ -626,7 +641,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "7:8",
+        "id": "7:8b",
         "page": 7,
         "line": 8,
         "text": "that these plate of brass ",
@@ -640,7 +655,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/7"
       },
       {
-        "id": "7:10",
+        "id": "7:10a",
         "page": 7,
         "line": 10,
         "text": "Which ware of his seed",
@@ -654,7 +669,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "7:10",
+        "id": "7:10b",
         "page": 7,
         "line": 10,
         "text": "wherefore he said that these plate ",
@@ -675,7 +690,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/7"
       },
       {
-        "id": "7:13",
+        "id": "7:13a",
         "page": 7,
         "line": 13,
         "text": "his seed",
@@ -689,7 +704,7 @@
     "verse": 20,
     "lines": [
       {
-        "id": "7:13",
+        "id": "7:13b",
         "page": 7,
         "line": 13,
         "text": "and it came to pass that thus far i and my father ",
@@ -703,7 +718,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/7"
       },
       {
-        "id": "7:15",
+        "id": "7:15a",
         "page": 7,
         "line": 15,
         "text": "manded us",
@@ -717,7 +732,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "7:15",
+        "id": "7:15b",
         "page": 7,
         "line": 15,
         "text": "and we had obtained the record which the lord ",
@@ -745,7 +760,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/7"
       },
       {
-        "id": "7:19",
+        "id": "7:19a",
         "page": 7,
         "line": 19,
         "text": "of the lord unto our children",
@@ -759,7 +774,7 @@
     "verse": 22,
     "lines": [
       {
-        "id": "7:19",
+        "id": "7:19b",
         "page": 7,
         "line": 19,
         "text": "wherefore it was wisdom ",
@@ -778,14 +793,7 @@
         "id": "7:21",
         "page": 7,
         "line": 21,
-        "text": "journied in the wilderness toward the land of prommis ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/7"
-      },
-      {
-        "id": "7:22",
-        "page": 7,
-        "line": 22,
-        "text": "Chapter 2nd.——",
+        "text": "journied in the wilderness toward the land of prommis",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/7"
       }
     ]

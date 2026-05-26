@@ -5,10 +5,10 @@
     "verse": 1,
     "lines": [
       {
-        "id": "62:22",
+        "id": "62:22a",
         "page": 62,
         "line": 22,
-        "text": "The words of Jacob the Brother of Nephi which he spake unto the People of Nephi beh",
+        "text": "The words of Jacob the Brother of Nephi which he spake unto the People of Nephi",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/62"
       }
     ]
@@ -18,6 +18,13 @@
     "chapter": 6,
     "verse": 2,
     "lines": [
+      {
+        "id": "62:22b",
+        "page": 62,
+        "line": 22,
+        "text": "beh",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/62"
+      },
       {
         "id": "62:23",
         "page": 62,
@@ -41,7 +48,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/62"
       },
       {
-        "id": "62:26",
+        "id": "62:26a",
         "page": 62,
         "line": 26,
         "text": "en unto you exceding many things",
@@ -55,7 +62,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "62:26",
+        "id": "62:26b",
         "page": 62,
         "line": 26,
         "text": "nevertheless I speak unto you again for I am desi",
@@ -83,7 +90,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/62"
       },
       {
-        "id": "62:30",
+        "id": "62:30a",
         "page": 62,
         "line": 30,
         "text": "are written from the creation of the world",
@@ -97,7 +104,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "62:30",
+        "id": "62:30b",
         "page": 62,
         "line": 30,
         "text": "& now behold I would speak unto you co",
@@ -125,7 +132,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/62"
       },
       {
-        "id": "62:34",
+        "id": "62:34a",
         "page": 62,
         "line": 34,
         "text": "the name of your God",
@@ -139,7 +146,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "62:34",
+        "id": "62:34b",
         "page": 62,
         "line": 34,
         "text": "& now the words which I shall read are they which Isaiah sp",
@@ -160,7 +167,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/62"
       },
       {
-        "id": "62:37",
+        "id": "62:37a",
         "page": 62,
         "line": 37,
         "text": "iah which may be likened unto you because that ye are of the house of Israel",
@@ -174,7 +181,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "62:37",
+        "id": "62:37b",
         "page": 62,
         "line": 37,
         "text": "& now ",
@@ -196,10 +203,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/63"
       },
       {
-        "id": "63:3",
+        "id": "63:3a",
         "page": 63,
         "line": 3,
-        "text": "their arms & thy daughters shall be carried upon their shoulders & Kings shall be thy",
+        "text": "their arms & thy daughters shall be carried upon their shoulders",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/63"
       }
     ]
@@ -209,6 +216,13 @@
     "chapter": 6,
     "verse": 7,
     "lines": [
+      {
+        "id": "63:3b",
+        "page": 63,
+        "line": 3,
+        "text": "& Kings shall be thy ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/63"
+      },
       {
         "id": "63:4",
         "page": 63,
@@ -224,7 +238,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/63"
       },
       {
-        "id": "63:6",
+        "id": "63:6a",
         "page": 63,
         "line": 6,
         "text": "at I am the Lord for they shall not be ashamed that wait for me",
@@ -238,7 +252,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "63:6",
+        "id": "63:6b",
         "page": 63,
         "line": 6,
         "text": "& now I Jacob ",
@@ -260,7 +274,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/63"
       },
       {
-        "id": "63:9",
+        "id": "63:9a",
         "page": 63,
         "line": 9,
         "text": "captive",
@@ -274,7 +288,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "63:9",
+        "id": "63:9b",
         "page": 63,
         "line": 9,
         "text": "nevertheless the Lord hath shewn unto me that they should return again & he ",
@@ -298,14 +312,7 @@
         "id": "63:12",
         "page": 63,
         "line": 12,
-        "text": "orge him & crucify him according to the words of the Angel which spake it unto me ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/63"
-      },
-      {
-        "id": "63:13",
-        "page": 63,
-        "line": 13,
-        "text": "&",
+        "text": "orge him & crucify him according to the words of the Angel which spake it unto me",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/63"
       }
     ]
@@ -319,7 +326,7 @@
         "id": "63:13",
         "page": 63,
         "line": 13,
-        "text": "after that they have hardened their hearts & stiffened their necks against the ho",
+        "text": "& after that they have hardened their hearts & stiffened their necks against the ho",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/63"
       },
       {
@@ -330,7 +337,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/63"
       },
       {
-        "id": "63:15",
+        "id": "63:15a",
         "page": 63,
         "line": 15,
         "text": "& the day cometh that they shall be smitten & afflicted",
@@ -344,7 +351,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "63:15",
+        "id": "63:15b",
         "page": 63,
         "line": 15,
         "text": "wherefore after they are driv",
@@ -379,7 +386,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/63"
       },
       {
-        "id": "63:20",
+        "id": "63:20a",
         "page": 63,
         "line": 20,
         "text": "ed together again to the lands of their inheritance",
@@ -393,7 +400,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "63:20",
+        "id": "63:20b",
         "page": 63,
         "line": 20,
         "text": "& blessed are the Gentiles ",
@@ -456,7 +463,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/63"
       },
       {
-        "id": "63:28",
+        "id": "63:28a",
         "page": 63,
         "line": 28,
         "text": "Messiah",
@@ -470,7 +477,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "63:28",
+        "id": "63:28b",
         "page": 63,
         "line": 28,
         "text": "& behold according to the words of the Prophet the Messiah will set hims",
@@ -492,7 +499,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/63"
       },
       {
-        "id": "63:31",
+        "id": "63:31a",
         "page": 63,
         "line": 31,
         "text": "they shall believe in him & none will he destroy that believeth in him",
@@ -506,7 +513,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "63:31",
+        "id": "63:31b",
         "page": 63,
         "line": 31,
         "text": "& they ",
@@ -527,7 +534,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/63"
       },
       {
-        "id": "63:34",
+        "id": "63:34a",
         "page": 63,
         "line": 34,
         "text": "rd is God the holy one of Israel",
@@ -541,14 +548,14 @@
     "verse": 16,
     "lines": [
       {
-        "id": "63:34",
+        "id": "63:34b",
         "page": 63,
         "line": 34,
         "text": "for shall the pray be taken from the mighty or the ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/63"
       },
       {
-        "id": "63:35",
+        "id": "63:35a",
         "page": 63,
         "line": 35,
         "text": "lawful captive delivered",
@@ -562,7 +569,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "63:35",
+        "id": "63:35b",
         "page": 63,
         "line": 35,
         "text": "but thus saith the Lord even the captives of the mi",
@@ -583,7 +590,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/63"
       },
       {
-        "id": "64:1",
+        "id": "64:1a",
         "page": 64,
         "line": 1,
         "text": "with them that contendeth with thee",
@@ -597,7 +604,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "64:1",
+        "id": "64:1b",
         "page": 64,
         "line": 1,
         "text": "& I will feed them that oppress thee ",
@@ -618,7 +625,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/64"
       },
       {
-        "id": "64:4",
+        "id": "64:4a",
         "page": 64,
         "line": 4,
         "text": "mighty one of Jacob",

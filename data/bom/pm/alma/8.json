@@ -5,6 +5,14 @@
     "verse": 1,
     "lines": [
       {
+        "id": "191:27",
+        "page": 191,
+        "line": 27,
+        "text": "Chapter 6th. ",
+        "markdown": "Chapter ~~3~~ 6th. ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/191"
+      },
+      {
         "id": "191:28",
         "page": 191,
         "line": 28,
@@ -34,7 +42,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/191"
       },
       {
-        "id": "191:32",
+        "id": "191:32a",
         "page": 191,
         "line": 32,
         "text": "from the labors which he had performed",
@@ -48,14 +56,14 @@
     "verse": 2,
     "lines": [
       {
-        "id": "191:32",
+        "id": "191:32b",
         "page": 191,
         "line": 32,
         "text": "and thus ended the ninth year of ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/191"
       },
       {
-        "id": "191:33",
+        "id": "191:33a",
         "page": 191,
         "line": 33,
         "text": "the Reign of the Judges over the people of Nephi,",
@@ -69,7 +77,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "191:33",
+        "id": "191:33b",
         "page": 191,
         "line": 33,
         "text": "and it came to pass in the ",
@@ -119,7 +127,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/192"
       },
       {
-        "id": "192:2",
+        "id": "192:2a",
         "page": 192,
         "line": 2,
         "text": "people throughout all the land of Melek",
@@ -133,7 +141,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "192:2",
+        "id": "192:2b",
         "page": 192,
         "line": 2,
         "text": "and it came to pass that the ",
@@ -175,7 +183,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/192"
       },
       {
-        "id": "192:7",
+        "id": "192:7a",
         "page": 192,
         "line": 7,
         "text": "came to a City which was called Ammonidah,",
@@ -189,7 +197,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "192:7",
+        "id": "192:7b",
         "page": 192,
         "line": 7,
         "text": "now it was the custom of ",
@@ -210,7 +218,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/192"
       },
       {
-        "id": "192:10",
+        "id": "192:10a",
         "page": 192,
         "line": 10,
         "text": "possesed them and thus it was with the land of Ammonidah",
@@ -224,7 +232,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "192:10",
+        "id": "192:10b",
         "page": 192,
         "line": 10,
         "text": "and it ",
@@ -238,7 +246,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/192"
       },
       {
-        "id": "192:12",
+        "id": "192:12a",
         "page": 192,
         "line": 12,
         "text": "he began to peach the word of God unto them,",
@@ -252,7 +260,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "192:12",
+        "id": "192:12b",
         "page": 192,
         "line": 12,
         "text": "now satan had got great ",
@@ -266,7 +274,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/192"
       },
       {
-        "id": "192:14",
+        "id": "192:14a",
         "page": 192,
         "line": 14,
         "text": "fore they would not hearken unto the words of Alma",
@@ -280,7 +288,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "192:14",
+        "id": "192:14b",
         "page": 192,
         "line": 14,
         "text": "nevertheless Alma ",
@@ -302,10 +310,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/192"
       },
       {
-        "id": "192:17",
+        "id": "192:17a",
         "page": 192,
         "line": 17,
-        "text": "he would also grant that he might Baptise them unto repentance neverthe",
+        "text": "he would also grant that he might Baptise them unto repentance",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/192"
       }
     ]
@@ -315,6 +323,13 @@
     "chapter": 8,
     "verse": 11,
     "lines": [
+      {
+        "id": "192:17b",
+        "page": 192,
+        "line": 17,
+        "text": "neverthe",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/192"
+      },
       {
         "id": "192:18",
         "page": 192,
@@ -345,7 +360,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/192"
       },
       {
-        "id": "192:22",
+        "id": "192:22a",
         "page": 192,
         "line": 22,
         "text": "hast no power over us and we do not believe in such foolish traditions",
@@ -359,7 +374,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "192:22",
+        "id": "192:22b",
         "page": 192,
         "line": 22,
         "text": "and ",
@@ -380,7 +395,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/192"
       },
       {
-        "id": "192:25",
+        "id": "192:25a",
         "page": 192,
         "line": 25,
         "text": "Nephiah therefore thou art not the Chief Judge over us",
@@ -394,7 +409,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "192:25",
+        "id": "192:25b",
         "page": 192,
         "line": 25,
         "text": "now When the ",
@@ -416,7 +431,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/192"
       },
       {
-        "id": "192:28",
+        "id": "192:28a",
         "page": 192,
         "line": 28,
         "text": "and took his journey towards the City which was Called Aaron,",
@@ -430,7 +445,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "192:28",
+        "id": "192:28b",
         "page": 192,
         "line": 28,
         "text": "and it came to pass ",
@@ -458,7 +473,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/192"
       },
       {
-        "id": "192:32",
+        "id": "192:32a",
         "page": 192,
         "line": 32,
         "text": "down with sorrow Behold an Angel of the Lord appeared unto him saying",
@@ -472,7 +487,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "192:32",
+        "id": "192:32b",
         "page": 192,
         "line": 32,
         "text": "Blessed ",
@@ -500,10 +515,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/192"
       },
       {
-        "id": "192:36",
+        "id": "192:36a",
         "page": 192,
         "line": 36,
-        "text": "vered it unto thee",
+        "text": "vered it unto",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/192"
       }
     ]
@@ -514,10 +529,10 @@
     "verse": 16,
     "lines": [
       {
-        "id": "192:36",
+        "id": "192:36b",
         "page": 192,
         "line": 36,
-        "text": "and behold I am sent to command thee that thou return to the City ",
+        "text": "thee and behold I am sent to command thee that thou return to the City ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/192"
       },
       {
@@ -528,7 +543,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/192"
       },
       {
-        "id": "193:1",
+        "id": "193:1a",
         "page": 193,
         "line": 1,
         "text": "say unto them except they repent the Lord God will destroy them",
@@ -542,7 +557,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "193:1",
+        "id": "193:1b",
         "page": 193,
         "line": 1,
         "text": "for behold they do studdy ",
@@ -564,7 +579,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/193"
       },
       {
-        "id": "193:4",
+        "id": "193:4a",
         "page": 193,
         "line": 4,
         "text": "his People,",
@@ -578,7 +593,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "193:4",
+        "id": "193:4b",
         "page": 193,
         "line": 4,
         "text": "now it came to pass that after Alma had received his message from the An",
@@ -599,10 +614,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/193"
       },
       {
-        "id": "193:7",
+        "id": "193:7a",
         "page": 193,
         "line": 7,
-        "text": "the City Ammonihah, and It came to",
+        "text": "the City Ammonihah,",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/193"
       }
     ]
@@ -613,17 +628,17 @@
     "verse": 19,
     "lines": [
       {
-        "id": "193:7",
+        "id": "193:7b",
         "page": 193,
         "line": 7,
-        "text": "pass that as he entered the City he was an hunger",
+        "text": "and It came to pass that as he entered the City he was an hunger",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/193"
       },
       {
-        "id": "193:8",
+        "id": "193:8a",
         "page": 193,
         "line": 8,
-        "text": "ed and he saith to a man will ye give to an humble servant of God something to eat",
+        "text": "ed and he saith to a man will ye give to an humble servant of God",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/193"
       }
     ]
@@ -633,6 +648,13 @@
     "chapter": 8,
     "verse": 20,
     "lines": [
+      {
+        "id": "193:8b",
+        "page": 193,
+        "line": 8,
+        "text": "something to eat ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/193"
+      },
       {
         "id": "193:9",
         "page": 193,
@@ -676,7 +698,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/193"
       },
       {
-        "id": "193:14",
+        "id": "193:14a",
         "page": 193,
         "line": 14,
         "text": "Called Amulek and he brought Bread and meat and sat before Alma",
@@ -690,7 +712,7 @@
     "verse": 22,
     "lines": [
       {
-        "id": "193:14",
+        "id": "193:14b",
         "page": 193,
         "line": 14,
         "text": "and it ",
@@ -704,7 +726,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/193"
       },
       {
-        "id": "193:16",
+        "id": "193:16a",
         "page": 193,
         "line": 16,
         "text": "house and he gave thanks unto God,",
@@ -718,7 +740,7 @@
     "verse": 23,
     "lines": [
       {
-        "id": "193:16",
+        "id": "193:16b",
         "page": 193,
         "line": 16,
         "text": "And after he had eat and was filled he saith ",
@@ -732,7 +754,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/193"
       },
       {
-        "id": "193:18",
+        "id": "193:18a",
         "page": 193,
         "line": 18,
         "text": "out the land,",
@@ -746,7 +768,7 @@
     "verse": 24,
     "lines": [
       {
-        "id": "193:18",
+        "id": "193:18b",
         "page": 193,
         "line": 18,
         "text": "And behold I have been called to Preach the word of God among all ",
@@ -767,7 +789,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/193"
       },
       {
-        "id": "193:21",
+        "id": "193:21a",
         "page": 193,
         "line": 21,
         "text": "back towards this land forever,",
@@ -781,7 +803,7 @@
     "verse": 25,
     "lines": [
       {
-        "id": "193:21",
+        "id": "193:21b",
         "page": 193,
         "line": 21,
         "text": "but behold I have been commanded that I sho",
@@ -795,7 +817,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/193"
       },
       {
-        "id": "193:23",
+        "id": "193:23a",
         "page": 193,
         "line": 23,
         "text": "concerning their iniquities",
@@ -809,17 +831,17 @@
     "verse": 26,
     "lines": [
       {
-        "id": "193:23",
+        "id": "193:23b",
         "page": 193,
         "line": 23,
         "text": "& now Amulek because thou hast fed me and took me in, ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/193"
       },
       {
-        "id": "193:24",
+        "id": "193:24a",
         "page": 193,
         "line": 24,
-        "text": "thou art blessed for I was an hungered for I had fasted many days, And it came",
+        "text": "thou art blessed for I was an hungered for I had fasted many days,",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/193"
       }
     ]
@@ -830,10 +852,10 @@
     "verse": 27,
     "lines": [
       {
-        "id": "193:24",
+        "id": "193:24b",
         "page": 193,
         "line": 24,
-        "text": "to ",
+        "text": "And it came to ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/193"
       },
       {
@@ -844,7 +866,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/193"
       },
       {
-        "id": "193:26",
+        "id": "193:26a",
         "page": 193,
         "line": 26,
         "text": "unto the people,",
@@ -858,14 +880,14 @@
     "verse": 28,
     "lines": [
       {
-        "id": "193:26",
+        "id": "193:26b",
         "page": 193,
         "line": 26,
         "text": "and it came to pass that the people did wax more gross in ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/193"
       },
       {
-        "id": "193:27",
+        "id": "193:27a",
         "page": 193,
         "line": 27,
         "text": "their iniquities,",
@@ -879,7 +901,7 @@
     "verse": 29,
     "lines": [
       {
-        "id": "193:27",
+        "id": "193:27b",
         "page": 193,
         "line": 27,
         "text": "and the word came to Alma saying go and also say unto my ser",
@@ -900,10 +922,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/193"
       },
       {
-        "id": "193:30",
+        "id": "193:30a",
         "page": 193,
         "line": 30,
-        "text": "turn my fierce anger away and it",
+        "text": "turn my fierce anger away",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/193"
       }
     ]
@@ -914,10 +936,10 @@
     "verse": 30,
     "lines": [
       {
-        "id": "193:30",
+        "id": "193:30b",
         "page": 193,
         "line": 30,
-        "text": "came to pass that Alma went forth and also ",
+        "text": "and it came to pass that Alma went forth and also ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/193"
       },
       {
@@ -928,7 +950,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/193"
       },
       {
-        "id": "193:32",
+        "id": "193:32a",
         "page": 193,
         "line": 32,
         "text": "were filled with the holy Ghost",
@@ -942,7 +964,7 @@
     "verse": 31,
     "lines": [
       {
-        "id": "193:32",
+        "id": "193:32b",
         "page": 193,
         "line": 32,
         "text": "and they had power given unto them in so much that they ",
@@ -970,7 +992,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/193"
       },
       {
-        "id": "193:36",
+        "id": "193:36a",
         "page": 193,
         "line": 36,
         "text": "them",
@@ -984,7 +1006,7 @@
     "verse": 32,
     "lines": [
       {
-        "id": "193:36",
+        "id": "193:36b",
         "page": 193,
         "line": 36,
         "text": "and it came to pass that they went forth and began to preach and to prop",
@@ -1001,15 +1023,8 @@
         "id": "193:38",
         "page": 193,
         "line": 38,
-        "text": "them—— ",
+        "text": "them——",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/193"
-      },
-      {
-        "id": "194:1",
-        "page": 194,
-        "line": 1,
-        "text": "Chapter 7th.",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/194"
       }
     ]
   }

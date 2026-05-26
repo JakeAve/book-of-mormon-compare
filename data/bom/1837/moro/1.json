@@ -47,7 +47,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/609"
       },
       {
-        "id": "609:6",
+        "id": "609:6a",
         "page": 609,
         "line": 6,
         "text": "ites, lest they should destroy me.",
@@ -61,7 +61,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "609:6",
+        "id": "609:6b",
         "page": 609,
         "line": 6,
         "text": "For behold, their ",
@@ -82,7 +82,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/609"
       },
       {
-        "id": "609:9",
+        "id": "609:9a",
         "page": 609,
         "line": 9,
         "text": "that will not deny the Christ.",
@@ -96,7 +96,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "609:9",
+        "id": "609:9b",
         "page": 609,
         "line": 9,
         "text": "And I, Moroni, will ",
@@ -110,10 +110,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/609"
       },
       {
-        "id": "609:11",
+        "id": "609:11a",
         "page": 609,
         "line": 11,
-        "text": "ever I can, for the safety of mine own life. Where",
+        "text": "ever I can, for the safety of mine own life.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/609"
       }
     ]
@@ -123,6 +123,13 @@
     "chapter": 1,
     "verse": 4,
     "lines": [
+      {
+        "id": "609:11b",
+        "page": 609,
+        "line": 11,
+        "text": "Where",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/609"
+      },
       {
         "id": "609:12",
         "page": 609,
@@ -162,14 +169,7 @@
         "id": "609:17",
         "page": 609,
         "line": 17,
-        "text": "of the Lord. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/609"
-      },
-      {
-        "id": "609:18",
-        "page": 609,
-        "line": 18,
-        "text": "CHAPTER II.",
+        "text": "of the Lord.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/609"
       }
     ]

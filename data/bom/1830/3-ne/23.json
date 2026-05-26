@@ -5,7 +5,7 @@
     "verse": 1,
     "lines": [
       {
-        "id": "508:30",
+        "id": "508:30b",
         "page": 508,
         "line": 30,
         "text": "And now ",
@@ -26,7 +26,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/508"
       },
       {
-        "id": "508:33",
+        "id": "508:33a",
         "page": 508,
         "line": 33,
         "text": "these things diligently: for great is the words of Isaiah.",
@@ -40,7 +40,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "508:33",
+        "id": "508:33b",
         "page": 508,
         "line": 33,
         "text": "For ",
@@ -61,7 +61,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/508"
       },
       {
-        "id": "508:36",
+        "id": "508:36a",
         "page": 508,
         "line": 36,
         "text": "that he must speak also to the Gentiles.",
@@ -75,7 +75,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "508:36",
+        "id": "508:36b",
         "page": 508,
         "line": 36,
         "text": "And all things that ",
@@ -89,7 +89,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/508"
       },
       {
-        "id": "508:38",
+        "id": "508:38a",
         "page": 508,
         "line": 38,
         "text": "which he spake.",
@@ -103,7 +103,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "508:38",
+        "id": "508:38b",
         "page": 508,
         "line": 38,
         "text": "Therefore give heed to my words: write ",
@@ -124,7 +124,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/508"
       },
       {
-        "id": "508:41",
+        "id": "508:41a",
         "page": 508,
         "line": 41,
         "text": "tiles.",
@@ -138,7 +138,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "508:41",
+        "id": "508:41b",
         "page": 508,
         "line": 41,
         "text": "And whosoever will hearken unto my words, and re",
@@ -155,15 +155,8 @@
         "id": "508:43",
         "page": 508,
         "line": 43,
-        "text": "prophets: for many there be that testify of these things. ",
+        "text": "prophets: for many there be that testify of these things.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/508"
-      },
-      {
-        "id": "509:1",
-        "page": 509,
-        "line": 1,
-        "text": "And now it came to pass that when Jesus had said these",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/509"
       }
     ]
   },
@@ -172,6 +165,13 @@
     "chapter": 23,
     "verse": 6,
     "lines": [
+      {
+        "id": "509:1",
+        "page": 509,
+        "line": 1,
+        "text": "And now it came to pass that when Jesus had said these ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/509"
+      },
       {
         "id": "509:2",
         "page": 509,
@@ -194,7 +194,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/509"
       },
       {
-        "id": "509:5",
+        "id": "509:5a",
         "page": 509,
         "line": 5,
         "text": "write, that ye have not.",
@@ -208,14 +208,14 @@
     "verse": 7,
     "lines": [
       {
-        "id": "509:5",
+        "id": "509:5b",
         "page": 509,
         "line": 5,
         "text": "And it came to pass that he saith ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/509"
       },
       {
-        "id": "509:6",
+        "id": "509:6a",
         "page": 509,
         "line": 6,
         "text": "unto Nephi, Bring forth the record which ye have kept.",
@@ -229,7 +229,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "509:6",
+        "id": "509:6b",
         "page": 509,
         "line": 6,
         "text": "And ",
@@ -243,10 +243,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/509"
       },
       {
-        "id": "509:8",
+        "id": "509:8a",
         "page": 509,
         "line": 8,
-        "text": "fore him, he cast his eyes upon them, and saith,",
+        "text": "fore him, he cast his eyes upon them, and",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/509"
       }
     ]
@@ -257,10 +257,10 @@
     "verse": 9,
     "lines": [
       {
-        "id": "509:8",
+        "id": "509:8b",
         "page": 509,
         "line": 8,
-        "text": "Verily, I ",
+        "text": "saith, Verily, I ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/509"
       },
       {
@@ -299,7 +299,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/509"
       },
       {
-        "id": "509:14",
+        "id": "509:14a",
         "page": 509,
         "line": 14,
         "text": "saith unto them, Were it not so?",
@@ -313,7 +313,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "509:14",
+        "id": "509:14b",
         "page": 509,
         "line": 14,
         "text": "And his disciples answered ",
@@ -327,7 +327,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/509"
       },
       {
-        "id": "509:16",
+        "id": "509:16a",
         "page": 509,
         "line": 16,
         "text": "thy words, and they were all fulfilled.",
@@ -341,7 +341,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "509:16",
+        "id": "509:16b",
         "page": 509,
         "line": 16,
         "text": "And Jesus saith unto ",
@@ -362,7 +362,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/509"
       },
       {
-        "id": "509:19",
+        "id": "509:19a",
         "page": 509,
         "line": 19,
         "text": "them?",
@@ -376,14 +376,14 @@
     "verse": 12,
     "lines": [
       {
-        "id": "509:19",
+        "id": "509:19b",
         "page": 509,
         "line": 19,
         "text": "And it came to pass that Nephi remembered that this ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/509"
       },
       {
-        "id": "509:20",
+        "id": "509:20a",
         "page": 509,
         "line": 20,
         "text": "thing had not been written.",
@@ -397,7 +397,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "509:20",
+        "id": "509:20b",
         "page": 509,
         "line": 20,
         "text": "And it came to pass that Jesus ",
@@ -414,14 +414,7 @@
         "id": "509:22",
         "page": 509,
         "line": 22,
-        "text": "according as he commanded. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/509"
-      },
-      {
-        "id": "509:23",
-        "page": 509,
-        "line": 23,
-        "text": "CHAPTER XI.",
+        "text": "according as he commanded.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/509"
       }
     ]
@@ -431,6 +424,13 @@
     "chapter": 23,
     "verse": 14,
     "lines": [
+      {
+        "id": "509:23",
+        "page": 509,
+        "line": 23,
+        "text": "CHAPTER XI. ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/509"
+      },
       {
         "id": "509:24",
         "page": 509,
@@ -453,7 +453,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/509"
       },
       {
-        "id": "509:27",
+        "id": "509:27a",
         "page": 509,
         "line": 27,
         "text": "pounded unto them.",

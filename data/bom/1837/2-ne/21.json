@@ -12,7 +12,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/109"
       },
       {
-        "id": "109:2",
+        "id": "109:2a",
         "page": 109,
         "line": 2,
         "text": "Jesse, and a branch shall grow out of his roots;",
@@ -26,7 +26,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "109:2",
+        "id": "109:2b",
         "page": 109,
         "line": 2,
         "text": "and ",
@@ -54,7 +54,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/109"
       },
       {
-        "id": "109:6",
+        "id": "109:6a",
         "page": 109,
         "line": 6,
         "text": "the Lord;",
@@ -68,7 +68,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "109:6",
+        "id": "109:6b",
         "page": 109,
         "line": 6,
         "text": "and shall make him of quick understanding ",
@@ -89,7 +89,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/109"
       },
       {
-        "id": "109:9",
+        "id": "109:9a",
         "page": 109,
         "line": 9,
         "text": "of his ears:",
@@ -103,7 +103,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "109:9",
+        "id": "109:9b",
         "page": 109,
         "line": 9,
         "text": "but with righteousness shall he judge the ",
@@ -131,7 +131,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/109"
       },
       {
-        "id": "109:13",
+        "id": "109:13a",
         "page": 109,
         "line": 13,
         "text": "the wicked.",
@@ -145,14 +145,14 @@
     "verse": 5,
     "lines": [
       {
-        "id": "109:13",
+        "id": "109:13b",
         "page": 109,
         "line": 13,
         "text": "And righteousness shall be the girdle of ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/109"
       },
       {
-        "id": "109:14",
+        "id": "109:14a",
         "page": 109,
         "line": 14,
         "text": "his loins, and faithfulness the girdle of his reins.",
@@ -166,7 +166,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "109:14",
+        "id": "109:14b",
         "page": 109,
         "line": 14,
         "text": "The ",
@@ -176,16 +176,9 @@
         "id": "109:15",
         "page": 109,
         "line": 15,
-        "text": "wolf also shall dwell with the lamb, and the leopard",
+        "text": "wolf also shall dwell with the lamb, and the leopard ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/109"
-      }
-    ]
-  },
-  {
-    "book": "2-ne",
-    "chapter": 21,
-    "verse": 7,
-    "lines": [
+      },
       {
         "id": "109:16",
         "page": 109,
@@ -201,10 +194,24 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/109"
       },
       {
-        "id": "109:18",
+        "id": "109:18a",
         "page": 109,
         "line": 18,
-        "text": "lead them. And the cow and the bear shall feed; ",
+        "text": "lead them.",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/109"
+      }
+    ]
+  },
+  {
+    "book": "2-ne",
+    "chapter": 21,
+    "verse": 7,
+    "lines": [
+      {
+        "id": "109:18b",
+        "page": 109,
+        "line": 18,
+        "text": "And the cow and the bear shall feed; ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/109"
       },
       {
@@ -215,10 +222,24 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/109"
       },
       {
-        "id": "109:20",
+        "id": "109:20a",
         "page": 109,
         "line": 20,
-        "text": "shall eat straw like the ox. And the sucking child ",
+        "text": "shall eat straw like the ox.",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/109"
+      }
+    ]
+  },
+  {
+    "book": "2-ne",
+    "chapter": 21,
+    "verse": 8,
+    "lines": [
+      {
+        "id": "109:20b",
+        "page": 109,
+        "line": 20,
+        "text": "And the sucking child ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/109"
       },
       {
@@ -229,17 +250,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/109"
       },
       {
-        "id": "109:22",
+        "id": "109:22a",
         "page": 109,
         "line": 22,
-        "text": "shall put his hand on the cockatrice’s den. They shall ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/109"
-      },
-      {
-        "id": "109:23",
-        "page": 109,
-        "line": 23,
-        "text": "not hurt nor destroy in all my holy mountain: for the",
+        "text": "shall put his hand on the cockatrice’s den.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/109"
       }
     ]
@@ -249,6 +263,20 @@
     "chapter": 21,
     "verse": 9,
     "lines": [
+      {
+        "id": "109:22b",
+        "page": 109,
+        "line": 22,
+        "text": "They shall ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/109"
+      },
+      {
+        "id": "109:23",
+        "page": 109,
+        "line": 23,
+        "text": "not hurt nor destroy in all my holy mountain: for the ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/109"
+      },
       {
         "id": "109:24",
         "page": 109,
@@ -285,7 +313,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/109"
       },
       {
-        "id": "109:28",
+        "id": "109:28a",
         "page": 109,
         "line": 28,
         "text": "Gentiles seek: and his rest shall be glorious.",
@@ -299,7 +327,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "109:28",
+        "id": "109:28b",
         "page": 109,
         "line": 28,
         "text": "And it ",
@@ -341,7 +369,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/109"
       },
       {
-        "id": "109:34",
+        "id": "109:34a",
         "page": 109,
         "line": 34,
         "text": "from the islands of the sea.",
@@ -355,7 +383,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "109:34",
+        "id": "109:34b",
         "page": 109,
         "line": 34,
         "text": "And he shall set up an ",
@@ -376,7 +404,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/109"
       },
       {
-        "id": "109:37",
+        "id": "109:37a",
         "page": 109,
         "line": 37,
         "text": "from the four corners of the earth.",
@@ -390,7 +418,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "109:37",
+        "id": "109:37b",
         "page": 109,
         "line": 37,
         "text": "The envy of Eph",
@@ -411,7 +439,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/109"
       },
       {
-        "id": "109:40",
+        "id": "109:40a",
         "page": 109,
         "line": 40,
         "text": "Judah shall not vex Ephraim.",
@@ -425,7 +453,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "109:40",
+        "id": "109:40b",
         "page": 109,
         "line": 40,
         "text": "But they shall fly up",
@@ -453,7 +481,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/109"
       },
       {
-        "id": "109:44",
+        "id": "109:44a",
         "page": 109,
         "line": 44,
         "text": "of Ammon shall obey them.",
@@ -467,7 +495,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "109:44",
+        "id": "109:44b",
         "page": 109,
         "line": 44,
         "text": "And the Lord shall ut",
@@ -495,7 +523,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/109"
       },
       {
-        "id": "110:1",
+        "id": "110:1a",
         "page": 110,
         "line": 1,
         "text": "men go over dry shod.",
@@ -509,7 +537,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "110:1",
+        "id": "110:1b",
         "page": 110,
         "line": 1,
         "text": "And there shall be a highway ",

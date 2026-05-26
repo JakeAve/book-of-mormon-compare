@@ -5,7 +5,23 @@
     "verse": 3,
     "lines": [
       {
-        "id": "216:1",
+        "id": "215:5b",
+        "page": 215,
+        "line": 5,
+        "text": "began ",
+        "markdown": "began }} ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/215"
+      },
+      {
+        "id": "215:6",
+        "page": 215,
+        "line": 6,
+        "text": "Chapter ",
+        "markdown": "Chapter {{}} ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/215"
+      },
+      {
+        "id": "216:1a",
         "page": 216,
         "line": 1,
         "text": "are disputations among the People concerning this matter",
@@ -20,7 +36,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "216:1",
+        "id": "216:1b",
         "page": 216,
         "line": 1,
         "text": "& the Lord saidunto them verily verily I say unto you why is it that the People should murmur & dispute because of this thing",
@@ -35,7 +51,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "216:1",
+        "id": "216:1c",
         "page": 216,
         "line": 1,
         "text": "have they not read the Scri",
@@ -50,7 +66,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/216"
       },
       {
-        "id": "216:3",
+        "id": "216:3a",
         "page": 216,
         "line": 3,
         "text": "my name for by this name shall ye be called at the last day",
@@ -65,7 +81,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "216:3",
+        "id": "216:3b",
         "page": 216,
         "line": 3,
         "text": "& whoso taketh ",
@@ -81,7 +97,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/216"
       },
       {
-        "id": "216:5",
+        "id": "216:5a",
         "page": 216,
         "line": 5,
         "text": "last day",
@@ -96,25 +112,11 @@
     "verse": 7,
     "lines": [
       {
-        "id": "216:5",
+        "id": "216:5b",
         "page": 216,
         "line": 5,
-        "text": "therefore whatsoever ye shall do ye shall do it",
-        "markdown": "therefore whatsoever ye sha}}ll d{{o}} ye shall do it",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/216"
-      }
-    ]
-  },
-  {
-    "book": "3-ne",
-    "chapter": 27,
-    "verse": 9,
-    "lines": [
-      {
-        "id": "216:5",
-        "page": 216,
-        "line": 5,
-        "text": "in my name ther",
+        "text": "therefore whatsoever ye shall do ye shall do it in my",
+        "markdown": "therefore whatsoever ye sha}}ll d{{o}} ye shall do it in my",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/216"
       }
     ]

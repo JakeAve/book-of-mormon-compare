@@ -5,15 +5,15 @@
     "verse": 1,
     "lines": [
       {
-        "id": "72:17",
+        "id": "72:17b",
         "page": 72,
         "line": 17,
-        "text": "the word that Isaiah the Son of <​ Amoz​> saw concerning ",
-        "markdown": "the word that Isaiah the Son of ~~Amoz~~ <​~~Amoz~~ Amoz​> saw concerning ",
+        "text": "the word that Isaiah the Son of Amoz​> saw concerning Judah ",
+        "markdown": "the word that Isaiah the Son of ~~Amoz~~ <​~~Amoz~~ Amoz​> saw concerning Judah ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/72"
       },
       {
-        "id": "72:18",
+        "id": "72:18a",
         "page": 72,
         "line": 18,
         "text": "& Jerusalem",
@@ -27,7 +27,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "72:18",
+        "id": "72:18b",
         "page": 72,
         "line": 18,
         "text": "& it shall come to pass in the last days when the mountain of the ",
@@ -41,7 +41,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/72"
       },
       {
-        "id": "72:20",
+        "id": "72:20a",
         "page": 72,
         "line": 20,
         "text": "ed above the hills & all Nations shall flow unto it",
@@ -56,7 +56,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "72:20",
+        "id": "72:20b",
         "page": 72,
         "line": 20,
         "text": "& many People shall go & say come ",
@@ -77,7 +77,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/72"
       },
       {
-        "id": "72:23",
+        "id": "72:23a",
         "page": 72,
         "line": 23,
         "text": "w & the word of the Lord from Jerusalem",
@@ -91,7 +91,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "72:23",
+        "id": "72:23b",
         "page": 72,
         "line": 23,
         "text": "& he shall Judge among the Nations & shall ",
@@ -112,7 +112,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/72"
       },
       {
-        "id": "72:26",
+        "id": "72:26a",
         "page": 72,
         "line": 26,
         "text": "they learn war any more",
@@ -126,17 +126,17 @@
     "verse": 5,
     "lines": [
       {
-        "id": "72:26",
+        "id": "72:26b",
         "page": 72,
         "line": 26,
         "text": "O house of Jacob come ye & let us walk in the light of ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/72"
       },
       {
-        "id": "72:27",
+        "id": "72:27a",
         "page": 72,
         "line": 27,
-        "text": "the Lord yea come for ye have all gone astray every one to his wicked ways ther",
+        "text": "the Lord yea come for ye have all gone astray every one to his wicked ways",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/72"
       }
     ]
@@ -146,6 +146,13 @@
     "chapter": 12,
     "verse": 6,
     "lines": [
+      {
+        "id": "72:27b",
+        "page": 72,
+        "line": 27,
+        "text": "ther",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/72"
+      },
       {
         "id": "72:28",
         "page": 72,
@@ -161,7 +168,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/72"
       },
       {
-        "id": "72:30",
+        "id": "72:30a",
         "page": 72,
         "line": 30,
         "text": "emselves in the children of strangers",
@@ -175,7 +182,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "72:30",
+        "id": "72:30b",
         "page": 72,
         "line": 30,
         "text": "their land also is full of silver & Gold nei",
@@ -189,7 +196,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/72"
       },
       {
-        "id": "72:32",
+        "id": "72:32a",
         "page": 72,
         "line": 32,
         "text": "there any end of their Charriots",
@@ -203,14 +210,14 @@
     "verse": 8,
     "lines": [
       {
-        "id": "72:32",
+        "id": "72:32b",
         "page": 72,
         "line": 32,
         "text": "their land also is full of Idols they worship the w",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/72"
       },
       {
-        "id": "72:33",
+        "id": "72:33a",
         "page": 72,
         "line": 33,
         "text": "ork of their own hands that which their own fingers have made",
@@ -224,7 +231,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "72:33",
+        "id": "72:33b",
         "page": 72,
         "line": 33,
         "text": "& the mean m ",
@@ -238,7 +245,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/72"
       },
       {
-        "id": "72:35",
+        "id": "72:35a",
         "page": 72,
         "line": 35,
         "text": "not",
@@ -252,14 +259,14 @@
     "verse": 10,
     "lines": [
       {
-        "id": "72:35",
+        "id": "72:35b",
         "page": 72,
         "line": 35,
         "text": "O ye wicked Ones enter into the rock & hide thee in the dust for the fea",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/72"
       },
       {
-        "id": "72:36",
+        "id": "72:36a",
         "page": 72,
         "line": 36,
         "text": "r of the Lord & the glory of his magesty shall smite thee",
@@ -273,7 +280,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "72:36",
+        "id": "72:36b",
         "page": 72,
         "line": 36,
         "text": "& it shall come to pass ",
@@ -287,7 +294,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/72"
       },
       {
-        "id": "73:1",
+        "id": "73:1a",
         "page": 73,
         "line": 1,
         "text": "be bowed down & the Lord alone shall be exhalted in that day",
@@ -301,7 +308,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "73:1",
+        "id": "73:1b",
         "page": 73,
         "line": 1,
         "text": "for the day of the ",
@@ -316,7 +323,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/73"
       },
       {
-        "id": "73:3",
+        "id": "73:3a",
         "page": 73,
         "line": 3,
         "text": "& lofty & upon every one which is lifted up & he shall be brought low",
@@ -330,7 +337,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "73:3",
+        "id": "73:3b",
         "page": 73,
         "line": 3,
         "text": "yea & the ",
@@ -344,7 +351,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/73"
       },
       {
-        "id": "73:5",
+        "id": "73:5a",
         "page": 73,
         "line": 5,
         "text": "up & upon all the oaks of Bashan",
@@ -358,14 +365,14 @@
     "verse": 14,
     "lines": [
       {
-        "id": "73:5",
+        "id": "73:5b",
         "page": 73,
         "line": 5,
         "text": "& upon all the high mountains & upon all the hills ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/73"
       },
       {
-        "id": "73:6",
+        "id": "73:6a",
         "page": 73,
         "line": 6,
         "text": "& upon all the Nations which are lifted up & upon every People",
@@ -379,14 +386,14 @@
     "verse": 15,
     "lines": [
       {
-        "id": "73:6",
+        "id": "73:6b",
         "page": 73,
         "line": 6,
         "text": "& upon every high to",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/73"
       },
       {
-        "id": "73:7",
+        "id": "73:7a",
         "page": 73,
         "line": 7,
         "text": "wer & upon every fenced wall",
@@ -400,14 +407,14 @@
     "verse": 16,
     "lines": [
       {
-        "id": "73:7",
+        "id": "73:7b",
         "page": 73,
         "line": 7,
         "text": "& upon all the ships of the Sea & upon all the Ships ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/73"
       },
       {
-        "id": "73:8",
+        "id": "73:8a",
         "page": 73,
         "line": 8,
         "text": "of Tarshish & upon all the pleasant pictures",
@@ -421,7 +428,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "73:8",
+        "id": "73:8b",
         "page": 73,
         "line": 8,
         "text": "& the loftiness of man shall be bowed down ",
@@ -435,7 +442,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/73"
       },
       {
-        "id": "73:10",
+        "id": "73:10a",
         "page": 73,
         "line": 10,
         "text": "that day",
@@ -449,7 +456,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "73:10",
+        "id": "73:10b",
         "page": 73,
         "line": 10,
         "text": "& the Idols he shall utterly abolish",
@@ -463,7 +470,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "73:10",
+        "id": "73:10c",
         "page": 73,
         "line": 10,
         "text": "& they shall go into the holes of the ro",
@@ -498,7 +505,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/73"
       },
       {
-        "id": "73:14",
+        "id": "73:14a",
         "page": 73,
         "line": 14,
         "text": "made for himself to worship to the moles & to the Bats",
@@ -512,7 +519,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "73:14",
+        "id": "73:14b",
         "page": 73,
         "line": 14,
         "text": "to go into the clefts of the ro",
@@ -547,7 +554,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/73"
       },
       {
-        "id": "73:18",
+        "id": "73:18a",
         "page": 73,
         "line": 18,
         "text": "of",

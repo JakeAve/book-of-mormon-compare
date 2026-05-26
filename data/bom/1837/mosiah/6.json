@@ -5,6 +5,13 @@
     "verse": 1,
     "lines": [
       {
+        "id": "182:14",
+        "page": 182,
+        "line": 14,
+        "text": "CHAPTER IV. ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/182"
+      },
+      {
         "id": "182:15",
         "page": 182,
         "line": 15,
@@ -26,17 +33,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/182"
       },
       {
-        "id": "182:18",
+        "id": "182:18a",
         "page": 182,
         "line": 18,
-        "text": "into a covenant with God, to keep his command",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/182"
-      },
-      {
-        "id": "182:19",
-        "page": 182,
-        "line": 19,
-        "text": "ments.",
+        "text": "into a covenant with God, to keep his",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/182"
       }
     ]
@@ -47,10 +47,17 @@
     "verse": 2,
     "lines": [
       {
+        "id": "182:18b",
+        "page": 182,
+        "line": 18,
+        "text": "command ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/182"
+      },
+      {
         "id": "182:19",
         "page": 182,
         "line": 19,
-        "text": "And it came to pass that there was not one ",
+        "text": "ments. And it came to pass that there was not one ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/182"
       },
       {
@@ -68,7 +75,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/182"
       },
       {
-        "id": "182:22",
+        "id": "182:22a",
         "page": 182,
         "line": 22,
         "text": "name of Christ.",
@@ -82,7 +89,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "182:22",
+        "id": "182:22b",
         "page": 182,
         "line": 22,
         "text": "And again: It came to pass that ",
@@ -187,7 +194,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/182"
       },
       {
-        "id": "182:36",
+        "id": "182:36a",
         "page": 182,
         "line": 36,
         "text": "six years from the time that Lehi left Jerusalem.",
@@ -201,14 +208,14 @@
     "verse": 5,
     "lines": [
       {
-        "id": "182:36",
+        "id": "182:36b",
         "page": 182,
         "line": 36,
         "text": "And ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/182"
       },
       {
-        "id": "182:37",
+        "id": "182:37a",
         "page": 182,
         "line": 37,
         "text": "king Benjamin lived three years, and he died.",
@@ -222,7 +229,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "182:37",
+        "id": "182:37b",
         "page": 182,
         "line": 37,
         "text": "And it ",

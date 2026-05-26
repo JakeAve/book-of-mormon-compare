@@ -5,6 +5,13 @@
     "verse": 1,
     "lines": [
       {
+        "id": "22:21",
+        "page": 22,
+        "line": 21,
+        "text": "CHAPTER II. ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/22"
+      },
+      {
         "id": "22:22",
         "page": 22,
         "line": 22,
@@ -54,7 +61,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/22"
       },
       {
-        "id": "22:28",
+        "id": "22:28a",
         "page": 22,
         "line": 28,
         "text": "Joseph.",
@@ -68,7 +75,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "22:28",
+        "id": "22:28b",
         "page": 22,
         "line": 28,
         "text": "And it mattereth not to me that I am par",
@@ -96,7 +103,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/22"
       },
       {
-        "id": "22:32",
+        "id": "22:32a",
         "page": 22,
         "line": 32,
         "text": "God.",
@@ -110,7 +117,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "22:32",
+        "id": "22:32b",
         "page": 22,
         "line": 32,
         "text": "For the fullness of mine intent is that I may ",

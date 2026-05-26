@@ -5,11 +5,11 @@
     "verse": 1,
     "lines": [
       {
-        "id": "204:36",
+        "id": "204:36b",
         "page": 204,
         "line": 36,
-        "text": "and again my Brethren I would Cite your minds forward to the time which the ",
-        "markdown": "and again my Brethren I would Cite your minds forward~~s~~ to the time which the ",
+        "text": "your minds forward to the time which the ",
+        "markdown": "your minds forward~~s~~ to the time which the ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/204"
       },
       {
@@ -27,7 +27,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/204"
       },
       {
-        "id": "204:39",
+        "id": "204:39a",
         "page": 204,
         "line": 39,
         "text": "after the order of his Son to teach these things unto the people",
@@ -41,7 +41,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "204:39",
+        "id": "204:39b",
         "page": 204,
         "line": 39,
         "text": "and those Priests ",
@@ -55,7 +55,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/205"
       },
       {
-        "id": "205:2",
+        "id": "205:2a",
         "page": 205,
         "line": 2,
         "text": "might know in what manner to look forward to his Son for redemption",
@@ -69,7 +69,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "205:2",
+        "id": "205:2b",
         "page": 205,
         "line": 2,
         "text": "and this ",
@@ -111,7 +111,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/205"
       },
       {
-        "id": "205:8",
+        "id": "205:8a",
         "page": 205,
         "line": 8,
         "text": "with and according to a preparatory redemption for such",
@@ -125,7 +125,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "205:8",
+        "id": "205:8b",
         "page": 205,
         "line": 8,
         "text": "and thus they having ",
@@ -154,7 +154,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/205"
       },
       {
-        "id": "205:12",
+        "id": "205:12a",
         "page": 205,
         "line": 12,
         "text": "privilege as their Brethren",
@@ -168,7 +168,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "205:12",
+        "id": "205:12b",
         "page": 205,
         "line": 12,
         "text": "or in fine in the first place they were on the same ",
@@ -189,7 +189,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/205"
       },
       {
-        "id": "205:15",
+        "id": "205:15a",
         "page": 205,
         "line": 15,
         "text": "through the atonement of the only begotten Son which was prepared",
@@ -203,7 +203,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "205:15",
+        "id": "205:15b",
         "page": 205,
         "line": 15,
         "text": "and thus ",
@@ -224,7 +224,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/205"
       },
       {
-        "id": "205:18",
+        "id": "205:18a",
         "page": 205,
         "line": 18,
         "text": "they also might enter into his rest",
@@ -238,7 +238,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "205:18",
+        "id": "205:18b",
         "page": 205,
         "line": 18,
         "text": "this highpriesthood being after the order of his son ",
@@ -259,7 +259,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/205"
       },
       {
-        "id": "205:21",
+        "id": "205:21a",
         "page": 205,
         "line": 21,
         "text": "according to his foreknowledge of all things",
@@ -273,7 +273,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "205:21",
+        "id": "205:21b",
         "page": 205,
         "line": 21,
         "text": "now they were ordained after this manner",
@@ -295,7 +295,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/205"
       },
       {
-        "id": "205:24",
+        "id": "205:24a",
         "page": 205,
         "line": 24,
         "text": "ce and high Priesthood is without beginning or end",
@@ -309,7 +309,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "205:24",
+        "id": "205:24b",
         "page": 205,
         "line": 24,
         "text": "thus they become high Priests ",
@@ -333,14 +333,7 @@
         "id": "205:27",
         "page": 205,
         "line": 27,
-        "text": "and thus it is Amen—— ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/205"
-      },
-      {
-        "id": "205:28",
-        "page": 205,
-        "line": 28,
-        "text": "Chapter 10th.",
+        "text": "and thus it is Amen——",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/205"
       }
     ]
@@ -350,6 +343,13 @@
     "chapter": 13,
     "verse": 10,
     "lines": [
+      {
+        "id": "205:28",
+        "page": 205,
+        "line": 28,
+        "text": "Chapter 10th. ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/205"
+      },
       {
         "id": "205:29",
         "page": 205,
@@ -393,7 +393,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/205"
       },
       {
-        "id": "205:34",
+        "id": "205:34a",
         "page": 205,
         "line": 34,
         "text": "ir garments were washed white through the blood of the Lamb",
@@ -407,7 +407,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "205:34",
+        "id": "205:34b",
         "page": 205,
         "line": 34,
         "text": "now ",
@@ -436,7 +436,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/205"
       },
       {
-        "id": "205:38",
+        "id": "205:38a",
         "page": 205,
         "line": 38,
         "text": "which were made pure and entered into the rest of the Lord their God,",
@@ -450,7 +450,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "205:38",
+        "id": "205:38b",
         "page": 205,
         "line": 38,
         "text": "and now my ",
@@ -464,7 +464,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/205"
       },
       {
-        "id": "205:40",
+        "id": "205:40a",
         "page": 205,
         "line": 40,
         "text": "forth fruit Mete for repentance that ye may also enter into that rest",
@@ -478,7 +478,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "205:40",
+        "id": "205:40b",
         "page": 205,
         "line": 40,
         "text": "yea ",
@@ -499,7 +499,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/206"
       },
       {
-        "id": "206:3",
+        "id": "206:3a",
         "page": 206,
         "line": 3,
         "text": "took upon him the high Priesthood forever.",
@@ -513,7 +513,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "206:3",
+        "id": "206:3b",
         "page": 206,
         "line": 3,
         "text": "and it was this same Mel ",
@@ -527,7 +527,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/206"
       },
       {
-        "id": "206:5",
+        "id": "206:5a",
         "page": 206,
         "line": 5,
         "text": "paid tithes of one tenth part of all he possessed.",
@@ -541,7 +541,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "206:5",
+        "id": "206:5b",
         "page": 206,
         "line": 5,
         "text": "now their ordinances were ",
@@ -569,7 +569,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/206"
       },
       {
-        "id": "206:9",
+        "id": "206:9a",
         "page": 206,
         "line": 9,
         "text": "ht enter into the rest of the Lord,",
@@ -584,7 +584,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "206:9",
+        "id": "206:9b",
         "page": 206,
         "line": 9,
         "text": "Now this Melchesidek was a King ",
@@ -605,7 +605,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/206"
       },
       {
-        "id": "206:12",
+        "id": "206:12a",
         "page": 206,
         "line": 12,
         "text": "manner of wickedness",
@@ -619,7 +619,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "206:12",
+        "id": "206:12b",
         "page": 206,
         "line": 12,
         "text": "but Melchesidek having exercised mighty faith ",
@@ -654,7 +654,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/206"
       },
       {
-        "id": "206:17",
+        "id": "206:17a",
         "page": 206,
         "line": 17,
         "text": "he did Reign under his Father.",
@@ -668,7 +668,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "206:17",
+        "id": "206:17b",
         "page": 206,
         "line": 17,
         "text": "now there were many before him and ",
@@ -682,7 +682,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/206"
       },
       {
-        "id": "206:19",
+        "id": "206:19a",
         "page": 206,
         "line": 19,
         "text": "they have more particularly made mention,",
@@ -696,7 +696,7 @@
     "verse": 20,
     "lines": [
       {
-        "id": "206:19",
+        "id": "206:19b",
         "page": 206,
         "line": 19,
         "text": "now I need not rehearse the ",
@@ -710,7 +710,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/206"
       },
       {
-        "id": "206:21",
+        "id": "206:21a",
         "page": 206,
         "line": 21,
         "text": "you if ye will arest them it shall be to your own destruction",
@@ -724,7 +724,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "206:21",
+        "id": "206:21b",
         "page": 206,
         "line": 21,
         "text": "& no",
@@ -788,7 +788,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/206"
       },
       {
-        "id": "206:29",
+        "id": "206:29a",
         "page": 206,
         "line": 29,
         "text": "they have come unto us",
@@ -802,7 +802,7 @@
     "verse": 23,
     "lines": [
       {
-        "id": "206:29",
+        "id": "206:29b",
         "page": 206,
         "line": 29,
         "text": "& they are made known unto us in plain terms that ",
@@ -823,7 +823,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/206"
       },
       {
-        "id": "206:32",
+        "id": "206:32a",
         "page": 206,
         "line": 32,
         "text": "have these glad tidings declared unto us in all parts of our vineyard",
@@ -837,7 +837,7 @@
     "verse": 24,
     "lines": [
       {
-        "id": "206:32",
+        "id": "206:32b",
         "page": 206,
         "line": 32,
         "text": "for ",
@@ -858,7 +858,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/206"
       },
       {
-        "id": "206:35",
+        "id": "206:35a",
         "page": 206,
         "line": 35,
         "text": "eive his word at the time of his coming in his glory",
@@ -872,7 +872,7 @@
     "verse": 25,
     "lines": [
       {
-        "id": "206:35",
+        "id": "206:35b",
         "page": 206,
         "line": 35,
         "text": "& now we only wait ",
@@ -929,7 +929,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/207"
       },
       {
-        "id": "207:4",
+        "id": "207:4a",
         "page": 207,
         "line": 4,
         "text": "according to the spirit of prophesy which was in them",
@@ -943,7 +943,7 @@
     "verse": 27,
     "lines": [
       {
-        "id": "207:4",
+        "id": "207:4b",
         "page": 207,
         "line": 4,
         "text": "& now my breth",
@@ -964,7 +964,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/207"
       },
       {
-        "id": "207:7",
+        "id": "207:7a",
         "page": 207,
         "line": 7,
         "text": "sins & not procrastinate the day of your repentance",
@@ -978,7 +978,7 @@
     "verse": 28,
     "lines": [
       {
-        "id": "207:7",
+        "id": "207:7b",
         "page": 207,
         "line": 7,
         "text": "but that ye would ",
@@ -1006,10 +1006,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/207"
       },
       {
-        "id": "207:11",
+        "id": "207:11a",
         "page": 207,
         "line": 11,
-        "text": "submissive patient full of love & all long suffering",
+        "text": "submissive patient full of love & all",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/207"
       }
     ]
@@ -1020,10 +1020,10 @@
     "verse": 29,
     "lines": [
       {
-        "id": "207:11",
+        "id": "207:11b",
         "page": 207,
         "line": 11,
-        "text": "having faith ",
+        "text": "long suffering having faith ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/207"
       },
       {
@@ -1041,7 +1041,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/207"
       },
       {
-        "id": "207:14",
+        "id": "207:14a",
         "page": 207,
         "line": 14,
         "text": "day & enter into his rest",
@@ -1055,7 +1055,7 @@
     "verse": 30,
     "lines": [
       {
-        "id": "207:14",
+        "id": "207:14b",
         "page": 207,
         "line": 14,
         "text": "& may the Lord grant unto you repentance that ",
@@ -1072,14 +1072,7 @@
         "id": "207:16",
         "page": 207,
         "line": 16,
-        "text": "nd down by the chains of hell that ye may not suffer the second death ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/207"
-      },
-      {
-        "id": "207:17",
-        "page": 207,
-        "line": 17,
-        "text": "& it came",
+        "text": "nd down by the chains of hell that ye may not suffer the second death",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/207"
       }
     ]
@@ -1093,14 +1086,14 @@
         "id": "207:17",
         "page": 207,
         "line": 17,
-        "text": "to pass that Alma spake many more words unto the People ",
+        "text": "& it came to pass that Alma spake many more words unto the People ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/207"
       },
       {
-        "id": "207:18",
+        "id": "207:18a",
         "page": 207,
         "line": 18,
-        "text": "which are not written in this Book & it came to pass that after he had made an",
+        "text": "which are not written in this Book",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/207"
       }
     ]

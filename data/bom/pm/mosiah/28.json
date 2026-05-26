@@ -5,6 +5,13 @@
     "verse": 1,
     "lines": [
       {
+        "id": "167:36",
+        "page": 167,
+        "line": 36,
+        "text": "Chapter 13 ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/167"
+      },
+      {
         "id": "168:1",
         "page": 168,
         "line": 1,
@@ -42,7 +49,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/168"
       },
       {
-        "id": "168:6",
+        "id": "168:6a",
         "page": 168,
         "line": 6,
         "text": "Might impart the word of god to their Bretheren the Lamonites",
@@ -56,7 +63,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "168:6",
+        "id": "168:6b",
         "page": 168,
         "line": 6,
         "text": "that ",
@@ -100,7 +107,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/168"
       },
       {
-        "id": "168:12",
+        "id": "168:12a",
         "page": 168,
         "line": 12,
         "text": "which the Lord their God hath given them.",
@@ -114,7 +121,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "168:12",
+        "id": "168:12b",
         "page": 168,
         "line": 12,
         "text": "now they were desirous that ",
@@ -171,7 +178,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/168"
       },
       {
-        "id": "168:19",
+        "id": "168:19a",
         "page": 168,
         "line": 19,
         "text": "& suffering much fearing that they should be cast off forever.",
@@ -185,7 +192,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "168:19",
+        "id": "168:19b",
         "page": 168,
         "line": 19,
         "text": "And it came ",
@@ -199,10 +206,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/168"
       },
       {
-        "id": "168:21",
+        "id": "168:21a",
         "page": 168,
         "line": 21,
-        "text": "go up to the land of Nephi, And it came to",
+        "text": "go up to the land of Nephi,",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/168"
       }
     ]
@@ -213,10 +220,10 @@
     "verse": 6,
     "lines": [
       {
-        "id": "168:21",
+        "id": "168:21b",
         "page": 168,
         "line": 21,
-        "text": "pass that King Mosiah went ",
+        "text": "And it came to pass that King Mosiah went ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/168"
       },
       {
@@ -227,7 +234,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/168"
       },
       {
-        "id": "168:23",
+        "id": "168:23a",
         "page": 168,
         "line": 23,
         "text": "to preach the word",
@@ -241,7 +248,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "168:23",
+        "id": "168:23b",
         "page": 168,
         "line": 23,
         "text": "& the Lord said unto Mosiah let them go up for ",
@@ -255,7 +262,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/168"
       },
       {
-        "id": "168:25",
+        "id": "168:25a",
         "page": 168,
         "line": 25,
         "text": "I will deliver thy Sons out of the hands of the Lamanites.",
@@ -269,7 +276,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "168:25",
+        "id": "168:25b",
         "page": 168,
         "line": 25,
         "text": "And it came ",
@@ -283,7 +290,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/168"
       },
       {
-        "id": "168:27",
+        "id": "168:27a",
         "page": 168,
         "line": 27,
         "text": "their request",
@@ -297,7 +304,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "168:27",
+        "id": "168:27b",
         "page": 168,
         "line": 27,
         "text": "& they took their Journey into the wilderness to go up ",
@@ -311,7 +318,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/168"
       },
       {
-        "id": "168:29",
+        "id": "168:29a",
         "page": 168,
         "line": 29,
         "text": "unt of their proceedings hereafter.",
@@ -325,7 +332,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "168:29",
+        "id": "168:29b",
         "page": 168,
         "line": 29,
         "text": "Now King Mosiah had no one ",
@@ -339,7 +346,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/168"
       },
       {
-        "id": "168:31",
+        "id": "168:31a",
         "page": 168,
         "line": 31,
         "text": "would accept of the Kingdom",
@@ -353,7 +360,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "168:31",
+        "id": "168:31b",
         "page": 168,
         "line": 31,
         "text": "therefore he took the reckords which ",
@@ -388,7 +395,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/168"
       },
       {
-        "id": "168:36",
+        "id": "168:36a",
         "page": 168,
         "line": 36,
         "text": "hi which was delivered to him by the hand of Limhi",
@@ -402,7 +409,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "168:36",
+        "id": "168:36b",
         "page": 168,
         "line": 36,
         "text": "and this he done ",
@@ -416,7 +423,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/169"
       },
       {
-        "id": "169:2",
+        "id": "169:2a",
         "page": 169,
         "line": 2,
         "text": "ure to know concerning those people which had been destroyed",
@@ -430,7 +437,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "169:2",
+        "id": "169:2b",
         "page": 169,
         "line": 2,
         "text": "& now he ",
@@ -444,7 +451,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/169"
       },
       {
-        "id": "169:4",
+        "id": "169:4a",
         "page": 169,
         "line": 4,
         "text": "the two Rims of a bow,",
@@ -458,7 +465,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "169:4",
+        "id": "169:4b",
         "page": 169,
         "line": 4,
         "text": "now these things was prepared from the beginning ",
@@ -472,7 +479,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/169"
       },
       {
-        "id": "169:6",
+        "id": "169:6a",
         "page": 169,
         "line": 6,
         "text": "rpreting Languages",
@@ -486,7 +493,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "169:6",
+        "id": "169:6b",
         "page": 169,
         "line": 6,
         "text": "& they have been kept & preserved by the hand of the ",
@@ -507,7 +514,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/169"
       },
       {
-        "id": "169:9",
+        "id": "169:9a",
         "page": 169,
         "line": 9,
         "text": "his people",
@@ -521,14 +528,14 @@
     "verse": 16,
     "lines": [
       {
-        "id": "169:9",
+        "id": "169:9b",
         "page": 169,
         "line": 9,
         "text": "& whosoever has the things is called Seer after the manner of old ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/169"
       },
       {
-        "id": "169:10",
+        "id": "169:10a",
         "page": 169,
         "line": 10,
         "text": "times,",
@@ -542,7 +549,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "169:10",
+        "id": "169:10b",
         "page": 169,
         "line": 10,
         "text": "Now after Mosiah had finished translating these records bohold it ",
@@ -578,7 +585,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/169"
       },
       {
-        "id": "169:15",
+        "id": "169:15a",
         "page": 169,
         "line": 15,
         "text": "of Adam,",
@@ -592,7 +599,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "169:15",
+        "id": "169:15b",
         "page": 169,
         "line": 15,
         "text": "now this account did cause the people of Mosiah to mourn ex",
@@ -606,7 +613,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/169"
       },
       {
-        "id": "169:17",
+        "id": "169:17a",
         "page": 169,
         "line": 17,
         "text": "h knowledge in the which they did rejoice",
@@ -620,7 +627,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "169:17",
+        "id": "169:17b",
         "page": 169,
         "line": 17,
         "text": "& this account shall be writ",
@@ -637,14 +644,7 @@
         "id": "169:19",
         "page": 169,
         "line": 19,
-        "text": "things which ore written in this account ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/169"
-      },
-      {
-        "id": "169:20",
-        "page": 169,
-        "line": 20,
-        "text": "Capter– 14th.",
+        "text": "things which ore written in this account",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/169"
       }
     ]
@@ -654,6 +654,13 @@
     "chapter": 28,
     "verse": 20,
     "lines": [
+      {
+        "id": "169:20",
+        "page": 169,
+        "line": 20,
+        "text": "Capter– 14th. ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/169"
+      },
       {
         "id": "169:21",
         "page": 169,
@@ -705,7 +712,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/169"
       },
       {
-        "id": "169:28",
+        "id": "169:28a",
         "page": 169,
         "line": 28,
         "text": "that Lehi Left Jeruselem",

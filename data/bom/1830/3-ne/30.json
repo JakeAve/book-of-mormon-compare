@@ -5,6 +5,13 @@
     "verse": 1,
     "lines": [
       {
+        "id": "519:29",
+        "page": 519,
+        "line": 29,
+        "text": "CHAPTER XIV. ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/519"
+      },
+      {
         "id": "519:30",
         "page": 519,
         "line": 30,
@@ -26,7 +33,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/519"
       },
       {
-        "id": "519:33",
+        "id": "519:33a",
         "page": 519,
         "line": 33,
         "text": "mandeth me that I should write, saying,",
@@ -40,7 +47,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "519:33",
+        "id": "519:33b",
         "page": 519,
         "line": 33,
         "text": "Turn, all ye Gen",
@@ -106,14 +113,7 @@
         "id": "520:3",
         "page": 520,
         "line": 3,
-        "text": "Israel. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/520"
-      },
-      {
-        "id": "520:4",
-        "page": 520,
-        "line": 4,
-        "text": "THE BOOK OF NEPHI,",
+        "text": "Israel.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/520"
       }
     ]

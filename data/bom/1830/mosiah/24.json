@@ -40,7 +40,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/211"
       },
       {
-        "id": "211:21",
+        "id": "211:21a",
         "page": 211,
         "line": 21,
         "text": "and in the land of Amulon:",
@@ -54,7 +54,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "211:21",
+        "id": "211:21b",
         "page": 211,
         "line": 21,
         "text": "for the Lamanites had taken pos",
@@ -68,7 +68,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/211"
       },
       {
-        "id": "211:23",
+        "id": "211:23a",
         "page": 211,
         "line": 23,
         "text": "had appointed kings over all these lands.",
@@ -82,7 +82,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "211:23",
+        "id": "211:23b",
         "page": 211,
         "line": 23,
         "text": "And now the name ",
@@ -103,7 +103,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/211"
       },
       {
-        "id": "211:26",
+        "id": "211:26a",
         "page": 211,
         "line": 26,
         "text": "And he was king over a numerous people;",
@@ -117,7 +117,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "211:26",
+        "id": "211:26b",
         "page": 211,
         "line": 26,
         "text": "and he appointed ",
@@ -138,7 +138,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/211"
       },
       {
-        "id": "211:29",
+        "id": "211:29a",
         "page": 211,
         "line": 29,
         "text": "gan to be taught among all the people of the Lamanites.",
@@ -152,7 +152,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "211:29",
+        "id": "211:29b",
         "page": 211,
         "line": 29,
         "text": "And ",
@@ -180,7 +180,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/211"
       },
       {
-        "id": "211:33",
+        "id": "211:33a",
         "page": 211,
         "line": 33,
         "text": "of Moses; nor did they teach them the words of Abinadi;",
@@ -194,7 +194,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "211:33",
+        "id": "211:33b",
         "page": 211,
         "line": 33,
         "text": "but ",
@@ -208,7 +208,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/211"
       },
       {
-        "id": "211:35",
+        "id": "211:35a",
         "page": 211,
         "line": 35,
         "text": "they might write one to another.",
@@ -222,7 +222,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "211:35",
+        "id": "211:35b",
         "page": 211,
         "line": 35,
         "text": "And thus the Lamanites be",
@@ -334,10 +334,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/212"
       },
       {
-        "id": "212:6",
+        "id": "212:6a",
         "page": 212,
         "line": 6,
-        "text": "task-masters over them. And",
+        "text": "task-masters over them.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/212"
       }
     ]
@@ -348,24 +348,17 @@
     "verse": 10,
     "lines": [
       {
-        "id": "212:6",
+        "id": "212:6b",
         "page": 212,
         "line": 6,
-        "text": "it came to pass that so great was ",
+        "text": "And it came to pass that so great was ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/212"
       },
       {
-        "id": "212:7",
+        "id": "212:7a",
         "page": 212,
         "line": 7,
-        "text": "their afflictions, that they began to cry mightily to God. And ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/212"
-      },
-      {
-        "id": "212:8",
-        "page": 212,
-        "line": 8,
-        "text": "it came",
+        "text": "their afflictions, that they began to cry mightily to God.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/212"
       }
     ]
@@ -376,10 +369,17 @@
     "verse": 11,
     "lines": [
       {
+        "id": "212:7b",
+        "page": 212,
+        "line": 7,
+        "text": "And ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/212"
+      },
+      {
         "id": "212:8",
         "page": 212,
         "line": 8,
-        "text": "to pass that Amulon commanded them that they should ",
+        "text": "it came to pass that Amulon commanded them that they should ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/212"
       },
       {
@@ -397,10 +397,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/212"
       },
       {
-        "id": "212:11",
+        "id": "212:11a",
         "page": 212,
         "line": 11,
-        "text": "to death. And it came to",
+        "text": "to death.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/212"
       }
     ]
@@ -411,10 +411,10 @@
     "verse": 12,
     "lines": [
       {
-        "id": "212:11",
+        "id": "212:11b",
         "page": 212,
         "line": 11,
-        "text": "pass that Alma and his people did ",
+        "text": "And it came to pass that Alma and his people did ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/212"
       },
       {
@@ -474,7 +474,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/212"
       },
       {
-        "id": "212:19",
+        "id": "212:19a",
         "page": 212,
         "line": 19,
         "text": "of bondage.",
@@ -488,7 +488,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "212:19",
+        "id": "212:19b",
         "page": 212,
         "line": 19,
         "text": "And I will also ease the burdens which is put up",
@@ -523,7 +523,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/212"
       },
       {
-        "id": "212:24",
+        "id": "212:24a",
         "page": 212,
         "line": 24,
         "text": "their afflictions.",
@@ -537,7 +537,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "212:24",
+        "id": "212:24b",
         "page": 212,
         "line": 24,
         "text": "And now it came to pass that the burdens ",
@@ -600,7 +600,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/212"
       },
       {
-        "id": "212:32",
+        "id": "212:32a",
         "page": 212,
         "line": 32,
         "text": "bondage.",
@@ -614,7 +614,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "212:32",
+        "id": "212:32b",
         "page": 212,
         "line": 32,
         "text": "And he saith unto Alma, Thou shalt go before this ",
@@ -684,10 +684,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/212"
       },
       {
-        "id": "212:40",
+        "id": "212:40a",
         "page": 212,
         "line": 40,
-        "text": "found sleep. And it came to",
+        "text": "found sleep.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/212"
       }
     ]
@@ -698,10 +698,10 @@
     "verse": 20,
     "lines": [
       {
-        "id": "212:40",
+        "id": "212:40b",
         "page": 212,
         "line": 40,
-        "text": "pass that Alma and his people ",
+        "text": "And it came to pass that Alma and his people ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/212"
       },
       {
@@ -719,7 +719,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/212"
       },
       {
-        "id": "212:43",
+        "id": "212:43a",
         "page": 212,
         "line": 43,
         "text": "Alma, because he led their way in the wilderness;",
@@ -733,7 +733,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "212:43",
+        "id": "212:43b",
         "page": 212,
         "line": 43,
         "text": "yea, and in ",
@@ -831,7 +831,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/213"
       },
       {
-        "id": "213:12",
+        "id": "213:12a",
         "page": 213,
         "line": 12,
         "text": "in pursuit of this people.",
@@ -845,7 +845,7 @@
     "verse": 24,
     "lines": [
       {
-        "id": "213:12",
+        "id": "213:12b",
         "page": 213,
         "line": 12,
         "text": "And it came to pass that they de",
@@ -859,10 +859,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/213"
       },
       {
-        "id": "213:14",
+        "id": "213:14a",
         "page": 213,
         "line": 14,
-        "text": "ness. And it came to",
+        "text": "ness.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/213"
       }
     ]
@@ -873,10 +873,10 @@
     "verse": 25,
     "lines": [
       {
-        "id": "213:14",
+        "id": "213:14b",
         "page": 213,
         "line": 14,
-        "text": "pass that after they had been in the wil",
+        "text": "And it came to pass that after they had been in the wil",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/213"
       },
       {
@@ -887,10 +887,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/213"
       },
       {
-        "id": "213:16",
+        "id": "213:16a",
         "page": 213,
         "line": 16,
-        "text": "and king Mosiah did also receive them with joy.",
+        "text": "and king Mosiah did also receive them",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/213"
       }
     ]

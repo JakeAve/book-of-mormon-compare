@@ -5,7 +5,7 @@
     "verse": 1,
     "lines": [
       {
-        "id": "223:10",
+        "id": "223:10b",
         "page": 223,
         "line": 10,
         "text": "Now when Mosiah had done this, he sent out ",
@@ -19,7 +19,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/223"
       },
       {
-        "id": "223:12",
+        "id": "223:12a",
         "page": 223,
         "line": 12,
         "text": "their will concerning who should be their king.",
@@ -33,7 +33,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "223:12",
+        "id": "223:12b",
         "page": 223,
         "line": 12,
         "text": "And it came ",
@@ -82,10 +82,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/223"
       },
       {
-        "id": "223:18",
+        "id": "223:18a",
         "page": 223,
         "line": 18,
-        "text": "sons of Mosiah willing to take upon them the kingdom; there",
+        "text": "sons of Mosiah willing to take upon them the kingdom;",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/223"
       }
     ]
@@ -95,6 +95,13 @@
     "chapter": 29,
     "verse": 4,
     "lines": [
+      {
+        "id": "223:18b",
+        "page": 223,
+        "line": 18,
+        "text": "there",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/223"
+      },
       {
         "id": "223:19",
         "page": 223,
@@ -110,7 +117,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/223"
       },
       {
-        "id": "223:21",
+        "id": "223:21a",
         "page": 223,
         "line": 21,
         "text": "words that were written, saying:",
@@ -124,7 +131,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "223:21",
+        "id": "223:21b",
         "page": 223,
         "line": 21,
         "text": "Behold, O ye my people, or ",
@@ -145,7 +152,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/223"
       },
       {
-        "id": "223:24",
+        "id": "223:24a",
         "page": 223,
         "line": 24,
         "text": "ye are desirous to have a king.",
@@ -159,7 +166,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "223:24",
+        "id": "223:24b",
         "page": 223,
         "line": 24,
         "text": "Now I declare unto you, that ",
@@ -173,7 +180,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/223"
       },
       {
-        "id": "223:26",
+        "id": "223:26a",
         "page": 223,
         "line": 26,
         "text": "and will not take upon him the kingdom.",
@@ -187,7 +194,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "223:26",
+        "id": "223:26b",
         "page": 223,
         "line": 26,
         "text": "And now if there ",
@@ -243,7 +250,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/223"
       },
       {
-        "id": "223:34",
+        "id": "223:34a",
         "page": 223,
         "line": 34,
         "text": "ple.",
@@ -257,7 +264,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "223:34",
+        "id": "223:34b",
         "page": 223,
         "line": 34,
         "text": "Now I say unto you, let us be wise and consider these ",
@@ -278,7 +285,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/223"
       },
       {
-        "id": "223:37",
+        "id": "223:37a",
         "page": 223,
         "line": 37,
         "text": "in his stead.",
@@ -292,7 +299,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "223:37",
+        "id": "223:37b",
         "page": 223,
         "line": 37,
         "text": "And if my son should turn again to his pride and ",
@@ -313,7 +320,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/223"
       },
       {
-        "id": "223:40",
+        "id": "223:40a",
         "page": 223,
         "line": 40,
         "text": "also this people to commit much sin.",
@@ -327,7 +334,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "223:40",
+        "id": "223:40b",
         "page": 223,
         "line": 40,
         "text": "And now let us be wise, ",
@@ -341,7 +348,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/223"
       },
       {
-        "id": "223:42",
+        "id": "223:42a",
         "page": 223,
         "line": 42,
         "text": "for the peace of this people.",
@@ -355,7 +362,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "223:42",
+        "id": "223:42b",
         "page": 223,
         "line": 42,
         "text": "Therefore I will be your king ",
@@ -390,7 +397,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/224"
       },
       {
-        "id": "224:5",
+        "id": "224:5a",
         "page": 224,
         "line": 5,
         "text": "commandments of God.",
@@ -404,7 +411,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "224:5",
+        "id": "224:5b",
         "page": 224,
         "line": 5,
         "text": "Now it is better that a man should ",
@@ -474,7 +481,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/224"
       },
       {
-        "id": "224:14",
+        "id": "224:14a",
         "page": 224,
         "line": 14,
         "text": "always have kings to rule over you.",
@@ -488,7 +495,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "224:14",
+        "id": "224:14b",
         "page": 224,
         "line": 14,
         "text": "And even I, myself have ",
@@ -523,7 +530,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/224"
       },
       {
-        "id": "224:19",
+        "id": "224:19a",
         "page": 224,
         "line": 19,
         "text": "nor no manner of iniquity;",
@@ -537,7 +544,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "224:19",
+        "id": "224:19b",
         "page": 224,
         "line": 19,
         "text": "and whosoever hath committed ",
@@ -586,7 +593,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/224"
       },
       {
-        "id": "224:25",
+        "id": "224:25a",
         "page": 224,
         "line": 25,
         "text": "you.",
@@ -600,7 +607,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "224:25",
+        "id": "224:25b",
         "page": 224,
         "line": 25,
         "text": "For behold, how much iniquity doth one wicked king ",
@@ -670,7 +677,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/224"
       },
       {
-        "id": "224:33",
+        "id": "224:33a",
         "page": 224,
         "line": 33,
         "text": "voidably remained in bondage until now.",
@@ -684,7 +691,7 @@
     "verse": 20,
     "lines": [
       {
-        "id": "224:33",
+        "id": "224:33b",
         "page": 224,
         "line": 33,
         "text": "But behold, he did ",
@@ -719,7 +726,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/224"
       },
       {
-        "id": "224:38",
+        "id": "224:38a",
         "page": 224,
         "line": 38,
         "text": "mercy towards them that put their trust in him.",
@@ -733,7 +740,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "224:38",
+        "id": "224:38b",
         "page": 224,
         "line": 38,
         "text": "And behold, ",
@@ -754,7 +761,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/224"
       },
       {
-        "id": "224:41",
+        "id": "224:41a",
         "page": 224,
         "line": 41,
         "text": "blood.",
@@ -768,7 +775,7 @@
     "verse": 22,
     "lines": [
       {
-        "id": "224:41",
+        "id": "224:41b",
         "page": 224,
         "line": 41,
         "text": "For behold, he hath his friends in iniquity, and he ",
@@ -789,7 +796,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/224"
       },
       {
-        "id": "225:1",
+        "id": "225:1a",
         "page": 225,
         "line": 1,
         "text": "he trampleth under his feet the commandments of God;",
@@ -803,7 +810,7 @@
     "verse": 23,
     "lines": [
       {
-        "id": "225:1",
+        "id": "225:1b",
         "page": 225,
         "line": 1,
         "text": "and ",
@@ -845,17 +852,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/225"
       },
       {
-        "id": "225:7",
+        "id": "225:7a",
         "page": 225,
         "line": 7,
-        "text": "thus an unrighteous king doth pervert the ways of all right",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/225"
-      },
-      {
-        "id": "225:8",
-        "page": 225,
-        "line": 8,
-        "text": "eousness.",
+        "text": "thus an unrighteous king doth pervert the ways of all",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/225"
       }
     ]
@@ -866,14 +866,21 @@
     "verse": 24,
     "lines": [
       {
-        "id": "225:8",
+        "id": "225:7b",
         "page": 225,
-        "line": 8,
-        "text": "And now behold I say unto you, It is not expedi",
+        "line": 7,
+        "text": "right ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/225"
       },
       {
-        "id": "225:9",
+        "id": "225:8",
+        "page": 225,
+        "line": 8,
+        "text": "eousness. And now behold I say unto you, It is not expedi",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/225"
+      },
+      {
+        "id": "225:9a",
         "page": 225,
         "line": 9,
         "text": "ent that such abominations should come upon you;",
@@ -887,7 +894,7 @@
     "verse": 25,
     "lines": [
       {
-        "id": "225:9",
+        "id": "225:9b",
         "page": 225,
         "line": 9,
         "text": "therefore ",
@@ -915,7 +922,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/225"
       },
       {
-        "id": "225:13",
+        "id": "225:13a",
         "page": 225,
         "line": 13,
         "text": "by the hand of the Lord.",
@@ -929,7 +936,7 @@
     "verse": 26,
     "lines": [
       {
-        "id": "225:13",
+        "id": "225:13b",
         "page": 225,
         "line": 13,
         "text": "Now it is not common that the ",
@@ -964,7 +971,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/225"
       },
       {
-        "id": "225:18",
+        "id": "225:18a",
         "page": 225,
         "line": 18,
         "text": "people.",
@@ -978,7 +985,7 @@
     "verse": 27,
     "lines": [
       {
-        "id": "225:18",
+        "id": "225:18b",
         "page": 225,
         "line": 18,
         "text": "And if the time cometh that the voice of the people ",
@@ -1006,7 +1013,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/225"
       },
       {
-        "id": "225:22",
+        "id": "225:22a",
         "page": 225,
         "line": 22,
         "text": "this land.",
@@ -1020,7 +1027,7 @@
     "verse": 28,
     "lines": [
       {
-        "id": "225:22",
+        "id": "225:22b",
         "page": 225,
         "line": 22,
         "text": "And now if ye have judges, and they do not judge ",
@@ -1034,7 +1041,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/225"
       },
       {
-        "id": "225:24",
+        "id": "225:24a",
         "page": 225,
         "line": 24,
         "text": "that they may be judged of a higher judge;",
@@ -1048,7 +1055,7 @@
     "verse": 29,
     "lines": [
       {
-        "id": "225:24",
+        "id": "225:24b",
         "page": 225,
         "line": 24,
         "text": "if your higher ",
@@ -1076,7 +1083,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/225"
       },
       {
-        "id": "225:28",
+        "id": "225:28a",
         "page": 225,
         "line": 28,
         "text": "the voice of the people.",
@@ -1090,7 +1097,7 @@
     "verse": 30,
     "lines": [
       {
-        "id": "225:28",
+        "id": "225:28b",
         "page": 225,
         "line": 28,
         "text": "And I command you to do these ",
@@ -1118,7 +1125,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/225"
       },
       {
-        "id": "225:32",
+        "id": "225:32a",
         "page": 225,
         "line": 32,
         "text": "heads.",
@@ -1132,7 +1139,7 @@
     "verse": 31,
     "lines": [
       {
-        "id": "225:32",
+        "id": "225:32b",
         "page": 225,
         "line": 32,
         "text": "For behold I say unto you, The sins of many people ",
@@ -1195,7 +1202,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/225"
       },
       {
-        "id": "225:40",
+        "id": "225:40a",
         "page": 225,
         "line": 40,
         "text": "our posterity remaineth upon the face of the land.",
@@ -1209,7 +1216,7 @@
     "verse": 33,
     "lines": [
       {
-        "id": "225:40",
+        "id": "225:40b",
         "page": 225,
         "line": 40,
         "text": "And many ",
@@ -1265,7 +1272,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/226"
       },
       {
-        "id": "226:4",
+        "id": "226:4a",
         "page": 226,
         "line": 4,
         "text": "man might bear his part.",
@@ -1279,7 +1286,7 @@
     "verse": 35,
     "lines": [
       {
-        "id": "226:4",
+        "id": "226:4b",
         "page": 226,
         "line": 4,
         "text": "And he also unfolded unto them all ",
@@ -1293,7 +1300,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/226"
       },
       {
-        "id": "226:6",
+        "id": "226:6a",
         "page": 226,
         "line": 6,
         "text": "eous king to rule over them;",
@@ -1307,7 +1314,7 @@
     "verse": 36,
     "lines": [
       {
-        "id": "226:6",
+        "id": "226:6b",
         "page": 226,
         "line": 6,
         "text": "yea, all his iniquities and abom",
@@ -1370,7 +1377,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/226"
       },
       {
-        "id": "226:14",
+        "id": "226:14a",
         "page": 226,
         "line": 14,
         "text": "truth of his words;",
@@ -1384,7 +1391,7 @@
     "verse": 38,
     "lines": [
       {
-        "id": "226:14",
+        "id": "226:14b",
         "page": 226,
         "line": 14,
         "text": "therefore they relinquished their desires ",
@@ -1412,7 +1419,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/226"
       },
       {
-        "id": "226:18",
+        "id": "226:18a",
         "page": 226,
         "line": 18,
         "text": "sins.",
@@ -1426,7 +1433,7 @@
     "verse": 39,
     "lines": [
       {
-        "id": "226:18",
+        "id": "226:18b",
         "page": 226,
         "line": 18,
         "text": "Therefore it came to pass that they assembled them",
@@ -1461,7 +1468,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/226"
       },
       {
-        "id": "226:23",
+        "id": "226:23a",
         "page": 226,
         "line": 23,
         "text": "been granted unto them.",
@@ -1475,7 +1482,7 @@
     "verse": 40,
     "lines": [
       {
-        "id": "226:23",
+        "id": "226:23b",
         "page": 226,
         "line": 23,
         "text": "And they did wax strong in love ",
@@ -1594,7 +1601,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/226"
       },
       {
-        "id": "226:38",
+        "id": "226:38a",
         "page": 226,
         "line": 38,
         "text": "ning all the affairs of the church.",
@@ -1608,7 +1615,7 @@
     "verse": 43,
     "lines": [
       {
-        "id": "226:38",
+        "id": "226:38b",
         "page": 226,
         "line": 38,
         "text": "And now it came to pass ",
@@ -1629,7 +1636,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/226"
       },
       {
-        "id": "226:41",
+        "id": "226:41a",
         "page": 226,
         "line": 41,
         "text": "and there was continual peace through the land;",
@@ -1643,7 +1650,7 @@
     "verse": 44,
     "lines": [
       {
-        "id": "226:41",
+        "id": "226:41b",
         "page": 226,
         "line": 41,
         "text": "and thus ",
@@ -1664,7 +1671,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/226"
       },
       {
-        "id": "227:1",
+        "id": "227:1a",
         "page": 227,
         "line": 1,
         "text": "phites: and Alma was the first and chief judge.",
@@ -1678,7 +1685,7 @@
     "verse": 45,
     "lines": [
       {
-        "id": "227:1",
+        "id": "227:1b",
         "page": 227,
         "line": 1,
         "text": "And now it ",
@@ -1727,7 +1734,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/227"
       },
       {
-        "id": "227:7",
+        "id": "227:7a",
         "page": 227,
         "line": 7,
         "text": "left Jerusalem;",
@@ -1741,7 +1748,7 @@
     "verse": 47,
     "lines": [
       {
-        "id": "227:7",
+        "id": "227:7b",
         "page": 227,
         "line": 7,
         "text": "and thus ended the reign of the kings over ",

@@ -187,7 +187,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/11"
       },
       {
-        "id": "11:26",
+        "id": "11:26a",
         "page": 11,
         "line": 26,
         "text": "dings in my days;",
@@ -201,7 +201,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "11:26",
+        "id": "11:26b",
         "page": 11,
         "line": 26,
         "text": "yea, I make a record in the language of my ",
@@ -215,7 +215,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/11"
       },
       {
-        "id": "11:28",
+        "id": "11:28a",
         "page": 11,
         "line": 28,
         "text": "guage of the Egyptians.",
@@ -229,7 +229,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "11:28",
+        "id": "11:28b",
         "page": 11,
         "line": 28,
         "text": "And I know that the record which I ",
@@ -376,7 +376,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/12"
       },
       {
-        "id": "12:10",
+        "id": "12:10a",
         "page": 12,
         "line": 10,
         "text": "with the spirit and the things which he had seen;",
@@ -390,7 +390,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "12:10",
+        "id": "12:10b",
         "page": 12,
         "line": 10,
         "text": "and being ",
@@ -453,10 +453,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/12"
       },
       {
-        "id": "12:18",
+        "id": "12:18a",
         "page": 12,
         "line": 18,
-        "text": "of the sun at noon-day; and",
+        "text": "of the sun at noon-day;",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/12"
       }
     ]
@@ -467,10 +467,10 @@
     "verse": 10,
     "lines": [
       {
-        "id": "12:18",
+        "id": "12:18b",
         "page": 12,
         "line": 18,
-        "text": "he also saw twelve others follow",
+        "text": "and he also saw twelve others follow",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/12"
       },
       {
@@ -481,7 +481,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/12"
       },
       {
-        "id": "12:20",
+        "id": "12:20a",
         "page": 12,
         "line": 20,
         "text": "the firmament;",
@@ -495,7 +495,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "12:20",
+        "id": "12:20b",
         "page": 12,
         "line": 20,
         "text": "and they came down and went forth upon the ",
@@ -537,7 +537,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/12"
       },
       {
-        "id": "12:25",
+        "id": "12:25a",
         "page": 12,
         "line": 25,
         "text": "spirit of the Lord,",
@@ -551,7 +551,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "12:25",
+        "id": "12:25b",
         "page": 12,
         "line": 25,
         "text": "and he read, saying, Wo, wo unto Jerusa",
@@ -677,7 +677,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/12"
       },
       {
-        "id": "12:41",
+        "id": "12:41a",
         "page": 12,
         "line": 41,
         "text": "which the Lord had shewn unto him.",
@@ -691,7 +691,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "12:41",
+        "id": "12:41b",
         "page": 12,
         "line": 41,
         "text": "And now I, Nephi, do ",
@@ -726,7 +726,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/13"
       },
       {
-        "id": "13:3",
+        "id": "13:3a",
         "page": 13,
         "line": 3,
         "text": "shall not make a full account;",
@@ -740,7 +740,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "13:3",
+        "id": "13:3b",
         "page": 13,
         "line": 3,
         "text": "but I shall make an account of ",

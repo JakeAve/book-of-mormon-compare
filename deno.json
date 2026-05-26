@@ -2,6 +2,7 @@
   "unstable": ["kv"],
   "nodeModulesDir": "manual",
   "tasks": {
+    "setup": "git config core.hooksPath .githooks && chmod +x .githooks/pre-commit .githooks/pre-push",
     "check": "deno fmt --check . && deno lint . && deno check",
     "test": "deno test -A",
     "pre-commit": "deno task check && deno task test",
@@ -11,10 +12,14 @@
     "preview": "deno task build && deno task start",
     "start": "deno serve -A _fresh/server.js",
     "update": "deno run -A -r jsr:@fresh/update .",
-    "align:om": "deno run -A scripts/align-source.ts om",
     "align:pm": "deno run -A scripts/align-source.ts pm",
+    "align:om": "deno run -A scripts/align-source.ts om",
     "align:1830": "deno run -A scripts/align-source.ts 1830",
-    "align:1837": "deno run -A scripts/align-source.ts 1837"
+    "align:1837": "deno run -A scripts/align-source.ts 1837",
+    "report:om": "deno run -A scripts/align-report.ts om",
+    "report:pm": "deno run -A scripts/align-report.ts pm",
+    "report:1830": "deno run -A scripts/align-report.ts 1830",
+    "report:1837": "deno run -A scripts/align-report.ts 1837"
   },
   "lint": {
     "rules": {

@@ -5,10 +5,11 @@
     "verse": 1,
     "lines": [
       {
-        "id": "51:1",
+        "id": "51:1a",
         "page": 51,
         "line": 1,
-        "text": "with all the house of Israel",
+        "text": "he hath covenanted with all the house of Israel",
+        "markdown": "{{he hath covenanted with all the house of Israel",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/51"
       }
     ]
@@ -19,7 +20,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "51:1",
+        "id": "51:1b",
         "page": 51,
         "line": 1,
         "text": "that he hath spoken unto the Jews by ",
@@ -38,66 +39,15 @@
         "id": "51:3",
         "page": 51,
         "line": 3,
-        "text": "tion untill the time cometh that they shall be restored to",
-        "markdown": "{{tion untill the time cometh that they shall be restored to",
+        "text": "tion untill the time cometh that they shall be restored to the true Church ",
+        "markdown": "{{tion untill the time cometh that they shall be restored to the true}} Chu{{rc}}h ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/51"
-      }
-    ]
-  },
-  {
-    "book": "2-ne",
-    "chapter": 9,
-    "verse": 3,
-    "lines": [
+      },
       {
-        "id": "51:3",
-        "page": 51,
-        "line": 3,
-        "text": "the",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/51"
-      }
-    ]
-  },
-  {
-    "book": "2-ne",
-    "chapter": 9,
-    "verse": 4,
-    "lines": [
-      {
-        "id": "51:3",
-        "page": 51,
-        "line": 3,
-        "text": "true Church",
-        "markdown": "true}} Chu{{rc}}h",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/51"
-      }
-    ]
-  },
-  {
-    "book": "2-ne",
-    "chapter": 9,
-    "verse": 10,
-    "lines": [
-      {
-        "id": "52:1",
+        "id": "52:1a",
         "page": 52,
         "line": 1,
-        "text": "captive boddies & the",
-        "markdown": "captive bod{{dies & the",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/52"
-      }
-    ]
-  },
-  {
-    "book": "2-ne",
-    "chapter": 9,
-    "verse": 11,
-    "lines": [
-      {
-        "id": "52:1",
-        "page": 52,
-        "line": 1,
-        "text": "boddies",
+        "text": "captive",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/52"
       }
     ]
@@ -108,15 +58,15 @@
     "verse": 12,
     "lines": [
       {
-        "id": "52:1",
+        "id": "52:1b",
         "page": 52,
         "line": 1,
-        "text": "& the spirits of men will be restored one to the ",
-        "markdown": "& the spirits of men will be restored one to the}} ",
+        "text": "boddies & the boddies & the spirits of men will be restored one to the ",
+        "markdown": "bod{{dies & the boddies & the spirits of men will be restored one to the}} ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/52"
       },
       {
-        "id": "52:2",
+        "id": "52:2a",
         "page": 52,
         "line": 2,
         "text": "other & it is by the <​power of the​> resurrection of the holy one of Israel",
@@ -131,7 +81,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "52:2",
+        "id": "52:2b",
         "page": 52,
         "line": 2,
         "text": "O how great ",
@@ -139,26 +89,11 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/52"
       },
       {
-        "id": "52:3",
+        "id": "52:3a",
         "page": 52,
         "line": 3,
-        "text": "the plan of our God for on the other hand the paradise of God",
-        "markdown": "the plan of {{our God for on the other hand the paradise of God",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/52"
-      }
-    ]
-  },
-  {
-    "book": "2-ne",
-    "chapter": 9,
-    "verse": 15,
-    "lines": [
-      {
-        "id": "52:3",
-        "page": 52,
-        "line": 3,
-        "text": "must deliver up",
-        "markdown": "must deliver up}}",
+        "text": "the plan of our God for on the other hand the paradise of God must deliver",
+        "markdown": "the plan of {{our God for on the other hand the paradise of God must deliver",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/52"
       }
     ]
@@ -169,6 +104,14 @@
     "verse": 25,
     "lines": [
       {
+        "id": "52:3b",
+        "page": 52,
+        "line": 3,
+        "text": "up ",
+        "markdown": "up}} ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/52"
+      },
+      {
         "id": "53:1",
         "page": 53,
         "line": 1,
@@ -177,7 +120,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/53"
       },
       {
-        "id": "53:2",
+        "id": "53:2a",
         "page": 53,
         "line": 2,
         "text": "of the atonement for they are delivered by the power of him",
@@ -192,7 +135,7 @@
     "verse": 26,
     "lines": [
       {
-        "id": "53:2",
+        "id": "53:2b",
         "page": 53,
         "line": 2,
         "text": "for the atonement ",
@@ -208,26 +151,11 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/53"
       },
       {
-        "id": "53:4",
+        "id": "53:4a",
         "page": 53,
         "line": 4,
-        "text": "given to them that they are delivered from that awful",
-        "markdown": "given to {{them that they are delivered from that awful",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/53"
-      }
-    ]
-  },
-  {
-    "book": "2-ne",
-    "chapter": 9,
-    "verse": 28,
-    "lines": [
-      {
-        "id": "53:4",
-        "page": 53,
-        "line": 4,
-        "text": "monster death & hell",
-        "markdown": "monster death & hell}}",
+        "text": "given to them that they are delivered from that awful monster death",
+        "markdown": "given to {{them that they are delivered from that awful monster death",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/53"
       }
     ]
@@ -238,7 +166,15 @@
     "verse": 41,
     "lines": [
       {
-        "id": "54:1",
+        "id": "53:4b",
+        "page": 53,
+        "line": 4,
+        "text": "& hell ",
+        "markdown": "& hell}} ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/53"
+      },
+      {
+        "id": "54:1a",
         "page": 54,
         "line": 1,
         "text": "the gate for he cannot be deceived for the Lord God is his name",
@@ -253,7 +189,7 @@
     "verse": 42,
     "lines": [
       {
-        "id": "54:1",
+        "id": "54:1b",
         "page": 54,
         "line": 1,
         "text": "& whoso kno",
@@ -277,42 +213,12 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/54"
       },
       {
-        "id": "54:4",
+        "id": "54:4a",
         "page": 54,
         "line": 4,
-        "text": "yea they are they whom he despiseth & save they shall cast",
-        "markdown": "yea they are {{they whom he despiseth & save they shall cast",
+        "text": "yea they are they whom he despiseth & save they shall cast these things",
+        "markdown": "yea they are {{they whom he despiseth & save they shall cast these thing}}s",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/54"
-      }
-    ]
-  },
-  {
-    "book": "2-ne",
-    "chapter": 9,
-    "verse": 44,
-    "lines": [
-      {
-        "id": "54:4",
-        "page": 54,
-        "line": 4,
-        "text": "these things away",
-        "markdown": "these thing}}s away",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/54"
-      }
-    ]
-  },
-  {
-    "book": "2-ne",
-    "chapter": 9,
-    "verse": 45,
-    "lines": [
-      {
-        "id": "55:1",
-        "page": 55,
-        "line": 1,
-        "text": "Chapter",
-        "markdown": "{{}} Chapt{{er }}",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/55"
       }
     ]
   }

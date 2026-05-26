@@ -5,7 +5,7 @@
     "verse": 1,
     "lines": [
       {
-        "id": "64:28",
+        "id": "64:28b",
         "page": 64,
         "line": 28,
         "text": "hearken to me ye that follow after rig",
@@ -19,7 +19,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/64"
       },
       {
-        "id": "64:30",
+        "id": "64:30a",
         "page": 64,
         "line": 30,
         "text": "from whence ye are diged",
@@ -33,14 +33,14 @@
     "verse": 2,
     "lines": [
       {
-        "id": "64:30",
+        "id": "64:30b",
         "page": 64,
         "line": 30,
         "text": "look unto Abraham your father & unto Sarah she tha",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/64"
       },
       {
-        "id": "64:31",
+        "id": "64:31a",
         "page": 64,
         "line": 31,
         "text": "t bear you for I called him alone & blessed him",
@@ -54,7 +54,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "64:31",
+        "id": "64:31b",
         "page": 64,
         "line": 31,
         "text": "for the Lord shall comfort Zion he ",
@@ -76,7 +76,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/64"
       },
       {
-        "id": "64:34",
+        "id": "64:34a",
         "page": 64,
         "line": 34,
         "text": "in thanks giveing & the voice of melody",
@@ -90,7 +90,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "64:34",
+        "id": "64:34b",
         "page": 64,
         "line": 34,
         "text": "hearken unto me my People & give ",
@@ -105,11 +105,11 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/64"
       },
       {
-        "id": "64:36",
+        "id": "64:36a",
         "page": 64,
         "line": 36,
-        "text": "y Judgment to rest for a light thing of the People",
-        "markdown": "y Judgment to rest for a light thing [of] the People",
+        "text": "y Judgment to rest for a light thing of the People my righteousness is",
+        "markdown": "y Judgment to rest for a light thing [of] the People my righteousness is",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/64"
       }
     ]
@@ -120,10 +120,10 @@
     "verse": 5,
     "lines": [
       {
-        "id": "64:36",
+        "id": "64:36b",
         "page": 64,
         "line": 36,
-        "text": "my righteousness is near my sa",
+        "text": "near my sa",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/64"
       },
       {
@@ -134,7 +134,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/64"
       },
       {
-        "id": "65:1",
+        "id": "65:1a",
         "page": 65,
         "line": 1,
         "text": "upon me & on mine arm shall they trust",
@@ -148,7 +148,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "65:1",
+        "id": "65:1b",
         "page": 65,
         "line": 1,
         "text": "lift up your eyes to the heavens & look ",
@@ -169,10 +169,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/65"
       },
       {
-        "id": "65:4",
+        "id": "65:4a",
         "page": 65,
         "line": 4,
-        "text": "but my salvation shall be forever & my righteousness shall not be abolished hea",
+        "text": "but my salvation shall be forever & my righteousness shall not be abolished",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/65"
       }
     ]
@@ -182,6 +182,13 @@
     "chapter": 8,
     "verse": 7,
     "lines": [
+      {
+        "id": "65:4b",
+        "page": 65,
+        "line": 4,
+        "text": "hea",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/65"
+      },
       {
         "id": "65:5",
         "page": 65,
@@ -233,7 +240,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/65"
       },
       {
-        "id": "65:10",
+        "id": "65:10a",
         "page": 65,
         "line": 10,
         "text": "art thou not it that hath cut Rahab & wounded the dragon",
@@ -247,7 +254,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "65:10",
+        "id": "65:10b",
         "page": 65,
         "line": 10,
         "text": "art thou not it w ",
@@ -261,7 +268,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/65"
       },
       {
-        "id": "65:12",
+        "id": "65:12a",
         "page": 65,
         "line": 12,
         "text": "ths of the Sea away for the ransomed to pass over",
@@ -275,7 +282,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "65:12",
+        "id": "65:12b",
         "page": 65,
         "line": 12,
         "text": "therefore the redeemed of the ",
@@ -296,7 +303,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/65"
       },
       {
-        "id": "65:15",
+        "id": "65:15a",
         "page": 65,
         "line": 15,
         "text": "flee away",
@@ -310,7 +317,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "65:15",
+        "id": "65:15b",
         "page": 65,
         "line": 15,
         "text": "I am he yea I am he that comforteth you behold who art thou that ",
@@ -324,7 +331,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/65"
       },
       {
-        "id": "65:17",
+        "id": "65:17a",
         "page": 65,
         "line": 17,
         "text": "be made like unto grass",
@@ -338,7 +345,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "65:17",
+        "id": "65:17b",
         "page": 65,
         "line": 17,
         "text": "& forgetest the Lord thy maker that hath streached for",
@@ -359,7 +366,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/65"
       },
       {
-        "id": "65:20",
+        "id": "65:20a",
         "page": 65,
         "line": 20,
         "text": "is the fury of the oppressor",
@@ -373,7 +380,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "65:20",
+        "id": "65:20b",
         "page": 65,
         "line": 20,
         "text": "the captive exile hasteneth that he may be loosed & that he should not die in the pit nor that his bread should fail",
@@ -388,14 +395,14 @@
     "verse": 15,
     "lines": [
       {
-        "id": "65:20",
+        "id": "65:20c",
         "page": 65,
         "line": 20,
         "text": "but I am ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/65"
       },
       {
-        "id": "65:21",
+        "id": "65:21a",
         "page": 65,
         "line": 21,
         "text": "the Lord thy God whose waves roared the Lord of hosts is my name",
@@ -409,7 +416,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "65:21",
+        "id": "65:21b",
         "page": 65,
         "line": 21,
         "text": "& I have pu",
@@ -431,7 +438,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/65"
       },
       {
-        "id": "65:24",
+        "id": "65:24a",
         "page": 65,
         "line": 24,
         "text": "ld thou art my People",
@@ -445,7 +452,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "65:24",
+        "id": "65:24b",
         "page": 65,
         "line": 24,
         "text": "awake awake stand up O Jerusalem which hast drunk at the ",
@@ -460,7 +467,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/65"
       },
       {
-        "id": "65:26",
+        "id": "65:26a",
         "page": 65,
         "line": 26,
         "text": "ng out",
@@ -474,14 +481,14 @@
     "verse": 18,
     "lines": [
       {
-        "id": "65:26",
+        "id": "65:26b",
         "page": 65,
         "line": 26,
         "text": "& none to guide her among all the Sons she hath brought forth neither that tak",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/65"
       },
       {
-        "id": "65:27",
+        "id": "65:27a",
         "page": 65,
         "line": 27,
         "text": "eth her by the hand of all the Sons she hath brought up",
@@ -495,7 +502,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "65:27",
+        "id": "65:27b",
         "page": 65,
         "line": 27,
         "text": "these two Sons are come un",
@@ -509,7 +516,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/65"
       },
       {
-        "id": "65:29",
+        "id": "65:29a",
         "page": 65,
         "line": 29,
         "text": "& by whom shall I comfort thee",
@@ -523,7 +530,7 @@
     "verse": 20,
     "lines": [
       {
-        "id": "65:29",
+        "id": "65:29b",
         "page": 65,
         "line": 29,
         "text": "thy Sons have fainted save these two they lie at the ",
@@ -537,7 +544,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/65"
       },
       {
-        "id": "65:31",
+        "id": "65:31a",
         "page": 65,
         "line": 31,
         "text": "buke of thy God",
@@ -551,10 +558,10 @@
     "verse": 21,
     "lines": [
       {
-        "id": "65:31",
+        "id": "65:31b",
         "page": 65,
         "line": 31,
-        "text": "therefore hear now this thou afflicted & drunken & not with wine th",
+        "text": "therefore hear now this thou afflicted & drunken & not with wine",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/65"
       }
     ]
@@ -564,6 +571,13 @@
     "chapter": 8,
     "verse": 22,
     "lines": [
+      {
+        "id": "65:31c",
+        "page": 65,
+        "line": 31,
+        "text": "th",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/65"
+      },
       {
         "id": "65:32",
         "page": 65,
@@ -580,7 +594,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/65"
       },
       {
-        "id": "65:34",
+        "id": "65:34a",
         "page": 65,
         "line": 34,
         "text": "drink it again",
@@ -594,7 +608,7 @@
     "verse": 23,
     "lines": [
       {
-        "id": "65:34",
+        "id": "65:34b",
         "page": 65,
         "line": 34,
         "text": "but I will put it unto the hand of them that afflict thee which I sa",
@@ -608,7 +622,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/65"
       },
       {
-        "id": "65:36",
+        "id": "65:36a",
         "page": 65,
         "line": 36,
         "text": "ound & as the street to them that went over",
@@ -622,7 +636,7 @@
     "verse": 24,
     "lines": [
       {
-        "id": "65:36",
+        "id": "65:36b",
         "page": 65,
         "line": 36,
         "text": "awake awake put on thy strength ",
@@ -636,10 +650,24 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/66"
       },
       {
-        "id": "66:2",
+        "id": "66:2a",
         "page": 66,
         "line": 2,
-        "text": "there shall no more come into thee the uncircumcised & the unclean shake ",
+        "text": "there shall no more come into thee the uncircumcised & the unclean",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/66"
+      }
+    ]
+  },
+  {
+    "book": "2-ne",
+    "chapter": 8,
+    "verse": 25,
+    "lines": [
+      {
+        "id": "66:2b",
+        "page": 66,
+        "line": 2,
+        "text": "shake ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/66"
       },
       {
@@ -654,20 +682,6 @@
         "page": 66,
         "line": 4,
         "text": "neck O captive daughter of Zion——",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/66"
-      }
-    ]
-  },
-  {
-    "book": "2-ne",
-    "chapter": 8,
-    "verse": 25,
-    "lines": [
-      {
-        "id": "66:5",
-        "page": 66,
-        "line": 5,
-        "text": "Chapter",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/66"
       }
     ]

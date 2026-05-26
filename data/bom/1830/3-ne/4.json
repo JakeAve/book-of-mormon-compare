@@ -61,7 +61,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/466"
       },
       {
-        "id": "466:8",
+        "id": "466:8a",
         "page": 466,
         "line": 8,
         "text": "been left desolate.",
@@ -75,7 +75,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "466:8",
+        "id": "466:8b",
         "page": 466,
         "line": 8,
         "text": "But behold there was no wild beasts nor ",
@@ -96,7 +96,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/466"
       },
       {
-        "id": "466:11",
+        "id": "466:11a",
         "page": 466,
         "line": 11,
         "text": "wilderness.",
@@ -110,7 +110,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "466:11",
+        "id": "466:11b",
         "page": 466,
         "line": 11,
         "text": "And the robbers could not exist save it were in ",
@@ -138,7 +138,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/466"
       },
       {
-        "id": "466:15",
+        "id": "466:15a",
         "page": 466,
         "line": 15,
         "text": "dy;",
@@ -152,7 +152,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "466:15",
+        "id": "466:15b",
         "page": 466,
         "line": 15,
         "text": "therefore there were no chance for the robbers to plunder ",
@@ -243,7 +243,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/466"
       },
       {
-        "id": "466:27",
+        "id": "466:27a",
         "page": 466,
         "line": 27,
         "text": "subsist, save it were to plunder, and rob, and murder.",
@@ -257,7 +257,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "466:27",
+        "id": "466:27b",
         "page": 466,
         "line": 27,
         "text": "And ",
@@ -362,7 +362,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/466"
       },
       {
-        "id": "466:41",
+        "id": "466:41a",
         "page": 466,
         "line": 41,
         "text": "dyed in blood.",
@@ -376,7 +376,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "466:41",
+        "id": "466:41b",
         "page": 466,
         "line": 41,
         "text": "And it came to pass that the armies of the ",
@@ -404,10 +404,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/467"
       },
       {
-        "id": "467:2",
+        "id": "467:2a",
         "page": 467,
         "line": 2,
-        "text": "them out of the hands of their enemies. And it came to pass",
+        "text": "them out of the hands of their enemies.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/467"
       }
     ]
@@ -417,6 +417,13 @@
     "chapter": 4,
     "verse": 9,
     "lines": [
+      {
+        "id": "467:2b",
+        "page": 467,
+        "line": 2,
+        "text": "And it came to pass ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/467"
+      },
       {
         "id": "467:3",
         "page": 467,
@@ -439,7 +446,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/467"
       },
       {
-        "id": "467:6",
+        "id": "467:6a",
         "page": 467,
         "line": 6,
         "text": "the terror of their armies;",
@@ -453,7 +460,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "467:6",
+        "id": "467:6b",
         "page": 467,
         "line": 6,
         "text": "but in this thing they were disap",
@@ -488,7 +495,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/467"
       },
       {
-        "id": "467:11",
+        "id": "467:11a",
         "page": 467,
         "line": 11,
         "text": "did receive them;",
@@ -502,7 +509,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "467:11",
+        "id": "467:11b",
         "page": 467,
         "line": 11,
         "text": "and the battle commenced in this the sixth ",
@@ -530,7 +537,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/467"
       },
       {
-        "id": "467:15",
+        "id": "467:15a",
         "page": 467,
         "line": 15,
         "text": "people of Lehi since he left Jerusalem.",
@@ -544,7 +551,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "467:15",
+        "id": "467:15b",
         "page": 467,
         "line": 15,
         "text": "And notwithstand",
@@ -691,7 +698,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/467"
       },
       {
-        "id": "467:33",
+        "id": "467:33a",
         "page": 467,
         "line": 33,
         "text": "twentieth year;",
@@ -705,7 +712,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "467:33",
+        "id": "467:33b",
         "page": 467,
         "line": 33,
         "text": "and in the twenty and first year they did not ",
@@ -747,7 +754,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/467"
       },
       {
-        "id": "467:39",
+        "id": "467:39a",
         "page": 467,
         "line": 39,
         "text": "them to yield themselves up according to their wishes.",
@@ -761,7 +768,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "467:39",
+        "id": "467:39b",
         "page": 467,
         "line": 39,
         "text": "Now ",
@@ -782,7 +789,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/467"
       },
       {
-        "id": "467:42",
+        "id": "467:42a",
         "page": 467,
         "line": 42,
         "text": "cause that this siege should take place.",
@@ -796,7 +803,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "467:42",
+        "id": "467:42b",
         "page": 467,
         "line": 42,
         "text": "But behold this was ",
@@ -824,10 +831,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/468"
       },
       {
-        "id": "468:3",
+        "id": "468:3a",
         "page": 468,
         "line": 3,
-        "text": "laid up in",
+        "text": "laid up in store",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/468"
       }
     ]
@@ -838,10 +845,10 @@
     "verse": 19,
     "lines": [
       {
-        "id": "468:3",
+        "id": "468:3b",
         "page": 468,
         "line": 3,
-        "text": "store because of the scantiness of provisions among ",
+        "text": "because of the scantiness of provisions among ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/468"
       },
       {
@@ -859,7 +866,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/468"
       },
       {
-        "id": "468:6",
+        "id": "468:6a",
         "page": 468,
         "line": 6,
         "text": "derness.",
@@ -873,7 +880,7 @@
     "verse": 20,
     "lines": [
       {
-        "id": "468:6",
+        "id": "468:6b",
         "page": 468,
         "line": 6,
         "text": "And it came to pass that the wild game became ",
@@ -887,7 +894,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/468"
       },
       {
-        "id": "468:8",
+        "id": "468:8a",
         "page": 468,
         "line": 8,
         "text": "to perish with hunger.",
@@ -901,7 +908,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "468:8",
+        "id": "468:8b",
         "page": 468,
         "line": 8,
         "text": "And the Nephites were continually ",
@@ -915,17 +922,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/468"
       },
       {
-        "id": "468:10",
+        "id": "468:10a",
         "page": 468,
         "line": 10,
-        "text": "mies, and cutting them off by thousands and by tens of thou",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/468"
-      },
-      {
-        "id": "468:11",
-        "page": 468,
-        "line": 11,
-        "text": "sands.",
+        "text": "mies, and cutting them off by thousands and by tens of",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/468"
       }
     ]
@@ -936,10 +936,17 @@
     "verse": 22,
     "lines": [
       {
+        "id": "468:10b",
+        "page": 468,
+        "line": 10,
+        "text": "thou ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/468"
+      },
+      {
         "id": "468:11",
         "page": 468,
         "line": 11,
-        "text": "And thus it became the desire of the people of Zem",
+        "text": "sands. And thus it became the desire of the people of Zem",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/468"
       },
       {
@@ -985,7 +992,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/468"
       },
       {
-        "id": "468:17",
+        "id": "468:17a",
         "page": 468,
         "line": 17,
         "text": "northward.",
@@ -999,7 +1006,7 @@
     "verse": 24,
     "lines": [
       {
-        "id": "468:17",
+        "id": "468:17b",
         "page": 468,
         "line": 17,
         "text": "And now Gidgiddoni, being aware of their de",
@@ -1034,7 +1041,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/468"
       },
       {
-        "id": "468:22",
+        "id": "468:22a",
         "page": 468,
         "line": 22,
         "text": "mies in the way of their retreat;",
@@ -1048,7 +1055,7 @@
     "verse": 25,
     "lines": [
       {
-        "id": "468:22",
+        "id": "468:22b",
         "page": 468,
         "line": 22,
         "text": "and this did they do in the ",
@@ -1076,7 +1083,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/468"
       },
       {
-        "id": "468:26",
+        "id": "468:26a",
         "page": 468,
         "line": 26,
         "text": "and in their rear.",
@@ -1090,7 +1097,7 @@
     "verse": 26,
     "lines": [
       {
-        "id": "468:26",
+        "id": "468:26b",
         "page": 468,
         "line": 26,
         "text": "And the robbers which were on the south, ",
@@ -1104,7 +1111,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/468"
       },
       {
-        "id": "468:28",
+        "id": "468:28a",
         "page": 468,
         "line": 28,
         "text": "things were done by command of Gidgiddoni.",
@@ -1118,7 +1125,7 @@
     "verse": 27,
     "lines": [
       {
-        "id": "468:28",
+        "id": "468:28b",
         "page": 468,
         "line": 28,
         "text": "And there ",
@@ -1202,7 +1209,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/468"
       },
       {
-        "id": "468:38",
+        "id": "468:38a",
         "page": 468,
         "line": 38,
         "text": "binations, even as this man hath been fell to the earth.",
@@ -1216,7 +1223,7 @@
     "verse": 30,
     "lines": [
       {
-        "id": "468:38",
+        "id": "468:38b",
         "page": 468,
         "line": 38,
         "text": "And ",
@@ -1244,7 +1251,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/468"
       },
       {
-        "id": "468:42",
+        "id": "468:42a",
         "page": 468,
         "line": 42,
         "text": "shall call on the name of their God for protection.",
@@ -1258,7 +1265,7 @@
     "verse": 31,
     "lines": [
       {
-        "id": "468:42",
+        "id": "468:42b",
         "page": 468,
         "line": 42,
         "text": "And it ",
@@ -1286,7 +1293,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/469"
       },
       {
-        "id": "469:3",
+        "id": "469:3a",
         "page": 469,
         "line": 3,
         "text": "their enemies;",
@@ -1300,7 +1307,7 @@
     "verse": 32,
     "lines": [
       {
-        "id": "469:3",
+        "id": "469:3b",
         "page": 469,
         "line": 3,
         "text": "yea, they did cry, Hosanna to the Most High ",
@@ -1314,7 +1321,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/469"
       },
       {
-        "id": "469:5",
+        "id": "469:5a",
         "page": 469,
         "line": 5,
         "text": "God Almighty, the Most High God.",
@@ -1328,7 +1335,7 @@
     "verse": 33,
     "lines": [
       {
-        "id": "469:5",
+        "id": "469:5b",
         "page": 469,
         "line": 5,
         "text": "And their hearts were ",
@@ -1363,7 +1370,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/469"
       },
       {
-        "id": "469:10",
+        "id": "469:10a",
         "page": 469,
         "line": 10,
         "text": "ered from an everlasting destruction.",

@@ -2,25 +2,18 @@
   {
     "book": "alma",
     "chapter": 12,
-    "verse": 2,
-    "lines": [
-      {
-        "id": "80:9",
-        "page": 80,
-        "line": 9,
-        "text": "& also Zeezrum",
-        "markdown": "& also Z{{eezrum}}",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/80"
-      }
-    ]
-  },
-  {
-    "book": "alma",
-    "chapter": 12,
     "verse": 18,
     "lines": [
       {
-        "id": "81:1",
+        "id": "80:9d",
+        "page": 80,
+        "line": 9,
+        "text": "Zeezrum ",
+        "markdown": "Z{{eezrum}} ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/80"
+      },
+      {
+        "id": "81:1a",
         "page": 81,
         "line": 1,
         "text": "you they shall be as tho there had been no redemption made for they cannot be redeemed according to Gods Justice & they cannot die seeing there isno more corruption",
@@ -35,7 +28,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "81:1",
+        "id": "81:1b",
         "page": 81,
         "line": 1,
         "text": "now it came to pass that when Alma hadmade an end of speaking these words the people began to be moreastonished",
@@ -50,7 +43,7 @@
     "verse": 20,
     "lines": [
       {
-        "id": "81:1",
+        "id": "81:1c",
         "page": 81,
         "line": 1,
         "text": "but there was one Antionah who was a Chief Ruleramong them came forth & said unto him what is this that thou hast said that man should rise from the dead & be changed from this mortalto an immortal state that the soul can never die",
@@ -65,7 +58,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "81:1",
+        "id": "81:1d",
         "page": 81,
         "line": 1,
         "text": "what does thisscripture mean which saith that God plased Cherubims & a ",
@@ -97,7 +90,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/81"
       },
       {
-        "id": "81:5",
+        "id": "81:5a",
         "page": 81,
         "line": 5,
         "text": "ance that they should live forever",
@@ -112,7 +105,7 @@
     "verse": 22,
     "lines": [
       {
-        "id": "81:5",
+        "id": "81:5b",
         "page": 81,
         "line": 5,
         "text": "now Alma saith unto him ",
@@ -136,7 +129,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/81"
       },
       {
-        "id": "81:8",
+        "id": "81:8a",
         "page": 81,
         "line": 8,
         "text": "word of God & thus we see that by his fall that all mankind became a lost & a fallen people",
@@ -151,7 +144,7 @@
     "verse": 23,
     "lines": [
       {
-        "id": "81:8",
+        "id": "81:8b",
         "page": 81,
         "line": 8,
         "text": "& now behold I say unto you thatif it had been possible for Adam for to have partaken of the ",
@@ -159,7 +152,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/81"
       },
       {
-        "id": "81:9",
+        "id": "81:9a",
         "page": 81,
         "line": 9,
         "text": "have been no death & the word would have been void makeing God a liar for he said if thou eat thou shalt surelydie",
@@ -174,25 +167,11 @@
     "verse": 24,
     "lines": [
       {
-        "id": "81:9",
+        "id": "81:9b",
         "page": 81,
         "line": 9,
-        "text": "& we see that death comes upon mankind yea the deathwhich has been spoken of by Amulek which is the temporaldeath nevertheless there was a space granted unto",
-        "markdown": "& we see t}}hat death com{{es upon mankind yea the deathwhich has bee}}n spoken of by {{Amulek which is the temporaldeath neverth}}eless {{the}}re {{was a space granted unto",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/81"
-      }
-    ]
-  },
-  {
-    "book": "alma",
-    "chapter": 12,
-    "verse": 25,
-    "lines": [
-      {
-        "id": "81:9",
-        "page": 81,
-        "line": 9,
-        "text": "man",
+        "text": "& we see that death comes upon mankind yea the deathwhich has been spoken of by Amulek which is the temporaldeath nevertheless there was a space granted unto man",
+        "markdown": "& we see t}}hat death com{{es upon mankind yea the deathwhich has bee}}n spoken of by {{Amulek which is the temporaldeath neverth}}eless {{the}}re {{was a space granted unto man",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/81"
       }
     ]
@@ -203,7 +182,7 @@
     "verse": 26,
     "lines": [
       {
-        "id": "81:9",
+        "id": "81:9c",
         "page": 81,
         "line": 9,
         "text": "in ",
@@ -211,7 +190,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/81"
       },
       {
-        "id": "82:1",
+        "id": "82:1a",
         "page": 82,
         "line": 1,
         "text": "have been frustrated & the word of God would have been voidtakeing none effect",
@@ -226,7 +205,7 @@
     "verse": 27,
     "lines": [
       {
-        "id": "82:1",
+        "id": "82:1b",
         "page": 82,
         "line": 1,
         "text": "but behold it was not so but it was appointedunto man that they must die & after death they must come to judgmenteven that same judgment of which we have spoken which isthe end",
@@ -241,7 +220,7 @@
     "verse": 28,
     "lines": [
       {
-        "id": "82:1",
+        "id": "82:1c",
         "page": 82,
         "line": 1,
         "text": "& after God had appointed that these things should comeunto man behold then he saw that it was expediant that manshould know concerning the things whereof he had appointed untothem",
@@ -256,7 +235,7 @@
     "verse": 29,
     "lines": [
       {
-        "id": "82:1",
+        "id": "82:1d",
         "page": 82,
         "line": 1,
         "text": "therefore he sent Angels to converse with them which caused mento behold of his glory",
@@ -271,7 +250,7 @@
     "verse": 30,
     "lines": [
       {
-        "id": "82:1",
+        "id": "82:1e",
         "page": 82,
         "line": 1,
         "text": "& they began from that time forth to call onhis name therefore God conversed with men & made known unto ",
@@ -295,7 +274,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/82"
       },
       {
-        "id": "82:4",
+        "id": "82:4a",
         "page": 82,
         "line": 4,
         "text": "faith & repentance & their holy works",
@@ -310,7 +289,7 @@
     "verse": 31,
     "lines": [
       {
-        "id": "82:4",
+        "id": "82:4b",
         "page": 82,
         "line": 4,
         "text": "wherefore he gave comma",
@@ -333,7 +312,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/82"
       },
       {
-        "id": "82:7",
+        "id": "82:7a",
         "page": 82,
         "line": 7,
         "text": "ds knowing good from evil placeing themselves in a state to actor being plased in a state <​to act​> according totheir wills & pleasures whether to do evil or to do good",
@@ -348,33 +327,18 @@
     "verse": 32,
     "lines": [
       {
-        "id": "82:7",
+        "id": "82:7b",
         "page": 82,
         "line": 7,
         "text": "therefore God gave unto them commandments after having made known ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/82"
       },
       {
-        "id": "82:8",
+        "id": "82:8a",
         "page": 82,
         "line": 8,
-        "text": "the penalty thereof being a second death which was an everlasting death as to things pertaining unto righteousness for onsuch the plan of redemption could have no power for theworks of justice could not be destroid according to",
-        "markdown": "{{the penalty thereof being a second death w}}hich was a{{n everlasting death as to things pertaining unto}} r{{i}}ghteousness for {{onsuch the plan of redemption could hav}}e no power for {{theworks of justice could not be destroid acco}}rding to",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/82"
-      }
-    ]
-  },
-  {
-    "book": "alma",
-    "chapter": 12,
-    "verse": 34,
-    "lines": [
-      {
-        "id": "82:8",
-        "page": 82,
-        "line": 8,
-        "text": "the supreme",
-        "markdown": "the sup{{reme}}",
+        "text": "the penalty thereof being a second death which was an everlasting death as to things pertaining unto righteousness for onsuch the plan of redemption could have no power for theworks of justice could not be destroid according to the",
+        "markdown": "{{the penalty thereof being a second death w}}hich was a{{n everlasting death as to things pertaining unto}} r{{i}}ghteousness for {{onsuch the plan of redemption could hav}}e no power for {{theworks of justice could not be destroid acco}}rding to the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/82"
       }
     ]
@@ -385,6 +349,14 @@
     "verse": 36,
     "lines": [
       {
+        "id": "82:8b",
+        "page": 82,
+        "line": 8,
+        "text": "supreme ",
+        "markdown": "sup{{reme}} ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/82"
+      },
+      {
         "id": "83:1",
         "page": 83,
         "line": 1,
@@ -393,7 +365,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/83"
       },
       {
-        "id": "83:2",
+        "id": "83:2a",
         "page": 83,
         "line": 2,
         "text": "the first to the everlasting destruction of your souls therefore accordingto his word unto <​the last​> death as well as the first",
@@ -408,7 +380,7 @@
     "verse": 37,
     "lines": [
       {
-        "id": "83:2",
+        "id": "83:2b",
         "page": 83,
         "line": 2,
         "text": "& now my Brethren seeing ",
@@ -448,7 +420,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/83"
       },
       {
-        "id": "83:7",
+        "id": "83:7a",
         "page": 83,
         "line": 7,
         "text": "d according to his word",

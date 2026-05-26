@@ -5,7 +5,7 @@
     "verse": 1,
     "lines": [
       {
-        "id": "82:35",
+        "id": "82:35b",
         "page": 82,
         "line": 35,
         "text": "Hearken unto me, ye ",
@@ -26,7 +26,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/82"
       },
       {
-        "id": "82:38",
+        "id": "82:38a",
         "page": 82,
         "line": 38,
         "text": "ye are digged.",
@@ -40,7 +40,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "82:38",
+        "id": "82:38b",
         "page": 82,
         "line": 38,
         "text": "Look unto Abraham, your father; and unto ",
@@ -54,7 +54,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/82"
       },
       {
-        "id": "82:40",
+        "id": "82:40a",
         "page": 82,
         "line": 40,
         "text": "him.",
@@ -68,7 +68,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "82:40",
+        "id": "82:40b",
         "page": 82,
         "line": 40,
         "text": "For the Lord shall comfort Zion: he will comfort all ",
@@ -120,7 +120,14 @@
         "id": "83:3",
         "page": 83,
         "line": 3,
-        "text": "judgment to rest for a light thing of the people.",
+        "text": "judgment to rest for a light thing of the people. My right ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/83"
+      },
+      {
+        "id": "83:4a",
+        "page": 83,
+        "line": 4,
+        "text": "eousness",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/83"
       }
     ]
@@ -131,17 +138,10 @@
     "verse": 5,
     "lines": [
       {
-        "id": "83:3",
-        "page": 83,
-        "line": 3,
-        "text": "My right",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/83"
-      },
-      {
-        "id": "83:4",
+        "id": "83:4b",
         "page": 83,
         "line": 4,
-        "text": "eousness is near; my salvation is gone forth, and mine arm ",
+        "text": "is near; my salvation is gone forth, and mine arm ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/83"
       },
       {
@@ -152,7 +152,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/83"
       },
       {
-        "id": "83:6",
+        "id": "83:6a",
         "page": 83,
         "line": 6,
         "text": "on mine arm shall they trust.",
@@ -166,7 +166,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "83:6",
+        "id": "83:6b",
         "page": 83,
         "line": 6,
         "text": "Lift up your eyes to the heav",
@@ -229,7 +229,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/83"
       },
       {
-        "id": "83:14",
+        "id": "83:14a",
         "page": 83,
         "line": 14,
         "text": "of men; neither be ye afraid of their revilings:",
@@ -243,7 +243,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "83:14",
+        "id": "83:14b",
         "page": 83,
         "line": 14,
         "text": "for the moth ",
@@ -292,7 +292,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/83"
       },
       {
-        "id": "83:20",
+        "id": "83:20a",
         "page": 83,
         "line": 20,
         "text": "and wounded the dragon?",
@@ -306,7 +306,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "83:20",
+        "id": "83:20b",
         "page": 83,
         "line": 20,
         "text": "Art thou not it which hath dried ",
@@ -320,10 +320,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/83"
       },
       {
-        "id": "83:22",
+        "id": "83:22a",
         "page": 83,
         "line": 22,
-        "text": "depths of the sea a way for the ransomed to pass over? There",
+        "text": "depths of the sea a way for the ransomed to pass over?",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/83"
       }
     ]
@@ -333,6 +333,13 @@
     "chapter": 8,
     "verse": 11,
     "lines": [
+      {
+        "id": "83:22b",
+        "page": 83,
+        "line": 22,
+        "text": "There",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/83"
+      },
       {
         "id": "83:23",
         "page": 83,
@@ -355,7 +362,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/83"
       },
       {
-        "id": "83:26",
+        "id": "83:26a",
         "page": 83,
         "line": 26,
         "text": "row and mourning shall flee away.",
@@ -369,7 +376,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "83:26",
+        "id": "83:26b",
         "page": 83,
         "line": 26,
         "text": "I am he; yea, I am he ",
@@ -390,7 +397,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/83"
       },
       {
-        "id": "83:29",
+        "id": "83:29a",
         "page": 83,
         "line": 29,
         "text": "which shall be made like unto grass;",
@@ -404,7 +411,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "83:29",
+        "id": "83:29b",
         "page": 83,
         "line": 29,
         "text": "and forgetest the Lord ",
@@ -474,7 +481,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/83"
       },
       {
-        "id": "83:37",
+        "id": "83:37a",
         "page": 83,
         "line": 37,
         "text": "of Hosts is my name.",
@@ -488,7 +495,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "83:37",
+        "id": "83:37b",
         "page": 83,
         "line": 37,
         "text": "And I have put my words in thy mouth, ",
@@ -509,7 +516,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/83"
       },
       {
-        "id": "83:40",
+        "id": "83:40a",
         "page": 83,
         "line": 40,
         "text": "say unto Zion, Behold, thou art my people.",
@@ -523,7 +530,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "83:40",
+        "id": "83:40b",
         "page": 83,
         "line": 40,
         "text": "Awake, awake, ",
@@ -544,7 +551,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/83"
       },
       {
-        "id": "83:43",
+        "id": "83:43a",
         "page": 83,
         "line": 43,
         "text": "cup of trembling rung out;",
@@ -558,7 +565,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "83:43",
+        "id": "83:43b",
         "page": 83,
         "line": 43,
         "text": "and none to guide her among all the ",
@@ -572,7 +579,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/84"
       },
       {
-        "id": "84:2",
+        "id": "84:2a",
         "page": 84,
         "line": 2,
         "text": "hand, of all the sons she hath brought up.",
@@ -586,7 +593,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "84:2",
+        "id": "84:2b",
         "page": 84,
         "line": 2,
         "text": "These two sons ",
@@ -607,7 +614,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/84"
       },
       {
-        "id": "84:5",
+        "id": "84:5a",
         "page": 84,
         "line": 5,
         "text": "by whom shall I comfort thee?",
@@ -621,7 +628,7 @@
     "verse": 20,
     "lines": [
       {
-        "id": "84:5",
+        "id": "84:5b",
         "page": 84,
         "line": 5,
         "text": "Thy sons have fainted, save ",
@@ -663,7 +670,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/84"
       },
       {
-        "id": "84:10",
+        "id": "84:10a",
         "page": 84,
         "line": 10,
         "text": "not with wine:",
@@ -677,7 +684,7 @@
     "verse": 22,
     "lines": [
       {
-        "id": "84:10",
+        "id": "84:10b",
         "page": 84,
         "line": 10,
         "text": "thus saith thy Lord, The Lord and thy God ",
@@ -698,7 +705,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/84"
       },
       {
-        "id": "84:13",
+        "id": "84:13a",
         "page": 84,
         "line": 13,
         "text": "fury; thou shalt no more drink it again.",
@@ -712,7 +719,7 @@
     "verse": 23,
     "lines": [
       {
-        "id": "84:13",
+        "id": "84:13b",
         "page": 84,
         "line": 13,
         "text": "But I will put it in",
@@ -750,21 +757,14 @@
         "id": "84:17",
         "page": 84,
         "line": 17,
-        "text": "Awake, awake, put on thy strength, O Zion; put on thy",
+        "text": "Awake, awake, put on thy strength, O Zion; put on thy ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/84"
-      }
-    ]
-  },
-  {
-    "book": "2-ne",
-    "chapter": 8,
-    "verse": 25,
-    "lines": [
+      },
       {
         "id": "84:18",
         "page": 84,
         "line": 18,
-        "text": "beautiful garments, O Jerusalem, the holy city: for hence ",
+        "text": "beautiful garments, O Jerusalem, the holy city: for hence",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/84"
       },
       {
@@ -775,10 +775,24 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/84"
       },
       {
-        "id": "84:20",
+        "id": "84:20a",
         "page": 84,
         "line": 20,
-        "text": "and the unclean. Shake thyself from the dust; arise, sit ",
+        "text": "and the unclean.",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/84"
+      }
+    ]
+  },
+  {
+    "book": "2-ne",
+    "chapter": 8,
+    "verse": 25,
+    "lines": [
+      {
+        "id": "84:20b",
+        "page": 84,
+        "line": 20,
+        "text": "Shake thyself from the dust; arise, sit ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/84"
       },
       {
@@ -792,14 +806,7 @@
         "id": "84:22",
         "page": 84,
         "line": 22,
-        "text": "O captive daughter of Zion. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/84"
-      },
-      {
-        "id": "84:23",
-        "page": 84,
-        "line": 23,
-        "text": "CHAPTER VI.",
+        "text": "O captive daughter of Zion.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/84"
       }
     ]

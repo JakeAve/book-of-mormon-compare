@@ -5,11 +5,17 @@
     "verse": 0,
     "lines": [
       {
-        "id": "464:9",
+        "id": "464:8",
+        "page": 464,
+        "line": 8,
+        "text": "Chapter IX—— ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/464"
+      },
+      {
+        "id": "464:9a",
         "page": 464,
         "line": 9,
         "text": "The second epistle of Mormon to his son Moroni——",
-        "markdown": "The second epistle of Mormon to his son Moroni—— My beloved son I write",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/464"
       }
     ]
@@ -20,11 +26,10 @@
     "verse": 1,
     "lines": [
       {
-        "id": "464:9",
+        "id": "464:9b",
         "page": 464,
         "line": 9,
         "text": "My beloved son I write ",
-        "markdown": "The second epistle of Mormon to his son Moroni—— My beloved son I write ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/464"
       },
       {
@@ -35,7 +40,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/464"
       },
       {
-        "id": "464:11",
+        "id": "464:11a",
         "page": 464,
         "line": 11,
         "text": "is grieveous",
@@ -49,7 +54,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "464:11",
+        "id": "464:11b",
         "page": 464,
         "line": 11,
         "text": "for behold I have had a sore battle with the Lamanites in the which we ",
@@ -63,7 +68,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/464"
       },
       {
-        "id": "464:13",
+        "id": "464:13a",
         "page": 464,
         "line": 13,
         "text": "have lost a great number of our choice men",
@@ -77,7 +82,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "464:13",
+        "id": "464:13b",
         "page": 464,
         "line": 13,
         "text": "& now behold my son I fear lest the ",
@@ -91,7 +96,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/464"
       },
       {
-        "id": "464:15",
+        "id": "464:15a",
         "page": 464,
         "line": 15,
         "text": "tinually to anger one with another",
@@ -105,7 +110,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "464:15",
+        "id": "464:15b",
         "page": 464,
         "line": 15,
         "text": "behold I am laboring with them continually & ",
@@ -126,7 +131,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/464"
       },
       {
-        "id": "464:18",
+        "id": "464:18a",
         "page": 464,
         "line": 18,
         "text": "the Lord hath ceased striving with them",
@@ -141,7 +146,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "464:18",
+        "id": "464:18b",
         "page": 464,
         "line": 18,
         "text": "for so exceedingly do they anger that it seemeth me ",
@@ -156,7 +161,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/464"
       },
       {
-        "id": "464:20",
+        "id": "464:20a",
         "page": 464,
         "line": 20,
         "text": "after blood & revenge continually",
@@ -170,7 +175,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "464:20",
+        "id": "464:20b",
         "page": 464,
         "line": 20,
         "text": "& now my beloved son notwithstanding their hardness ",
@@ -193,7 +198,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/464"
       },
       {
-        "id": "464:23",
+        "id": "464:23a",
         "page": 464,
         "line": 23,
         "text": "conquer the enemy of all righteousness & rest our souls in the kingdom of God",
@@ -207,7 +212,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "464:23",
+        "id": "464:23b",
         "page": 464,
         "line": 23,
         "text": "& now I ",
@@ -229,7 +234,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/464"
       },
       {
-        "id": "464:26",
+        "id": "464:26a",
         "page": 464,
         "line": 26,
         "text": "from the tower Sherrizah & there were men women & children",
@@ -243,7 +248,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "464:26",
+        "id": "464:26b",
         "page": 464,
         "line": 26,
         "text": "& the husbands & fathers of ",
@@ -264,7 +269,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/464"
       },
       {
-        "id": "464:29",
+        "id": "464:29a",
         "page": 464,
         "line": 29,
         "text": "unto them",
@@ -278,7 +283,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "464:29",
+        "id": "464:29b",
         "page": 464,
         "line": 29,
         "text": "& notwithstanding this great abomination of the Lamanites it doth not exceed ",
@@ -300,7 +305,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/464"
       },
       {
-        "id": "464:32",
+        "id": "464:32a",
         "page": 464,
         "line": 32,
         "text": "above all things which is chastity & vertue",
@@ -314,7 +319,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "464:32",
+        "id": "464:32b",
         "page": 464,
         "line": 32,
         "text": "& after that they had none this thing they ",
@@ -335,7 +340,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/464"
       },
       {
-        "id": "464:35",
+        "id": "464:35a",
         "page": 464,
         "line": 35,
         "text": "the hardness of their hearts & they do it for a token of bravery",
@@ -349,14 +354,14 @@
     "verse": 11,
     "lines": [
       {
-        "id": "464:35",
+        "id": "464:35b",
         "page": 464,
         "line": 35,
         "text": "O my beloved son ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/464"
       },
       {
-        "id": "464:36",
+        "id": "464:36a",
         "page": 464,
         "line": 36,
         "text": "how can a people like this that are without civilizeation",
@@ -370,14 +375,14 @@
     "verse": 12,
     "lines": [
       {
-        "id": "464:36",
+        "id": "464:36b",
         "page": 464,
         "line": 36,
         "text": "& only a few years have passed ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/464"
       },
       {
-        "id": "464:37",
+        "id": "464:37a",
         "page": 464,
         "line": 37,
         "text": "away & they were a civil & a delightsome people",
@@ -391,14 +396,14 @@
     "verse": 13,
     "lines": [
       {
-        "id": "464:37",
+        "id": "464:37b",
         "page": 464,
         "line": 37,
         "text": "but O my son how can a people like this ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/464"
       },
       {
-        "id": "464:38",
+        "id": "464:38a",
         "page": 464,
         "line": 38,
         "text": "whose delight is in so much abomination",
@@ -412,14 +417,14 @@
     "verse": 14,
     "lines": [
       {
-        "id": "464:38",
+        "id": "464:38b",
         "page": 464,
         "line": 38,
         "text": "how can we expect that God will stay his hand ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/464"
       },
       {
-        "id": "464:39",
+        "id": "464:39a",
         "page": 464,
         "line": 39,
         "text": "in judgement against us",
@@ -433,14 +438,14 @@
     "verse": 15,
     "lines": [
       {
-        "id": "464:39",
+        "id": "464:39b",
         "page": 464,
         "line": 39,
         "text": "behold my heart cries Wo unto this people come out in jud",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/464"
       },
       {
-        "id": "464:40",
+        "id": "464:40a",
         "page": 464,
         "line": 40,
         "text": "gement O God & hide their sins & wickedness & abominations from before thy face",
@@ -454,7 +459,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "464:40",
+        "id": "464:40b",
         "page": 464,
         "line": 40,
         "text": "& ",
@@ -482,7 +487,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/465"
       },
       {
-        "id": "465:4",
+        "id": "465:4a",
         "page": 465,
         "line": 4,
         "text": "many old women do faint by the way & die",
@@ -496,7 +501,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "465:4",
+        "id": "465:4b",
         "page": 465,
         "line": 4,
         "text": "& the army which is with me is weak & the ",
@@ -510,7 +515,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/465"
       },
       {
-        "id": "465:6",
+        "id": "465:6a",
         "page": 465,
         "line": 6,
         "text": "Aaron have fallen victims to their awful bruitality",
@@ -524,7 +529,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "465:6",
+        "id": "465:6b",
         "page": 465,
         "line": 6,
         "text": "O the depravity of my people they ",
@@ -538,7 +543,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/465"
       },
       {
-        "id": "465:8",
+        "id": "465:8a",
         "page": 465,
         "line": 8,
         "text": "man & I cannot any longer enforce my commands",
@@ -552,7 +557,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "465:8",
+        "id": "465:8b",
         "page": 465,
         "line": 8,
         "text": "& they have become strong in their perver",
@@ -573,7 +578,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/465"
       },
       {
-        "id": "465:11",
+        "id": "465:11a",
         "page": 465,
         "line": 11,
         "text": "this land doth exceed every thing yea tongue cannot tell neither can it be written",
@@ -587,7 +592,7 @@
     "verse": 20,
     "lines": [
       {
-        "id": "465:11",
+        "id": "465:11b",
         "page": 465,
         "line": 11,
         "text": "& now my ",
@@ -608,7 +613,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/465"
       },
       {
-        "id": "465:14",
+        "id": "465:14a",
         "page": 465,
         "line": 14,
         "text": "doth exceed that of the Lamanites",
@@ -622,14 +627,14 @@
     "verse": 21,
     "lines": [
       {
-        "id": "465:14",
+        "id": "465:14b",
         "page": 465,
         "line": 14,
         "text": "behold my son I cannot recommend them unto God lest ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/465"
       },
       {
-        "id": "465:15",
+        "id": "465:15a",
         "page": 465,
         "line": 15,
         "text": "he should smite me",
@@ -643,7 +648,7 @@
     "verse": 22,
     "lines": [
       {
-        "id": "465:15",
+        "id": "465:15b",
         "page": 465,
         "line": 15,
         "text": "but behold my son I recommend thee unto God & I trust in Christ ",
@@ -664,7 +669,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/465"
       },
       {
-        "id": "465:18",
+        "id": "465:18a",
         "page": 465,
         "line": 18,
         "text": "must perish except they repent & return unto him",
@@ -678,7 +683,7 @@
     "verse": 23,
     "lines": [
       {
-        "id": "465:18",
+        "id": "465:18b",
         "page": 465,
         "line": 18,
         "text": "& if they perish it will be like ",
@@ -692,7 +697,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/465"
       },
       {
-        "id": "465:20",
+        "id": "465:20a",
         "page": 465,
         "line": 20,
         "text": "venge",
@@ -706,7 +711,7 @@
     "verse": 24,
     "lines": [
       {
-        "id": "465:20",
+        "id": "465:20b",
         "page": 465,
         "line": 20,
         "text": "& if it so be that they perish we know that many of our brethren have desented ",
@@ -734,10 +739,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/465"
       },
       {
-        "id": "465:24",
+        "id": "465:24a",
         "page": 465,
         "line": 24,
-        "text": "up unto the",
+        "text": "up unto the my son be faithful in christ &",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/465"
       }
     ]
@@ -748,10 +753,10 @@
     "verse": 25,
     "lines": [
       {
-        "id": "465:24",
+        "id": "465:24b",
         "page": 465,
         "line": 24,
-        "text": "my son be faithful in christ & may not the things which I have written ",
+        "text": "may not the things which I have written ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/465"
       },
       {
@@ -770,7 +775,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/465"
       },
       {
-        "id": "465:27",
+        "id": "465:27a",
         "page": 465,
         "line": 27,
         "text": "his glory & of eternal life rest in your mind forever",
@@ -784,7 +789,7 @@
     "verse": 26,
     "lines": [
       {
-        "id": "465:27",
+        "id": "465:27b",
         "page": 465,
         "line": 27,
         "text": "& may the grace of God the Father who",
@@ -808,14 +813,7 @@
         "id": "465:30",
         "page": 465,
         "line": 30,
-        "text": "ever Amen.—— ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/465"
-      },
-      {
-        "id": "465:31",
-        "page": 465,
-        "line": 31,
-        "text": "Chapter",
+        "text": "ever Amen.——",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/465"
       }
     ]

@@ -26,7 +26,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/300"
       },
       {
-        "id": "300:46",
+        "id": "300:46a",
         "page": 300,
         "line": 46,
         "text": "he might show him unto his father.",
@@ -40,7 +40,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "300:46",
+        "id": "300:46b",
         "page": 300,
         "line": 46,
         "text": "And the voice of ",
@@ -78,7 +78,14 @@
         "id": "301:4",
         "page": 301,
         "line": 4,
-        "text": "mah are in prison.",
+        "text": "mah are in prison. ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/301"
+      },
+      {
+        "id": "301:5a",
+        "page": 301,
+        "line": 5,
+        "text": "Now it came to pass",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/301"
       }
     ]
@@ -89,10 +96,10 @@
     "verse": 3,
     "lines": [
       {
-        "id": "301:5",
+        "id": "301:5b",
         "page": 301,
         "line": 5,
-        "text": "Now it came to pass that when Ammon had heard ",
+        "text": "that when Ammon had heard ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/301"
       },
       {
@@ -110,7 +117,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/301"
       },
       {
-        "id": "301:8",
+        "id": "301:8a",
         "page": 301,
         "line": 8,
         "text": "deliver them.",
@@ -124,7 +131,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "301:8",
+        "id": "301:8b",
         "page": 301,
         "line": 8,
         "text": "Now Lamoni said unto Ammon, I ",
@@ -183,7 +190,14 @@
         "id": "301:16",
         "page": 301,
         "line": 16,
-        "text": "brethren were in prison?",
+        "text": "brethren were in prison? And Ammon said unto him, ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/301"
+      },
+      {
+        "id": "301:17a",
+        "page": 301,
+        "line": 17,
+        "text": "no one hath told me,",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/301"
       }
     ]
@@ -194,17 +208,10 @@
     "verse": 5,
     "lines": [
       {
-        "id": "301:16",
-        "page": 301,
-        "line": 16,
-        "text": "And Ammon said unto him, ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/301"
-      },
-      {
-        "id": "301:17",
+        "id": "301:17b",
         "page": 301,
         "line": 17,
-        "text": "no one hath told me, save it be God: and he said unto ",
+        "text": "save it be God: and he said unto ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/301"
       },
       {
@@ -215,7 +222,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/301"
       },
       {
-        "id": "301:19",
+        "id": "301:19a",
         "page": 301,
         "line": 19,
         "text": "in the land of Middoni.",
@@ -229,7 +236,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "301:19",
+        "id": "301:19b",
         "page": 301,
         "line": 19,
         "text": "Now when Lamoni had heard ",
@@ -243,7 +250,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/301"
       },
       {
-        "id": "301:21",
+        "id": "301:21a",
         "page": 301,
         "line": 21,
         "text": "horses, and his chariots.",
@@ -257,7 +264,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "301:21",
+        "id": "301:21b",
         "page": 301,
         "line": 21,
         "text": "And he said unto Ammon ",
@@ -306,7 +313,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/301"
       },
       {
-        "id": "301:27",
+        "id": "301:27a",
         "page": 301,
         "line": 27,
         "text": "moni, who was king over all the land.",
@@ -320,7 +327,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "301:27",
+        "id": "301:27b",
         "page": 301,
         "line": 27,
         "text": "And behold, the ",
@@ -341,7 +348,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/301"
       },
       {
-        "id": "301:30",
+        "id": "301:30a",
         "page": 301,
         "line": 30,
         "text": "my sons, and unto my people?",
@@ -355,7 +362,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "301:30",
+        "id": "301:30b",
         "page": 301,
         "line": 30,
         "text": "And he also said, whith",
@@ -369,7 +376,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/301"
       },
       {
-        "id": "301:32",
+        "id": "301:32a",
         "page": 301,
         "line": 32,
         "text": "children of a liar?",
@@ -383,7 +390,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "301:32",
+        "id": "301:32b",
         "page": 301,
         "line": 32,
         "text": "And it came to pass that Lamoni ",
@@ -397,7 +404,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/301"
       },
       {
-        "id": "301:34",
+        "id": "301:34a",
         "page": 301,
         "line": 34,
         "text": "to offend him.",
@@ -411,7 +418,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "301:34",
+        "id": "301:34b",
         "page": 301,
         "line": 34,
         "text": "And he also told him all the cause of ",
@@ -488,7 +495,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/301"
       },
       {
-        "id": "301:44",
+        "id": "301:44a",
         "page": 301,
         "line": 44,
         "text": "rob us of our property.",
@@ -502,7 +509,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "301:44",
+        "id": "301:44b",
         "page": 301,
         "line": 44,
         "text": "Now the father of Lamoni ",
@@ -533,7 +540,21 @@
         "id": "302:1",
         "page": 302,
         "line": 1,
-        "text": "turn with hm, to the land of Ishmael.",
+        "text": "turn with hm, to the land of Ishmael. But Lamoni ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/302"
+      },
+      {
+        "id": "302:2",
+        "page": 302,
+        "line": 2,
+        "text": "said unto him, I will not slay Ammon, neither will I",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/302"
+      },
+      {
+        "id": "302:3a",
+        "page": 302,
+        "line": 3,
+        "text": "return to the land of Ishmael,",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/302"
       }
     ]
@@ -544,24 +565,10 @@
     "verse": 15,
     "lines": [
       {
-        "id": "302:1",
-        "page": 302,
-        "line": 1,
-        "text": "But Lamoni ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/302"
-      },
-      {
-        "id": "302:2",
-        "page": 302,
-        "line": 2,
-        "text": "said unto him, I will not slay Ammon, neither will I ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/302"
-      },
-      {
-        "id": "302:3",
+        "id": "302:3b",
         "page": 302,
         "line": 3,
-        "text": "return to the land of Ishmael, but I go to the land of ",
+        "text": "but I go to the land of ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/302"
       },
       {
@@ -579,7 +586,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/302"
       },
       {
-        "id": "302:6",
+        "id": "302:6a",
         "page": 302,
         "line": 6,
         "text": "of the true God.",
@@ -593,7 +600,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "302:6",
+        "id": "302:6b",
         "page": 302,
         "line": 6,
         "text": "Now when his father had heard ",
@@ -607,10 +614,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/302"
       },
       {
-        "id": "302:8",
+        "id": "302:8a",
         "page": 302,
         "line": 8,
-        "text": "sword that he might smite him to the earth. But",
+        "text": "sword that he might smite him to the earth.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/302"
       }
     ]
@@ -621,10 +628,10 @@
     "verse": 17,
     "lines": [
       {
-        "id": "302:8",
+        "id": "302:8b",
         "page": 302,
         "line": 8,
-        "text": "Am",
+        "text": "But Am",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/302"
       },
       {
@@ -656,7 +663,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/302"
       },
       {
-        "id": "302:13",
+        "id": "302:13a",
         "page": 302,
         "line": 13,
         "text": "anger, thy soul could not be saved.",
@@ -670,7 +677,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "302:13",
+        "id": "302:13b",
         "page": 302,
         "line": 13,
         "text": "And again, it is ",
@@ -705,7 +712,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/302"
       },
       {
-        "id": "302:18",
+        "id": "302:18a",
         "page": 302,
         "line": 18,
         "text": "thou wouldst lose thy soul.",
@@ -719,7 +726,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "302:18",
+        "id": "302:18b",
         "page": 302,
         "line": 18,
         "text": "Now when Ammon had ",
@@ -747,7 +754,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/302"
       },
       {
-        "id": "302:22",
+        "id": "302:22a",
         "page": 302,
         "line": 22,
         "text": "him:",
@@ -761,7 +768,7 @@
     "verse": 20,
     "lines": [
       {
-        "id": "302:22",
+        "id": "302:22b",
         "page": 302,
         "line": 22,
         "text": "and he stretched forth his hand to slay Ammon. ",
@@ -775,7 +782,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/302"
       },
       {
-        "id": "302:24",
+        "id": "302:24a",
         "page": 302,
         "line": 24,
         "text": "arm that he could not use it.",
@@ -789,7 +796,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "302:24",
+        "id": "302:24b",
         "page": 302,
         "line": 24,
         "text": "Now when the king ",
@@ -803,7 +810,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/302"
       },
       {
-        "id": "302:26",
+        "id": "302:26a",
         "page": 302,
         "line": 26,
         "text": "with Ammon, that he would spare his life.",
@@ -817,7 +824,7 @@
     "verse": 22,
     "lines": [
       {
-        "id": "302:26",
+        "id": "302:26b",
         "page": 302,
         "line": 26,
         "text": "But Am",
@@ -838,7 +845,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/302"
       },
       {
-        "id": "302:29",
+        "id": "302:29a",
         "page": 302,
         "line": 29,
         "text": "my brethren may be cast out of prison.",
@@ -852,7 +859,7 @@
     "verse": 23,
     "lines": [
       {
-        "id": "302:29",
+        "id": "302:29b",
         "page": 302,
         "line": 29,
         "text": "Now the ",
@@ -936,7 +943,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/302"
       },
       {
-        "id": "302:40",
+        "id": "302:40a",
         "page": 302,
         "line": 40,
         "text": "I will smite thee to the earth.",
@@ -950,7 +957,7 @@
     "verse": 25,
     "lines": [
       {
-        "id": "302:40",
+        "id": "302:40b",
         "page": 302,
         "line": 40,
         "text": "Now when Ammon ",
@@ -964,7 +971,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/302"
       },
       {
-        "id": "302:42",
+        "id": "302:42a",
         "page": 302,
         "line": 42,
         "text": "of his life.",
@@ -978,7 +985,7 @@
     "verse": 26,
     "lines": [
       {
-        "id": "302:42",
+        "id": "302:42b",
         "page": 302,
         "line": 42,
         "text": "And when he saw that Ammon had no ",
@@ -1034,7 +1041,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/303"
       },
       {
-        "id": "303:3",
+        "id": "303:3a",
         "page": 303,
         "line": 3,
         "text": "no more.",
@@ -1048,7 +1055,7 @@
     "verse": 27,
     "lines": [
       {
-        "id": "303:3",
+        "id": "303:3b",
         "page": 303,
         "line": 3,
         "text": "And I will also grant unto thee that thy ",
@@ -1093,14 +1100,7 @@
         "id": "303:9",
         "page": 303,
         "line": 9,
-        "text": "Lamoni; therefore he was desirous to learn them. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/303"
-      },
-      {
-        "id": "303:10",
-        "page": 303,
-        "line": 10,
-        "text": "And it came to pass that Ammon and Lamoni pro",
+        "text": "Lamoni; therefore he was desirous to learn them.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/303"
       }
     ]
@@ -1110,6 +1110,13 @@
     "chapter": 20,
     "verse": 28,
     "lines": [
+      {
+        "id": "303:10",
+        "page": 303,
+        "line": 10,
+        "text": "And it came to pass that Ammon and Lamoni pro",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/303"
+      },
       {
         "id": "303:11",
         "page": 303,
@@ -1132,7 +1139,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/303"
       },
       {
-        "id": "303:14",
+        "id": "303:14a",
         "page": 303,
         "line": 14,
         "text": "forth out of prison.",
@@ -1146,7 +1153,7 @@
     "verse": 29,
     "lines": [
       {
-        "id": "303:14",
+        "id": "303:14b",
         "page": 303,
         "line": 14,
         "text": "And when Ammon did meet them, ",
@@ -1261,14 +1268,7 @@
         "id": "303:29",
         "page": 303,
         "line": 29,
-        "text": "and Ammon. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/303"
-      },
-      {
-        "id": "303:30",
-        "page": 303,
-        "line": 30,
-        "text": "CHAPTER XIII.",
+        "text": "and Ammon.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/303"
       }
     ]

@@ -2,29 +2,22 @@
   {
     "book": "alma",
     "chapter": 19,
-    "verse": 1,
-    "lines": [
-      {
-        "id": "85:1",
-        "page": 85,
-        "line": 1,
-        "text": "it",
-        "markdown": "{{it}}",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/85"
-      }
-    ]
-  },
-  {
-    "book": "alma",
-    "chapter": 19,
     "verse": 3,
     "lines": [
       {
-        "id": "85:1",
+        "id": "84:11d",
+        "page": 84,
+        "line": 11,
+        "text": "the people ",
+        "markdown": "the people}} ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/84"
+      },
+      {
+        "id": "85:1a",
         "page": 85,
         "line": 1,
-        "text": "came to pass that Ammon did as he was commanded & went in unto the Queen& desired to know what she would that he should do &",
-        "markdown": "came to pass that Am{{mon did as he was commanded & went in unto the Queen&}} desired to know what she {{would that he should do &",
+        "text": "it came to pass that Ammon did as he was commanded & went in unto the Queen& desired to know what she would that he should do",
+        "markdown": "{{it}} came to pass that Am{{mon did as he was commanded & went in unto the Queen&}} desired to know what she {{would that he should do",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/85"
       }
     ]
@@ -35,11 +28,11 @@
     "verse": 4,
     "lines": [
       {
-        "id": "85:1",
+        "id": "85:1b",
         "page": 85,
         "line": 1,
-        "text": "she saith unto him the servants of my husband have made it known unto me that thou art a prophet of aholy God & that thou hast Power to do many mighty works in his name",
-        "markdown": "she saith unto him the servan}}ts {{o}}f my husband have made it k{{nown unto me that thou art a prophet of aholy}} God & that thou h{{as}}t Power to {{do many mighty works in his name",
+        "text": "& she saith unto him the servants of my husband have made it known unto me that thou art a prophet of aholy God & that thou hast Power to do many mighty works in his",
+        "markdown": "& she saith unto him the servan}}ts {{o}}f my husband have made it k{{nown unto me that thou art a prophet of aholy}} God & that thou h{{as}}t Power to {{do many mighty works in his",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/85"
       }
     ]
@@ -50,11 +43,11 @@
     "verse": 5,
     "lines": [
       {
-        "id": "85:1",
+        "id": "85:1c",
         "page": 85,
         "line": 1,
-        "text": "thereforeif this is the case I would that ye should go in & see my husband for he hasbeen laid upon his bed for the space of two days & two nights & some say ",
-        "markdown": "thereforeif}} this is the case I would t{{ha}}t {{y}}e {{should go in & see my husband for he hasb}}een laid upon h{{is bed for the}} space {{of two days & two nights & some say}} ",
+        "text": "name thereforeif this is the case I would that ye should go in & see my husband for he hasbeen laid upon his bed for the space of two days & two nights & some say ",
+        "markdown": "name thereforeif}} this is the case I would t{{ha}}t {{y}}e {{should go in & see my husband for he hasb}}een laid upon h{{is bed for the}} space {{of two days & two nights & some say}} ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/85"
       },
       {
@@ -74,7 +67,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/85"
       },
       {
-        "id": "85:4",
+        "id": "85:4a",
         "page": 85,
         "line": 4,
         "text": "me he doath not stink",
@@ -89,7 +82,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "85:4",
+        "id": "85:4b",
         "page": 85,
         "line": 4,
         "text": "now this was what Ammon desired for he knew thatking Lamoni was under the power of God he knew that the dark veilof unbeleef being cast away from his mind & the light which did light up his mind which was the light of the glory of God which was a marve",
@@ -121,7 +114,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/85"
       },
       {
-        "id": "85:8",
+        "id": "85:8a",
         "page": 85,
         "line": 8,
         "text": "natural frame & he was carried away in God",
@@ -136,7 +129,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "85:8",
+        "id": "85:8b",
         "page": 85,
         "line": 8,
         "text": "therefore what the ",
@@ -160,7 +153,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/85"
       },
       {
-        "id": "85:11",
+        "id": "85:11a",
         "page": 85,
         "line": 11,
         "text": "knew that he was not dead",
@@ -175,7 +168,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "85:11",
+        "id": "85:11b",
         "page": 85,
         "line": 11,
         "text": "& he saith unto the Queen he is notdead but he sleepeth in God & on the morrow he shall rise againtherefore bury him not",
@@ -190,7 +183,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "85:11",
+        "id": "85:11c",
         "page": 85,
         "line": 11,
         "text": "& Ammon saith unto her believest thouthis & she said unto him I have had no witness save thy word &the word of our servants nevertheless I believe that it shall",
@@ -205,7 +198,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "85:11",
+        "id": "85:11d",
         "page": 85,
         "line": 11,
         "text": "be ",
@@ -221,7 +214,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/85"
       },
       {
-        "id": "85:13",
+        "id": "85:13a",
         "page": 85,
         "line": 13,
         "text": "been such great faith among all the people of the Nephites",
@@ -236,7 +229,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "85:13",
+        "id": "85:13b",
         "page": 85,
         "line": 13,
         "text": "& it came ",
@@ -251,26 +244,11 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/85"
       },
       {
-        "id": "85:15",
+        "id": "85:15a",
         "page": 85,
         "line": 15,
-        "text": "even untill that time on the morrow",
-        "markdown": "{{even untill that time on the morrow",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/85"
-      }
-    ]
-  },
-  {
-    "book": "alma",
-    "chapter": 19,
-    "verse": 12,
-    "lines": [
-      {
-        "id": "85:15",
-        "page": 85,
-        "line": 15,
-        "text": "which",
-        "markdown": "whi}}ch",
+        "text": "even untill that time on the morrow which",
+        "markdown": "{{even untill that time on the morrow whi}}ch",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/85"
       }
     ]
@@ -281,14 +259,14 @@
     "verse": 13,
     "lines": [
       {
-        "id": "85:15",
+        "id": "85:15b",
         "page": 85,
         "line": 15,
         "text": "Ammon ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/85"
       },
       {
-        "id": "86:1",
+        "id": "86:1a",
         "page": 86,
         "line": 1,
         "text": "the spirit",
@@ -303,7 +281,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "86:1",
+        "id": "86:1b",
         "page": 86,
         "line": 1,
         "text": "now Ammon seeing the spirit of the Lord poured out accordingto his prayers upon the Lamanites his brethren which had been the causeof so much mourning among the Nephites or among all the peopleof God because of their iniquities & their traditions & Ammonfell upon his knees & began to pour out his soul in prayer & thanksgiving <​to God​> for what he had done for his brethren & he also was overpowered with joy & thus they all three had sunk to the earth",
@@ -318,7 +296,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "86:1",
+        "id": "86:1c",
         "page": 86,
         "line": 1,
         "text": "now whenthe servants of the King had saw that they had fallen they also began to cry unto God for the fear of the Lord had come upon themalso for it was they which had stood before the King & testified unto him concerning the great power of Ammon",
@@ -333,7 +311,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "86:1",
+        "id": "86:1d",
         "page": 86,
         "line": 1,
         "text": "it came to pass that they did call on <​the name of​> the Lord in their might evenuntill they had all fallen to the earth save it were one of the Lama",
@@ -357,7 +335,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/86"
       },
       {
-        "id": "86:4",
+        "id": "86:4a",
         "page": 86,
         "line": 4,
         "text": "Father",
@@ -372,7 +350,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "86:4",
+        "id": "86:4b",
         "page": 86,
         "line": 4,
         "text": "thus having been converted to the Lord never had made it kno",
@@ -420,11 +398,11 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/86"
       },
       {
-        "id": "86:10",
+        "id": "86:10a",
         "page": 86,
         "line": 10,
-        "text": "therefore she ran forth from house to house makeing it",
-        "markdown": "{{therefore she ran forth from house to house makeing it}}",
+        "text": "therefore she ran forth from house to house",
+        "markdown": "{{therefore she ran forth from house to house",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/86"
       }
     ]
@@ -435,11 +413,11 @@
     "verse": 18,
     "lines": [
       {
-        "id": "86:10",
+        "id": "86:10b",
         "page": 86,
         "line": 10,
-        "text": "known ",
-        "markdown": "k{{nown}} ",
+        "text": "makeing it known ",
+        "markdown": "makeing it}} k{{nown}} ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/86"
       },
       {
@@ -467,7 +445,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/86"
       },
       {
-        "id": "86:14",
+        "id": "86:14a",
         "page": 86,
         "line": 14,
         "text": "dead & they also saw Ammon & behold he was a Nephite",
@@ -482,25 +460,11 @@
     "verse": 19,
     "lines": [
       {
-        "id": "86:14",
+        "id": "86:14b",
         "page": 86,
         "line": 14,
-        "text": "& now thepeople began to murmur among themselves some saying that",
-        "markdown": "& now thepeople}} b{{egan to murmur among themselves some saying that",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/86"
-      }
-    ]
-  },
-  {
-    "book": "alma",
-    "chapter": 19,
-    "verse": 20,
-    "lines": [
-      {
-        "id": "86:14",
-        "page": 86,
-        "line": 14,
-        "text": "it",
+        "text": "& now thepeople began to murmur among themselves some saying that it",
+        "markdown": "& now thepeople}} b{{egan to murmur among themselves some saying that it",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/86"
       }
     ]
@@ -511,7 +475,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "86:14",
+        "id": "86:14c",
         "page": 86,
         "line": 14,
         "text": "was ",
@@ -519,7 +483,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/86"
       },
       {
-        "id": "87:1",
+        "id": "87:1a",
         "page": 87,
         "line": 1,
         "text": "Sebus & scattered the flocks which belonged to the King forthey were angary wi with Ammon because of the number which he hadslain of their Brethren at the waters of Sebus while defending theflocks of the King",
@@ -534,7 +498,7 @@
     "verse": 22,
     "lines": [
       {
-        "id": "87:1",
+        "id": "87:1b",
         "page": 87,
         "line": 1,
         "text": "now one of them whose brother had beenslain with the swoard of Ammon being exceding angary with Ammon ",
@@ -558,7 +522,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/87"
       },
       {
-        "id": "87:4",
+        "id": "87:4a",
         "page": 87,
         "line": 4,
         "text": "he fell dead",
@@ -572,7 +536,7 @@
     "verse": 23,
     "lines": [
       {
-        "id": "87:4",
+        "id": "87:4b",
         "page": 87,
         "line": 4,
         "text": "now we see that Ammon could not be slain for ",
@@ -596,7 +560,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/87"
       },
       {
-        "id": "87:7",
+        "id": "87:7a",
         "page": 87,
         "line": 7,
         "text": "fore Mosiah trusted him unto the Lord",
@@ -611,7 +575,7 @@
     "verse": 24,
     "lines": [
       {
-        "id": "87:7",
+        "id": "87:7b",
         "page": 87,
         "line": 7,
         "text": "& it came to pass thatwhen the multitude beheld that the man had fell deadwho lifted the swoard to slay Ammon fear came upon them ",
@@ -643,7 +607,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/87"
       },
       {
-        "id": "87:11",
+        "id": "87:11a",
         "page": 87,
         "line": 11,
         "text": "wer or what all these things could mean",
@@ -658,7 +622,7 @@
     "verse": 25,
     "lines": [
       {
-        "id": "87:11",
+        "id": "87:11b",
         "page": 87,
         "line": 11,
         "text": "& it came to pass ",
@@ -666,26 +630,11 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/87"
       },
       {
-        "id": "87:12",
+        "id": "87:12a",
         "page": 87,
         "line": 12,
-        "text": "that there was many among them who said that Ammon",
-        "markdown": "that the{{re was many among them who said that Ammon",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/87"
-      }
-    ]
-  },
-  {
-    "book": "alma",
-    "chapter": 19,
-    "verse": 27,
-    "lines": [
-      {
-        "id": "87:12",
-        "page": 87,
-        "line": 12,
-        "text": "was the",
-        "markdown": "was the}}",
+        "text": "that there was many among them who said that Ammon was",
+        "markdown": "that the{{re was many among them who said that Ammon was",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/87"
       }
     ]
@@ -696,7 +645,15 @@
     "verse": 29,
     "lines": [
       {
-        "id": "88:1",
+        "id": "87:12b",
+        "page": 87,
+        "line": 12,
+        "text": "the ",
+        "markdown": "the}} ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/87"
+      },
+      {
+        "id": "88:1a",
         "page": 88,
         "line": 1,
         "text": "O blessed Jesus who has saved me from an awful hell O blessed God have mercy onthis people",
@@ -711,7 +668,7 @@
     "verse": 30,
     "lines": [
       {
-        "id": "88:1",
+        "id": "88:1b",
         "page": 88,
         "line": 1,
         "text": "& when she had said this she claped her hands being filled with joy speakingmany words which were not understood & when she had donethis she took the king Lamoni by the hand & behold he arose & stood upon hisfeet",
@@ -726,7 +683,7 @@
     "verse": 31,
     "lines": [
       {
-        "id": "88:1",
+        "id": "88:1c",
         "page": 88,
         "line": 1,
         "text": "& he immediately seeing the contention among his people went forth & beg",
@@ -750,7 +707,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/88"
       },
       {
-        "id": "88:4",
+        "id": "88:4a",
         "page": 88,
         "line": 4,
         "text": "verted unto the Lord",
@@ -765,7 +722,7 @@
     "verse": 32,
     "lines": [
       {
-        "id": "88:4",
+        "id": "88:4b",
         "page": 88,
         "line": 4,
         "text": "but there was many among them who would not hear ",
@@ -773,7 +730,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/88"
       },
       {
-        "id": "88:5",
+        "id": "88:5a",
         "page": 88,
         "line": 5,
         "text": "his words therefore they went their way",
@@ -788,7 +745,7 @@
     "verse": 33,
     "lines": [
       {
-        "id": "88:5",
+        "id": "88:5b",
         "page": 88,
         "line": 5,
         "text": "& it came to pass that whenAmmon arose he also administered unto them & also did all the servants ",
@@ -804,7 +761,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/88"
       },
       {
-        "id": "88:7",
+        "id": "88:7a",
         "page": 88,
         "line": 7,
         "text": "their hearts had been changed that they had no more desire to do evil",
@@ -819,11 +776,19 @@
     "verse": 34,
     "lines": [
       {
-        "id": "88:7",
+        "id": "88:7b",
         "page": 88,
         "line": 7,
         "text": "& behold many did declare unto the people that they had seen angels & had conversed with them & thus they had told them things of God & of his righteous",
         "markdown": "{{& behold many did declare unto the people that they had seen a}}ngels & had c{{onversed with them & thus they had told them things of God &}} of h{{i}}s righteous",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/88"
+      },
+      {
+        "id": "88:8a",
+        "page": 88,
+        "line": 8,
+        "text": "ness",
+        "markdown": "{{ness",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/88"
       }
     ]
@@ -834,11 +799,11 @@
     "verse": 35,
     "lines": [
       {
-        "id": "88:8",
+        "id": "88:8b",
         "page": 88,
         "line": 8,
-        "text": "ness & it came to pass that there was many that did believe in their words & as ",
-        "markdown": "{{ness & it came to pass that there was many that did be}}lie{{ve in thei}}r w{{o}}rds & as ",
+        "text": "& it came to pass that there was many that did believe in their words & as ",
+        "markdown": "& it came to pass that there was many that did be}}lie{{ve in thei}}r w{{o}}rds & as ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/88"
       },
       {
@@ -850,7 +815,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/88"
       },
       {
-        "id": "88:10",
+        "id": "88:10a",
         "page": 88,
         "line": 10,
         "text": "did establish a church among them",
@@ -865,7 +830,7 @@
     "verse": 36,
     "lines": [
       {
-        "id": "88:10",
+        "id": "88:10b",
         "page": 88,
         "line": 10,
         "text": "& thus the work of the Lord did com",
@@ -873,11 +838,11 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/88"
       },
       {
-        "id": "88:11",
+        "id": "88:11a",
         "page": 88,
         "line": 11,
-        "text": "mence among the Lamanites thus the Lord did begin",
-        "markdown": "{{mence among the Lamanites thus the Lord did begin",
+        "text": "mence among the Lamanites thus the Lord did begin to pour",
+        "markdown": "{{mence among the Lamanites thus the Lord did begin to pour",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/88"
       }
     ]

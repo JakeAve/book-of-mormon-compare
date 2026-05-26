@@ -12,7 +12,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/610"
       },
       {
-        "id": "610:33",
+        "id": "610:33a",
         "page": 610,
         "line": 33,
         "text": "they took the cup, and said,",
@@ -26,7 +26,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "610:33",
+        "id": "610:33b",
         "page": 610,
         "line": 33,
         "text": "O God, the Eternal Fa",
@@ -85,14 +85,7 @@
         "id": "611:8",
         "page": 611,
         "line": 8,
-        "text": "Amen. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/611"
-      },
-      {
-        "id": "611:9",
-        "page": 611,
-        "line": 9,
-        "text": "CHAPTER VI.",
+        "text": "Amen.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/611"
       }
     ]

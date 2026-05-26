@@ -12,7 +12,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/83"
       },
       {
-        "id": "83:19",
+        "id": "83:19a",
         "page": 83,
         "line": 19,
         "text": "he spake unto the people of Nephi:",
@@ -26,7 +26,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "83:19",
+        "id": "83:19b",
         "page": 83,
         "line": 19,
         "text": "Behold, my be",
@@ -68,10 +68,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/83"
       },
       {
-        "id": "83:25",
+        "id": "83:25a",
         "page": 83,
         "line": 25,
-        "text": "spoken unto you exceeding many things; neverthe",
+        "text": "spoken unto you exceeding many things;",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/83"
       }
     ]
@@ -81,6 +81,13 @@
     "chapter": 6,
     "verse": 3,
     "lines": [
+      {
+        "id": "83:25b",
+        "page": 83,
+        "line": 25,
+        "text": "neverthe",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/83"
+      },
       {
         "id": "83:26",
         "page": 83,
@@ -180,7 +187,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/83"
       },
       {
-        "id": "83:39",
+        "id": "83:39a",
         "page": 83,
         "line": 39,
         "text": "of your God.",
@@ -194,7 +201,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "83:39",
+        "id": "83:39b",
         "page": 83,
         "line": 39,
         "text": "And now, the words which I shall ",
@@ -278,17 +285,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/84"
       },
       {
-        "id": "84:10",
+        "id": "84:10a",
         "page": 84,
         "line": 10,
-        "text": "ters shall be carried upon their shoulders. And kings ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/84"
-      },
-      {
-        "id": "84:11",
-        "page": 84,
-        "line": 11,
-        "text": "shall be thy nursing fathers, and their queens thy nurs",
+        "text": "ters shall be carried upon their shoulders.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/84"
       }
     ]
@@ -298,6 +298,20 @@
     "chapter": 6,
     "verse": 7,
     "lines": [
+      {
+        "id": "84:10b",
+        "page": 84,
+        "line": 10,
+        "text": "And kings ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/84"
+      },
+      {
+        "id": "84:11",
+        "page": 84,
+        "line": 11,
+        "text": "shall be thy nursing fathers, and their queens thy nurs",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/84"
+      },
       {
         "id": "84:12",
         "page": 84,
@@ -411,7 +425,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/84"
       },
       {
-        "id": "84:26",
+        "id": "84:26a",
         "page": 84,
         "line": 26,
         "text": "angel, who spake it unto me.",
@@ -425,7 +439,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "84:26",
+        "id": "84:26b",
         "page": 84,
         "line": 26,
         "text": "And after they have ",
@@ -614,7 +628,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/85"
       },
       {
-        "id": "85:3",
+        "id": "85:3a",
         "page": 85,
         "line": 3,
         "text": "for they still wait for the coming of the Messiah.",
@@ -628,7 +642,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "85:3",
+        "id": "85:3b",
         "page": 85,
         "line": 3,
         "text": "And ",
@@ -677,7 +691,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/85"
       },
       {
-        "id": "85:10",
+        "id": "85:10a",
         "page": 85,
         "line": 10,
         "text": "believe in him.",
@@ -691,7 +705,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "85:10",
+        "id": "85:10b",
         "page": 85,
         "line": 10,
         "text": "And they that believe not in him, ",
@@ -719,7 +733,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/85"
       },
       {
-        "id": "85:14",
+        "id": "85:14a",
         "page": 85,
         "line": 14,
         "text": "is God, the Holy One of Israel:",
@@ -733,7 +747,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "85:14",
+        "id": "85:14b",
         "page": 85,
         "line": 14,
         "text": "for shall the prey be ",
@@ -745,7 +759,14 @@
         "line": 15,
         "text": "taken from the mighty, or the lawful captive deliver",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/85"
-      },
+      }
+    ]
+  },
+  {
+    "book": "2-ne",
+    "chapter": 6,
+    "verse": 17,
+    "lines": [
       {
         "id": "85:16",
         "page": 85,
@@ -757,16 +778,9 @@
         "id": "85:17",
         "page": 85,
         "line": 17,
-        "text": "the mighty shall be taken away, and the prey of the",
+        "text": "the mighty shall be taken away, and the prey of the ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/85"
-      }
-    ]
-  },
-  {
-    "book": "2-ne",
-    "chapter": 6,
-    "verse": 17,
-    "lines": [
+      },
       {
         "id": "85:18",
         "page": 85,
@@ -824,7 +838,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/85"
       },
       {
-        "id": "85:25",
+        "id": "85:25a",
         "page": 85,
         "line": 25,
         "text": "mighty One of Jacob.",

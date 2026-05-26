@@ -54,7 +54,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/129"
       },
       {
-        "id": "129:2",
+        "id": "129:2a",
         "page": 129,
         "line": 2,
         "text": "terly destroyed.",
@@ -68,7 +68,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "129:2",
+        "id": "129:2b",
         "page": 129,
         "line": 2,
         "text": "For behold, I say unto you, that as ",
@@ -159,7 +159,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/129"
       },
       {
-        "id": "129:14",
+        "id": "129:14a",
         "page": 129,
         "line": 14,
         "text": "forth unto the remnant of our seed.",
@@ -173,7 +173,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "129:14",
+        "id": "129:14b",
         "page": 129,
         "line": 14,
         "text": "And then shall ",
@@ -194,7 +194,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/129"
       },
       {
-        "id": "129:17",
+        "id": "129:17a",
         "page": 129,
         "line": 17,
         "text": "descendants of the Jews.",
@@ -208,7 +208,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "129:17",
+        "id": "129:17b",
         "page": 129,
         "line": 17,
         "text": "And the gospel of Jesus ",
@@ -236,7 +236,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/129"
       },
       {
-        "id": "129:21",
+        "id": "129:21a",
         "page": 129,
         "line": 21,
         "text": "had among their fathers.",
@@ -250,7 +250,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "129:21",
+        "id": "129:21b",
         "page": 129,
         "line": 21,
         "text": "And then shall they rejoice: ",
@@ -362,7 +362,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/129"
       },
       {
-        "id": "129:35",
+        "id": "129:35a",
         "page": 129,
         "line": 35,
         "text": "his people upon the earth.",
@@ -376,7 +376,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "129:35",
+        "id": "129:35b",
         "page": 129,
         "line": 35,
         "text": "And with righteousness shall ",
@@ -404,7 +404,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/129"
       },
       {
-        "id": "129:39",
+        "id": "129:39a",
         "page": 129,
         "line": 39,
         "text": "of his lips shall he slay the wicked:",
@@ -418,7 +418,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "129:39",
+        "id": "129:39b",
         "page": 129,
         "line": 39,
         "text": "for the time ",
@@ -446,7 +446,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/129"
       },
       {
-        "id": "129:43",
+        "id": "129:43a",
         "page": 129,
         "line": 43,
         "text": "it so be that he must destroy the wicked by fire.",
@@ -460,7 +460,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "129:43",
+        "id": "129:43b",
         "page": 129,
         "line": 43,
         "text": "And ",
@@ -474,7 +474,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/129"
       },
       {
-        "id": "129:45",
+        "id": "129:45a",
         "page": 129,
         "line": 45,
         "text": "fulness the girdle of his reins.",
@@ -488,7 +488,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "129:45",
+        "id": "129:45b",
         "page": 129,
         "line": 45,
         "text": "And then shall the ",
@@ -498,16 +498,9 @@
         "id": "129:46",
         "page": 129,
         "line": 46,
-        "text": "wolf dwell with the lamb, and the leopard shall lie",
+        "text": "wolf dwell with the lamb, and the leopard shall lie ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/129"
-      }
-    ]
-  },
-  {
-    "book": "2-ne",
-    "chapter": 30,
-    "verse": 13,
-    "lines": [
+      },
       {
         "id": "129:47",
         "page": 129,
@@ -523,10 +516,24 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/130"
       },
       {
-        "id": "130:2",
+        "id": "130:2a",
         "page": 130,
         "line": 2,
-        "text": "them. And the cow and the bear shall feed; their ",
+        "text": "them.",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/130"
+      }
+    ]
+  },
+  {
+    "book": "2-ne",
+    "chapter": 30,
+    "verse": 13,
+    "lines": [
+      {
+        "id": "130:2b",
+        "page": 130,
+        "line": 2,
+        "text": "And the cow and the bear shall feed; their ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/130"
       },
       {
@@ -537,10 +544,24 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/130"
       },
       {
-        "id": "130:4",
+        "id": "130:4a",
         "page": 130,
         "line": 4,
-        "text": "eat straw like the ox. And the sucking child shall ",
+        "text": "eat straw like the ox.",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/130"
+      }
+    ]
+  },
+  {
+    "book": "2-ne",
+    "chapter": 30,
+    "verse": 14,
+    "lines": [
+      {
+        "id": "130:4b",
+        "page": 130,
+        "line": 4,
+        "text": "And the sucking child shall ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/130"
       },
       {
@@ -551,10 +572,24 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/130"
       },
       {
-        "id": "130:6",
+        "id": "130:6a",
         "page": 130,
         "line": 6,
-        "text": "put his hand on the cockatrice’s den. They shall not ",
+        "text": "put his hand on the cockatrice’s den.",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/130"
+      }
+    ]
+  },
+  {
+    "book": "2-ne",
+    "chapter": 30,
+    "verse": 15,
+    "lines": [
+      {
+        "id": "130:6b",
+        "page": 130,
+        "line": 6,
+        "text": "They shall not ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/130"
       },
       {
@@ -568,18 +603,11 @@
         "id": "130:8",
         "page": 130,
         "line": 8,
-        "text": "earth shall be full of the knowledge of the Lord, as",
+        "text": "earth shall be full of the knowledge of the Lord, as ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/130"
-      }
-    ]
-  },
-  {
-    "book": "2-ne",
-    "chapter": 30,
-    "verse": 15,
-    "lines": [
+      },
       {
-        "id": "130:9",
+        "id": "130:9a",
         "page": 130,
         "line": 9,
         "text": "the waters cover the sea.",
@@ -593,7 +621,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "130:9",
+        "id": "130:9b",
         "page": 130,
         "line": 9,
         "text": "Wherefore, the things of ",
@@ -607,7 +635,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/130"
       },
       {
-        "id": "130:11",
+        "id": "130:11a",
         "page": 130,
         "line": 11,
         "text": "be made known unto the children of men.",
@@ -621,7 +649,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "130:11",
+        "id": "130:11b",
         "page": 130,
         "line": 11,
         "text": "There is ",
@@ -694,14 +722,7 @@
         "id": "130:20",
         "page": 130,
         "line": 20,
-        "text": "loved brethren, I must make an end of my sayings. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/130"
-      },
-      {
-        "id": "130:21",
-        "page": 130,
-        "line": 21,
-        "text": "CHAPTER XIII.",
+        "text": "loved brethren, I must make an end of my sayings.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/130"
       }
     ]

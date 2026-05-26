@@ -28,11 +28,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/50"
       },
       {
-        "id": "50:29",
+        "id": "50:29a",
         "page": 50,
         "line": 29,
-        "text": "in the wilderness .&C.— And now it came to pass after I Nephi had ma",
-        "markdown": "in the wilderness .&C.— And now it came to pass ~~that after~~ [after I] Nephi had ma",
+        "text": "in the wilderness .&C.— And",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/50"
       }
     ]
@@ -42,6 +41,14 @@
     "chapter": 1,
     "verse": 1,
     "lines": [
+      {
+        "id": "50:29b",
+        "page": 50,
+        "line": 29,
+        "text": "now it came to pass after I Nephi had ma",
+        "markdown": "now it came to pass ~~that after~~ [after I] Nephi had ma",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/50"
+      },
       {
         "id": "50:30",
         "page": 50,
@@ -58,7 +65,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/50"
       },
       {
-        "id": "50:32",
+        "id": "50:32a",
         "page": 50,
         "line": 32,
         "text": "t of the land of Jerusalem",
@@ -72,7 +79,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "50:32",
+        "id": "50:32b",
         "page": 50,
         "line": 32,
         "text": "& he spake unto them concerning their rebellions up",
@@ -86,7 +93,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/50"
       },
       {
-        "id": "50:34",
+        "id": "50:34a",
         "page": 50,
         "line": 34,
         "text": "allowed up in the Sea",
@@ -100,7 +107,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "50:34",
+        "id": "50:34b",
         "page": 50,
         "line": 34,
         "text": "& he also spake unto them concerning the land of prom",
@@ -114,7 +121,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/50"
       },
       {
-        "id": "50:36",
+        "id": "50:36a",
         "page": 50,
         "line": 36,
         "text": "that we should flee out of the land of Jerusalem",
@@ -128,7 +135,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "50:36",
+        "id": "50:36b",
         "page": 50,
         "line": 36,
         "text": "for behold saith he I have seen ",
@@ -142,7 +149,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/50"
       },
       {
-        "id": "51:1",
+        "id": "51:1a",
         "page": 51,
         "line": 1,
         "text": "in Jerusalem we should also have perished",
@@ -156,7 +163,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "51:1",
+        "id": "51:1b",
         "page": 51,
         "line": 1,
         "text": "but said he notwithstanding our ",
@@ -192,7 +199,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/51"
       },
       {
-        "id": "51:6",
+        "id": "51:6a",
         "page": 51,
         "line": 6,
         "text": "out of other countries by the hand of the Lord",
@@ -206,7 +213,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "51:6",
+        "id": "51:6b",
         "page": 51,
         "line": 6,
         "text": "wherefore I Lehi Prophesy accor",
@@ -220,10 +227,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/51"
       },
       {
-        "id": "51:8",
+        "id": "51:8a",
         "page": 51,
         "line": 8,
-        "text": "into this land save they should be brought by the hand of the Lord wherefo",
+        "text": "into this land save they should be brought by the hand of the Lord",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/51"
       }
     ]
@@ -233,6 +240,13 @@
     "chapter": 1,
     "verse": 7,
     "lines": [
+      {
+        "id": "51:8b",
+        "page": 51,
+        "line": 8,
+        "text": "wherefo",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/51"
+      },
       {
         "id": "51:9",
         "page": 51,
@@ -269,7 +283,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/51"
       },
       {
-        "id": "51:14",
+        "id": "51:14a",
         "page": 51,
         "line": 14,
         "text": "it shall be blessed forever",
@@ -283,7 +297,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "51:14",
+        "id": "51:14b",
         "page": 51,
         "line": 14,
         "text": "& behold it is wisdom that this land should be kept ",
@@ -297,10 +311,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/51"
       },
       {
-        "id": "51:16",
+        "id": "51:16a",
         "page": 51,
         "line": 16,
-        "text": "errun the land that there would be no place for an inheritance where",
+        "text": "errun the land that there would be no place for an inheritance",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/51"
       }
     ]
@@ -310,6 +324,13 @@
     "chapter": 1,
     "verse": 9,
     "lines": [
+      {
+        "id": "51:16b",
+        "page": 51,
+        "line": 16,
+        "text": "where",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/51"
+      },
       {
         "id": "51:17",
         "page": 51,
@@ -353,7 +374,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/51"
       },
       {
-        "id": "51:23",
+        "id": "51:23a",
         "page": 51,
         "line": 23,
         "text": "way the land of their inheritance & they shall dwell safely forever",
@@ -367,7 +388,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "51:23",
+        "id": "51:23b",
         "page": 51,
         "line": 23,
         "text": "but ",
@@ -437,7 +458,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/51"
       },
       {
-        "id": "51:33",
+        "id": "51:33a",
         "page": 51,
         "line": 33,
         "text": "all rest upon them",
@@ -451,7 +472,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "51:33",
+        "id": "51:33b",
         "page": 51,
         "line": 33,
         "text": "yea he will bring other Nations unto them & he will gi",
@@ -465,7 +486,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/51"
       },
       {
-        "id": "51:35",
+        "id": "51:35a",
         "page": 51,
         "line": 35,
         "text": "possessions & he will cause them to be scattered & smitten",
@@ -480,7 +501,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "51:35",
+        "id": "51:35b",
         "page": 51,
         "line": 35,
         "text": "yea as one ",
@@ -501,7 +522,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/52"
       },
       {
-        "id": "52:2",
+        "id": "52:2a",
         "page": 52,
         "line": 2,
         "text": "would that ye would hearken unto my words",
@@ -515,7 +536,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "52:2",
+        "id": "52:2b",
         "page": 52,
         "line": 2,
         "text": "O that ye would awake awa",
@@ -543,10 +564,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/52"
       },
       {
-        "id": "52:6",
+        "id": "52:6a",
         "page": 52,
         "line": 6,
-        "text": "of miseary & wo",
+        "text": "of miseary &",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/52"
       }
     ]
@@ -557,10 +578,10 @@
     "verse": 14,
     "lines": [
       {
-        "id": "52:6",
+        "id": "52:6b",
         "page": 52,
         "line": 6,
-        "text": "awake & arise from the dust & hear the words of a trem",
+        "text": "wo awake & arise from the dust & hear the words of a trem",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/52"
       },
       {
@@ -578,7 +599,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/52"
       },
       {
-        "id": "52:9",
+        "id": "52:9a",
         "page": 52,
         "line": 9,
         "text": "way of all the earth",
@@ -592,7 +613,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "52:9",
+        "id": "52:9b",
         "page": 52,
         "line": 9,
         "text": "but behold the Lord hath redeemed my soul from hell ",
@@ -606,7 +627,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/52"
       },
       {
-        "id": "52:11",
+        "id": "52:11a",
         "page": 52,
         "line": 11,
         "text": "of his love",
@@ -620,7 +641,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "52:11",
+        "id": "52:11b",
         "page": 52,
         "line": 11,
         "text": "& I desire that ye should remember to observe the statutes ",
@@ -634,7 +655,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/52"
       },
       {
-        "id": "52:13",
+        "id": "52:13a",
         "page": 52,
         "line": 13,
         "text": "the beginning",
@@ -648,7 +669,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "52:13",
+        "id": "52:13b",
         "page": 52,
         "line": 13,
         "text": "my heart hath been weighed down with sorrow from time ",
@@ -670,7 +691,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/52"
       },
       {
-        "id": "52:16",
+        "id": "52:16a",
         "page": 52,
         "line": 16,
         "text": "be cut off & destroid forever",
@@ -684,7 +705,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "52:16",
+        "id": "52:16b",
         "page": 52,
         "line": 16,
         "text": "or that a cursing should come upon you for ",
@@ -698,7 +719,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/52"
       },
       {
-        "id": "52:18",
+        "id": "52:18a",
         "page": 52,
         "line": 18,
         "text": "are hated & are lead according to the will & captivity of the Devil",
@@ -712,7 +733,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "52:18",
+        "id": "52:18b",
         "page": 52,
         "line": 18,
         "text": "O my ",
@@ -733,7 +754,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/52"
       },
       {
-        "id": "52:21",
+        "id": "52:21a",
         "page": 52,
         "line": 21,
         "text": "for his ways are righteousness forever",
@@ -747,7 +768,7 @@
     "verse": 20,
     "lines": [
       {
-        "id": "52:21",
+        "id": "52:21b",
         "page": 52,
         "line": 21,
         "text": "& he hath said that inasmuch ",
@@ -768,7 +789,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/52"
       },
       {
-        "id": "52:24",
+        "id": "52:24a",
         "page": 52,
         "line": 24,
         "text": "my presance",
@@ -782,7 +803,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "52:24",
+        "id": "52:24b",
         "page": 52,
         "line": 24,
         "text": "& now that my soul might have joy in you & that my heart ",
@@ -810,7 +831,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/52"
       },
       {
-        "id": "52:28",
+        "id": "52:28a",
         "page": 52,
         "line": 28,
         "text": "in all things that ye may not come down into captivity",
@@ -824,7 +845,7 @@
     "verse": 22,
     "lines": [
       {
-        "id": "52:28",
+        "id": "52:28b",
         "page": 52,
         "line": 28,
         "text": "that ye may ",
@@ -845,7 +866,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/52"
       },
       {
-        "id": "52:31",
+        "id": "52:31a",
         "page": 52,
         "line": 31,
         "text": "nal destruction of both soul & body",
@@ -859,7 +880,7 @@
     "verse": 23,
     "lines": [
       {
-        "id": "52:31",
+        "id": "52:31b",
         "page": 52,
         "line": 31,
         "text": "awake my Sons put on the armo",
@@ -873,7 +894,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/52"
       },
       {
-        "id": "52:33",
+        "id": "52:33a",
         "page": 52,
         "line": 33,
         "text": "come forth out of obscurity & arise from the dust",
@@ -887,7 +908,7 @@
     "verse": 24,
     "lines": [
       {
-        "id": "52:33",
+        "id": "52:33b",
         "page": 52,
         "line": 33,
         "text": "rebell no more ag",
@@ -936,7 +957,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/53"
       },
       {
-        "id": "53:3",
+        "id": "53:3a",
         "page": 53,
         "line": 3,
         "text": "sorrow because of you",
@@ -950,7 +971,7 @@
     "verse": 25,
     "lines": [
       {
-        "id": "53:3",
+        "id": "53:3b",
         "page": 53,
         "line": 3,
         "text": "& I excedingly fear & tremble because of you least he shall ",
@@ -971,7 +992,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/53"
       },
       {
-        "id": "53:6",
+        "id": "53:6a",
         "page": 53,
         "line": 6,
         "text": "hath sought the glory of God & your own eternal wellfare",
@@ -985,7 +1006,7 @@
     "verse": 26,
     "lines": [
       {
-        "id": "53:6",
+        "id": "53:6b",
         "page": 53,
         "line": 6,
         "text": "& ye have murmured be",
@@ -1020,7 +1041,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/53"
       },
       {
-        "id": "53:11",
+        "id": "53:11a",
         "page": 53,
         "line": 11,
         "text": "strain manifesting boldly concerning your iniquities",
@@ -1034,7 +1055,7 @@
     "verse": 27,
     "lines": [
       {
-        "id": "53:11",
+        "id": "53:11b",
         "page": 53,
         "line": 11,
         "text": "& it must needs ",
@@ -1062,7 +1083,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/53"
       },
       {
-        "id": "53:15",
+        "id": "53:15a",
         "page": 53,
         "line": 15,
         "text": "could not shut it",
@@ -1076,7 +1097,7 @@
     "verse": 28,
     "lines": [
       {
-        "id": "53:15",
+        "id": "53:15b",
         "page": 53,
         "line": 15,
         "text": "& now my Son Laman & also Lemuel & Sam & also my ",
@@ -1097,7 +1118,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/53"
       },
       {
-        "id": "53:18",
+        "id": "53:18a",
         "page": 53,
         "line": 18,
         "text": "you a blessing yea even my first blessing",
@@ -1111,7 +1132,7 @@
     "verse": 29,
     "lines": [
       {
-        "id": "53:18",
+        "id": "53:18b",
         "page": 53,
         "line": 18,
         "text": "but if ye will not hearken unto hi",
@@ -1147,7 +1168,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/53"
       },
       {
-        "id": "53:22",
+        "id": "53:22a",
         "page": 53,
         "line": 22,
         "text": "friend unto my Son Nephi forever",
@@ -1161,7 +1182,7 @@
     "verse": 31,
     "lines": [
       {
-        "id": "53:22",
+        "id": "53:22b",
         "page": 53,
         "line": 22,
         "text": "wherefore because thou hast been faithful ",
@@ -1182,7 +1203,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/53"
       },
       {
-        "id": "53:25",
+        "id": "53:25a",
         "page": 53,
         "line": 25,
         "text": "turb their prosperity upon the face of this land forever",
@@ -1196,7 +1217,7 @@
     "verse": 32,
     "lines": [
       {
-        "id": "53:25",
+        "id": "53:25b",
         "page": 53,
         "line": 25,
         "text": "wherefore if ye shall keep ",
@@ -1211,7 +1232,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/53"
       },
       {
-        "id": "53:27",
+        "id": "53:27a",
         "page": 53,
         "line": 27,
         "text": "of thy Seed with the seed of my Son",

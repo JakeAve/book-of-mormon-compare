@@ -37,7 +37,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/184"
       },
       {
-        "id": "184:26",
+        "id": "184:26a",
         "page": 184,
         "line": 26,
         "text": "airs of this war",
@@ -52,11 +52,11 @@
     "verse": 2,
     "lines": [
       {
-        "id": "184:26",
+        "id": "184:26b",
         "page": 184,
         "line": 26,
-        "text": "for behold I have some what to say unto them by the way ofcondemnation for behold ye yourselves know that ye have been appointed to gathertogether men & arm them with swords &",
-        "markdown": "for behold I have some what to say unto them by th{{e way ofcondemnation}} for behold ye yourselves know that ye have been appoint{{ed to gathertogether m}}en & arm them with swords &",
+        "text": "for behold I have some what to say unto them by the way ofcondemnation for behold ye yourselves know that ye have been appointed to gathertogether men & arm them with swords",
+        "markdown": "for behold I have some what to say unto them by th{{e way ofcondemnation}} for behold ye yourselves know that ye have been appoint{{ed to gathertogether m}}en & arm them with swords",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/184"
       }
     ]
@@ -67,34 +67,11 @@
     "verse": 3,
     "lines": [
       {
-        "id": "184:26",
+        "id": "184:26c",
         "page": 184,
         "line": 26,
-        "text": "with Simeters & all manner",
-        "markdown": "with Simeters & all ma{{nner",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/184"
-      }
-    ]
-  },
-  {
-    "book": "alma",
-    "chapter": 60,
-    "verse": 4,
-    "lines": [
-      {
-        "id": "184:26",
-        "page": 184,
-        "line": 26,
-        "text": "of weopons ",
-        "markdown": "of weopons}} ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/184"
-      },
-      {
-        "id": "184:27",
-        "page": 184,
-        "line": 27,
-        "text": "of war",
-        "markdown": "of {{war}}",
+        "text": "& with Simeters & all manner of weopons",
+        "markdown": "& with Simeters & all ma{{nner of weopons}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/184"
       }
     ]
@@ -105,7 +82,15 @@
     "verse": 5,
     "lines": [
       {
-        "id": "185:1",
+        "id": "184:27",
+        "page": 184,
+        "line": 27,
+        "text": "of war ",
+        "markdown": "of {{war}} ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/184"
+      },
+      {
+        "id": "185:1a",
         "page": 185,
         "line": 1,
         "text": "by the sword while it might have otherwise been if ye had rendered untoour armies sufficient strength & succor for them yea great has been your neglect towards us",
@@ -120,7 +105,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "185:1",
+        "id": "185:1b",
         "page": 185,
         "line": 1,
         "text": "& now behold we desire to know the cause of this excedinggreat neglect yea we desire to know the cause of your thoughtless",
@@ -135,7 +120,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "185:1",
+        "id": "185:1c",
         "page": 185,
         "line": 1,
         "text": "state canyou think to sit upon your throans in a state of thoughtless stupor whileyour enemies are spreading the work of death around you yea while they aremurdering thousands of your Brethren",
@@ -150,7 +135,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "185:1",
+        "id": "185:1d",
         "page": 185,
         "line": 1,
         "text": "yea even they which have looked up toyou for protection yea have plased you in a situation that ye might have succored them yea ye might have sent armies unto them to have strength",
@@ -189,7 +174,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/185"
       },
       {
-        "id": "185:5",
+        "id": "185:5a",
         "page": 185,
         "line": 5,
         "text": "exceding great neglect towards them",
@@ -204,7 +189,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "185:5",
+        "id": "185:5b",
         "page": 185,
         "line": 5,
         "text": "& now my beloved Brethren for ye ",
@@ -244,7 +229,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/185"
       },
       {
-        "id": "185:10",
+        "id": "185:10a",
         "page": 185,
         "line": 10,
         "text": "ir cries & all their sufferings",
@@ -259,7 +244,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "185:10",
+        "id": "185:10b",
         "page": 185,
         "line": 10,
         "text": "behold could ye suppose that ye could situpon your throans & because of the exceding goodness of God ye could donothing & he would deliver you behold if ye have supposed this ye have sup",
@@ -267,7 +252,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/185"
       },
       {
-        "id": "185:11",
+        "id": "185:11a",
         "page": 185,
         "line": 11,
         "text": "posed invain",
@@ -282,7 +267,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "185:11",
+        "id": "185:11b",
         "page": 185,
         "line": 11,
         "text": "do ye suppose that because so many of your Brethren have ",
@@ -290,7 +275,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/185"
       },
       {
-        "id": "185:12",
+        "id": "185:12a",
         "page": 185,
         "line": 12,
         "text": "been Killed because of their wickedness I say unto you if ye have supposedthis ye have supposed invain for I say unto you their are manywhich have fallen by the sword & behold it is to your",
@@ -305,26 +290,11 @@
     "verse": 13,
     "lines": [
       {
-        "id": "185:12",
+        "id": "185:12b",
         "page": 185,
         "line": 12,
-        "text": "condemnnationfor the Lord suffereth the righteous to be slain that his Justice &Judgment may come upon the wickedd therefore ye Knead not suppose thatthe righteous are lost because they are slain but behold they do",
-        "markdown": "condemn{{nationfor th}}e Lord suffereth the righteous to be slain that {{his Justice &Judgment}} may come upon the wickedd therefore ye K{{nead not suppose thatthe righteo}}us are lost because they are slain {{but behold they do",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/185"
-      }
-    ]
-  },
-  {
-    "book": "alma",
-    "chapter": 60,
-    "verse": 14,
-    "lines": [
-      {
-        "id": "185:12",
-        "page": 185,
-        "line": 12,
-        "text": "enter",
-        "markdown": "enter}}",
+        "text": "condemnnationfor the Lord suffereth the righteous to be slain that his Justice &Judgment may come upon the wickedd therefore ye Knead not suppose thatthe righteous are lost because they are slain but behold they do enter",
+        "markdown": "condemn{{nationfor th}}e Lord suffereth the righteous to be slain that {{his Justice &Judgment}} may come upon the wickedd therefore ye K{{nead not suppose thatthe righteo}}us are lost because they are slain {{but behold they do enter}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/185"
       }
     ]
@@ -335,7 +305,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "186:1",
+        "id": "186:1a",
         "page": 186,
         "line": 1,
         "text": "have withstood our enemies that they could have gained no powerover us",
@@ -350,11 +320,11 @@
     "verse": 16,
     "lines": [
       {
-        "id": "186:1",
+        "id": "186:1b",
         "page": 186,
         "line": 1,
-        "text": "yea had it not been for the war which broke out among ourselves yea were it not for those Kingmen which caused so muchbloodshed among ourselves yea at the time we were contending amongourselves if we had united our strength as we hitherto have done yea had itnot been for the desire of power & authority which those Kingmen hadover us had they been true to the cause of our freedom & united with us& gone forth against our enemies instead of takeing up their swordsagainst us which was the cause of so much bloodshed among ourselvesyea if we had gone forth against them in the strength of the Lord weshould have dispersed our enemies for it would have been doneaccording to the fulfilling of his word but",
-        "markdown": "yea had it not}} been for the war which br{{oke out among ourselves yea were it not}} for those Kingmen which caused {{so muchbloodshed among oursel}}ves yea at the time we were conten{{ding amongourselves if we had un}}ited our strength as we hitherto [have] done {{yea had itnot been for the desir}}e of power & authority which those {{Kingmen hadover us had they been}} t{{rue}} to the cause of our freedom & unit{{ed with us& gone forth against o}}ur enemies instead of takeing up {{their swordsagainst us which was t}}he cause of so much bloodshed among {{ourselvesyea if we had gone for}}th against them in the strength of the Lor{{d weshould have d}}ispersed our enemies for it would have been {{doneaccording to}} the~~e~~ fulfilling of his word but",
+        "text": "yea had it not been for the war which broke out among ourselves yea were it not for those Kingmen which caused so muchbloodshed among ourselves yea at the time we were contending amongourselves if we had united our strength as we hitherto have done yea had itnot been for the desire of power & authority which those Kingmen hadover us had they been true to the cause of our freedom & united with us& gone forth against our enemies instead of takeing up their swordsagainst us which was the cause of so much bloodshed among ourselvesyea if we had gone forth against them in the strength of the Lord weshould have dispersed our enemies for it would have been doneaccording to the fulfilling of his word",
+        "markdown": "yea had it not}} been for the war which br{{oke out among ourselves yea were it not}} for those Kingmen which caused {{so muchbloodshed among oursel}}ves yea at the time we were conten{{ding amongourselves if we had un}}ited our strength as we hitherto [have] done {{yea had itnot been for the desir}}e of power & authority which those {{Kingmen hadover us had they been}} t{{rue}} to the cause of our freedom & unit{{ed with us& gone forth against o}}ur enemies instead of takeing up {{their swordsagainst us which was t}}he cause of so much bloodshed among {{ourselvesyea if we had gone for}}th against them in the strength of the Lor{{d weshould have d}}ispersed our enemies for it would have been {{doneaccording to}} the~~e~~ fulfilling of his word",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/186"
       }
     ]
@@ -365,11 +335,11 @@
     "verse": 17,
     "lines": [
       {
-        "id": "186:1",
+        "id": "186:1c",
         "page": 186,
         "line": 1,
-        "text": "behold now the Lamanitesare comeing upon us & they are murdering our People with the sword yea ",
-        "markdown": "behold now the Lam{{anitesare comeing u}}pon us & they are murdering our People with the sw{{ord yea}} ",
+        "text": "but behold now the Lamanitesare comeing upon us & they are murdering our People with the sword yea ",
+        "markdown": "but behold now the Lam{{anitesare comeing u}}pon us & they are murdering our People with the sw{{ord yea}} ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/186"
       },
       {
@@ -397,7 +367,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/186"
       },
       {
-        "id": "186:5",
+        "id": "186:5a",
         "page": 186,
         "line": 5,
         "text": "power & authority yea even those Kingmen",
@@ -411,7 +381,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "186:5",
+        "id": "186:5b",
         "page": 186,
         "line": 5,
         "text": "but why should I say ",
@@ -427,7 +397,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/186"
       },
       {
-        "id": "186:7",
+        "id": "186:7a",
         "page": 186,
         "line": 7,
         "text": "are a seeking for authority we know not but what ye are also traitorsto your country",
@@ -442,7 +412,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "186:7",
+        "id": "186:7b",
         "page": 186,
         "line": 7,
         "text": "or is it that ye have neglected us because ye are in theheart of our country & ye are surrounded by security that ye do notcause food to be sent unto us & also men to strengthen our armies",
@@ -457,7 +427,7 @@
     "verse": 20,
     "lines": [
       {
-        "id": "186:7",
+        "id": "186:7c",
         "page": 186,
         "line": 7,
         "text": "haveye forgat the Commandments of the Lord your God yea have ye forgat the captivity of our Fathers have ye forgat the many times we ",
@@ -465,7 +435,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/186"
       },
       {
-        "id": "186:8",
+        "id": "186:8a",
         "page": 186,
         "line": 8,
         "text": "have been delivered out of the hands of our enemies",
@@ -480,7 +450,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "186:8",
+        "id": "186:8b",
         "page": 186,
         "line": 8,
         "text": "or do ye supposethat the Lord will still deliver us while we sit upon our throans & ",
@@ -488,7 +458,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/186"
       },
       {
-        "id": "186:9",
+        "id": "186:9a",
         "page": 186,
         "line": 9,
         "text": "do not make use of the means which the Lord hath provided for",
@@ -503,26 +473,11 @@
     "verse": 22,
     "lines": [
       {
-        "id": "186:9",
+        "id": "186:9b",
         "page": 186,
         "line": 9,
-        "text": "usyea will ye sit in idleness while ye are surrounded with thousands of those yea & tens of thousands which do also",
-        "markdown": "u{{syea will ye sit i}}n idleness while ye are surrounded with th{{ousands of those yea}} & tens of thousands which do also",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/186"
-      }
-    ]
-  },
-  {
-    "book": "alma",
-    "chapter": 60,
-    "verse": 24,
-    "lines": [
-      {
-        "id": "186:9",
-        "page": 186,
-        "line": 9,
-        "text": "sit in",
-        "markdown": "s{{it in}}",
+        "text": "usyea will ye sit in idleness while ye are surrounded with thousands of those yea & tens of thousands which do also sit",
+        "markdown": "u{{syea will ye sit i}}n idleness while ye are surrounded with th{{ousands of those yea}} & tens of thousands which do also s{{it",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/186"
       }
     ]

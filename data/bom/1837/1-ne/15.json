@@ -5,6 +5,13 @@
     "verse": 1,
     "lines": [
       {
+        "id": "42:18",
+        "page": 42,
+        "line": 18,
+        "text": "CHAPTER IV. ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/42"
+      },
+      {
         "id": "42:19",
         "page": 42,
         "line": 19,
@@ -19,7 +26,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/42"
       },
       {
-        "id": "42:21",
+        "id": "42:21a",
         "page": 42,
         "line": 21,
         "text": "returned to the tent of my father.",
@@ -33,7 +40,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "42:21",
+        "id": "42:21b",
         "page": 42,
         "line": 21,
         "text": "And it came to pass ",
@@ -54,7 +61,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/42"
       },
       {
-        "id": "42:24",
+        "id": "42:24a",
         "page": 42,
         "line": 24,
         "text": "ther had spoken unto them;",
@@ -68,7 +75,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "42:24",
+        "id": "42:24b",
         "page": 42,
         "line": 24,
         "text": "for he truly spake many ",
@@ -96,7 +103,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/42"
       },
       {
-        "id": "42:28",
+        "id": "42:28a",
         "page": 42,
         "line": 28,
         "text": "look unto the Lord as they ought.",
@@ -110,7 +117,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "42:28",
+        "id": "42:28b",
         "page": 42,
         "line": 28,
         "text": "And now I, Nephi, ",
@@ -201,7 +208,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/42"
       },
       {
-        "id": "42:39",
+        "id": "42:39a",
         "page": 42,
         "line": 39,
         "text": "the cause of their disputations.",
@@ -215,7 +222,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "42:39",
+        "id": "42:39b",
         "page": 42,
         "line": 39,
         "text": "And they said, be",
@@ -236,7 +243,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/42"
       },
       {
-        "id": "43:1",
+        "id": "43:1a",
         "page": 43,
         "line": 1,
         "text": "the olive tree, and also, concerning the Gentiles.",
@@ -250,14 +257,14 @@
     "verse": 8,
     "lines": [
       {
-        "id": "43:1",
+        "id": "43:1b",
         "page": 43,
         "line": 1,
         "text": "And ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/43"
       },
       {
-        "id": "43:2",
+        "id": "43:2a",
         "page": 43,
         "line": 2,
         "text": "I said unto them, have ye inquired of the Lord?",
@@ -271,7 +278,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "43:2",
+        "id": "43:2b",
         "page": 43,
         "line": 2,
         "text": "And ",
@@ -285,7 +292,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/43"
       },
       {
-        "id": "43:4",
+        "id": "43:4a",
         "page": 43,
         "line": 4,
         "text": "no such thing known unto us.",
@@ -299,7 +306,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "43:4",
+        "id": "43:4b",
         "page": 43,
         "line": 4,
         "text": "Behold, I said unto ",
@@ -320,7 +327,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/43"
       },
       {
-        "id": "43:7",
+        "id": "43:7a",
         "page": 43,
         "line": 7,
         "text": "of the hardness of your hearts?",
@@ -334,7 +341,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "43:7",
+        "id": "43:7b",
         "page": 43,
         "line": 7,
         "text": "Do ye not remember ",
@@ -411,7 +418,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/43"
       },
       {
-        "id": "43:17",
+        "id": "43:17a",
         "page": 43,
         "line": 17,
         "text": "branch or the house of Israel?",
@@ -425,7 +432,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "43:17",
+        "id": "43:17b",
         "page": 43,
         "line": 17,
         "text": "And now, the thing ",
@@ -488,7 +495,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/43"
       },
       {
-        "id": "43:26",
+        "id": "43:26a",
         "page": 43,
         "line": 26,
         "text": "the remnant of our seed;",
@@ -502,7 +509,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "43:26",
+        "id": "43:26b",
         "page": 43,
         "line": 26,
         "text": "and at that day, shall the ",
@@ -565,7 +572,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/43"
       },
       {
-        "id": "43:35",
+        "id": "43:35a",
         "page": 43,
         "line": 35,
         "text": "come unto him and be saved.",
@@ -579,7 +586,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "43:35",
+        "id": "43:35b",
         "page": 43,
         "line": 35,
         "text": "And then at that day, ",
@@ -614,7 +621,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/43"
       },
       {
-        "id": "43:40",
+        "id": "43:40a",
         "page": 43,
         "line": 40,
         "text": "unto the true fold of God?",
@@ -628,7 +635,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "43:40",
+        "id": "43:40b",
         "page": 43,
         "line": 40,
         "text": "Behold, I say unto you, ",
@@ -649,7 +656,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/43"
       },
       {
-        "id": "43:43",
+        "id": "43:43a",
         "page": 43,
         "line": 43,
         "text": "branch of the olive tree, into the true olive tree;",
@@ -663,7 +670,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "43:43",
+        "id": "43:43b",
         "page": 43,
         "line": 43,
         "text": "and ",
@@ -789,7 +796,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/44"
       },
       {
-        "id": "44:12",
+        "id": "44:12a",
         "page": 44,
         "line": 12,
         "text": "latter days;",
@@ -803,7 +810,7 @@
     "verse": 20,
     "lines": [
       {
-        "id": "44:12",
+        "id": "44:12b",
         "page": 44,
         "line": 12,
         "text": "and I did rehearse unto them the words ",
@@ -887,7 +894,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/44"
       },
       {
-        "id": "44:23",
+        "id": "44:23a",
         "page": 44,
         "line": 23,
         "text": "he saw?",
@@ -901,14 +908,14 @@
     "verse": 22,
     "lines": [
       {
-        "id": "44:23",
+        "id": "44:23b",
         "page": 44,
         "line": 23,
         "text": "And I said unto them, it was a representa",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/44"
       },
       {
-        "id": "44:24",
+        "id": "44:24a",
         "page": 44,
         "line": 24,
         "text": "tion of the tree of life.",
@@ -922,7 +929,7 @@
     "verse": 23,
     "lines": [
       {
-        "id": "44:24",
+        "id": "44:24b",
         "page": 44,
         "line": 24,
         "text": "And they said unto me, what ",
@@ -936,7 +943,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/44"
       },
       {
-        "id": "44:26",
+        "id": "44:26a",
         "page": 44,
         "line": 26,
         "text": "led to the tree?",
@@ -950,7 +957,7 @@
     "verse": 24,
     "lines": [
       {
-        "id": "44:26",
+        "id": "44:26b",
         "page": 44,
         "line": 26,
         "text": "And I said unto them, that it was ",
@@ -985,10 +992,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/44"
       },
       {
-        "id": "44:31",
+        "id": "44:31a",
         "page": 44,
         "line": 31,
-        "text": "blindness, to lead them away to destruction. Where",
+        "text": "blindness, to lead them away to destruction.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/44"
       }
     ]
@@ -998,6 +1005,13 @@
     "chapter": 15,
     "verse": 25,
     "lines": [
+      {
+        "id": "44:31b",
+        "page": 44,
+        "line": 31,
+        "text": "Where",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/44"
+      },
       {
         "id": "44:32",
         "page": 44,
@@ -1034,7 +1048,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/44"
       },
       {
-        "id": "44:37",
+        "id": "44:37a",
         "page": 44,
         "line": 37,
         "text": "ways, in all things.",
@@ -1048,14 +1062,14 @@
     "verse": 26,
     "lines": [
       {
-        "id": "44:37",
+        "id": "44:37b",
         "page": 44,
         "line": 37,
         "text": "And they said unto me, what ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/44"
       },
       {
-        "id": "44:38",
+        "id": "44:38a",
         "page": 44,
         "line": 38,
         "text": "meaneth the river of water which our father saw?",
@@ -1069,7 +1083,7 @@
     "verse": 27,
     "lines": [
       {
-        "id": "44:38",
+        "id": "44:38b",
         "page": 44,
         "line": 38,
         "text": "And ",
@@ -1097,7 +1111,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/44"
       },
       {
-        "id": "44:42",
+        "id": "44:42a",
         "page": 44,
         "line": 42,
         "text": "the water;",
@@ -1111,7 +1125,7 @@
     "verse": 28,
     "lines": [
       {
-        "id": "44:42",
+        "id": "44:42b",
         "page": 44,
         "line": 42,
         "text": "and I said unto them, that it was an awful ",
@@ -1125,7 +1139,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/44"
       },
       {
-        "id": "44:44",
+        "id": "44:44a",
         "page": 44,
         "line": 44,
         "text": "and also from the saints of God.",
@@ -1139,7 +1153,7 @@
     "verse": 29,
     "lines": [
       {
-        "id": "44:44",
+        "id": "44:44b",
         "page": 44,
         "line": 44,
         "text": "And I said unto ",
@@ -1160,7 +1174,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/44"
       },
       {
-        "id": "44:47",
+        "id": "44:47a",
         "page": 44,
         "line": 47,
         "text": "wicked.",
@@ -1174,7 +1188,7 @@
     "verse": 30,
     "lines": [
       {
-        "id": "44:47",
+        "id": "44:47b",
         "page": 44,
         "line": 47,
         "text": "And I said unto them, that our father also ",
@@ -1251,7 +1265,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/45"
       },
       {
-        "id": "45:10",
+        "id": "45:10a",
         "page": 45,
         "line": 10,
         "text": "which are temporal?",
@@ -1265,7 +1279,7 @@
     "verse": 32,
     "lines": [
       {
-        "id": "45:10",
+        "id": "45:10b",
         "page": 45,
         "line": 10,
         "text": "And it came to pass that I said ",
@@ -1300,7 +1314,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/45"
       },
       {
-        "id": "45:15",
+        "id": "45:15a",
         "page": 45,
         "line": 15,
         "text": "days of probation;",
@@ -1314,7 +1328,7 @@
     "verse": 33,
     "lines": [
       {
-        "id": "45:15",
+        "id": "45:15b",
         "page": 45,
         "line": 15,
         "text": "wherefore, if they should die in ",
@@ -1373,7 +1387,14 @@
         "id": "45:23",
         "page": 45,
         "line": 23,
-        "text": "dom of God must be filthy also.",
+        "text": "dom of God must be filthy also. But behold, I say ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/45"
+      },
+      {
+        "id": "45:24a",
+        "page": 45,
+        "line": 24,
+        "text": "unto you, the kingdom of",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/45"
       }
     ]
@@ -1384,17 +1405,10 @@
     "verse": 34,
     "lines": [
       {
-        "id": "45:23",
-        "page": 45,
-        "line": 23,
-        "text": "But behold, I say ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/45"
-      },
-      {
-        "id": "45:24",
+        "id": "45:24b",
         "page": 45,
         "line": 24,
-        "text": "unto you, the kingdom of God is not filthy, and there ",
+        "text": "God is not filthy, and there ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/45"
       },
       {
@@ -1412,7 +1426,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/45"
       },
       {
-        "id": "45:27",
+        "id": "45:27a",
         "page": 45,
         "line": 27,
         "text": "ness prepared for that which is filthy.",
@@ -1426,7 +1440,7 @@
     "verse": 35,
     "lines": [
       {
-        "id": "45:27",
+        "id": "45:27b",
         "page": 45,
         "line": 27,
         "text": "And there is a ",
@@ -1461,7 +1475,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/45"
       },
       {
-        "id": "45:32",
+        "id": "45:32a",
         "page": 45,
         "line": 32,
         "text": "of that justice of which I have spoken;",
@@ -1475,7 +1489,7 @@
     "verse": 36,
     "lines": [
       {
-        "id": "45:32",
+        "id": "45:32b",
         "page": 45,
         "line": 32,
         "text": "wherefore, the ",
@@ -1513,14 +1527,7 @@
         "id": "45:37",
         "page": 45,
         "line": 37,
-        "text": "brethren. Amen. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/45"
-      },
-      {
-        "id": "45:38",
-        "page": 45,
-        "line": 38,
-        "text": "And now it came to pass that after I, Nephi, had",
+        "text": "brethren. Amen.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/45"
       }
     ]

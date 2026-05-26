@@ -5,7 +5,7 @@
     "verse": 1,
     "lines": [
       {
-        "id": "369:26",
+        "id": "369:26b",
         "page": 369,
         "line": 26,
         "text": "& it came to pass that thus passed away ",
@@ -34,7 +34,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/369"
       },
       {
-        "id": "369:30",
+        "id": "369:30a",
         "page": 369,
         "line": 30,
         "text": "believe all which they had heard & seen",
@@ -48,7 +48,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "369:30",
+        "id": "369:30b",
         "page": 369,
         "line": 30,
         "text": "imagioning up some vain thing in their hearts ",
@@ -76,7 +76,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/369"
       },
       {
-        "id": "369:34",
+        "id": "369:34a",
         "page": 369,
         "line": 34,
         "text": "lish & a vain thing",
@@ -90,7 +90,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "369:34",
+        "id": "369:34b",
         "page": 369,
         "line": 34,
         "text": "& it came to pass that the people began to wax strong in wickedness & abominations ",
@@ -111,7 +111,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/369"
       },
       {
-        "id": "369:37",
+        "id": "369:37a",
         "page": 369,
         "line": 37,
         "text": "ould do great wickedness in the land",
@@ -125,14 +125,14 @@
     "verse": 4,
     "lines": [
       {
-        "id": "369:37",
+        "id": "369:37b",
         "page": 369,
         "line": 37,
         "text": "& thus did pass away the ninety & sixth year & also ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/369"
       },
       {
-        "id": "369:38",
+        "id": "369:38a",
         "page": 369,
         "line": 38,
         "text": "the ninety & seventh year & also the ninety & eighth year & also the ninety & ninth year",
@@ -146,7 +146,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "369:38",
+        "id": "369:38b",
         "page": 369,
         "line": 38,
         "text": "& ",
@@ -161,7 +161,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/369"
       },
       {
-        "id": "370:1",
+        "id": "370:1a",
         "page": 370,
         "line": 1,
         "text": "King over the people of the Nephites",
@@ -175,14 +175,14 @@
     "verse": 6,
     "lines": [
       {
-        "id": "370:1",
+        "id": "370:1b",
         "page": 370,
         "line": 1,
         "text": "& six hundred & nine years had passed aw",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/370"
       },
       {
-        "id": "370:2",
+        "id": "370:2a",
         "page": 370,
         "line": 2,
         "text": "ay since Lehi left Jerusalem",
@@ -196,7 +196,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "370:2",
+        "id": "370:2b",
         "page": 370,
         "line": 2,
         "text": "& nine years had passed away from the time which ",
@@ -210,7 +210,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/370"
       },
       {
-        "id": "370:4",
+        "id": "370:4a",
         "page": 370,
         "line": 4,
         "text": "into the world",
@@ -224,17 +224,17 @@
     "verse": 8,
     "lines": [
       {
-        "id": "370:4",
+        "id": "370:4b",
         "page": 370,
         "line": 4,
         "text": "now the Nephites began to reckon their time from this period which ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/370"
       },
       {
-        "id": "370:5",
+        "id": "370:5a",
         "page": 370,
         "line": 5,
-        "text": "the sign was given or from the coming of Christ therefore nine years h◊d passed away &",
+        "text": "the sign was given or from the coming of Christ therefore nine years h◊d passed away",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/370"
       }
     ]
@@ -245,6 +245,13 @@
     "verse": 9,
     "lines": [
       {
+        "id": "370:5b",
+        "page": 370,
+        "line": 5,
+        "text": "& ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/370"
+      },
+      {
         "id": "370:6",
         "page": 370,
         "line": 6,
@@ -252,7 +259,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/370"
       },
       {
-        "id": "370:7",
+        "id": "370:7a",
         "page": 370,
         "line": 7,
         "text": "the land of Zarahemla & could no where be found in all the land",
@@ -266,7 +273,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "370:7",
+        "id": "370:7b",
         "page": 370,
         "line": 7,
         "text": "& it came to pass that ",
@@ -288,7 +295,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/370"
       },
       {
-        "id": "370:10",
+        "id": "370:10a",
         "page": 370,
         "line": 10,
         "text": "eleventh year also passed away in iniquity",
@@ -302,7 +309,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "370:10",
+        "id": "370:10b",
         "page": 370,
         "line": 10,
         "text": "& it came to pass in the thirteenth year ",
@@ -338,7 +345,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/370"
       },
       {
-        "id": "370:15",
+        "id": "370:15a",
         "page": 370,
         "line": 15,
         "text": "ainst them",
@@ -352,7 +359,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "370:15",
+        "id": "370:15b",
         "page": 370,
         "line": 15,
         "text": "therefore all the Lamanites which had become converted unto the Lord ",
@@ -380,7 +387,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/370"
       },
       {
-        "id": "370:19",
+        "id": "370:19a",
         "page": 370,
         "line": 19,
         "text": "freedom & their liberty",
@@ -394,7 +401,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "370:19",
+        "id": "370:19b",
         "page": 370,
         "line": 19,
         "text": "& it came to pass that before this thirteenth year had passed ",
@@ -408,7 +415,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/370"
       },
       {
-        "id": "370:21",
+        "id": "370:21a",
         "page": 370,
         "line": 21,
         "text": "me exceding",
@@ -422,7 +429,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "370:21",
+        "id": "370:21b",
         "page": 370,
         "line": 21,
         "text": "soar & it came to pass that those Lamanites which had united with the Nephites were ",
@@ -430,7 +437,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/370"
       },
       {
-        "id": "370:22",
+        "id": "370:22a",
         "page": 370,
         "line": 22,
         "text": "numbered among the Nephites",
@@ -444,14 +451,14 @@
     "verse": 15,
     "lines": [
       {
-        "id": "370:22",
+        "id": "370:22b",
         "page": 370,
         "line": 22,
         "text": "& their curse was taken from them & their skin became white ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/370"
       },
       {
-        "id": "370:23",
+        "id": "370:23a",
         "page": 370,
         "line": 23,
         "text": "like unto the Nephites",
@@ -465,14 +472,14 @@
     "verse": 16,
     "lines": [
       {
-        "id": "370:23",
+        "id": "370:23b",
         "page": 370,
         "line": 23,
         "text": "& their Young men & their Daughters became exceding fair & they were nu",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/370"
       },
       {
-        "id": "370:24",
+        "id": "370:24a",
         "page": 370,
         "line": 24,
         "text": "mbered among the Nephites & were called Nephites & thus ended the thirteenth year",
@@ -486,7 +493,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "370:24",
+        "id": "370:24b",
         "page": 370,
         "line": 24,
         "text": "& it came to pass ",
@@ -515,7 +522,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/370"
       },
       {
-        "id": "370:28",
+        "id": "370:28a",
         "page": 370,
         "line": 28,
         "text": "tains & into their secret places",
@@ -529,7 +536,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "370:28",
+        "id": "370:28b",
         "page": 370,
         "line": 28,
         "text": "& thus ended the fourteenth year & in the fifteenth year they ",
@@ -550,7 +557,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/370"
       },
       {
-        "id": "370:31",
+        "id": "370:31a",
         "page": 370,
         "line": 31,
         "text": "ntages over them",
@@ -564,7 +571,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "370:31",
+        "id": "370:31b",
         "page": 370,
         "line": 31,
         "text": "& thus ended the fifteenth year & thus were the people in a state of many ",
@@ -581,15 +588,7 @@
         "id": "370:33",
         "page": 370,
         "line": 33,
-        "text": "about to be smitten down by it & this because of their iniquity—— ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/370"
-      },
-      {
-        "id": "370:34",
-        "page": 370,
-        "line": 34,
-        "text": "Chapter——",
-        "markdown": "Chapter—— []—— And now it came to pass that in the sixteenth year",
+        "text": "about to be smitten down by it & this because of their iniquity——",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/370"
       }
     ]

@@ -5,7 +5,7 @@
     "verse": 1,
     "lines": [
       {
-        "id": "407:26",
+        "id": "407:26b",
         "page": 407,
         "line": 26,
         "text": "And now it came to pass ",
@@ -19,7 +19,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/407"
       },
       {
-        "id": "407:28",
+        "id": "407:28a",
         "page": 407,
         "line": 28,
         "text": "de & he did expound all things unto them both great & small",
@@ -33,7 +33,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "407:28",
+        "id": "407:28b",
         "page": 407,
         "line": 28,
         "text": "& he sayeth ",
@@ -54,7 +54,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/407"
       },
       {
-        "id": "407:31",
+        "id": "407:31a",
         "page": 407,
         "line": 31,
         "text": "unto future Generations",
@@ -68,7 +68,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "407:31",
+        "id": "407:31b",
         "page": 407,
         "line": 31,
         "text": "& he did expound all things even from the begining ",
@@ -96,7 +96,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/407"
       },
       {
-        "id": "407:35",
+        "id": "407:35a",
         "page": 407,
         "line": 35,
         "text": "awl & the Heaven & the Earth should pass away",
@@ -110,7 +110,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "407:35",
+        "id": "407:35b",
         "page": 407,
         "line": 35,
         "text": "& even unto the great & ",
@@ -132,7 +132,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/407"
       },
       {
-        "id": "407:38",
+        "id": "407:38a",
         "page": 407,
         "line": 38,
         "text": "whether they be Evil",
@@ -146,7 +146,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "407:38",
+        "id": "407:38b",
         "page": 407,
         "line": 38,
         "text": "if they be good to the resurrection of Everlasting ",
@@ -177,14 +177,7 @@
         "id": "408:3",
         "page": 408,
         "line": 3,
-        "text": "which was before the world began. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/408"
-      },
-      {
-        "id": "408:4",
-        "page": 408,
-        "line": 4,
-        "text": "Chapter XII",
+        "text": "which was before the world began.",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/408"
       }
     ]
@@ -195,6 +188,13 @@
     "verse": 6,
     "lines": [
       {
+        "id": "408:4",
+        "page": 408,
+        "line": 4,
+        "text": "Chapter XII ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/408"
+      },
+      {
         "id": "408:5",
         "page": 408,
         "line": 5,
@@ -202,10 +202,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/408"
       },
       {
-        "id": "408:6",
+        "id": "408:6a",
         "page": 408,
         "line": 6,
-        "text": "part of the things which Jesus did truly teach unto the People but",
+        "text": "part of the things which Jesus did truly teach unto the People",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/408"
       }
     ]
@@ -216,10 +216,10 @@
     "verse": 7,
     "lines": [
       {
-        "id": "408:6",
+        "id": "408:6b",
         "page": 408,
         "line": 6,
-        "text": "beho",
+        "text": "but beho",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/408"
       },
       {
@@ -230,7 +230,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/408"
       },
       {
-        "id": "408:8",
+        "id": "408:8a",
         "page": 408,
         "line": 8,
         "text": "taught the People",
@@ -244,7 +244,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "408:8",
+        "id": "408:8b",
         "page": 408,
         "line": 8,
         "text": "& these things have I written which are a lesser part ",
@@ -265,7 +265,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/408"
       },
       {
-        "id": "408:11",
+        "id": "408:11a",
         "page": 408,
         "line": 11,
         "text": "ding to the words which Jesus hath spoken",
@@ -279,7 +279,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "408:11",
+        "id": "408:11b",
         "page": 408,
         "line": 11,
         "text": "& when they shall have rec",
@@ -301,7 +301,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/408"
       },
       {
-        "id": "408:14",
+        "id": "408:14a",
         "page": 408,
         "line": 14,
         "text": "ter things be made manifest unto them",
@@ -315,7 +315,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "408:14",
+        "id": "408:14b",
         "page": 408,
         "line": 14,
         "text": "& if it so be that they will not ",
@@ -329,7 +329,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/408"
       },
       {
-        "id": "408:16",
+        "id": "408:16a",
         "page": 408,
         "line": 16,
         "text": "unto their condemnation",
@@ -343,7 +343,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "408:16",
+        "id": "408:16b",
         "page": 408,
         "line": 16,
         "text": "behold I were about to write them all which were ",
@@ -357,7 +357,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/408"
       },
       {
-        "id": "408:18",
+        "id": "408:18a",
         "page": 408,
         "line": 18,
         "text": "try the faith of my People",
@@ -371,7 +371,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "408:18",
+        "id": "408:18b",
         "page": 408,
         "line": 18,
         "text": "therefore I Mormon do write the things which ",
@@ -392,7 +392,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/408"
       },
       {
-        "id": "408:21",
+        "id": "408:21a",
         "page": 408,
         "line": 21,
         "text": "commanded me",
@@ -406,7 +406,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "408:21",
+        "id": "408:21b",
         "page": 408,
         "line": 21,
         "text": "therefore I would that ye should behold that the Lord ",
@@ -427,7 +427,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/408"
       },
       {
-        "id": "408:24",
+        "id": "408:24a",
         "page": 408,
         "line": 24,
         "text": "them",
@@ -441,7 +441,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "408:24",
+        "id": "408:24b",
         "page": 408,
         "line": 24,
         "text": "& it came to pass that he did teach & minister unto the Children of the ",
@@ -469,7 +469,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/408"
       },
       {
-        "id": "408:28",
+        "id": "408:28a",
         "page": 408,
         "line": 28,
         "text": "could utter",
@@ -483,7 +483,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "408:28",
+        "id": "408:28b",
         "page": 408,
         "line": 28,
         "text": "& it came to pass that after had asscended into Heaven the sec",
@@ -518,7 +518,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/408"
       },
       {
-        "id": "408:33",
+        "id": "408:33a",
         "page": 408,
         "line": 33,
         "text": "to them & had asscended unto the Father,",
@@ -532,7 +532,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "408:33",
+        "id": "408:33b",
         "page": 408,
         "line": 33,
         "text": "behold it came to pass on the ",
@@ -560,7 +560,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/408"
       },
       {
-        "id": "408:37",
+        "id": "408:37a",
         "page": 408,
         "line": 37,
         "text": "not any man write them",
@@ -574,7 +574,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "408:37",
+        "id": "408:37b",
         "page": 408,
         "line": 37,
         "text": "& it came to pass that the Disciples whom Jesus had ",
@@ -595,7 +595,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/408"
       },
       {
-        "id": "408:40",
+        "id": "408:40a",
         "page": 408,
         "line": 40,
         "text": "the Holy Ghost",
@@ -609,14 +609,14 @@
     "verse": 18,
     "lines": [
       {
-        "id": "408:40",
+        "id": "408:40b",
         "page": 408,
         "line": 40,
         "text": "& many of them saw & hard unspeakable things which ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/408"
       },
       {
-        "id": "409:1",
+        "id": "409:1a",
         "page": 409,
         "line": 1,
         "text": "are not lawful to be written",
@@ -630,7 +630,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "409:1",
+        "id": "409:1b",
         "page": 409,
         "line": 1,
         "text": "& they taught & did minister one to another ",
@@ -644,7 +644,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/409"
       },
       {
-        "id": "409:3",
+        "id": "409:3a",
         "page": 409,
         "line": 3,
         "text": "justly one with another",
@@ -658,14 +658,14 @@
     "verse": 20,
     "lines": [
       {
-        "id": "409:3",
+        "id": "409:3b",
         "page": 409,
         "line": 3,
         "text": "and it came to pass that they did do all thin",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/409"
       },
       {
-        "id": "409:4",
+        "id": "409:4a",
         "page": 409,
         "line": 4,
         "text": "gs even as Jesus had commanded them",
@@ -679,14 +679,14 @@
     "verse": 21,
     "lines": [
       {
-        "id": "409:4",
+        "id": "409:4b",
         "page": 409,
         "line": 4,
         "text": "& they which were baptised in the ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/409"
       },
       {
-        "id": "409:5",
+        "id": "409:5a",
         "page": 409,
         "line": 5,
         "text": "name of Jesus were called the Church of Christ",

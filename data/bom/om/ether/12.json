@@ -5,6 +5,14 @@
     "verse": 2,
     "lines": [
       {
+        "id": "226:1c",
+        "page": 226,
+        "line": 1,
+        "text": "manner ",
+        "markdown": "manner}} ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/226"
+      },
+      {
         "id": "226:2",
         "page": 226,
         "line": 2,
@@ -21,7 +29,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/226"
       },
       {
-        "id": "226:4",
+        "id": "226:4a",
         "page": 226,
         "line": 4,
         "text": "of the Lord which was in him",
@@ -36,7 +44,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "226:4",
+        "id": "226:4b",
         "page": 226,
         "line": 4,
         "text": "for he did cry from the morning even untill the going do",
@@ -52,11 +60,11 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/226"
       },
       {
-        "id": "226:6",
+        "id": "226:6a",
         "page": 226,
         "line": 6,
-        "text": "should be destroid saying unto them that by faith all things are fulfiled wherefo",
-        "markdown": "should be destroid saying unto th{{em that by faith all things are fulfiled wherefo}}",
+        "text": "should be destroid saying unto them that by faith all things are fulfiled",
+        "markdown": "should be destroid saying unto th{{em that by faith all things are fulfiled",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/226"
       }
     ]
@@ -66,6 +74,14 @@
     "chapter": 12,
     "verse": 4,
     "lines": [
+      {
+        "id": "226:6b",
+        "page": 226,
+        "line": 6,
+        "text": "wherefo",
+        "markdown": "wherefo}}",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/226"
+      },
       {
         "id": "226:7",
         "page": 226,
@@ -91,7 +107,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/226"
       },
       {
-        "id": "226:10",
+        "id": "226:10a",
         "page": 226,
         "line": 10,
         "text": "ks being lead to glorify God",
@@ -105,7 +121,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "226:10",
+        "id": "226:10b",
         "page": 226,
         "line": 10,
         "text": "& it came to pass that Ether did prophesy great & ",
@@ -121,7 +137,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/226"
       },
       {
-        "id": "226:12",
+        "id": "226:12a",
         "page": 226,
         "line": 12,
         "text": "not",
@@ -135,7 +151,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "226:12",
+        "id": "226:12b",
         "page": 226,
         "line": 12,
         "text": "& now I Moroni would speak sone what concerning these things I wouldshew unto the world that faith is things which are hoped for & not seen wherefore dis",
@@ -143,7 +159,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/226"
       },
       {
-        "id": "226:13",
+        "id": "226:13a",
         "page": 226,
         "line": 13,
         "text": "pute not because ye see not for ye receive no witness not untill after the trial of yourfaith",
@@ -158,71 +174,12 @@
     "verse": 7,
     "lines": [
       {
-        "id": "226:13",
+        "id": "226:13b",
         "page": 226,
         "line": 13,
-        "text": "for it was by faith that Christ shewed himself unto our fathers after thathe had risen from the dead & he shewed not",
-        "markdown": "for it {{was}} by faith that Christ shewed h{{imself unto our fathers after thathe had risen from the dead &}} he shewed not",
+        "text": "for it was by faith that Christ shewed himself unto our fathers after thathe had risen from the dead & he shewed not himself unto them",
+        "markdown": "for it {{was}} by faith that Christ shewed h{{imself unto our fathers after thathe had risen from the dead &}} he shewed not h{{imself unto them",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/226"
-      }
-    ]
-  },
-  {
-    "book": "ether",
-    "chapter": 12,
-    "verse": 8,
-    "lines": [
-      {
-        "id": "226:13",
-        "page": 226,
-        "line": 13,
-        "text": "himself",
-        "markdown": "h{{imself",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/226"
-      }
-    ]
-  },
-  {
-    "book": "ether",
-    "chapter": 12,
-    "verse": 9,
-    "lines": [
-      {
-        "id": "226:13",
-        "page": 226,
-        "line": 13,
-        "text": "unto them untill after they",
-        "markdown": "unto them untill after they}}",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/226"
-      }
-    ]
-  },
-  {
-    "book": "ether",
-    "chapter": 12,
-    "verse": 20,
-    "lines": [
-      {
-        "id": "227:1",
-        "page": 227,
-        "line": 1,
-        "text": "out",
-        "markdown": "{{out",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/227"
-      }
-    ]
-  },
-  {
-    "book": "ether",
-    "chapter": 12,
-    "verse": 21,
-    "lines": [
-      {
-        "id": "227:1",
-        "page": 227,
-        "line": 1,
-        "text": "the veil",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/227"
       }
     ]
   },
@@ -232,11 +189,19 @@
     "verse": 22,
     "lines": [
       {
-        "id": "227:1",
+        "id": "226:13c",
+        "page": 226,
+        "line": 13,
+        "text": "untill after they ",
+        "markdown": "untill after they}} ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/226"
+      },
+      {
+        "id": "227:1a",
         "page": 227,
         "line": 1,
-        "text": "& it is by faith that my fathers have obtained the promise that thesethings should come unto their Brethren through the Gentiles therefore the Lord hathcommanded me yea even Jesus Christ",
-        "markdown": "& it is by faith that my fathers have obtained}} the~~e~~ prom{{ise that thesethings should come unto their Brethren through the Gentiles th}}erefore {{the Lord hathcommanded me yea even Jesus Christ",
+        "text": "out the veil & it is by faith that my fathers have obtained the promise that thesethings should come unto their Brethren through the Gentiles therefore the Lord hathcommanded me yea even Jesus Christ",
+        "markdown": "{{out the veil & it is by faith that my fathers have obtained}} the~~e~~ prom{{ise that thesethings should come unto their Brethren through the Gentiles th}}erefore {{the Lord hathcommanded me yea even Jesus Christ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/227"
       }
     ]
@@ -247,7 +212,7 @@
     "verse": 23,
     "lines": [
       {
-        "id": "227:1",
+        "id": "227:1b",
         "page": 227,
         "line": 1,
         "text": "& I said unto him Lord the Gentiles willmock at these things because of our weakness in writing for Lord thou hast",
@@ -262,7 +227,7 @@
     "verse": 24,
     "lines": [
       {
-        "id": "227:1",
+        "id": "227:1c",
         "page": 227,
         "line": 1,
         "text": "made ",
@@ -278,7 +243,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/227"
       },
       {
-        "id": "227:3",
+        "id": "227:3a",
         "page": 227,
         "line": 3,
         "text": "art unto the overpowering of man to read them",
@@ -293,7 +258,7 @@
     "verse": 25,
     "lines": [
       {
-        "id": "227:3",
+        "id": "227:3b",
         "page": 227,
         "line": 3,
         "text": "thou hast also made our wor",
@@ -317,7 +282,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/227"
       },
       {
-        "id": "227:6",
+        "id": "227:6a",
         "page": 227,
         "line": 6,
         "text": "fear least the Gentiles shall mock at our words",
@@ -332,7 +297,7 @@
     "verse": 26,
     "lines": [
       {
-        "id": "227:6",
+        "id": "227:6b",
         "page": 227,
         "line": 6,
         "text": "& when I had said this the ",
@@ -386,7 +351,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/227"
       },
       {
-        "id": "227:12",
+        "id": "227:12a",
         "page": 227,
         "line": 12,
         "text": "have faith in me then will I make weak things become strong unto them",
@@ -401,14 +366,14 @@
     "verse": 28,
     "lines": [
       {
-        "id": "227:12",
+        "id": "227:12b",
         "page": 227,
         "line": 12,
         "text": "behold ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/227"
       },
       {
-        "id": "227:13",
+        "id": "227:13a",
         "page": 227,
         "line": 13,
         "text": "I will shew unto the Gentiles their weakness & I will shew unto them thatfaith hope & charity bringeth unto me the fountain of all righteousness",
@@ -423,26 +388,11 @@
     "verse": 29,
     "lines": [
       {
-        "id": "227:13",
+        "id": "227:13b",
         "page": 227,
         "line": 13,
-        "text": "& I Moroni haveing heard these words was comforted & said O Lord thy righteous willbe done for I know that thou workest",
-        "markdown": "& I {{Moroni haveing heard these words was}} comforted & said O Lord t{{hy r}}ighteous {{willbe done for I know that thou workest",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/227"
-      }
-    ]
-  },
-  {
-    "book": "ether",
-    "chapter": 12,
-    "verse": 31,
-    "lines": [
-      {
-        "id": "227:13",
-        "page": 227,
-        "line": 13,
-        "text": "unto the children of men according to",
-        "markdown": "u}}nto {{the}} childre{{n of men according to}}",
+        "text": "& I Moroni haveing heard these words was comforted & said O Lord thy righteous willbe done for I know that thou workest unto the children",
+        "markdown": "& I {{Moroni haveing heard these words was}} comforted & said O Lord t{{hy r}}ighteous {{willbe done for I know that thou workest u}}nto {{the}} childre{{n",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/227"
       }
     ]
@@ -453,7 +403,15 @@
     "verse": 41,
     "lines": [
       {
-        "id": "228:1",
+        "id": "227:13c",
+        "page": 227,
+        "line": 13,
+        "text": "of men according to ",
+        "markdown": "of men according to}} ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/227"
+      },
+      {
+        "id": "228:1a",
         "page": 228,
         "line": 1,
         "text": "seek this Jesus of whom the Prophets & apostels have written that thegrace of God the Father & also the Lord Jesus Christ & the HolyGhost which beareth Reckord of them may be & abide in",

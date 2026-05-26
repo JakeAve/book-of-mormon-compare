@@ -75,7 +75,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/482"
       },
       {
-        "id": "482:14",
+        "id": "482:14a",
         "page": 482,
         "line": 14,
         "text": "ken place;",
@@ -89,7 +89,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "482:14",
+        "id": "482:14b",
         "page": 482,
         "line": 14,
         "text": "and they were also conversing about this Je",
@@ -194,7 +194,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/482"
       },
       {
-        "id": "482:27",
+        "id": "482:27a",
         "page": 482,
         "line": 27,
         "text": "understood it not;",
@@ -208,7 +208,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "482:27",
+        "id": "482:27b",
         "page": 482,
         "line": 27,
         "text": "and again the third time they did hear the ",
@@ -229,7 +229,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/482"
       },
       {
-        "id": "482:30",
+        "id": "482:30a",
         "page": 482,
         "line": 30,
         "text": "wards Heaven, from whence the sound came;",
@@ -243,7 +243,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "482:30",
+        "id": "482:30b",
         "page": 482,
         "line": 30,
         "text": "and behold, the ",
@@ -257,7 +257,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/482"
       },
       {
-        "id": "482:32",
+        "id": "482:32a",
         "page": 482,
         "line": 32,
         "text": "and it saith unto them,",
@@ -271,7 +271,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "482:32",
+        "id": "482:32b",
         "page": 482,
         "line": 32,
         "text": "Behold, my beloved Son, in whom I ",
@@ -369,7 +369,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/483"
       },
       {
-        "id": "483:7",
+        "id": "483:7a",
         "page": 483,
         "line": 7,
         "text": "spake unto the people, saying:",
@@ -383,7 +383,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "483:7",
+        "id": "483:7b",
         "page": 483,
         "line": 7,
         "text": "Behold I am Jesus Christ, of ",
@@ -589,14 +589,7 @@
         "id": "483:31",
         "page": 483,
         "line": 31,
-        "text": "written by the prophets that should come. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/483"
-      },
-      {
-        "id": "483:32",
-        "page": 483,
-        "line": 32,
-        "text": "And it came",
+        "text": "written by the prophets that should come.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/483"
       }
     ]
@@ -610,7 +603,7 @@
         "id": "483:32",
         "page": 483,
         "line": 32,
-        "text": "to pass that when they had all gone forth, and ",
+        "text": "And it came to pass that when they had all gone forth, and ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/483"
       },
       {
@@ -621,7 +614,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/483"
       },
       {
-        "id": "483:34",
+        "id": "483:34a",
         "page": 483,
         "line": 34,
         "text": "cord, saying:",
@@ -635,7 +628,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "483:34",
+        "id": "483:34b",
         "page": 483,
         "line": 34,
         "text": "Hosanna! Blessed be the name of the Most ",
@@ -677,7 +670,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/483"
       },
       {
-        "id": "483:39",
+        "id": "483:39a",
         "page": 483,
         "line": 39,
         "text": "should come forth.",
@@ -691,7 +684,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "483:39",
+        "id": "483:39b",
         "page": 483,
         "line": 39,
         "text": "And Nephi arose and went forth, and ",
@@ -719,7 +712,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/483"
       },
       {
-        "id": "483:42",
+        "id": "483:42a",
         "page": 483,
         "line": 42,
         "text": "arose and stood before him.",
@@ -733,7 +726,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "483:42",
+        "id": "483:42b",
         "page": 483,
         "line": 42,
         "text": "And the Lord said unto him, I ",
@@ -747,7 +740,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/483"
       },
       {
-        "id": "484:1",
+        "id": "484:1a",
         "page": 484,
         "line": 1,
         "text": "am again ascended into heaven.",
@@ -761,7 +754,7 @@
     "verse": 22,
     "lines": [
       {
-        "id": "484:1",
+        "id": "484:1b",
         "page": 484,
         "line": 1,
         "text": "And again the Lord called ",
@@ -789,7 +782,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/484"
       },
       {
-        "id": "484:5",
+        "id": "484:5a",
         "page": 484,
         "line": 5,
         "text": "you.",
@@ -803,7 +796,7 @@
     "verse": 23,
     "lines": [
       {
-        "id": "484:5",
+        "id": "484:5b",
         "page": 484,
         "line": 5,
         "text": "Verily I say unto you, that whoso repenteth of his sins ",
@@ -845,7 +838,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/484"
       },
       {
-        "id": "484:10",
+        "id": "484:10a",
         "page": 484,
         "line": 10,
         "text": "calling them by name, saying:",
@@ -859,7 +852,7 @@
     "verse": 25,
     "lines": [
       {
-        "id": "484:10",
+        "id": "484:10b",
         "page": 484,
         "line": 10,
         "text": "Having authority given me of ",
@@ -873,7 +866,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/484"
       },
       {
-        "id": "484:12",
+        "id": "484:12a",
         "page": 484,
         "line": 12,
         "text": "the Son, and of the Holy Ghost. Amen.",
@@ -887,7 +880,7 @@
     "verse": 26,
     "lines": [
       {
-        "id": "484:12",
+        "id": "484:12b",
         "page": 484,
         "line": 12,
         "text": "And then shall ye ",
@@ -901,7 +894,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/484"
       },
       {
-        "id": "484:14",
+        "id": "484:14a",
         "page": 484,
         "line": 14,
         "text": "water.",
@@ -915,7 +908,7 @@
     "verse": 27,
     "lines": [
       {
-        "id": "484:14",
+        "id": "484:14b",
         "page": 484,
         "line": 14,
         "text": "And after this manner shall ye baptize in my name, ",
@@ -936,10 +929,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/484"
       },
       {
-        "id": "484:17",
+        "id": "484:17a",
         "page": 484,
         "line": 17,
-        "text": "the Father in me, and the Father and I are one. And",
+        "text": "the Father in me, and the Father and I are one.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/484"
       }
     ]
@@ -950,10 +943,10 @@
     "verse": 28,
     "lines": [
       {
-        "id": "484:17",
+        "id": "484:17b",
         "page": 484,
         "line": 17,
-        "text": "accor",
+        "text": "And accor",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/484"
       },
       {
@@ -1013,7 +1006,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/484"
       },
       {
-        "id": "484:25",
+        "id": "484:25a",
         "page": 484,
         "line": 25,
         "text": "with anger, one with another.",
@@ -1027,7 +1020,7 @@
     "verse": 30,
     "lines": [
       {
-        "id": "484:25",
+        "id": "484:25b",
         "page": 484,
         "line": 25,
         "text": "Behold, this is not my doc",
@@ -1048,7 +1041,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/484"
       },
       {
-        "id": "484:28",
+        "id": "484:28a",
         "page": 484,
         "line": 28,
         "text": "be done away.",
@@ -1062,14 +1055,14 @@
     "verse": 31,
     "lines": [
       {
-        "id": "484:28",
+        "id": "484:28b",
         "page": 484,
         "line": 28,
         "text": "Behold, verily, verily I say unto you, I will ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/484"
       },
       {
-        "id": "484:29",
+        "id": "484:29a",
         "page": 484,
         "line": 29,
         "text": "declare unto you my doctrine.",
@@ -1083,7 +1076,7 @@
     "verse": 32,
     "lines": [
       {
-        "id": "484:29",
+        "id": "484:29b",
         "page": 484,
         "line": 29,
         "text": "And this is my doctrine, and ",
@@ -1118,7 +1111,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/484"
       },
       {
-        "id": "484:34",
+        "id": "484:34a",
         "page": 484,
         "line": 34,
         "text": "every where, to repent and believe in me;",
@@ -1132,7 +1125,7 @@
     "verse": 33,
     "lines": [
       {
-        "id": "484:34",
+        "id": "484:34b",
         "page": 484,
         "line": 34,
         "text": "and whoso believ",
@@ -1146,7 +1139,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/484"
       },
       {
-        "id": "484:36",
+        "id": "484:36a",
         "page": 484,
         "line": 36,
         "text": "they which shall inherit the kingdom of God.",
@@ -1160,7 +1153,7 @@
     "verse": 34,
     "lines": [
       {
-        "id": "484:36",
+        "id": "484:36b",
         "page": 484,
         "line": 36,
         "text": "And whoso ",
@@ -1209,7 +1202,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/484"
       },
       {
-        "id": "484:42",
+        "id": "484:42a",
         "page": 484,
         "line": 42,
         "text": "the Holy Ghost;",
@@ -1223,7 +1216,7 @@
     "verse": 36,
     "lines": [
       {
-        "id": "484:42",
+        "id": "484:42b",
         "page": 484,
         "line": 42,
         "text": "and thus will the Father bear record of me; ",
@@ -1265,7 +1258,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/485"
       },
       {
-        "id": "485:4",
+        "id": "485:4a",
         "page": 485,
         "line": 4,
         "text": "receive these things.",
@@ -1279,7 +1272,7 @@
     "verse": 38,
     "lines": [
       {
-        "id": "485:4",
+        "id": "485:4b",
         "page": 485,
         "line": 4,
         "text": "And again I say unto you, Ye must re",
@@ -1293,10 +1286,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/485"
       },
       {
-        "id": "485:6",
+        "id": "485:6a",
         "page": 485,
         "line": 6,
-        "text": "child, or ye can in nowise inherit the kingdom of God. Ve",
+        "text": "child, or ye can in nowise inherit the kingdom of God.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/485"
       }
     ]
@@ -1306,6 +1299,13 @@
     "chapter": 11,
     "verse": 39,
     "lines": [
+      {
+        "id": "485:6b",
+        "page": 485,
+        "line": 6,
+        "text": "Ve",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/485"
+      },
       {
         "id": "485:7",
         "page": 485,
@@ -1321,7 +1321,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/485"
       },
       {
-        "id": "485:9",
+        "id": "485:9a",
         "page": 485,
         "line": 9,
         "text": "hell shall not prevail against them.",
@@ -1335,7 +1335,7 @@
     "verse": 40,
     "lines": [
       {
-        "id": "485:9",
+        "id": "485:9b",
         "page": 485,
         "line": 9,
         "text": "And whoso shall declare ",
@@ -1370,7 +1370,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/485"
       },
       {
-        "id": "485:14",
+        "id": "485:14a",
         "page": 485,
         "line": 14,
         "text": "winds beat upon them.",
@@ -1384,7 +1384,7 @@
     "verse": 41,
     "lines": [
       {
-        "id": "485:14",
+        "id": "485:14b",
         "page": 485,
         "line": 14,
         "text": "Therefore go forth unto this people, ",
@@ -1398,7 +1398,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/485"
       },
       {
-        "id": "485:16",
+        "id": "485:16a",
         "page": 485,
         "line": 16,
         "text": "the earth.",

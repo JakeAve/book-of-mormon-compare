@@ -61,7 +61,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/572"
       },
       {
-        "id": "572:10",
+        "id": "572:10a",
         "page": 572,
         "line": 10,
         "text": "is called the book of Ether.",
@@ -75,7 +75,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "572:10",
+        "id": "572:10b",
         "page": 572,
         "line": 10,
         "text": "And as I suppose that ",
@@ -110,7 +110,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/572"
       },
       {
-        "id": "572:15",
+        "id": "572:15a",
         "page": 572,
         "line": 15,
         "text": "men until that time, is had among the Jews,",
@@ -124,7 +124,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "572:15",
+        "id": "572:15b",
         "page": 572,
         "line": 15,
         "text": "therefore ",
@@ -152,10 +152,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/572"
       },
       {
-        "id": "572:19",
+        "id": "572:19a",
         "page": 572,
         "line": 19,
-        "text": "have power that he may get the full account. But",
+        "text": "have power that he may get the full account.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/572"
       }
     ]
@@ -166,10 +166,10 @@
     "verse": 5,
     "lines": [
       {
-        "id": "572:19",
+        "id": "572:19b",
         "page": 572,
         "line": 19,
-        "text": "be",
+        "text": "But be",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/572"
       },
       {
@@ -187,7 +187,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/572"
       },
       {
-        "id": "572:22",
+        "id": "572:22a",
         "page": 572,
         "line": 22,
         "text": "destroyed.",
@@ -201,7 +201,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "572:22",
+        "id": "572:22b",
         "page": 572,
         "line": 22,
         "text": "And on this wise do I give the account.— ",
@@ -215,7 +215,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/572"
       },
       {
-        "id": "572:24",
+        "id": "572:24a",
         "page": 572,
         "line": 24,
         "text": "descendant of Coriantor;",
@@ -229,14 +229,14 @@
     "verse": 7,
     "lines": [
       {
-        "id": "572:24",
+        "id": "572:24b",
         "page": 572,
         "line": 24,
         "text": "Coriantor was the son of ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/572"
       },
       {
-        "id": "572:25",
+        "id": "572:25a",
         "page": 572,
         "line": 25,
         "text": "Moron;",
@@ -250,7 +250,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "572:25",
+        "id": "572:25b",
         "page": 572,
         "line": 25,
         "text": "and Moron was the son of Ethem;",
@@ -264,14 +264,14 @@
     "verse": 9,
     "lines": [
       {
-        "id": "572:25",
+        "id": "572:25c",
         "page": 572,
         "line": 25,
         "text": "and Ethem ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/572"
       },
       {
-        "id": "572:26",
+        "id": "572:26a",
         "page": 572,
         "line": 26,
         "text": "was the son of Ahah;",
@@ -285,7 +285,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "572:26",
+        "id": "572:26b",
         "page": 572,
         "line": 26,
         "text": "and Ahah was the son of Seth;",
@@ -299,7 +299,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "572:27",
+        "id": "572:27a",
         "page": 572,
         "line": 27,
         "text": "and Seth was the son of Shiblon;",
@@ -313,10 +313,17 @@
     "verse": 12,
     "lines": [
       {
-        "id": "572:27",
+        "id": "572:27b",
         "page": 572,
         "line": 27,
-        "text": "and Shiblon was the",
+        "text": "and Shiblon was the ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/572"
+      },
+      {
+        "id": "572:28a",
+        "page": 572,
+        "line": 28,
+        "text": "son of Com;",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/572"
       }
     ]
@@ -327,10 +334,10 @@
     "verse": 13,
     "lines": [
       {
-        "id": "572:28",
+        "id": "572:28b",
         "page": 572,
         "line": 28,
-        "text": "son of Com; and Com was the son of Coriantum; and",
+        "text": "and Com was the son of Coriantum;",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/572"
       }
     ]
@@ -341,7 +348,14 @@
     "verse": 14,
     "lines": [
       {
-        "id": "572:29",
+        "id": "572:28c",
+        "page": 572,
+        "line": 28,
+        "text": "and ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/572"
+      },
+      {
+        "id": "572:29a",
         "page": 572,
         "line": 29,
         "text": "Coriantum was the son of Amnigaddah;",
@@ -355,14 +369,14 @@
     "verse": 15,
     "lines": [
       {
-        "id": "572:29",
+        "id": "572:29b",
         "page": 572,
         "line": 29,
         "text": "and Amnig",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/572"
       },
       {
-        "id": "572:30",
+        "id": "572:30a",
         "page": 572,
         "line": 30,
         "text": "addah was the son of Aaron;",
@@ -376,14 +390,14 @@
     "verse": 16,
     "lines": [
       {
-        "id": "572:30",
+        "id": "572:30b",
         "page": 572,
         "line": 30,
         "text": "and Aaron was a descend",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/572"
       },
       {
-        "id": "572:31",
+        "id": "572:31a",
         "page": 572,
         "line": 31,
         "text": "ant of Heth, who was the son of Hearthom;",
@@ -397,14 +411,14 @@
     "verse": 17,
     "lines": [
       {
-        "id": "572:31",
+        "id": "572:31b",
         "page": 572,
         "line": 31,
         "text": "and Hear",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/572"
       },
       {
-        "id": "572:32",
+        "id": "572:32a",
         "page": 572,
         "line": 32,
         "text": "thom was the son of Lib;",
@@ -418,7 +432,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "572:32",
+        "id": "572:32b",
         "page": 572,
         "line": 32,
         "text": "and Lib was the son of Kish;",
@@ -432,7 +446,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "572:33",
+        "id": "572:33a",
         "page": 572,
         "line": 33,
         "text": "and Kish was the Son of Corum;",
@@ -446,14 +460,14 @@
     "verse": 20,
     "lines": [
       {
-        "id": "572:33",
+        "id": "572:33b",
         "page": 572,
         "line": 33,
         "text": "and Corum was the ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/572"
       },
       {
-        "id": "572:34",
+        "id": "572:34a",
         "page": 572,
         "line": 34,
         "text": "son of Levi;",
@@ -467,7 +481,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "572:34",
+        "id": "572:34b",
         "page": 572,
         "line": 34,
         "text": "and Levi was the son of Kim;",
@@ -481,14 +495,14 @@
     "verse": 22,
     "lines": [
       {
-        "id": "572:34",
+        "id": "572:34c",
         "page": 572,
         "line": 34,
         "text": "and Kim ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/572"
       },
       {
-        "id": "572:35",
+        "id": "572:35a",
         "page": 572,
         "line": 35,
         "text": "was the son of Morianton;",
@@ -502,14 +516,14 @@
     "verse": 23,
     "lines": [
       {
-        "id": "572:35",
+        "id": "572:35b",
         "page": 572,
         "line": 35,
         "text": "and Morianton was a de",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/572"
       },
       {
-        "id": "572:36",
+        "id": "572:36a",
         "page": 572,
         "line": 36,
         "text": "scendant of Riplakish;",
@@ -523,14 +537,14 @@
     "verse": 24,
     "lines": [
       {
-        "id": "572:36",
+        "id": "572:36b",
         "page": 572,
         "line": 36,
         "text": "and Riplakish was the son of ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/572"
       },
       {
-        "id": "572:37",
+        "id": "572:37a",
         "page": 572,
         "line": 37,
         "text": "Shez;",
@@ -544,7 +558,7 @@
     "verse": 25,
     "lines": [
       {
-        "id": "572:37",
+        "id": "572:37b",
         "page": 572,
         "line": 37,
         "text": "and Shez was the son of Heth;",
@@ -558,10 +572,17 @@
     "verse": 26,
     "lines": [
       {
-        "id": "572:37",
+        "id": "572:37c",
         "page": 572,
         "line": 37,
-        "text": "and Heth was",
+        "text": "and Heth was ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/572"
+      },
+      {
+        "id": "572:38a",
+        "page": 572,
+        "line": 38,
+        "text": "the son of Com;",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/572"
       }
     ]
@@ -572,10 +593,10 @@
     "verse": 27,
     "lines": [
       {
-        "id": "572:38",
+        "id": "572:38b",
         "page": 572,
         "line": 38,
-        "text": "the son of Com; and Com was the son of Coriantum;",
+        "text": "and Com was the son of Coriantum;",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/572"
       }
     ]
@@ -586,7 +607,7 @@
     "verse": 28,
     "lines": [
       {
-        "id": "572:39",
+        "id": "572:39a",
         "page": 572,
         "line": 39,
         "text": "and Coriantum was the son of Emer;",
@@ -600,14 +621,14 @@
     "verse": 29,
     "lines": [
       {
-        "id": "572:39",
+        "id": "572:39b",
         "page": 572,
         "line": 39,
         "text": "and Emer was ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/572"
       },
       {
-        "id": "573:1",
+        "id": "573:1a",
         "page": 573,
         "line": 1,
         "text": "the son of Omer;",
@@ -621,7 +642,7 @@
     "verse": 30,
     "lines": [
       {
-        "id": "573:1",
+        "id": "573:1b",
         "page": 573,
         "line": 1,
         "text": "and Omer was the son of Shule;",
@@ -635,14 +656,14 @@
     "verse": 31,
     "lines": [
       {
-        "id": "573:1",
+        "id": "573:1c",
         "page": 573,
         "line": 1,
         "text": "and ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/573"
       },
       {
-        "id": "573:2",
+        "id": "573:2a",
         "page": 573,
         "line": 2,
         "text": "Shule was the son of Kib;",
@@ -656,14 +677,14 @@
     "verse": 32,
     "lines": [
       {
-        "id": "573:2",
+        "id": "573:2b",
         "page": 573,
         "line": 2,
         "text": "and Kib was the son of ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/573"
       },
       {
-        "id": "573:3",
+        "id": "573:3a",
         "page": 573,
         "line": 3,
         "text": "Orihah, who was the son of Jared;",
@@ -677,7 +698,7 @@
     "verse": 33,
     "lines": [
       {
-        "id": "573:3",
+        "id": "573:3b",
         "page": 573,
         "line": 3,
         "text": "which Jared came ",
@@ -719,7 +740,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/573"
       },
       {
-        "id": "573:9",
+        "id": "573:9a",
         "page": 573,
         "line": 9,
         "text": "word of the Lord the people were scattered.",
@@ -733,7 +754,7 @@
     "verse": 34,
     "lines": [
       {
-        "id": "573:9",
+        "id": "573:9b",
         "page": 573,
         "line": 9,
         "text": "And the ",
@@ -764,9 +785,16 @@
         "id": "573:13",
         "page": 573,
         "line": 13,
-        "text": "not confound us that we may not understand our words. ",
+        "text": "not confound us that we may not understand our words.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/573"
-      },
+      }
+    ]
+  },
+  {
+    "book": "ether",
+    "chapter": 1,
+    "verse": 35,
+    "lines": [
       {
         "id": "573:14",
         "page": 573,
@@ -780,14 +808,7 @@
         "line": 15,
         "text": "unto the Lord, and the Lord had compassion upon Ja",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/573"
-      }
-    ]
-  },
-  {
-    "book": "ether",
-    "chapter": 1,
-    "verse": 35,
-    "lines": [
+      },
       {
         "id": "573:16",
         "page": 573,
@@ -831,7 +852,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/573"
       },
       {
-        "id": "573:21",
+        "id": "573:21a",
         "page": 573,
         "line": 21,
         "text": "their language.",
@@ -845,7 +866,7 @@
     "verse": 37,
     "lines": [
       {
-        "id": "573:21",
+        "id": "573:21b",
         "page": 573,
         "line": 21,
         "text": "And it came to pass that the brother ",
@@ -866,7 +887,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/573"
       },
       {
-        "id": "573:24",
+        "id": "573:24a",
         "page": 573,
         "line": 24,
         "text": "they were not confounded.",
@@ -880,7 +901,7 @@
     "verse": 38,
     "lines": [
       {
-        "id": "573:24",
+        "id": "573:24b",
         "page": 573,
         "line": 24,
         "text": "And it came to pass that ",
@@ -964,7 +985,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/573"
       },
       {
-        "id": "573:35",
+        "id": "573:35a",
         "page": 573,
         "line": 35,
         "text": "spoken by the mouth of Jared.",
@@ -978,7 +999,7 @@
     "verse": 40,
     "lines": [
       {
-        "id": "573:35",
+        "id": "573:35b",
         "page": 573,
         "line": 35,
         "text": "And it came to pass ",
@@ -992,7 +1013,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/573"
       },
       {
-        "id": "573:37",
+        "id": "573:37a",
         "page": 573,
         "line": 37,
         "text": "compassion upon him, and said unto him,",
@@ -1006,7 +1027,7 @@
     "verse": 41,
     "lines": [
       {
-        "id": "573:37",
+        "id": "573:37b",
         "page": 573,
         "line": 37,
         "text": "go to and ",
@@ -1041,7 +1062,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/573"
       },
       {
-        "id": "573:42",
+        "id": "573:42a",
         "page": 573,
         "line": 42,
         "text": "the friends of Jared and their families.",
@@ -1055,7 +1076,7 @@
     "verse": 42,
     "lines": [
       {
-        "id": "573:42",
+        "id": "573:42b",
         "page": 573,
         "line": 42,
         "text": "And when ",
@@ -1083,7 +1104,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/573"
       },
       {
-        "id": "573:46",
+        "id": "573:46a",
         "page": 573,
         "line": 46,
         "text": "which is choice above all the land of the earth.",
@@ -1097,7 +1118,7 @@
     "verse": 43,
     "lines": [
       {
-        "id": "573:46",
+        "id": "573:46b",
         "page": 573,
         "line": 46,
         "text": "And ",

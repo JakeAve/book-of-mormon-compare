@@ -33,7 +33,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/48"
       },
       {
-        "id": "48:13",
+        "id": "48:13a",
         "page": 48,
         "line": 13,
         "text": "wilderness.",
@@ -47,7 +47,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "48:13",
+        "id": "48:13b",
         "page": 48,
         "line": 13,
         "text": "And so great were the blessings of the Lord upon ",
@@ -75,7 +75,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/48"
       },
       {
-        "id": "48:17",
+        "id": "48:17a",
         "page": 48,
         "line": 17,
         "text": "their journeyings without murmurings.",
@@ -89,7 +89,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "48:17",
+        "id": "48:17b",
         "page": 48,
         "line": 17,
         "text": "And thus we see that ",
@@ -131,7 +131,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/48"
       },
       {
-        "id": "48:23",
+        "id": "48:23a",
         "page": 48,
         "line": 23,
         "text": "we did sojourn in the wilderness.",
@@ -145,7 +145,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "48:23",
+        "id": "48:23b",
         "page": 48,
         "line": 23,
         "text": "And we did sojourn for the ",
@@ -341,7 +341,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/49"
       },
       {
-        "id": "49:3",
+        "id": "49:3a",
         "page": 49,
         "line": 3,
         "text": "manner which thou hast shewn unto me?",
@@ -355,7 +355,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "49:3",
+        "id": "49:3b",
         "page": 49,
         "line": 3,
         "text": "And it came to pass ",
@@ -372,14 +372,7 @@
         "id": "49:5",
         "page": 49,
         "line": 5,
-        "text": "might make tools. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/49"
-      },
-      {
-        "id": "49:6",
-        "page": 49,
-        "line": 6,
-        "text": "And it came to pass that I, Nephi, did make bellowses where",
+        "text": "might make tools.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/49"
       }
     ]
@@ -389,6 +382,13 @@
     "chapter": 17,
     "verse": 11,
     "lines": [
+      {
+        "id": "49:6",
+        "page": 49,
+        "line": 6,
+        "text": "And it came to pass that I, Nephi, did make bellowses where",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/49"
+      },
       {
         "id": "49:7",
         "page": 49,
@@ -404,7 +404,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/49"
       },
       {
-        "id": "49:9",
+        "id": "49:9a",
         "page": 49,
         "line": 9,
         "text": "fire, I did smite two stones together, that I might make fire,",
@@ -418,7 +418,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "49:9",
+        "id": "49:9b",
         "page": 49,
         "line": 9,
         "text": "for ",
@@ -481,7 +481,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/49"
       },
       {
-        "id": "49:17",
+        "id": "49:17a",
         "page": 49,
         "line": 17,
         "text": "know that it is by me that ye are led.",
@@ -495,7 +495,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "49:17",
+        "id": "49:17b",
         "page": 49,
         "line": 17,
         "text": "Yea, and the Lord said ",
@@ -523,7 +523,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/49"
       },
       {
-        "id": "49:21",
+        "id": "49:21a",
         "page": 49,
         "line": 21,
         "text": "land of Jerusalem;",
@@ -537,7 +537,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "49:21",
+        "id": "49:21b",
         "page": 49,
         "line": 21,
         "text": "wherefore, I, Nephi, did strive to keep ",
@@ -572,7 +572,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/49"
       },
       {
-        "id": "49:25",
+        "id": "49:25a",
         "page": 49,
         "line": 25,
         "text": "did molten out of the rock.",
@@ -586,7 +586,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "49:25",
+        "id": "49:25b",
         "page": 49,
         "line": 25,
         "text": "And when my brethren saw that ",
@@ -614,7 +614,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/49"
       },
       {
-        "id": "49:29",
+        "id": "49:29a",
         "page": 49,
         "line": 29,
         "text": "waters.",
@@ -628,7 +628,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "49:29",
+        "id": "49:29b",
         "page": 49,
         "line": 29,
         "text": "And thus my brethren did complain against me, and ",
@@ -652,14 +652,7 @@
         "id": "49:32",
         "page": 49,
         "line": 32,
-        "text": "was instructed of the Lord. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/49"
-      },
-      {
-        "id": "49:33",
-        "page": 49,
-        "line": 33,
-        "text": "And now it came to pass that I, Nephi, was exceeding sor",
+        "text": "was instructed of the Lord.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/49"
       }
     ]
@@ -669,6 +662,13 @@
     "chapter": 17,
     "verse": 19,
     "lines": [
+      {
+        "id": "49:33",
+        "page": 49,
+        "line": 33,
+        "text": "And now it came to pass that I, Nephi, was exceeding sor",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/49"
+      },
       {
         "id": "49:34",
         "page": 49,
@@ -705,7 +705,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/49"
       },
       {
-        "id": "49:39",
+        "id": "49:39a",
         "page": 49,
         "line": 39,
         "text": "plish so great a work;",
@@ -719,7 +719,7 @@
     "verse": 20,
     "lines": [
       {
-        "id": "49:39",
+        "id": "49:39b",
         "page": 49,
         "line": 39,
         "text": "and thou art like unto our father, led ",
@@ -768,10 +768,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/50"
       },
       {
-        "id": "50:3",
+        "id": "50:3a",
         "page": 50,
         "line": 3,
-        "text": "out of Jerusalem, than to have suffered these afflictions. Be",
+        "text": "out of Jerusalem, than to have suffered these afflictions.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/50"
       }
     ]
@@ -781,6 +781,13 @@
     "chapter": 17,
     "verse": 21,
     "lines": [
+      {
+        "id": "50:3b",
+        "page": 50,
+        "line": 3,
+        "text": "Be",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/50"
+      },
       {
         "id": "50:4",
         "page": 50,
@@ -922,7 +929,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/50"
       },
       {
-        "id": "50:21",
+        "id": "50:21a",
         "page": 50,
         "line": 21,
         "text": "lead them out of bondage?",
@@ -936,7 +943,7 @@
     "verse": 25,
     "lines": [
       {
-        "id": "50:21",
+        "id": "50:21b",
         "page": 50,
         "line": 21,
         "text": "Now ye know that the children of ",
@@ -964,7 +971,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/50"
       },
       {
-        "id": "50:25",
+        "id": "50:25a",
         "page": 50,
         "line": 25,
         "text": "should be brought out of bondage.",
@@ -978,7 +985,7 @@
     "verse": 26,
     "lines": [
       {
-        "id": "50:25",
+        "id": "50:25b",
         "page": 50,
         "line": 25,
         "text": "Now ye know that Moses ",
@@ -1020,7 +1027,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/50"
       },
       {
-        "id": "50:30",
+        "id": "50:30a",
         "page": 50,
         "line": 30,
         "text": "which were the armies of Pharaoh;",
@@ -1034,14 +1041,14 @@
     "verse": 28,
     "lines": [
       {
-        "id": "50:30",
+        "id": "50:30b",
         "page": 50,
         "line": 30,
         "text": "and ye also know that they ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/50"
       },
       {
-        "id": "50:31",
+        "id": "50:31a",
         "page": 50,
         "line": 31,
         "text": "were fed with manna, in the wilderness;",
@@ -1055,7 +1062,7 @@
     "verse": 29,
     "lines": [
       {
-        "id": "50:31",
+        "id": "50:31b",
         "page": 50,
         "line": 31,
         "text": "yea, and ye also ",
@@ -1076,7 +1083,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/50"
       },
       {
-        "id": "50:34",
+        "id": "50:34a",
         "page": 50,
         "line": 34,
         "text": "ter, that the children of Israel might quench their thirst;",
@@ -1090,7 +1097,7 @@
     "verse": 30,
     "lines": [
       {
-        "id": "50:34",
+        "id": "50:34b",
         "page": 50,
         "line": 34,
         "text": "and ",
@@ -1167,7 +1174,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/50"
       },
       {
-        "id": "51:1",
+        "id": "51:1a",
         "page": 51,
         "line": 1,
         "text": "there was not any thing done, save it were by his word.",
@@ -1181,7 +1188,7 @@
     "verse": 32,
     "lines": [
       {
-        "id": "51:1",
+        "id": "51:1b",
         "page": 51,
         "line": 1,
         "text": "And ",
@@ -1202,7 +1209,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/51"
       },
       {
-        "id": "51:4",
+        "id": "51:4a",
         "page": 51,
         "line": 4,
         "text": "to the scattering them to destruction.",
@@ -1216,7 +1223,7 @@
     "verse": 33,
     "lines": [
       {
-        "id": "51:4",
+        "id": "51:4b",
         "page": 51,
         "line": 4,
         "text": "And now do ye sup",
@@ -1237,7 +1244,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/51"
       },
       {
-        "id": "51:7",
+        "id": "51:7a",
         "page": 51,
         "line": 7,
         "text": "that they were righteous? Behold, I say unto you, nay.",
@@ -1251,7 +1258,7 @@
     "verse": 34,
     "lines": [
       {
-        "id": "51:7",
+        "id": "51:7b",
         "page": 51,
         "line": 7,
         "text": "Do ",
@@ -1265,7 +1272,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/51"
       },
       {
-        "id": "51:9",
+        "id": "51:9a",
         "page": 51,
         "line": 9,
         "text": "they, if they had been righteous? I say unto you, nay,",
@@ -1279,7 +1286,7 @@
     "verse": 35,
     "lines": [
       {
-        "id": "51:9",
+        "id": "51:9b",
         "page": 51,
         "line": 9,
         "text": "behold, ",
@@ -1356,7 +1363,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/51"
       },
       {
-        "id": "51:19",
+        "id": "51:19a",
         "page": 51,
         "line": 19,
         "text": "possess it.",
@@ -1370,14 +1377,14 @@
     "verse": 37,
     "lines": [
       {
-        "id": "51:19",
+        "id": "51:19b",
         "page": 51,
         "line": 19,
         "text": "And he raiseth up a righteous nation, and destroy",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/51"
       },
       {
-        "id": "51:20",
+        "id": "51:20a",
         "page": 51,
         "line": 20,
         "text": "eth the nations of the wicked.",
@@ -1391,7 +1398,7 @@
     "verse": 38,
     "lines": [
       {
-        "id": "51:20",
+        "id": "51:20b",
         "page": 51,
         "line": 20,
         "text": "And he leadeth away the ",
@@ -1405,7 +1412,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/51"
       },
       {
-        "id": "51:22",
+        "id": "51:22a",
         "page": 51,
         "line": 22,
         "text": "and curseth the land unto them for their sakes.",
@@ -1419,7 +1426,7 @@
     "verse": 39,
     "lines": [
       {
-        "id": "51:22",
+        "id": "51:22b",
         "page": 51,
         "line": 22,
         "text": "He ruleth ",
@@ -1433,7 +1440,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/51"
       },
       {
-        "id": "51:24",
+        "id": "51:24a",
         "page": 51,
         "line": 24,
         "text": "footstool.",
@@ -1447,7 +1454,7 @@
     "verse": 40,
     "lines": [
       {
-        "id": "51:24",
+        "id": "51:24b",
         "page": 51,
         "line": 24,
         "text": "And he loveth them which will have him to be ",
@@ -1475,7 +1482,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/51"
       },
       {
-        "id": "51:28",
+        "id": "51:28a",
         "page": 51,
         "line": 28,
         "text": "did bring them out of the land of Egypt,",
@@ -1489,7 +1496,7 @@
     "verse": 41,
     "lines": [
       {
-        "id": "51:28",
+        "id": "51:28b",
         "page": 51,
         "line": 28,
         "text": "and he did straighten ",
@@ -1538,7 +1545,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/51"
       },
       {
-        "id": "51:35",
+        "id": "51:35a",
         "page": 51,
         "line": 35,
         "text": "of it, there were many which perished.",
@@ -1552,7 +1559,7 @@
     "verse": 42,
     "lines": [
       {
-        "id": "51:35",
+        "id": "51:35b",
         "page": 51,
         "line": 35,
         "text": "And they did harden ",
@@ -1657,7 +1664,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/52"
       },
       {
-        "id": "52:5",
+        "id": "52:5a",
         "page": 52,
         "line": 5,
         "text": "like unto they:",
@@ -1671,7 +1678,7 @@
     "verse": 45,
     "lines": [
       {
-        "id": "52:5",
+        "id": "52:5b",
         "page": 52,
         "line": 5,
         "text": "Ye are swift to do iniquity, but slow to re",
@@ -1720,7 +1727,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/52"
       },
       {
-        "id": "52:12",
+        "id": "52:12a",
         "page": 52,
         "line": 12,
         "text": "der.",
@@ -1734,7 +1741,7 @@
     "verse": 46,
     "lines": [
       {
-        "id": "52:12",
+        "id": "52:12b",
         "page": 52,
         "line": 12,
         "text": "And ye also know, that by the power of his Almighty ",
@@ -1762,10 +1769,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/52"
       },
       {
-        "id": "52:16",
+        "id": "52:16a",
         "page": 52,
         "line": 16,
-        "text": "then, why is it, that ye can be so hard in your hearts? Be",
+        "text": "then, why is it, that ye can be so hard in your hearts?",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/52"
       }
     ]
@@ -1775,6 +1782,13 @@
     "chapter": 17,
     "verse": 47,
     "lines": [
+      {
+        "id": "52:16b",
+        "page": 52,
+        "line": 16,
+        "text": "Be",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/52"
+      },
       {
         "id": "52:17",
         "page": 52,
@@ -1902,7 +1916,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/52"
       },
       {
-        "id": "52:33",
+        "id": "52:33a",
         "page": 52,
         "line": 33,
         "text": "manded me that I should build a ship.",
@@ -1916,7 +1930,7 @@
     "verse": 50,
     "lines": [
       {
-        "id": "52:33",
+        "id": "52:33b",
         "page": 52,
         "line": 33,
         "text": "And I saith unto ",
@@ -1944,7 +1958,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/52"
       },
       {
-        "id": "52:37",
+        "id": "52:37a",
         "page": 52,
         "line": 37,
         "text": "it would be done.",
@@ -1958,7 +1972,7 @@
     "verse": 51,
     "lines": [
       {
-        "id": "52:37",
+        "id": "52:37b",
         "page": 52,
         "line": 37,
         "text": "And now, if the Lord hath such great ",

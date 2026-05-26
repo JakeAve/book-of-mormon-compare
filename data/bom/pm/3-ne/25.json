@@ -5,7 +5,7 @@
     "verse": 1,
     "lines": [
       {
-        "id": "407:14",
+        "id": "407:14b",
         "page": 407,
         "line": 14,
         "text": "for behold the day ",
@@ -26,7 +26,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/407"
       },
       {
-        "id": "407:17",
+        "id": "407:17a",
         "page": 407,
         "line": 17,
         "text": "of Hosts, that it shall leave them neither root nor branch",
@@ -41,7 +41,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "407:17",
+        "id": "407:17b",
         "page": 407,
         "line": 17,
         "text": "but unto you ",
@@ -58,8 +58,15 @@
         "id": "407:19",
         "page": 407,
         "line": 19,
-        "text": "in his wings & ye shall go forth & grow up as Calves of the stall",
-        "markdown": "in his wings & ye shall go forth & grow up as ~~Cedars~~ Calves of the stall",
+        "text": "in his wings & ye shall go forth & grow up as Calves of the stall ",
+        "markdown": "in his wings & ye shall go forth & grow up as ~~Cedars~~ Calves of the stall ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/407"
+      },
+      {
+        "id": "407:20a",
+        "page": 407,
+        "line": 20,
+        "text": "& ye shall tread",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/407"
       }
     ]
@@ -70,15 +77,15 @@
     "verse": 3,
     "lines": [
       {
-        "id": "407:20",
+        "id": "407:20b",
         "page": 407,
         "line": 20,
-        "text": "& ye shall tread down the wicked for they shall be ashes under the soles ",
-        "markdown": "& ye shall tread down the wicked for they shall be ~~as~~ ashes under the soles ",
+        "text": "down the wicked for they shall be ashes under the soles ",
+        "markdown": "down the wicked for they shall be ~~as~~ ashes under the soles ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/407"
       },
       {
-        "id": "407:21",
+        "id": "407:21a",
         "page": 407,
         "line": 21,
         "text": "of your feet in the day that I shall do this saith the Lord of Hosts",
@@ -92,7 +99,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "407:21",
+        "id": "407:21b",
         "page": 407,
         "line": 21,
         "text": "remember ",
@@ -106,7 +113,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/407"
       },
       {
-        "id": "407:23",
+        "id": "407:23a",
         "page": 407,
         "line": 23,
         "text": "for all Israel with the statutes & Judgments",
@@ -120,14 +127,14 @@
     "verse": 5,
     "lines": [
       {
-        "id": "407:23",
+        "id": "407:23b",
         "page": 407,
         "line": 23,
         "text": "behold I will send you Elijah the Proph",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/407"
       },
       {
-        "id": "407:24",
+        "id": "407:24a",
         "page": 407,
         "line": 24,
         "text": "et before the comeing of the great & dreadful day of the Lord",
@@ -141,7 +148,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "407:24",
+        "id": "407:24b",
         "page": 407,
         "line": 24,
         "text": "& he shall turn ",
@@ -155,7 +162,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/407"
       },
       {
-        "id": "407:26",
+        "id": "407:26a",
         "page": 407,
         "line": 26,
         "text": "hers least I come & smite the Earth with a Curse.",

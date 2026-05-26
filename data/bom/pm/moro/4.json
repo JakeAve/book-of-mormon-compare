@@ -5,6 +5,13 @@
     "verse": 1,
     "lines": [
       {
+        "id": "458:26",
+        "page": 458,
+        "line": 26,
+        "text": "Chapter ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/458"
+      },
+      {
         "id": "458:27",
         "page": 458,
         "line": 27,
@@ -20,7 +27,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/458"
       },
       {
-        "id": "458:29",
+        "id": "458:29a",
         "page": 458,
         "line": 29,
         "text": "that the manner to be true & the elder or priest did minister it",
@@ -34,14 +41,14 @@
     "verse": 2,
     "lines": [
       {
-        "id": "458:29",
+        "id": "458:29b",
         "page": 458,
         "line": 29,
         "text": "& they did kneel down with ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/458"
       },
       {
-        "id": "458:30",
+        "id": "458:30a",
         "page": 458,
         "line": 30,
         "text": "the church & pray to the Father in the name of Christ saying",
@@ -55,7 +62,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "458:30",
+        "id": "458:30b",
         "page": 458,
         "line": 30,
         "text": "O God the Eternal Father we ask ",
@@ -93,14 +100,7 @@
         "id": "458:35",
         "page": 458,
         "line": 35,
-        "text": "that they may always have his spirit to be with them Amen. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/458"
-      },
-      {
-        "id": "458:36",
-        "page": 458,
-        "line": 36,
-        "text": "Chapter",
+        "text": "that they may always have his spirit to be with them Amen.",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/458"
       }
     ]

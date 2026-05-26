@@ -5,7 +5,7 @@
     "verse": 1,
     "lines": [
       {
-        "id": "511:1",
+        "id": "511:1b",
         "page": 511,
         "line": 1,
         "text": "For behold, the day cometh, that ",
@@ -61,7 +61,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/511"
       },
       {
-        "id": "511:8",
+        "id": "511:8a",
         "page": 511,
         "line": 8,
         "text": "and grow up as calves in the stall.",
@@ -75,7 +75,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "511:8",
+        "id": "511:8b",
         "page": 511,
         "line": 8,
         "text": "And ye shall tread down ",
@@ -110,17 +110,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/511"
       },
       {
-        "id": "511:12",
+        "id": "511:12a",
         "page": 511,
         "line": 12,
-        "text": "ed unto him in Horeb for all Israel, with the statutes and judge",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/511"
-      },
-      {
-        "id": "511:13",
-        "page": 511,
-        "line": 13,
-        "text": "ments.",
+        "text": "ed unto him in Horeb for all Israel, with the statutes and",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/511"
       }
     ]
@@ -131,14 +124,21 @@
     "verse": 5,
     "lines": [
       {
-        "id": "511:13",
+        "id": "511:12b",
         "page": 511,
-        "line": 13,
-        "text": "Behold, I will send you Elijah the prophet before the ",
+        "line": 12,
+        "text": "judge ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/511"
       },
       {
-        "id": "511:14",
+        "id": "511:13",
+        "page": 511,
+        "line": 13,
+        "text": "ments. Behold, I will send you Elijah the prophet before the ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/511"
+      },
+      {
+        "id": "511:14a",
         "page": 511,
         "line": 14,
         "text": "coming of the great and dreadful day of the Lord:",
@@ -152,7 +152,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "511:14",
+        "id": "511:14b",
         "page": 511,
         "line": 14,
         "text": "and he shall ",

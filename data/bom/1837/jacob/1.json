@@ -82,7 +82,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/135"
       },
       {
-        "id": "135:30",
+        "id": "135:30a",
         "page": 135,
         "line": 30,
         "text": "things are engraven.",
@@ -96,7 +96,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "135:30",
+        "id": "135:30b",
         "page": 135,
         "line": 30,
         "text": "And he gave me, Jacob, a com",
@@ -131,7 +131,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/135"
       },
       {
-        "id": "135:35",
+        "id": "135:35a",
         "page": 135,
         "line": 35,
         "text": "ple of Nephi.",
@@ -145,7 +145,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "135:35",
+        "id": "135:35b",
         "page": 135,
         "line": 35,
         "text": "For he said that the history of his peo",
@@ -166,7 +166,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/135"
       },
       {
-        "id": "136:1",
+        "id": "136:1a",
         "page": 136,
         "line": 1,
         "text": "unto my seed, from generation to generation.",
@@ -180,7 +180,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "136:1",
+        "id": "136:1b",
         "page": 136,
         "line": 1,
         "text": "And if ",
@@ -215,7 +215,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/136"
       },
       {
-        "id": "136:6",
+        "id": "136:6a",
         "page": 136,
         "line": 6,
         "text": "sake, and for the sake of our people:",
@@ -229,7 +229,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "136:6",
+        "id": "136:6b",
         "page": 136,
         "line": 6,
         "text": "for because of ",
@@ -250,7 +250,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/136"
       },
       {
-        "id": "136:9",
+        "id": "136:9a",
         "page": 136,
         "line": 9,
         "text": "happen unto them.",
@@ -264,7 +264,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "136:9",
+        "id": "136:9b",
         "page": 136,
         "line": 9,
         "text": "And we also had many revela",
@@ -334,7 +334,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/136"
       },
       {
-        "id": "136:18",
+        "id": "136:18a",
         "page": 136,
         "line": 18,
         "text": "Israel were in the wilderness.",
@@ -348,7 +348,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "136:18",
+        "id": "136:18b",
         "page": 136,
         "line": 18,
         "text": "Wherefore, we would ",
@@ -425,7 +425,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/136"
       },
       {
-        "id": "136:28",
+        "id": "136:28a",
         "page": 136,
         "line": 28,
         "text": "reigns of the kings.",
@@ -439,7 +439,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "136:28",
+        "id": "136:28b",
         "page": 136,
         "line": 28,
         "text": "The people having loved Nephi ",
@@ -523,7 +523,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "136:38",
+        "id": "136:38a",
         "page": 136,
         "line": 38,
         "text": "And it came to pass that Nephi died.",
@@ -537,7 +537,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "136:38",
+        "id": "136:38b",
         "page": 136,
         "line": 38,
         "text": "Now the peo",
@@ -558,17 +558,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/136"
       },
       {
-        "id": "136:41",
+        "id": "136:41a",
         "page": 136,
         "line": 41,
-        "text": "ites, Zoramites, Lamanites, Lemuelites, and Ishmael",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/136"
-      },
-      {
-        "id": "136:42",
-        "page": 136,
-        "line": 42,
-        "text": "ites.",
+        "text": "ites, Zoramites, Lamanites, Lemuelites, and",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/136"
       }
     ]
@@ -579,10 +572,17 @@
     "verse": 14,
     "lines": [
       {
+        "id": "136:41b",
+        "page": 136,
+        "line": 41,
+        "text": "Ishmael ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/136"
+      },
+      {
         "id": "136:42",
         "page": 136,
         "line": 42,
-        "text": "But I, Jacob, shall not hereafter distinguish ",
+        "text": "ites. But I, Jacob, shall not hereafter distinguish ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/136"
       },
       {
@@ -656,7 +656,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/137"
       },
       {
-        "id": "137:6",
+        "id": "137:6a",
         "page": 137,
         "line": 6,
         "text": "mon, his son;",
@@ -670,7 +670,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "137:6",
+        "id": "137:6b",
         "page": 137,
         "line": 6,
         "text": "yea, and they also began to search ",
@@ -684,7 +684,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/137"
       },
       {
-        "id": "137:8",
+        "id": "137:8a",
         "page": 137,
         "line": 8,
         "text": "what in pride;",
@@ -698,7 +698,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "137:8",
+        "id": "137:8b",
         "page": 137,
         "line": 8,
         "text": "wherefore, I, Jacob, gave unto them ",
@@ -712,7 +712,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/137"
       },
       {
-        "id": "137:10",
+        "id": "137:10a",
         "page": 137,
         "line": 10,
         "text": "firstly obtained mine errand from the Lord.",
@@ -726,7 +726,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "137:10",
+        "id": "137:10b",
         "page": 137,
         "line": 10,
         "text": "For I, ",
@@ -747,7 +747,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/137"
       },
       {
-        "id": "137:13",
+        "id": "137:13a",
         "page": 137,
         "line": 13,
         "text": "Nephi.",
@@ -761,7 +761,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "137:13",
+        "id": "137:13b",
         "page": 137,
         "line": 13,
         "text": "And we did magnify our office unto the Lord, ",
@@ -813,14 +813,7 @@
         "id": "137:20",
         "page": 137,
         "line": 20,
-        "text": "spotless at the last day. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/137"
-      },
-      {
-        "id": "137:21",
-        "page": 137,
-        "line": 21,
-        "text": "CHAPTER II.",
+        "text": "spotless at the last day.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/137"
       }
     ]

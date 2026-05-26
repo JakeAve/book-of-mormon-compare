@@ -2,39 +2,18 @@
   {
     "book": "alma",
     "chapter": 20,
-    "verse": 1,
-    "lines": [
-      {
-        "id": "88:11",
-        "page": 88,
-        "line": 11,
-        "text": "to",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/88"
-      }
-    ]
-  },
-  {
-    "book": "alma",
-    "chapter": 20,
-    "verse": 2,
-    "lines": [
-      {
-        "id": "88:11",
-        "page": 88,
-        "line": 11,
-        "text": "pour out his spirit",
-        "markdown": "pour out}} his sp{{i}}rit",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/88"
-      }
-    ]
-  },
-  {
-    "book": "alma",
-    "chapter": 20,
     "verse": 5,
     "lines": [
       {
-        "id": "89:1",
+        "id": "88:11b",
+        "page": 88,
+        "line": 11,
+        "text": "out his spirit ",
+        "markdown": "out}} his sp{{i}}rit ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/88"
+      },
+      {
+        "id": "89:1a",
         "page": 89,
         "line": 1,
         "text": "in the land of Middoni",
@@ -49,7 +28,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "89:1",
+        "id": "89:1b",
         "page": 89,
         "line": 1,
         "text": "now when Lamoni had heard this he causedthat his servants should make ready his horses & his",
@@ -64,7 +43,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "89:1",
+        "id": "89:1c",
         "page": 89,
         "line": 1,
         "text": "charriots & hesayeth unto Ammon come I will go with thee down to the land ofMiddoni & there I will plead with the king that he will cast thybrethren out of prison",
@@ -79,26 +58,11 @@
     "verse": 8,
     "lines": [
       {
-        "id": "89:1",
+        "id": "89:1d",
         "page": 89,
         "line": 1,
-        "text": "& it came to pass that as",
-        "markdown": "& {{i}}t ca{{me to pass that as",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/89"
-      }
-    ]
-  },
-  {
-    "book": "alma",
-    "chapter": 20,
-    "verse": 10,
-    "lines": [
-      {
-        "id": "89:1",
-        "page": 89,
-        "line": 1,
-        "text": "Ammon & Lamoni",
-        "markdown": "Ammon & Lamoni}}",
+        "text": "& it came to pass that as Ammon",
+        "markdown": "& {{i}}t ca{{me to pass that as Ammon",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/89"
       }
     ]
@@ -109,7 +73,15 @@
     "verse": 19,
     "lines": [
       {
-        "id": "90:1",
+        "id": "89:1e",
+        "page": 89,
+        "line": 1,
+        "text": "& Lamoni ",
+        "markdown": "& Lamoni}} ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/89"
+      },
+      {
+        "id": "90:1a",
         "page": 90,
         "line": 1,
         "text": "that I should shed inocent blood for it is thou that hast sought todestroy him",
@@ -124,7 +96,7 @@
     "verse": 20,
     "lines": [
       {
-        "id": "90:1",
+        "id": "90:1b",
         "page": 90,
         "line": 1,
         "text": "& he streached forth his hand to slay Ammon but Ammon withstood his blows & also smote his arm that he could not use it",
@@ -139,7 +111,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "90:1",
+        "id": "90:1c",
         "page": 90,
         "line": 1,
         "text": "now when theKing saw that Ammon could slay him he began to plead with Ammon that he wouldspare his life",
@@ -154,26 +126,11 @@
     "verse": 22,
     "lines": [
       {
-        "id": "90:1",
+        "id": "90:1d",
         "page": 90,
         "line": 1,
-        "text": "but Ammon raised his swoard & said unto him",
-        "markdown": "but Ammon raised his swoar}}d & s{{aid}} unto him",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/90"
-      }
-    ]
-  },
-  {
-    "book": "alma",
-    "chapter": 20,
-    "verse": 24,
-    "lines": [
-      {
-        "id": "90:1",
-        "page": 90,
-        "line": 1,
-        "text": "behold I will",
-        "markdown": "{{behold I will}}",
+        "text": "but Ammon raised his swoard & said unto him behold I",
+        "markdown": "but Ammon raised his swoar}}d & s{{aid}} unto him {{behold I",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/90"
       }
     ]

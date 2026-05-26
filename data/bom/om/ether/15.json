@@ -5,11 +5,19 @@
     "verse": 8,
     "lines": [
       {
-        "id": "231:1",
+        "id": "230:12d",
+        "page": 230,
+        "line": 12,
+        "text": "was the ",
+        "markdown": "was the}} ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/230"
+      },
+      {
+        "id": "231:1a",
         "page": 231,
         "line": 1,
-        "text": "these waters they pitched their tents & Shiz also pitched histents near unto them &therefore on the morrow they did come to battle &",
-        "markdown": "{{these waters they pitched their tents & Shiz also pitched his}}tents n{{ear unto them &therefore on the morrow they did come to battle &",
+        "text": "these waters they pitched their tents & Shiz also pitched histents near unto them &therefore on the morrow they did come to battle",
+        "markdown": "{{these waters they pitched their tents & Shiz also pitched his}}tents n{{ear unto them &therefore on the morrow they did come to battle",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/231"
       }
     ]
@@ -20,11 +28,11 @@
     "verse": 9,
     "lines": [
       {
-        "id": "231:1",
+        "id": "231:1b",
         "page": 231,
         "line": 1,
-        "text": "it came to pass that they foughtan exceding sore battle in the which Coriantumr was wounded again & he fainted withthe loss of blood &",
-        "markdown": "it came to}} pass that {{they foughtan exceding sore battle in the which Coriantumr was woun}}ded again & he {{fainted withthe loss of blood &",
+        "text": "& it came to pass that they foughtan exceding sore battle in the which Coriantumr was wounded again & he fainted withthe loss of blood",
+        "markdown": "& it came to}} pass that {{they foughtan exceding sore battle in the which Coriantumr was woun}}ded again & he {{fainted withthe loss of blood",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/231"
       }
     ]
@@ -35,22 +43,15 @@
     "verse": 10,
     "lines": [
       {
-        "id": "231:1",
+        "id": "231:1c",
         "page": 231,
         "line": 1,
-        "text": "it came to pass that the armies of Coriantumr did press upon the",
-        "markdown": "it came to pass that the armies of Corian}}tum{{r did press upon the}}",
+        "text": "& it came to pass that the armies of Coriantumr did press upon the ",
+        "markdown": "& it came to pass that the armies of Corian}}tum{{r did press upon the}} ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/231"
-      }
-    ]
-  },
-  {
-    "book": "ether",
-    "chapter": 15,
-    "verse": 11,
-    "lines": [
+      },
       {
-        "id": "231:2",
+        "id": "231:2a",
         "page": 231,
         "line": 2,
         "text": "which",
@@ -65,7 +66,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "231:2",
+        "id": "231:2b",
         "page": 231,
         "line": 2,
         "text": "had not been slain save it were Ether",
@@ -79,7 +80,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "231:2",
+        "id": "231:2c",
         "page": 231,
         "line": 2,
         "text": "& it came to pass that Ether did behold all ",
@@ -103,7 +104,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/231"
       },
       {
-        "id": "231:5",
+        "id": "231:5a",
         "page": 231,
         "line": 5,
         "text": "ed together to the army of Shiz",
@@ -118,7 +119,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "231:5",
+        "id": "231:5b",
         "page": 231,
         "line": 5,
         "text": "wherefore they were for the space of four years gathering together the People that they might get all which were upon the face of the land & that they ",
@@ -126,7 +127,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/231"
       },
       {
-        "id": "231:6",
+        "id": "231:6a",
         "page": 231,
         "line": 6,
         "text": "might receive all the strength which it were possible that they could receive",
@@ -141,7 +142,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "231:6",
+        "id": "231:6b",
         "page": 231,
         "line": 6,
         "text": "& it came ",
@@ -172,7 +173,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/231"
       },
       {
-        "id": "231:10",
+        "id": "231:10a",
         "page": 231,
         "line": 10,
         "text": "ner of war & they did march forth one against another to battle & they fought all thatday & conquored not",
@@ -187,7 +188,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "231:10",
+        "id": "231:10b",
         "page": 231,
         "line": 10,
         "text": "& it came to pass that when it was night they were weary & re",
@@ -195,7 +196,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/231"
       },
       {
-        "id": "231:11",
+        "id": "231:11a",
         "page": 231,
         "line": 11,
         "text": "tired to their camps & after <​that​> they had retired to their camps they took up a howling & alamentation for the loss of the slain of their People & so great were their cries theirhowlings & lamentations that it did rend the air",
@@ -210,7 +211,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "231:11",
+        "id": "231:11b",
         "page": 231,
         "line": 11,
         "text": "excedingly & it came to pass thaton the morrow they did go again to battle & great & terrible was that day",

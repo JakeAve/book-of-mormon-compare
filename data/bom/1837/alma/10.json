@@ -5,6 +5,13 @@
     "verse": 1,
     "lines": [
       {
+        "id": "268:1",
+        "page": 268,
+        "line": 1,
+        "text": "CHAPTER VIII. ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/268"
+      },
+      {
         "id": "268:2",
         "page": 268,
         "line": 2,
@@ -19,7 +26,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/268"
       },
       {
-        "id": "268:4",
+        "id": "268:4a",
         "page": 268,
         "line": 4,
         "text": "saying:",
@@ -33,7 +40,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "268:4",
+        "id": "268:4b",
         "page": 268,
         "line": 4,
         "text": "I am Amulek; I am the son of Giddonah, ",
@@ -103,7 +110,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/268"
       },
       {
-        "id": "268:13",
+        "id": "268:13a",
         "page": 268,
         "line": 13,
         "text": "his brethren.",
@@ -117,7 +124,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "268:13",
+        "id": "268:13b",
         "page": 268,
         "line": 13,
         "text": "And behold, I am also a man of no ",
@@ -145,7 +152,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/268"
       },
       {
-        "id": "268:17",
+        "id": "268:17a",
         "page": 268,
         "line": 17,
         "text": "dustry;",
@@ -159,7 +166,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "268:17",
+        "id": "268:17b",
         "page": 268,
         "line": 17,
         "text": "nevertheless, after all this, I never have known ",
@@ -250,7 +257,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/268"
       },
       {
-        "id": "268:29",
+        "id": "268:29a",
         "page": 268,
         "line": 29,
         "text": "the judges.",
@@ -264,7 +271,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "268:29",
+        "id": "268:29b",
         "page": 268,
         "line": 29,
         "text": "As I was journeying to see a very near ",
@@ -376,7 +383,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/268"
       },
       {
-        "id": "268:44",
+        "id": "268:44a",
         "page": 268,
         "line": 44,
         "text": "concerning the things of God.",
@@ -390,7 +397,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "268:44",
+        "id": "268:44b",
         "page": 268,
         "line": 44,
         "text": "And the angel said ",
@@ -446,7 +453,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/269"
       },
       {
-        "id": "269:5",
+        "id": "269:5a",
         "page": 269,
         "line": 5,
         "text": "while this Alma hath dwelt at my house;",
@@ -460,7 +467,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "269:5",
+        "id": "269:5b",
         "page": 269,
         "line": 5,
         "text": "for behold, ",
@@ -544,7 +551,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/269"
       },
       {
-        "id": "269:16",
+        "id": "269:16a",
         "page": 269,
         "line": 16,
         "text": "ecy which was in them;",
@@ -558,7 +565,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "269:16",
+        "id": "269:16b",
         "page": 269,
         "line": 16,
         "text": "nevertheless, there were some ",
@@ -614,7 +621,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/269"
       },
       {
-        "id": "269:24",
+        "id": "269:24a",
         "page": 269,
         "line": 24,
         "text": "them.",
@@ -628,7 +635,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "269:24",
+        "id": "269:24b",
         "page": 269,
         "line": 24,
         "text": "Now it was those men who sought to destroy ",
@@ -656,7 +663,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/269"
       },
       {
-        "id": "269:28",
+        "id": "269:28a",
         "page": 269,
         "line": 28,
         "text": "fore the judges.",
@@ -670,7 +677,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "269:28",
+        "id": "269:28b",
         "page": 269,
         "line": 28,
         "text": "Now these lawyers were learned in ",
@@ -691,10 +698,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/269"
       },
       {
-        "id": "269:31",
+        "id": "269:31a",
         "page": 269,
         "line": 31,
-        "text": "fession. And it came to pass that they began to ques",
+        "text": "fession.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/269"
       }
     ]
@@ -704,6 +711,13 @@
     "chapter": 10,
     "verse": 16,
     "lines": [
+      {
+        "id": "269:31b",
+        "page": 269,
+        "line": 31,
+        "text": "And it came to pass that they began to ques",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/269"
+      },
       {
         "id": "269:32",
         "page": 269,
@@ -719,7 +733,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/269"
       },
       {
-        "id": "269:34",
+        "id": "269:34a",
         "page": 269,
         "line": 34,
         "text": "speak.",
@@ -733,7 +747,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "269:34",
+        "id": "269:34b",
         "page": 269,
         "line": 34,
         "text": "Now they knew not that Amulek could know ",
@@ -775,7 +789,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/269"
       },
       {
-        "id": "269:40",
+        "id": "269:40a",
         "page": 269,
         "line": 40,
         "text": "to catch the holy ones of God;",
@@ -789,7 +803,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "269:40",
+        "id": "269:40b",
         "page": 269,
         "line": 40,
         "text": "ye are laying plans to ",
@@ -810,7 +824,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/269"
       },
       {
-        "id": "269:43",
+        "id": "269:43a",
         "page": 269,
         "line": 43,
         "text": "destruction of this people;",
@@ -824,7 +838,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "269:43",
+        "id": "269:43b",
         "page": 269,
         "line": 43,
         "text": "yea, well did Mosiah say, ",
@@ -880,7 +894,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/270"
       },
       {
-        "id": "270:5",
+        "id": "270:5a",
         "page": 270,
         "line": 5,
         "text": "ripe for destruction.",
@@ -894,7 +908,7 @@
     "verse": 20,
     "lines": [
       {
-        "id": "270:5",
+        "id": "270:5b",
         "page": 270,
         "line": 5,
         "text": "And now I say unto you, that ",
@@ -943,7 +957,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/270"
       },
       {
-        "id": "270:11",
+        "id": "270:11a",
         "page": 270,
         "line": 11,
         "text": "justice in my hands.",
@@ -957,7 +971,7 @@
     "verse": 22,
     "lines": [
       {
-        "id": "270:11",
+        "id": "270:11b",
         "page": 270,
         "line": 11,
         "text": "Yea, and I say unto you, that ",
@@ -992,7 +1006,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/270"
       },
       {
-        "id": "270:16",
+        "id": "270:16a",
         "page": 270,
         "line": 16,
         "text": "be by famine, and by pestilence, and the sword.",
@@ -1006,7 +1020,7 @@
     "verse": 23,
     "lines": [
       {
-        "id": "270:16",
+        "id": "270:16b",
         "page": 270,
         "line": 16,
         "text": "But ",
@@ -1090,7 +1104,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/270"
       },
       {
-        "id": "270:27",
+        "id": "270:27a",
         "page": 270,
         "line": 27,
         "text": "our wise lawyers whom we have selected.",
@@ -1104,7 +1118,7 @@
     "verse": 25,
     "lines": [
       {
-        "id": "270:27",
+        "id": "270:27b",
         "page": 270,
         "line": 27,
         "text": "But Amu",
@@ -1153,7 +1167,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/270"
       },
       {
-        "id": "270:34",
+        "id": "270:34a",
         "page": 270,
         "line": 34,
         "text": "according to their truth?",
@@ -1167,7 +1181,7 @@
     "verse": 26,
     "lines": [
       {
-        "id": "270:34",
+        "id": "270:34b",
         "page": 270,
         "line": 34,
         "text": "For behold, have I testified ",
@@ -1195,10 +1209,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/270"
       },
       {
-        "id": "270:38",
+        "id": "270:38a",
         "page": 270,
         "line": 38,
-        "text": "tion. And now behold, I say unto you, that the foun",
+        "text": "tion.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/270"
       }
     ]
@@ -1208,6 +1222,13 @@
     "chapter": 10,
     "verse": 27,
     "lines": [
+      {
+        "id": "270:38b",
+        "page": 270,
+        "line": 38,
+        "text": "And now behold, I say unto you, that the foun",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/270"
+      },
       {
         "id": "270:39",
         "page": 270,
@@ -1272,7 +1293,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/270"
       },
       {
-        "id": "270:47",
+        "id": "270:47a",
         "page": 270,
         "line": 47,
         "text": "spoken against it.",
@@ -1286,17 +1307,17 @@
     "verse": 29,
     "lines": [
       {
-        "id": "270:47",
+        "id": "270:47b",
         "page": 270,
         "line": 47,
         "text": "And again: he has reviled against ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/270"
       },
       {
-        "id": "271:1",
+        "id": "271:1a",
         "page": 271,
         "line": 1,
-        "text": "our lawyers, and our judges, &c.",
+        "text": "our lawyers, and our judges,",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/271"
       }
     ]
@@ -1307,10 +1328,10 @@
     "verse": 30,
     "lines": [
       {
-        "id": "271:1",
+        "id": "271:1b",
         "page": 271,
         "line": 1,
-        "text": "And it came to pass ",
+        "text": "&c. And it came to pass ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/271"
       },
       {
@@ -1321,7 +1342,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/271"
       },
       {
-        "id": "271:3",
+        "id": "271:3a",
         "page": 271,
         "line": 3,
         "text": "should remember these things against him.",
@@ -1335,7 +1356,7 @@
     "verse": 31,
     "lines": [
       {
-        "id": "271:3",
+        "id": "271:3b",
         "page": 271,
         "line": 3,
         "text": "And there ",
@@ -1363,7 +1384,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/271"
       },
       {
-        "id": "271:7",
+        "id": "271:7a",
         "page": 271,
         "line": 7,
         "text": "much business to do among the people.",
@@ -1377,7 +1398,7 @@
     "verse": 32,
     "lines": [
       {
-        "id": "271:7",
+        "id": "271:7b",
         "page": 271,
         "line": 7,
         "text": "Now the ob",

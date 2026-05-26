@@ -26,7 +26,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/197"
       },
       {
-        "id": "197:22",
+        "id": "197:22a",
         "page": 197,
         "line": 22,
         "text": "the words of Abinadi;",
@@ -40,7 +40,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "197:22",
+        "id": "197:22b",
         "page": 197,
         "line": 22,
         "text": "yea, concerning that which was to ",
@@ -68,7 +68,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/197"
       },
       {
-        "id": "197:26",
+        "id": "197:26a",
         "page": 197,
         "line": 26,
         "text": "and his resurrection and ascension into Heaven.",
@@ -82,7 +82,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "197:26",
+        "id": "197:26b",
         "page": 197,
         "line": 26,
         "text": "And as ma",
@@ -103,7 +103,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/197"
       },
       {
-        "id": "197:29",
+        "id": "197:29a",
         "page": 197,
         "line": 29,
         "text": "And many did believe his words.",
@@ -117,7 +117,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "197:29",
+        "id": "197:29b",
         "page": 197,
         "line": 29,
         "text": "And it came to pass that ",
@@ -145,7 +145,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/197"
       },
       {
-        "id": "197:33",
+        "id": "197:33a",
         "page": 197,
         "line": 33,
         "text": "at seasons, by wild beasts.",
@@ -159,7 +159,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "197:33",
+        "id": "197:33b",
         "page": 197,
         "line": 33,
         "text": "Now there was in Mormon a ",
@@ -180,10 +180,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/197"
       },
       {
-        "id": "197:36",
+        "id": "197:36a",
         "page": 197,
         "line": 36,
-        "text": "himself in the day-time, from the searches of the king. And",
+        "text": "himself in the day-time, from the searches of the king.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/197"
       }
     ]
@@ -194,6 +194,13 @@
     "verse": 6,
     "lines": [
       {
+        "id": "197:36b",
+        "page": 197,
+        "line": 36,
+        "text": "And ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/197"
+      },
+      {
         "id": "197:37",
         "page": 197,
         "line": 37,
@@ -201,7 +208,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/197"
       },
       {
-        "id": "197:38",
+        "id": "197:38a",
         "page": 197,
         "line": 38,
         "text": "hear his words.",
@@ -215,7 +222,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "197:38",
+        "id": "197:38b",
         "page": 197,
         "line": 38,
         "text": "And it came to pass after many days, there ",
@@ -292,7 +299,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/198"
       },
       {
-        "id": "198:5",
+        "id": "198:5a",
         "page": 198,
         "line": 5,
         "text": "dens, that they may be light;",
@@ -306,7 +313,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "198:5",
+        "id": "198:5b",
         "page": 198,
         "line": 5,
         "text": "yea, and are willing to mourn ",
@@ -348,7 +355,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/198"
       },
       {
-        "id": "198:11",
+        "id": "198:11a",
         "page": 198,
         "line": 11,
         "text": "life:",
@@ -362,7 +369,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "198:11",
+        "id": "198:11b",
         "page": 198,
         "line": 11,
         "text": "Now I say unto you, if this be the desires of your hearts, ",
@@ -453,7 +460,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/198"
       },
       {
-        "id": "198:22",
+        "id": "198:22a",
         "page": 198,
         "line": 22,
         "text": "that he may do this work with holiness of heart.",
@@ -467,7 +474,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "198:22",
+        "id": "198:22b",
         "page": 198,
         "line": 22,
         "text": "And when ",
@@ -523,7 +530,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/198"
       },
       {
-        "id": "198:30",
+        "id": "198:30a",
         "page": 198,
         "line": 30,
         "text": "tion of the world.",
@@ -537,7 +544,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "198:30",
+        "id": "198:30b",
         "page": 198,
         "line": 30,
         "text": "And after Alma had said these words, both ",
@@ -558,7 +565,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/198"
       },
       {
-        "id": "198:33",
+        "id": "198:33a",
         "page": 198,
         "line": 33,
         "text": "spirit.",
@@ -572,7 +579,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "198:33",
+        "id": "198:33b",
         "page": 198,
         "line": 33,
         "text": "And again, Alma took another, and went forth a se",
@@ -586,7 +593,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/198"
       },
       {
-        "id": "198:35",
+        "id": "198:35a",
         "page": 198,
         "line": 35,
         "text": "first, only he did not bury himself again in the water.",
@@ -600,7 +607,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "198:35",
+        "id": "198:35b",
         "page": 198,
         "line": 35,
         "text": "And ",
@@ -628,7 +635,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/198"
       },
       {
-        "id": "198:39",
+        "id": "198:39a",
         "page": 198,
         "line": 39,
         "text": "waters of Mormon, and were filled with the grace of God:",
@@ -642,7 +649,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "198:39",
+        "id": "198:39b",
         "page": 198,
         "line": 39,
         "text": "and ",
@@ -705,7 +712,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/199"
       },
       {
-        "id": "199:4",
+        "id": "199:4a",
         "page": 199,
         "line": 4,
         "text": "cerning the things pertaining to the kingdom of God.",
@@ -719,7 +726,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "199:4",
+        "id": "199:4b",
         "page": 199,
         "line": 4,
         "text": "And he ",
@@ -740,7 +747,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/199"
       },
       {
-        "id": "199:7",
+        "id": "199:7a",
         "page": 199,
         "line": 7,
         "text": "by the mouth of the holy prophets.",
@@ -754,7 +761,7 @@
     "verse": 20,
     "lines": [
       {
-        "id": "199:7",
+        "id": "199:7b",
         "page": 199,
         "line": 7,
         "text": "Yea, even he commanded ",
@@ -768,7 +775,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/199"
       },
       {
-        "id": "199:9",
+        "id": "199:9a",
         "page": 199,
         "line": 9,
         "text": "and faith on the Lord, who hath redeemed his people.",
@@ -782,7 +789,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "199:9",
+        "id": "199:9b",
         "page": 199,
         "line": 9,
         "text": "And he ",
@@ -810,7 +817,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/199"
       },
       {
-        "id": "199:13",
+        "id": "199:13a",
         "page": 199,
         "line": 13,
         "text": "in unity and in love, one towards another.",
@@ -824,7 +831,7 @@
     "verse": 22,
     "lines": [
       {
-        "id": "199:13",
+        "id": "199:13b",
         "page": 199,
         "line": 13,
         "text": "And thus he com",
@@ -838,7 +845,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/199"
       },
       {
-        "id": "199:15",
+        "id": "199:15a",
         "page": 199,
         "line": 15,
         "text": "of God.",
@@ -852,7 +859,7 @@
     "verse": 23,
     "lines": [
       {
-        "id": "199:15",
+        "id": "199:15b",
         "page": 199,
         "line": 15,
         "text": "And he commanded them that they should observe ",
@@ -866,7 +873,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/199"
       },
       {
-        "id": "199:17",
+        "id": "199:17a",
         "page": 199,
         "line": 17,
         "text": "should give thanks to the Lord their God.",
@@ -880,7 +887,7 @@
     "verse": 24,
     "lines": [
       {
-        "id": "199:17",
+        "id": "199:17b",
         "page": 199,
         "line": 17,
         "text": "And he also com",
@@ -894,7 +901,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/199"
       },
       {
-        "id": "199:19",
+        "id": "199:19a",
         "page": 199,
         "line": 19,
         "text": "labor with their own hands for their support;",
@@ -908,7 +915,7 @@
     "verse": 25,
     "lines": [
       {
-        "id": "199:19",
+        "id": "199:19b",
         "page": 199,
         "line": 19,
         "text": "and there was ",
@@ -936,7 +943,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/199"
       },
       {
-        "id": "199:23",
+        "id": "199:23a",
         "page": 199,
         "line": 23,
         "text": "to assemble themselves together.",
@@ -950,7 +957,7 @@
     "verse": 26,
     "lines": [
       {
-        "id": "199:23",
+        "id": "199:23b",
         "page": 199,
         "line": 23,
         "text": "And the priests was not to ",
@@ -978,7 +985,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/199"
       },
       {
-        "id": "199:27",
+        "id": "199:27a",
         "page": 199,
         "line": 27,
         "text": "might teach with power and authority from God.",
@@ -992,7 +999,7 @@
     "verse": 27,
     "lines": [
       {
-        "id": "199:27",
+        "id": "199:27b",
         "page": 199,
         "line": 27,
         "text": "And again ",
@@ -1027,7 +1034,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/199"
       },
       {
-        "id": "199:32",
+        "id": "199:32a",
         "page": 199,
         "line": 32,
         "text": "to him that hath not should be given.",
@@ -1041,7 +1048,7 @@
     "verse": 28,
     "lines": [
       {
-        "id": "199:32",
+        "id": "199:32b",
         "page": 199,
         "line": 32,
         "text": "And thus they should ",
@@ -1062,7 +1069,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/199"
       },
       {
-        "id": "199:35",
+        "id": "199:35a",
         "page": 199,
         "line": 35,
         "text": "and to every needy, naked soul.",
@@ -1076,7 +1083,7 @@
     "verse": 29,
     "lines": [
       {
-        "id": "199:35",
+        "id": "199:35b",
         "page": 199,
         "line": 35,
         "text": "And this he said unto them, ",
@@ -1153,7 +1160,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/200"
       },
       {
-        "id": "200:2",
+        "id": "200:2a",
         "page": 200,
         "line": 2,
         "text": "his praise forever.",
@@ -1167,7 +1174,7 @@
     "verse": 31,
     "lines": [
       {
-        "id": "200:2",
+        "id": "200:2b",
         "page": 200,
         "line": 2,
         "text": "And these things were done in the borders ",
@@ -1181,7 +1188,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/200"
       },
       {
-        "id": "200:4",
+        "id": "200:4a",
         "page": 200,
         "line": 4,
         "text": "king.",
@@ -1195,7 +1202,7 @@
     "verse": 32,
     "lines": [
       {
-        "id": "200:4",
+        "id": "200:4b",
         "page": 200,
         "line": 4,
         "text": "But behold, it came to pass that the king, having dis",
@@ -1223,7 +1230,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/200"
       },
       {
-        "id": "200:8",
+        "id": "200:8a",
         "page": 200,
         "line": 8,
         "text": "were discovered unto the king.",
@@ -1237,7 +1244,7 @@
     "verse": 33,
     "lines": [
       {
-        "id": "200:8",
+        "id": "200:8b",
         "page": 200,
         "line": 8,
         "text": "And now the king saith that ",
@@ -1251,7 +1258,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/200"
       },
       {
-        "id": "200:10",
+        "id": "200:10a",
         "page": 200,
         "line": 10,
         "text": "therefore he sent his army to destroy them.",
@@ -1265,7 +1272,7 @@
     "verse": 34,
     "lines": [
       {
-        "id": "200:10",
+        "id": "200:10b",
         "page": 200,
         "line": 10,
         "text": "And it came to ",
@@ -1286,7 +1293,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/200"
       },
       {
-        "id": "200:13",
+        "id": "200:13a",
         "page": 200,
         "line": 13,
         "text": "and their families, and departed into the wilderness.",
@@ -1300,7 +1307,7 @@
     "verse": 35,
     "lines": [
       {
-        "id": "200:13",
+        "id": "200:13b",
         "page": 200,
         "line": 13,
         "text": "And ",

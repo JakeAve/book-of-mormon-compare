@@ -5,6 +5,20 @@
     "verse": 1,
     "lines": [
       {
+        "id": "515:27",
+        "page": 515,
+        "line": 27,
+        "text": "CHAPTER VII. ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/515"
+      },
+      {
+        "id": "515:28",
+        "page": 515,
+        "line": 28,
+        "text": "And now it came to pass that when Jesus had end",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/515"
+      },
+      {
         "id": "515:29",
         "page": 515,
         "line": 29,
@@ -40,10 +54,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/515"
       },
       {
-        "id": "515:34",
+        "id": "515:34a",
         "page": 515,
         "line": 34,
-        "text": "the last day. And it came to pass that when Jesus",
+        "text": "the last day.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/515"
       }
     ]
@@ -53,6 +67,13 @@
     "chapter": 15,
     "verse": 2,
     "lines": [
+      {
+        "id": "515:34b",
+        "page": 515,
+        "line": 34,
+        "text": "And it came to pass that when Jesus ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/515"
+      },
       {
         "id": "515:35",
         "page": 515,
@@ -82,7 +103,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/515"
       },
       {
-        "id": "515:39",
+        "id": "515:39a",
         "page": 515,
         "line": 39,
         "text": "away, and that all things had become new.",
@@ -96,7 +117,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "515:39",
+        "id": "515:39b",
         "page": 515,
         "line": 39,
         "text": "And he ",
@@ -117,10 +138,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/515"
       },
       {
-        "id": "516:1",
+        "id": "516:1a",
         "page": 516,
         "line": 1,
-        "text": "become new. Bohold",
+        "text": "become new.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/516"
       }
     ]
@@ -131,14 +152,14 @@
     "verse": 4,
     "lines": [
       {
-        "id": "516:1",
+        "id": "516:1b",
         "page": 516,
         "line": 1,
-        "text": "[Behold] I say unto you, that the law is ",
+        "text": "Bohold [Behold] I say unto you, that the law is ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/516"
       },
       {
-        "id": "516:2",
+        "id": "516:2a",
         "page": 516,
         "line": 2,
         "text": "fulfilled that was given unto Moses.",
@@ -152,7 +173,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "516:2",
+        "id": "516:2b",
         "page": 516,
         "line": 2,
         "text": "Behold, I am he ",
@@ -180,7 +201,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/516"
       },
       {
-        "id": "516:6",
+        "id": "516:6a",
         "page": 516,
         "line": 6,
         "text": "end.",
@@ -194,7 +215,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "516:6",
+        "id": "516:6b",
         "page": 516,
         "line": 6,
         "text": "Behold, I do not destroy the prophets, for as ",
@@ -208,7 +229,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/516"
       },
       {
-        "id": "516:8",
+        "id": "516:8a",
         "page": 516,
         "line": 8,
         "text": "unto you, shall all be fulfilled.",
@@ -222,7 +243,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "516:8",
+        "id": "516:8b",
         "page": 516,
         "line": 8,
         "text": "And because I said ",
@@ -243,7 +264,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/516"
       },
       {
-        "id": "516:11",
+        "id": "516:11a",
         "page": 516,
         "line": 11,
         "text": "which are to come.",
@@ -257,7 +278,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "516:11",
+        "id": "516:11b",
         "page": 516,
         "line": 11,
         "text": "For behold, the covenant which ",
@@ -278,7 +299,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/516"
       },
       {
-        "id": "516:14",
+        "id": "516:14a",
         "page": 516,
         "line": 14,
         "text": "me.",
@@ -292,7 +313,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "516:14",
+        "id": "516:14b",
         "page": 516,
         "line": 14,
         "text": "Behold, I am the law, and the light; look unto ",
@@ -337,14 +358,7 @@
         "id": "516:19",
         "page": 516,
         "line": 19,
-        "text": "law and the prophets, for they truly testified of me. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/516"
-      },
-      {
-        "id": "516:20",
-        "page": 516,
-        "line": 20,
-        "text": "And now it came to pass that when Jesus had spok",
+        "text": "law and the prophets, for they truly testified of me.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/516"
       }
     ]
@@ -355,6 +369,13 @@
     "verse": 11,
     "lines": [
       {
+        "id": "516:20",
+        "page": 516,
+        "line": 20,
+        "text": "And now it came to pass that when Jesus had spok",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/516"
+      },
+      {
         "id": "516:21",
         "page": 516,
         "line": 21,
@@ -362,7 +383,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/516"
       },
       {
-        "id": "516:22",
+        "id": "516:22a",
         "page": 516,
         "line": 22,
         "text": "had chosen,",
@@ -376,7 +397,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "516:22",
+        "id": "516:22b",
         "page": 516,
         "line": 22,
         "text": "ye are my disciples; and ye are a light ",
@@ -390,7 +411,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/516"
       },
       {
-        "id": "516:24",
+        "id": "516:24a",
         "page": 516,
         "line": 24,
         "text": "Joseph.",
@@ -404,14 +425,14 @@
     "verse": 13,
     "lines": [
       {
-        "id": "516:24",
+        "id": "516:24b",
         "page": 516,
         "line": 24,
         "text": "And behold, this is the land of your inherit",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/516"
       },
       {
-        "id": "516:25",
+        "id": "516:25a",
         "page": 516,
         "line": 25,
         "text": "ance; and the Father hath given it unto you.",
@@ -425,7 +446,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "516:25",
+        "id": "516:25b",
         "page": 516,
         "line": 25,
         "text": "And ",
@@ -446,7 +467,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/516"
       },
       {
-        "id": "516:28",
+        "id": "516:28a",
         "page": 516,
         "line": 28,
         "text": "rusalem;",
@@ -460,7 +481,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "516:28",
+        "id": "516:28b",
         "page": 516,
         "line": 28,
         "text": "neither at any time hath the Father given ",
@@ -481,7 +502,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/516"
       },
       {
-        "id": "516:31",
+        "id": "516:31a",
         "page": 516,
         "line": 31,
         "text": "the Father hath led away out of the land.",
@@ -495,7 +516,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "516:31",
+        "id": "516:31b",
         "page": 516,
         "line": 31,
         "text": "This much ",
@@ -509,7 +530,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/516"
       },
       {
-        "id": "516:33",
+        "id": "516:33a",
         "page": 516,
         "line": 33,
         "text": "them,",
@@ -523,7 +544,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "516:33",
+        "id": "516:33b",
         "page": 516,
         "line": 33,
         "text": "that other sheep I have, which are not of this ",
@@ -572,7 +593,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/516"
       },
       {
-        "id": "516:39",
+        "id": "516:39a",
         "page": 516,
         "line": 39,
         "text": "unto them.",
@@ -586,7 +607,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "516:39",
+        "id": "516:39b",
         "page": 516,
         "line": 39,
         "text": "But, verily, I say unto you, that the ",
@@ -614,7 +635,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/516"
       },
       {
-        "id": "516:43",
+        "id": "516:43a",
         "page": 516,
         "line": 43,
         "text": "that they know not of you.",
@@ -628,7 +649,7 @@
     "verse": 20,
     "lines": [
       {
-        "id": "516:43",
+        "id": "516:43b",
         "page": 516,
         "line": 43,
         "text": "And verily, I say unto ",
@@ -649,7 +670,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/516"
       },
       {
-        "id": "516:46",
+        "id": "516:46a",
         "page": 516,
         "line": 46,
         "text": "that they know not of them.",
@@ -663,7 +684,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "516:46",
+        "id": "516:46b",
         "page": 516,
         "line": 46,
         "text": "And verily, I say unto ",
@@ -691,7 +712,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/517"
       },
       {
-        "id": "517:3",
+        "id": "517:3a",
         "page": 517,
         "line": 3,
         "text": "one fold, and one shepherd.",
@@ -705,7 +726,7 @@
     "verse": 22,
     "lines": [
       {
-        "id": "517:3",
+        "id": "517:3b",
         "page": 517,
         "line": 3,
         "text": "And they understood me ",
@@ -726,7 +747,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/517"
       },
       {
-        "id": "517:6",
+        "id": "517:6a",
         "page": 517,
         "line": 6,
         "text": "verted through their preaching;",
@@ -740,7 +761,7 @@
     "verse": 23,
     "lines": [
       {
-        "id": "517:6",
+        "id": "517:6b",
         "page": 517,
         "line": 6,
         "text": "and they understood ",
@@ -768,7 +789,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/517"
       },
       {
-        "id": "517:10",
+        "id": "517:10a",
         "page": 517,
         "line": 10,
         "text": "self unto them, save it were by the Holy Ghost.",
@@ -782,7 +803,7 @@
     "verse": 24,
     "lines": [
       {
-        "id": "517:10",
+        "id": "517:10b",
         "page": 517,
         "line": 10,
         "text": "But ",
@@ -803,7 +824,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/517"
       },
       {
-        "id": "517:13",
+        "id": "517:13a",
         "page": 517,
         "line": 13,
         "text": "those whom the Father hath given me.",

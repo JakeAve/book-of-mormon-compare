@@ -5,17 +5,10 @@
     "verse": 1,
     "lines": [
       {
-        "id": "624:1",
+        "id": "624:1b",
         "page": 624,
         "line": 1,
-        "text": "THE TESTIMONY OF THREE WITNESSES. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/624"
-      },
-      {
-        "id": "624:2",
-        "page": 624,
-        "line": 2,
-        "text": "Be it know unto all nations, kindreds, tongues,",
+        "text": "TESTIMONY OF THREE WITNESSES.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/624"
       }
     ]
@@ -25,6 +18,13 @@
     "chapter": 1,
     "verse": 2,
     "lines": [
+      {
+        "id": "624:2",
+        "page": 624,
+        "line": 2,
+        "text": "Be it know unto all nations, kindreds, tongues, ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/624"
+      },
       {
         "id": "624:3",
         "page": 624,
@@ -225,15 +225,8 @@
         "id": "624:31",
         "page": 624,
         "line": 31,
-        "text": "which is one God. Amen. ",
+        "text": "which is one God. Amen.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/624"
-      },
-      {
-        "id": "625:1",
-        "page": 625,
-        "line": 1,
-        "text": "AND ALSO",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/625"
       }
     ]
   },
@@ -246,16 +239,23 @@
         "id": "625:1",
         "page": 625,
         "line": 1,
-        "text": "THE TESTIMONY OF EIGHT ",
+        "text": "AND ALSO THE TESTIMONY OF EIGHT ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/625"
       },
       {
         "id": "625:2",
         "page": 625,
         "line": 2,
-        "text": "WITNESSES. ",
+        "text": "WITNESSES.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/625"
-      },
+      }
+    ]
+  },
+  {
+    "book": "witnesses",
+    "chapter": 1,
+    "verse": 4,
+    "lines": [
       {
         "id": "625:3",
         "page": 625,
@@ -269,14 +269,7 @@
         "line": 4,
         "text": "and people, unto whom this work shall come, that Jo",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/625"
-      }
-    ]
-  },
-  {
-    "book": "witnesses",
-    "chapter": 1,
-    "verse": 4,
-    "lines": [
+      },
       {
         "id": "625:5",
         "page": 625,

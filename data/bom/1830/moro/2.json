@@ -5,6 +5,13 @@
     "verse": 1,
     "lines": [
       {
+        "id": "580:15",
+        "page": 580,
+        "line": 15,
+        "text": "CHAPTER II. ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/580"
+      },
+      {
         "id": "580:16",
         "page": 580,
         "line": 16,
@@ -19,7 +26,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/580"
       },
       {
-        "id": "580:18",
+        "id": "580:18a",
         "page": 580,
         "line": 18,
         "text": "them.",
@@ -33,7 +40,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "580:18",
+        "id": "580:18b",
         "page": 580,
         "line": 18,
         "text": "And he called them by name, saying, Ye shall call on ",
@@ -61,7 +68,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/580"
       },
       {
-        "id": "580:22",
+        "id": "580:22a",
         "page": 580,
         "line": 22,
         "text": "my name shall ye give it: for thus do mine apostles.",
@@ -75,7 +82,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "580:22",
+        "id": "580:22b",
         "page": 580,
         "line": 22,
         "text": "Now ",
@@ -106,15 +113,8 @@
         "id": "580:26",
         "page": 580,
         "line": 26,
-        "text": "Holy Ghost. ",
+        "text": "Holy Ghost.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/580"
-      },
-      {
-        "id": "581:1",
-        "page": 581,
-        "line": 1,
-        "text": "CHAPTER III.",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/581"
       }
     ]
   }

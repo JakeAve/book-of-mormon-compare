@@ -5,7 +5,7 @@
     "verse": 1,
     "lines": [
       {
-        "id": "278:29",
+        "id": "278:29b",
         "page": 278,
         "line": 29,
         "text": "And again: my brethren, I ",
@@ -47,7 +47,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/278"
       },
       {
-        "id": "278:35",
+        "id": "278:35a",
         "page": 278,
         "line": 35,
         "text": "unto the people;",
@@ -61,7 +61,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "278:35",
+        "id": "278:35b",
         "page": 278,
         "line": 35,
         "text": "and those priests were ordained af",
@@ -82,7 +82,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/278"
       },
       {
-        "id": "278:38",
+        "id": "278:38a",
         "page": 278,
         "line": 38,
         "text": "his Son for redemption.",
@@ -96,7 +96,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "278:38",
+        "id": "278:38b",
         "page": 278,
         "line": 38,
         "text": "And this is the manner after ",
@@ -159,7 +159,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/278"
       },
       {
-        "id": "278:47",
+        "id": "278:47a",
         "page": 278,
         "line": 47,
         "text": "redemption for such;",
@@ -173,7 +173,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "278:47",
+        "id": "278:47b",
         "page": 278,
         "line": 47,
         "text": "and thus they have been called ",
@@ -208,7 +208,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/279"
       },
       {
-        "id": "279:5",
+        "id": "279:5a",
         "page": 279,
         "line": 5,
         "text": "great privilege as their brethren.",
@@ -222,7 +222,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "279:5",
+        "id": "279:5b",
         "page": 279,
         "line": 5,
         "text": "Or in fine: in the ",
@@ -292,7 +292,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/279"
       },
       {
-        "id": "279:14",
+        "id": "279:14a",
         "page": 279,
         "line": 14,
         "text": "that they also might enter into his rest,",
@@ -306,7 +306,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "279:14",
+        "id": "279:14b",
         "page": 279,
         "line": 14,
         "text": "this high ",
@@ -341,7 +341,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/279"
       },
       {
-        "id": "279:19",
+        "id": "279:19a",
         "page": 279,
         "line": 19,
         "text": "cording to his foreknowledge of all things.",
@@ -355,7 +355,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "279:19",
+        "id": "279:19b",
         "page": 279,
         "line": 19,
         "text": "Now they ",
@@ -390,7 +390,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/279"
       },
       {
-        "id": "279:24",
+        "id": "279:24a",
         "page": 279,
         "line": 24,
         "text": "hood, is without beginning or end;",
@@ -404,7 +404,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "279:24",
+        "id": "279:24b",
         "page": 279,
         "line": 24,
         "text": "thus they become ",
@@ -481,7 +481,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/279"
       },
       {
-        "id": "279:34",
+        "id": "279:34a",
         "page": 279,
         "line": 34,
         "text": "work righteousness, rather than to perish;",
@@ -495,7 +495,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "279:34",
+        "id": "279:34b",
         "page": 279,
         "line": 34,
         "text": "therefore ",
@@ -516,7 +516,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/279"
       },
       {
-        "id": "279:37",
+        "id": "279:37a",
         "page": 279,
         "line": 37,
         "text": "the blood of the Lamb.",
@@ -530,7 +530,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "279:37",
+        "id": "279:37b",
         "page": 279,
         "line": 37,
         "text": "Now they, after being sanc",
@@ -568,14 +568,7 @@
         "id": "280:2",
         "page": 280,
         "line": 2,
-        "text": "pure, and entered into the rest of the Lord their God. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/280"
-      },
-      {
-        "id": "280:3",
-        "page": 280,
-        "line": 3,
-        "text": "And now, my brethren, I would that ye should hum",
+        "text": "pure, and entered into the rest of the Lord their God.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/280"
       }
     ]
@@ -585,6 +578,13 @@
     "chapter": 13,
     "verse": 13,
     "lines": [
+      {
+        "id": "280:3",
+        "page": 280,
+        "line": 3,
+        "text": "And now, my brethren, I would that ye should hum",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/280"
+      },
       {
         "id": "280:4",
         "page": 280,
@@ -628,7 +628,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/280"
       },
       {
-        "id": "280:9",
+        "id": "280:9a",
         "page": 280,
         "line": 9,
         "text": "him the high priesthood forever.",
@@ -642,7 +642,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "280:9",
+        "id": "280:9b",
         "page": 280,
         "line": 9,
         "text": "And it was this ",
@@ -663,7 +663,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/280"
       },
       {
-        "id": "280:12",
+        "id": "280:12a",
         "page": 280,
         "line": 12,
         "text": "of all he possessed.",
@@ -677,7 +677,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "280:12",
+        "id": "280:12b",
         "page": 280,
         "line": 12,
         "text": "Now these ordinances were giv",
@@ -747,7 +747,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/280"
       },
       {
-        "id": "280:21",
+        "id": "280:21a",
         "page": 280,
         "line": 21,
         "text": "were full of all manner of wickedness:",
@@ -761,7 +761,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "280:21",
+        "id": "280:21b",
         "page": 280,
         "line": 21,
         "text": "but Melchize",
@@ -810,7 +810,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/280"
       },
       {
-        "id": "280:28",
+        "id": "280:28a",
         "page": 280,
         "line": 28,
         "text": "lem; and he did reign under his father.",
@@ -824,7 +824,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "280:28",
+        "id": "280:28b",
         "page": 280,
         "line": 28,
         "text": "Now there ",
@@ -845,7 +845,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/280"
       },
       {
-        "id": "280:31",
+        "id": "280:31a",
         "page": 280,
         "line": 31,
         "text": "have more particularly made mention.",
@@ -859,7 +859,7 @@
     "verse": 20,
     "lines": [
       {
-        "id": "280:31",
+        "id": "280:31b",
         "page": 280,
         "line": 31,
         "text": "Now I need ",
@@ -922,7 +922,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/280"
       },
       {
-        "id": "280:39",
+        "id": "280:39a",
         "page": 280,
         "line": 39,
         "text": "nigh:",
@@ -936,7 +936,7 @@
     "verse": 22,
     "lines": [
       {
-        "id": "280:39",
+        "id": "280:39b",
         "page": 280,
         "line": 39,
         "text": "yea, and the voice of the Lord, by the mouth of ",
@@ -978,7 +978,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/280"
       },
       {
-        "id": "280:45",
+        "id": "280:45a",
         "page": 280,
         "line": 45,
         "text": "unto us.",
@@ -992,7 +992,7 @@
     "verse": 23,
     "lines": [
       {
-        "id": "280:45",
+        "id": "280:45b",
         "page": 280,
         "line": 45,
         "text": "And they are made known unto us in plain ",
@@ -1027,7 +1027,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/281"
       },
       {
-        "id": "281:3",
+        "id": "281:3a",
         "page": 281,
         "line": 3,
         "text": "our vineyard.",
@@ -1041,7 +1041,7 @@
     "verse": 24,
     "lines": [
       {
-        "id": "281:3",
+        "id": "281:3b",
         "page": 281,
         "line": 3,
         "text": "For behold, angels are declaring it un",
@@ -1069,7 +1069,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/281"
       },
       {
-        "id": "281:7",
+        "id": "281:7a",
         "page": 281,
         "line": 7,
         "text": "glory.",
@@ -1083,7 +1083,7 @@
     "verse": 25,
     "lines": [
       {
-        "id": "281:7",
+        "id": "281:7b",
         "page": 281,
         "line": 7,
         "text": "And now we only wait to hear the joyful news ",
@@ -1111,7 +1111,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/281"
       },
       {
-        "id": "281:11",
+        "id": "281:11a",
         "page": 281,
         "line": 11,
         "text": "sooner or later, in it I will rejoice.",
@@ -1125,7 +1125,7 @@
     "verse": 26,
     "lines": [
       {
-        "id": "281:11",
+        "id": "281:11b",
         "page": 281,
         "line": 11,
         "text": "And it shall be ",
@@ -1202,7 +1202,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/281"
       },
       {
-        "id": "281:21",
+        "id": "281:21a",
         "page": 281,
         "line": 21,
         "text": "pentance;",
@@ -1216,7 +1216,7 @@
     "verse": 28,
     "lines": [
       {
-        "id": "281:21",
+        "id": "281:21b",
         "page": 281,
         "line": 21,
         "text": "but that ye would humble yourselves before ",
@@ -1251,10 +1251,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/281"
       },
       {
-        "id": "281:26",
+        "id": "281:26a",
         "page": 281,
         "line": 26,
-        "text": "full of love and all long suffering;",
+        "text": "full of love and all",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/281"
       }
     ]
@@ -1265,10 +1265,10 @@
     "verse": 29,
     "lines": [
       {
-        "id": "281:26",
+        "id": "281:26b",
         "page": 281,
         "line": 26,
-        "text": "having faith on the ",
+        "text": "long suffering; having faith on the ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/281"
       },
       {
@@ -1321,7 +1321,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/281"
       },
       {
-        "id": "281:33",
+        "id": "281:33a",
         "page": 281,
         "line": 33,
         "text": "not suffer the second death.",
@@ -1335,7 +1335,7 @@
     "verse": 31,
     "lines": [
       {
-        "id": "281:33",
+        "id": "281:33b",
         "page": 281,
         "line": 33,
         "text": "And Alma spake many ",

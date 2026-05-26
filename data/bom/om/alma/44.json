@@ -5,7 +5,7 @@
     "verse": 1,
     "lines": [
       {
-        "id": "141:18",
+        "id": "141:18b",
         "page": 141,
         "line": 18,
         "text": "& it came to pass that they did stop & withdrew a pace ",
@@ -27,7 +27,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/141"
       },
       {
-        "id": "141:21",
+        "id": "141:21a",
         "page": 141,
         "line": 21,
         "text": "desire to slay you",
@@ -42,7 +42,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "141:21",
+        "id": "141:21b",
         "page": 141,
         "line": 21,
         "text": "behold we have not come out to Battle against you ",
@@ -63,7 +63,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/141"
       },
       {
-        "id": "141:24",
+        "id": "141:24a",
         "page": 141,
         "line": 24,
         "text": "against us yea & ye are angary with us because of our Religion",
@@ -78,7 +78,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "141:24",
+        "id": "141:24b",
         "page": 141,
         "line": 24,
         "text": "but now ye behold ",
@@ -99,7 +99,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/141"
       },
       {
-        "id": "141:27",
+        "id": "141:27a",
         "page": 141,
         "line": 27,
         "text": "& our faith in Christ & now ye see that ye cannot destroy this our faith",
@@ -113,7 +113,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "141:27",
+        "id": "141:27b",
         "page": 141,
         "line": 27,
         "text": "now ye ",
@@ -142,7 +142,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/141"
       },
       {
-        "id": "141:31",
+        "id": "141:31a",
         "page": 141,
         "line": 31,
         "text": "fall into transgression & deny our faith",
@@ -156,7 +156,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "141:31",
+        "id": "141:31b",
         "page": 141,
         "line": 31,
         "text": "& now Zerahemnah I command you ",
@@ -209,7 +209,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/142"
       },
       {
-        "id": "142:3",
+        "id": "142:3a",
         "page": 142,
         "line": 3,
         "text": "happiness & by all that is most dear unto us",
@@ -224,7 +224,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "142:3",
+        "id": "142:3b",
         "page": 142,
         "line": 3,
         "text": "yea & this is not all I command ",
@@ -248,7 +248,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/142"
       },
       {
-        "id": "142:6",
+        "id": "142:6a",
         "page": 142,
         "line": 6,
         "text": "will go your way & come not again to war against us",
@@ -263,7 +263,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "142:6",
+        "id": "142:6b",
         "page": 142,
         "line": 6,
         "text": "& now if ye do not this be",
@@ -294,7 +294,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/142"
       },
       {
-        "id": "142:10",
+        "id": "142:10a",
         "page": 142,
         "line": 10,
         "text": "see who shall be brought into bondage",
@@ -309,7 +309,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "142:10",
+        "id": "142:10b",
         "page": 142,
         "line": 10,
         "text": "& now it came to pass that when Zerahemnah ",
@@ -356,11 +356,11 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/142"
       },
       {
-        "id": "142:16",
+        "id": "142:16a",
         "page": 142,
         "line": 16,
-        "text": "erness otherwise we will retain our swords & we will perish or conquer beh",
-        "markdown": "{{erness}} otherwise we will retain our swords & we will perish or conquer beh",
+        "text": "erness otherwise we will retain our swords & we will perish or conquer",
+        "markdown": "{{erness}} otherwise we will retain our swords & we will perish or conquer",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/142"
       }
     ]
@@ -370,6 +370,13 @@
     "chapter": 44,
     "verse": 9,
     "lines": [
+      {
+        "id": "142:16b",
+        "page": 142,
+        "line": 16,
+        "text": "beh",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/142"
+      },
       {
         "id": "142:17",
         "page": 142,
@@ -395,7 +402,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/142"
       },
       {
-        "id": "142:20",
+        "id": "142:20a",
         "page": 142,
         "line": 20,
         "text": "hath preserved you",
@@ -409,7 +416,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "142:20",
+        "id": "142:20b",
         "page": 142,
         "line": 20,
         "text": "& now when Zerahemnah had made an end of speaking ",
@@ -423,7 +430,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/142"
       },
       {
-        "id": "142:22",
+        "id": "142:22a",
         "page": 142,
         "line": 22,
         "text": "ceived unto Zerahemnah saying behold we will end the conflict",
@@ -437,7 +444,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "142:22",
+        "id": "142:22b",
         "page": 142,
         "line": 22,
         "text": "now I cannot ",
@@ -465,7 +472,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/142"
       },
       {
-        "id": "142:26",
+        "id": "142:26a",
         "page": 142,
         "line": 26,
         "text": "all submit to the Conditions to which I have proposed",
@@ -479,7 +486,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "142:26",
+        "id": "142:26b",
         "page": 142,
         "line": 26,
         "text": "& now when Moroni had ",
@@ -523,7 +530,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/142"
       },
       {
-        "id": "142:32",
+        "id": "142:32a",
         "page": 142,
         "line": 32,
         "text": "of his Soldiers",
@@ -537,7 +544,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "142:32",
+        "id": "142:32b",
         "page": 142,
         "line": 32,
         "text": "& it came to pass that the Soldier which stood by which smote off ",
@@ -560,7 +567,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/142"
       },
       {
-        "id": "142:35",
+        "id": "142:35a",
         "page": 142,
         "line": 35,
         "text": "ith a loud voice saying",
@@ -574,7 +581,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "142:35",
+        "id": "142:35b",
         "page": 142,
         "line": 35,
         "text": "even as this scalp hath fallen to the earth which is the ",
@@ -590,7 +597,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/143"
       },
       {
-        "id": "143:2",
+        "id": "143:2a",
         "page": 143,
         "line": 2,
         "text": "weopons of war & depart with a covenant of peace",
@@ -605,7 +612,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "143:2",
+        "id": "143:2b",
         "page": 143,
         "line": 2,
         "text": "now there were many when they ",
@@ -637,7 +644,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/143"
       },
       {
-        "id": "143:6",
+        "id": "143:6a",
         "page": 143,
         "line": 6,
         "text": "suffered to depart into the wilderness",
@@ -651,7 +658,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "143:6",
+        "id": "143:6b",
         "page": 143,
         "line": 6,
         "text": "now it came to pass that Zerahemnah was exc ",
@@ -667,7 +674,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/143"
       },
       {
-        "id": "143:8",
+        "id": "143:8a",
         "page": 143,
         "line": 8,
         "text": "ore powerfully against the Nephites",
@@ -681,7 +688,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "143:8",
+        "id": "143:8b",
         "page": 143,
         "line": 8,
         "text": "& now Moroni was angary because of the ",
@@ -705,7 +712,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/143"
       },
       {
-        "id": "143:11",
+        "id": "143:11a",
         "page": 143,
         "line": 11,
         "text": "Lamanites did contend with their swords & their mights",
@@ -720,7 +727,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "143:11",
+        "id": "143:11b",
         "page": 143,
         "line": 11,
         "text": "but behold their ",
@@ -752,7 +759,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/143"
       },
       {
-        "id": "143:15",
+        "id": "143:15a",
         "page": 143,
         "line": 15,
         "text": "phesied",
@@ -766,7 +773,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "143:15",
+        "id": "143:15b",
         "page": 143,
         "line": 15,
         "text": "now Zerahemnah when he saw that they were all about to be destroid he ",
@@ -790,7 +797,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/143"
       },
       {
-        "id": "143:18",
+        "id": "143:18a",
         "page": 143,
         "line": 18,
         "text": "to war again against them",
@@ -805,7 +812,7 @@
     "verse": 20,
     "lines": [
       {
-        "id": "143:18",
+        "id": "143:18b",
         "page": 143,
         "line": 18,
         "text": "& it came to pass that Moroni caused that the work ",
@@ -828,7 +835,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/143"
       },
       {
-        "id": "143:21",
+        "id": "143:21a",
         "page": 143,
         "line": 21,
         "text": "of peace they were suffered to depart into the wilderness",
@@ -842,7 +849,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "143:21",
+        "id": "143:21b",
         "page": 143,
         "line": 21,
         "text": "now the number of their ",
@@ -878,7 +885,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/143"
       },
       {
-        "id": "143:25",
+        "id": "143:25a",
         "page": 143,
         "line": 25,
         "text": "have gone forth & are buried in the debths of the Sea",
@@ -893,14 +900,14 @@
     "verse": 23,
     "lines": [
       {
-        "id": "143:25",
+        "id": "143:25b",
         "page": 143,
         "line": 25,
         "text": "& the armies of the Nephites ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/143"
       },
       {
-        "id": "143:26",
+        "id": "143:26a",
         "page": 143,
         "line": 26,
         "text": "or of Moroni returned & came to their houses & their lands",
@@ -915,7 +922,7 @@
     "verse": 24,
     "lines": [
       {
-        "id": "143:26",
+        "id": "143:26b",
         "page": 143,
         "line": 26,
         "text": "& thus ended the eigh",

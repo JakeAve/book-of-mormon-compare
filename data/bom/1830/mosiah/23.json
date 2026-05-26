@@ -5,6 +5,13 @@
     "verse": 0,
     "lines": [
       {
+        "id": "208:31",
+        "page": 208,
+        "line": 31,
+        "text": "CHAPTER XI. ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/208"
+      },
+      {
         "id": "208:32",
         "page": 208,
         "line": 32,
@@ -54,7 +61,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/208"
       },
       {
-        "id": "208:38",
+        "id": "208:38a",
         "page": 208,
         "line": 38,
         "text": "armies of king Noah.",
@@ -68,7 +75,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "208:38",
+        "id": "208:38b",
         "page": 208,
         "line": 38,
         "text": "And the Lord did strengthen them, that ",
@@ -82,10 +89,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/209"
       },
       {
-        "id": "209:2",
+        "id": "209:2a",
         "page": 209,
         "line": 2,
-        "text": "them. And it came to",
+        "text": "them.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/209"
       }
     ]
@@ -96,14 +103,14 @@
     "verse": 3,
     "lines": [
       {
-        "id": "209:2",
+        "id": "209:2b",
         "page": 209,
         "line": 2,
-        "text": "pass that they fled eight days’ journey ",
+        "text": "And it came to pass that they fled eight days’ journey ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/209"
       },
       {
-        "id": "209:3",
+        "id": "209:3a",
         "page": 209,
         "line": 3,
         "text": "into the wilderness.",
@@ -117,24 +124,17 @@
     "verse": 4,
     "lines": [
       {
-        "id": "209:3",
+        "id": "209:3b",
         "page": 209,
         "line": 3,
         "text": "And they came to a land, yea, even a very ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/209"
       },
       {
-        "id": "209:4",
+        "id": "209:4a",
         "page": 209,
         "line": 4,
-        "text": "beautiful and pleasant land; a land of pure water. And it ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/209"
-      },
-      {
-        "id": "209:5",
-        "page": 209,
-        "line": 5,
-        "text": "came",
+        "text": "beautiful and pleasant land; a land of pure water.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/209"
       }
     ]
@@ -145,10 +145,17 @@
     "verse": 5,
     "lines": [
       {
+        "id": "209:4b",
+        "page": 209,
+        "line": 4,
+        "text": "And it ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/209"
+      },
+      {
         "id": "209:5",
         "page": 209,
         "line": 5,
-        "text": "to pass that they pitched their tents, and began to till the ",
+        "text": "came to pass that they pitched their tents, and began to till the ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/209"
       },
       {
@@ -159,10 +166,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/209"
       },
       {
-        "id": "209:7",
+        "id": "209:7a",
         "page": 209,
         "line": 7,
-        "text": "industrious, and did labor exceedingly. And it",
+        "text": "industrious, and did labor exceedingly.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/209"
       }
     ]
@@ -173,10 +180,10 @@
     "verse": 6,
     "lines": [
       {
-        "id": "209:7",
+        "id": "209:7b",
         "page": 209,
         "line": 7,
-        "text": "came to pass ",
+        "text": "And it came to pass ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/209"
       },
       {
@@ -187,7 +194,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/209"
       },
       {
-        "id": "209:9",
+        "id": "209:9a",
         "page": 209,
         "line": 9,
         "text": "for he was beloved by his people.",
@@ -201,7 +208,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "209:9",
+        "id": "209:9b",
         "page": 209,
         "line": 9,
         "text": "But he saith unto them, ",
@@ -285,7 +292,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/209"
       },
       {
-        "id": "209:19",
+        "id": "209:19a",
         "page": 209,
         "line": 19,
         "text": "pentance;",
@@ -299,7 +306,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "209:19",
+        "id": "209:19b",
         "page": 209,
         "line": 19,
         "text": "nevertheless, after much tribulation, the Lord did ",
@@ -320,7 +327,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/209"
       },
       {
-        "id": "209:22",
+        "id": "209:22a",
         "page": 209,
         "line": 22,
         "text": "knowledge of his truth.",
@@ -334,14 +341,14 @@
     "verse": 11,
     "lines": [
       {
-        "id": "209:22",
+        "id": "209:22b",
         "page": 209,
         "line": 22,
         "text": "Nevertheless, in this I do not glory, ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/209"
       },
       {
-        "id": "209:23",
+        "id": "209:23a",
         "page": 209,
         "line": 23,
         "text": "for I am unworthy to glory of myself.",
@@ -355,7 +362,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "209:23",
+        "id": "209:23b",
         "page": 209,
         "line": 23,
         "text": "And now I say unto you, ",
@@ -383,7 +390,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/209"
       },
       {
-        "id": "209:27",
+        "id": "209:27a",
         "page": 209,
         "line": 27,
         "text": "iniquity.",
@@ -397,7 +404,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "209:27",
+        "id": "209:27b",
         "page": 209,
         "line": 27,
         "text": "And now as ye have been delivered, by the power of ",
@@ -432,7 +439,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/209"
       },
       {
-        "id": "209:32",
+        "id": "209:32a",
         "page": 209,
         "line": 32,
         "text": "over you;",
@@ -446,7 +453,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "209:32",
+        "id": "209:32b",
         "page": 209,
         "line": 32,
         "text": "and also trusting no one to be your teachers nor your ",
@@ -460,7 +467,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/209"
       },
       {
-        "id": "209:34",
+        "id": "209:34a",
         "page": 209,
         "line": 34,
         "text": "keeping his commandments.",
@@ -474,7 +481,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "209:34",
+        "id": "209:34b",
         "page": 209,
         "line": 34,
         "text": "Thus did Alma teach his people, ",
@@ -488,7 +495,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/209"
       },
       {
-        "id": "209:36",
+        "id": "209:36a",
         "page": 209,
         "line": 36,
         "text": "should be no contention among them.",
@@ -502,14 +509,14 @@
     "verse": 16,
     "lines": [
       {
-        "id": "209:36",
+        "id": "209:36b",
         "page": 209,
         "line": 36,
         "text": "And now Alma was ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/209"
       },
       {
-        "id": "209:37",
+        "id": "209:37a",
         "page": 209,
         "line": 37,
         "text": "their high priest, he being the founder of their Church.",
@@ -523,7 +530,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "209:37",
+        "id": "209:37b",
         "page": 209,
         "line": 37,
         "text": "And ",
@@ -551,7 +558,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/209"
       },
       {
-        "id": "209:41",
+        "id": "209:41a",
         "page": 209,
         "line": 41,
         "text": "consecrated except it were just men.",
@@ -565,7 +572,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "209:41",
+        "id": "209:41b",
         "page": 209,
         "line": 41,
         "text": "Therefore they did watch ",
@@ -579,7 +586,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/209"
       },
       {
-        "id": "209:43",
+        "id": "209:43a",
         "page": 209,
         "line": 43,
         "text": "to righteousness.",
@@ -593,7 +600,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "209:43",
+        "id": "209:43b",
         "page": 209,
         "line": 43,
         "text": "And it came to pass that they began to pros",
@@ -628,10 +635,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/210"
       },
       {
-        "id": "210:4",
+        "id": "210:4a",
         "page": 210,
         "line": 4,
-        "text": "called Helam.",
+        "text": "called Helam. Nevertheless the",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/210"
       }
     ]
@@ -642,14 +649,14 @@
     "verse": 21,
     "lines": [
       {
-        "id": "210:4",
+        "id": "210:4b",
         "page": 210,
         "line": 4,
-        "text": "Nevertheless the Lord seeth fit to chasten his ",
+        "text": "Lord seeth fit to chasten his ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/210"
       },
       {
-        "id": "210:5",
+        "id": "210:5a",
         "page": 210,
         "line": 5,
         "text": "people; yea, he trieth their patience and their faith.",
@@ -663,7 +670,7 @@
     "verse": 22,
     "lines": [
       {
-        "id": "210:5",
+        "id": "210:5b",
         "page": 210,
         "line": 5,
         "text": "Never ",
@@ -705,7 +712,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/210"
       },
       {
-        "id": "210:10",
+        "id": "210:10a",
         "page": 210,
         "line": 10,
         "text": "yea, even the God of Abraham, and of Isaac, and of Jacob.",
@@ -719,7 +726,7 @@
     "verse": 24,
     "lines": [
       {
-        "id": "210:10",
+        "id": "210:10b",
         "page": 210,
         "line": 10,
         "text": "And it ",
@@ -768,7 +775,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/210"
       },
       {
-        "id": "210:16",
+        "id": "210:16a",
         "page": 210,
         "line": 16,
         "text": "the land.",
@@ -782,7 +789,7 @@
     "verse": 26,
     "lines": [
       {
-        "id": "210:16",
+        "id": "210:16b",
         "page": 210,
         "line": 16,
         "text": "Now it came to pass that the brethren of Alma fled ",
@@ -803,7 +810,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/210"
       },
       {
-        "id": "210:19",
+        "id": "210:19a",
         "page": 210,
         "line": 19,
         "text": "ance of the Lamanites.",
@@ -817,7 +824,7 @@
     "verse": 27,
     "lines": [
       {
-        "id": "210:19",
+        "id": "210:19b",
         "page": 210,
         "line": 19,
         "text": "But Alma went forth and stood among ",
@@ -838,7 +845,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/210"
       },
       {
-        "id": "210:22",
+        "id": "210:22a",
         "page": 210,
         "line": 22,
         "text": "would deliver them;",
@@ -852,7 +859,7 @@
     "verse": 28,
     "lines": [
       {
-        "id": "210:22",
+        "id": "210:22b",
         "page": 210,
         "line": 22,
         "text": "therefore they hushed their fears, and be",
@@ -873,7 +880,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/210"
       },
       {
-        "id": "210:25",
+        "id": "210:25a",
         "page": 210,
         "line": 25,
         "text": "their children.",
@@ -887,7 +894,7 @@
     "verse": 29,
     "lines": [
       {
-        "id": "210:25",
+        "id": "210:25b",
         "page": 210,
         "line": 25,
         "text": "And it came to pass that the Lord did soften ",
@@ -908,7 +915,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/210"
       },
       {
-        "id": "210:28",
+        "id": "210:28a",
         "page": 210,
         "line": 28,
         "text": "manites took possession of the land of Helam.",
@@ -922,7 +929,7 @@
     "verse": 30,
     "lines": [
       {
-        "id": "210:28",
+        "id": "210:28b",
         "page": 210,
         "line": 28,
         "text": "Now the ar",
@@ -978,7 +985,7 @@
     "verse": 32,
     "lines": [
       {
-        "id": "210:34",
+        "id": "210:34a",
         "page": 210,
         "line": 34,
         "text": "Now the name of the leader of those priests was Amulon.",
@@ -992,7 +999,7 @@
     "verse": 33,
     "lines": [
       {
-        "id": "210:34",
+        "id": "210:34b",
         "page": 210,
         "line": 34,
         "text": "And ",
@@ -1020,10 +1027,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/210"
       },
       {
-        "id": "210:38",
+        "id": "210:38a",
         "page": 210,
         "line": 38,
-        "text": "destroy their husbands. And it",
+        "text": "destroy their husbands.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/210"
       }
     ]
@@ -1034,10 +1041,10 @@
     "verse": 34,
     "lines": [
       {
-        "id": "210:38",
+        "id": "210:38b",
         "page": 210,
         "line": 38,
-        "text": "came to pass that the Laman",
+        "text": "And it came to pass that the Laman",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/210"
       },
       {
@@ -1048,10 +1055,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/210"
       },
       {
-        "id": "210:40",
+        "id": "210:40a",
         "page": 210,
         "line": 40,
-        "text": "destroy them, because of their wives.",
+        "text": "destroy them,",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/210"
       }
     ]
@@ -1062,10 +1069,10 @@
     "verse": 35,
     "lines": [
       {
-        "id": "210:40",
+        "id": "210:40b",
         "page": 210,
         "line": 40,
-        "text": "And Amulon and his ",
+        "text": "because of their wives. And Amulon and his ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/210"
       },
       {
@@ -1090,7 +1097,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/210"
       },
       {
-        "id": "211:1",
+        "id": "211:1a",
         "page": 211,
         "line": 1,
         "text": "ren.",
@@ -1104,7 +1111,7 @@
     "verse": 36,
     "lines": [
       {
-        "id": "211:1",
+        "id": "211:1b",
         "page": 211,
         "line": 1,
         "text": "And it came to pass that the Lamanites promised unto ",
@@ -1125,10 +1132,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/211"
       },
       {
-        "id": "211:4",
+        "id": "211:4a",
         "page": 211,
         "line": 4,
-        "text": "their lives and their liberty. But it",
+        "text": "their lives and their liberty.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/211"
       }
     ]
@@ -1139,10 +1146,10 @@
     "verse": 37,
     "lines": [
       {
-        "id": "211:4",
+        "id": "211:4b",
         "page": 211,
         "line": 4,
-        "text": "came to pass that after Al",
+        "text": "But it came to pass that after Al",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/211"
       },
       {
@@ -1195,7 +1202,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/211"
       },
       {
-        "id": "211:11",
+        "id": "211:11a",
         "page": 211,
         "line": 11,
         "text": "been left in the land.",
@@ -1209,7 +1216,7 @@
     "verse": 39,
     "lines": [
       {
-        "id": "211:11",
+        "id": "211:11b",
         "page": 211,
         "line": 11,
         "text": "And the king of the Lamanites had ",

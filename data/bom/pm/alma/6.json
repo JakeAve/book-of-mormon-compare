@@ -5,6 +5,20 @@
     "verse": 1,
     "lines": [
       {
+        "id": "188:15",
+        "page": 188,
+        "line": 15,
+        "text": "tree of life—— ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/188"
+      },
+      {
+        "id": "188:16",
+        "page": 188,
+        "line": 16,
+        "text": "Chapter 4th. ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/188"
+      },
+      {
         "id": "188:17",
         "page": 188,
         "line": 17,
@@ -26,7 +40,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/188"
       },
       {
-        "id": "188:20",
+        "id": "188:20a",
         "page": 188,
         "line": 20,
         "text": "Order of God preside and watch over the church",
@@ -40,7 +54,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "188:20",
+        "id": "188:20b",
         "page": 188,
         "line": 20,
         "text": "& it came to pass that whomsoever ",
@@ -54,7 +68,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/188"
       },
       {
-        "id": "188:22",
+        "id": "188:22a",
         "page": 188,
         "line": 22,
         "text": "entance and was received into the church",
@@ -68,7 +82,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "188:22",
+        "id": "188:22b",
         "page": 188,
         "line": 22,
         "text": "& it also came to pass that womsoever ",
@@ -96,7 +110,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/188"
       },
       {
-        "id": "188:26",
+        "id": "188:26a",
         "page": 188,
         "line": 26,
         "text": "were not numbred among those of the righteous",
@@ -110,14 +124,14 @@
     "verse": 4,
     "lines": [
       {
-        "id": "188:26",
+        "id": "188:26b",
         "page": 188,
         "line": 26,
         "text": "& thus they began to establish ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/188"
       },
       {
-        "id": "188:27",
+        "id": "188:27a",
         "page": 188,
         "line": 27,
         "text": "the order of the church in the City of Zarahemla",
@@ -131,7 +145,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "188:27",
+        "id": "188:27b",
         "page": 188,
         "line": 27,
         "text": "now I would that ye should ",
@@ -173,7 +187,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/188"
       },
       {
-        "id": "188:32",
+        "id": "188:32a",
         "page": 188,
         "line": 32,
         "text": "the welfare of the Souls of those who knew not God",
@@ -187,7 +201,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "188:32",
+        "id": "188:32b",
         "page": 188,
         "line": 32,
         "text": "& now It came to pass— ",
@@ -229,7 +243,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/188"
       },
       {
-        "id": "188:38",
+        "id": "188:38a",
         "page": 188,
         "line": 38,
         "text": "of Nehor with the sword",
@@ -243,7 +257,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "188:38",
+        "id": "188:38b",
         "page": 188,
         "line": 38,
         "text": "and Alma went and bgan to dclare the word ",
@@ -289,15 +303,8 @@
         "id": "189:6",
         "page": 189,
         "line": 6,
-        "text": "which he was called, and thus it is written Amen—— ",
-        "markdown": "which he was called, and ~~this~~ thus it is written Amen—— ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/189"
-      },
-      {
-        "id": "189:7",
-        "page": 189,
-        "line": 7,
-        "text": "Chapter 5th.",
+        "text": "which he was called, and thus it is written Amen——",
+        "markdown": "which he was called, and ~~this~~ thus it is written Amen——",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/189"
       }
     ]

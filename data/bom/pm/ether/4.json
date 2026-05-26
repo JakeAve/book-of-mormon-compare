@@ -5,7 +5,7 @@
     "verse": 1,
     "lines": [
       {
-        "id": "438:16",
+        "id": "438:16b",
         "page": 438,
         "line": 16,
         "text": "& the Lord commanded the brother of Jared to ",
@@ -40,7 +40,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/438"
       },
       {
-        "id": "438:21",
+        "id": "438:21a",
         "page": 438,
         "line": 21,
         "text": "people",
@@ -54,14 +54,14 @@
     "verse": 2,
     "lines": [
       {
-        "id": "438:21",
+        "id": "438:21b",
         "page": 438,
         "line": 21,
         "text": "& after that Christ truely had shewed himself unto his people he comma",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/438"
       },
       {
-        "id": "438:22",
+        "id": "438:22a",
         "page": 438,
         "line": 22,
         "text": "nded that they should be made manifest",
@@ -75,7 +75,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "438:22",
+        "id": "438:22b",
         "page": 438,
         "line": 22,
         "text": "& now after that they have all dwindled ",
@@ -89,10 +89,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/438"
       },
       {
-        "id": "438:24",
+        "id": "438:24a",
         "page": 438,
         "line": 24,
-        "text": "Christ therefore I am commanded that I should hide them up again in the earth be",
+        "text": "Christ therefore I am commanded that I should hide them up again in the earth",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/438"
       }
     ]
@@ -102,6 +102,13 @@
     "chapter": 4,
     "verse": 4,
     "lines": [
+      {
+        "id": "438:24b",
+        "page": 438,
+        "line": 24,
+        "text": "be",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/438"
+      },
       {
         "id": "438:25",
         "page": 438,
@@ -117,7 +124,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/438"
       },
       {
-        "id": "438:27",
+        "id": "438:27a",
         "page": 438,
         "line": 27,
         "text": "unto the brother of Jared",
@@ -131,7 +138,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "438:27",
+        "id": "438:27b",
         "page": 438,
         "line": 27,
         "text": "Wherefore the Lord hath commanded me to write them & I ",
@@ -153,7 +160,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/438"
       },
       {
-        "id": "438:30",
+        "id": "438:30a",
         "page": 438,
         "line": 30,
         "text": "interpreters according to the commandment of the Lord",
@@ -167,7 +174,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "438:30",
+        "id": "438:30b",
         "page": 438,
         "line": 30,
         "text": "for the Lord saith unto me They ",
@@ -181,7 +188,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/438"
       },
       {
-        "id": "438:32",
+        "id": "438:32a",
         "page": 438,
         "line": 32,
         "text": "become clean before the Lord",
@@ -195,7 +202,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "438:32",
+        "id": "438:32b",
         "page": 438,
         "line": 32,
         "text": "& in that day that they shall exercise faith in me saith ",
@@ -223,10 +230,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/438"
       },
       {
-        "id": "438:36",
+        "id": "438:36a",
         "page": 438,
         "line": 36,
-        "text": "the Heavens & of the Earth & all things that in them i◊",
+        "text": "the Heavens & of the Earth & all things that in them",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/438"
       }
     ]
@@ -237,10 +244,10 @@
     "verse": 8,
     "lines": [
       {
-        "id": "438:36",
+        "id": "438:36b",
         "page": 438,
         "line": 36,
-        "text": "And he that will contend ag",
+        "text": "i◊ And he that will contend ag",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/438"
       },
       {
@@ -258,7 +265,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/438"
       },
       {
-        "id": "438:39",
+        "id": "438:39a",
         "page": 438,
         "line": 39,
         "text": "rist for I am he which speaketh",
@@ -272,7 +279,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "438:39",
+        "id": "438:39b",
         "page": 438,
         "line": 39,
         "text": "& at my command the Heavens are opened & are ",
@@ -286,7 +293,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/439"
       },
       {
-        "id": "439:2",
+        "id": "439:2a",
         "page": 439,
         "line": 2,
         "text": "thereof shall pass away even so as by fire",
@@ -300,7 +307,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "439:2",
+        "id": "439:2b",
         "page": 439,
         "line": 2,
         "text": "& he that believeth not my words believ",
@@ -314,7 +321,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/439"
       },
       {
-        "id": "439:4",
+        "id": "439:4a",
         "page": 439,
         "line": 4,
         "text": "it is I that speaketh at the last day",
@@ -328,7 +335,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "439:4",
+        "id": "439:4b",
         "page": 439,
         "line": 4,
         "text": "But he that believeth these things which I have ",
@@ -349,7 +356,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/439"
       },
       {
-        "id": "439:7",
+        "id": "439:7a",
         "page": 439,
         "line": 7,
         "text": "men to do good",
@@ -363,7 +370,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "439:7",
+        "id": "439:7b",
         "page": 439,
         "line": 7,
         "text": "& whatsoever thing persuadeth men to do good is of me for good cometh ",
@@ -392,7 +399,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/439"
       },
       {
-        "id": "439:11",
+        "id": "439:11a",
         "page": 439,
         "line": 11,
         "text": "& the truth of the world",
@@ -406,14 +413,14 @@
     "verse": 13,
     "lines": [
       {
-        "id": "439:11",
+        "id": "439:11b",
         "page": 439,
         "line": 11,
         "text": "come unto me O ye Gentiles & I will shew unto you the greater ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/439"
       },
       {
-        "id": "439:12",
+        "id": "439:12a",
         "page": 439,
         "line": 12,
         "text": "things the knowledge which is hid up because of unbelief",
@@ -427,7 +434,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "439:12",
+        "id": "439:12b",
         "page": 439,
         "line": 12,
         "text": "come unto me O ye house of ",
@@ -448,7 +455,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/439"
       },
       {
-        "id": "439:15",
+        "id": "439:15a",
         "page": 439,
         "line": 15,
         "text": "unbelief",
@@ -462,7 +469,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "439:15",
+        "id": "439:15b",
         "page": 439,
         "line": 15,
         "text": "Behold when ye shall rend that veil of unbelief which doth cause you to re",
@@ -497,7 +504,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/439"
       },
       {
-        "id": "439:20",
+        "id": "439:20a",
         "page": 439,
         "line": 20,
         "text": "the covenant which he made unto your fathers O house of Israel",
@@ -511,7 +518,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "439:20",
+        "id": "439:20b",
         "page": 439,
         "line": 20,
         "text": "& then shall my rev",
@@ -532,7 +539,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/439"
       },
       {
-        "id": "439:23",
+        "id": "439:23a",
         "page": 439,
         "line": 23,
         "text": "hand that they shall be made manifest in very deed",
@@ -546,14 +553,14 @@
     "verse": 17,
     "lines": [
       {
-        "id": "439:23",
+        "id": "439:23b",
         "page": 439,
         "line": 23,
         "text": "therefore when ye shall receive this ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/439"
       },
       {
-        "id": "439:24",
+        "id": "439:24a",
         "page": 439,
         "line": 24,
         "text": "record ye may know that the work of the Father has commenced upon all the face of the land",
@@ -568,7 +575,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "439:24",
+        "id": "439:24b",
         "page": 439,
         "line": 24,
         "text": "therefore repent all ye ends of the earth & come unto me & believe in my Gospel & be baptized in ",
@@ -583,7 +590,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/439"
       },
       {
-        "id": "439:26",
+        "id": "439:26a",
         "page": 439,
         "line": 26,
         "text": "shall be damned & signs shall follow them that believe in my name",
@@ -597,7 +604,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "439:26",
+        "id": "439:26b",
         "page": 439,
         "line": 26,
         "text": "& blessed is he ",
@@ -621,14 +628,7 @@
         "id": "439:29",
         "page": 439,
         "line": 29,
-        "text": "I that hath spoken it. Amen ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/439"
-      },
-      {
-        "id": "439:30",
-        "page": 439,
-        "line": 30,
-        "text": "Chapter",
+        "text": "I that hath spoken it. Amen",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/439"
       }
     ]

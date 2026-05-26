@@ -2,44 +2,22 @@
   {
     "book": "3-ne",
     "chapter": 21,
-    "verse": 10,
-    "lines": [
-      {
-        "id": "214:1",
-        "page": 214,
-        "line": 1,
-        "text": "the Devil",
-        "markdown": "{{the Devil",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/214"
-      }
-    ]
-  },
-  {
-    "book": "3-ne",
-    "chapter": 21,
     "verse": 11,
     "lines": [
       {
-        "id": "214:1",
-        "page": 214,
+        "id": "213:1e",
+        "page": 213,
         "line": 1,
-        "text": "therefore it shall come to pass that whosoever will notbelieve in my words which am Jesus Christ which the Father shall cause himto bring forth unto the Gentiles & shall give unto him Power that he shall bring them forth unto the Gentiles it shall be done even as",
-        "markdown": "therefore it shall co}}me to pass tha{{t whosoever will notbelieve in my words which am}} Jesus Christ w{{hich the Father shall cause himto bring forth unto the Gen}}tiles & shall giv{{e unto him Power that he shall bring them forth unto the}} G{{en}}t{{i}}les it {{shall be done even as",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/214"
-      }
-    ]
-  },
-  {
-    "book": "3-ne",
-    "chapter": 21,
-    "verse": 13,
-    "lines": [
+        "text": "he ",
+        "markdown": "he}} ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/213"
+      },
       {
-        "id": "214:1",
+        "id": "214:1a",
         "page": 214,
         "line": 1,
-        "text": "Moses said",
-        "markdown": "Moses said}}",
+        "text": "the Devil therefore it shall come to pass that whosoever will notbelieve in my words which am Jesus Christ which the Father shall cause himto bring forth unto the Gentiles & shall give unto him Power that he shall bring them forth unto the Gentiles it shall be done even as Moses",
+        "markdown": "{{the Devil therefore it shall co}}me to pass tha{{t whosoever will notbelieve in my words which am}} Jesus Christ w{{hich the Father shall cause himto bring forth unto the Gen}}tiles & shall giv{{e unto him Power that he shall bring them forth unto the}} G{{en}}t{{i}}les it {{shall be done even as Moses",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/214"
       }
     ]

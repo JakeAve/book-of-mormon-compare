@@ -3,7 +3,12 @@
 // Layout: data/bom/2013/<book-slug>/<chapter>.json
 // Each chapter file is an array of `{ book, chapter, verse, text, source }`.
 
-import type { TargetVerse } from "../types.ts";
+export interface TargetVerse {
+  book: string;
+  chapter: number;
+  verse: number;
+  text: string;
+}
 
 // Canonical book order — the slug names match the directories on disk.
 export const BOOK_ORDER = [

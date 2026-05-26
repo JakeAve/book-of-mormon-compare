@@ -5,6 +5,22 @@
     "verse": 1,
     "lines": [
       {
+        "id": "93:2",
+        "page": 93,
+        "line": 2,
+        "text": "Chapter ",
+        "markdown": "{{}} Ch{{a}}pter {{}} ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/93"
+      },
+      {
+        "id": "93:3",
+        "page": 93,
+        "line": 3,
+        "text": "Behold now it came to pass that the king of the Lamanites sent a proclama",
+        "markdown": "{{Be}}hold now it came to pass that the {{king of the Lamanites sent a proclama}}",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/93"
+      },
+      {
         "id": "93:4",
         "page": 93,
         "line": 4,
@@ -29,7 +45,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/93"
       },
       {
-        "id": "93:7",
+        "id": "93:7a",
         "page": 93,
         "line": 7,
         "text": "in any part of their land",
@@ -43,7 +59,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "93:7",
+        "id": "93:7b",
         "page": 93,
         "line": 7,
         "text": "yea he sent a decree among them that they should ",
@@ -83,7 +99,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/93"
       },
       {
-        "id": "93:12",
+        "id": "93:12a",
         "page": 93,
         "line": 12,
         "text": "Sanctuaries",
@@ -97,7 +113,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "93:12",
+        "id": "93:12b",
         "page": 93,
         "line": 12,
         "text": "& thus they might go forth & preach the word according to their ",
@@ -161,7 +177,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/93"
       },
       {
-        "id": "93:20",
+        "id": "93:20a",
         "page": 93,
         "line": 20,
         "text": "ry nor to commit any manner of wickedness",
@@ -176,7 +192,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "93:20",
+        "id": "93:20b",
         "page": 93,
         "line": 20,
         "text": "& now it came to pass that ",
@@ -216,7 +232,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/93"
       },
       {
-        "id": "93:25",
+        "id": "93:25a",
         "page": 93,
         "line": 25,
         "text": "ng them & thus they began to have great success",
@@ -231,7 +247,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "93:25",
+        "id": "93:25b",
         "page": 93,
         "line": 25,
         "text": "& thousands were br",
@@ -255,7 +271,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/93"
       },
       {
-        "id": "93:28",
+        "id": "93:28a",
         "page": 93,
         "line": 28,
         "text": "& the Prophesies which were handed down even to the presant time",
@@ -270,7 +286,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "93:28",
+        "id": "93:28b",
         "page": 93,
         "line": 28,
         "text": "& as ",
@@ -318,7 +334,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/93"
       },
       {
-        "id": "93:34",
+        "id": "93:34a",
         "page": 93,
         "line": 34,
         "text": "ted unto the Lord never did fall away",
@@ -333,7 +349,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "93:34",
+        "id": "93:34b",
         "page": 93,
         "line": 34,
         "text": "for they became a righteous people they did lay down the weopans of their rebellion that ",
@@ -341,7 +357,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/93"
       },
       {
-        "id": "94:1",
+        "id": "94:1a",
         "page": 94,
         "line": 1,
         "text": "they did not fight against God no more neither against any of their brethrennow",
@@ -356,7 +372,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "94:1",
+        "id": "94:1b",
         "page": 94,
         "line": 1,
         "text": "these are they which were converted unto the Lord",
@@ -371,7 +387,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "94:1",
+        "id": "94:1c",
         "page": 94,
         "line": 1,
         "text": "the People of the Lamaniteswhich were in the land of Ishmael",
@@ -386,7 +402,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "94:1",
+        "id": "94:1d",
         "page": 94,
         "line": 1,
         "text": "& also of the people of the Lamanites whichwere in the land of Middoni",
@@ -401,7 +417,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "94:1",
+        "id": "94:1e",
         "page": 94,
         "line": 1,
         "text": "& also of the People of the Lamanites which were in the ",
@@ -409,7 +425,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/94"
       },
       {
-        "id": "94:2",
+        "id": "94:2a",
         "page": 94,
         "line": 2,
         "text": "City of Nephi",
@@ -424,7 +440,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "94:2",
+        "id": "94:2b",
         "page": 94,
         "line": 2,
         "text": "& also of the people of the Lamanites which were in the land of Sh",
@@ -440,7 +456,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/94"
       },
       {
-        "id": "94:4",
+        "id": "94:4a",
         "page": 94,
         "line": 4,
         "text": "the City of Shimnilom",
@@ -455,7 +471,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "94:4",
+        "id": "94:4b",
         "page": 94,
         "line": 4,
         "text": "& these are the names of the Citties of the Lamanites ",
@@ -463,7 +479,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/94"
       },
       {
-        "id": "94:5",
+        "id": "94:5a",
         "page": 94,
         "line": 5,
         "text": "which were converted unto the Lord & these are they that lay down the weopansof their rebellion yea all their weopans of war & they were all Lamanites",
@@ -478,7 +494,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "94:5",
+        "id": "94:5b",
         "page": 94,
         "line": 5,
         "text": "& ",
@@ -509,7 +525,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/94"
       },
       {
-        "id": "94:9",
+        "id": "94:9a",
         "page": 94,
         "line": 9,
         "text": "their viliges & all their Citties",
@@ -524,7 +540,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "94:9",
+        "id": "94:9b",
         "page": 94,
         "line": 9,
         "text": "therefore we have named all the Cittis of ",
@@ -539,7 +555,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/94"
       },
       {
-        "id": "94:11",
+        "id": "94:11a",
         "page": 94,
         "line": 11,
         "text": "truth & were converted",
@@ -554,7 +570,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "94:11",
+        "id": "94:11b",
         "page": 94,
         "line": 11,
         "text": "& now it came to pass that the King & those Peo ",
@@ -609,7 +625,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/94"
       },
       {
-        "id": "94:17",
+        "id": "94:17a",
         "page": 94,
         "line": 17,
         "text": "& they were called by this name & were no more called Lamanites",
@@ -624,7 +640,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "94:17",
+        "id": "94:17b",
         "page": 94,
         "line": 17,
         "text": "& they ",
@@ -647,7 +663,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/94"
       },
       {
-        "id": "94:20",
+        "id": "94:20a",
         "page": 94,
         "line": 20,
         "text": "God did no more follow them",

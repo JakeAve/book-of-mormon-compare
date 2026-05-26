@@ -5,7 +5,15 @@
     "verse": 3,
     "lines": [
       {
-        "id": "215:1",
+        "id": "214:1b",
+        "page": 214,
+        "line": 1,
+        "text": "said ",
+        "markdown": "said}} ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/214"
+      },
+      {
+        "id": "215:1a",
         "page": 215,
         "line": 1,
         "text": "earth should pass away",
@@ -20,7 +28,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "215:1",
+        "id": "215:1b",
         "page": 215,
         "line": 1,
         "text": "& even unto the great & last day when all People & all Kindreds & allNations & tongues shall stand before God to be judged of their works whether they be goo",
@@ -28,7 +36,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/215"
       },
       {
-        "id": "215:2",
+        "id": "215:2a",
         "page": 215,
         "line": 2,
         "text": "d or whether they be evil",
@@ -42,7 +50,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "215:2",
+        "id": "215:2b",
         "page": 215,
         "line": 2,
         "text": "if they be good to the resurrection of everlasting life ",
@@ -66,41 +74,11 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/215"
       },
       {
-        "id": "215:5",
+        "id": "215:5a",
         "page": 215,
         "line": 5,
-        "text": "& the holiness which is in Christ which was before",
-        "markdown": "& the holiness which is in Christ which {{was before",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/215"
-      }
-    ]
-  },
-  {
-    "book": "3-ne",
-    "chapter": 26,
-    "verse": 7,
-    "lines": [
-      {
-        "id": "215:5",
-        "page": 215,
-        "line": 5,
-        "text": "the world began",
-        "markdown": "the world began }}",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/215"
-      }
-    ]
-  },
-  {
-    "book": "3-ne",
-    "chapter": 26,
-    "verse": 8,
-    "lines": [
-      {
-        "id": "215:6",
-        "page": 215,
-        "line": 6,
-        "text": "Chapter",
-        "markdown": "Chapter {{}}",
+        "text": "& the holiness which is in Christ which was before the world",
+        "markdown": "& the holiness which is in Christ which {{was before the world",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/215"
       }
     ]

@@ -75,7 +75,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/217"
       },
       {
-        "id": "217:43",
+        "id": "217:43a",
         "page": 217,
         "line": 43,
         "text": "of God;",
@@ -89,7 +89,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "217:43",
+        "id": "217:43b",
         "page": 217,
         "line": 43,
         "text": "and there was a strict command throughout all the ",
@@ -103,7 +103,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/218"
       },
       {
-        "id": "218:2",
+        "id": "218:2a",
         "page": 218,
         "line": 2,
         "text": "that there should be an equality among all men;",
@@ -117,7 +117,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "218:2",
+        "id": "218:2b",
         "page": 218,
         "line": 2,
         "text": "that they ",
@@ -138,7 +138,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/218"
       },
       {
-        "id": "218:5",
+        "id": "218:5a",
         "page": 218,
         "line": 5,
         "text": "their own hands for their support;",
@@ -152,7 +152,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "218:5",
+        "id": "218:5b",
         "page": 218,
         "line": 5,
         "text": "yea, and all their priests ",
@@ -215,7 +215,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/218"
       },
       {
-        "id": "218:13",
+        "id": "218:13a",
         "page": 218,
         "line": 13,
         "text": "in all quarters of the land.",
@@ -229,7 +229,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "218:13",
+        "id": "218:13b",
         "page": 218,
         "line": 13,
         "text": "And the Lord did visit them and ",
@@ -292,7 +292,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/218"
       },
       {
-        "id": "218:21",
+        "id": "218:21a",
         "page": 218,
         "line": 21,
         "text": "the manner of his iniquities.",
@@ -306,7 +306,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "218:21",
+        "id": "218:21b",
         "page": 218,
         "line": 21,
         "text": "And he became a great hinder",
@@ -376,7 +376,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/218"
       },
       {
-        "id": "218:30",
+        "id": "218:30a",
         "page": 218,
         "line": 30,
         "text": "of God, or even the king;",
@@ -390,7 +390,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "218:30",
+        "id": "218:30b",
         "page": 218,
         "line": 30,
         "text": "and as I said unto you, as they ",
@@ -418,7 +418,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/218"
       },
       {
-        "id": "218:34",
+        "id": "218:34a",
         "page": 218,
         "line": 34,
         "text": "which caused the earth to shake upon which they stood;",
@@ -432,7 +432,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "218:34",
+        "id": "218:34b",
         "page": 218,
         "line": 34,
         "text": "and ",
@@ -446,10 +446,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/218"
       },
       {
-        "id": "218:36",
+        "id": "218:36a",
         "page": 218,
         "line": 36,
-        "text": "understood not the words which he spake unto them. Never",
+        "text": "understood not the words which he spake unto them.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/218"
       }
     ]
@@ -459,6 +459,13 @@
     "chapter": 27,
     "verse": 13,
     "lines": [
+      {
+        "id": "218:36b",
+        "page": 218,
+        "line": 36,
+        "text": "Never",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/218"
+      },
       {
         "id": "218:37",
         "page": 218,
@@ -544,7 +551,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/219"
       },
       {
-        "id": "219:5",
+        "id": "219:5a",
         "page": 219,
         "line": 5,
         "text": "faith.",
@@ -558,7 +565,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "219:5",
+        "id": "219:5b",
         "page": 219,
         "line": 5,
         "text": "And now behold, can ye dispute the power of God? ",
@@ -649,7 +656,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/219"
       },
       {
-        "id": "219:16",
+        "id": "219:16a",
         "page": 219,
         "line": 16,
         "text": "which the angel spake unto Alma, and he departed.",
@@ -663,7 +670,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "219:16",
+        "id": "219:16b",
         "page": 219,
         "line": 16,
         "text": "And now ",
@@ -705,7 +712,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/219"
       },
       {
-        "id": "219:22",
+        "id": "219:22a",
         "page": 219,
         "line": 22,
         "text": "and cause it to tremble, as though it would part asunder.",
@@ -719,7 +726,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "219:22",
+        "id": "219:22b",
         "page": 219,
         "line": 22,
         "text": "And ",
@@ -754,7 +761,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/219"
       },
       {
-        "id": "219:27",
+        "id": "219:27a",
         "page": 219,
         "line": 27,
         "text": "even until he was laid before his father.",
@@ -768,7 +775,7 @@
     "verse": 20,
     "lines": [
       {
-        "id": "219:27",
+        "id": "219:27b",
         "page": 219,
         "line": 27,
         "text": "And they rehearsed ",
@@ -782,7 +789,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/219"
       },
       {
-        "id": "219:29",
+        "id": "219:29a",
         "page": 219,
         "line": 29,
         "text": "ther rejoiced, for he knew that it was the power of God.",
@@ -796,7 +803,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "219:29",
+        "id": "219:29b",
         "page": 219,
         "line": 29,
         "text": "And ",
@@ -817,7 +824,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/219"
       },
       {
-        "id": "219:32",
+        "id": "219:32a",
         "page": 219,
         "line": 32,
         "text": "also for those that were with him.",
@@ -831,7 +838,7 @@
     "verse": 22,
     "lines": [
       {
-        "id": "219:32",
+        "id": "219:32b",
         "page": 219,
         "line": 32,
         "text": "And he caused that the ",
@@ -908,7 +915,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/219"
       },
       {
-        "id": "219:42",
+        "id": "219:42a",
         "page": 219,
         "line": 42,
         "text": "to them, bidding them to be of good comfort:",
@@ -922,7 +929,7 @@
     "verse": 24,
     "lines": [
       {
-        "id": "219:42",
+        "id": "219:42b",
         "page": 219,
         "line": 42,
         "text": "for, said he, I ",
@@ -936,7 +943,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/219"
       },
       {
-        "id": "220:1",
+        "id": "220:1a",
         "page": 220,
         "line": 1,
         "text": "Lord; behold, I am born of the spirit.",
@@ -950,7 +957,7 @@
     "verse": 25,
     "lines": [
       {
-        "id": "220:1",
+        "id": "220:1b",
         "page": 220,
         "line": 1,
         "text": "And the Lord said ",
@@ -985,7 +992,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/220"
       },
       {
-        "id": "220:6",
+        "id": "220:6a",
         "page": 220,
         "line": 6,
         "text": "his sons and daughters;",
@@ -999,7 +1006,7 @@
     "verse": 26,
     "lines": [
       {
-        "id": "220:6",
+        "id": "220:6b",
         "page": 220,
         "line": 6,
         "text": "and thus they become new creatures; ",
@@ -1013,7 +1020,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/220"
       },
       {
-        "id": "220:8",
+        "id": "220:8a",
         "page": 220,
         "line": 8,
         "text": "dom of God.",
@@ -1027,7 +1034,7 @@
     "verse": 27,
     "lines": [
       {
-        "id": "220:8",
+        "id": "220:8b",
         "page": 220,
         "line": 8,
         "text": "I say unto you, unless this be the case, they ",
@@ -1041,7 +1048,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/220"
       },
       {
-        "id": "220:10",
+        "id": "220:10a",
         "page": 220,
         "line": 10,
         "text": "cast off.",
@@ -1055,7 +1062,7 @@
     "verse": 28,
     "lines": [
       {
-        "id": "220:10",
+        "id": "220:10b",
         "page": 220,
         "line": 10,
         "text": "Nevertheless, after wandering through much tribu",
@@ -1076,7 +1083,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/220"
       },
       {
-        "id": "220:13",
+        "id": "220:13a",
         "page": 220,
         "line": 13,
         "text": "of God;",
@@ -1090,7 +1097,7 @@
     "verse": 29,
     "lines": [
       {
-        "id": "220:13",
+        "id": "220:13b",
         "page": 220,
         "line": 13,
         "text": "my soul hath been redeemed from the gall of bitter",
@@ -1118,7 +1125,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/220"
       },
       {
-        "id": "220:17",
+        "id": "220:17a",
         "page": 220,
         "line": 17,
         "text": "pained no more.",
@@ -1132,7 +1139,7 @@
     "verse": 30,
     "lines": [
       {
-        "id": "220:17",
+        "id": "220:17b",
         "page": 220,
         "line": 17,
         "text": "I rejected my Redeemer, and denied that ",
@@ -1160,7 +1167,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/220"
       },
       {
-        "id": "220:21",
+        "id": "220:21a",
         "page": 220,
         "line": 21,
         "text": "unto all;",
@@ -1174,7 +1181,7 @@
     "verse": 31,
     "lines": [
       {
-        "id": "220:21",
+        "id": "220:21b",
         "page": 220,
         "line": 21,
         "text": "yea, every knee shall bow, and every tongue confess ",
@@ -1307,7 +1314,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/220"
       },
       {
-        "id": "220:38",
+        "id": "220:38a",
         "page": 220,
         "line": 38,
         "text": "God.",
@@ -1321,7 +1328,7 @@
     "verse": 34,
     "lines": [
       {
-        "id": "220:38",
+        "id": "220:38b",
         "page": 220,
         "line": 38,
         "text": "And four of them were the sons of Mosiah; and their ",
@@ -1335,10 +1342,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/220"
       },
       {
-        "id": "220:40",
+        "id": "220:40a",
         "page": 220,
         "line": 40,
-        "text": "were the names of the sons of Mosiah. And",
+        "text": "were the names of the sons of Mosiah.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/220"
       }
     ]
@@ -1349,10 +1356,10 @@
     "verse": 35,
     "lines": [
       {
-        "id": "220:40",
+        "id": "220:40b",
         "page": 220,
         "line": 40,
-        "text": "after they had ",
+        "text": "And after they had ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/220"
       },
       {
@@ -1391,7 +1398,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/221"
       },
       {
-        "id": "221:3",
+        "id": "221:3a",
         "page": 221,
         "line": 3,
         "text": "the scriptures to all who desired to hear them:",
@@ -1405,7 +1412,7 @@
     "verse": 36,
     "lines": [
       {
-        "id": "221:3",
+        "id": "221:3b",
         "page": 221,
         "line": 3,
         "text": "and thus they ",
@@ -1426,7 +1433,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/221"
       },
       {
-        "id": "221:6",
+        "id": "221:6a",
         "page": 221,
         "line": 6,
         "text": "deemer.",
@@ -1440,7 +1447,7 @@
     "verse": 37,
     "lines": [
       {
-        "id": "221:6",
+        "id": "221:6b",
         "page": 221,
         "line": 6,
         "text": "And how blessed are they! For they did publish ",
@@ -1457,14 +1464,7 @@
         "id": "221:8",
         "page": 221,
         "line": 8,
-        "text": "declare unto the people that the Lord reigneth. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/221"
-      },
-      {
-        "id": "221:9",
-        "page": 221,
-        "line": 9,
-        "text": "CHAPTER XII.",
+        "text": "declare unto the people that the Lord reigneth.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/221"
       }
     ]

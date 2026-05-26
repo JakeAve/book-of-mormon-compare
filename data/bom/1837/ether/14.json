@@ -40,7 +40,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/603"
       },
       {
-        "id": "603:34",
+        "id": "603:34a",
         "page": 603,
         "line": 34,
         "text": "was the curse upon the land.",
@@ -54,7 +54,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "603:34",
+        "id": "603:34b",
         "page": 603,
         "line": 34,
         "text": "Wherefore every man did ",
@@ -89,7 +89,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/603"
       },
       {
-        "id": "603:39",
+        "id": "603:39a",
         "page": 603,
         "line": 39,
         "text": "life, and of his wives and children.",
@@ -103,7 +103,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "603:39",
+        "id": "603:39b",
         "page": 603,
         "line": 39,
         "text": "And now after ",
@@ -166,7 +166,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/603"
       },
       {
-        "id": "603:47",
+        "id": "603:47a",
         "page": 603,
         "line": 47,
         "text": "sands fell by the sword.",
@@ -180,7 +180,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "603:47",
+        "id": "603:47b",
         "page": 603,
         "line": 47,
         "text": "And it came to pass that ",
@@ -208,7 +208,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/604"
       },
       {
-        "id": "604:4",
+        "id": "604:4a",
         "page": 604,
         "line": 4,
         "text": "tumr, as they were drunken.",
@@ -222,7 +222,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "604:4",
+        "id": "604:4b",
         "page": 604,
         "line": 4,
         "text": "And he came forth ",
@@ -236,7 +236,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/604"
       },
       {
-        "id": "604:6",
+        "id": "604:6a",
         "page": 604,
         "line": 6,
         "text": "throne of Coriantumr.",
@@ -250,7 +250,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "604:6",
+        "id": "604:6b",
         "page": 604,
         "line": 6,
         "text": "And it came to pass that Co",
@@ -271,7 +271,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/604"
       },
       {
-        "id": "604:9",
+        "id": "604:9a",
         "page": 604,
         "line": 9,
         "text": "strength to his army.",
@@ -285,7 +285,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "604:9",
+        "id": "604:9b",
         "page": 604,
         "line": 9,
         "text": "Now the brother of Shared, ",
@@ -299,7 +299,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/604"
       },
       {
-        "id": "604:11",
+        "id": "604:11a",
         "page": 604,
         "line": 11,
         "text": "to his army, because of secret combinations.",
@@ -313,7 +313,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "604:11",
+        "id": "604:11b",
         "page": 604,
         "line": 11,
         "text": "And it ",
@@ -327,7 +327,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/604"
       },
       {
-        "id": "604:13",
+        "id": "604:13a",
         "page": 604,
         "line": 13,
         "text": "sat upon his throne.",
@@ -341,7 +341,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "604:13",
+        "id": "604:13b",
         "page": 604,
         "line": 13,
         "text": "And it came to pass that one of the ",
@@ -369,7 +369,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/604"
       },
       {
-        "id": "604:17",
+        "id": "604:17a",
         "page": 604,
         "line": 17,
         "text": "any other man among all the people.",
@@ -383,7 +383,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "604:17",
+        "id": "604:17b",
         "page": 604,
         "line": 17,
         "text": "And it came to ",
@@ -444,14 +444,7 @@
         "line": 24,
         "text": "on the seashore. And it came to pass that Co",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/604"
-      }
-    ]
-  },
-  {
-    "book": "ether",
-    "chapter": 14,
-    "verse": 13,
-    "lines": [
+      },
       {
         "id": "604:25",
         "page": 604,
@@ -460,7 +453,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/604"
       },
       {
-        "id": "604:26",
+        "id": "604:26a",
         "page": 604,
         "line": 26,
         "text": "upon the seashore.",
@@ -471,27 +464,48 @@
   {
     "book": "ether",
     "chapter": 14,
-    "verse": 14,
+    "verse": 13,
     "lines": [
       {
-        "id": "604:26",
+        "id": "604:26b",
         "page": 604,
         "line": 26,
         "text": "And it came to pass that Lib ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/604"
       },
       {
-        "id": "604:27",
+        "id": "604:27a",
         "page": 604,
         "line": 27,
-        "text": "did smite the army of Coriantumr, that they fled again ",
+        "text": "did smite the army of Coriantumr,",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/604"
+      }
+    ]
+  },
+  {
+    "book": "ether",
+    "chapter": 14,
+    "verse": 14,
+    "lines": [
+      {
+        "id": "604:27b",
+        "page": 604,
+        "line": 27,
+        "text": "that they fled again ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/604"
       },
       {
         "id": "604:28",
         "page": 604,
         "line": 28,
-        "text": "to the wildernes of Akish.",
+        "text": "to the wildernes of Akish. And it came to pass that ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/604"
+      },
+      {
+        "id": "604:29a",
+        "page": 604,
+        "line": 29,
+        "text": "Lib did pursue him until he came to the plains",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/604"
       }
     ]
@@ -502,17 +516,10 @@
     "verse": 15,
     "lines": [
       {
-        "id": "604:28",
-        "page": 604,
-        "line": 28,
-        "text": "And it came to pass that ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/604"
-      },
-      {
-        "id": "604:29",
+        "id": "604:29b",
         "page": 604,
         "line": 29,
-        "text": "Lib did pursue him until he came to the plains of ",
+        "text": "of ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/604"
       },
       {
@@ -530,7 +537,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/604"
       },
       {
-        "id": "604:32",
+        "id": "604:32a",
         "page": 604,
         "line": 32,
         "text": "land whither he fled.",
@@ -544,7 +551,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "604:32",
+        "id": "604:32b",
         "page": 604,
         "line": 32,
         "text": "And when he had come to the ",
@@ -586,7 +593,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/604"
       },
       {
-        "id": "604:38",
+        "id": "604:38a",
         "page": 604,
         "line": 38,
         "text": "brother of Lib.",
@@ -600,7 +607,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "604:38",
+        "id": "604:38b",
         "page": 604,
         "line": 38,
         "text": "Now the name of the brother of Lib ",
@@ -628,10 +635,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/604"
       },
       {
-        "id": "604:42",
+        "id": "604:42a",
         "page": 604,
         "line": 42,
-        "text": "he did burn the cities thereof;",
+        "text": "he did burn the cities",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/604"
       }
     ]
@@ -642,10 +649,10 @@
     "verse": 18,
     "lines": [
       {
-        "id": "604:42",
+        "id": "604:42b",
         "page": 604,
         "line": 42,
-        "text": "and there went a fear ",
+        "text": "thereof; and there went a fear ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/604"
       },
       {
@@ -712,7 +719,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/605"
       },
       {
-        "id": "605:3",
+        "id": "605:3a",
         "page": 605,
         "line": 3,
         "text": "Coriantumr.",
@@ -726,7 +733,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "605:3",
+        "id": "605:3b",
         "page": 605,
         "line": 3,
         "text": "And so great and lasting had been the ",
@@ -747,7 +754,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/605"
       },
       {
-        "id": "605:6",
+        "id": "605:6a",
         "page": 605,
         "line": 6,
         "text": "with the bodies of the dead;",
@@ -761,7 +768,7 @@
     "verse": 22,
     "lines": [
       {
-        "id": "605:6",
+        "id": "605:6b",
         "page": 605,
         "line": 6,
         "text": "and so swift and speedy ",
@@ -831,7 +838,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/605"
       },
       {
-        "id": "605:15",
+        "id": "605:15a",
         "page": 605,
         "line": 15,
         "text": "cause of the scent thereof;",
@@ -845,7 +852,7 @@
     "verse": 24,
     "lines": [
       {
-        "id": "605:15",
+        "id": "605:15b",
         "page": 605,
         "line": 15,
         "text": "nevertheless, Shiz did not ",
@@ -880,7 +887,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/605"
       },
       {
-        "id": "605:20",
+        "id": "605:20a",
         "page": 605,
         "line": 20,
         "text": "by the sword.",
@@ -894,7 +901,7 @@
     "verse": 25,
     "lines": [
       {
-        "id": "605:20",
+        "id": "605:20b",
         "page": 605,
         "line": 20,
         "text": "And thus we see that the Lord did ",
@@ -915,7 +922,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/605"
       },
       {
-        "id": "605:23",
+        "id": "605:23a",
         "page": 605,
         "line": 23,
         "text": "everlasting destruction.",
@@ -929,7 +936,7 @@
     "verse": 26,
     "lines": [
       {
-        "id": "605:23",
+        "id": "605:23b",
         "page": 605,
         "line": 23,
         "text": "And it came to pass that ",
@@ -950,7 +957,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/605"
       },
       {
-        "id": "605:26",
+        "id": "605:26a",
         "page": 605,
         "line": 26,
         "text": "Shiz for the space of three days;",
@@ -964,7 +971,7 @@
     "verse": 27,
     "lines": [
       {
-        "id": "605:26",
+        "id": "605:26b",
         "page": 605,
         "line": 26,
         "text": "and so terrible was ",
@@ -999,7 +1006,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/605"
       },
       {
-        "id": "605:31",
+        "id": "605:31a",
         "page": 605,
         "line": 31,
         "text": "them, all they that would not join them;",
@@ -1013,7 +1020,7 @@
     "verse": 28,
     "lines": [
       {
-        "id": "605:31",
+        "id": "605:31b",
         "page": 605,
         "line": 31,
         "text": "and they ",
@@ -1097,7 +1104,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/605"
       },
       {
-        "id": "605:42",
+        "id": "605:42a",
         "page": 605,
         "line": 42,
         "text": "battle became exceeding sore.",
@@ -1111,7 +1118,7 @@
     "verse": 30,
     "lines": [
       {
-        "id": "605:42",
+        "id": "605:42b",
         "page": 605,
         "line": 42,
         "text": "And it came to pass ",
@@ -1139,7 +1146,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/605"
       },
       {
-        "id": "605:46",
+        "id": "605:46a",
         "page": 605,
         "line": 46,
         "text": "were dead.",
@@ -1153,7 +1160,7 @@
     "verse": 31,
     "lines": [
       {
-        "id": "605:46",
+        "id": "605:46b",
         "page": 605,
         "line": 46,
         "text": "Now the loss of men, women and child",

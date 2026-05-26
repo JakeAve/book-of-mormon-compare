@@ -5,13 +5,6 @@
     "verse": 0,
     "lines": [
       {
-        "id": "524:26",
-        "page": 524,
-        "line": 26,
-        "text": "Ammaron. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/524"
-      },
-      {
         "id": "524:27",
         "page": 524,
         "line": 27,
@@ -124,7 +117,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/525"
       },
       {
-        "id": "525:3",
+        "id": "525:3a",
         "page": 525,
         "line": 3,
         "text": "sacred engravings concerning this people.",
@@ -138,7 +131,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "525:3",
+        "id": "525:3b",
         "page": 525,
         "line": 3,
         "text": "And behold, ye ",
@@ -166,7 +159,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/525"
       },
       {
-        "id": "525:7",
+        "id": "525:7a",
         "page": 525,
         "line": 7,
         "text": "have observed concerning this people.",
@@ -180,7 +173,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "525:7",
+        "id": "525:7b",
         "page": 525,
         "line": 7,
         "text": "And I, Mormon, be",
@@ -201,7 +194,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/525"
       },
       {
-        "id": "525:10",
+        "id": "525:10a",
         "page": 525,
         "line": 10,
         "text": "me.",
@@ -215,7 +208,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "525:10",
+        "id": "525:10b",
         "page": 525,
         "line": 10,
         "text": "And it came to pass that I, being eleven years old, was ",
@@ -229,7 +222,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/525"
       },
       {
-        "id": "525:12",
+        "id": "525:12a",
         "page": 525,
         "line": 12,
         "text": "of Zarahemla:",
@@ -243,7 +236,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "525:12",
+        "id": "525:12b",
         "page": 525,
         "line": 12,
         "text": "the whole face of the land having become cov",
@@ -257,7 +250,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/525"
       },
       {
-        "id": "525:14",
+        "id": "525:14a",
         "page": 525,
         "line": 14,
         "text": "as it were the sand of the sea.",
@@ -271,7 +264,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "525:14",
+        "id": "525:14b",
         "page": 525,
         "line": 14,
         "text": "And it came to pass in this ",
@@ -306,7 +299,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/525"
       },
       {
-        "id": "525:19",
+        "id": "525:19a",
         "page": 525,
         "line": 19,
         "text": "maelites.",
@@ -320,7 +313,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "525:19",
+        "id": "525:19b",
         "page": 525,
         "line": 19,
         "text": "Now the Lamanites, and the Lemuelites, and the ",
@@ -334,7 +327,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/525"
       },
       {
-        "id": "525:21",
+        "id": "525:21a",
         "page": 525,
         "line": 21,
         "text": "Nephites and Lamanites.",
@@ -348,7 +341,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "525:21",
+        "id": "525:21b",
         "page": 525,
         "line": 21,
         "text": "And it came to pass that the war ",
@@ -362,7 +355,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/525"
       },
       {
-        "id": "525:23",
+        "id": "525:23a",
         "page": 525,
         "line": 23,
         "text": "waters of Sidon.",
@@ -376,7 +369,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "525:23",
+        "id": "525:23b",
         "page": 525,
         "line": 23,
         "text": "And it came to pass that the Nephites had ",
@@ -432,17 +425,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/525"
       },
       {
-        "id": "525:30",
+        "id": "525:30a",
         "page": 525,
         "line": 30,
-        "text": "for the space of about four years, that there were no blood",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/525"
-      },
-      {
-        "id": "525:31",
-        "page": 525,
-        "line": 31,
-        "text": "shed.",
+        "text": "for the space of about four years, that there were no",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/525"
       }
     ]
@@ -453,10 +439,17 @@
     "verse": 13,
     "lines": [
       {
+        "id": "525:30b",
+        "page": 525,
+        "line": 30,
+        "text": "blood ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/525"
+      },
+      {
         "id": "525:31",
         "page": 525,
         "line": 31,
-        "text": "But wickedness did prevail upon the face of the whole ",
+        "text": "shed. But wickedness did prevail upon the face of the whole ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/525"
       },
       {
@@ -474,7 +467,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/525"
       },
       {
-        "id": "525:34",
+        "id": "525:34a",
         "page": 525,
         "line": 34,
         "text": "because of the iniquity of the people.",
@@ -488,7 +481,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "525:34",
+        "id": "525:34b",
         "page": 525,
         "line": 34,
         "text": "And there were no ",
@@ -502,7 +495,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/525"
       },
       {
-        "id": "525:36",
+        "id": "525:36a",
         "page": 525,
         "line": 36,
         "text": "any, because of their wickedness and unbelief.",
@@ -516,7 +509,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "525:36",
+        "id": "525:36b",
         "page": 525,
         "line": 36,
         "text": "And I, being ",
@@ -537,7 +530,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/525"
       },
       {
-        "id": "525:39",
+        "id": "525:39a",
         "page": 525,
         "line": 39,
         "text": "the goodness of Jesus.",
@@ -551,7 +544,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "525:39",
+        "id": "525:39b",
         "page": 525,
         "line": 39,
         "text": "And I did endeavor to preach unto ",
@@ -579,7 +572,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/525"
       },
       {
-        "id": "525:43",
+        "id": "525:43a",
         "page": 525,
         "line": 43,
         "text": "away out of the land, because of their iniquity.",
@@ -593,7 +586,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "525:43",
+        "id": "525:43b",
         "page": 525,
         "line": 43,
         "text": "But I did ",
@@ -621,7 +614,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/526"
       },
       {
-        "id": "526:4",
+        "id": "526:4a",
         "page": 526,
         "line": 4,
         "text": "cursed for their sake.",
@@ -635,7 +628,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "526:4",
+        "id": "526:4b",
         "page": 526,
         "line": 4,
         "text": "And these Gaddianton robbers, which ",

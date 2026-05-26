@@ -5,6 +5,14 @@
     "verse": 1,
     "lines": [
       {
+        "id": "391:9",
+        "page": 391,
+        "line": 9,
+        "text": "Chapter And now it came to pass that when Jesus had ended these say",
+        "markdown": "Chapter [] And ~~it~~ now it came to pass that when Jesus had ended these say",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/391"
+      },
+      {
         "id": "391:10",
         "page": 391,
         "line": 10,
@@ -26,11 +34,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/391"
       },
       {
-        "id": "391:13",
+        "id": "391:13a",
         "page": 391,
         "line": 13,
-        "text": "at the last day And it came to pass that when Jesus had said these words he",
-        "markdown": "at the last day And it came to pass that when Jesus had said these words he ~~pese~~",
+        "text": "at the last day",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/391"
       }
     ]
@@ -40,6 +47,14 @@
     "chapter": 15,
     "verse": 2,
     "lines": [
+      {
+        "id": "391:13b",
+        "page": 391,
+        "line": 13,
+        "text": "And it came to pass that when Jesus had said these words he ",
+        "markdown": "And it came to pass that when Jesus had said these words he ~~pese~~ ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/391"
+      },
       {
         "id": "391:14",
         "page": 391,
@@ -55,7 +70,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/391"
       },
       {
-        "id": "391:16",
+        "id": "391:16a",
         "page": 391,
         "line": 16,
         "text": "old things had passed away & that all things had become new",
@@ -69,7 +84,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "391:16",
+        "id": "391:16b",
         "page": 391,
         "line": 16,
         "text": "& he saith ",
@@ -83,7 +98,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/391"
       },
       {
-        "id": "391:18",
+        "id": "391:18a",
         "page": 391,
         "line": 18,
         "text": "wag & that all things had become new",
@@ -97,14 +112,14 @@
     "verse": 4,
     "lines": [
       {
-        "id": "391:18",
+        "id": "391:18b",
         "page": 391,
         "line": 18,
         "text": "behold I say unto you that the law is ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/391"
       },
       {
-        "id": "391:19",
+        "id": "391:19a",
         "page": 391,
         "line": 19,
         "text": "fulfilled that was given unto Moses",
@@ -118,7 +133,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "391:19",
+        "id": "391:19b",
         "page": 391,
         "line": 19,
         "text": "behold I am he that gave the law ",
@@ -132,10 +147,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/391"
       },
       {
-        "id": "391:21",
+        "id": "391:21a",
         "page": 391,
         "line": 21,
-        "text": "is fulfilled for I have come to fulfil the law therefore it hath an end beho",
+        "text": "is fulfilled for I have come to fulfil the law therefore it hath an end",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/391"
       }
     ]
@@ -146,6 +161,13 @@
     "verse": 6,
     "lines": [
       {
+        "id": "391:21b",
+        "page": 391,
+        "line": 21,
+        "text": "beho",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/391"
+      },
+      {
         "id": "391:22",
         "page": 391,
         "line": 22,
@@ -153,7 +175,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/391"
       },
       {
-        "id": "391:23",
+        "id": "391:23a",
         "page": 391,
         "line": 23,
         "text": "verily I say unto you shall all be fulfilled",
@@ -167,7 +189,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "391:23",
+        "id": "391:23b",
         "page": 391,
         "line": 23,
         "text": "& because I said unto you that old ",
@@ -181,7 +203,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/391"
       },
       {
-        "id": "391:25",
+        "id": "391:25a",
         "page": 391,
         "line": 25,
         "text": "things which is to come",
@@ -195,7 +217,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "391:25",
+        "id": "391:25b",
         "page": 391,
         "line": 25,
         "text": "for behold the covenants which I have made with my people ",
@@ -209,7 +231,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/391"
       },
       {
-        "id": "391:27",
+        "id": "391:27a",
         "page": 391,
         "line": 27,
         "text": "me",
@@ -223,14 +245,14 @@
     "verse": 9,
     "lines": [
       {
-        "id": "391:27",
+        "id": "391:27b",
         "page": 391,
         "line": 27,
         "text": "behold I am the law & the light look unto me & endure to the end & ye shall ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/391"
       },
       {
-        "id": "391:28",
+        "id": "391:28a",
         "page": 391,
         "line": 28,
         "text": "live for unto him that endureth to the end will I give Eternal life",
@@ -244,7 +266,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "391:28",
+        "id": "391:28b",
         "page": 391,
         "line": 28,
         "text": "beho",
@@ -258,7 +280,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/391"
       },
       {
-        "id": "391:30",
+        "id": "391:30a",
         "page": 391,
         "line": 30,
         "text": "commandments & this is the law & the prophets for they truly testified of me",
@@ -273,14 +295,14 @@
     "verse": 11,
     "lines": [
       {
-        "id": "391:30",
+        "id": "391:30b",
         "page": 391,
         "line": 30,
         "text": "And now it came to pass that when Jesus had spoken these ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/391"
       },
       {
-        "id": "391:31",
+        "id": "391:31a",
         "page": 391,
         "line": 31,
         "text": "words he said unto those twelve whom he had chosen",
@@ -294,7 +316,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "391:31",
+        "id": "391:31b",
         "page": 391,
         "line": 31,
         "text": "Ye are my ",
@@ -308,7 +330,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/391"
       },
       {
-        "id": "391:33",
+        "id": "391:33a",
         "page": 391,
         "line": 33,
         "text": "the house of Joseph",
@@ -322,7 +344,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "391:33",
+        "id": "391:33b",
         "page": 391,
         "line": 33,
         "text": "& behold this is the land of your inheritance & ",
@@ -330,7 +352,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/391"
       },
       {
-        "id": "391:34",
+        "id": "391:34a",
         "page": 391,
         "line": 34,
         "text": "the Father hath given it unto you",
@@ -344,7 +366,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "391:34",
+        "id": "391:34b",
         "page": 391,
         "line": 34,
         "text": "& not at any time hath the Father giv",
@@ -358,7 +380,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/391"
       },
       {
-        "id": "391:36",
+        "id": "391:36a",
         "page": 391,
         "line": 36,
         "text": "Jerusalem",
@@ -372,7 +394,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "391:36",
+        "id": "391:36b",
         "page": 391,
         "line": 36,
         "text": "neither at any time hath the Father given me commandment ",
@@ -407,7 +429,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/392"
       },
       {
-        "id": "392:2",
+        "id": "392:2a",
         "page": 392,
         "line": 2,
         "text": "them",
@@ -421,7 +443,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "392:2",
+        "id": "392:2b",
         "page": 392,
         "line": 2,
         "text": "that other Sheep I have which are not of this fold them al",
@@ -435,7 +457,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/392"
       },
       {
-        "id": "392:4",
+        "id": "392:4a",
         "page": 392,
         "line": 4,
         "text": "& one shepherd",
@@ -449,7 +471,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "392:4",
+        "id": "392:4b",
         "page": 392,
         "line": 4,
         "text": "& now because of stiffneckedness & unbelief they under",
@@ -463,7 +485,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/392"
       },
       {
-        "id": "392:6",
+        "id": "392:6a",
         "page": 392,
         "line": 6,
         "text": "Father concerning this thing unto them",
@@ -477,7 +499,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "392:6",
+        "id": "392:6b",
         "page": 392,
         "line": 6,
         "text": "but verily I say unto you that the ",
@@ -498,7 +520,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/392"
       },
       {
-        "id": "392:9",
+        "id": "392:9a",
         "page": 392,
         "line": 9,
         "text": "that they know not of you",
@@ -512,7 +534,7 @@
     "verse": 20,
     "lines": [
       {
-        "id": "392:9",
+        "id": "392:9b",
         "page": 392,
         "line": 9,
         "text": "& verily I say unto you again that the other Tribes ha",
@@ -526,7 +548,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/392"
       },
       {
-        "id": "392:11",
+        "id": "392:11a",
         "page": 392,
         "line": 11,
         "text": "know not of them",
@@ -540,7 +562,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "392:11",
+        "id": "392:11b",
         "page": 392,
         "line": 11,
         "text": "& verily I say unto you that ye are they of which I said other ",
@@ -554,7 +576,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/392"
       },
       {
-        "id": "392:13",
+        "id": "392:13a",
         "page": 392,
         "line": 13,
         "text": "shall hear my voice & there shall be one fold & one shepherd",
@@ -568,7 +590,7 @@
     "verse": 22,
     "lines": [
       {
-        "id": "392:13",
+        "id": "392:13b",
         "page": 392,
         "line": 13,
         "text": "& they un",
@@ -589,7 +611,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/392"
       },
       {
-        "id": "392:16",
+        "id": "392:16a",
         "page": 392,
         "line": 16,
         "text": "hing",
@@ -603,7 +625,7 @@
     "verse": 23,
     "lines": [
       {
-        "id": "392:16",
+        "id": "392:16b",
         "page": 392,
         "line": 16,
         "text": "& they understood me not that I said they shall hear my voice & they ",
@@ -641,7 +663,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/392"
       },
       {
-        "id": "392:20",
+        "id": "392:20a",
         "page": 392,
         "line": 20,
         "text": "numbered among them which the Father hath given me",

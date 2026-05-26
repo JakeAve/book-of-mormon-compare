@@ -33,7 +33,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/177"
       },
       {
-        "id": "177:37",
+        "id": "177:37a",
         "page": 177,
         "line": 37,
         "text": "were in the land of Zarahemla;",
@@ -47,7 +47,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "177:37",
+        "id": "177:37b",
         "page": 177,
         "line": 37,
         "text": "and he caused that Ammon ",
@@ -75,7 +75,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/177"
       },
       {
-        "id": "177:41",
+        "id": "177:41a",
         "page": 177,
         "line": 41,
         "text": "himself came up out of the land.",
@@ -89,7 +89,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "177:41",
+        "id": "177:41b",
         "page": 177,
         "line": 41,
         "text": "And he also rehearsed unto ",
@@ -110,7 +110,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/177"
       },
       {
-        "id": "178:1",
+        "id": "178:1a",
         "page": 178,
         "line": 1,
         "text": "might understand all the words which he spake.",
@@ -124,7 +124,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "178:1",
+        "id": "178:1b",
         "page": 178,
         "line": 1,
         "text": "And it came ",
@@ -180,7 +180,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/178"
       },
       {
-        "id": "178:8",
+        "id": "178:8a",
         "page": 178,
         "line": 8,
         "text": "that he might read them.",
@@ -194,7 +194,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "178:8",
+        "id": "178:8b",
         "page": 178,
         "line": 8,
         "text": "Now, as soon as Ammon had read ",
@@ -211,14 +211,7 @@
         "id": "178:10",
         "page": 178,
         "line": 10,
-        "text": "terpret languages. And Ammon told him that he could not. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/178"
-      },
-      {
-        "id": "178:11",
-        "page": 178,
-        "line": 11,
-        "text": "And the king saith unto him, I being grieved for the afflic",
+        "text": "terpret languages. And Ammon told him that he could not.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/178"
       }
     ]
@@ -228,6 +221,13 @@
     "chapter": 8,
     "verse": 7,
     "lines": [
+      {
+        "id": "178:11",
+        "page": 178,
+        "line": 11,
+        "text": "And the king saith unto him, I being grieved for the afflic",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/178"
+      },
       {
         "id": "178:12",
         "page": 178,
@@ -250,7 +250,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/178"
       },
       {
-        "id": "178:15",
+        "id": "178:15a",
         "page": 178,
         "line": 15,
         "text": "unto our brethren to deliver us out of bondage;",
@@ -264,7 +264,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "178:15",
+        "id": "178:15b",
         "page": 178,
         "line": 15,
         "text": "and they ",
@@ -320,7 +320,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/178"
       },
       {
-        "id": "178:23",
+        "id": "178:23a",
         "page": 178,
         "line": 23,
         "text": "rous as the hosts of Israel.",
@@ -334,7 +334,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "178:23",
+        "id": "178:23b",
         "page": 178,
         "line": 23,
         "text": "And for a testimony that the ",
@@ -355,7 +355,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/178"
       },
       {
-        "id": "178:26",
+        "id": "178:26a",
         "page": 178,
         "line": 26,
         "text": "pure gold.",
@@ -369,7 +369,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "178:26",
+        "id": "178:26b",
         "page": 178,
         "line": 26,
         "text": "And behold, also, they have brought breast-plates, ",
@@ -383,7 +383,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/178"
       },
       {
-        "id": "178:28",
+        "id": "178:28a",
         "page": 178,
         "line": 28,
         "text": "are perfectly sound.",
@@ -397,7 +397,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "178:28",
+        "id": "178:28b",
         "page": 178,
         "line": 28,
         "text": "And again: They have brought swords, ",
@@ -425,7 +425,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/178"
       },
       {
-        "id": "178:32",
+        "id": "178:32a",
         "page": 178,
         "line": 32,
         "text": "plates. Therefore, I said unto thee, Canst thou translate?",
@@ -439,7 +439,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "178:32",
+        "id": "178:32b",
         "page": 178,
         "line": 32,
         "text": "And ",
@@ -551,7 +551,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/179"
       },
       {
-        "id": "179:4",
+        "id": "179:4a",
         "page": 179,
         "line": 4,
         "text": "in them, the same is called seer.",
@@ -565,7 +565,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "179:4",
+        "id": "179:4b",
         "page": 179,
         "line": 4,
         "text": "And behold, the king of the ",
@@ -586,7 +586,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/179"
       },
       {
-        "id": "179:7",
+        "id": "179:7a",
         "page": 179,
         "line": 7,
         "text": "from God.",
@@ -600,14 +600,14 @@
     "verse": 15,
     "lines": [
       {
-        "id": "179:7",
+        "id": "179:7b",
         "page": 179,
         "line": 7,
         "text": "And the king saith, That a seer is greater than a ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/179"
       },
       {
-        "id": "179:8",
+        "id": "179:8a",
         "page": 179,
         "line": 8,
         "text": "prophet.",
@@ -621,7 +621,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "179:8",
+        "id": "179:8b",
         "page": 179,
         "line": 8,
         "text": "And Ammon saith, That a seer is a revelator, and a ",
@@ -642,7 +642,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/179"
       },
       {
-        "id": "179:11",
+        "id": "179:11a",
         "page": 179,
         "line": 11,
         "text": "yet a man may have great power given him from God.",
@@ -656,7 +656,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "179:11",
+        "id": "179:11b",
         "page": 179,
         "line": 11,
         "text": "But a ",
@@ -698,7 +698,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/179"
       },
       {
-        "id": "179:17",
+        "id": "179:17a",
         "page": 179,
         "line": 17,
         "text": "by them, which otherwise could not be known.",
@@ -712,7 +712,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "179:17",
+        "id": "179:17b",
         "page": 179,
         "line": 17,
         "text": "Thus God hath ",
@@ -782,7 +782,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/179"
       },
       {
-        "id": "179:26",
+        "id": "179:26a",
         "page": 179,
         "line": 26,
         "text": "men.",
@@ -796,7 +796,7 @@
     "verse": 20,
     "lines": [
       {
-        "id": "179:26",
+        "id": "179:26b",
         "page": 179,
         "line": 26,
         "text": "O how marvellous are the works of the Lord, and how ",
@@ -824,7 +824,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/179"
       },
       {
-        "id": "179:30",
+        "id": "179:30a",
         "page": 179,
         "line": 30,
         "text": "should rule over them.",
@@ -838,7 +838,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "179:30",
+        "id": "179:30b",
         "page": 179,
         "line": 30,
         "text": "Yea, they are as a wild flock, which ",
@@ -855,14 +855,7 @@
         "id": "179:32",
         "page": 179,
         "line": 32,
-        "text": "are devoured by the beasts of the forest. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/179"
-      },
-      {
-        "id": "179:33",
-        "page": 179,
-        "line": 33,
-        "text": "CHAPTER VI.",
+        "text": "are devoured by the beasts of the forest.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/179"
       }
     ]

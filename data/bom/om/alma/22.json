@@ -2,29 +2,22 @@
   {
     "book": "alma",
     "chapter": 22,
-    "verse": 20,
-    "lines": [
-      {
-        "id": "91:1",
-        "page": 91,
-        "line": 1,
-        "text": "disterbence",
-        "markdown": "{{disterbence",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/91"
-      }
-    ]
-  },
-  {
-    "book": "alma",
-    "chapter": 22,
     "verse": 22,
     "lines": [
       {
+        "id": "90:1e",
+        "page": 90,
+        "line": 1,
+        "text": "will ",
+        "markdown": "will}} ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/90"
+      },
+      {
         "id": "91:1",
         "page": 91,
         "line": 1,
-        "text": "among them therefore he put forth his hand & raised the king ",
-        "markdown": "amon}}g {{them therefore he put forth his hand & raised the king}} ",
+        "text": "disterbence among them therefore he put forth his hand & raised the king ",
+        "markdown": "{{disterbence amon}}g {{them therefore he put forth his hand & raised the king}} ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/91"
       },
       {
@@ -36,7 +29,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/91"
       },
       {
-        "id": "91:3",
+        "id": "91:3a",
         "page": 91,
         "line": 3,
         "text": "ing his strength",
@@ -50,7 +43,7 @@
     "verse": 23,
     "lines": [
       {
-        "id": "91:3",
+        "id": "91:3b",
         "page": 91,
         "line": 3,
         "text": "now this was done in the presance of the queen & many ",
@@ -74,7 +67,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/91"
       },
       {
-        "id": "91:6",
+        "id": "91:6a",
         "page": 91,
         "line": 6,
         "text": "somuch that his whole household were converted unto the lord",
@@ -89,7 +82,7 @@
     "verse": 24,
     "lines": [
       {
-        "id": "91:6",
+        "id": "91:6b",
         "page": 91,
         "line": 6,
         "text": "now there was a mu",
@@ -105,7 +98,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/91"
       },
       {
-        "id": "91:8",
+        "id": "91:8a",
         "page": 91,
         "line": 8,
         "text": "to be great murmurings among them because of Aaron & his",
@@ -120,7 +113,7 @@
     "verse": 25,
     "lines": [
       {
-        "id": "91:8",
+        "id": "91:8b",
         "page": 91,
         "line": 8,
         "text": "brethren but theking stood forth among them & administered unto them & it came ",
@@ -136,7 +129,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/91"
       },
       {
-        "id": "91:10",
+        "id": "91:10a",
         "page": 91,
         "line": 10,
         "text": "him",
@@ -150,7 +143,7 @@
     "verse": 26,
     "lines": [
       {
-        "id": "91:10",
+        "id": "91:10b",
         "page": 91,
         "line": 10,
         "text": "& it came to pass that when the king saw that the people were pacified ",
@@ -166,7 +159,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/91"
       },
       {
-        "id": "91:12",
+        "id": "91:12a",
         "page": 91,
         "line": 12,
         "text": "the multitude & that they should preach the word unto them",
@@ -181,7 +174,7 @@
     "verse": 27,
     "lines": [
       {
-        "id": "91:12",
+        "id": "91:12b",
         "page": 91,
         "line": 12,
         "text": "& it came to pass ",
@@ -221,7 +214,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/91"
       },
       {
-        "id": "91:17",
+        "id": "91:17a",
         "page": 91,
         "line": 17,
         "text": "of wilderness which ran from the sea east even to the sea west",
@@ -236,7 +229,7 @@
     "verse": 28,
     "lines": [
       {
-        "id": "91:17",
+        "id": "91:17b",
         "page": 91,
         "line": 17,
         "text": "& ",
@@ -252,7 +245,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/92"
       },
       {
-        "id": "92:2",
+        "id": "92:2a",
         "page": 92,
         "line": 2,
         "text": "ders by the Sea shore & on the west in the land of Nephi",
@@ -267,7 +260,7 @@
     "verse": 29,
     "lines": [
       {
-        "id": "92:2",
+        "id": "92:2b",
         "page": 92,
         "line": 2,
         "text": "in the place",
@@ -290,7 +283,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/92"
       },
       {
-        "id": "92:4",
+        "id": "92:4a",
         "page": 92,
         "line": 4,
         "text": "landing",
@@ -305,7 +298,7 @@
     "verse": 31,
     "lines": [
       {
-        "id": "92:4",
+        "id": "92:4b",
         "page": 92,
         "line": 4,
         "text": "& they came from there up into the south wilderness thus ",
@@ -337,7 +330,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/92"
       },
       {
-        "id": "92:8",
+        "id": "92:8a",
         "page": 92,
         "line": 8,
         "text": "had come from the land Northward for food",
@@ -352,7 +345,7 @@
     "verse": 32,
     "lines": [
       {
-        "id": "92:8",
+        "id": "92:8b",
         "page": 92,
         "line": 8,
         "text": "& now it was only the ",
@@ -389,6 +382,14 @@
         "text": "ng a small neck of land between the land Northward & the land Sou",
         "markdown": "{{ng a small neck of land between the land}} Northward & the land Sou",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/92"
+      },
+      {
+        "id": "92:13a",
+        "page": 92,
+        "line": 13,
+        "text": "thward",
+        "markdown": "{{thward",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/92"
       }
     ]
   },
@@ -398,11 +399,11 @@
     "verse": 33,
     "lines": [
       {
-        "id": "92:13",
+        "id": "92:13b",
         "page": 92,
         "line": 13,
-        "text": "thward & it came to pass that the Nephites had inhabited the land bunti",
-        "markdown": "{{thward & it came to pass that the Nephites ha}}d {{i}}nhabited the land bunti",
+        "text": "& it came to pass that the Nephites had inhabited the land bunti",
+        "markdown": "& it came to pass that the Nephites ha}}d {{i}}nhabited the land bunti",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/92"
       },
       {
@@ -430,7 +431,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/92"
       },
       {
-        "id": "92:17",
+        "id": "92:17a",
         "page": 92,
         "line": 17,
         "text": "north that they might not overrun the land northward",
@@ -445,7 +446,7 @@
     "verse": 34,
     "lines": [
       {
-        "id": "92:17",
+        "id": "92:17b",
         "page": 92,
         "line": 17,
         "text": "therefore the ",
@@ -460,11 +461,11 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/92"
       },
       {
-        "id": "92:19",
+        "id": "92:19a",
         "page": 92,
         "line": 19,
-        "text": "& the wilderness round about now this was wisdom in the Nephites as the",
-        "markdown": "{{& the wilderness round about now this was wisdom in the Nephites a}}s the",
+        "text": "& the wilderness round about now this was wisdom in the Nephites",
+        "markdown": "{{& the wilderness round about now this was wisdom in the Nephites",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/92"
       }
     ]
@@ -475,27 +476,19 @@
     "verse": 35,
     "lines": [
       {
+        "id": "92:19b",
+        "page": 92,
+        "line": 19,
+        "text": "as the ",
+        "markdown": "a}}s the ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/92"
+      },
+      {
         "id": "93:1",
         "page": 93,
         "line": 1,
-        "text": "of Ammon & Aaron Omner & Himni & there brethren ",
-        "markdown": "{{ of A}}mmon & Aaron Omner & Hi{{mni & there brethren }} ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/93"
-      },
-      {
-        "id": "93:2",
-        "page": 93,
-        "line": 2,
-        "text": "Chapter ",
-        "markdown": "{{}} Ch{{a}}pter {{}} ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/93"
-      },
-      {
-        "id": "93:3",
-        "page": 93,
-        "line": 3,
-        "text": "Behold now it came to pass that the king of the Lamanites sent a proclama",
-        "markdown": "{{Be}}hold now it came to pass that the {{king of the Lamanites sent a proclama}}",
+        "text": "of Ammon & Aaron Omner & Himni & there brethren",
+        "markdown": "{{ of A}}mmon & Aaron Omner & Hi{{mni & there brethren }}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/93"
       }
     ]

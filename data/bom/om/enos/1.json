@@ -5,7 +5,7 @@
     "verse": 0,
     "lines": [
       {
-        "id": "75:15",
+        "id": "75:15a",
         "page": 75,
         "line": 15,
         "text": "The Book of Enos Chapter",
@@ -20,7 +20,7 @@
     "verse": 1,
     "lines": [
       {
-        "id": "75:15",
+        "id": "75:15b",
         "page": 75,
         "line": 15,
         "text": "first ",
@@ -28,40 +28,11 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/75"
       },
       {
-        "id": "75:16",
+        "id": "75:16a",
         "page": 75,
         "line": 16,
-        "text": "Behold it came to pass that I Enos knowing my father",
-        "markdown": "{{Behold it came to pass that I Enos}} knowing my father",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/75"
-      }
-    ]
-  },
-  {
-    "book": "enos",
-    "chapter": 1,
-    "verse": 2,
-    "lines": [
-      {
-        "id": "75:16",
-        "page": 75,
-        "line": 16,
-        "text": "that",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/75"
-      }
-    ]
-  },
-  {
-    "book": "enos",
-    "chapter": 1,
-    "verse": 3,
-    "lines": [
-      {
-        "id": "75:16",
-        "page": 75,
-        "line": 16,
-        "text": "he was a",
-        "markdown": "he {{was a}}",
+        "text": "Behold it came to pass that I Enos knowing my father that he was",
+        "markdown": "{{Behold it came to pass that I Enos}} knowing my father that he {{was",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/75"
       }
     ]
@@ -72,11 +43,19 @@
     "verse": 9,
     "lines": [
       {
-        "id": "76:1",
+        "id": "75:16b",
+        "page": 75,
+        "line": 16,
+        "text": "a",
+        "markdown": "a}}",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/75"
+      },
+      {
+        "id": "76:1a",
         "page": 76,
         "line": 1,
-        "text": "these words I began to feel a desire for the wellfare of my Brethrenthe Nephites wherefore I did pour out my whole soul unto God for them&",
-        "markdown": "these words I began to feel a desire for {{the wellfare of my Brethrenthe}} Nephites wherefore I did pour out my whole {{soul unto God for them&",
+        "text": "these words I began to feel a desire for the wellfare of my Brethrenthe Nephites wherefore I did pour out my whole soul unto God for",
+        "markdown": "these words I began to feel a desire for {{the wellfare of my Brethrenthe}} Nephites wherefore I did pour out my whole {{soul unto God for",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/76"
       }
     ]
@@ -87,11 +66,11 @@
     "verse": 10,
     "lines": [
       {
-        "id": "76:1",
+        "id": "76:1b",
         "page": 76,
         "line": 1,
-        "text": "while I was thus struggleing in the spirit behold the voice of the Lord ca",
-        "markdown": "while I was}} thus struggleing in the spirit b{{e}}h{{old the voice of the Lord ca}}",
+        "text": "them& while I was thus struggleing in the spirit behold the voice of the Lord ca",
+        "markdown": "them& while I was}} thus struggleing in the spirit b{{e}}h{{old the voice of the Lord ca}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/76"
       },
       {
@@ -119,7 +98,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/76"
       },
       {
-        "id": "76:5",
+        "id": "76:5a",
         "page": 76,
         "line": 5,
         "text": "ity wherefore I will visit thy Brethren according as I have said & theirtransgressions will I bring down with sorrow upon their own heads",
@@ -134,7 +113,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "76:5",
+        "id": "76:5b",
         "page": 76,
         "line": 5,
         "text": "& after ",
@@ -150,7 +129,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/76"
       },
       {
-        "id": "76:7",
+        "id": "76:7a",
         "page": 76,
         "line": 7,
         "text": "& I prayed unto him with many long struggleings for my Brethren the Lamanites",
@@ -165,7 +144,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "76:7",
+        "id": "76:7b",
         "page": 76,
         "line": 7,
         "text": "& ",
@@ -189,7 +168,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/76"
       },
       {
-        "id": "76:10",
+        "id": "76:10a",
         "page": 76,
         "line": 10,
         "text": "cause of thy faith",
@@ -203,7 +182,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "76:10",
+        "id": "76:10b",
         "page": 76,
         "line": 10,
         "text": "& now behold this was the desire which I desired of him",
@@ -251,7 +230,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/76"
       },
       {
-        "id": "76:16",
+        "id": "76:16a",
         "page": 76,
         "line": 16,
         "text": "brought unto Salvation",
@@ -265,7 +244,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "76:16",
+        "id": "76:16b",
         "page": 76,
         "line": 16,
         "text": "for at the presant our struggleings were vain in ",
@@ -276,23 +255,8 @@
         "id": "76:17",
         "page": 76,
         "line": 17,
-        "text": "restoreing them to the true faith & they swore in their wrath that ifit were possible they would destroy our records & us & also all",
-        "markdown": "restoreing them to the true faith {{& they swore in their wrath that ifit were p}}ossible they would destroy our {{records & us & also all",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/76"
-      }
-    ]
-  },
-  {
-    "book": "enos",
-    "chapter": 1,
-    "verse": 16,
-    "lines": [
-      {
-        "id": "76:17",
-        "page": 76,
-        "line": 17,
-        "text": "the traditions",
-        "markdown": "the traditions}}",
+        "text": "restoreing them to the true faith & they swore in their wrath that ifit were possible they would destroy our records & us & also all the traditions",
+        "markdown": "restoreing them to the true faith {{& they swore in their wrath that ifit were p}}ossible they would destroy our {{records & us & also all the traditions}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/76"
       }
     ]

@@ -33,19 +33,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/348"
       },
       {
-        "id": "348:31",
+        "id": "348:31a",
         "page": 348,
         "line": 31,
-        "text": "nite prophesies unto the Nephites—— ",
-        "markdown": "nite prophesies unto the Nephites—— Behold now it came ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/348"
-      },
-      {
-        "id": "348:31",
-        "page": 348,
-        "line": 31,
-        "text": "Behold now it came",
-        "markdown": "nite prophesies unto the Nephites—— Behold now it came",
+        "text": "nite prophesies unto the Nephites——",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/348"
       }
     ]
@@ -55,6 +46,13 @@
     "chapter": 7,
     "verse": 1,
     "lines": [
+      {
+        "id": "348:31b",
+        "page": 348,
+        "line": 31,
+        "text": "Behold now it came ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/348"
+      },
       {
         "id": "348:32",
         "page": 348,
@@ -71,7 +69,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/348"
       },
       {
-        "id": "348:34",
+        "id": "348:34a",
         "page": 348,
         "line": 34,
         "text": "Northward",
@@ -85,7 +83,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "348:34",
+        "id": "348:34b",
         "page": 348,
         "line": 34,
         "text": "for he had been forth among the people which was in the land Northwa",
@@ -99,7 +97,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/348"
       },
       {
-        "id": "348:36",
+        "id": "348:36a",
         "page": 348,
         "line": 36,
         "text": "them",
@@ -113,14 +111,14 @@
     "verse": 3,
     "lines": [
       {
-        "id": "348:36",
+        "id": "348:36b",
         "page": 348,
         "line": 36,
         "text": "& they did reject all his words insomuch that he could not stay amo",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/348"
       },
       {
-        "id": "348:37",
+        "id": "348:37a",
         "page": 348,
         "line": 37,
         "text": "ng them but returned again unto the land of his nativity",
@@ -134,7 +132,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "348:37",
+        "id": "348:37b",
         "page": 348,
         "line": 37,
         "text": "& seeing the people in a ",
@@ -162,7 +160,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/349"
       },
       {
-        "id": "349:2",
+        "id": "349:2a",
         "page": 349,
         "line": 2,
         "text": "tice unto the children of men",
@@ -176,7 +174,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "349:2",
+        "id": "349:2b",
         "page": 349,
         "line": 2,
         "text": "condemning the righteous because of their righteou",
@@ -204,7 +202,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/349"
       },
       {
-        "id": "349:6",
+        "id": "349:6a",
         "page": 349,
         "line": 6,
         "text": "ht more easy commit adultry & steal & kill & do according to their own wills",
@@ -218,7 +216,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "349:6",
+        "id": "349:6b",
         "page": 349,
         "line": 6,
         "text": "now this ",
@@ -239,7 +237,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/349"
       },
       {
-        "id": "349:9",
+        "id": "349:9a",
         "page": 349,
         "line": 9,
         "text": "the agony of his soul",
@@ -253,7 +251,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "349:9",
+        "id": "349:9b",
         "page": 349,
         "line": 9,
         "text": "O that I could have had my days in the days when my father ",
@@ -282,7 +280,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/349"
       },
       {
-        "id": "349:13",
+        "id": "349:13a",
         "page": 349,
         "line": 13,
         "text": "en unto the words of the Lord",
@@ -296,7 +294,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "349:13",
+        "id": "349:13b",
         "page": 349,
         "line": 13,
         "text": "yea if my days could have been in them days then would ",
@@ -304,7 +302,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/349"
       },
       {
-        "id": "349:14",
+        "id": "349:14a",
         "page": 349,
         "line": 14,
         "text": "my soul have had joy in the righteousness of my brethren",
@@ -318,7 +316,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "349:14",
+        "id": "349:14b",
         "page": 349,
         "line": 14,
         "text": "but behold I am consign",
@@ -333,7 +331,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/349"
       },
       {
-        "id": "349:16",
+        "id": "349:16a",
         "page": 349,
         "line": 16,
         "text": "this the wickedness of my brethren",
@@ -347,7 +345,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "349:16",
+        "id": "349:16b",
         "page": 349,
         "line": 16,
         "text": "& behold now it came to pass that it was upon a Tower ",
@@ -376,7 +374,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/349"
       },
       {
-        "id": "349:20",
+        "id": "349:20a",
         "page": 349,
         "line": 20,
         "text": "which led by the haghway",
@@ -390,7 +388,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "349:20",
+        "id": "349:20b",
         "page": 349,
         "line": 20,
         "text": "& it came to pass that there was sertain men passing by ",
@@ -411,7 +409,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/349"
       },
       {
-        "id": "349:23",
+        "id": "349:23a",
         "page": 349,
         "line": 23,
         "text": "they might know the cause of so great mourning for the wickedness of the people",
@@ -425,7 +423,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "349:23",
+        "id": "349:23b",
         "page": 349,
         "line": 23,
         "text": "& ",
@@ -440,7 +438,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/349"
       },
       {
-        "id": "349:25",
+        "id": "349:25a",
         "page": 349,
         "line": 25,
         "text": "ther",
@@ -454,7 +452,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "349:25",
+        "id": "349:25b",
         "page": 349,
         "line": 25,
         "text": "& it came to pass that he opened his mouth & said unto them Behold why have ",
@@ -462,7 +460,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/349"
       },
       {
-        "id": "349:26",
+        "id": "349:26a",
         "page": 349,
         "line": 26,
         "text": "ye gathered yourselves together that I may tell you of your iniquities",
@@ -476,7 +474,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "349:26",
+        "id": "349:26b",
         "page": 349,
         "line": 26,
         "text": "yea because I have ",
@@ -490,7 +488,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/349"
       },
       {
-        "id": "349:28",
+        "id": "349:28a",
         "page": 349,
         "line": 28,
         "text": "ceding sorrow of my heart which is because of your iniquities",
@@ -504,7 +502,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "349:28",
+        "id": "349:28b",
         "page": 349,
         "line": 28,
         "text": "& becaus of my mourn",
@@ -525,7 +523,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/349"
       },
       {
-        "id": "349:31",
+        "id": "349:31a",
         "page": 349,
         "line": 31,
         "text": "vil hath got so great hold upon your hearts",
@@ -539,7 +537,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "349:31",
+        "id": "349:31b",
         "page": 349,
         "line": 31,
         "text": "yea how could ye have given away to ",
@@ -553,7 +551,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/349"
       },
       {
-        "id": "349:33",
+        "id": "349:33a",
         "page": 349,
         "line": 33,
         "text": "ing miseary & endless wo",
@@ -567,7 +565,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "349:33",
+        "id": "349:33b",
         "page": 349,
         "line": 33,
         "text": "O repent ye repent ye why will ye die turn ye turn ye ",
@@ -575,7 +573,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/349"
       },
       {
-        "id": "349:34",
+        "id": "349:34a",
         "page": 349,
         "line": 34,
         "text": "unto the Lord your God why hath he forsaken you",
@@ -589,7 +587,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "349:34",
+        "id": "349:34b",
         "page": 349,
         "line": 34,
         "text": "it is because you have ha",
@@ -603,7 +601,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/349"
       },
       {
-        "id": "349:36",
+        "id": "349:36a",
         "page": 349,
         "line": 36,
         "text": "yea ye have provoked him to anger against you",
@@ -617,7 +615,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "349:36",
+        "id": "349:36b",
         "page": 349,
         "line": 36,
         "text": "& behold instead of gathering you ",
@@ -631,7 +629,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/349"
       },
       {
-        "id": "349:38",
+        "id": "349:38a",
         "page": 349,
         "line": 38,
         "text": "meat for dogs & wild beasts",
@@ -645,14 +643,14 @@
     "verse": 20,
     "lines": [
       {
-        "id": "349:38",
+        "id": "349:38b",
         "page": 349,
         "line": 38,
         "text": "O how could you have forgotten your God in the verry ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/349"
       },
       {
-        "id": "349:39",
+        "id": "349:39a",
         "page": 349,
         "line": 39,
         "text": "day that he hath delivered you",
@@ -666,7 +664,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "349:39",
+        "id": "349:39b",
         "page": 349,
         "line": 39,
         "text": "but behold it is to get gain to be praised of ",
@@ -687,7 +685,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/350"
       },
       {
-        "id": "350:3",
+        "id": "350:3a",
         "page": 350,
         "line": 3,
         "text": "& bear fals witness against your neighbor & do all manner of iniquity",
@@ -701,7 +699,7 @@
     "verse": 22,
     "lines": [
       {
-        "id": "350:3",
+        "id": "350:3b",
         "page": 350,
         "line": 3,
         "text": "& for this ",
@@ -737,7 +735,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/350"
       },
       {
-        "id": "350:8",
+        "id": "350:8a",
         "page": 350,
         "line": 8,
         "text": "to withstand against your enemies",
@@ -751,7 +749,7 @@
     "verse": 23,
     "lines": [
       {
-        "id": "350:8",
+        "id": "350:8b",
         "page": 350,
         "line": 8,
         "text": "for behold thus saith the Lord I will not shew un",
@@ -781,7 +779,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/350"
       },
       {
-        "id": "350:12",
+        "id": "350:12a",
         "page": 350,
         "line": 12,
         "text": "repent",
@@ -795,7 +793,7 @@
     "verse": 24,
     "lines": [
       {
-        "id": "350:12",
+        "id": "350:12b",
         "page": 350,
         "line": 12,
         "text": "for behold they are more righteous than you for they have not sined against ",
@@ -816,7 +814,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/350"
       },
       {
-        "id": "350:15",
+        "id": "350:15a",
         "page": 350,
         "line": 15,
         "text": "thou shalt be utterly destroyed except thou shalt repent",
@@ -830,7 +828,7 @@
     "verse": 25,
     "lines": [
       {
-        "id": "350:15",
+        "id": "350:15b",
         "page": 350,
         "line": 15,
         "text": "yea wo be unto you ",
@@ -873,7 +871,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/350"
       },
       {
-        "id": "350:20",
+        "id": "350:20a",
         "page": 350,
         "line": 20,
         "text": "ceding great riches",
@@ -887,7 +885,7 @@
     "verse": 27,
     "lines": [
       {
-        "id": "350:20",
+        "id": "350:20b",
         "page": 350,
         "line": 20,
         "text": "yea wo be unto you because of your wickedness & abominations",
@@ -908,10 +906,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/350"
       },
       {
-        "id": "350:22",
+        "id": "350:22a",
         "page": 350,
         "line": 22,
-        "text": "shall be destroyed from off the face of the",
+        "text": "shall be destroyed from off the face of the earth",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/350"
       }
     ]
@@ -922,10 +920,10 @@
     "verse": 29,
     "lines": [
       {
-        "id": "350:22",
+        "id": "350:22b",
         "page": 350,
         "line": 22,
-        "text": "earth behold I do not say these things shall ",
+        "text": "behold I do not say these things shall ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/350"
       },
       {
@@ -944,7 +942,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/350"
       },
       {
-        "id": "350:25",
+        "id": "350:25a",
         "page": 350,
         "line": 25,
         "text": "that they shall be",

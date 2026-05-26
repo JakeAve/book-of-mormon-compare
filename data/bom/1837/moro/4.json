@@ -5,6 +5,13 @@
     "verse": 1,
     "lines": [
       {
+        "id": "610:15",
+        "page": 610,
+        "line": 15,
+        "text": "CHAPTER IV. ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/610"
+      },
+      {
         "id": "610:16",
         "page": 610,
         "line": 16,
@@ -33,7 +40,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/610"
       },
       {
-        "id": "610:20",
+        "id": "610:20a",
         "page": 610,
         "line": 20,
         "text": "be true; and the elder or priest did minister it.",
@@ -47,7 +54,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "610:20",
+        "id": "610:20b",
         "page": 610,
         "line": 20,
         "text": "And ",
@@ -61,7 +68,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/610"
       },
       {
-        "id": "610:22",
+        "id": "610:22a",
         "page": 610,
         "line": 22,
         "text": "Father in the name of Christ, saying,",
@@ -75,7 +82,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "610:22",
+        "id": "610:22b",
         "page": 610,
         "line": 22,
         "text": "O God, the ",

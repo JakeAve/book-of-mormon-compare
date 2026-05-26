@@ -40,10 +40,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/461"
       },
       {
-        "id": "461:18",
+        "id": "461:18a",
         "page": 461,
         "line": 18,
-        "text": "and began to disbelieve all which they had heard and seen, ima",
+        "text": "and began to disbelieve all which they had heard and seen,",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/461"
       }
     ]
@@ -53,6 +53,13 @@
     "chapter": 2,
     "verse": 2,
     "lines": [
+      {
+        "id": "461:18b",
+        "page": 461,
+        "line": 18,
+        "text": "ima",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/461"
+      },
       {
         "id": "461:19",
         "page": 461,
@@ -138,7 +145,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/461"
       },
       {
-        "id": "461:30",
+        "id": "461:30a",
         "page": 461,
         "line": 30,
         "text": "in the land.",
@@ -152,7 +159,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "461:30",
+        "id": "461:30b",
         "page": 461,
         "line": 30,
         "text": "And thus did pass away the ninety and sixth year; ",
@@ -166,7 +173,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/461"
       },
       {
-        "id": "461:32",
+        "id": "461:32a",
         "page": 461,
         "line": 32,
         "text": "eighth year; and also the ninety and ninth year;",
@@ -180,7 +187,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "461:32",
+        "id": "461:32b",
         "page": 461,
         "line": 32,
         "text": "and also an ",
@@ -194,7 +201,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/461"
       },
       {
-        "id": "461:34",
+        "id": "461:34a",
         "page": 461,
         "line": 34,
         "text": "which was king over the people of the Nephites.",
@@ -208,7 +215,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "461:34",
+        "id": "461:34b",
         "page": 461,
         "line": 34,
         "text": "And six ",
@@ -222,10 +229,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/461"
       },
       {
-        "id": "461:36",
+        "id": "461:36a",
         "page": 461,
         "line": 36,
-        "text": "rusalem; and nine years had passed away, from the time",
+        "text": "rusalem;",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/461"
       }
     ]
@@ -236,6 +243,13 @@
     "verse": 7,
     "lines": [
       {
+        "id": "461:36b",
+        "page": 461,
+        "line": 36,
+        "text": "and nine years had passed away, from the time ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/461"
+      },
+      {
         "id": "461:37",
         "page": 461,
         "line": 37,
@@ -243,7 +257,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/461"
       },
       {
-        "id": "461:38",
+        "id": "461:38a",
         "page": 461,
         "line": 38,
         "text": "ets, that Christ should come into the world.",
@@ -257,7 +271,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "461:38",
+        "id": "461:38b",
         "page": 461,
         "line": 38,
         "text": "Now the Ne",
@@ -278,7 +292,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/461"
       },
       {
-        "id": "461:41",
+        "id": "461:41a",
         "page": 461,
         "line": 41,
         "text": "years had passed away,",
@@ -292,7 +306,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "461:41",
+        "id": "461:41b",
         "page": 461,
         "line": 41,
         "text": "and Nephi, which was the father of ",
@@ -404,7 +418,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/462"
       },
       {
-        "id": "462:13",
+        "id": "462:13a",
         "page": 462,
         "line": 13,
         "text": "manites, should take up arms against them;",
@@ -418,7 +432,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "462:13",
+        "id": "462:13b",
         "page": 462,
         "line": 13,
         "text": "therefore all the ",
@@ -460,17 +474,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/462"
       },
       {
-        "id": "462:19",
+        "id": "462:19a",
         "page": 462,
         "line": 19,
-        "text": "church, and of their worship, and their freedom, and their lib",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/462"
-      },
-      {
-        "id": "462:20",
-        "page": 462,
-        "line": 20,
-        "text": "erty.",
+        "text": "church, and of their worship, and their freedom, and their",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/462"
       }
     ]
@@ -481,10 +488,17 @@
     "verse": 13,
     "lines": [
       {
+        "id": "462:19b",
+        "page": 462,
+        "line": 19,
+        "text": "lib ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/462"
+      },
+      {
         "id": "462:20",
         "page": 462,
         "line": 20,
-        "text": "And it came to pass that before this thirteenth year had ",
+        "text": "erty. And it came to pass that before this thirteenth year had ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/462"
       },
       {
@@ -502,7 +516,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/462"
       },
       {
-        "id": "462:23",
+        "id": "462:23a",
         "page": 462,
         "line": 23,
         "text": "sore.",
@@ -516,7 +530,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "462:23",
+        "id": "462:23b",
         "page": 462,
         "line": 23,
         "text": "And it came to pass that those Lamanites which had ",
@@ -544,7 +558,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/462"
       },
       {
-        "id": "462:26",
+        "id": "462:26a",
         "page": 462,
         "line": 26,
         "text": "white like unto the Nephites;",
@@ -558,7 +572,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "462:26",
+        "id": "462:26b",
         "page": 462,
         "line": 26,
         "text": "and their young men and their ",
@@ -628,7 +642,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/462"
       },
       {
-        "id": "462:35",
+        "id": "462:35a",
         "page": 462,
         "line": 35,
         "text": "the mountains, and into their secret places.",
@@ -642,7 +656,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "462:35",
+        "id": "462:35b",
         "page": 462,
         "line": 35,
         "text": "And thus ended ",
@@ -677,7 +691,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/462"
       },
       {
-        "id": "462:40",
+        "id": "462:40a",
         "page": 462,
         "line": 40,
         "text": "tages over them.",
@@ -691,7 +705,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "462:40",
+        "id": "462:40b",
         "page": 462,
         "line": 40,
         "text": "And thus ended the fifteenth year; and thus ",
@@ -715,15 +729,8 @@
         "id": "462:43",
         "page": 462,
         "line": 43,
-        "text": "about to be smitten down by it, and this because of their iniquity. ",
+        "text": "about to be smitten down by it, and this because of their iniquity.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/462"
-      },
-      {
-        "id": "463:1",
-        "page": 463,
-        "line": 1,
-        "text": "CHAPTER II.",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/463"
       }
     ]
   }

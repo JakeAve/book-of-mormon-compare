@@ -96,7 +96,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/344"
       },
       {
-        "id": "344:44",
+        "id": "344:44a",
         "page": 344,
         "line": 44,
         "text": "words.",
@@ -110,7 +110,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "344:44",
+        "id": "344:44b",
         "page": 344,
         "line": 44,
         "text": "And they sent and gathered together through",
@@ -229,7 +229,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/345"
       },
       {
-        "id": "345:11",
+        "id": "345:11a",
         "page": 345,
         "line": 11,
         "text": "minister unto them.",
@@ -243,7 +243,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "345:11",
+        "id": "345:11b",
         "page": 345,
         "line": 11,
         "text": "Now the people of the Zoramites ",
@@ -341,7 +341,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/345"
       },
       {
-        "id": "345:24",
+        "id": "345:24a",
         "page": 345,
         "line": 24,
         "text": "their wants.",
@@ -355,7 +355,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "345:24",
+        "id": "345:24b",
         "page": 345,
         "line": 24,
         "text": "Now this did stir up the Zoramites to ",
@@ -376,7 +376,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/345"
       },
       {
-        "id": "345:27",
+        "id": "345:27a",
         "page": 345,
         "line": 27,
         "text": "anger against them:",
@@ -390,7 +390,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "345:27",
+        "id": "345:27b",
         "page": 345,
         "line": 27,
         "text": "and thus the Zoramites and the ",
@@ -495,7 +495,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/345"
       },
       {
-        "id": "345:40",
+        "id": "345:40a",
         "page": 345,
         "line": 40,
         "text": "hereafter.",
@@ -509,7 +509,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "345:40",
+        "id": "345:40b",
         "page": 345,
         "line": 40,
         "text": "And Alma, and Ammon, and their breth",
@@ -565,7 +565,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/345"
       },
       {
-        "id": "346:1",
+        "id": "346:1a",
         "page": 346,
         "line": 1,
         "text": "their wives, and children, and their lands.",
@@ -579,7 +579,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "346:1",
+        "id": "346:1b",
         "page": 346,
         "line": 1,
         "text": "Now Al",
@@ -635,7 +635,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/346"
       },
       {
-        "id": "346:9",
+        "id": "346:9a",
         "page": 346,
         "line": 9,
         "text": "was exceeding sorrowful;",
@@ -649,7 +649,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "346:9",
+        "id": "346:9b",
         "page": 346,
         "line": 9,
         "text": "therefore, he caused that his ",
@@ -687,14 +687,7 @@
         "id": "346:14",
         "page": 346,
         "line": 14,
-        "text": "gave unto them according to his own record. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/346"
-      },
-      {
-        "id": "346:15",
-        "page": 346,
-        "line": 15,
-        "text": "CHAPTER XVII.",
+        "text": "gave unto them according to his own record.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/346"
       }
     ]

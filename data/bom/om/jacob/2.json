@@ -5,7 +5,15 @@
     "verse": 1,
     "lines": [
       {
-        "id": "63:3",
+        "id": "63:2",
+        "page": 63,
+        "line": 2,
+        "text": "Chapter ",
+        "markdown": "{{}} Chapter {{}} ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/63"
+      },
+      {
+        "id": "63:3a",
         "page": 63,
         "line": 3,
         "text": "The words which Jacob the Brother of Nephi spake unto the People of Nephiafter the death of Nephi",
@@ -20,26 +28,11 @@
     "verse": 2,
     "lines": [
       {
-        "id": "63:3",
+        "id": "63:3b",
         "page": 63,
         "line": 3,
-        "text": "now my beloved Brethren I Jacob according tothe responcibility which I am under to God to magnify mine office withsoberness & that I might rid my garments of your Sins I come",
-        "markdown": "now my beloved Br{{ethren I Jacob according tothe responcibility whic}}h I am under to {{God to magnify mine office withsoberness & that I might rid my garme}}nts {{of your Sins I come",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/63"
-      }
-    ]
-  },
-  {
-    "book": "jacob",
-    "chapter": 2,
-    "verse": 4,
-    "lines": [
-      {
-        "id": "63:3",
-        "page": 63,
-        "line": 3,
-        "text": "up into the",
-        "markdown": "up into the}}",
+        "text": "now my beloved Brethren I Jacob according tothe responcibility which I am under to God to magnify mine office withsoberness & that I might rid my garments of your Sins I come up",
+        "markdown": "now my beloved Br{{ethren I Jacob according tothe responcibility whic}}h I am under to {{God to magnify mine office withsoberness & that I might rid my garme}}nts {{of your Sins I come up",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/63"
       }
     ]
@@ -50,7 +43,15 @@
     "verse": 11,
     "lines": [
       {
-        "id": "64:1",
+        "id": "63:3c",
+        "page": 63,
+        "line": 3,
+        "text": "into the ",
+        "markdown": "into the}} ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/63"
+      },
+      {
+        "id": "64:1a",
         "page": 64,
         "line": 1,
         "text": "thee unto this people",
@@ -65,7 +66,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "64:1",
+        "id": "64:1b",
         "page": 64,
         "line": 1,
         "text": "& now behold my brethren this is the word which I declare unto you that many of you have begun to search for Gold & for Silver & forall manner of precious ores in the which this land which is a land of promiseunto you & to your seed doth abound most plentifully",
@@ -80,11 +81,11 @@
     "verse": 13,
     "lines": [
       {
-        "id": "64:1",
+        "id": "64:1c",
         "page": 64,
         "line": 1,
-        "text": "& the hand of providencehath smiled upon you most pleasingly that ye have obtained many riches& because that some of you have obtained more abundantly then that of yourBrethren ye are lifted up in the pride of your hearts & wear stiff necks &high heads because of the costliness of your apparrell & persecute yourBrethren because that ye suppose that ye are better then they & now",
-        "markdown": "& the hand {{of providencehath}} smiled upon y{{ou mo}}st pleasingly that ye have obtained m{{any riches& be}}cause that {{some of you ha}}ve obtained more abundantl{{y then that of yourBre}}thren y{{e are lifted up in}} the pride of your hearts & w{{ear stiff necks &high heads because of the cos}}tliness of your apparrell & perse{{cute yourBrethren because that ye suppo}}se that ye are better then they & {{now",
+        "text": "& the hand of providencehath smiled upon you most pleasingly that ye have obtained many riches& because that some of you have obtained more abundantly then that of yourBrethren ye are lifted up in the pride of your hearts & wear stiff necks &high heads because of the costliness of your apparrell & persecute yourBrethren because that ye suppose that ye are better then they",
+        "markdown": "& the hand {{of providencehath}} smiled upon y{{ou mo}}st pleasingly that ye have obtained m{{any riches& be}}cause that {{some of you ha}}ve obtained more abundantl{{y then that of yourBre}}thren y{{e are lifted up in}} the pride of your hearts & w{{ear stiff necks &high heads because of the cos}}tliness of your apparrell & perse{{cute yourBrethren because that ye suppo}}se that ye are better then they",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/64"
       }
     ]
@@ -95,11 +96,11 @@
     "verse": 14,
     "lines": [
       {
-        "id": "64:1",
+        "id": "64:1d",
         "page": 64,
         "line": 1,
-        "text": "my Brethren do ye suppose that God Justifieth you in this thing behold I say untoyou nay but he condemneth you & if ye persist in these things his Judgments must speadily come unto you O that",
-        "markdown": "my Brethren do ye suppose that God}} J{{us}}tifieth you in this thing be{{hold I say untoyou nay but he condemneth you & i}}f ye persist in the{{se things his Judgments must speadily come unto you O}} th{{at",
+        "text": "& now my Brethren do ye suppose that God Justifieth you in this thing behold I say untoyou nay but he condemneth you & if ye persist in these things his Judgments must speadily come unto you",
+        "markdown": "& {{now my Brethren do ye suppose that God}} J{{us}}tifieth you in this thing be{{hold I say untoyou nay but he condemneth you & i}}f ye persist in the{{se things his Judgments must speadily come unto you",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/64"
       }
     ]
@@ -110,25 +111,11 @@
     "verse": 15,
     "lines": [
       {
-        "id": "64:1",
+        "id": "64:1e",
         "page": 64,
         "line": 1,
-        "text": "he would show you that he",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/64"
-      }
-    ]
-  },
-  {
-    "book": "jacob",
-    "chapter": 2,
-    "verse": 17,
-    "lines": [
-      {
-        "id": "64:1",
-        "page": 64,
-        "line": 1,
-        "text": "can",
-        "markdown": "can}}",
+        "text": "O that he would show you that",
+        "markdown": "O}} th{{at he would show you that",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/64"
       }
     ]
@@ -139,11 +126,19 @@
     "verse": 25,
     "lines": [
       {
-        "id": "65:1",
+        "id": "64:1f",
+        "page": 64,
+        "line": 1,
+        "text": "he can ",
+        "markdown": "he can}} ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/64"
+      },
+      {
+        "id": "65:1a",
         "page": 65,
         "line": 1,
-        "text": "raise up unto me a righteous branch from the fruit of the loins of Joseph wh",
-        "markdown": "{{raise up unto me a righteous branch from the fruit of the loins of Jose}}ph wh",
+        "text": "raise up unto me a righteous branch from the fruit of the loins of Joseph",
+        "markdown": "{{raise up unto me a righteous branch from the fruit of the loins of Jose}}ph",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/65"
       }
     ]
@@ -154,6 +149,13 @@
     "verse": 26,
     "lines": [
       {
+        "id": "65:1b",
+        "page": 65,
+        "line": 1,
+        "text": "wh",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/65"
+      },
+      {
         "id": "65:2",
         "page": 65,
         "line": 2,
@@ -162,7 +164,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/65"
       },
       {
-        "id": "65:3",
+        "id": "65:3a",
         "page": 65,
         "line": 3,
         "text": "to them of old",
@@ -177,25 +179,10 @@
     "verse": 27,
     "lines": [
       {
-        "id": "65:3",
+        "id": "65:3b",
         "page": 65,
         "line": 3,
-        "text": "wherefore my Brethren hear me & hearken",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/65"
-      }
-    ]
-  },
-  {
-    "book": "jacob",
-    "chapter": 2,
-    "verse": 29,
-    "lines": [
-      {
-        "id": "65:3",
-        "page": 65,
-        "line": 3,
-        "text": "to the word of the",
-        "markdown": "to the w}}ord of the",
+        "text": "wherefore my Brethren hear me & hearken to the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/65"
       }
     ]

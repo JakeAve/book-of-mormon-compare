@@ -29,9 +29,16 @@
         "id": "7:4",
         "page": 7,
         "line": 4,
-        "text": "THE PLATES OF NEPHI. ",
+        "text": "THE PLATES OF NEPHI.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/7"
-      },
+      }
+    ]
+  },
+  {
+    "book": "title-page",
+    "chapter": 1,
+    "verse": 2,
+    "lines": [
       {
         "id": "7:5",
         "page": 7,
@@ -71,21 +78,35 @@
         "id": "7:10",
         "page": 7,
         "line": 10,
-        "text": "and power of God unto the interpretation thereof; sealed by the hand of Moro ",
+        "text": "and power of God unto the interpretation thereof; sealed by the hand of Moro",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/7"
       },
       {
         "id": "7:11",
         "page": 7,
         "line": 11,
-        "text": "ni, and hid up unto the Lord, to come forth in due time by the way of Gentile; ",
+        "text": "ni, and hid up unto the Lord, to come forth in due time by the way of Gentile;",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/7"
       },
       {
-        "id": "7:12",
+        "id": "7:12a",
         "page": 7,
         "line": 12,
-        "text": "the interpretation thereof by the gift of God; an abridgment taken from the ",
+        "text": "the interpretation thereof by the gift of God;",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/7"
+      }
+    ]
+  },
+  {
+    "book": "title-page",
+    "chapter": 1,
+    "verse": 3,
+    "lines": [
+      {
+        "id": "7:12b",
+        "page": 7,
+        "line": 12,
+        "text": "an abridgment taken from the ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/7"
       },
       {
@@ -155,9 +176,16 @@
         "id": "7:22",
         "page": 7,
         "line": 22,
-        "text": "found spotless at the judgment seat of Christ. ",
+        "text": "found spotless at the judgment seat of Christ.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/7"
-      },
+      }
+    ]
+  },
+  {
+    "book": "title-page",
+    "chapter": 1,
+    "verse": 4,
+    "lines": [
       {
         "id": "7:23",
         "page": 7,
@@ -176,7 +204,7 @@
         "id": "7:25",
         "page": 7,
         "line": 25,
-        "text": "PRINTED BY , FOR THE ",
+        "text": "PRINTED BY FOR THE AUTHOR. ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/7"
       },
       {
@@ -190,7 +218,7 @@
         "id": "8:1",
         "page": 8,
         "line": 1,
-        "text": "Northern District of , to ",
+        "text": "Northern District of to wit: ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/8"
       },
       {
@@ -211,7 +239,7 @@
         "id": "8:4",
         "page": 8,
         "line": 4,
-        "text": "year of the Independence of the , A. D. 1829, ",
+        "text": "year of the Independence of the A. D. 1829, Joseph ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/8"
       },
       {
@@ -239,16 +267,9 @@
         "id": "8:8",
         "page": 8,
         "line": 8,
-        "text": "plates of Nephi. Wherefore it is an abridgment of the Record of the People of Ne",
+        "text": "plates of Nephi. Wherefore it is an abridgment of the Record of the People of Ne ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/8"
-      }
-    ]
-  },
-  {
-    "book": "title-page",
-    "chapter": 1,
-    "verse": 2,
-    "lines": [
+      },
       {
         "id": "8:9",
         "page": 8,
@@ -288,7 +309,7 @@
         "id": "8:14",
         "page": 8,
         "line": 14,
-        "text": "hid up unto the Lord, to come forth in due time by the way of Gentile; the interpre",
+        "text": "hid up unto the Lord, to come forth in due time by the way of Gentile; the interpre ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/8"
       },
       {
@@ -344,35 +365,14 @@
         "id": "8:22",
         "page": 8,
         "line": 22,
-        "text": "tions. And now if there be fault, it be the mistake of men; wherefore condemn not",
+        "text": "tions. And now if there be fault, it be the mistake of men; wherefore condemn not ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/8"
-      }
-    ]
-  },
-  {
-    "book": "title-page",
-    "chapter": 1,
-    "verse": 3,
-    "lines": [
+      },
       {
         "id": "8:23",
         "page": 8,
         "line": 23,
-        "text": "the things of God, that ye may be found spotless at the judgment seat of",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/8"
-      }
-    ]
-  },
-  {
-    "book": "title-page",
-    "chapter": 1,
-    "verse": 4,
-    "lines": [
-      {
-        "id": "8:23",
-        "page": 8,
-        "line": 23,
-        "text": "Christ.—By ",
+        "text": "the things of God, that ye may be found spotless at the judgment seat of Christ.—By ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/8"
       },
       {
@@ -386,7 +386,7 @@
         "id": "8:25",
         "page": 8,
         "line": 25,
-        "text": "In conformity to the act of the Congress of the , entitled, “An ",
+        "text": "In conformity to the act of the Congress of the entitled, “An act ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/8"
       },
       {
@@ -687,7 +687,7 @@
         "id": "10:10",
         "page": 10,
         "line": 10,
-        "text": "found in the township of , Ontario ",
+        "text": "found in the township of Ontario county, ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/10"
       },
       {

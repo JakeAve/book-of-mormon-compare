@@ -40,7 +40,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/564"
       },
       {
-        "id": "564:6",
+        "id": "564:6a",
         "page": 564,
         "line": 6,
         "text": "the words which I speak,",
@@ -54,14 +54,14 @@
     "verse": 2,
     "lines": [
       {
-        "id": "564:6",
+        "id": "564:6b",
         "page": 564,
         "line": 6,
         "text": "know ye that ye are of the ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/564"
       },
       {
-        "id": "564:7",
+        "id": "564:7a",
         "page": 564,
         "line": 7,
         "text": "house of Israel.",
@@ -75,14 +75,14 @@
     "verse": 3,
     "lines": [
       {
-        "id": "564:7",
+        "id": "564:7b",
         "page": 564,
         "line": 7,
         "text": "Know ye that ye must come unto re",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/564"
       },
       {
-        "id": "564:8",
+        "id": "564:8a",
         "page": 564,
         "line": 8,
         "text": "pentance, or ye cannot be saved.",
@@ -96,7 +96,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "564:8",
+        "id": "564:8b",
         "page": 564,
         "line": 8,
         "text": "Know ye that ye ",
@@ -117,7 +117,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/564"
       },
       {
-        "id": "564:11",
+        "id": "564:11a",
         "page": 564,
         "line": 11,
         "text": "again, save it be that God shall command you.",
@@ -131,7 +131,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "564:11",
+        "id": "564:11b",
         "page": 564,
         "line": 11,
         "text": "Know ",
@@ -180,7 +180,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/564"
       },
       {
-        "id": "564:18",
+        "id": "564:18a",
         "page": 564,
         "line": 18,
         "text": "string of death swallowed up.",
@@ -194,7 +194,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "564:18",
+        "id": "564:18b",
         "page": 564,
         "line": 18,
         "text": "And he bringeth to pass ",
@@ -208,10 +208,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/564"
       },
       {
-        "id": "564:20",
+        "id": "564:20a",
         "page": 564,
         "line": 20,
-        "text": "raised to stand before his judgment seat.",
+        "text": "raised to stand before his",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/564"
       }
     ]
@@ -222,10 +222,10 @@
     "verse": 7,
     "lines": [
       {
-        "id": "564:20",
+        "id": "564:20b",
         "page": 564,
         "line": 20,
-        "text": "And he hath ",
+        "text": "judgment seat. And he hath ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/564"
       },
       {
@@ -271,7 +271,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/564"
       },
       {
-        "id": "564:27",
+        "id": "564:27a",
         "page": 564,
         "line": 27,
         "text": "state of happiness which hath no end.",
@@ -285,7 +285,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "564:27",
+        "id": "564:27b",
         "page": 564,
         "line": 27,
         "text": "Therefore re",
@@ -327,7 +327,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/564"
       },
       {
-        "id": "564:33",
+        "id": "564:33a",
         "page": 564,
         "line": 33,
         "text": "you.",
@@ -341,7 +341,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "564:33",
+        "id": "564:33b",
         "page": 564,
         "line": 33,
         "text": "For behold, this is written for the intent that ye ",
@@ -369,7 +369,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/564"
       },
       {
-        "id": "564:37",
+        "id": "564:37a",
         "page": 564,
         "line": 37,
         "text": "were wrought by the power of God among them;",
@@ -383,7 +383,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "564:37",
+        "id": "564:37b",
         "page": 564,
         "line": 37,
         "text": "and ",
@@ -442,15 +442,8 @@
         "id": "564:45",
         "page": 564,
         "line": 45,
-        "text": "judgment. Amen. ",
+        "text": "judgment. Amen.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/564"
-      },
-      {
-        "id": "565:1",
-        "page": 565,
-        "line": 1,
-        "text": "CHAPTER IV.",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/565"
       }
     ]
   }

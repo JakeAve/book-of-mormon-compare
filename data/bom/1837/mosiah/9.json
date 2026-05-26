@@ -5,6 +5,13 @@
     "verse": 0,
     "lines": [
       {
+        "id": "189:1",
+        "page": 189,
+        "line": 1,
+        "text": "CHAPTER VI. ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/189"
+      },
+      {
         "id": "189:2",
         "page": 189,
         "line": 2,
@@ -89,7 +96,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/189"
       },
       {
-        "id": "189:13",
+        "id": "189:13a",
         "page": 189,
         "line": 13,
         "text": "desirous that they should not be destroyed;",
@@ -103,7 +110,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "189:13",
+        "id": "189:13b",
         "page": 189,
         "line": 13,
         "text": "therefore, ",
@@ -173,7 +180,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/189"
       },
       {
-        "id": "189:23",
+        "id": "189:23a",
         "page": 189,
         "line": 23,
         "text": "and their children.",
@@ -187,7 +194,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "189:23",
+        "id": "189:23b",
         "page": 189,
         "line": 23,
         "text": "And yet, I being over zealous to ",
@@ -229,7 +236,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/189"
       },
       {
-        "id": "189:29",
+        "id": "189:29a",
         "page": 189,
         "line": 29,
         "text": "our God.",
@@ -243,7 +250,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "189:29",
+        "id": "189:29b",
         "page": 189,
         "line": 29,
         "text": "Nevertheless, after many days’ wandering ",
@@ -306,7 +313,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/189"
       },
       {
-        "id": "189:37",
+        "id": "189:37a",
         "page": 189,
         "line": 37,
         "text": "land in peace.",
@@ -320,7 +327,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "189:37",
+        "id": "189:37b",
         "page": 189,
         "line": 37,
         "text": "And I went in unto the king, and he ",
@@ -334,10 +341,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/189"
       },
       {
-        "id": "189:39",
+        "id": "189:39a",
         "page": 189,
         "line": 39,
-        "text": "Lehi-Nephi, and the land of Shilom. And",
+        "text": "Lehi-Nephi, and the land of Shilom.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/189"
       }
     ]
@@ -348,10 +355,10 @@
     "verse": 7,
     "lines": [
       {
-        "id": "189:39",
+        "id": "189:39b",
         "page": 189,
         "line": 39,
-        "text": "he also ",
+        "text": "And he also ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/189"
       },
       {
@@ -369,7 +376,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/189"
       },
       {
-        "id": "189:42",
+        "id": "189:42a",
         "page": 189,
         "line": 42,
         "text": "might possess it.",
@@ -383,7 +390,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "189:42",
+        "id": "189:42b",
         "page": 189,
         "line": 42,
         "text": "And we began to build buildings, ",
@@ -439,7 +446,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/190"
       },
       {
-        "id": "190:6",
+        "id": "190:6a",
         "page": 190,
         "line": 6,
         "text": "tiply and prosper in the land.",
@@ -453,7 +460,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "190:6",
+        "id": "190:6b",
         "page": 190,
         "line": 6,
         "text": "Now, it was the cun",
@@ -526,21 +533,7 @@
         "id": "190:15",
         "page": 190,
         "line": 15,
-        "text": "age.",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/190"
-      }
-    ]
-  },
-  {
-    "book": "mosiah",
-    "chapter": 9,
-    "verse": 12,
-    "lines": [
-      {
-        "id": "190:15",
-        "page": 190,
-        "line": 15,
-        "text": "Now, they were a lazy, and an idolatrous peo",
+        "text": "age. Now, they were a lazy, and an idolatrous peo",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/190"
       },
       {
@@ -551,10 +544,24 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/190"
       },
       {
-        "id": "190:17",
+        "id": "190:17a",
         "page": 190,
         "line": 17,
-        "text": "bondage, that they might glut themselves with the la",
+        "text": "bondage,",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/190"
+      }
+    ]
+  },
+  {
+    "book": "mosiah",
+    "chapter": 9,
+    "verse": 12,
+    "lines": [
+      {
+        "id": "190:17b",
+        "page": 190,
+        "line": 17,
+        "text": "that they might glut themselves with the la",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/190"
       },
       {
@@ -600,7 +607,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/190"
       },
       {
-        "id": "190:23",
+        "id": "190:23a",
         "page": 190,
         "line": 23,
         "text": "tentions in the land.",
@@ -614,7 +621,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "190:23",
+        "id": "190:23b",
         "page": 190,
         "line": 23,
         "text": "For, in the thirteenth year of ",
@@ -656,7 +663,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/190"
       },
       {
-        "id": "190:29",
+        "id": "190:29a",
         "page": 190,
         "line": 29,
         "text": "their fields.",
@@ -670,7 +677,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "190:29",
+        "id": "190:29b",
         "page": 190,
         "line": 29,
         "text": "Yea, and it came to pass that they fled, ",
@@ -726,7 +733,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/190"
       },
       {
-        "id": "190:36",
+        "id": "190:36a",
         "page": 190,
         "line": 36,
         "text": "did go forth against the Lamanites, to battle:",
@@ -740,7 +747,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "190:36",
+        "id": "190:36b",
         "page": 190,
         "line": 36,
         "text": "yea, in ",
@@ -775,7 +782,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/190"
       },
       {
-        "id": "190:41",
+        "id": "190:41a",
         "page": 190,
         "line": 41,
         "text": "remembrance of the deliverance of our fathers.",
@@ -789,7 +796,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "190:41",
+        "id": "190:41b",
         "page": 190,
         "line": 41,
         "text": "And ",
@@ -831,7 +838,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/190"
       },
       {
-        "id": "190:47",
+        "id": "190:47a",
         "page": 190,
         "line": 47,
         "text": "our land.",
@@ -845,7 +852,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "190:47",
+        "id": "190:47b",
         "page": 190,
         "line": 47,
         "text": "And I, myself, with mine own hands, did ",

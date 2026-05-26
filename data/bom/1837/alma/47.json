@@ -5,7 +5,7 @@
     "verse": 1,
     "lines": [
       {
-        "id": "378:15",
+        "id": "378:15b",
         "page": 378,
         "line": 15,
         "text": "Now we will re",
@@ -201,7 +201,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/378"
       },
       {
-        "id": "378:40",
+        "id": "378:40a",
         "page": 378,
         "line": 40,
         "text": "manites.",
@@ -215,7 +215,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "378:40",
+        "id": "378:40b",
         "page": 378,
         "line": 40,
         "text": "And now he had got the command of those ",
@@ -264,7 +264,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/378"
       },
       {
-        "id": "378:47",
+        "id": "378:47a",
         "page": 378,
         "line": 47,
         "text": "fore they fled to Onidah, to the place of arms.",
@@ -278,7 +278,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "378:47",
+        "id": "378:47b",
         "page": 378,
         "line": 47,
         "text": "And ",
@@ -334,7 +334,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/379"
       },
       {
-        "id": "379:7",
+        "id": "379:7a",
         "page": 379,
         "line": 7,
         "text": "Antipas, in preparation to battle.",
@@ -348,7 +348,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "379:7",
+        "id": "379:7b",
         "page": 379,
         "line": 7,
         "text": "Now it was not ",
@@ -383,17 +383,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/379"
       },
       {
-        "id": "379:12",
+        "id": "379:12a",
         "page": 379,
         "line": 12,
-        "text": "and dethrone the king, and take possession of the king",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/379"
-      },
-      {
-        "id": "379:13",
-        "page": 379,
-        "line": 13,
-        "text": "dom.",
+        "text": "and dethrone the king, and take possession of the",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/379"
       }
     ]
@@ -404,10 +397,17 @@
     "verse": 9,
     "lines": [
       {
+        "id": "379:12b",
+        "page": 379,
+        "line": 12,
+        "text": "king ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/379"
+      },
+      {
         "id": "379:13",
         "page": 379,
         "line": 13,
-        "text": "And behold, it came to pass that he caused his ",
+        "text": "dom. And behold, it came to pass that he caused his ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/379"
       },
       {
@@ -418,7 +418,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/379"
       },
       {
-        "id": "379:15",
+        "id": "379:15a",
         "page": 379,
         "line": 15,
         "text": "the mount Antipas.",
@@ -432,7 +432,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "379:15",
+        "id": "379:15b",
         "page": 379,
         "line": 15,
         "text": "And it came to pass that when it ",
@@ -516,7 +516,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/379"
       },
       {
-        "id": "379:26",
+        "id": "379:26a",
         "page": 379,
         "line": 26,
         "text": "the third time.",
@@ -530,7 +530,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "379:26",
+        "id": "379:26b",
         "page": 379,
         "line": 26,
         "text": "And it came to pass that when Amalic",
@@ -670,7 +670,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/379"
       },
       {
-        "id": "379:44",
+        "id": "379:44a",
         "page": 379,
         "line": 44,
         "text": "were surrounded by the armies of Lehonti.",
@@ -684,7 +684,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "379:44",
+        "id": "379:44b",
         "page": 379,
         "line": 44,
         "text": "And it ",
@@ -754,7 +754,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/380"
       },
       {
-        "id": "380:6",
+        "id": "380:6a",
         "page": 380,
         "line": 6,
         "text": "plish his designs in dethroning the king.",
@@ -768,7 +768,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "380:6",
+        "id": "380:6b",
         "page": 380,
         "line": 6,
         "text": "Now it was ",
@@ -817,7 +817,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/380"
       },
       {
-        "id": "380:12",
+        "id": "380:12a",
         "page": 380,
         "line": 12,
         "text": "grees to Lehonti, that he died.",
@@ -831,7 +831,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "380:12",
+        "id": "380:12b",
         "page": 380,
         "line": 12,
         "text": "Now when Lehonti ",
@@ -845,7 +845,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/380"
       },
       {
-        "id": "380:14",
+        "id": "380:14a",
         "page": 380,
         "line": 14,
         "text": "their leader and their chief commander.",
@@ -859,7 +859,7 @@
     "verse": 20,
     "lines": [
       {
-        "id": "380:14",
+        "id": "380:14b",
         "page": 380,
         "line": 14,
         "text": "And it came ",
@@ -880,7 +880,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/380"
       },
       {
-        "id": "380:17",
+        "id": "380:17a",
         "page": 380,
         "line": 17,
         "text": "city of Nephi, which was the chief city.",
@@ -894,7 +894,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "380:17",
+        "id": "380:17b",
         "page": 380,
         "line": 17,
         "text": "And the ",
@@ -922,7 +922,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/380"
       },
       {
-        "id": "380:21",
+        "id": "380:21a",
         "page": 380,
         "line": 21,
         "text": "army to go against the Nephites to battle.",
@@ -936,7 +936,7 @@
     "verse": 22,
     "lines": [
       {
-        "id": "380:21",
+        "id": "380:21b",
         "page": 380,
         "line": 21,
         "text": "But behold, ",
@@ -964,7 +964,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/380"
       },
       {
-        "id": "380:25",
+        "id": "380:25a",
         "page": 380,
         "line": 25,
         "text": "as if to reverence him, because of his greatness.",
@@ -978,7 +978,7 @@
     "verse": 23,
     "lines": [
       {
-        "id": "380:25",
+        "id": "380:25b",
         "page": 380,
         "line": 25,
         "text": "And ",
@@ -1006,7 +1006,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/380"
       },
       {
-        "id": "380:29",
+        "id": "380:29a",
         "page": 380,
         "line": 29,
         "text": "the Nephites.",
@@ -1020,7 +1020,7 @@
     "verse": 24,
     "lines": [
       {
-        "id": "380:29",
+        "id": "380:29b",
         "page": 380,
         "line": 29,
         "text": "And it came to pass that when he had ",
@@ -1034,7 +1034,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/380"
       },
       {
-        "id": "380:31",
+        "id": "380:31a",
         "page": 380,
         "line": 31,
         "text": "king to the heart; and he fell to the earth.",
@@ -1048,7 +1048,7 @@
     "verse": 25,
     "lines": [
       {
-        "id": "380:31",
+        "id": "380:31b",
         "page": 380,
         "line": 31,
         "text": "Now the ",
@@ -1062,7 +1062,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/380"
       },
       {
-        "id": "380:33",
+        "id": "380:33a",
         "page": 380,
         "line": 33,
         "text": "kiah raised a cry, saying,",
@@ -1076,7 +1076,7 @@
     "verse": 26,
     "lines": [
       {
-        "id": "380:33",
+        "id": "380:33b",
         "page": 380,
         "line": 33,
         "text": "behold, the servants of the ",
@@ -1174,7 +1174,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/380"
       },
       {
-        "id": "380:45",
+        "id": "380:45a",
         "page": 380,
         "line": 45,
         "text": "pursued after the servants of the king.",
@@ -1188,7 +1188,7 @@
     "verse": 29,
     "lines": [
       {
-        "id": "380:45",
+        "id": "380:45b",
         "page": 380,
         "line": 45,
         "text": "Now when the ",
@@ -1216,7 +1216,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/381"
       },
       {
-        "id": "381:2",
+        "id": "381:2a",
         "page": 381,
         "line": 2,
         "text": "the people of Ammon;",
@@ -1230,7 +1230,7 @@
     "verse": 30,
     "lines": [
       {
-        "id": "381:2",
+        "id": "381:2b",
         "page": 381,
         "line": 2,
         "text": "and the army which pursued ",
@@ -1279,7 +1279,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/381"
       },
       {
-        "id": "381:8",
+        "id": "381:8a",
         "page": 381,
         "line": 8,
         "text": "city.",
@@ -1293,7 +1293,7 @@
     "verse": 32,
     "lines": [
       {
-        "id": "381:8",
+        "id": "381:8b",
         "page": 381,
         "line": 8,
         "text": "And now it came to pass that the queen, when ",
@@ -1328,7 +1328,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/381"
       },
       {
-        "id": "381:13",
+        "id": "381:13a",
         "page": 381,
         "line": 13,
         "text": "they had made their escape,",
@@ -1342,7 +1342,7 @@
     "verse": 33,
     "lines": [
       {
-        "id": "381:13",
+        "id": "381:13b",
         "page": 381,
         "line": 13,
         "text": "therefore when the queen ",
@@ -1517,7 +1517,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/381"
       },
       {
-        "id": "381:36",
+        "id": "381:36a",
         "page": 381,
         "line": 36,
         "text": "reign of Nephi down to the present time.",
@@ -1531,7 +1531,7 @@
     "verse": 36,
     "lines": [
       {
-        "id": "381:36",
+        "id": "381:36b",
         "page": 381,
         "line": 36,
         "text": "Now these ",

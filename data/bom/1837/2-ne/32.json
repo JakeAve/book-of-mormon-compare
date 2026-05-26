@@ -5,6 +5,13 @@
     "verse": 1,
     "lines": [
       {
+        "id": "132:39",
+        "page": 132,
+        "line": 39,
+        "text": "CHAPTER XIV. ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/132"
+      },
+      {
         "id": "132:40",
         "page": 132,
         "line": 40,
@@ -33,7 +40,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/133"
       },
       {
-        "id": "133:3",
+        "id": "133:3a",
         "page": 133,
         "line": 3,
         "text": "in your hearts?",
@@ -47,7 +54,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "133:3",
+        "id": "133:3b",
         "page": 133,
         "line": 3,
         "text": "Do ye not remember that I said unto ",
@@ -75,7 +82,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/133"
       },
       {
-        "id": "133:7",
+        "id": "133:7a",
         "page": 133,
         "line": 7,
         "text": "were by the Holy Ghost?",
@@ -89,7 +96,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "133:7",
+        "id": "133:7b",
         "page": 133,
         "line": 7,
         "text": "Angels speak by the pow",
@@ -180,7 +187,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/133"
       },
       {
-        "id": "133:18",
+        "id": "133:18a",
         "page": 133,
         "line": 18,
         "text": "shew unto you all things what ye should do.",
@@ -194,7 +201,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "133:18",
+        "id": "133:18b",
         "page": 133,
         "line": 18,
         "text": "Behold, ",
@@ -341,7 +348,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/133"
       },
       {
-        "id": "133:37",
+        "id": "133:37a",
         "page": 133,
         "line": 37,
         "text": "must not pray.",
@@ -355,7 +362,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "133:37",
+        "id": "133:37b",
         "page": 133,
         "line": 37,
         "text": "But behold, I say unto you, that ye ",
@@ -400,15 +407,8 @@
         "id": "133:43",
         "page": 133,
         "line": 43,
-        "text": "thy soul. ",
+        "text": "thy soul.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/133"
-      },
-      {
-        "id": "134:1",
-        "page": 134,
-        "line": 1,
-        "text": "CHAPTER XV.",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/134"
       }
     ]
   }

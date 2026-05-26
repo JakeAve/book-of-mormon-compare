@@ -5,6 +5,13 @@
     "verse": 1,
     "lines": [
       {
+        "id": "20:33",
+        "page": 20,
+        "line": 33,
+        "text": "And it came to pass that after we had came down ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/20"
+      },
+      {
         "id": "20:34",
         "page": 20,
         "line": 34,
@@ -19,7 +26,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/20"
       },
       {
-        "id": "20:36",
+        "id": "20:36a",
         "page": 20,
         "line": 36,
         "text": "ing glad, for she truly had mourned because of us;",
@@ -33,7 +40,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "20:36",
+        "id": "20:36b",
         "page": 20,
         "line": 36,
         "text": "for ",
@@ -75,7 +82,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/20"
       },
       {
-        "id": "20:42",
+        "id": "20:42a",
         "page": 20,
         "line": 42,
         "text": "the wilderness.",
@@ -89,7 +96,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "20:42",
+        "id": "20:42b",
         "page": 20,
         "line": 42,
         "text": "And after this manner of language ",
@@ -138,7 +145,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/20"
       },
       {
-        "id": "21:1",
+        "id": "21:1a",
         "page": 21,
         "line": 1,
         "text": "at Jerusalem and had perished with my brethren.",
@@ -152,7 +159,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "21:1",
+        "id": "21:1b",
         "page": 21,
         "line": 1,
         "text": "But ",
@@ -180,7 +187,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/21"
       },
       {
-        "id": "21:5",
+        "id": "21:5a",
         "page": 21,
         "line": 5,
         "text": "them down again unto us in the wilderness.",
@@ -194,7 +201,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "21:5",
+        "id": "21:5b",
         "page": 21,
         "line": 5,
         "text": "And af",
@@ -243,17 +250,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/21"
       },
       {
-        "id": "21:11",
+        "id": "21:11a",
         "page": 21,
         "line": 11,
-        "text": "behold their joy was full, and my mother was com",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/21"
-      },
-      {
-        "id": "21:12",
-        "page": 21,
-        "line": 12,
-        "text": "forted;",
+        "text": "behold their joy was full, and my mother was",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/21"
       }
     ]
@@ -264,10 +264,17 @@
     "verse": 8,
     "lines": [
       {
+        "id": "21:11b",
+        "page": 21,
+        "line": 11,
+        "text": "com ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/21"
+      },
+      {
         "id": "21:12",
         "page": 21,
         "line": 12,
-        "text": "and she spake, saying, now I know of a surety ",
+        "text": "forted; and she spake, saying, now I know of a surety ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/21"
       },
       {
@@ -376,7 +383,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/21"
       },
       {
-        "id": "21:26",
+        "id": "21:26a",
         "page": 21,
         "line": 26,
         "text": "them from the beginning.",
@@ -390,7 +397,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "21:26",
+        "id": "21:26b",
         "page": 21,
         "line": 26,
         "text": "And he beheld that they ",
@@ -411,7 +418,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/21"
       },
       {
-        "id": "21:29",
+        "id": "21:29a",
         "page": 21,
         "line": 29,
         "text": "and Eve, who were our first parents;",
@@ -425,7 +432,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "21:29",
+        "id": "21:29b",
         "page": 21,
         "line": 29,
         "text": "and also a record ",
@@ -446,7 +453,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/21"
       },
       {
-        "id": "21:32",
+        "id": "21:32a",
         "page": 21,
         "line": 32,
         "text": "dah;",
@@ -460,7 +467,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "21:32",
+        "id": "21:32b",
         "page": 21,
         "line": 32,
         "text": "and also the prophecies of the holy prophets, ",
@@ -544,7 +551,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/21"
       },
       {
-        "id": "21:43",
+        "id": "21:43a",
         "page": 21,
         "line": 43,
         "text": "ine.",
@@ -558,7 +565,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "21:43",
+        "id": "21:43b",
         "page": 21,
         "line": 43,
         "text": "And they were also led out of captivity and out ",
@@ -572,7 +579,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/21"
       },
       {
-        "id": "21:45",
+        "id": "21:45a",
         "page": 21,
         "line": 45,
         "text": "served them.",
@@ -586,7 +593,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "21:45",
+        "id": "21:45b",
         "page": 21,
         "line": 45,
         "text": "And thus my father Lehi did discover ",
@@ -635,7 +642,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/22"
       },
       {
-        "id": "22:5",
+        "id": "22:5a",
         "page": 22,
         "line": 5,
         "text": "cerning his seed;",
@@ -649,7 +656,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "22:5",
+        "id": "22:5b",
         "page": 22,
         "line": 5,
         "text": "that these plates of brass should go ",
@@ -663,7 +670,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/22"
       },
       {
-        "id": "22:7",
+        "id": "22:7a",
         "page": 22,
         "line": 7,
         "text": "who were of his seed.",
@@ -677,7 +684,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "22:7",
+        "id": "22:7b",
         "page": 22,
         "line": 7,
         "text": "Wherefore he said that these ",
@@ -726,7 +733,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/22"
       },
       {
-        "id": "22:13",
+        "id": "22:13a",
         "page": 22,
         "line": 13,
         "text": "commanded us.",
@@ -740,7 +747,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "22:13",
+        "id": "22:13b",
         "page": 22,
         "line": 13,
         "text": "And we had obtained the record ",
@@ -768,10 +775,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/22"
       },
       {
-        "id": "22:17",
+        "id": "22:17a",
         "page": 22,
         "line": 17,
-        "text": "commandments of the Lord unto our children. Where",
+        "text": "commandments of the Lord unto our children.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/22"
       }
     ]
@@ -781,6 +788,13 @@
     "chapter": 5,
     "verse": 22,
     "lines": [
+      {
+        "id": "22:17b",
+        "page": 22,
+        "line": 17,
+        "text": "Where",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/22"
+      },
       {
         "id": "22:18",
         "page": 22,
@@ -799,14 +813,7 @@
         "id": "22:20",
         "page": 22,
         "line": 20,
-        "text": "wards the land of promise. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/22"
-      },
-      {
-        "id": "22:21",
-        "page": 22,
-        "line": 21,
-        "text": "CHAPTER II.",
+        "text": "wards the land of promise.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/22"
       }
     ]

@@ -5,6 +5,13 @@
     "verse": 1,
     "lines": [
       {
+        "id": "414:6",
+        "page": 414,
+        "line": 6,
+        "text": "Chapter XIV ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/414"
+      },
+      {
         "id": "414:7",
         "page": 414,
         "line": 7,
@@ -20,7 +27,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/414"
       },
       {
-        "id": "414:9",
+        "id": "414:9a",
         "page": 414,
         "line": 9,
         "text": "he commandeth me that I should write saying,",
@@ -34,7 +41,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "414:9",
+        "id": "414:9b",
         "page": 414,
         "line": 9,
         "text": "turn all ye Gentiles from your ",
@@ -80,14 +87,7 @@
         "id": "414:15",
         "page": 414,
         "line": 15,
-        "text": "People which ore of the House of Israel.= ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/414"
-      },
-      {
-        "id": "414:16",
-        "page": 414,
-        "line": 16,
-        "text": "The Book of Nephi which is the Son",
+        "text": "People which ore of the House of Israel.=",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/414"
       }
     ]

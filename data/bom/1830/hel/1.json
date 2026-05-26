@@ -89,7 +89,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/413"
       },
       {
-        "id": "413:16",
+        "id": "413:16a",
         "page": 413,
         "line": 16,
         "text": "And",
@@ -103,7 +103,7 @@
     "verse": 1,
     "lines": [
       {
-        "id": "413:16",
+        "id": "413:16b",
         "page": 413,
         "line": 16,
         "text": "now behold, it came to pass in the commencement of ",
@@ -124,7 +124,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/413"
       },
       {
-        "id": "413:19",
+        "id": "413:19a",
         "page": 413,
         "line": 19,
         "text": "of the Nephites.",
@@ -138,7 +138,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "413:19",
+        "id": "413:19b",
         "page": 413,
         "line": 19,
         "text": "For behold, Pahoran had died, and gone the ",
@@ -159,7 +159,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/413"
       },
       {
-        "id": "413:22",
+        "id": "413:22a",
         "page": 413,
         "line": 22,
         "text": "among the brethren, which were the sons of Pahoran.",
@@ -173,7 +173,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "413:22",
+        "id": "413:22b",
         "page": 413,
         "line": 22,
         "text": "Now ",
@@ -194,7 +194,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/413"
       },
       {
-        "id": "413:25",
+        "id": "413:25a",
         "page": 413,
         "line": 25,
         "text": "Paanchi, and Pacumeni.",
@@ -208,7 +208,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "413:25",
+        "id": "413:25b",
         "page": 413,
         "line": 25,
         "text": "Now these are not all the sons of ",
@@ -229,7 +229,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/413"
       },
       {
-        "id": "413:28",
+        "id": "413:28a",
         "page": 413,
         "line": 28,
         "text": "divisions among the people.",
@@ -243,7 +243,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "413:28",
+        "id": "413:28b",
         "page": 413,
         "line": 28,
         "text": "Nevertheless, it came to pass ",
@@ -285,7 +285,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/413"
       },
       {
-        "id": "413:33",
+        "id": "413:33a",
         "page": 413,
         "line": 33,
         "text": "voice of the people.",
@@ -299,7 +299,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "413:33",
+        "id": "413:33b",
         "page": 413,
         "line": 33,
         "text": "But behold, Paanchi, and that part of ",
@@ -355,7 +355,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/414"
       },
       {
-        "id": "414:4",
+        "id": "414:4a",
         "page": 414,
         "line": 4,
         "text": "and sought to destroy the liberty of the people.",
@@ -369,7 +369,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "414:4",
+        "id": "414:4b",
         "page": 414,
         "line": 4,
         "text": "Now when ",
@@ -404,10 +404,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/414"
       },
       {
-        "id": "414:9",
+        "id": "414:9a",
         "page": 414,
         "line": 9,
-        "text": "sat upon the judgement seat.",
+        "text": "sat upon the",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/414"
       }
     ]
@@ -418,10 +418,10 @@
     "verse": 10,
     "lines": [
       {
-        "id": "414:9",
+        "id": "414:9b",
         "page": 414,
         "line": 9,
-        "text": "And he was pursued by the ",
+        "text": "judgement seat. And he was pursued by the ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/414"
       },
       {
@@ -432,7 +432,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/414"
       },
       {
-        "id": "414:11",
+        "id": "414:11a",
         "page": 414,
         "line": 11,
         "text": "Kishkumen, that no man could overtake him.",
@@ -446,7 +446,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "414:11",
+        "id": "414:11b",
         "page": 414,
         "line": 11,
         "text": "And he went ",
@@ -467,7 +467,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/414"
       },
       {
-        "id": "414:14",
+        "id": "414:14a",
         "page": 414,
         "line": 14,
         "text": "no man that Kishkumen had murdered Pahoran;",
@@ -481,7 +481,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "414:14",
+        "id": "414:14b",
         "page": 414,
         "line": 14,
         "text": "therefore ",
@@ -523,7 +523,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/414"
       },
       {
-        "id": "414:20",
+        "id": "414:20a",
         "page": 414,
         "line": 20,
         "text": "demned unto death.",
@@ -537,7 +537,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "414:20",
+        "id": "414:20b",
         "page": 414,
         "line": 20,
         "text": "And now behold, Pacumeni was appoint",
@@ -621,7 +621,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/414"
       },
       {
-        "id": "414:31",
+        "id": "414:31a",
         "page": 414,
         "line": 31,
         "text": "of every kind;",
@@ -635,7 +635,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "414:31",
+        "id": "414:31b",
         "page": 414,
         "line": 31,
         "text": "and they came down again, that they might pitch ",
@@ -663,7 +663,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/414"
       },
       {
-        "id": "414:35",
+        "id": "414:35a",
         "page": 414,
         "line": 35,
         "text": "and he was a large and a mighty man;",
@@ -677,7 +677,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "414:35",
+        "id": "414:35b",
         "page": 414,
         "line": 35,
         "text": "therefore the king of ",
@@ -719,7 +719,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/414"
       },
       {
-        "id": "414:41",
+        "id": "414:41a",
         "page": 414,
         "line": 41,
         "text": "phites;",
@@ -733,7 +733,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "414:41",
+        "id": "414:41b",
         "page": 414,
         "line": 41,
         "text": "therefore he did stir them up to anger, and he did ",
@@ -796,7 +796,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/415"
       },
       {
-        "id": "415:7",
+        "id": "415:7a",
         "page": 415,
         "line": 7,
         "text": "their lands to attack that great city Zarahemla.",
@@ -810,7 +810,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "415:7",
+        "id": "415:7b",
         "page": 415,
         "line": 7,
         "text": "But it came ",
@@ -873,7 +873,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/415"
       },
       {
-        "id": "415:15",
+        "id": "415:15a",
         "page": 415,
         "line": 15,
         "text": "much that they did take possession of the whole city.",
@@ -887,7 +887,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "415:15",
+        "id": "415:15b",
         "page": 415,
         "line": 15,
         "text": "And it ",
@@ -922,7 +922,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/415"
       },
       {
-        "id": "415:20",
+        "id": "415:20a",
         "page": 415,
         "line": 20,
         "text": "ni.",
@@ -936,7 +936,7 @@
     "verse": 22,
     "lines": [
       {
-        "id": "415:20",
+        "id": "415:20b",
         "page": 415,
         "line": 20,
         "text": "And now when Coriantumr saw that he was in possess",
@@ -971,7 +971,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/415"
       },
       {
-        "id": "415:25",
+        "id": "415:25a",
         "page": 415,
         "line": 25,
         "text": "much that he was about to go forth against all the land.",
@@ -985,7 +985,7 @@
     "verse": 23,
     "lines": [
       {
-        "id": "415:25",
+        "id": "415:25b",
         "page": 415,
         "line": 25,
         "text": "And ",
@@ -1020,7 +1020,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/415"
       },
       {
-        "id": "415:30",
+        "id": "415:30a",
         "page": 415,
         "line": 30,
         "text": "of the land;",
@@ -1034,7 +1034,7 @@
     "verse": 24,
     "lines": [
       {
-        "id": "415:30",
+        "id": "415:30b",
         "page": 415,
         "line": 30,
         "text": "and supposing that their greatest strength was in ",
@@ -1062,7 +1062,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/415"
       },
       {
-        "id": "415:34",
+        "id": "415:34a",
         "page": 415,
         "line": 34,
         "text": "and cut them down to the earth.",
@@ -1076,7 +1076,7 @@
     "verse": 25,
     "lines": [
       {
-        "id": "415:34",
+        "id": "415:34b",
         "page": 415,
         "line": 34,
         "text": "But behold, this march of ",
@@ -1097,7 +1097,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/415"
       },
       {
-        "id": "415:37",
+        "id": "415:37a",
         "page": 415,
         "line": 37,
         "text": "the number of the Nephites which were slain;",
@@ -1111,7 +1111,7 @@
     "verse": 26,
     "lines": [
       {
-        "id": "415:37",
+        "id": "415:37b",
         "page": 415,
         "line": 37,
         "text": "for behold, ",
@@ -1146,7 +1146,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/415"
       },
       {
-        "id": "415:42",
+        "id": "415:42a",
         "page": 415,
         "line": 42,
         "text": "should maintain those parts round about by the borders.",
@@ -1160,7 +1160,7 @@
     "verse": 27,
     "lines": [
       {
-        "id": "415:42",
+        "id": "415:42b",
         "page": 415,
         "line": 42,
         "text": "But ",
@@ -1202,17 +1202,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/416"
       },
       {
-        "id": "416:5",
+        "id": "416:5a",
         "page": 416,
         "line": 5,
-        "text": "children, taking possession of many cities and of many strong",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/416"
-      },
-      {
-        "id": "416:6",
-        "page": 416,
-        "line": 6,
-        "text": "holds.",
+        "text": "children, taking possession of many cities and of many",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/416"
       }
     ]
@@ -1223,10 +1216,17 @@
     "verse": 28,
     "lines": [
       {
+        "id": "416:5b",
+        "page": 416,
+        "line": 5,
+        "text": "strong ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/416"
+      },
+      {
         "id": "416:6",
         "page": 416,
         "line": 6,
-        "text": "But when Moronihah had discovered this, he immedi",
+        "text": "holds. But when Moronihah had discovered this, he immedi",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/416"
       },
       {
@@ -1237,7 +1237,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/416"
       },
       {
-        "id": "416:8",
+        "id": "416:8a",
         "page": 416,
         "line": 8,
         "text": "before they should come to the land Bountiful:",
@@ -1251,7 +1251,7 @@
     "verse": 29,
     "lines": [
       {
-        "id": "416:8",
+        "id": "416:8b",
         "page": 416,
         "line": 8,
         "text": "And thus he ",
@@ -1272,7 +1272,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/416"
       },
       {
-        "id": "416:11",
+        "id": "416:11a",
         "page": 416,
         "line": 11,
         "text": "began to retreat back towards the land of Zarahemla.",
@@ -1286,7 +1286,7 @@
     "verse": 30,
     "lines": [
       {
-        "id": "416:11",
+        "id": "416:11b",
         "page": 416,
         "line": 11,
         "text": "And ",
@@ -1314,7 +1314,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/416"
       },
       {
-        "id": "416:15",
+        "id": "416:15a",
         "page": 416,
         "line": 15,
         "text": "number which were slain, Coriantumr was also found.",
@@ -1328,7 +1328,7 @@
     "verse": 31,
     "lines": [
       {
-        "id": "416:15",
+        "id": "416:15b",
         "page": 416,
         "line": 15,
         "text": "And ",
@@ -1356,7 +1356,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/416"
       },
       {
-        "id": "416:19",
+        "id": "416:19a",
         "page": 416,
         "line": 19,
         "text": "phites:",
@@ -1370,7 +1370,7 @@
     "verse": 32,
     "lines": [
       {
-        "id": "416:19",
+        "id": "416:19b",
         "page": 416,
         "line": 19,
         "text": "And thus had Coriantumr plunged the Lamanites in",
@@ -1433,7 +1433,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/416"
       },
       {
-        "id": "416:27",
+        "id": "416:27a",
         "page": 416,
         "line": 27,
         "text": "peace.",
@@ -1447,7 +1447,7 @@
     "verse": 34,
     "lines": [
       {
-        "id": "416:27",
+        "id": "416:27b",
         "page": 416,
         "line": 27,
         "text": "And thus ended the forty and first year of the reign ",

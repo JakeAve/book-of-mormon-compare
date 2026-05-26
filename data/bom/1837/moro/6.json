@@ -5,6 +5,13 @@
     "verse": 1,
     "lines": [
       {
+        "id": "611:9",
+        "page": 611,
+        "line": 9,
+        "text": "CHAPTER VI. ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/611"
+      },
+      {
         "id": "611:10",
         "page": 611,
         "line": 10,
@@ -26,7 +33,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/611"
       },
       {
-        "id": "611:13",
+        "id": "611:13a",
         "page": 611,
         "line": 13,
         "text": "that they were worthy of it;",
@@ -40,7 +47,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "611:13",
+        "id": "611:13b",
         "page": 611,
         "line": 13,
         "text": "neither did they receive ",
@@ -61,7 +68,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/611"
       },
       {
-        "id": "611:16",
+        "id": "611:16a",
         "page": 611,
         "line": 16,
         "text": "church that they truly repented of all their sins.",
@@ -75,7 +82,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "611:16",
+        "id": "611:16b",
         "page": 611,
         "line": 16,
         "text": "And ",
@@ -96,7 +103,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/611"
       },
       {
-        "id": "611:19",
+        "id": "611:19a",
         "page": 611,
         "line": 19,
         "text": "serve him to the end.",
@@ -110,7 +117,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "611:19",
+        "id": "611:19b",
         "page": 611,
         "line": 19,
         "text": "And after they had been re",
@@ -173,7 +180,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/611"
       },
       {
-        "id": "611:28",
+        "id": "611:28a",
         "page": 611,
         "line": 28,
         "text": "faith.",
@@ -187,7 +194,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "611:28",
+        "id": "611:28b",
         "page": 611,
         "line": 28,
         "text": "And the church did meet together oft, to fast ",
@@ -201,7 +208,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/611"
       },
       {
-        "id": "611:30",
+        "id": "611:30a",
         "page": 611,
         "line": 30,
         "text": "ing the welfare of their souls;",
@@ -215,7 +222,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "611:30",
+        "id": "611:30b",
         "page": 611,
         "line": 30,
         "text": "and they did meet to",
@@ -229,7 +236,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/611"
       },
       {
-        "id": "611:32",
+        "id": "611:32a",
         "page": 611,
         "line": 32,
         "text": "brance of the Lord Jesus;",
@@ -243,7 +250,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "611:32",
+        "id": "611:32b",
         "page": 611,
         "line": 32,
         "text": "and they were strict to ob",
@@ -285,7 +292,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/611"
       },
       {
-        "id": "611:38",
+        "id": "611:38a",
         "page": 611,
         "line": 38,
         "text": "bered among the people of Christ;",
@@ -299,7 +306,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "611:38",
+        "id": "611:38b",
         "page": 611,
         "line": 38,
         "text": "but as oft as they ",
@@ -313,7 +320,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/611"
       },
       {
-        "id": "611:40",
+        "id": "611:40a",
         "page": 611,
         "line": 40,
         "text": "they were forgiven.",
@@ -327,7 +334,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "611:40",
+        "id": "611:40b",
         "page": 611,
         "line": 40,
         "text": "And their meetings were con",
@@ -365,14 +372,7 @@
         "id": "612:4",
         "page": 612,
         "line": 4,
-        "text": "sing, even so it was done. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/612"
-      },
-      {
-        "id": "612:5",
-        "page": 612,
-        "line": 5,
-        "text": "CHAPTER VII.",
+        "text": "sing, even so it was done.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/612"
       }
     ]

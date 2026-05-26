@@ -5,6 +5,13 @@
     "verse": 1,
     "lines": [
       {
+        "id": "18:1",
+        "page": 18,
+        "line": 1,
+        "text": "& it came to pass that the angel spake unto me ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/18"
+      },
+      {
         "id": "18:2",
         "page": 18,
         "line": 2,
@@ -12,7 +19,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/18"
       },
       {
-        "id": "18:3",
+        "id": "18:3a",
         "page": 18,
         "line": 3,
         "text": "kingdoms",
@@ -26,14 +33,14 @@
     "verse": 2,
     "lines": [
       {
-        "id": "18:3",
+        "id": "18:3b",
         "page": 18,
         "line": 3,
         "text": "& the angel saith unto me what Behold",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/18"
       },
       {
-        "id": "18:4",
+        "id": "18:4a",
         "page": 18,
         "line": 4,
         "text": "est thou & I said I behold many Nations &",
@@ -47,7 +54,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "18:4",
+        "id": "18:4b",
         "page": 18,
         "line": 4,
         "text": "kingdoms ",
@@ -61,7 +68,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/18"
       },
       {
-        "id": "18:6",
+        "id": "18:6a",
         "page": 18,
         "line": 6,
         "text": "of the gentiles",
@@ -76,7 +83,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "18:6",
+        "id": "18:6b",
         "page": 18,
         "line": 6,
         "text": "& it came to pass that I saw among the ",
@@ -90,7 +97,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/18"
       },
       {
-        "id": "18:8",
+        "id": "18:8a",
         "page": 18,
         "line": 8,
         "text": "Church",
@@ -104,7 +111,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "18:8",
+        "id": "18:8b",
         "page": 18,
         "line": 8,
         "text": "& the angel said unto me behold the form",
@@ -139,10 +146,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/18"
       },
       {
-        "id": "18:13",
+        "id": "18:13a",
         "page": 18,
         "line": 13,
-        "text": "dow[n] into Captivity & it came to pass that I be",
+        "text": "dow[n] into Captivity",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/18"
       }
     ]
@@ -153,6 +160,13 @@
     "verse": 6,
     "lines": [
       {
+        "id": "18:13b",
+        "page": 18,
+        "line": 13,
+        "text": "& it came to pass that I be",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/18"
+      },
+      {
         "id": "18:14",
         "page": 18,
         "line": 14,
@@ -160,7 +174,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/18"
       },
       {
-        "id": "18:15",
+        "id": "18:15a",
         "page": 18,
         "line": 15,
         "text": "the devel that he was the founder of it",
@@ -174,7 +188,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "18:15",
+        "id": "18:15b",
         "page": 18,
         "line": 15,
         "text": "& I also saw ",
@@ -195,7 +209,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/18"
       },
       {
-        "id": "18:18",
+        "id": "18:18a",
         "page": 18,
         "line": 18,
         "text": "Harlotts",
@@ -209,7 +223,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "18:18",
+        "id": "18:18b",
         "page": 18,
         "line": 18,
         "text": "& the Angel spake unto me saying ",
@@ -238,7 +252,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/18"
       },
       {
-        "id": "18:22",
+        "id": "18:22a",
         "page": 18,
         "line": 22,
         "text": "abominable Church",
@@ -252,7 +266,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "18:22",
+        "id": "18:22b",
         "page": 18,
         "line": 22,
         "text": "& also for the praise of the ",
@@ -267,7 +281,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/18"
       },
       {
-        "id": "18:24",
+        "id": "18:24a",
         "page": 18,
         "line": 24,
         "text": "down into Captivity",
@@ -281,7 +295,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "18:24",
+        "id": "18:24b",
         "page": 18,
         "line": 24,
         "text": "& it came to pass that I looked ",
@@ -295,7 +309,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/18"
       },
       {
-        "id": "18:26",
+        "id": "18:26a",
         "page": 18,
         "line": 26,
         "text": "the seed of my Brethren",
@@ -310,7 +324,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "18:26",
+        "id": "18:26b",
         "page": 18,
         "line": 26,
         "text": "& it came to pass that the ",
@@ -325,7 +339,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/18"
       },
       {
-        "id": "18:28",
+        "id": "18:28a",
         "page": 18,
         "line": 28,
         "text": "on the seed of thy Brethren",
@@ -340,7 +354,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "18:28",
+        "id": "18:28b",
         "page": 18,
         "line": 28,
         "text": "& I looked & Beheld a ",
@@ -382,7 +396,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/18"
       },
       {
-        "id": "18:34",
+        "id": "18:34a",
         "page": 18,
         "line": 34,
         "text": "thren which where in the promised land",
@@ -396,7 +410,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "18:34",
+        "id": "18:34b",
         "page": 18,
         "line": 34,
         "text": "& it ",
@@ -418,7 +432,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/18"
       },
       {
-        "id": "18:37",
+        "id": "18:37a",
         "page": 18,
         "line": 37,
         "text": "th out of captivity upon the many waters",
@@ -432,7 +446,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "18:37",
+        "id": "18:37b",
         "page": 18,
         "line": 37,
         "text": "& it ",
@@ -468,7 +482,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/18"
       },
       {
-        "id": "18:42",
+        "id": "18:42a",
         "page": 18,
         "line": 42,
         "text": "were smitten",
@@ -482,7 +496,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "18:42",
+        "id": "18:42b",
         "page": 18,
         "line": 42,
         "text": "& I Beheld the spirit of the Lord that ",
@@ -512,7 +526,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/18"
       },
       {
-        "id": "18:46",
+        "id": "18:46a",
         "page": 18,
         "line": 46,
         "text": "my people before that they were slain",
@@ -526,7 +540,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "18:46",
+        "id": "18:46b",
         "page": 18,
         "line": 46,
         "text": "& it came ",
@@ -554,7 +568,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/18"
       },
       {
-        "id": "18:50",
+        "id": "18:50a",
         "page": 18,
         "line": 50,
         "text": "them",
@@ -569,7 +583,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "18:50",
+        "id": "18:50b",
         "page": 18,
         "line": 50,
         "text": "& I Beheld that their mother gentiles was ",
@@ -583,7 +597,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/18"
       },
       {
-        "id": "18:52",
+        "id": "18:52a",
         "page": 18,
         "line": 52,
         "text": "also to Battle against them",
@@ -597,7 +611,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "18:52",
+        "id": "18:52b",
         "page": 18,
         "line": 52,
         "text": "& I Beheld that the ",
@@ -619,7 +633,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/18"
       },
       {
-        "id": "19:1",
+        "id": "19:1a",
         "page": 19,
         "line": 1,
         "text": "against them to Battle",
@@ -633,7 +647,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "19:1",
+        "id": "19:1b",
         "page": 19,
         "line": 1,
         "text": "& I Nephi Beheld that ",
@@ -656,7 +670,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/19"
       },
       {
-        "id": "19:4",
+        "id": "19:4a",
         "page": 19,
         "line": 4,
         "text": "Hands of all other Nations",
@@ -670,7 +684,7 @@
     "verse": 20,
     "lines": [
       {
-        "id": "19:4",
+        "id": "19:4b",
         "page": 19,
         "line": 4,
         "text": "& it came to pass ",
@@ -692,7 +706,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/19"
       },
       {
-        "id": "19:7",
+        "id": "19:7a",
         "page": 19,
         "line": 7,
         "text": "among them",
@@ -706,14 +720,14 @@
     "verse": 21,
     "lines": [
       {
-        "id": "19:7",
+        "id": "19:7b",
         "page": 19,
         "line": 7,
         "text": "& the Angel saith unto me know",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/19"
       },
       {
-        "id": "19:8",
+        "id": "19:8a",
         "page": 19,
         "line": 8,
         "text": "est thou the meaning of the",
@@ -727,14 +741,14 @@
     "verse": 22,
     "lines": [
       {
-        "id": "19:8",
+        "id": "19:8b",
         "page": 19,
         "line": 8,
         "text": "Book & I saith I ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/19"
       },
       {
-        "id": "19:9",
+        "id": "19:9a",
         "page": 19,
         "line": 9,
         "text": "know not",
@@ -748,7 +762,7 @@
     "verse": 23,
     "lines": [
       {
-        "id": "19:9",
+        "id": "19:9b",
         "page": 19,
         "line": 9,
         "text": "& he saith Behold it proceedeth out ",
@@ -825,7 +839,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/19"
       },
       {
-        "id": "19:20",
+        "id": "19:20a",
         "page": 19,
         "line": 20,
         "text": "are of great worth unto the gentiles",
@@ -839,7 +853,7 @@
     "verse": 24,
     "lines": [
       {
-        "id": "19:20",
+        "id": "19:20b",
         "page": 19,
         "line": 20,
         "text": "& the Ange",
@@ -889,7 +903,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/19"
       },
       {
-        "id": "19:27",
+        "id": "19:27a",
         "page": 19,
         "line": 27,
         "text": "truth which is in the Lamb of God",
@@ -903,7 +917,7 @@
     "verse": 25,
     "lines": [
       {
-        "id": "19:27",
+        "id": "19:27b",
         "page": 19,
         "line": 27,
         "text": "wherefore ",
@@ -924,7 +938,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/19"
       },
       {
-        "id": "19:30",
+        "id": "19:30a",
         "page": 19,
         "line": 30,
         "text": "which is in God",
@@ -938,7 +952,7 @@
     "verse": 26,
     "lines": [
       {
-        "id": "19:30",
+        "id": "19:30b",
         "page": 19,
         "line": 30,
         "text": "& after that they go forth by ",
@@ -1001,7 +1015,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/19"
       },
       {
-        "id": "19:39",
+        "id": "19:39a",
         "page": 19,
         "line": 39,
         "text": "have they taken away",
@@ -1015,7 +1029,7 @@
     "verse": 27,
     "lines": [
       {
-        "id": "19:39",
+        "id": "19:39b",
         "page": 19,
         "line": 39,
         "text": "& all this have they done ",
@@ -1036,7 +1050,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/19"
       },
       {
-        "id": "19:42",
+        "id": "19:42a",
         "page": 19,
         "line": 42,
         "text": "the hearts of the Children of men",
@@ -1050,7 +1064,7 @@
     "verse": 28,
     "lines": [
       {
-        "id": "19:42",
+        "id": "19:42b",
         "page": 19,
         "line": 42,
         "text": "wherefore thou ",
@@ -1087,11 +1101,11 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/19"
       },
       {
-        "id": "19:47",
+        "id": "19:47a",
         "page": 19,
         "line": 47,
-        "text": "is the book of the lamb of God &",
-        "markdown": "is the {{bo}}ok of the lamb of God &",
+        "text": "is the book of the lamb of God",
+        "markdown": "is the {{bo}}ok of the lamb of God",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/19"
       }
     ]
@@ -1102,10 +1116,10 @@
     "verse": 29,
     "lines": [
       {
-        "id": "19:47",
+        "id": "19:47b",
         "page": 19,
         "line": 47,
-        "text": "after that ",
+        "text": "& after that ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/19"
       },
       {
@@ -1211,7 +1225,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/20"
       },
       {
-        "id": "20:9",
+        "id": "20:9a",
         "page": 20,
         "line": 9,
         "text": "over them",
@@ -1225,7 +1239,7 @@
     "verse": 30,
     "lines": [
       {
-        "id": "20:9",
+        "id": "20:9b",
         "page": 20,
         "line": 9,
         "text": "nevertheless thou beholdest that the ",
@@ -1299,7 +1313,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/20"
       },
       {
-        "id": "20:19",
+        "id": "20:19a",
         "page": 20,
         "line": 19,
         "text": "which is among thy Brethren",
@@ -1313,7 +1327,7 @@
     "verse": 31,
     "lines": [
       {
-        "id": "20:19",
+        "id": "20:19b",
         "page": 20,
         "line": 19,
         "text": "Neither will ",
@@ -1328,7 +1342,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/20"
       },
       {
-        "id": "20:21",
+        "id": "20:21a",
         "page": 20,
         "line": 21,
         "text": "of thy Brethren",
@@ -1342,7 +1356,7 @@
     "verse": 32,
     "lines": [
       {
-        "id": "20:21",
+        "id": "20:21b",
         "page": 20,
         "line": 21,
         "text": "neither will the Lord God suffer ",
@@ -1420,6 +1434,13 @@
         "line": 30,
         "text": "mnant of the House of israel in great Judgem",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/20"
+      },
+      {
+        "id": "20:31a",
+        "page": 20,
+        "line": 31,
+        "text": "ent",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/20"
       }
     ]
   },
@@ -1429,10 +1450,10 @@
     "verse": 34,
     "lines": [
       {
-        "id": "20:31",
+        "id": "20:31b",
         "page": 20,
         "line": 31,
-        "text": "ent & it came to pass that the Angel of the ",
+        "text": "& it came to pass that the Angel of the ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/20"
       },
       {
@@ -1553,7 +1574,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/20"
       },
       {
-        "id": "20:48",
+        "id": "20:48a",
         "page": 20,
         "line": 48,
         "text": "in & precious saith the Lamb",
@@ -1567,7 +1588,7 @@
     "verse": 35,
     "lines": [
       {
-        "id": "20:48",
+        "id": "20:48b",
         "page": 20,
         "line": 48,
         "text": "for behold saith ",
@@ -1611,24 +1632,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/20"
       },
       {
-        "id": "20:54",
+        "id": "20:54a",
         "page": 20,
         "line": 54,
-        "text": "thy Brethren Behold these things",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/20"
-      }
-    ]
-  },
-  {
-    "book": "1-ne",
-    "chapter": 13,
-    "verse": 37,
-    "lines": [
-      {
-        "id": "20:54",
-        "page": 20,
-        "line": 54,
-        "text": "shall be hid",
+        "text": "thy Brethren Behold these things shall be",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/20"
       }
     ]

@@ -5,7 +5,7 @@
     "verse": 0,
     "lines": [
       {
-        "id": "204:1",
+        "id": "204:1g",
         "page": 204,
         "line": 1,
         "text": "his Sons ",
@@ -13,7 +13,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/204"
       },
       {
-        "id": "204:2",
+        "id": "204:2a",
         "page": 204,
         "line": 2,
         "text": "The Book of Nephi the Son of Nephi which was the Son of",
@@ -28,7 +28,7 @@
     "verse": 1,
     "lines": [
       {
-        "id": "204:2",
+        "id": "204:2b",
         "page": 204,
         "line": 2,
         "text": "Helaman ",
@@ -36,11 +36,11 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/204"
       },
       {
-        "id": "204:3",
+        "id": "204:3a",
         "page": 204,
         "line": 3,
-        "text": "had passed away & it was six hundred years from the time that Lehi left Jerusalem& it was in the year that Lachoneus was the Chief Judge & the Governor over the land& Nephi",
-        "markdown": "{{had passed}} away & i{{t was six hundred years from the time that Lehi left Jerusalem& it was}} in the {{year that Lachoneus was the Chief Judge & the Governor over the land& Nephi",
+        "text": "had passed away & it was six hundred years from the time that Lehi left Jerusalem& it was in the year that Lachoneus was the Chief Judge & the Governor over the",
+        "markdown": "{{had passed}} away & i{{t was six hundred years from the time that Lehi left Jerusalem& it was}} in the {{year that Lachoneus was the Chief Judge & the Governor over the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/204"
       }
     ]
@@ -51,56 +51,12 @@
     "verse": 2,
     "lines": [
       {
-        "id": "204:3",
+        "id": "204:3b",
         "page": 204,
         "line": 3,
-        "text": "the Son of Helaman had departed out of the land of Zarahemla giveing Chargeunto his Son Nephi which was his eldest Son concerning the plates",
-        "markdown": "the}} Son of {{Helaman had departed out of the land of Zarahemla giveing Chargeunto his Son}} N{{ephi which was his eldest Son concerning the plates",
+        "text": "land& Nephi the Son of Helaman had departed out of the land of Zarahemla giveing Chargeunto his Son Nephi which was his eldest Son concerning the plates of Brass",
+        "markdown": "land& Nephi the}} Son of {{Helaman had departed out of the land of Zarahemla giveing Chargeunto his Son}} N{{ephi which was his eldest Son concerning the plates of Brass",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/204"
-      }
-    ]
-  },
-  {
-    "book": "3-ne",
-    "chapter": 1,
-    "verse": 3,
-    "lines": [
-      {
-        "id": "204:3",
-        "page": 204,
-        "line": 3,
-        "text": "of",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/204"
-      }
-    ]
-  },
-  {
-    "book": "3-ne",
-    "chapter": 1,
-    "verse": 4,
-    "lines": [
-      {
-        "id": "204:3",
-        "page": 204,
-        "line": 3,
-        "text": "Brass & all",
-        "markdown": "Brass & all}}",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/204"
-      }
-    ]
-  },
-  {
-    "book": "3-ne",
-    "chapter": 1,
-    "verse": 9,
-    "lines": [
-      {
-        "id": "205:1",
-        "page": 205,
-        "line": 1,
-        "text": "came",
-        "markdown": "{{came",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/205"
       }
     ]
   },
@@ -110,11 +66,19 @@
     "verse": 10,
     "lines": [
       {
-        "id": "205:1",
+        "id": "204:3c",
+        "page": 204,
+        "line": 3,
+        "text": "& all ",
+        "markdown": "& all}} ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/204"
+      },
+      {
+        "id": "205:1a",
         "page": 205,
         "line": 1,
-        "text": "to pass that when Nephi the Son of Nephi saw this wickedness <​of his People​> his heart was excedingsorrowful",
-        "markdown": "to pass that when Nephi the Son of}} Nephi saw this wicke{{dness <​of his People​> his heart was excedingsorrowful",
+        "text": "came to pass that when Nephi the Son of Nephi saw this wickedness <​of his People​> his heart was excedingsorrowful",
+        "markdown": "{{came to pass that when Nephi the Son of}} Nephi saw this wicke{{dness <​of his People​> his heart was excedingsorrowful",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/205"
       }
     ]
@@ -125,7 +89,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "205:1",
+        "id": "205:1b",
         "page": 205,
         "line": 1,
         "text": "& it came to pass that he went out & bowed himself down upon the Earth & criedmightily to his God in behalf of his People yea those which were about to be destroid becauseof their faith in the tradition of their Fathers",
@@ -140,7 +104,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "205:1",
+        "id": "205:1c",
         "page": 205,
         "line": 1,
         "text": "& it came to pass that he cried mightily untothe Lord all that day & behold the voice of the Lord came unto him saying",
@@ -155,11 +119,11 @@
     "verse": 13,
     "lines": [
       {
-        "id": "205:1",
+        "id": "205:1d",
         "page": 205,
         "line": 1,
-        "text": "lift up your head& be of good cheer for behold the time is at hand & on this night shall the sign begiven & on the morrow come I into the world to shew unto the world that I will fulfil all<​that​> which I have caused to be spoken by the mouth of my Holy Prophets behold I",
-        "markdown": "lift up your head& be of good cheer for behold}} the {{ti}}me is at hand & on this nig{{ht shall the sign begiven & on the morrow come I}} into th{{e w}}orl{{d to shew un}}to the world t{{hat I will fulfil all<​that​> which I have caused to be spo}}ken by the mouth of {{m}}y Holy Prophet{{s behold I",
+        "text": "lift up your head& be of good cheer for behold the time is at hand & on this night shall the sign begiven & on the morrow come I into the world to shew unto the world that I will fulfil all<​that​> which I have caused to be spoken by the mouth of my Holy Prophets",
+        "markdown": "lift up your head& be of good cheer for behold}} the {{ti}}me is at hand & on this nig{{ht shall the sign begiven & on the morrow come I}} into th{{e w}}orl{{d to shew un}}to the world t{{hat I will fulfil all<​that​> which I have caused to be spo}}ken by the mouth of {{m}}y Holy Prophet{{s",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/205"
       }
     ]
@@ -170,11 +134,11 @@
     "verse": 14,
     "lines": [
       {
-        "id": "205:1",
+        "id": "205:1e",
         "page": 205,
         "line": 1,
-        "text": "come untomy own to fulfil all things which I have made known unto the Children of men from thefoundation of the world & to do the will both of the Father & of the Son",
-        "markdown": "come untomy own to fulfil all things which I have}} made k{{no}}wn unt{{o}} the Ch{{i}}ldren {{of men from thefoundation of the world & to do the will both of}} the Father {{& of the Son",
+        "text": "behold I come untomy own to fulfil all things which I have made known unto the Children of men from thefoundation of the world & to do the will both of the",
+        "markdown": "behold I come untomy own to fulfil all things which I have}} made k{{no}}wn unt{{o}} the Ch{{i}}ldren {{of men from thefoundation of the world & to do the will both of}} the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/205"
       }
     ]
@@ -185,11 +149,11 @@
     "verse": 15,
     "lines": [
       {
-        "id": "205:1",
+        "id": "205:1f",
         "page": 205,
         "line": 1,
-        "text": "of the",
-        "markdown": "of the}}",
+        "text": "Father & of the Son",
+        "markdown": "Father {{& of the Son",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/205"
       }
     ]
@@ -200,7 +164,15 @@
     "verse": 16,
     "lines": [
       {
-        "id": "205:2",
+        "id": "205:1g",
+        "page": 205,
+        "line": 1,
+        "text": "of the ",
+        "markdown": "of the}} ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/205"
+      },
+      {
+        "id": "205:2a",
         "page": 205,
         "line": 2,
         "text": "which they had laid for those who believed in <​the words of​> the Prophets had been frustrated for thesign which had been given was already at hand",
@@ -215,7 +187,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "205:2",
+        "id": "205:2b",
         "page": 205,
         "line": 2,
         "text": "& they began to know that the Son of God ",
@@ -223,40 +195,11 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/205"
       },
       {
-        "id": "205:3",
+        "id": "205:3a",
         "page": 205,
         "line": 3,
-        "text": "whole Earth from the West to the East both in the land North",
-        "markdown": "{{whole}} Earth fr{{om the West to the East both in the land North",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/205"
-      }
-    ]
-  },
-  {
-    "book": "3-ne",
-    "chapter": 1,
-    "verse": 18,
-    "lines": [
-      {
-        "id": "205:3",
-        "page": 205,
-        "line": 3,
-        "text": "&",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/205"
-      }
-    ]
-  },
-  {
-    "book": "3-ne",
-    "chapter": 1,
-    "verse": 19,
-    "lines": [
-      {
-        "id": "205:3",
-        "page": 205,
-        "line": 3,
-        "text": "in the land South",
-        "markdown": "in the land South}}",
+        "text": "whole Earth from the West to the East both in the land North & in",
+        "markdown": "{{whole}} Earth fr{{om the West to the East both in the land North & in",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/205"
       }
     ]
@@ -267,7 +210,15 @@
     "verse": 24,
     "lines": [
       {
-        "id": "206:1",
+        "id": "205:3b",
+        "page": 205,
+        "line": 3,
+        "text": "the land South ",
+        "markdown": "the land South}} ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/205"
+      },
+      {
+        "id": "206:1a",
         "page": 206,
         "line": 1,
         "text": "by the Scriptures that it was no more expediant to observe the law of Moses now in thisthing they did err haveing not understood the Scriptures",
@@ -282,7 +233,7 @@
     "verse": 25,
     "lines": [
       {
-        "id": "206:1",
+        "id": "206:1b",
         "page": 206,
         "line": 1,
         "text": "but it came to pass thatthey soon became converted & were convinsed of the error which they were in for it wasmade known unto them that the law was not yet fulfiled & that it must be fulfiled inevery whit yea the word came unto them that it must be fulfiled yea that one jotnor tittle should not pass away till it should all be fulfiled therefore in this sameyear were they brought to a Knowledge of their error & did confess their faults",
@@ -297,7 +248,7 @@
     "verse": 26,
     "lines": [
       {
-        "id": "206:1",
+        "id": "206:1c",
         "page": 206,
         "line": 1,
         "text": "& thusthe ninety & second year did pass away bringing glad tidings unto the People becauseof the Signs which did come to pass according to the words of the Prophesy ofall the holy Prophets",
@@ -312,11 +263,11 @@
     "verse": 27,
     "lines": [
       {
-        "id": "206:1",
+        "id": "206:1d",
         "page": 206,
         "line": 1,
-        "text": "& it came to pass that the ninety & third year did also pass",
-        "markdown": "& it came to p}}ass th{{at the ninety & third year did also pass}}",
+        "text": "& it came to pass that the ninety & third year did also",
+        "markdown": "& it came to p}}ass th{{at the ninety & third year did also",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/206"
       }
     ]
@@ -327,7 +278,15 @@
     "verse": 28,
     "lines": [
       {
-        "id": "206:2",
+        "id": "206:1e",
+        "page": 206,
+        "line": 1,
+        "text": "pass ",
+        "markdown": "pass}} ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/206"
+      },
+      {
+        "id": "206:2a",
         "page": 206,
         "line": 2,
         "text": "Nephites which did remain in the land",
@@ -342,7 +301,7 @@
     "verse": 29,
     "lines": [
       {
-        "id": "206:2",
+        "id": "206:2b",
         "page": 206,
         "line": 2,
         "text": "& there was also a cause of much sorrowamong the Lamanites for behold they had many Children which did grow up & ",
@@ -350,11 +309,11 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/206"
       },
       {
-        "id": "206:3",
+        "id": "206:3a",
         "page": 206,
         "line": 3,
-        "text": "by some which were Zoramites by their lieings & their flattering words",
-        "markdown": "{{by some which were Zoramites by their lieings & their flatter}}ing words",
+        "text": "by some which were Zoramites by their lieings & their flattering words to",
+        "markdown": "{{by some which were Zoramites by their lieings & their flatter}}ing words t{{o",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/206"
       }
     ]
