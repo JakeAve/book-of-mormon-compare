@@ -270,6 +270,7 @@
         "page": 384,
         "line": 38,
         "text": "turned upon him & they dearst not open their mouths even one to another & ",
+        "markdown": "turned upon him & they dearst not open their mouths even one to another & ~~they~~ ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/384"
       },
       {
@@ -923,6 +924,7 @@
         "page": 386,
         "line": 4,
         "text": "& whoso believeth in me & is baptised the same ",
+        "markdown": "& whoso believeth in me & is baptised the same ~~<​shall​>~~ ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/386"
       },
       {
@@ -1122,6 +1124,7 @@
         "page": 386,
         "line": 18,
         "text": "rock but he buildeth upon a sandy foundation & the gates of Hell standeth ",
+        "markdown": "rock but he buildeth upon a sandy foundation & the gates of Hell standeth ~~open~~ ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/386"
       },
       {

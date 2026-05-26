@@ -1,6 +1,7 @@
 import { tokenizeSource } from "./align2/tokenize-source.ts";
 import { groupByVerse, tokenizeTarget } from "./align2/tokenize-target.ts";
 import { runCursor } from "./align2/cursor.ts";
+import { runScaffoldAlign } from "./align2/scaffold-align.ts";
 import { buildAllVerseOutputs, type OutVerse } from "./align2/build-output.ts";
 import { verseKey } from "./align2/line-key.ts";
 import {
@@ -28,13 +29,18 @@ async function run(
   const targetWords = tokenizeTarget(canonVerses);
   const verseGroups = groupByVerse(targetWords);
 
-  const cursorResults = runCursor(
-    sourceWords,
-    verseGroups,
-    lineInfos,
-    adapter.cursor,
-    adapter.dictionary,
-  );
+  const cursorResults = adapter.algorithm === "scaffold"
+    ? runScaffoldAlign(sourceWords, verseGroups, lineInfos, {
+      ngrams: [6, 4, 3],
+      minTokensPerVerse: adapter.scaffoldMinTokensPerVerse ?? 3,
+    })
+    : runCursor(
+      sourceWords,
+      verseGroups,
+      lineInfos,
+      adapter.cursor,
+      adapter.dictionary,
+    );
   console.log(`  cursor assigned: ${cursorResults.length} words`);
 
   const canonByKey = new Map(

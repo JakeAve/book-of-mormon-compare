@@ -9,6 +9,7 @@
         "page": 193,
         "line": 12,
         "text": "The Book of Helaman ",
+        "markdown": "The Book of Helaman {{}} ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/193"
       },
       {
@@ -16,6 +17,7 @@
         "page": 193,
         "line": 13,
         "text": "Chapter ",
+        "markdown": "Chapter {{}} ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/193"
       },
       {
@@ -71,7 +73,7 @@
         "page": 193,
         "line": 20,
         "text": "en down to the comeing of Christ which is called the Book of Helaman &Cet. ",
-        "markdown": "en down to the comeing of Christ which is called the Book of Helaman &C[et.] ",
+        "markdown": "en down to the comeing of Christ which is called the Book of Helaman &C[et.] {{}} ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/193"
       },
       {
@@ -236,8 +238,8 @@
         "id": "194:1b",
         "page": 194,
         "line": 1,
-        "text": "& it came to pass that Pacumeni when he saw that hecould not obtain the Judgment seat he did unite with the voice of the Peoplebut behold Paanchi & that part",
-        "markdown": "& it came to pass}} that Pacumeni when he saw {{that hecould not obtain the Judgment seat}} he did unite with the voice of th{{e Peoplebut behold Paanchi & that part",
+        "text": "& it came to pass that Pacumeni when he saw that hecould not obtain the Judgment seat he did unite with the voice of the",
+        "markdown": "& it came to pass}} that Pacumeni when he saw {{that hecould not obtain the Judgment seat}} he did unite with the voice of th{{e",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/194"
       }
     ]
@@ -251,8 +253,8 @@
         "id": "194:1c",
         "page": 194,
         "line": 1,
-        "text": "of the People that were desireous that he shouldbe their governor was exceding wroth therefore he was about to flatter away thosePeople to rise up in rebellion against their Brethren",
-        "markdown": "of the}} P{{e}}ople that were desireous that he sh{{ouldbe their governor was exceding wroth}} therefore he was about to flatter aw{{a}}y {{thosePeople to rise up in rebellion against}} their Brethren",
+        "text": "Peoplebut behold Paanchi & that part of the People that were desireous that he shouldbe their governor was exceding wroth therefore he was about to flatter away thosePeople to rise up in rebellion against their Brethren",
+        "markdown": "Peoplebut behold Paanchi & that part of the}} P{{e}}ople that were desireous that he sh{{ouldbe their governor was exceding wroth}} therefore he was about to flatter aw{{a}}y {{thosePeople to rise up in rebellion against}} their Brethren",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/194"
       }
     ]
@@ -320,8 +322,8 @@
         "id": "194:6a",
         "page": 194,
         "line": 6,
-        "text": "horon & murdered Pahoron as he sat upon the",
-        "markdown": "{{horon & murdered Pahoron as}} he sat upon the",
+        "text": "horon & murdered Pahoron as he sat upon the Judgment",
+        "markdown": "{{horon & murdered Pahoron as}} he sat upon the Judgment",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/194"
       }
     ]
@@ -335,7 +337,7 @@
         "id": "194:6b",
         "page": 194,
         "line": 6,
-        "text": "Judgment seat & he was persued by ",
+        "text": "seat & he was persued by ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/194"
       },
       {
@@ -465,7 +467,7 @@
         "page": 194,
         "line": 17,
         "text": "ing to his right & all this was done in the fortyeth year of the Reign of the Judges ",
-        "markdown": "{{ing to his right & all}} this was done in the fortyeth year of the Reign of the Judges ",
+        "markdown": "{{ing to his right & all}} this was done in the fortyeth year of the Reign of the Judges ~~&~~ ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/194"
       },
       {
@@ -631,8 +633,8 @@
         "id": "195:1a",
         "page": 195,
         "line": 1,
-        "text": "should march down to the land of Zarahemla to Battle against the Nephites",
-        "markdown": "{{sh}}ould march down to the land of Za{{rahemla to Battle against the Nephites",
+        "text": "should march down to the land of Zarahemla to Battle against the",
+        "markdown": "{{sh}}ould march down to the land of Za{{rahemla to Battle against the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/195"
       }
     ]
@@ -646,8 +648,8 @@
         "id": "195:1b",
         "page": 195,
         "line": 1,
-        "text": "& itcame to pass that because of so much contention & so much difficulty in the goverment that they had not kept sufficient guards in the land of Zarahemla forthey had supposed that the Lamanites dearst not come into the heart of their ",
-        "markdown": "& itcame to}} pass that because of so much {{contention & so much difficulty in the govermen}}t that they had not kept suffi{{cient guards in the land of Zarahemla forthey}} had supposed that the Lamani{{tes dearst not come into the heart of their}} ",
+        "text": "Nephites & itcame to pass that because of so much contention & so much difficulty in the goverment that they had not kept sufficient guards in the land of Zarahemla forthey had supposed that the Lamanites dearst not come into the heart of their ",
+        "markdown": "Nephites & itcame to}} pass that because of so much {{contention & so much difficulty in the govermen}}t that they had not kept suffi{{cient guards in the land of Zarahemla forthey}} had supposed that the Lamani{{tes dearst not come into the heart of their}} ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/195"
       },
       {
@@ -1023,9 +1025,17 @@
         "id": "195:33",
         "page": 195,
         "line": 33,
-        "text": "of many",
-        "markdown": "of {{many}}",
+        "text": "of many ",
+        "markdown": "of {{many}} ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/195"
+      },
+      {
+        "id": "196:1a",
+        "page": 196,
+        "line": 1,
+        "text": "strong holds",
+        "markdown": "{{strong holds",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/196"
       }
     ]
   },
@@ -1035,19 +1045,19 @@
     "verse": 28,
     "lines": [
       {
-        "id": "196:1",
+        "id": "196:1b",
         "page": 196,
         "line": 1,
-        "text": "strong holds but when Moronihah had discovered this he immediately sent ",
-        "markdown": "{{strong holds but when Moronihah had disco}}vered this he immediately sent ",
+        "text": "but when Moronihah had discovered this he immediately sent ",
+        "markdown": "but when Moronihah had disco}}vered this he immediately sent ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/196"
       },
       {
         "id": "196:2a",
         "page": 196,
         "line": 2,
-        "text": "forth Lehi with an army round about to head them before they should come to theland Bountiful & thus he did head them before they came to the land Bountiful&",
-        "markdown": "{{forth Lehi with an army round about to he}}ad them before they should com{{e to theland Bountiful & thus he did head the}}m before they came to the land Bount{{iful&",
+        "text": "forth Lehi with an army round about to head them before they should come to theland Bountiful",
+        "markdown": "{{forth Lehi with an army round about to he}}ad them before they should com{{e to theland Bountiful",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/196"
       }
     ]
@@ -1061,8 +1071,8 @@
         "id": "196:2b",
         "page": 196,
         "line": 2,
-        "text": "gave unto them Battle insomuch that they began to retreat back towardsthe land of Zarahemla",
-        "markdown": "gave unto them Battle insomuch that}} they began to retreat back tow{{ardsthe land of Zarahemla",
+        "text": "& thus he did head them before they came to the land Bountiful& gave unto them Battle insomuch that they began to retreat back towardsthe land of Zarahemla",
+        "markdown": "& thus he did head the}}m before they came to the land Bount{{iful& gave unto them Battle insomuch that}} they began to retreat back tow{{ardsthe land of Zarahemla",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/196"
       }
     ]
@@ -1176,7 +1186,7 @@
         "page": 196,
         "line": 9,
         "text": "it came to pass that Moronihah took possession of the city of Zarahemla again & caused that the ",
-        "markdown": "{{it came to pass that Moronihah}} took possession of the city of Zarahemla again & caused that the ",
+        "markdown": "{{it came to pass that Moronihah}} took possession of the city of Zarahemla again & caused that the ~~La~~ ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/196"
       },
       {

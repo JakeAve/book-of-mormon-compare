@@ -2,30 +2,60 @@
   {
     "book": "enos",
     "chapter": 1,
-    "verse": 9,
+    "verse": 0,
     "lines": [
       {
-        "id": "75:15",
+        "id": "75:15a",
         "page": 75,
         "line": 15,
-        "text": "The Book of Enos Chapter first ",
-        "markdown": "{{ The Book of Enos Chapter}} ",
+        "text": "The Book of Enos Chapter",
+        "markdown": "{{ The Book of Enos",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/75"
+      }
+    ]
+  },
+  {
+    "book": "enos",
+    "chapter": 1,
+    "verse": 1,
+    "lines": [
+      {
+        "id": "75:15b",
+        "page": 75,
+        "line": 15,
+        "text": "first ",
+        "markdown": "Chapter}} first ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/75"
       },
       {
-        "id": "75:16",
+        "id": "75:16a",
         "page": 75,
         "line": 16,
-        "text": "Behold it came to pass that I Enos knowing my father that he was a",
-        "markdown": "{{Behold it came to pass that I Enos}} knowing my father that he {{was a}}",
+        "text": "Behold it came to pass that I Enos knowing my father that he was",
+        "markdown": "{{Behold it came to pass that I Enos}} knowing my father that he {{was",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/75"
+      }
+    ]
+  },
+  {
+    "book": "enos",
+    "chapter": 1,
+    "verse": 9,
+    "lines": [
+      {
+        "id": "75:16b",
+        "page": 75,
+        "line": 16,
+        "text": "a",
+        "markdown": "a}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/75"
       },
       {
         "id": "76:1a",
         "page": 76,
         "line": 1,
-        "text": "these words I began to feel a desire for the wellfare of my Brethrenthe Nephites wherefore I did pour out my whole soul unto God",
-        "markdown": "these words I began to feel a desire for {{the wellfare of my Brethrenthe}} Nephites wherefore I did pour out my whole {{soul unto God",
+        "text": "these words I began to feel a desire for the wellfare of my Brethrenthe Nephites wherefore I did pour out my whole soul unto God for",
+        "markdown": "these words I began to feel a desire for {{the wellfare of my Brethrenthe}} Nephites wherefore I did pour out my whole {{soul unto God for",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/76"
       }
     ]
@@ -39,8 +69,8 @@
         "id": "76:1b",
         "page": 76,
         "line": 1,
-        "text": "for them& while I was thus struggleing in the spirit behold the voice of the Lord ca",
-        "markdown": "for them& while I was}} thus struggleing in the spirit b{{e}}h{{old the voice of the Lord ca}}",
+        "text": "them& while I was thus struggleing in the spirit behold the voice of the Lord ca",
+        "markdown": "them& while I was}} thus struggleing in the spirit b{{e}}h{{old the voice of the Lord ca}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/76"
       },
       {
@@ -225,306 +255,9 @@
         "id": "76:17",
         "page": 76,
         "line": 17,
-        "text": "restoreing them to the true faith & they swore in their wrath that ifit were possible they would destroy our records & us & also all the traditions ",
-        "markdown": "restoreing them to the true faith {{& they swore in their wrath that ifit were p}}ossible they would destroy our {{records & us & also all the traditions}} ",
+        "text": "restoreing them to the true faith & they swore in their wrath that ifit were possible they would destroy our records & us & also all the traditions",
+        "markdown": "restoreing them to the true faith {{& they swore in their wrath that ifit were p}}ossible they would destroy our {{records & us & also all the traditions}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/76"
-      },
-      {
-        "id": "77:1a",
-        "page": 77,
-        "line": 1,
-        "text": "it came to pass that there was one among them whose name wasZeezrom",
-        "markdown": "{{it came t}}o pas{{s}} tha{{t there was one among them whose name wasZeezrom}}",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/77"
-      }
-    ]
-  },
-  {
-    "book": "enos",
-    "chapter": 1,
-    "verse": 15,
-    "lines": [
-      {
-        "id": "77:1b",
-        "page": 77,
-        "line": 1,
-        "text": "now he being the foremost to accuse Amulek & Alma hebeing one of the most expert among them having much business to do among the people now the object of these lawyers were to getgain & they gat gain according to their employ now it was in thelaw of Mosiah that every man which",
-        "markdown": "now he being {{the foremost to accuse Amulek & Alma hebeing one of}} the most exp{{e}}rt {{among them having much business}} to do among the people {{now the object of these lawyers were to getgain}} & th{{e}}y gat gain according to th{{eir employ now it was in thelaw o}}f Mos{{i}}ah that every man which",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/77"
-      }
-    ]
-  },
-  {
-    "book": "enos",
-    "chapter": 1,
-    "verse": 16,
-    "lines": [
-      {
-        "id": "77:1c",
-        "page": 77,
-        "line": 1,
-        "text": "was a Judge of the law or whichwas appointed to be Judges should receive his wages according to thetime which they laboured to judge those which were brought beforethem to be judged now if a man oweth another & he wouldnot pay",
-        "markdown": "{{was a Judge of the law or whichwa}}s appointed to be Judges should {{receive his wages according to theti}}me which ~~he~~ [they] laboured to jud{{ge those which were brought beforethem}} to be judged now if a ma{{n oweth another & he wouldnot p}}ay",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/77"
-      }
-    ]
-  },
-  {
-    "book": "enos",
-    "chapter": 1,
-    "verse": 17,
-    "lines": [
-      {
-        "id": "77:1d",
-        "page": 77,
-        "line": 1,
-        "text": "that which he did owe he was complained of to theJudge & the Judge executed authority & sent forth officers thatthe man should be",
-        "markdown": "that which he did ow{{e he was complained of to theJudge}} & the Judge executed {{authority & sent forth officers thatthe}} man should be",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/77"
-      }
-    ]
-  },
-  {
-    "book": "enos",
-    "chapter": 1,
-    "verse": 18,
-    "lines": [
-      {
-        "id": "77:1e",
-        "page": 77,
-        "line": 1,
-        "text": "brought before him & he judgeth the man according to the law & the evidences which are brought against him& thus the man is compeled to pay that which he oweth or be stripedor be cast out from among the",
-        "markdown": "brought {{before him & he judgeth the man accordin}}g to the law & the evid{{ences which are brought against him&}} thus th{{e}} man is compel{{ed to pay that which he oweth or be stripedo}}r be cast o{{u}}t from amon{{g the",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/77"
-      }
-    ]
-  },
-  {
-    "book": "enos",
-    "chapter": 1,
-    "verse": 19,
-    "lines": [
-      {
-        "id": "77:1f",
-        "page": 77,
-        "line": 1,
-        "text": "people as a thief & a rober and theJudge receiveth for his wages according to his time a senine ofGold for a day or a senum of silver which is equal to asenine of Gold & this is according",
-        "markdown": "people as a thief & a rober and theJudge}} receiveth for {{his wages according to his time a senine ofGold for}} a day or a {{senum of sil}}ver {{which is equal to asenine of Go}}ld & {{this is according",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/77"
-      }
-    ]
-  },
-  {
-    "book": "enos",
-    "chapter": 1,
-    "verse": 20,
-    "lines": [
-      {
-        "id": "77:1g",
-        "page": 77,
-        "line": 1,
-        "text": "to the law which is givennow these are the names of the different pieces of their Gold& of their silver according to their value & the names are givenby the Nephites for they did not reckon after the manner ofthe Jews which were at Jerusalem neither did they measureafter the manner of the Jews but they altered their reckoning ",
-        "markdown": "to}} the {{law which is givenno}}w these are th{{e names of the different pieces of their Gold& of}} their silver {{according to their value & the names are givenby}} the Nephites f{{or they did not reckon after the manner ofthe}} Jews which {{were at Jerusalem neither did they measureaf}}ter ~~their~~ [the] man{{ner of the Jews but they altered their reckoning}} ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/77"
-      },
-      {
-        "id": "78:1a",
-        "page": 78,
-        "line": 1,
-        "text": "was as great as them all now this is the value of the lessernumbers of their reckoning a shiblon is half of a senum therefore a shiblon for a half a measure of barly & a shilum is ahalf of a shiblon & a leah is the half of a shilum now an antion ofGold is equal to three shiblons now this is their number according to their reckoning now it was for the sole purpose for toget gain",
-        "markdown": "{{was as great as them all now this is the value of}} the les{{sernumbers of their reckoning a shiblon is ha}}lf of a senum {{therefore a shiblon for a half a measu}}re {{of barl}}y & a shilum i{{s ahalf of a shiblon & a leah is the}} half of a shilum now an antio{{n ofGold is equal to three shiblo}}ns now this is their number acco{{rding to their reckoning now}} it was for the sole purpose for t{{oget gain",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/78"
-      }
-    ]
-  },
-  {
-    "book": "enos",
-    "chapter": 1,
-    "verse": 21,
-    "lines": [
-      {
-        "id": "78:1b",
-        "page": 78,
-        "line": 1,
-        "text": "because they received their wages according totheir employ therefore they did stir up the people to riotings& all manner of disterbences & wickedness that they mighthave more employ that they might get moneyaccording to the suits which was brought before them therefore they did stir up the people against Alma & Amulek & thusZeezrum began to",
-        "markdown": "because they re}}ceived their wages according t{{otheir employ therefore they}} did stir up the people to riot{{ings& all manner of disterben}}ces & wickedness that they {{mighthave more employ }} ~~ey &~~ that they might get {{moneyaccording to the suits which}} was brought before them th{{erefore they did stir up the people a}}gainst Alma & Amulek {{& thusZeezrum began",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/78"
-      }
-    ]
-  },
-  {
-    "book": "enos",
-    "chapter": 1,
-    "verse": 22,
-    "lines": [
-      {
-        "id": "78:1c",
-        "page": 78,
-        "line": 1,
-        "text": "question Amulek saying will ye answer mea few questions which I shall ask you now Zeezrum was aman which was expert in",
-        "markdown": "to question Amu}}lek saying will ye ans{{wer mea few questions which I shall}} ask you now Zeezrum w{{as aman which was expert",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/78"
-      }
-    ]
-  },
-  {
-    "book": "enos",
-    "chapter": 1,
-    "verse": 23,
-    "lines": [
-      {
-        "id": "78:1d",
-        "page": 78,
-        "line": 1,
-        "text": "the devises of the Devil that hemight destroy that which was good therefore he saith untoAmulek will ye answer the questions which I shall put untoyou & Amulek saith unto him yea I will if it be accordingto the spirit of the Lord which is in me for I shall say nothing which is conterary to the spirit of the Lord & Zeezrumsaith unto him behold here is six onties of silver &all these will I give unto thee if thou wilt denythe existance of a supreme being now Amulek saith ",
-        "markdown": "in th}}e devises of the Devil th{{at hemight destroy that which was}} good th{{ere}}fore he saith {{untoAmulek will ye answer the qu}}esti{{ons whic}}h I shal{{l put untoyou & Amulek saith unto}} him y{{ea I will i}}f it b{{e accordingto the spirit of the Lord which is in me for I}} shall say n{{othing which is conterary to the spirit of the}} Lord & Zeezru{{msaith unto him behold here is si}}x onties of sil{{ver &all these will I give unto thee i}}f thou wil{{t denythe existance of a supreme being now}} Amulek ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/78"
-      },
-      {
-        "id": "79:1a",
-        "page": 79,
-        "line": 1,
-        "text": "true & a liveing God & Amulek saith yea there is a true",
-        "markdown": "{{true}} & a li{{ve}}ing God {{& Amulek saith yea there is a true",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/79"
-      }
-    ]
-  },
-  {
-    "book": "enos",
-    "chapter": 1,
-    "verse": 24,
-    "lines": [
-      {
-        "id": "79:1b",
-        "page": 79,
-        "line": 1,
-        "text": "& a liveingGod now Zeezrum saith is there more than one God &",
-        "markdown": "& a liveingG}}od now Zeezrum sai{{th is there more than one God &",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/79"
-      }
-    ]
-  },
-  {
-    "book": "enos",
-    "chapter": 1,
-    "verse": 25,
-    "lines": [
-      {
-        "id": "79:1c",
-        "page": 79,
-        "line": 1,
-        "text": "he answer ",
-        "markdown": "he answer}} ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/79"
-      },
-      {
-        "id": "79:2",
-        "page": 79,
-        "line": 2,
-        "text": "eth no now Zeezrum saith unto him again how knowest ",
-        "markdown": "eth no now Zeez{{r}}um {{sai}}th {{unto him again how knowest}} ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/79"
-      },
-      {
-        "id": "79:3",
-        "page": 79,
-        "line": 3,
-        "text": "thou these things & he saith an angel hath made them ",
-        "markdown": "thou these things & {{he}} sai{{th an angel hath made them}} ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/79"
-      },
-      {
-        "id": "79:4",
-        "page": 79,
-        "line": 4,
-        "text": "known unto me & Zeezrum saith again who is he that shall come ",
-        "markdown": "known unto me & Zeezrum saith {{again who is he that shall come}} ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/79"
-      },
-      {
-        "id": "79:5a",
-        "page": 79,
-        "line": 5,
-        "text": "is it",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/79"
-      }
-    ]
-  },
-  {
-    "book": "enos",
-    "chapter": 1,
-    "verse": 26,
-    "lines": [
-      {
-        "id": "79:5b",
-        "page": 79,
-        "line": 5,
-        "text": "the son of God & he saith unto him yea & Zeezrum saith ",
-        "markdown": "the son of God & he saith u{{nto him yea & Zeezrum saith}} ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/79"
-      },
-      {
-        "id": "79:6",
-        "page": 79,
-        "line": 6,
-        "text": "again shall he save his People in their sins & Amu ",
-        "markdown": "again shall he save his Peop{{le in their sins & Amu}} ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/79"
-      },
-      {
-        "id": "79:7",
-        "page": 79,
-        "line": 7,
-        "text": "lek answered & said unto him I say unto you he shallnot for it is impossible for him to deny his word now ",
-        "markdown": "lek answered & said unto him {{I say unto you he shallno}}t ~~now~~ [for] it is impossible for h{{im to deny his word now}} ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/79"
-      },
-      {
-        "id": "79:8",
-        "page": 79,
-        "line": 8,
-        "text": "Zeezrum saith unto the people see that ye remember these things for he saith there is but one God yet he saith that ",
-        "markdown": "Zeezrum saith unto the peo{{ple see that ye remember these thin}}gs for he saith there is bu{{t one God yet he saith that}} ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/79"
-      },
-      {
-        "id": "79:9a",
-        "page": 79,
-        "line": 9,
-        "text": "the son of",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/79"
-      }
-    ]
-  },
-  {
-    "book": "enos",
-    "chapter": 1,
-    "verse": 27,
-    "lines": [
-      {
-        "id": "79:9b",
-        "page": 79,
-        "line": 9,
-        "text": "God shall come but he shall not save his ",
-        "markdown": "God shall come but {{he shall not save his}} ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/79"
-      },
-      {
-        "id": "79:10",
-        "page": 79,
-        "line": 10,
-        "text": "people as tho he had authority to command God now Amu ",
-        "markdown": "people as tho he had authority {{to command God now Amu}} ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/79"
-      },
-      {
-        "id": "79:11a",
-        "page": 79,
-        "line": 11,
-        "text": "lek said again unto him behold thou hast lied forthou sayest that I speak as tho I had authority to commandGod because I said he shall not save his people in theirsins & I say unto you again that he cannot save themin their sins for I cannot deny his word & he hathsaid that no unclean thing can inherit the Kingdom of Heaven therefore how can ye be saved except ye",
-        "markdown": "l{{e}}k ~~saith~~ [said] again unto him {{behold thou hast lied forthou}} sayest that I speak as {{tho I had authority to commandGod}} because I said he sh{{all not save his people in theirsins}} & I say unto you aga{{in that he cannot save themin}} their sins for I can{{not deny his word & he hathsai}}d that no unclean thing {{can inherit the Kingdom of Heaven}} therefore how ca{{n}} ye b{{e saved except ye",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/79"
       }
     ]
   }

@@ -248,6 +248,7 @@
         "page": 42,
         "line": 36,
         "text": "ertheless I do not write any thing upon plates save it be that I think ",
+        "markdown": "ertheless I do not write any thing upon plates save it be that I think ~~to~~ ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/42"
       },
       {
@@ -304,7 +305,7 @@
         "page": 43,
         "line": 6,
         "text": "do men trample under their feet I say trample under their feet ",
-        "markdown": "do men trample under their feet I ~~saay~~ [say] trample under their feet ",
+        "markdown": "do men trample under their feet I ~~saay~~ [say] trample under their feet ~~be~~ ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/43"
       },
       {

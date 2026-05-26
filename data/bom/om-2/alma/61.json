@@ -1,0 +1,70 @@
+[
+  {
+    "book": "alma",
+    "chapter": 61,
+    "verse": 10,
+    "lines": [
+      {
+        "id": "186:9c",
+        "page": 186,
+        "line": 9,
+        "text": "in ",
+        "markdown": "in}} ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/186"
+      },
+      {
+        "id": "187:1a",
+        "page": 187,
+        "line": 1,
+        "text": "stay in their own land",
+        "markdown": "{{stay in their own land",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/187"
+      }
+    ]
+  },
+  {
+    "book": "alma",
+    "chapter": 61,
+    "verse": 11,
+    "lines": [
+      {
+        "id": "187:1b",
+        "page": 187,
+        "line": 1,
+        "text": "we would not shed the blood of our Brethren if theywould not rise up in rebellion & take the sword against us",
+        "markdown": "we would not shed}} the {{bloo}}d of {{our Brethren if theywould not rise up in rebellion & take th}}e sword again{{st us",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/187"
+      }
+    ]
+  },
+  {
+    "book": "alma",
+    "chapter": 61,
+    "verse": 12,
+    "lines": [
+      {
+        "id": "187:1c",
+        "page": 187,
+        "line": 1,
+        "text": "we would subjectourselves to the yoke of bondage if it requisite with the justice of Godor if he should command us so to do",
+        "markdown": "we would subjectourselves to the yoke of bondage if it }} requisi{{te with the justice of Godor if he should command us so to",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/187"
+      }
+    ]
+  },
+  {
+    "book": "alma",
+    "chapter": 61,
+    "verse": 13,
+    "lines": [
+      {
+        "id": "187:1d",
+        "page": 187,
+        "line": 1,
+        "text": "but behold he doth not command us that",
+        "markdown": "do but beho}}ld h{{e doth not command us",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/187"
+      }
+    ]
+  }
+]

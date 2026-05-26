@@ -400,6 +400,7 @@
         "page": 314,
         "line": 6,
         "text": "obtained possession by the sheding of the blood of so many of our valiant men",
+        "markdown": "obtained possession by the sheding of the blood of so many of our valiant men ~~<​the​>~~",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/314"
       }
     ]
@@ -1118,6 +1119,7 @@
         "page": 315,
         "line": 27,
         "text": "but behold it was night therefore they did not overtake us neither did Antipus ",
+        "markdown": "but behold it was night therefore they did not overtake us neither did Antipus ~~ove~~ ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/315"
       },
       {

@@ -5,10 +5,10 @@
     "verse": 1,
     "lines": [
       {
-        "id": "12:10",
+        "id": "12:10b",
         "page": 12,
         "line": 10,
-        "text": "Chapter 3rd.—— ",
+        "text": "3rd.—— ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
       },
       {
@@ -79,7 +79,7 @@
         "id": "12:18a",
         "page": 12,
         "line": 18,
-        "text": "the jews",
+        "text": "the jews how",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
       }
     ]
@@ -93,7 +93,7 @@
         "id": "12:18b",
         "page": 12,
         "line": 18,
-        "text": "how that after they ware destroyd ye[a] even th",
+        "text": "that after they ware destroyd ye[a] even th",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
       },
       {
@@ -131,6 +131,13 @@
         "line": 23,
         "text": "of captivity to possess again their land of inherritanc",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
+      },
+      {
+        "id": "12:24a",
+        "page": 12,
+        "line": 24,
+        "text": "e",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
       }
     ]
   },
@@ -140,10 +147,10 @@
     "verse": 4,
     "lines": [
       {
-        "id": "12:24",
+        "id": "12:24b",
         "page": 12,
         "line": 24,
-        "text": "e yea even six hundred years fron the time that my ",
+        "text": "yea even six hundred years fron the time that my ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
       },
       {
@@ -537,6 +544,7 @@
         "page": 13,
         "line": 8,
         "text": "lord that we should be scattered uppon all the fase ",
+        "markdown": "lord that we should be scattered uppon all the fase ~~of~~ ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/13"
       },
       {
@@ -565,6 +573,7 @@
         "page": 13,
         "line": 10,
         "text": "ld be scattered they should be gethered to gether ",
+        "markdown": "ld be scattered they should be gethered to gether ~~ag~~ ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/13"
       },
       {
@@ -886,8 +895,8 @@
         "id": "13:43a",
         "page": 13,
         "line": 43,
-        "text": "be brot into judgment",
-        "markdown": "be brot ~~unto~~ [into] judgment",
+        "text": "be brot into judgment where",
+        "markdown": "be brot ~~unto~~ [into] judgment where",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/13"
       }
     ]
@@ -901,7 +910,7 @@
         "id": "13:43b",
         "page": 13,
         "line": 43,
-        "text": "where for if ye have sot to ",
+        "text": "for if ye have sot to ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/13"
       },
       {
@@ -930,7 +939,7 @@
         "id": "13:47a",
         "page": 13,
         "line": 47,
-        "text": "must be cast of[f]",
+        "text": "must be cast of[f] for ever",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/13"
       }
     ]
@@ -944,7 +953,7 @@
         "id": "13:47b",
         "page": 13,
         "line": 47,
-        "text": "for ever and the holy gost giveth autho",
+        "text": "and the holy gost giveth autho",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/13"
       },
       {

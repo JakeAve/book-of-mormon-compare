@@ -559,6 +559,7 @@
         "page": 184,
         "line": 28,
         "text": "the voice of the Lord saying unto you in that day come unto me ye blessed for ",
+        "markdown": "the voice of the Lord saying unto you in that day come unto me ye blessed for ~~your~~ ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/184"
       },
       {
@@ -710,7 +711,7 @@
         "page": 185,
         "line": 4,
         "text": "can no man be saved except his garments ",
-        "markdown": "can no man be saved except his garment[s] ",
+        "markdown": "can no man be saved except his garment[s] ~~is cleansed from all stain through~~ ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/185"
       },
       {
@@ -844,6 +845,7 @@
         "page": 185,
         "line": 15,
         "text": "I say unto you nay except ye make our ",
+        "markdown": "I say unto you nay except ye make our ~~Lord~~ ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/185"
       },
       {

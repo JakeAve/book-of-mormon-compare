@@ -51,6 +51,7 @@
         "page": 320,
         "line": 15,
         "text": "they were so exceding more numerous than was our army that we dearst not ",
+        "markdown": "they were so exceding more numerous than was our army that we dearst not ~~of~~ ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/320"
       },
       {
@@ -478,7 +479,7 @@
         "page": 321,
         "line": 15,
         "text": "& it came to pass that when they saw that we were not strong according to our ",
-        "markdown": "& it came to pass that when they saw ~~thad~~ [that] we were not strong ~~as~~ [according] to our ",
+        "markdown": "& it came to pass that when they saw ~~thad~~ [that] we were not strong ~~as~~ [according] to our ~~<​numbers​>~~ ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/321"
       },
       {
@@ -707,6 +708,7 @@
         "page": 321,
         "line": 36,
         "text": "upon the guards which were left to guard the city insomuch that they did ",
+        "markdown": "upon the guards which were left to guard the city insomuch that they did ~~destroy~~ ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/321"
       },
       {

@@ -9,6 +9,7 @@
         "page": 197,
         "line": 14,
         "text": "Chapter ",
+        "markdown": "Chapter {{}} ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/197"
       },
       {
@@ -250,8 +251,8 @@
         "id": "198:1a",
         "page": 198,
         "line": 1,
-        "text": "that they did multiply & spread & did go forth from the land southwardto the land northward & did spread insomuch that they began to cover the faceof the whole earth from the Sea South to the Sea North from the Sea West to theSea East & the",
-        "markdown": "{{that they did multiply & spread & did}} go forth from the land sout{{hwardto the land northward & did spread inso}}much that they began to cover {{the faceof the whole earth from the Sea South}} to the Sea North from the Sea W{{e}}s{{t to theSea East & the",
+        "text": "that they did multiply & spread & did go forth from the land southwardto the land northward & did spread insomuch that they began to cover the faceof the whole earth from the Sea South to the Sea North from the Sea West to theSea East",
+        "markdown": "{{that they did multiply & spread & did}} go forth from the land sout{{hwardto the land northward & did spread inso}}much that they began to cover {{the faceof the whole earth from the Sea South}} to the Sea North from the Sea W{{e}}s{{t to theSea East",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/198"
       }
     ]
@@ -265,8 +266,8 @@
         "id": "198:1b",
         "page": 198,
         "line": 1,
-        "text": "People which were in the land Northward did dwell in tents & inhouses of Cement & they did suffer whatsoever tree should spring up upon the ",
-        "markdown": "People which were in th}}e land Northward did dwell in ten{{ts & inhouses of Cement & they did suffer}} whatsoever ~~he~~ [tree] should spring up upon the ",
+        "text": "& the People which were in the land Northward did dwell in tents & inhouses of Cement & they did suffer whatsoever tree should spring up upon the ",
+        "markdown": "& the People which were in th}}e land Northward did dwell in ten{{ts & inhouses of Cement & they did suffer}} whatsoever ~~he~~ [tree] should spring up upon the ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/198"
       },
       {
@@ -650,308 +651,12 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/198"
       },
       {
-        "id": "198:30",
+        "id": "198:30a",
         "page": 198,
         "line": 30,
-        "text": "the eldest the name of Nephi & unto the youngest the name of Lehi & they ",
-        "markdown": "{{the eldest the na}}me of Nephi & unto the youngest the name of Lehi & they ",
+        "text": "the eldest the name of Nephi & unto the youngest the name of Lehi",
+        "markdown": "{{the eldest the na}}me of Nephi & unto the youngest the name of Lehi",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/198"
-      },
-      {
-        "id": "199:1a",
-        "page": 199,
-        "line": 1,
-        "text": "all things are become slippery & we cannot hold them behold we are surrounded byDemons",
-        "markdown": "{{all things are bec}}ome slippery & we can{{not hold them behold we are surrounded byDemons",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/199"
-      }
-    ]
-  },
-  {
-    "book": "hel",
-    "chapter": 3,
-    "verse": 22,
-    "lines": [
-      {
-        "id": "199:1b",
-        "page": 199,
-        "line": 1,
-        "text": "yea we are encercled about by the angels of him who hath sought to destroyour souls behold our iniquities are great O Lord canst thou not turn away <​thine angar​> from us &this shall be your language in them days but behold your days of probation is passed ye have procrastinated the day",
-        "markdown": "yea we are}} encercle[d] abou{{t}} by the ange{{ls of him who hath sought to destroyour souls behold ou}}r iniquities are great O Lo{{r}}d can{{st thou not turn away <​thine angar​> from us &this shall be your}} language in them days but b{{ehold your days of probation is passed ye have procrastinated the day}}",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/199"
-      }
-    ]
-  },
-  {
-    "book": "hel",
-    "chapter": 3,
-    "verse": 23,
-    "lines": [
-      {
-        "id": "199:1c",
-        "page": 199,
-        "line": 1,
-        "text": "of your Salvation untill it is everlastingly to late & your destructionis made sure yea for ye have sought all the days of your lives for that which ye couldnot obtain & ye have sought for happiness in doing iniquity which thing is conterary tothe nature of that righteousness which is in our great & eternal head O ye People ofthe land that ye would hear my words & I pray that the angar of the Lord be turned awayfrom you & that ye would repent",
-        "markdown": "of your Salvation untill {{it is everlastingly to late & your destructionis made sure yea fo}}r ye have sought all the day{{s of your lives for that which ye couldnot obtain & ye have so}}ught for happiness {{in doing iniquity which thing is conterary tothe nature of that right}}eousness which is in {{our great & eternal head O ye People ofthe land that ye would}} hear my words & I p{{ray that the angar of the Lord be turned awayfrom you & that ye w}}ould repent",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/199"
-      }
-    ]
-  },
-  {
-    "book": "hel",
-    "chapter": 3,
-    "verse": 24,
-    "lines": [
-      {
-        "id": "199:1d",
-        "page": 199,
-        "line": 1,
-        "text": "& be saved & now it came to pass that Samuel the Lamanite did prophesy a great many more things which cannot be written & behold he sayeth unto them Behold I give unto you a sign for five years more cometh",
-        "markdown": "& be saved & now it cam{{e to pass that Samuel the Lamanite did prophesy a}} great many more things which ca{{nnot be written & behold he sayeth unto them Beho}}ld I give unto you a sig{{n for five years more cometh",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/199"
-      }
-    ]
-  },
-  {
-    "book": "hel",
-    "chapter": 3,
-    "verse": 25,
-    "lines": [
-      {
-        "id": "199:1e",
-        "page": 199,
-        "line": 1,
-        "text": "& behold then cometh the Son of God to redeem all those who shall believe on his name & behold this willI give <​unto you​> for a sign at the time of his comeing for behold there shall be great lights",
-        "markdown": "& behold then cometh the Son of God}} ~~re~~ to redeem all those who {{shall believe on his name & behold this willI give <​unto you​> for a sign a}}t the time of his comei{{ng for behold there shall be great lights",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/199"
-      }
-    ]
-  },
-  {
-    "book": "hel",
-    "chapter": 3,
-    "verse": 26,
-    "lines": [
-      {
-        "id": "199:1f",
-        "page": 199,
-        "line": 1,
-        "text": "inHeaven insomuch that in the night before he cometh there shall be no darkness insomuch ",
-        "markdown": "inHeaven insomuch that in the nig}}ht before h{{e}} co{{meth there shall be no darkness insomuch}} ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/199"
-      },
-      {
-        "id": "199:2a",
-        "page": 199,
-        "line": 2,
-        "text": "ye shall know of the riseing of the Sun & also of its sitting therefore they shall know ofa surety that",
-        "markdown": "{{ye shall know of the ri}}seing of {{the Sun & also of its sitting therefore they shall know ofa surety that",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/199"
-      }
-    ]
-  },
-  {
-    "book": "hel",
-    "chapter": 3,
-    "verse": 27,
-    "lines": [
-      {
-        "id": "199:2b",
-        "page": 199,
-        "line": 2,
-        "text": "there shall be two days & a night nevertheless the night shall not be dark ",
-        "markdown": "there shall be}} two day{{s & a night nevertheless the night shall not be dark}} ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/199"
-      },
-      {
-        "id": "199:3a",
-        "page": 199,
-        "line": 3,
-        "text": "wonders in Heaven & it shall come to pass that ye shall all be",
-        "markdown": "{{wonders in Heaven & it shall come to pass that ye shall all be",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/199"
-      }
-    ]
-  },
-  {
-    "book": "hel",
-    "chapter": 3,
-    "verse": 28,
-    "lines": [
-      {
-        "id": "199:3b",
-        "page": 199,
-        "line": 3,
-        "text": "amazed & wonder insomuchthat ye shall fall to the earth & it shall come to pass that whosoever shall believe on theSon of God the same shall have everlasting life & behold thus hath the Lord commanded ",
-        "markdown": "amazed & w}}onder {{insomuchthat ye shall fall to the earth & it shall come to pass that whosoever sh}}all believe {{on theSon of God the same shall have everlasting life & behold thus hath the}} Lord co{{mmanded}} ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/199"
-      },
-      {
-        "id": "200:1a",
-        "page": 200,
-        "line": 1,
-        "text": "another",
-        "markdown": "{{another",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/200"
-      }
-    ]
-  },
-  {
-    "book": "hel",
-    "chapter": 3,
-    "verse": 29,
-    "lines": [
-      {
-        "id": "200:1b",
-        "page": 200,
-        "line": 1,
-        "text": "sign I give unto you yea a sign of his death for behold he surely must die thatSalvation may come yea it behoveth him & becometh expediant that he dieth to bring to passthe resurrection of the dead that thereby men may be brought into the presance of theLord yea behold this death bringeth to pass the resurrection & redeemeth all mankind from thefirst death that spiritual death for all mankind by the",
-        "markdown": "sign I give unto you yea a sign of his}} death for behold he surely {{must die thatSalvation may come yea it behoveth hi}}m & becometh e{{x}}pediant that he di{{eth to bring to passthe resurrection of the dead that there}}by men may be brought into th{{e presance of theLord yea behold this death bringeth to pass}} the resurrection & redeemeth a{{ll mankind from thefirst death that spiritual death for all m}}ankind by the",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/200"
-      }
-    ]
-  },
-  {
-    "book": "hel",
-    "chapter": 3,
-    "verse": 30,
-    "lines": [
-      {
-        "id": "200:1c",
-        "page": 200,
-        "line": 1,
-        "text": "fall of Adam being cut off from the presance of the Lord are considered as dead both as to things temporal & to things spiritual butbehold the resurrection of Christ redeemeth mankind yea even all mankind & bringeth them backinto the presance of the Lord <​yea​> bringeth to",
-        "markdown": "fall of Adam being {{cut off from the presance of the Lord are considered as dead}} both as to things tempor{{a}}l & t{{o things spiritual butbehold the resurrection of Christ redeem}}eth mankind yea eve{{n all mankind & bringeth them backinto the presance of the Lord <​yea​> br}}ingeth to",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/200"
-      }
-    ]
-  },
-  {
-    "book": "hel",
-    "chapter": 3,
-    "verse": 31,
-    "lines": [
-      {
-        "id": "200:1d",
-        "page": 200,
-        "line": 1,
-        "text": "pass the conditions of repentance thatwhosoever repenteth the same is not hewn down & cast into the fire but whosoever repenteth notis hewn down & cast into the",
-        "markdown": "pass the condi{{tions of repentance thatwhosoever repenteth the same is not hew}}n down & cast into th{{e fire but whosoever repenteth notis hewn down & cast int}}o the",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/200"
-      }
-    ]
-  },
-  {
-    "book": "hel",
-    "chapter": 3,
-    "verse": 32,
-    "lines": [
-      {
-        "id": "200:1e",
-        "page": 200,
-        "line": 1,
-        "text": "fire & there cometh upon them again a spiritual death yea a seconddeath for they are cut off again as to things pertaining to righteousness therefore repentye repent ye lest by knowing these things & not doing them ye shall suffer yourselvesto come under condemnation & ye are brought down unto",
-        "markdown": "fire & there cometh upon them agai{{n a spiritual death yea a seconddeath for they are cut}} off again as to things pertaining to ri{{ghteousness therefore repentye repent ye lest by knowing th}}ese things & not doing the{{m ye shall suffer yourselvesto come under condemnation & ye are}} brought down unto",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/200"
-      }
-    ]
-  },
-  {
-    "book": "hel",
-    "chapter": 3,
-    "verse": 33,
-    "lines": [
-      {
-        "id": "200:1f",
-        "page": 200,
-        "line": 1,
-        "text": "this second death but behold as I saidunto you concerning another sign a sign of his death behold in that day that he shall sufferdeath the Sun shall be darkened & refuse to give his light unto you & also the Moon & the Stars & ",
-        "markdown": "this secon{{d death but behold as I saidunto you concerning another sign a sign}} of his death behold in t{{hat day that he shall sufferdeath the Sun shall be darkened & refuse to}} giv{{e}} h{{is}} lig{{h}}t {{un}}to {{you & also the Moon & the Stars &}} ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/200"
-      },
-      {
-        "id": "200:2a",
-        "page": 200,
-        "line": 2,
-        "text": "that he shall yield up the Ghost there shall be thunderings & lightnings for the",
-        "markdown": "{{that he shall yield up the Ghost there}} shall be thu{{nderings & lightnings for the",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/200"
-      }
-    ]
-  },
-  {
-    "book": "hel",
-    "chapter": 3,
-    "verse": 34,
-    "lines": [
-      {
-        "id": "200:2b",
-        "page": 200,
-        "line": 2,
-        "text": "spaceof many hours & the Earth shall shake & tremble & the rocks which is upon the face of the ",
-        "markdown": "spaceof many hours & the Earth shall shake &}} tremble {{& the rocks which is upon the face of the}} ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/200"
-      },
-      {
-        "id": "200:3a",
-        "page": 200,
-        "line": 3,
-        "text": "shall be wrent in twain & shall ever after be found in seams & in cracks & in brokenfragments upon the face of the whole earth yea <​both​> above the earth",
-        "markdown": "{{shall be wren}}t in tw{{ain & shall ever after be found in seams & in cracks & in brokenfragmen}}ts upon the {{face of the whole earth yea <​both​> above the earth",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/200"
-      }
-    ]
-  },
-  {
-    "book": "hel",
-    "chapter": 3,
-    "verse": 35,
-    "lines": [
-      {
-        "id": "200:3b",
-        "page": 200,
-        "line": 3,
-        "text": "& both beneath & beholdthere shall be great tempests & there shall be many mountains laid low like unto a vally ",
-        "markdown": "& both beneath & beholdthere}} shall {{be great tempests & there shall be many mountains laid low like unto a vally}} ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/200"
-      },
-      {
-        "id": "201:1a",
-        "page": 201,
-        "line": 1,
-        "text": "might be saved & that whosoever will not believe a righteous Judgment might comeupon them & also if they are condemned they bring upon themselves their own condemnation & now remember remember my Brethren, that whosoever perisheth perishethunto himself & whosoever doeth iniquity doeth it unto himself",
-        "markdown": "{{might be saved & th}}at wh{{osoever}} will {{n}}ot {{believe a righteous Judgment might comeupon them & als}}o if they are condemned th{{e}}y {{br}}ing up{{on themselves their own condemnation & now re}}member remember my Brethren, th{{at whosoever perisheth perishethunto himself}} & whosoever doeth iniquity doeth it u{{nto himself",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/201"
-      }
-    ]
-  },
-  {
-    "book": "hel",
-    "chapter": 3,
-    "verse": 36,
-    "lines": [
-      {
-        "id": "201:1b",
-        "page": 201,
-        "line": 1,
-        "text": "for behold ye are free yeare permitted to act for yourselves for behold God hath given unto you a knowledge & he hathmade you free he hath given unto you that ye might know good from evil & he hath givenunto you that ye might chose life or death & ye can do good & be restored unto thatwhich is good or have that which is good restored",
-        "markdown": "for behold ye are free yeare permitte}}d to act for yourselves for behol{{d God hath given unto you a knowledge & he hathmade you fr}}ee he hath given unto you that {{ye might know good from evil & he hath givenunto you that y}}e might chose life ~~of~~ [or] death & ye {{c}}an {{do good & be restored unto thatwhich is good}} or have that which is good restored",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/201"
-      }
-    ]
-  },
-  {
-    "book": "hel",
-    "chapter": 3,
-    "verse": 37,
-    "lines": [
-      {
-        "id": "201:1c",
-        "page": 201,
-        "line": 1,
-        "text": "unto you or ye can do evil & have thatwhich is evil restored unto you & now my beloved Brethren behold I declare untoyou that except ye shall repent your Houses shall be left unto you desolates yea exceptye repent your women shall have great cause to mourn in the day that they shall givesuck for ye shall attempt to flee & there shall be no place for reffuge yea & wo untothem which are",
-        "markdown": "{{unto you or ye can do evil & have thatwhich is ev}}il restored unto you & now my belove{{d Brethren behold I declare untoyou that exc}}ept ye shall repent your Houses shall {{be left unto you desolates yea exceptye repent yo}}ur~~selves~~ [women] shall have great cause {{to mourn in the day that they shall givesuck for ye sh}}all attempt to flee & there shall {{be no place for reffuge yea & wo untothem which are}}",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/201"
       }
     ]
   }

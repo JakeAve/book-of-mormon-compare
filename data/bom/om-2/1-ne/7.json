@@ -58,21 +58,14 @@
         "page": 7,
         "line": 48,
         "text": "Might rais up seed unto the lord in the lord ",
+        "markdown": "Might rais up seed unto the lord in the lord ~~in the land~~ ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/7"
       },
       {
-        "id": "7:49",
+        "id": "7:49a",
         "page": 7,
         "line": 49,
-        "text": "of prommise and it came to pass that the lord com ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/7"
-      },
-      {
-        "id": "7:50",
-        "page": 7,
-        "line": 50,
-        "text": "manded him that i nephi and my brethren should",
-        "markdown": "manded him that i ~~lehi~~ [nephi] and my brethren should",
+        "text": "of prommise",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/7"
       }
     ]
@@ -82,6 +75,21 @@
     "chapter": 7,
     "verse": 2,
     "lines": [
+      {
+        "id": "7:49b",
+        "page": 7,
+        "line": 49,
+        "text": "and it came to pass that the lord com",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/7"
+      },
+      {
+        "id": "7:50",
+        "page": 7,
+        "line": 50,
+        "text": "manded him that i nephi and my brethren should ",
+        "markdown": "manded him that i ~~lehi~~ [nephi] and my brethren should ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/7"
+      },
       {
         "id": "7:51",
         "page": 7,
@@ -452,7 +460,7 @@
         "id": "8:31a",
         "page": 8,
         "line": 31,
-        "text": "thful in him & if it so be that we are faithful",
+        "text": "thful in him",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/8"
       }
     ]
@@ -466,7 +474,7 @@
         "id": "8:31b",
         "page": 8,
         "line": 31,
-        "text": "in him ",
+        "text": "& if it so be that we are faithful in him ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/8"
       },
       {
@@ -754,7 +762,7 @@
         "page": 9,
         "line": 7,
         "text": "And it came to pass that they ware angry with me again ",
-        "markdown": "And it came to pass that they [ware] angry with ~~we~~ me again ",
+        "markdown": "And it came to pass that they [ware] angry with ~~we~~ me again ~~and~~ ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/9"
       },
       {

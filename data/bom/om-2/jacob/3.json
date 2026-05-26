@@ -1,0 +1,49 @@
+[
+  {
+    "book": "jacob",
+    "chapter": 3,
+    "verse": 5,
+    "lines": [
+      {
+        "id": "65:3c",
+        "page": 65,
+        "line": 3,
+        "text": "word of the ",
+        "markdown": "w}}ord of the ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/65"
+      },
+      {
+        "id": "66:1",
+        "page": 66,
+        "line": 1,
+        "text": "behold the Lamanites your Brethren whom ye hate because of their filthine",
+        "markdown": "{{behold the Lamanites your Brethren whom ye hate because of their filthine}}",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/66"
+      },
+      {
+        "id": "66:2",
+        "page": 66,
+        "line": 2,
+        "text": "ss & the curseing which hath come upon their skins are more righteous ",
+        "markdown": "ss & {{the curseing which hath come upon their skins are more righteous}} ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/66"
+      },
+      {
+        "id": "66:3",
+        "page": 66,
+        "line": 3,
+        "text": "then you for they have not forgotten the commandment of the Lord ",
+        "markdown": "then yo{{u for they have not forgotten the commandment of the Lord}} ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/66"
+      },
+      {
+        "id": "66:4a",
+        "page": 66,
+        "line": 4,
+        "text": "which was given unto our father that they should have save it",
+        "markdown": "wh{{ich was given unto our father that they should have save it",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/66"
+      }
+    ]
+  }
+]

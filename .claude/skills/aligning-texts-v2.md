@@ -242,7 +242,7 @@ resolves the adapter, and runs the pipeline.
 | `pm` | `sources/pm.ts` | off | Default tuning. Source is generally LONGER than canonical. |
 | `1830` | `sources/_1830.ts` | `tailGapFactor: 8`, `tailTrimMaxMatchFraction: 0.7` | Source is CLOSE in length to canonical; some clauses dropped in 1830 were restored in later editions. |
 | `1837` | `sources/_1837.ts` | `tailGapFactor: 8`, `tailTrimMaxMatchFraction: 0.85` | 1837 retains some of the 1830 variants (incl. the alma 32:30 dropped clause). Slightly higher trim threshold than 1830 — same gap but trim fires for verses with higher baseline match coverage. |
-| `om` | `sources/om.ts` | off | The Original Manuscript is INCOMPLETE — only ~28% of the BoM survives, and the surviving pages jump around the canonical text. Uses `anchorWindowWords: 50` + `anchorLookaheadVerses: 1` + `srcPerCanonOverride: 1.10` to anchor each segment at the right canonical position and prevent window-smearing. **Still well below aligner1's quality** (17.9% vs 89.9% token-purity); see "OM is hard" notes below. |
+| `om` | `sources/om.ts` | n/a | The Original Manuscript is INCOMPLETE — only ~28% of the BoM survives, and the surviving pages jump around the canonical text. Uses the SCAFFOLD algorithm (`algorithm: "scaffold"`) instead of the verse-level LCS cursor — a unique-n-gram anchor-pair scaffold with LIS monotonicity + piecewise-linear interpolation. Ported from the legacy aligner1. Token-purity 90.4% (vs aligner1's 89.9%). |
 
 The `_1830.ts` filename leading underscore is just to avoid starting a TS
 identifier with a digit — the slug `"1830"` is what's used everywhere else.
@@ -359,22 +359,23 @@ When a verse looks wrong, follow this sequence:
 
 After full alignment:
 
-| Source | Aligner1 chapters | Aligner2 chapters | Aligner1 findings | Aligner2 findings |
+| Source | Aligner1 chapters | Aligner2 chapters | Aligner1 purity | Aligner2 purity |
 |---|---|---|---|---|
-| PM | 241 | 241 | 174 | 159 |
-| 1830 | 241 | 241 | 294 | 118 |
-| 1837 | 241 | 241 | 255 | 101 |
-| OM | 117 | 72 | 371 | 250 |
+| PM | 241 | 241 | 93.1% | 93.1% |
+| 1830 | 241 | 241 | 94.9% | 95.2% |
+| 1837 | 241 | 241 | 95.7% | 96.1% |
+| OM | 117 | 118 | 89.9% | 90.4% |
 
-OM is incomplete; the chapter-count drop reflects which canonical chapters have real source content. The set of chapters emitted by aligner1 and aligner2 doesn't fully overlap.
+**Token-purity audit** (`scripts/align-audit.ts`) is the most reliable signal — fraction of source tokens whose assigned canonical verse actually contains those tokens. Findings-count alone is misleading: an early aligner2-OM iteration had 239 findings (looked OK) but the audit revealed only 0.3% token-purity. Always run the audit after a cursor / scaffold change.
 
-**Token-purity audit** (`scripts/align-audit.ts`) is the most reliable signal — fraction of source tokens whose assigned canonical verse actually contains those tokens. Findings-count alone is misleading: aligner2 OM had 239 findings (looked OK) but the audit revealed only 0.3% token-purity. With anchor + srcPerCanonOverride the token-purity climbed to 17.9%, but aligner1 OM is at 89.9% — still a substantial gap.
+### Two alignment algorithms
 
-### OM is hard
+| Algorithm | When | Where |
+|---|---|---|
+| `cursor` (default) | Source covers ~all of canon continuously | `cursor.ts` — verse-level LCS with chapter-heading segmentation |
+| `scaffold` | Source is fragmentary / jumps around canon | `scaffold-align.ts` + `ngram-anchor.ts` — unique-n-gram anchor pairs + LIS monotonicity + interpolation |
 
-OM aligns reasonably for chapters where the anchor lands cleanly (early 1-ne, hel — 85-90% per-chapter purity), but degrades severely elsewhere (much of alma, mosiah, 2-ne — 0% per-chapter purity). The pattern is bimodal: the anchor either nails the start of a segment, or the cursor walks into a discontinuous region of OM coverage and drifts indefinitely.
-
-Aligner1's lead comes from **anchor-pair bucketing throughout the source**, not just at segment boundaries. Closing the gap would need either re-anchoring at every chapter-heading boundary inside a segment, or a fundamentally different algorithm. For now, OM should likely keep using aligner1's output until the gap closes — or aligner2's OM should be opt-in / experimental.
+The scaffold algorithm is ported from the legacy aligner1. The key idea: any n-gram that appears EXACTLY ONCE in both source and target is an unambiguous match. Collect those, sort by source position, take an LIS on target position to discard cross-overs, layer multiple n values (6 → 4 → 3) for sparse coverage. The result is a strictly monotone scaffold pinning source words to target positions across the entire source. Piecewise-linear interpolation fills in between anchors. Verses receiving fewer than `scaffoldMinTokensPerVerse` source tokens are treated as interpolation noise and absorbed into the nearest kept verse.
 
 Specific PM chapters known to be tricky (all aligned correctly now):
 - 1-ne 3:31 / 4:1 (canonical 3:31 ends "...then why not us"; 4:1 echoes

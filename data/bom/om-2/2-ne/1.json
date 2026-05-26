@@ -5,6 +5,13 @@
     "verse": 0,
     "lines": [
       {
+        "id": "42:12b",
+        "page": 42,
+        "line": 12,
+        "text": "Amen ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/42"
+      },
+      {
         "id": "42:13",
         "page": 42,
         "line": 13,
@@ -24,7 +31,7 @@
         "id": "42:15a",
         "page": 42,
         "line": 15,
-        "text": "wilderness— &C his journyings in the wilderness— &C— And",
+        "text": "wilderness— &C his journyings in the wilderness—",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/42"
       }
     ]
@@ -38,7 +45,7 @@
         "id": "42:15b",
         "page": 42,
         "line": 15,
-        "text": "now it came ",
+        "text": "&C— And now it came ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/42"
       },
       {
@@ -750,8 +757,8 @@
         "id": "44:4a",
         "page": 44,
         "line": 4,
-        "text": "shall prosper in the land but in as much as ye will not keep his commandments ye shall be cut offfrom his presance & now that my",
-        "markdown": "shall prosper in the land but in as much as ye will not [keep his commandments] ye shall be cut of{{ffrom}} his presance & now that my",
+        "text": "shall prosper in the land but in as much as ye will not keep his commandments ye shall be cut offfrom his presance",
+        "markdown": "shall prosper in the land but in as much as ye will not [keep his commandments] ye shall be cut of{{ffrom}} his presance",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/44"
       }
     ]
@@ -765,8 +772,8 @@
         "id": "44:4b",
         "page": 44,
         "line": 4,
-        "text": "Soul might have joy in you & that my heartmight leave this world with gladness because of you that I might not ",
-        "markdown": "Soul might have joy in you & that my hear{{tmi}}ght leave this world with gladness because of you that I might not ",
+        "text": "& now that my Soul might have joy in you & that my heartmight leave this world with gladness because of you that I might not ",
+        "markdown": "& now that my Soul might have joy in you & that my hear{{tmi}}ght leave this world with gladness because of you that I might not ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/44"
       },
       {
@@ -1127,96 +1134,9 @@
         "id": "44:36b",
         "page": 44,
         "line": 36,
-        "text": "& now Zoram I speak unto you behold thou art the servantof Laban nevertheless thou hast been brought out of the ",
-        "markdown": "& now Zoram I sp{{eak unto}} you behold thou art {{the servanto}}f Laban n{{eve}}rtheless thou {{hast been brought out of the}} ",
+        "text": "& now Zoram I speak unto you behold thou art the servantof Laban nevertheless thou hast been brought out",
+        "markdown": "& now Zoram I sp{{eak unto}} you behold thou art {{the servanto}}f Laban n{{eve}}rtheless thou {{hast been brought out",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/44"
-      },
-      {
-        "id": "45:1",
-        "page": 45,
-        "line": 1,
-        "text": "broken & my spirit is contrite O Lord wilt thou not shut the gates of thy righte ",
-        "markdown": "broken {{& my spirit is contrite O L}}or{{d}} wilt thou not shut the ga{{te}}s of {{t}}hy righte ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/45"
-      },
-      {
-        "id": "45:2a",
-        "page": 45,
-        "line": 2,
-        "text": "ousness before me that I may walk in the path",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/45"
-      }
-    ]
-  },
-  {
-    "book": "2-ne",
-    "chapter": 1,
-    "verse": 31,
-    "lines": [
-      {
-        "id": "45:2b",
-        "page": 45,
-        "line": 2,
-        "text": "of the low vally that I may be str ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/45"
-      },
-      {
-        "id": "45:3",
-        "page": 45,
-        "line": 3,
-        "text": "ict in the plane road O Lord wilt thou ensircle me around in the robe of thy ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/45"
-      },
-      {
-        "id": "45:4",
-        "page": 45,
-        "line": 4,
-        "text": "righteousness O Lord wilt thou make a way for mine escape before mine enemi ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/45"
-      },
-      {
-        "id": "45:5",
-        "page": 45,
-        "line": 5,
-        "text": "es wilt thou make my path strait before me wilt thou not place a stumbleing ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/45"
-      },
-      {
-        "id": "45:6a",
-        "page": 45,
-        "line": 6,
-        "text": "block in my way but",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/45"
-      }
-    ]
-  },
-  {
-    "book": "2-ne",
-    "chapter": 1,
-    "verse": 32,
-    "lines": [
-      {
-        "id": "45:6b",
-        "page": 45,
-        "line": 6,
-        "text": "that thou wouldst clear my way before & hedge not ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/45"
-      },
-      {
-        "id": "45:7",
-        "page": 45,
-        "line": 7,
-        "text": "up my way but the ways of mine enemy O Lord I have trusted in thee & I will ",
-        "markdown": "up ~~way~~ [my] way but the ways of mine enemy O Lord I have trusted in thee & I will ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/45"
-      },
-      {
-        "id": "45:8a",
-        "page": 45,
-        "line": 8,
-        "text": "trust in thee forever I",
-        "markdown": "{{trus}}t in thee forever I",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/45"
       }
     ]
   }

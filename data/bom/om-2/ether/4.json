@@ -1,0 +1,40 @@
+[
+  {
+    "book": "ether",
+    "chapter": 4,
+    "verse": 4,
+    "lines": [
+      {
+        "id": "217:2c",
+        "page": 217,
+        "line": 2,
+        "text": "Lord ",
+        "markdown": "Lord}} ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/217"
+      },
+      {
+        "id": "218:1a",
+        "page": 218,
+        "line": 1,
+        "text": "I have written upon these plates the verry things which the Brother of Jared saw &there never was greater things made manifest then that which was made manifestunto the Brother of Jared",
+        "markdown": "{{I have written upon the}}se {{plates the verry things which the Brother of Jared saw &there never was g}}reater things {{made manifest then that which was made manifestunto the Brother of}} Jared",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/218"
+      }
+    ]
+  },
+  {
+    "book": "ether",
+    "chapter": 4,
+    "verse": 5,
+    "lines": [
+      {
+        "id": "218:1b",
+        "page": 218,
+        "line": 1,
+        "text": "Wherefore the Lord hath commanded me to write",
+        "markdown": "Wherefore the L{{ord hath commanded me to write",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/218"
+      }
+    ]
+  }
+]

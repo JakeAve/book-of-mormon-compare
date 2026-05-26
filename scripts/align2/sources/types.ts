@@ -53,6 +53,22 @@ export interface CursorConfig {
   srcPerCanonOverride: number | null;
 }
 
+export interface SourceAdapter {
+  slug: string;
+  label: string;
+  raw: string;
+  out: string;
+  /** Which alignment algorithm to use. "cursor" (default) is the verse-level
+   *  LCS for sources that cover canon continuously. "scaffold" is the
+   *  unique-n-gram anchor algorithm for fragmentary sources (OM). */
+  algorithm?: "cursor" | "scaffold";
+  cursor: CursorConfig;
+  dictionary?: Map<string, string>;
+  /** Minimum source tokens that must map to a canonical verse for the
+   *  scaffold algorithm to emit it. Only applies when algorithm = "scaffold". */
+  scaffoldMinTokensPerVerse?: number;
+}
+
 export const DEFAULT_CURSOR_CONFIG: CursorConfig = {
   windowSlack: 1.5,
   windowMin: 20,
@@ -66,15 +82,3 @@ export const DEFAULT_CURSOR_CONFIG: CursorConfig = {
   anchorLookaheadVerses: 3,
   srcPerCanonOverride: null,
 };
-
-export interface SourceAdapter {
-  slug: string;
-  label: string;
-  /** Raw transcript folder (per-page JSON files). */
-  raw: string;
-  /** Output folder for aligned per-chapter JSON. */
-  out: string;
-  cursor: CursorConfig;
-  /** Optional dictionary for matcher level-4 lookups. */
-  dictionary?: Map<string, string>;
-}

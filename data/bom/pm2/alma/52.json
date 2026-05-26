@@ -360,7 +360,7 @@
         "page": 305,
         "line": 10,
         "text": "hands & that he also would fortify & strengthen the cities round about which ",
-        "markdown": "hands & that he [also] would ~~also~~ fortify & strengthen the cities round about which ",
+        "markdown": "hands & that he [also] would ~~also~~ fortify & strengthen the cities round about which ~~had~~ ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/305"
       },
       {
@@ -844,6 +844,7 @@
         "page": 306,
         "line": 15,
         "text": "the armies of the Lamanites coming out against him he began to retreat down by the ",
+        "markdown": "the armies of the Lamanites coming out against him he began to retreat down by the ~~Sea~~ ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/306"
       },
       {
@@ -1113,6 +1114,7 @@
         "page": 306,
         "line": 36,
         "text": "& Moroni commanded his men that they should fall upon them ",
+        "markdown": "& Moroni commanded his men that they should fall upon them ~~umtil~~ ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/306"
       },
       {
@@ -1212,6 +1214,7 @@
         "page": 307,
         "line": 8,
         "text": "there were many slain on both sides yea & Moroni was wounded & ",
+        "markdown": "there were many slain on both sides yea & Moroni was wounded & ~~Jacob~~ ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/307"
       },
       {

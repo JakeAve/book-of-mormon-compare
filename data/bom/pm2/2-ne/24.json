@@ -729,7 +729,7 @@
         "page": 84,
         "line": 9,
         "text": "first born of the poor shall feed & the needy shall lie down in safety & I will kill thy root ",
-        "markdown": "first born of the ~~poor~~ [poor] shall feed & the needy shall lie down in safety & I will kill thy [root] ",
+        "markdown": "first born of the ~~poor~~ [poor] shall feed & the needy shall lie down in safety & I will kill thy [root] ~~root~~ ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/84"
       },
       {

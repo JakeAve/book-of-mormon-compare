@@ -775,7 +775,7 @@
         "page": 37,
         "line": 11,
         "text": "le & our father hath Judged them & hath lead us away because we would hearken ",
-        "markdown": "le & our father hath Judged ~~&~~ them & hath lead us away because we would hearken ",
+        "markdown": "le & our father hath Judged ~~&~~ them & hath lead us away because we would hearken ~~to~~ ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/37"
       },
       {
@@ -1919,6 +1919,7 @@
         "page": 39,
         "line": 36,
         "text": "before me & were about to worship me but I would not suffer them ",
+        "markdown": "before me & were about to worship me but I would not suffer them ~~say~~ ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/39"
       },
       {

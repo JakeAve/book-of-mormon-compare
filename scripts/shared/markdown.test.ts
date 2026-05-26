@@ -30,3 +30,18 @@ Deno.test("buildTextToMdMapping: multi-word deletion included with following wor
   const mdWords = ["~~un", "into~~", "the"];
   assertEquals(buildTextToMdMapping(textWords, mdWords), [0, 3]);
 });
+
+Deno.test("buildTextToMdMapping: trailing deletion is included with last text word", () => {
+  // markdown: the ~~d~~ → text: the
+  // slice for "the" (maxIdx=0) = mdWords[0..mapping[1]] should include ~~d~~.
+  const textWords = ["the"];
+  const mdWords = ["the", "~~d~~"];
+  assertEquals(buildTextToMdMapping(textWords, mdWords), [0, 2]);
+});
+
+Deno.test("buildTextToMdMapping: trailing multi-word deletion is included", () => {
+  // markdown: had ~~to fall in their~~ → text: had
+  const textWords = ["had"];
+  const mdWords = ["had", "~~to", "fall", "in", "their~~"];
+  assertEquals(buildTextToMdMapping(textWords, mdWords), [0, 5]);
+});

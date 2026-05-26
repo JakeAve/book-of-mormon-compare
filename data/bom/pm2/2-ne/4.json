@@ -38,6 +38,7 @@
         "page": 58,
         "line": 11,
         "text": "he truly prophesied concerning all his Seed & the prophesies which he wrote ",
+        "markdown": "he truly prophesied concerning all his Seed & the prophesies which he wrote ~~these~~ ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/58"
       },
       {
@@ -301,7 +302,7 @@
         "page": 58,
         "line": 32,
         "text": "& it came to pass that when my father had made an end of speaking ",
-        "markdown": "& it came to pass that [when] my father [had] made an end of speaking ",
+        "markdown": "& it came to pass that [when] my father [had] made an end of speaking ~~in~~ ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/58"
       },
       {

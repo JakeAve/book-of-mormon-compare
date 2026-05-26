@@ -199,7 +199,7 @@
         "id": "16:42a",
         "page": 16,
         "line": 42,
-        "text": "earth becaus of the quaking there",
+        "text": "earth becaus of the quaking there of",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/16"
       }
     ]
@@ -213,7 +213,7 @@
         "id": "16:42b",
         "page": 16,
         "line": 42,
-        "text": "of & it came to ",
+        "text": "& it came to ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/16"
       },
       {
@@ -639,6 +639,7 @@
         "page": 17,
         "line": 25,
         "text": "& ",
+        "markdown": "& ~~the~~ ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/17"
       },
       {
@@ -737,18 +738,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/17"
       },
       {
-        "id": "17:37",
+        "id": "17:37a",
         "page": 17,
         "line": 37,
-        "text": "forth & for ever & while the Angel spake these ",
-        "markdown": "forth & for ever [&] while the Angel spake these ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/17"
-      },
-      {
-        "id": "17:38a",
-        "page": 17,
-        "line": 38,
-        "text": "words I Beheld & saw",
+        "text": "forth & for ever",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/17"
       }
     ]
@@ -759,10 +752,18 @@
     "verse": 19,
     "lines": [
       {
-        "id": "17:38b",
+        "id": "17:37b",
+        "page": 17,
+        "line": 37,
+        "text": "& while the Angel spake these ",
+        "markdown": "[&] while the Angel spake these ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/17"
+      },
+      {
+        "id": "17:38",
         "page": 17,
         "line": 38,
-        "text": "that the seed of my Bret",
+        "text": "words I Beheld & saw that the seed of my Bret",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/17"
       },
       {
@@ -790,21 +791,7 @@
         "id": "17:42",
         "page": 17,
         "line": 42,
-        "text": "of my Brethren did over power the people of my seed ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/17"
-      },
-      {
-        "id": "17:43",
-        "page": 17,
-        "line": 43,
-        "text": "& it came to pass that I beheld & saw the People of the ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/17"
-      },
-      {
-        "id": "17:44a",
-        "page": 17,
-        "line": 44,
-        "text": "seed of my Brethren that they had",
+        "text": "of my Brethren did over power the people of my seed",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/17"
       }
     ]
@@ -815,10 +802,17 @@
     "verse": 20,
     "lines": [
       {
-        "id": "17:44b",
+        "id": "17:43",
+        "page": 17,
+        "line": 43,
+        "text": "& it came to pass that I beheld & saw the People of the ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/17"
+      },
+      {
+        "id": "17:44",
         "page": 17,
         "line": 44,
-        "text": "overcome my ",
+        "text": "seed of my Brethren that they had overcome my ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/17"
       },
       {

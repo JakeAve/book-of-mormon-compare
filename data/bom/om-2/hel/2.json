@@ -28,11 +28,11 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/196"
       },
       {
-        "id": "196:14a",
+        "id": "196:14",
         "page": 196,
         "line": 14,
-        "text": "began to be a contention again among the people concerning who should fill the",
-        "markdown": "{{began to be a contention agai}}n among the people concerning who should fill the",
+        "text": "began to be a contention again among the people concerning who should fill the Judgment",
+        "markdown": "{{began to be a contention agai}}n among the people concerning who should fill the Judgment",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/196"
       }
     ]
@@ -42,13 +42,6 @@
     "chapter": 2,
     "verse": 2,
     "lines": [
-      {
-        "id": "196:14b",
-        "page": 196,
-        "line": 14,
-        "text": "Judgment",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/196"
-      },
       {
         "id": "196:15",
         "page": 196,
@@ -223,8 +216,16 @@
         "id": "196:29",
         "page": 196,
         "line": 29,
-        "text": "that he would conduct him to the Judgment seat that he might murder Helaman",
-        "markdown": "{{that h}}e would conduct him to the Judgment seat that he might murder Helaman",
+        "text": "that he would conduct him to the Judgment seat that he might murder Helaman ",
+        "markdown": "{{that h}}e would conduct him to the Judgment seat that he might murder Helaman ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/196"
+      },
+      {
+        "id": "196:30a",
+        "page": 196,
+        "line": 30,
+        "text": "& it",
+        "markdown": "{{& it",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/196"
       }
     ]
@@ -235,11 +236,11 @@
     "verse": 8,
     "lines": [
       {
-        "id": "196:30",
+        "id": "196:30b",
         "page": 196,
         "line": 30,
-        "text": "& it came to pass that when the servant of Helaman had known all the heart of ",
-        "markdown": "{{& it came to pass}} that when the servant of Helaman had known all the heart of ",
+        "text": "came to pass that when the servant of Helaman had known all the heart of ",
+        "markdown": "came to pass}} that when the servant of Helaman had known all the heart of ~~Kish~~ ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/196"
       },
       {
@@ -254,8 +255,8 @@
         "id": "197:1a",
         "page": 197,
         "line": 1,
-        "text": "all those which belonged to his band to murder & to rob & to gain power & this wastheir secret plan & their combination the servant of Helaman sayeth untoKishcumen let us go forth unto the",
-        "markdown": "{{all th}}ose which belonged to his band {{to murder & to rob & to gain power & this wastheir se}}cret plan & their combination {{the servant of Helaman sayeth untoKish}}cumen let us go forth unto the",
+        "text": "all those which belonged to his band to murder & to rob & to gain power & this wastheir secret plan & their combination the servant of Helaman sayeth untoKishcumen let us go forth unto the Judgment seat",
+        "markdown": "{{all th}}ose which belonged to his band {{to murder & to rob & to gain power & this wastheir se}}cret plan & their combination {{the servant of Helaman sayeth untoKish}}cumen let us go forth unto the Judg{{ment seat",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/197"
       }
     ]
@@ -269,8 +270,8 @@
         "id": "197:1b",
         "page": 197,
         "line": 1,
-        "text": "Judgment seat now this did please Kishcumenexcedingly for he did suppose that he should accomplish his design but behold the ",
-        "markdown": "Judg{{ment seat now this did please Kishcumenexce}}dingly for he did suppose that he sho{{uld accomplish his design but behold the}} ",
+        "text": "now this did please Kishcumenexcedingly for he did suppose that he should accomplish his design but behold the ",
+        "markdown": "now this did please Kishcumenexce}}dingly for he did suppose that he sho{{uld accomplish his design but behold the}} ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/197"
       },
       {
@@ -440,7 +441,7 @@
         "page": 197,
         "line": 13,
         "text": "of Nephi from which I have taken all the account which I have written",
-        "markdown": "of Nephi from which I have taken all the account w{{hich I have written",
+        "markdown": "of Nephi from which I have taken all the account w{{hich I have written }}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/197"
       }
     ]

@@ -2,14 +2,29 @@
   {
     "book": "1-ne",
     "chapter": 2,
+    "verse": 2,
+    "lines": [
+      {
+        "id": "1:1a",
+        "page": 1,
+        "line": 1,
+        "text": "that he should take his family & depart into the wilderness",
+        "markdown": "that {{h}}e should take his family & depart into the wilderness",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/1"
+      }
+    ]
+  },
+  {
+    "book": "1-ne",
+    "chapter": 2,
     "verse": 3,
     "lines": [
       {
-        "id": "1:1",
+        "id": "1:1b",
         "page": 1,
         "line": 1,
-        "text": "that he should take his family & depart into the wilderness & it ca",
-        "markdown": "that {{h}}e should take his family & depart into the wilderness {{& it ca}}",
+        "text": "& it ca",
+        "markdown": "{{& it ca}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/1"
       },
       {
@@ -501,10 +516,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/1"
       },
       {
-        "id": "1:43",
+        "id": "1:43a",
         "page": 1,
         "line": 43,
-        "text": "rds but behold Laman & Lemuel would not hearken unto my words",
+        "text": "rds",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/1"
       }
     ]
@@ -514,6 +529,13 @@
     "chapter": 2,
     "verse": 18,
     "lines": [
+      {
+        "id": "1:43b",
+        "page": 1,
+        "line": 43,
+        "text": "but behold Laman & Lemuel would not hearken unto my words ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/1"
+      },
       {
         "id": "1:44",
         "page": 1,
@@ -576,7 +598,7 @@
         "id": "1:49a",
         "page": 1,
         "line": 49,
-        "text": "r you a land which is choice above all other lands",
+        "text": "r you a land which is choice above all other lands &",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/1"
       }
     ]
@@ -590,7 +612,7 @@
         "id": "1:49b",
         "page": 1,
         "line": 49,
-        "text": "& in as much as thy Br",
+        "text": "in as much as thy Br",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/1"
       },
       {
@@ -605,7 +627,7 @@
         "id": "1:51a",
         "page": 1,
         "line": 51,
-        "text": "of the Lord",
+        "text": "of the Lord &",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/1"
       }
     ]
@@ -619,7 +641,7 @@
         "id": "1:51b",
         "page": 1,
         "line": 51,
-        "text": "& in as much as thou shalt keep my commandments thou ",
+        "text": "in as much as thou shalt keep my commandments thou ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/1"
       },
       {
@@ -655,6 +677,7 @@
         "page": 1,
         "line": 54,
         "text": "re curse & they shall have no power over thy seed except they shall ",
+        "markdown": "re curse & they shall have no power over thy seed except they shall ~~re~~ ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/1"
       },
       {
@@ -680,11 +703,18 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/2"
       },
       {
-        "id": "2:2a",
+        "id": "2:2",
         "page": 2,
         "line": 2,
-        "text": "ll be a Scourge unto thy seed to stir them up in the ways of",
-        "markdown": "{{ll b}}e a Scourge unto thy seed to stir them up in the ways of",
+        "text": "ll be a Scourge unto thy seed to stir them up in the ways of remember",
+        "markdown": "{{ll b}}e a Scourge unto thy seed to stir them up in the ways of remember",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/2"
+      },
+      {
+        "id": "2:3a",
+        "page": 2,
+        "line": 3,
+        "text": "ance",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/2"
       }
     ]

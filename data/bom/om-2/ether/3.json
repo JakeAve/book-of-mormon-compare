@@ -1,0 +1,47 @@
+[
+  {
+    "book": "ether",
+    "chapter": 3,
+    "verse": 9,
+    "lines": [
+      {
+        "id": "216:5c",
+        "page": 216,
+        "line": 5,
+        "text": "name ther ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/216"
+      },
+      {
+        "id": "217:1",
+        "page": 217,
+        "line": 1,
+        "text": "because of thy faith thou hast seen that I shall take upon me flesh & blood& never has man come before me with such exceding faith as thou hast for <​were it not so​> ",
+        "markdown": "{{because of thy faith thou hast seen that I shall ta}}ke upo{{n me flesh & blood& never has man come before me with such e}}xceding faith as thou {{hast for}} <​were {{it not so}}​> ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/217"
+      },
+      {
+        "id": "217:2a",
+        "page": 217,
+        "line": 2,
+        "text": "ye could not have seen my finger sawest thou more then this",
+        "markdown": "{{ye could not have seen my finger sawest thou mo}}re then th{{is}}",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/217"
+      }
+    ]
+  },
+  {
+    "book": "ether",
+    "chapter": 3,
+    "verse": 10,
+    "lines": [
+      {
+        "id": "217:2b",
+        "page": 217,
+        "line": 2,
+        "text": "& he answered nay",
+        "markdown": "& h{{e answered nay",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/217"
+      }
+    ]
+  }
+]

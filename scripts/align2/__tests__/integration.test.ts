@@ -2,6 +2,7 @@ import { assertEquals, assertLess } from "@std/assert";
 import { tokenizeSource } from "../tokenize-source.ts";
 import { groupByVerse, tokenizeTarget } from "../tokenize-target.ts";
 import { runCursor } from "../cursor.ts";
+import { runScaffoldAlign } from "../scaffold-align.ts";
 import { buildAllVerseOutputs, type OutVerse } from "../build-output.ts";
 import { verseKey } from "../line-key.ts";
 import { getAdapter, type SourceAdapter } from "../sources/index.ts";
@@ -61,12 +62,15 @@ const SUITES: VersionSuite[] = [
     adapter: getAdapter("om")!,
     aligner1Dir: "data/bom/om",
     chapters: [
-      // Chapters where the OM adapter (anchor + srcPerCanon override) aligns
-      // most cleanly (per token-purity audit). The anchor reliably finds the
-      // right canonical position for these early-1-ne and hel chapters.
+      // Chapters where the OM adapter (scaffold algorithm) aligns most
+      // cleanly per the token-purity audit.
       { slug: "om/1-ne-4", book: "1-ne", chapter: 4 },
       { slug: "om/1-ne-8", book: "1-ne", chapter: 8 },
       { slug: "om/hel-1", book: "hel", chapter: 1 },
+      // 1-ne 9:2-3 exercises the multi-word boundary refinement: OM writes
+      // canonical "Nevertheless" as three tokens `never the less` straddling
+      // the 9:2/9:3 verse boundary. All three should land in 9:3.
+      { slug: "om/1-ne-9", book: "1-ne", chapter: 9 },
     ],
   },
 ];
@@ -83,13 +87,18 @@ async function runPipeline(adapter: SourceAdapter): Promise<OutVerse[]> {
   );
   const targetWords = tokenizeTarget(allCanon);
   const verseGroups = groupByVerse(targetWords);
-  const cursorResults = runCursor(
-    sourceWords,
-    verseGroups,
-    lineInfos,
-    adapter.cursor,
-    adapter.dictionary,
-  );
+  const cursorResults = adapter.algorithm === "scaffold"
+    ? runScaffoldAlign(sourceWords, verseGroups, lineInfos, {
+      ngrams: [6, 4, 3],
+      minTokensPerVerse: adapter.scaffoldMinTokensPerVerse ?? 3,
+    })
+    : runCursor(
+      sourceWords,
+      verseGroups,
+      lineInfos,
+      adapter.cursor,
+      adapter.dictionary,
+    );
   const canonByKey = new Map(
     allCanon.map((v) => [verseKey(v.book, v.chapter, v.verse), v.text]),
   );

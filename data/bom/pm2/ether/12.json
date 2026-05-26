@@ -72,6 +72,7 @@
         "page": 450,
         "line": 11,
         "text": "God unto repentance lest they should be destroyed saying unto them that by faith all ",
+        "markdown": "God unto repentance lest they should be destroyed saying unto them that by faith all ~~them~~ ~~<​thi​>~~ ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/450"
       },
       {
@@ -433,6 +434,7 @@
         "page": 450,
         "line": 36,
         "text": "& it was by ",
+        "markdown": "& it was by ~~fait~~ ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/450"
       },
       {

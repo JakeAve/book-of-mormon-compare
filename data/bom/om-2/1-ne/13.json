@@ -40,10 +40,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/18"
       },
       {
-        "id": "18:4",
+        "id": "18:4a",
         "page": 18,
         "line": 4,
-        "text": "est thou & I said I behold many Nations & kingdoms",
+        "text": "est thou & I said I behold many Nations &",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/18"
       }
     ]
@@ -53,6 +53,13 @@
     "chapter": 13,
     "verse": 3,
     "lines": [
+      {
+        "id": "18:4b",
+        "page": 18,
+        "line": 4,
+        "text": "kingdoms ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/18"
+      },
       {
         "id": "18:5",
         "page": 18,
@@ -220,6 +227,7 @@
         "page": 18,
         "line": 18,
         "text": "& the Angel spake unto me saying ",
+        "markdown": "& the Angel spake unto me saying ~~beh~~ ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/18"
       },
       {
@@ -262,6 +270,7 @@
         "page": 18,
         "line": 22,
         "text": "& also for the praise of the ",
+        "markdown": "& also for the praise of the ~~w~~ ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/18"
       },
       {
@@ -721,7 +730,7 @@
         "id": "19:8a",
         "page": 19,
         "line": 8,
-        "text": "est thou the meaning of the Book",
+        "text": "est thou the meaning of the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/19"
       }
     ]
@@ -735,7 +744,7 @@
         "id": "19:8b",
         "page": 19,
         "line": 8,
-        "text": "& I saith I ",
+        "text": "Book & I saith I ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/19"
       },
       {
@@ -1427,10 +1436,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/20"
       },
       {
-        "id": "20:30a",
+        "id": "20:30",
         "page": 20,
         "line": 30,
-        "text": "mnant of the House of israel in great",
+        "text": "mnant of the House of israel in great Judgem",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/20"
       }
     ]
@@ -1440,13 +1449,6 @@
     "chapter": 13,
     "verse": 34,
     "lines": [
-      {
-        "id": "20:30b",
-        "page": 20,
-        "line": 30,
-        "text": "Judgem",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/20"
-      },
       {
         "id": "20:31",
         "page": 20,
@@ -1630,446 +1632,11 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/20"
       },
       {
-        "id": "20:54",
+        "id": "20:54a",
         "page": 20,
         "line": 54,
-        "text": "thy Brethren Behold these things shall be hid ",
+        "text": "thy Brethren Behold these things shall be",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/20"
-      },
-      {
-        "id": "21:1a",
-        "page": 21,
-        "line": 1,
-        "text": "whore of all the earth & she sat upon many waters & she haddominion over all the Earth among all Nations kindreds toungs& people & it came to",
-        "markdown": "{{whore of a}}ll the eart{{h}} & she sat upon many waters & she {{haddomin}}ion over all the Earth among all Nations kindreds t{{oun}}g{{s&}} people & it came to",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/21"
-      }
-    ]
-  },
-  {
-    "book": "1-ne",
-    "chapter": 13,
-    "verse": 36,
-    "lines": [
-      {
-        "id": "21:1b",
-        "page": 21,
-        "line": 1,
-        "text": "pass that I beheld the Church of the Lamb ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/21"
-      },
-      {
-        "id": "21:2a",
-        "page": 21,
-        "line": 2,
-        "text": "of god & its numbers were few because of the wickedness &",
-        "markdown": "{{of}} god & its [numbers] were few because of the wickedness &",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/21"
-      }
-    ]
-  },
-  {
-    "book": "1-ne",
-    "chapter": 13,
-    "verse": 37,
-    "lines": [
-      {
-        "id": "21:2b",
-        "page": 21,
-        "line": 2,
-        "text": "abominations ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/21"
-      },
-      {
-        "id": "21:3",
-        "page": 21,
-        "line": 3,
-        "text": "of the whore which sat upon many waters nevertheless I beheld ",
-        "markdown": "{{of}} the whore which sat upon many waters nevertheless I beheld ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/21"
-      },
-      {
-        "id": "21:4",
-        "page": 21,
-        "line": 4,
-        "text": "that the Church of the Lamb which were the saints of God were ",
-        "markdown": "{{th}}at the Church of the Lamb which were the saints of God were ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/21"
-      },
-      {
-        "id": "21:5",
-        "page": 21,
-        "line": 5,
-        "text": "also upon all the face of the earth & their dominion upon the face ",
-        "markdown": "{{als}}o upon [all] the face of the earth & their dominion upon the face ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/21"
-      },
-      {
-        "id": "21:6",
-        "page": 21,
-        "line": 6,
-        "text": "of the earth were small because of the wickedness of the great ",
-        "markdown": "of {{the}} earth were small because of the wickedness of the great ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/21"
-      },
-      {
-        "id": "21:7",
-        "page": 21,
-        "line": 7,
-        "text": "whore which I saw & it came to pass that I beheld that the ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/21"
-      },
-      {
-        "id": "21:8",
-        "page": 21,
-        "line": 8,
-        "text": "great Mother of abominations did gether to gethr in mul ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/21"
-      },
-      {
-        "id": "21:9",
-        "page": 21,
-        "line": 9,
-        "text": "titudes upon the face of all the Earth among all the Nation ",
-        "markdown": "{{t}}itudes upon the face of all the Earth among all the Nation ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/21"
-      },
-      {
-        "id": "21:10a",
-        "page": 21,
-        "line": 10,
-        "text": "s of",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/21"
-      }
-    ]
-  },
-  {
-    "book": "1-ne",
-    "chapter": 13,
-    "verse": 38,
-    "lines": [
-      {
-        "id": "21:10b",
-        "page": 21,
-        "line": 10,
-        "text": "the gentiles to fight against the Lamb of God & it ",
-        "markdown": "the gentiles to fight against the Lamb of God & {{i}}t ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/21"
-      },
-      {
-        "id": "21:11",
-        "page": 21,
-        "line": 11,
-        "text": "came to pass that I Nephi beheld the power of the Lamb of ",
-        "markdown": "came to pass that I Nephi beheld the power of the Lam{{b}} of ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/21"
-      },
-      {
-        "id": "21:12",
-        "page": 21,
-        "line": 12,
-        "text": "god that it decended upon the saints of the Church of ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/21"
-      },
-      {
-        "id": "21:13",
-        "page": 21,
-        "line": 13,
-        "text": "the Lamb & upon the Covanant people of the Lord which ",
-        "markdown": "the Lamb & upon the Covanant people of the Lord whi{{c}}h ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/21"
-      },
-      {
-        "id": "21:14",
-        "page": 21,
-        "line": 14,
-        "text": "were scattered upon all the face of the Earth & they were ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/21"
-      },
-      {
-        "id": "21:15a",
-        "page": 21,
-        "line": 15,
-        "text": "armed with righteousness &",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/21"
-      }
-    ]
-  },
-  {
-    "book": "1-ne",
-    "chapter": 13,
-    "verse": 39,
-    "lines": [
-      {
-        "id": "21:15b",
-        "page": 21,
-        "line": 15,
-        "text": "with the power of god in great ",
-        "markdown": "with the power of god in {{gre}}at ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/21"
-      },
-      {
-        "id": "21:16",
-        "page": 21,
-        "line": 16,
-        "text": "glory & it came to pass that I beheld that the wrath of ",
-        "markdown": "{{glory}} & it came to pass that I beheld that the wrath of ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/21"
-      },
-      {
-        "id": "21:17",
-        "page": 21,
-        "line": 17,
-        "text": "God was poured out upon that great & abominable church ",
-        "markdown": "{{God}} was poured out upon that great & abominable ch{{ur}}ch ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/21"
-      },
-      {
-        "id": "21:18",
-        "page": 21,
-        "line": 18,
-        "text": "insomuch that there ware wars & rumours of wars among ",
-        "markdown": "{{inso}}much that there ware wars & rumours of wars {{am}}ong ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/21"
-      },
-      {
-        "id": "21:19",
-        "page": 21,
-        "line": 19,
-        "text": "all the nations & kindreds of the Earth & as there began to be ",
-        "markdown": "{{all the nations &}} k{{in}}d{{re}}d{{s o}}f the Earth & as there b{{egan to be}} ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/21"
-      },
-      {
-        "id": "22:1",
-        "page": 22,
-        "line": 1,
-        "text": "out of the mouth of the Jew & at the time they proceeded out ",
-        "markdown": "{{out}} of {{the mouth of the}} J{{ew & at the time they proceeded out}} ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/22"
-      },
-      {
-        "id": "22:2",
-        "page": 22,
-        "line": 2,
-        "text": "of the mouth of the Jew or at the time the Book proceeded ",
-        "markdown": "of the mouth of the Jew ~~thes~~ or at the time the Book proce{{eded}} ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/22"
-      },
-      {
-        "id": "22:3a",
-        "page": 22,
-        "line": 3,
-        "text": "out of the mowth of",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/22"
-      }
-    ]
-  },
-  {
-    "book": "1-ne",
-    "chapter": 13,
-    "verse": 40,
-    "lines": [
-      {
-        "id": "22:3b",
-        "page": 22,
-        "line": 3,
-        "text": "the Jew the things which were written ",
-        "markdown": "the Jew the things which were wr{{itten}} ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/22"
-      },
-      {
-        "id": "22:4",
-        "page": 22,
-        "line": 4,
-        "text": "were plain & pure & most precious & easy to the understan ",
-        "markdown": "were plain & pure & most precious & easy to the und{{erstan}} ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/22"
-      },
-      {
-        "id": "22:5",
-        "page": 22,
-        "line": 5,
-        "text": "ding of all men & behold the things which this apostle of ",
-        "markdown": "ding of all men & behold the~~se~~ things which this apostl{{e of}} ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/22"
-      },
-      {
-        "id": "22:6",
-        "page": 22,
-        "line": 6,
-        "text": "the Lamb shall write are many things which thou hast ",
-        "markdown": "the Lamb shall write are many things which thou has{{t}} ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/22"
-      },
-      {
-        "id": "22:7",
-        "page": 22,
-        "line": 7,
-        "text": "seen & behold the remainder shalt thou see but the things ",
-        "markdown": "seen & behold the remainder shalt thou see but the thing{{s}} ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/22"
-      },
-      {
-        "id": "22:8",
-        "page": 22,
-        "line": 8,
-        "text": "which thou shalt see hereafter thou shalt not write for ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/22"
-      },
-      {
-        "id": "22:9",
-        "page": 22,
-        "line": 9,
-        "text": "the Lord God hath ordained the Apostle of the lamb of god ",
-        "markdown": "the Lord God hath ordained the Apostle of the lamb of go{{d}} ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/22"
-      },
-      {
-        "id": "22:10",
-        "page": 22,
-        "line": 10,
-        "text": "that he should write them & also others which have been ",
-        "markdown": "that he should write them & also others which have b{{een}} ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/22"
-      },
-      {
-        "id": "22:11",
-        "page": 22,
-        "line": 11,
-        "text": "to them hath he shown all things & they have writen ",
-        "markdown": "to them hath he shown all things & they have write{{n}} ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/22"
-      },
-      {
-        "id": "22:12",
-        "page": 22,
-        "line": 12,
-        "text": "them & they are sealed up to come forth in their puri ",
-        "markdown": "them & they are sealed up to come forth in their pu{{ri}} ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/22"
-      },
-      {
-        "id": "22:13a",
-        "page": 22,
-        "line": 13,
-        "text": "ty according to",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/22"
-      }
-    ]
-  },
-  {
-    "book": "1-ne",
-    "chapter": 13,
-    "verse": 41,
-    "lines": [
-      {
-        "id": "22:13b",
-        "page": 22,
-        "line": 13,
-        "text": "the truth which is in the Lamb in the own ",
-        "markdown": "the truth which is in the Lamb in the ow{{n}} ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/22"
-      },
-      {
-        "id": "22:14",
-        "page": 22,
-        "line": 14,
-        "text": "due time of the Lord unto the house of Israel & I nephi ",
-        "markdown": "due time of the Lord unto the house of Israel & I neph{{i}} ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/22"
-      },
-      {
-        "id": "22:15",
-        "page": 22,
-        "line": 15,
-        "text": "heard & bare record that the name & apostle of the Lamb was ",
-        "markdown": "heard & bare record that the name & apostle of the Lamb w{{as}} ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/22"
-      },
-      {
-        "id": "22:16",
-        "page": 22,
-        "line": 16,
-        "text": "John according to the word of the Angel & behold Nephi ",
-        "markdown": "John according to the word of the Angel & behold Neph{{i}} ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/22"
-      },
-      {
-        "id": "22:17",
-        "page": 22,
-        "line": 17,
-        "text": "am forbidden that I should write the remainder of the things ",
-        "markdown": "am forbidden that I should write the remainder of the thing{{s}} ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/22"
-      },
-      {
-        "id": "22:18",
-        "page": 22,
-        "line": 18,
-        "text": "which I saw werefore the things which I have writen ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/22"
-      },
-      {
-        "id": "22:19",
-        "page": 22,
-        "line": 19,
-        "text": "sufficeth me & I have not writen but a small part of ",
-        "markdown": "sufficeth me & I have not writen but a small part o{{f}} ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/22"
-      },
-      {
-        "id": "22:20a",
-        "page": 22,
-        "line": 20,
-        "text": "the",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/22"
-      }
-    ]
-  },
-  {
-    "book": "1-ne",
-    "chapter": 13,
-    "verse": 42,
-    "lines": [
-      {
-        "id": "22:20b",
-        "page": 22,
-        "line": 20,
-        "text": "things which I saw & I Bear record that I saw the thingswhich my father saw & the Angel of the Lord did make ",
-        "markdown": "things which I saw & I Bear record that I saw the thin{{gsw}}hich my father saw & the Angel of the Lord did make ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/22"
-      },
-      {
-        "id": "23:1",
-        "page": 23,
-        "line": 1,
-        "text": "for I considered that mine afflictions were great above all because ",
-        "markdown": "[for] I considered that mine afflictions ~~was~~ [were] great above {{all because}} ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/23"
-      },
-      {
-        "id": "23:2",
-        "page": 23,
-        "line": 2,
-        "text": "of the distruction of my people for I had beheld their fall &it came to pass that after I had received strength I spake unto ",
-        "markdown": "of the distruction of my people for I had beheld their f{{all &i}}t came to pass that after I had received strength I spake unto ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/23"
-      },
-      {
-        "id": "23:3",
-        "page": 23,
-        "line": 3,
-        "text": "my Bretheren disiring to know of them the cause of their disp ",
-        "markdown": "my Bretheren disiring to know of them [the] ~~be~~cause of their disp ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/23"
-      },
-      {
-        "id": "23:4a",
-        "page": 23,
-        "line": 4,
-        "text": "utations &",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/23"
       }
     ]
   }

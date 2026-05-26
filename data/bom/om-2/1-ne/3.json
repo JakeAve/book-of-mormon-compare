@@ -5,17 +5,10 @@
     "verse": 1,
     "lines": [
       {
-        "id": "2:2b",
-        "page": 2,
-        "line": 2,
-        "text": "remember ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/2"
-      },
-      {
-        "id": "2:3",
+        "id": "2:3b",
         "page": 2,
         "line": 3,
-        "text": "ance & it came to pass that I Nephi returned from speaking with the Lord ",
+        "text": "& it came to pass that I Nephi returned from speaking with the Lord ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/2"
       },
       {
@@ -44,6 +37,7 @@
         "page": 2,
         "line": 5,
         "text": "behold I have dreamed a dream in the which the Lord hath commanded ",
+        "markdown": "behold I have dreamed a dream in the which the Lord hath commanded ~~m~~ ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/2"
       },
       {
@@ -546,17 +540,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/2"
       },
       {
-        "id": "2:49",
+        "id": "2:49a",
         "page": 2,
         "line": 49,
-        "text": "because of the commandment for he knowing that ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/2"
-      },
-      {
-        "id": "2:50a",
-        "page": 2,
-        "line": 50,
-        "text": "Jerusalem must be destroyed bcause of the",
+        "text": "because of the commandment",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/2"
       }
     ]
@@ -567,25 +554,24 @@
     "verse": 17,
     "lines": [
       {
-        "id": "2:50b",
+        "id": "2:49b",
+        "page": 2,
+        "line": 49,
+        "text": "for he knowing that ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/2"
+      },
+      {
+        "id": "2:50",
         "page": 2,
         "line": 50,
-        "text": "wic",
+        "text": "Jerusalem must be destroyed bcause of the wic",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/2"
       },
       {
-        "id": "2:51",
+        "id": "2:51a",
         "page": 2,
         "line": 51,
-        "text": "kedness of the people for behold they have rejected the ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/2"
-      },
-      {
-        "id": "2:52a",
-        "page": 2,
-        "line": 52,
-        "text": "words of the prophets wherefore if my father",
-        "markdown": "words of the~~e~~ prophets wherefore if my father",
+        "text": "kedness of the people",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/2"
       }
     ]
@@ -596,11 +582,18 @@
     "verse": 18,
     "lines": [
       {
-        "id": "2:52b",
+        "id": "2:51b",
+        "page": 2,
+        "line": 51,
+        "text": "for behold they have rejected the ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/2"
+      },
+      {
+        "id": "2:52",
         "page": 2,
         "line": 52,
-        "text": "should dwell ",
-        "markdown": "should dwel{{l}} ",
+        "text": "words of the prophets wherefore if my father should dwell ",
+        "markdown": "words of the~~e~~ prophets wherefore if my father should dwel{{l}} ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/2"
       },
       {
@@ -608,6 +601,7 @@
         "page": 2,
         "line": 53,
         "text": "in the land after that he hath been commanded to ",
+        "markdown": "in the land after that he hath been commanded to ~~fr~~ ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/2"
       },
       {

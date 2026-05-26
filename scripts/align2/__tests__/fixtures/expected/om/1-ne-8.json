@@ -30,7 +30,7 @@
         "id": "9:29a",
         "page": 9,
         "line": 29,
-        "text": "every king",
+        "text": "every king [kind]",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/9"
       }
     ]
@@ -44,7 +44,7 @@
         "id": "9:29b",
         "page": 9,
         "line": 29,
-        "text": "[kind] and it came to pass that while my father ",
+        "text": "and it came to pass that while my father ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/9"
       },
       {
@@ -380,7 +380,7 @@
         "page": 10,
         "line": 4,
         "text": "ding great joy wherefore i began to be desirus that my family ",
-        "markdown": "ding great joy wherefore i began to be desirus that my [family] ",
+        "markdown": "ding great joy wherefore i began to be desirus that my [family] ~~fanily~~ ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/10"
       },
       {
@@ -746,6 +746,7 @@
         "page": 10,
         "line": 36,
         "text": "to pass that there arose a mist of darkness yea ",
+        "markdown": "to pass that there arose a mist of darkness yea ~~an~~ ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/10"
       },
       {
@@ -820,17 +821,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/10"
       },
       {
-        "id": "10:45",
+        "id": "10:45a",
         "page": 10,
         "line": 45,
-        "text": "tree and after that they h had partook of the fruit ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/10"
-      },
-      {
-        "id": "10:46a",
-        "page": 10,
-        "line": 46,
-        "text": "Of the",
+        "text": "tree",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/10"
       }
     ]
@@ -841,10 +835,17 @@
     "verse": 25,
     "lines": [
       {
-        "id": "10:46b",
+        "id": "10:45b",
+        "page": 10,
+        "line": 45,
+        "text": "and after that they h had partook of the fruit ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/10"
+      },
+      {
+        "id": "10:46",
         "page": 10,
         "line": 46,
-        "text": "tree they did cast theyr eyes about as if they ",
+        "text": "Of the tree they did cast theyr eyes about as if they ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/10"
       },
       {
@@ -873,6 +874,7 @@
         "page": 10,
         "line": 48,
         "text": "and beheld on the other side of the river of water ",
+        "markdown": "and beheld on the other side of the river of water ~~of~~ ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/10"
       },
       {
@@ -1091,6 +1093,7 @@
         "page": 11,
         "line": 14,
         "text": "it came to pass that menny were drownd in the ",
+        "markdown": "it came to pass that menny were drownd in the ~~d~~ ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/11"
       },
       {
@@ -1176,6 +1179,7 @@
         "page": 11,
         "line": 22,
         "text": "her for as many as heded them had ",
+        "markdown": "her for as many as heded them had ~~to fall in their~~ ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/11"
       },
       {
