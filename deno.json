@@ -2,6 +2,7 @@
   "unstable": ["kv"],
   "nodeModulesDir": "manual",
   "tasks": {
+    "setup": "git config core.hooksPath .githooks && chmod +x .githooks/pre-commit .githooks/pre-push",
     "check": "deno fmt --check . && deno lint . && deno check",
     "test": "deno test -A",
     "pre-commit": "deno task check && deno task test",

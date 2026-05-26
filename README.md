@@ -48,18 +48,19 @@ Then open http://localhost:5173.
 
 The repo ships pre-commit and pre-push hooks in `.githooks/` that run
 `deno task check` and the test suite. Git doesn't pick these up automatically —
-after cloning, point git at the directory once:
+after cloning, run once:
 
 ```bash
-git config core.hooksPath .githooks
+deno task setup
 ```
 
-This setting is local to your clone (not checked in), so each contributor runs
-it once.
+This points git at `.githooks/` and marks the hooks executable. The setting is
+local to your clone (not checked in), so each contributor runs it once.
 
 ## Tasks
 
 ```bash
+deno task setup        # One-time: configure git hooks after cloning
 deno task dev          # Vite dev server
 deno task build        # Production build → _fresh/
 deno task start        # Serve the production build
@@ -67,7 +68,7 @@ deno task check        # fmt check + lint + type check
 deno task test         # Run all unit tests
 deno task pre-commit   # check + test (run by .githooks/pre-commit)
 deno task pre-push     # check + test (run by .githooks/pre-push)
-deno task align:*     # Aligns verses and chapters to 2013 Church of Jesus Christ edition
+deno task align:*      # Aligns verses and chapters to 2013 Church of Jesus Christ edition
 ```
 
 ## Adding a new text version
