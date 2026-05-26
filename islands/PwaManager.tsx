@@ -3,10 +3,26 @@ import { useEffect, useState } from "preact/hooks";
 type Banner = {
   message: string;
   action?: { label: string; onClick: () => void };
+  onDismiss?: () => void;
 };
 
 const VISIT_KEY = "pwa_chapter_visits";
 const VISIT_THRESHOLD = 2;
+const INSTALL_DONE_KEY = "pwa_install_done";
+
+function lsSet(key: string, value = "1") {
+  try {
+    localStorage.setItem(key, value);
+  } catch { /* storage blocked (e.g. Safari private mode) */ }
+}
+
+function lsGet(key: string): string | null {
+  try {
+    return localStorage.getItem(key);
+  } catch {
+    return null;
+  }
+}
 
 export default function PwaManager() {
   const [note, setNote] = useState<Banner | null>(null);
@@ -44,8 +60,9 @@ export default function PwaManager() {
     // we read deferredPrompt below), the count reflects the current visit.
     const isChapter = /^\/[^/]+\/\d+/.test(globalThis.location.pathname);
     if (isChapter) {
-      const count = parseInt(localStorage.getItem(VISIT_KEY) ?? "0", 10);
-      localStorage.setItem(VISIT_KEY, String(count + 1));
+      const raw = parseInt(lsGet(VISIT_KEY) ?? "0", 10);
+      const count = Number.isFinite(raw) ? raw : 0;
+      lsSet(VISIT_KEY, String(count + 1));
     }
 
     if (!("serviceWorker" in navigator)) return;
@@ -54,6 +71,7 @@ export default function PwaManager() {
 
     function showInstallNote() {
       if (!deferredPrompt) return;
+      if (lsGet(INSTALL_DONE_KEY)) return;
       setNote({
         message: "Add to home screen for offline access.",
         action: {
@@ -64,19 +82,20 @@ export default function PwaManager() {
             setNote(null);
           },
         },
+        onDismiss: () => lsSet(INSTALL_DONE_KEY),
       });
     }
 
     const onInstallPrompt = (e: Event) => {
       e.preventDefault();
       deferredPrompt = e as typeof deferredPrompt;
-      const count = parseInt(localStorage.getItem(VISIT_KEY) ?? "0", 10);
+      const count = parseInt(lsGet(VISIT_KEY) ?? "0", 10);
       if (count >= VISIT_THRESHOLD) showInstallNote();
     };
     globalThis.addEventListener("beforeinstallprompt", onInstallPrompt);
 
-    // Dismiss banner if user installs via OS-level prompt rather than ours.
     const onAppInstalled = () => {
+      lsSet(INSTALL_DONE_KEY);
       deferredPrompt = null;
       setNote(null);
     };
@@ -172,7 +191,10 @@ export default function PwaManager() {
         <button
           type="button"
           aria-label="Dismiss"
-          onClick={() => setNote(null)}
+          onClick={() => {
+            note.onDismiss?.();
+            setNote(null);
+          }}
           style={{
             background: "none",
             border: "none",
