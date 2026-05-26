@@ -14,6 +14,7 @@
 import { buildAnchorsMulti, interpolateScaffold } from "./ngram-anchor.ts";
 import { mergeLineBreakSplits } from "./merge-splits.ts";
 import { verseKey } from "./line-key.ts";
+import { createMatcher, type Matcher } from "./match.ts";
 import type { CursorResult, LineInfo, SourceWord } from "./types.ts";
 import type { VerseGroup } from "./tokenize-target.ts";
 
@@ -131,7 +132,7 @@ export function runScaffoldAlign(
   // to pass..."). The "and" interpolates near the boundary and gets stuck in
   // 8:35; the refinement reassigns it to 8:36 because "and" appears at the
   // head of 8:36's canonical text but not in 8:35's tail.
-  refineBoundaries(mergedResult, mergedSource, verseGroups);
+  refineBoundaries(mergedResult, mergedSource, verseGroups, createMatcher());
 
   // Trailing-fill any unassigned merged-source slots with the last known verse.
   let lastAssigned: CursorResult["assignedVerse"] | null = null;
@@ -200,6 +201,7 @@ function refineBoundaries(
   mergedResult: (CursorResult | undefined)[],
   mergedSource: SourceWord[],
   verseGroups: VerseGroup[],
+  matcher: Matcher,
 ): void {
   // Build a verseKey → verseGroup-idx map for O(1) lookups.
   const vgIdxByKey = new Map<string, number>();
@@ -236,10 +238,11 @@ function refineBoundaries(
       w.norm
     );
 
-    // 1. Single-word check.
+    // 1. Single-word check. Use the matcher (not exact `includes`) so
+    // scribal variants like `wherefor` vs `wherefore` count as a match.
     const w = mergedSource[i].norm;
-    const inTail = aTail.includes(w);
-    const inHead = bHead.includes(w);
+    const inTail = aTail.some((t) => matcher.matches(w, t));
+    const inHead = bHead.some((h) => matcher.matches(w, h));
     if (!inTail && inHead) {
       mergedResult[i] = {
         ...mergedSource[i],
@@ -250,11 +253,12 @@ function refineBoundaries(
     if (inTail) continue; // boundary word legitimately belongs to V
 
     // 2. Multi-word concat check. The scribe may have spelled a single
-    // canonical word as several source tokens (OM `never the less` →
-    // canonical `nevertheless`). The split can straddle the boundary, so try
-    // L V-side tokens + R V'-side tokens for small (L, R) and see if the
-    // concatenation matches a canonical word in V'.HEAD. When it fires,
-    // migrate the L V-side tokens to V'.
+    // canonical word as several source tokens. The split can straddle the
+    // boundary; the canonical word may live in V'.HEAD or in V.TAIL:
+    //   - V'.HEAD case (OM `never the less` → `nevertheless`): migrate the
+    //     L V-side tokens forward to V'.
+    //   - V.TAIL case (OM `an other` → `another`): migrate the R V'-side
+    //     tokens backward to V.
     let fired = false;
     for (let total = 2; total <= BOUNDARY_MAX_CONCAT && !fired; total++) {
       for (let L = 1; L < total && !fired; L++) {
@@ -284,26 +288,51 @@ function refineBoundaries(
         let concat = "";
         for (let j = s; j <= e; j++) concat += mergedSource[j].norm;
 
-        if (!bHead.some((h) => isApproxEqual(concat, h))) continue;
+        const matchesHead = bHead.some((h) => matcher.matches(concat, h));
+        const matchesTail = aTail.some((t) => matcher.matches(concat, t));
 
-        // Guard: none of the L V-side tokens should appear in V.TAIL alone
-        // (otherwise we'd peel legitimate V content into V').
-        let anyInTail = false;
-        for (let j = s; j <= i; j++) {
-          if (aTail.includes(mergedSource[j].norm)) {
-            anyInTail = true;
-            break;
+        if (matchesHead) {
+          // Guard: none of the L V-side tokens should appear in V.TAIL alone
+          // (otherwise we'd peel legitimate V content into V').
+          let anyInTail = false;
+          for (let j = s; j <= i; j++) {
+            const sw = mergedSource[j].norm;
+            if (aTail.some((t) => matcher.matches(sw, t))) {
+              anyInTail = true;
+              break;
+            }
           }
-        }
-        if (anyInTail) continue;
+          if (anyInTail) continue;
 
-        for (let j = s; j <= i; j++) {
-          mergedResult[j] = {
-            ...mergedSource[j],
-            assignedVerse: b.assignedVerse,
-          };
+          for (let j = s; j <= i; j++) {
+            mergedResult[j] = {
+              ...mergedSource[j],
+              assignedVerse: b.assignedVerse,
+            };
+          }
+          fired = true;
+        } else if (matchesTail) {
+          // Symmetric: guard that none of the R V'-side tokens individually
+          // belongs to V'.HEAD (otherwise we'd peel legitimate V' content
+          // into V).
+          let anyInHead = false;
+          for (let j = i + 1; j <= e; j++) {
+            const sw = mergedSource[j].norm;
+            if (bHead.some((h) => matcher.matches(sw, h))) {
+              anyInHead = true;
+              break;
+            }
+          }
+          if (anyInHead) continue;
+
+          for (let j = i + 1; j <= e; j++) {
+            mergedResult[j] = {
+              ...mergedSource[j],
+              assignedVerse: a.assignedVerse,
+            };
+          }
+          fired = true;
         }
-        fired = true;
       }
     }
   }
@@ -314,24 +343,4 @@ function sameVerse(
   b: CursorResult["assignedVerse"],
 ): boolean {
   return a.book === b.book && a.chapter === b.chapter && a.verse === b.verse;
-}
-
-/** Approximate equality between two normalized words. Stricter than the
- *  fuzzy matcher because we're comparing CONCATENATIONS of source tokens
- *  (e.g. "neverthelesss") against single canonical tokens — false positives
- *  on common shapes would migrate legitimate content. Requires same first
- *  and last letter, length within ±2, and substantial overlap. */
-function isApproxEqual(a: string, b: string): boolean {
-  if (!a || !b) return false;
-  if (a === b) return true;
-  if (a.length < 5 || b.length < 5) return false;
-  if (Math.abs(a.length - b.length) > 2) return false;
-  if (a[0] !== b[0]) return false;
-  if (a[a.length - 1] !== b[b.length - 1]) return false;
-  // Cheap suffix containment: one starts with the other's first half.
-  const shortest = a.length < b.length ? a : b;
-  const longest = a.length < b.length ? b : a;
-  const half = Math.floor(shortest.length / 2);
-  return longest.startsWith(shortest.slice(0, half)) &&
-    longest.endsWith(shortest.slice(-half));
 }

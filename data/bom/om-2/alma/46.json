@@ -280,6 +280,14 @@
         "text": "one verry wicked man can cause to take place among the children of me",
         "markdown": "{{one verry wic}}ked ma{{n can}} cause to take place among the children of me",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/146"
+      },
+      {
+        "id": "146:10a",
+        "page": 146,
+        "line": 10,
+        "text": "n",
+        "markdown": "{{n",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/146"
       }
     ]
   },
@@ -289,11 +297,11 @@
     "verse": 10,
     "lines": [
       {
-        "id": "146:10",
+        "id": "146:10b",
         "page": 146,
         "line": 10,
-        "text": "n yea we see that Ameleckiah because he was a man of Cunning devises ",
-        "markdown": "{{n yea we see that}} Ame{{l}}eckiah because he was a man of Cunning devises ",
+        "text": "yea we see that Ameleckiah because he was a man of Cunning devises ",
+        "markdown": "yea we see that}} Ame{{l}}eckiah because he was a man of Cunning devises ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/146"
       },
       {

@@ -214,8 +214,8 @@
         "id": "181:1a",
         "page": 181,
         "line": 1,
-        "text": "of their retreats & their strong",
-        "markdown": "{{of their}} retreats & their strong",
+        "text": "of their retreats & their strong holds",
+        "markdown": "{{of their}} retreats & their strong holds",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/181"
       }
     ]
@@ -229,8 +229,8 @@
         "id": "181:1b",
         "page": 181,
         "line": 1,
-        "text": "holds & it came to pass that we did wait in thesedifficult circumstances for the space of many months even until we were aboutto perish for the want of food",
-        "markdown": "holds & it {{came to pass that we did wait in thesedifficult c}}ircumstances for the space of m{{any months even until we were aboutto perish}} for the want of food",
+        "text": "& it came to pass that we did wait in thesedifficult circumstances for the space of many months even until we were aboutto perish for the want of food",
+        "markdown": "& it {{came to pass that we did wait in thesedifficult c}}ircumstances for the space of m{{any months even until we were aboutto perish}} for the want of food",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/181"
       }
     ]

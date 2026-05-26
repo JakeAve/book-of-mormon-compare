@@ -2,6 +2,19 @@
 // canonical book slugs. Headings act as hard anchors that segment the source
 // and let the cursor jump to the correct book when drift accumulates.
 
+// Matches a source LINE whose entire content is a chapter-transition marker —
+// e.g. "Chapter", "Chapter 2", "Chapter II", "Chapter 3rd.——". These appear
+// in OM (and occasionally PM) between chapters of running text and represent
+// the boundary itself rather than content. By convention they belong with
+// the NEXT canonical chapter, not the previous one.
+//
+// Stricter than `isChapterHeading` (which also accepts headings embedded in
+// content lines) — this only fires when there are no other content words.
+export function isChapterMarkerLine(text: string): boolean {
+  return /^\s*chapter\b\s*([ivxlc]+|[0-9]+)?\s*(st|nd|rd|th)?\.?\s*[—\-]*\s*$/i
+    .test(text);
+}
+
 export function isChapterHeading(text: string): boolean {
   const t = normalize(text);
   // ^ anchor prevents mid-sentence false positives. Book names are restricted

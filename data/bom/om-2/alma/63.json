@@ -5,6 +5,14 @@
     "verse": 1,
     "lines": [
       {
+        "id": "192:3",
+        "page": 192,
+        "line": 3,
+        "text": "Chapter ",
+        "markdown": "{{ Chapt}}er ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/192"
+      },
+      {
         "id": "192:4",
         "page": 192,
         "line": 4,

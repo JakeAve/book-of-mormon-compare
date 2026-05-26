@@ -2,6 +2,8 @@ import { tokenizeSource } from "./align2/tokenize-source.ts";
 import { groupByVerse, tokenizeTarget } from "./align2/tokenize-target.ts";
 import { runCursor } from "./align2/cursor.ts";
 import { runScaffoldAlign } from "./align2/scaffold-align.ts";
+import { pushChapterMarkersForward } from "./align2/chapter-markers.ts";
+import { applyOverrides } from "./align2/apply-overrides.ts";
 import { buildAllVerseOutputs, type OutVerse } from "./align2/build-output.ts";
 import { verseKey } from "./align2/line-key.ts";
 import {
@@ -29,7 +31,7 @@ async function run(
   const targetWords = tokenizeTarget(canonVerses);
   const verseGroups = groupByVerse(targetWords);
 
-  const cursorResults = adapter.algorithm === "scaffold"
+  const rawResults = adapter.algorithm === "scaffold"
     ? runScaffoldAlign(sourceWords, verseGroups, lineInfos, {
       ngrams: [6, 4, 3],
       minTokensPerVerse: adapter.scaffoldMinTokensPerVerse ?? 3,
@@ -41,6 +43,10 @@ async function run(
       adapter.cursor,
       adapter.dictionary,
     );
+  const cursorResults = applyOverrides(
+    pushChapterMarkersForward(rawResults, verseGroups, lineInfos),
+    adapter.overrides,
+  );
   console.log(`  cursor assigned: ${cursorResults.length} words`);
 
   const canonByKey = new Map(

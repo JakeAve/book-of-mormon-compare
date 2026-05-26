@@ -234,11 +234,11 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/132"
       },
       {
-        "id": "132:11",
+        "id": "132:11a",
         "page": 132,
         "line": 11,
-        "text": "mattereth not all is as one day with God & time only is measured unto man",
-        "markdown": "{{matteret}}h {{not}} all is as o{{n}}e day with God & time only is measured unto man",
+        "text": "mattereth not all is as one day with God & time only is measured unto",
+        "markdown": "{{matteret}}h {{not}} all is as o{{n}}e day with God & time only is measured unto",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/132"
       }
     ]
@@ -248,6 +248,13 @@
     "chapter": 40,
     "verse": 9,
     "lines": [
+      {
+        "id": "132:11b",
+        "page": 132,
+        "line": 11,
+        "text": "man ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/132"
+      },
       {
         "id": "132:12",
         "page": 132,

@@ -3,6 +3,8 @@ import { tokenizeSource } from "../tokenize-source.ts";
 import { groupByVerse, tokenizeTarget } from "../tokenize-target.ts";
 import { runCursor } from "../cursor.ts";
 import { runScaffoldAlign } from "../scaffold-align.ts";
+import { pushChapterMarkersForward } from "../chapter-markers.ts";
+import { applyOverrides } from "../apply-overrides.ts";
 import { buildAllVerseOutputs, type OutVerse } from "../build-output.ts";
 import { verseKey } from "../line-key.ts";
 import { getAdapter, type SourceAdapter } from "../sources/index.ts";
@@ -71,6 +73,24 @@ const SUITES: VersionSuite[] = [
       // canonical "Nevertheless" as three tokens `never the less` straddling
       // the 9:2/9:3 verse boundary. All three should land in 9:3.
       { slug: "om/1-ne-9", book: "1-ne", chapter: 9 },
+      // 1-ne 10 exercises two scaffold refinements:
+      //   - chapter-marker line "Chapter 3rd.——" (page 12 line 10) sits at
+      //     the START of 10:1, not stuck at the end of 9:6
+      //   - boundary 10:20→10:21: OM writes "Wherefore" as `where for` split
+      //     across the boundary. Both should land in 10:21 — caught because
+      //     `wherefor` (concat) matches canonical `wherefore` at matcher
+      //     level 3 (Levenshtein 1).
+      { slug: "om/1-ne-10", book: "1-ne", chapter: 10 },
+      // 1-ne 11:11 exercises the SYMMETRIC multi-word concat (canonical word
+      // in V.TAIL, not V'.HEAD). OM writes `another` as `an other` straddling
+      // 11:11 / 11:12; both should land in 11:11.
+      { slug: "om/1-ne-11", book: "1-ne", chapter: 11 },
+      // hel 2 exercises the per-adapter overrides system. OM page 196 line 30
+      // reads `& it came to pass that when...`; the scribal "& it came to
+      // pass" phrase doesn't appear in either canonical 2:7 or 2:8 (canonical
+      // 2:8 begins "And when..."), so no structural rule can place it. An
+      // explicit override in sources/om.ts forces the whole line into 2:8.
+      { slug: "om/hel-2", book: "hel", chapter: 2 },
     ],
   },
 ];
@@ -87,7 +107,7 @@ async function runPipeline(adapter: SourceAdapter): Promise<OutVerse[]> {
   );
   const targetWords = tokenizeTarget(allCanon);
   const verseGroups = groupByVerse(targetWords);
-  const cursorResults = adapter.algorithm === "scaffold"
+  const rawResults = adapter.algorithm === "scaffold"
     ? runScaffoldAlign(sourceWords, verseGroups, lineInfos, {
       ngrams: [6, 4, 3],
       minTokensPerVerse: adapter.scaffoldMinTokensPerVerse ?? 3,
@@ -99,6 +119,10 @@ async function runPipeline(adapter: SourceAdapter): Promise<OutVerse[]> {
       adapter.cursor,
       adapter.dictionary,
     );
+  const cursorResults = applyOverrides(
+    pushChapterMarkersForward(rawResults, verseGroups, lineInfos),
+    adapter.overrides,
+  );
   const canonByKey = new Map(
     allCanon.map((v) => [verseKey(v.book, v.chapter, v.verse), v.text]),
   );

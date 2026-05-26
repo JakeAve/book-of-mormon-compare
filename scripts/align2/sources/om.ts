@@ -19,4 +19,19 @@ export const om: SourceAdapter = {
   algorithm: "scaffold",
   cursor: DEFAULT_CURSOR_CONFIG,
   scaffoldMinTokensPerVerse: 3,
+  overrides: [
+    {
+      // OM page 196 line 30 reads `& it came to pass that when the servant
+      // of Helaman...`. Canonical hel 2:7 ends "...might murder Helaman."
+      // and canonical hel 2:8 starts "And when the servant of Helaman..." —
+      // neither contains "and it came to pass", so this is OM-specific
+      // filler with no canonical anchor. The scaffold puts `& it` with v7
+      // and the rest with v8, but the whole line semantically belongs with
+      // v8 (the filler introduces v8's content).
+      page: 196,
+      line: 30,
+      target: { book: "hel", chapter: 2, verse: 8 },
+      note: "OM filler `& it came to pass` between hel 2:7 and 2:8",
+    },
+  ],
 };

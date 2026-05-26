@@ -1400,10 +1400,11 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/20"
       },
       {
-        "id": "20:27a",
+        "id": "20:27",
         "page": 20,
         "line": 27,
-        "text": "Church whose formation thou hast seen",
+        "text": "Church whose formation thou hast seen where",
+        "markdown": "Church whose formation thou hast seen whe{{re}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/20"
       }
     ]
@@ -1413,14 +1414,6 @@
     "chapter": 13,
     "verse": 33,
     "lines": [
-      {
-        "id": "20:27b",
-        "page": 20,
-        "line": 27,
-        "text": "where",
-        "markdown": "whe{{re}}",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/20"
-      },
       {
         "id": "20:28",
         "page": 20,
@@ -1441,6 +1434,13 @@
         "line": 30,
         "text": "mnant of the House of israel in great Judgem",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/20"
+      },
+      {
+        "id": "20:31a",
+        "page": 20,
+        "line": 31,
+        "text": "ent",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/20"
       }
     ]
   },
@@ -1450,10 +1450,10 @@
     "verse": 34,
     "lines": [
       {
-        "id": "20:31",
+        "id": "20:31b",
         "page": 20,
         "line": 31,
-        "text": "ent & it came to pass that the Angel of the ",
+        "text": "& it came to pass that the Angel of the ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/20"
       },
       {

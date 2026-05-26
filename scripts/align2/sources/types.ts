@@ -53,6 +53,28 @@ export interface CursorConfig {
   srcPerCanonOverride: number | null;
 }
 
+/** A per-adapter override of the algorithm's verse assignment. Use for cases
+ *  the general algorithm can't handle (e.g. source-specific filler phrases
+ *  that don't appear in either canonical verse, so no structural rule can
+ *  decide where to put them). Keep overrides sparse — every entry is a
+ *  known limitation of the algorithm we've accepted rather than fixed.
+ *  Record a `note` so future readers know what motivated the carve-out. */
+export interface Override {
+  /** Source page (= raw `chapter`). */
+  page: number;
+  /** Source line (= raw `verse`). */
+  line: number;
+  /** Word indices on the line to reassign. Omit to reassign the whole line.
+   *  Indices are 0-based and match `SourceWord.wordIndexInLine`. */
+  wordIndices?: number[];
+  /** Inclusive range [start, end] of word indices to reassign. */
+  wordRange?: [number, number];
+  /** Canonical destination. */
+  target: { book: string; chapter: number; verse: number };
+  /** Why this override exists. Required for non-obvious corrections. */
+  note: string;
+}
+
 export interface SourceAdapter {
   slug: string;
   label: string;
@@ -67,6 +89,8 @@ export interface SourceAdapter {
   /** Minimum source tokens that must map to a canonical verse for the
    *  scaffold algorithm to emit it. Only applies when algorithm = "scaffold". */
   scaffoldMinTokensPerVerse?: number;
+  /** Per-adapter overrides for cases the general algorithm gets wrong. */
+  overrides?: Override[];
 }
 
 export const DEFAULT_CURSOR_CONFIG: CursorConfig = {

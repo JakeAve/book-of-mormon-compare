@@ -58,11 +58,17 @@ scripts/
     merge-splits.ts        mergeLineBreakSplits() — "wher"+"efore" → "wherefore"
     verse-lcs.ts           verseLCS(), trimTrailingSparseMatches(), fillGapsInPlace()
     cursor.ts              runCursor() — orchestrates the per-verse LCS walk
+    ngram-anchor.ts        buildAnchorsMulti(), interpolateScaffold() — unique-n-gram + LIS scaffold
+    scaffold-align.ts      runScaffoldAlign() — scaffold-based algorithm for fragmentary sources
+    chapter-markers.ts     pushChapterMarkersForward() — post-pass for stuck chapter markers
+    apply-overrides.ts     applyOverrides() — per-adapter manual carve-outs
     build-output.ts        buildAllVerseOutputs() — CursorResult[] → OutVerse[] (line splits, applyJoins, markdown slicing)
     sources/
-      types.ts             SourceAdapter, CursorConfig, DEFAULT_CURSOR_CONFIG
+      types.ts             SourceAdapter, CursorConfig, Override, DEFAULT_CURSOR_CONFIG
       pm.ts                PM adapter (default tuning)
+      om.ts                OM adapter (scaffold algorithm, overrides list)
       _1830.ts             1830 adapter (tail-trim enabled)
+      _1837.ts             1837 adapter
       index.ts             ADAPTERS registry, getAdapter()
     __tests__/
       integration.test.ts  Per-version golden-file fixtures + aligner1 regression checks
@@ -273,9 +279,13 @@ artifact of the JS Papers shape, not actual versification.
    `data/reports/<slug>-2/summary.json` for the top-flagged chapters.
 7. If a source has dropped clauses / variants like 1830, enable `tailGapFactor`
    in the adapter and tune against the report.
-8. Add 2–3 chapter fixtures to
+8. For fragmentary sources where source pages jump around canonical text (like
+   OM), set `algorithm: "scaffold"` instead of the default cursor.
+9. Add 2–3 chapter fixtures to
    `scripts/align2/__tests__/fixtures/expected/<slug>/` and a `VersionSuite`
    entry in `integration.test.ts`.
+10. As you inspect output, add `overrides` entries for stubborn one-off cases
+    the algorithm can't handle (see Overrides section).
 
 ## Adding Dictionary Entries
 
@@ -290,6 +300,59 @@ Most words match at level 2 or 3 already (`haveing` → `having`, `exceding` →
 
 To enable a dictionary for a source, set `dictionary: new Map([...])` on the
 adapter. The cursor will pass it through to `createMatcher`.
+
+## Overrides
+
+Per-adapter explicit reassignments for cases the general algorithm gets wrong.
+Applied as a post-pass after `pushChapterMarkersForward`. Each override
+targets a specific source line (`page`, `line`) and reassigns its words to a
+canonical verse. Lives on the adapter:
+
+```ts
+overrides: [
+  {
+    page: 196,
+    line: 30,
+    // wordIndices?: number[]      — specific indices, or
+    // wordRange?:   [start, end]  — inclusive range, or
+    // omit both                   — entire line
+    target: { book: "hel", chapter: 2, verse: 8 },
+    note: "OM filler `& it came to pass` between hel 2:7 and 2:8",
+  },
+],
+```
+
+`apply-overrides.ts` finds matching source words by
+`(page, line, wordIndexInLine)` and reassigns them. If an override doesn't
+match any source words, a warning prints — alignment changes may have made
+the override obsolete; check whether it can be deleted.
+
+### When to add an override vs extend the algorithm
+
+Use an **override** when:
+- The scribe added filler / connectives that don't appear in either neighboring
+  canonical verse (no structural rule can place them — there's nothing to match
+  against).
+- It's a one- or two-verse quirk unique to this edition.
+- The override is documented inline with `note:`; future readers can see what
+  motivated the carve-out.
+
+Use an **algorithm change** when:
+- The same pattern recurs across many verses (the `wherefor` / `an other` /
+  `judgment seat` family got `refineBoundaries`; the trailing-strikeout markdown
+  case got the `buildTextToMdMapping` fix).
+- The pattern is universal enough to express as a rule without enumeration.
+
+The rule of thumb: if you'd write the same override more than ~3 times across
+sources, generalize the algorithm instead.
+
+### Current overrides
+
+| Source | Location | Reason |
+|---|---|---|
+| OM | hel 2:7/8 boundary (page 196 line 30) | OM-specific filler `& it came to pass` not in either canonical verse |
+
+Locked in by `om/hel-2` integration fixture.
 
 ## Diagnosing Misalignment
 

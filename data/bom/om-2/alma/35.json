@@ -585,16 +585,8 @@
         "id": "123:12",
         "page": 123,
         "line": 12,
-        "text": "count of his commandments which he gave unto them according to his own record ",
-        "markdown": "count of his commandments which he gave unto them {{according to his own record}} ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/123"
-      },
-      {
-        "id": "123:13",
-        "page": 123,
-        "line": 13,
-        "text": "Chapter",
-        "markdown": "Chapter {{}}",
+        "text": "count of his commandments which he gave unto them according to his own record",
+        "markdown": "count of his commandments which he gave unto them {{according to his own record}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/123"
       }
     ]
