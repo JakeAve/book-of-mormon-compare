@@ -5,7 +5,7 @@
     "verse": 1,
     "lines": [
       {
-        "id": "28:24",
+        "id": "28:24b",
         "page": 28,
         "line": 24,
         "text": "& it came to pass that we did ",
@@ -26,7 +26,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/28"
       },
       {
-        "id": "28:27",
+        "id": "28:27a",
         "page": 28,
         "line": 27,
         "text": "women bare children in the Wilderness",
@@ -40,7 +40,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "28:27",
+        "id": "28:27b",
         "page": 28,
         "line": 27,
         "text": "& so great was the blessings of the Lord upon ",
@@ -61,11 +61,11 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/28"
       },
       {
-        "id": "28:30",
+        "id": "28:30a",
         "page": 28,
         "line": 30,
-        "text": "an to bare their journyings without murmuring & thus we see that the comm",
-        "markdown": "an to bare their journyings ~~wouth~~ without murmuring & thus we see that the comm",
+        "text": "an to bare their journyings without murmuring",
+        "markdown": "an to bare their journyings ~~wouth~~ without murmuring",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/28"
       }
     ]
@@ -75,6 +75,13 @@
     "chapter": 17,
     "verse": 3,
     "lines": [
+      {
+        "id": "28:30b",
+        "page": 28,
+        "line": 30,
+        "text": "& thus we see that the comm",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/28"
+      },
       {
         "id": "28:31",
         "page": 28,
@@ -99,7 +106,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/28"
       },
       {
-        "id": "28:34",
+        "id": "28:34a",
         "page": 28,
         "line": 34,
         "text": "ways & means for us while we did sojourn in the wilderness",
@@ -114,7 +121,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "28:34",
+        "id": "28:34b",
         "page": 28,
         "line": 34,
         "text": "& we did sojourn for the space ",
@@ -122,7 +129,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/28"
       },
       {
-        "id": "28:35",
+        "id": "28:35a",
         "page": 28,
         "line": 35,
         "text": "of many years yea even eight years in the wilderness",
@@ -136,7 +143,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "28:35",
+        "id": "28:35b",
         "page": 28,
         "line": 35,
         "text": "& we did come to the land which ",
@@ -152,7 +159,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/28"
       },
       {
-        "id": "29:1",
+        "id": "29:1a",
         "page": 29,
         "line": 1,
         "text": "Irreantum which being interpreted is many Waters",
@@ -166,7 +173,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "29:1",
+        "id": "29:1b",
         "page": 29,
         "line": 1,
         "text": "& it came to pass that we did ",
@@ -198,7 +205,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/29"
       },
       {
-        "id": "29:5",
+        "id": "29:5a",
         "page": 29,
         "line": 5,
         "text": "ntiful because of its much fruit",
@@ -212,7 +219,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "29:5",
+        "id": "29:5b",
         "page": 29,
         "line": 5,
         "text": "& it came to pass that after I Nephi had been ",
@@ -236,7 +243,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/29"
       },
       {
-        "id": "29:8",
+        "id": "29:8a",
         "page": 29,
         "line": 8,
         "text": "up into the mountain & cried unto the Lord",
@@ -250,7 +257,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "29:8",
+        "id": "29:8b",
         "page": 29,
         "line": 8,
         "text": "& it came to pass that the Lord spak",
@@ -265,7 +272,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/29"
       },
       {
-        "id": "29:10",
+        "id": "29:10a",
         "page": 29,
         "line": 10,
         "text": "ll shew thee that I may carry thy People across these waters",
@@ -279,7 +286,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "29:10",
+        "id": "29:10b",
         "page": 29,
         "line": 10,
         "text": "& I sayeth Lord ",
@@ -293,7 +300,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/29"
       },
       {
-        "id": "29:12",
+        "id": "29:12a",
         "page": 29,
         "line": 12,
         "text": "uct the Ship after the manner which thou hast shewn unto me",
@@ -307,7 +314,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "29:12",
+        "id": "29:12b",
         "page": 29,
         "line": 12,
         "text": "& it came to ",
@@ -321,7 +328,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/29"
       },
       {
-        "id": "29:14",
+        "id": "29:14a",
         "page": 29,
         "line": 14,
         "text": "t make tools",
@@ -335,7 +342,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "29:14",
+        "id": "29:14b",
         "page": 29,
         "line": 14,
         "text": "& it came to pass that I Nephi did mak[e] Bellowses wherewith to ",
@@ -357,7 +364,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/29"
       },
       {
-        "id": "29:17",
+        "id": "29:17a",
         "page": 29,
         "line": 17,
         "text": "I might make fire",
@@ -371,7 +378,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "29:17",
+        "id": "29:17b",
         "page": 29,
         "line": 17,
         "text": "for the Lord had not hitherto suffered that we should ",
@@ -385,7 +392,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/29"
       },
       {
-        "id": "29:19",
+        "id": "29:19a",
         "page": 29,
         "line": 19,
         "text": "that thy food shall become sweet that ye cook it not",
@@ -400,7 +407,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "29:19",
+        "id": "29:19b",
         "page": 29,
         "line": 19,
         "text": "& I will also be your ",
@@ -429,7 +436,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/29"
       },
       {
-        "id": "29:23",
+        "id": "29:23a",
         "page": 29,
         "line": 23,
         "text": "it is by me that ye are lead",
@@ -443,7 +450,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "29:23",
+        "id": "29:23b",
         "page": 29,
         "line": 23,
         "text": "yea & the Lord said also that after ye have ariven ",
@@ -465,7 +472,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/29"
       },
       {
-        "id": "29:26",
+        "id": "29:26a",
         "page": 29,
         "line": 26,
         "text": "of Jerusalem",
@@ -479,14 +486,14 @@
     "verse": 15,
     "lines": [
       {
-        "id": "29:26",
+        "id": "29:26b",
         "page": 29,
         "line": 26,
         "text": "wherefore I Nephi did strive to keep the commandments ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/29"
       },
       {
-        "id": "29:27",
+        "id": "29:27a",
         "page": 29,
         "line": 27,
         "text": "of the Lord & I did exhort my Brethren to faithfulness & diligence",
@@ -500,7 +507,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "29:27",
+        "id": "29:27b",
         "page": 29,
         "line": 27,
         "text": "& it came ",
@@ -514,7 +521,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/29"
       },
       {
-        "id": "29:29",
+        "id": "29:29a",
         "page": 29,
         "line": 29,
         "text": "ck",
@@ -528,7 +535,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "29:29",
+        "id": "29:29b",
         "page": 29,
         "line": 29,
         "text": "& when my Brethren saw that I was about to build a ship they began to ",
@@ -542,7 +549,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/29"
       },
       {
-        "id": "29:31",
+        "id": "29:31a",
         "page": 29,
         "line": 31,
         "text": "ild a ship yea & he also thinketh that he can cross these great waters",
@@ -556,7 +563,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "29:31",
+        "id": "29:31b",
         "page": 29,
         "line": 31,
         "text": "& thus my ",
@@ -579,7 +586,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/29"
       },
       {
-        "id": "29:34",
+        "id": "29:34a",
         "page": 29,
         "line": 34,
         "text": "ve that I were instructed of the Lord",
@@ -593,7 +600,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "29:34",
+        "id": "29:34b",
         "page": 29,
         "line": 34,
         "text": "& now it came to pass that I Nephi ",
@@ -617,8 +624,8 @@
         "id": "29:37",
         "page": 29,
         "line": 37,
-        "text": "they did rejoice over me saying we knew <​ that​> ye could not construct a ship ",
-        "markdown": "{{th}}ey d{{i}}d rejoice over me saying we knew <​~~the~~ [that]​> ye could not construct a ship ",
+        "text": "they did rejoice over me saying we knew that​> ye could not construct a ship for ",
+        "markdown": "{{th}}ey d{{i}}d rejoice over me saying we knew <​~~the~~ [that]​> ye could not construct a ship for ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/29"
       },
       {
@@ -630,7 +637,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/29"
       },
       {
-        "id": "29:39",
+        "id": "29:39a",
         "page": 29,
         "line": 39,
         "text": "not accomplish so great a work",
@@ -644,7 +651,7 @@
     "verse": 20,
     "lines": [
       {
-        "id": "29:39",
+        "id": "29:39b",
         "page": 29,
         "line": 39,
         "text": "& thou art like unto our father ",
@@ -689,7 +696,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/30"
       },
       {
-        "id": "30:6",
+        "id": "30:6a",
         "page": 30,
         "line": 6,
         "text": "these afflictions",
@@ -703,7 +710,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "30:6",
+        "id": "30:6b",
         "page": 30,
         "line": 6,
         "text": "behold these many years we have suffered in the wilderness whic",
@@ -717,7 +724,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/30"
       },
       {
-        "id": "30:8",
+        "id": "30:8a",
         "page": 30,
         "line": 8,
         "text": "we might have been happy",
@@ -731,7 +738,7 @@
     "verse": 22,
     "lines": [
       {
-        "id": "30:8",
+        "id": "30:8b",
         "page": 30,
         "line": 8,
         "text": "& we know that the People which were in the land ",
@@ -796,7 +803,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/30"
       },
       {
-        "id": "30:16",
+        "id": "30:16a",
         "page": 30,
         "line": 16,
         "text": "hands of the Egytians if they had not hearkened unto the words of the Lord",
@@ -810,7 +817,7 @@
     "verse": 24,
     "lines": [
       {
-        "id": "30:16",
+        "id": "30:16b",
         "page": 30,
         "line": 16,
         "text": "yea do ",
@@ -824,7 +831,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/30"
       },
       {
-        "id": "30:18",
+        "id": "30:18a",
         "page": 30,
         "line": 18,
         "text": "ded Moses that he should lead them out of Bondage",
@@ -838,7 +845,7 @@
     "verse": 25,
     "lines": [
       {
-        "id": "30:18",
+        "id": "30:18b",
         "page": 30,
         "line": 18,
         "text": "now ye know that the children ",
@@ -861,7 +868,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/30"
       },
       {
-        "id": "30:21",
+        "id": "30:21a",
         "page": 30,
         "line": 21,
         "text": "they should be brought out of Bondage",
@@ -875,7 +882,7 @@
     "verse": 26,
     "lines": [
       {
-        "id": "30:21",
+        "id": "30:21b",
         "page": 30,
         "line": 21,
         "text": "now ye know that Moses was commanded ",
@@ -889,7 +896,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/30"
       },
       {
-        "id": "30:23",
+        "id": "30:23a",
         "page": 30,
         "line": 23,
         "text": "ea was divided hither & thither & they passed through on dry ground",
@@ -903,7 +910,7 @@
     "verse": 27,
     "lines": [
       {
-        "id": "30:23",
+        "id": "30:23b",
         "page": 30,
         "line": 23,
         "text": "but ye ",
@@ -917,7 +924,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/30"
       },
       {
-        "id": "30:25",
+        "id": "30:25a",
         "page": 30,
         "line": 25,
         "text": "Pharough",
@@ -931,7 +938,7 @@
     "verse": 28,
     "lines": [
       {
-        "id": "30:25",
+        "id": "30:25b",
         "page": 30,
         "line": 25,
         "text": "& ye also know that they were fed with manna in the wilderness",
@@ -945,7 +952,7 @@
     "verse": 29,
     "lines": [
       {
-        "id": "30:25",
+        "id": "30:25c",
         "page": 30,
         "line": 25,
         "text": "yea ",
@@ -967,7 +974,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/30"
       },
       {
-        "id": "30:28",
+        "id": "30:28a",
         "page": 30,
         "line": 28,
         "text": "ight quench their thirst",
@@ -981,7 +988,7 @@
     "verse": 30,
     "lines": [
       {
-        "id": "30:28",
+        "id": "30:28b",
         "page": 30,
         "line": 28,
         "text": "& notwithstanding they being lead the Lead [Lord] their God their ",
@@ -1009,7 +1016,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/30"
       },
       {
-        "id": "30:32",
+        "id": "30:32a",
         "page": 30,
         "line": 32,
         "text": "& liveing [God]",
@@ -1023,7 +1030,7 @@
     "verse": 31,
     "lines": [
       {
-        "id": "30:32",
+        "id": "30:32b",
         "page": 30,
         "line": 32,
         "text": "& it came to pass that according to his word he did destroy them & acco",
@@ -1037,7 +1044,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/30"
       },
       {
-        "id": "30:34",
+        "id": "30:34a",
         "page": 30,
         "line": 34,
         "text": "for them & there was not any thing done save it were by his word",
@@ -1052,7 +1059,7 @@
     "verse": 32,
     "lines": [
       {
-        "id": "30:34",
+        "id": "30:34b",
         "page": 30,
         "line": 34,
         "text": "& after they ",
@@ -1067,7 +1074,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/30"
       },
       {
-        "id": "30:36",
+        "id": "30:36a",
         "page": 30,
         "line": 36,
         "text": "children of the land yea unto the scattering them to destruction",
@@ -1081,7 +1088,7 @@
     "verse": 33,
     "lines": [
       {
-        "id": "30:36",
+        "id": "30:36b",
         "page": 30,
         "line": 36,
         "text": "& now do ye suppo",
@@ -1089,7 +1096,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/30"
       },
       {
-        "id": "30:37",
+        "id": "30:37a",
         "page": 30,
         "line": 37,
         "text": "se that the children of this land which were in the land of promise which were drivenout by our fathers do ye suppose that they were righteous behold I say unto you nay",
@@ -1104,7 +1111,7 @@
     "verse": 34,
     "lines": [
       {
-        "id": "30:37",
+        "id": "30:37b",
         "page": 30,
         "line": 37,
         "text": "do yesuppose that our fathers would have been more choice then they if they had been ",
@@ -1112,7 +1119,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/30"
       },
       {
-        "id": "31:1",
+        "id": "31:1a",
         "page": 31,
         "line": 1,
         "text": "righteous I say unto you nay",
@@ -1126,7 +1133,7 @@
     "verse": 35,
     "lines": [
       {
-        "id": "31:1",
+        "id": "31:1b",
         "page": 31,
         "line": 1,
         "text": "behold the Lord esteemeth all flesh in one he thatis righteous is favoured of God but behold this people had rejected every word of God ",
@@ -1158,7 +1165,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/31"
       },
       {
-        "id": "31:5",
+        "id": "31:5a",
         "page": 31,
         "line": 5,
         "text": "ing power over it",
@@ -1172,14 +1179,14 @@
     "verse": 36,
     "lines": [
       {
-        "id": "31:5",
+        "id": "31:5b",
         "page": 31,
         "line": 5,
         "text": "behold the Lord hath created the earth that it should be inhabited & ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/31"
       },
       {
-        "id": "31:6",
+        "id": "31:6a",
         "page": 31,
         "line": 6,
         "text": "he hath created his Children that they should possess it",
@@ -1193,14 +1200,14 @@
     "verse": 37,
     "lines": [
       {
-        "id": "31:6",
+        "id": "31:6b",
         "page": 31,
         "line": 6,
         "text": "& he raiseth up a righteous Na",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/31"
       },
       {
-        "id": "31:7",
+        "id": "31:7a",
         "page": 31,
         "line": 7,
         "text": "tion & destroyeth the Nations of the wicked",
@@ -1214,7 +1221,7 @@
     "verse": 38,
     "lines": [
       {
-        "id": "31:7",
+        "id": "31:7b",
         "page": 31,
         "line": 7,
         "text": "& he leadeth away the righteous into precio",
@@ -1222,7 +1229,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/31"
       },
       {
-        "id": "31:8",
+        "id": "31:8a",
         "page": 31,
         "line": 8,
         "text": "us lands & the wicked he destroyeth & curseth the land unto them for their sakes",
@@ -1236,14 +1243,14 @@
     "verse": 39,
     "lines": [
       {
-        "id": "31:8",
+        "id": "31:8b",
         "page": 31,
         "line": 8,
         "text": "he ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/31"
       },
       {
-        "id": "31:9",
+        "id": "31:9a",
         "page": 31,
         "line": 9,
         "text": "ruleth high in the heavens for it is his throan & his earth is his footstool",
@@ -1257,7 +1264,7 @@
     "verse": 40,
     "lines": [
       {
-        "id": "31:9",
+        "id": "31:9b",
         "page": 31,
         "line": 9,
         "text": "he loveth ",
@@ -1279,7 +1286,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/31"
       },
       {
-        "id": "31:12",
+        "id": "31:12a",
         "page": 31,
         "line": 12,
         "text": "had made wherefore he did bring them out of the land of Egypt",
@@ -1293,7 +1300,7 @@
     "verse": 41,
     "lines": [
       {
-        "id": "31:12",
+        "id": "31:12b",
         "page": 31,
         "line": 12,
         "text": "& he did straiten ",
@@ -1328,7 +1335,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/31"
       },
       {
-        "id": "31:17",
+        "id": "31:17a",
         "page": 31,
         "line": 17,
         "text": "way or the easiness of it there were many which perished",
@@ -1342,7 +1349,7 @@
     "verse": 42,
     "lines": [
       {
-        "id": "31:17",
+        "id": "31:17b",
         "page": 31,
         "line": 17,
         "text": "& they did heardon their hea",
@@ -1364,7 +1371,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/31"
       },
       {
-        "id": "31:20",
+        "id": "31:20a",
         "page": 31,
         "line": 20,
         "text": "mise",
@@ -1378,7 +1385,7 @@
     "verse": 43,
     "lines": [
       {
-        "id": "31:20",
+        "id": "31:20b",
         "page": 31,
         "line": 20,
         "text": "& now after all these things the time has come that they have became wick",
@@ -1399,7 +1406,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/31"
       },
       {
-        "id": "31:23",
+        "id": "31:23a",
         "page": 31,
         "line": 23,
         "text": "a few only which shall be lead away into captivity",
@@ -1413,7 +1420,7 @@
     "verse": 44,
     "lines": [
       {
-        "id": "31:23",
+        "id": "31:23b",
         "page": 31,
         "line": 23,
         "text": "wherefore the Lord command",
@@ -1434,7 +1441,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/31"
       },
       {
-        "id": "31:26",
+        "id": "31:26a",
         "page": 31,
         "line": 26,
         "text": "are murderers in your hearts & ye are like unto they",
@@ -1449,7 +1456,7 @@
     "verse": 45,
     "lines": [
       {
-        "id": "31:26",
+        "id": "31:26b",
         "page": 31,
         "line": 26,
         "text": "ye are swift to do eniquity but slo",
@@ -1484,7 +1491,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/31"
       },
       {
-        "id": "31:31",
+        "id": "31:31a",
         "page": 31,
         "line": 31,
         "text": "as if it were to divide asunder",
@@ -1498,7 +1505,7 @@
     "verse": 46,
     "lines": [
       {
-        "id": "31:31",
+        "id": "31:31b",
         "page": 31,
         "line": 31,
         "text": "& ye also know that by the power of his almighty wo",
@@ -1521,7 +1528,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/31"
       },
       {
-        "id": "31:34",
+        "id": "31:34a",
         "page": 31,
         "line": 34,
         "text": "why is it that ye can be so hard in your hearts",
@@ -1535,7 +1542,7 @@
     "verse": 47,
     "lines": [
       {
-        "id": "31:34",
+        "id": "31:34b",
         "page": 31,
         "line": 34,
         "text": "behold my soul is wrent ",
@@ -1559,7 +1566,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/31"
       },
       {
-        "id": "31:37",
+        "id": "31:37a",
         "page": 31,
         "line": 37,
         "text": "had no strenght",
@@ -1574,7 +1581,7 @@
     "verse": 48,
     "lines": [
       {
-        "id": "31:37",
+        "id": "31:37b",
         "page": 31,
         "line": 37,
         "text": "& now it came to pass that when I had spoken these words they ",
@@ -1621,7 +1628,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/32"
       },
       {
-        "id": "32:5",
+        "id": "32:5a",
         "page": 32,
         "line": 5,
         "text": "nought before the power of God for God shall smite him",
@@ -1636,7 +1643,7 @@
     "verse": 49,
     "lines": [
       {
-        "id": "32:5",
+        "id": "32:5b",
         "page": 32,
         "line": 5,
         "text": "& it came to pass that I Nephi sayeth unto ",
@@ -1651,7 +1658,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/32"
       },
       {
-        "id": "32:7",
+        "id": "32:7a",
         "page": 32,
         "line": 7,
         "text": "our from me for God had commanded me that I should build a ship",
@@ -1666,7 +1673,7 @@
     "verse": 50,
     "lines": [
       {
-        "id": "32:7",
+        "id": "32:7b",
         "page": 32,
         "line": 7,
         "text": "& I sayeth unto them if ",
@@ -1688,7 +1695,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/32"
       },
       {
-        "id": "32:10",
+        "id": "32:10a",
         "page": 32,
         "line": 10,
         "text": "be done",
@@ -1702,7 +1709,7 @@
     "verse": 51,
     "lines": [
       {
-        "id": "32:10",
+        "id": "32:10b",
         "page": 32,
         "line": 10,
         "text": "& now if the Lord hath such great power & hath wrought so many miricles among the ",
@@ -1710,7 +1717,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/32"
       },
       {
-        "id": "32:11",
+        "id": "32:11a",
         "page": 32,
         "line": 11,
         "text": "children of men how is it that he cannot instruct me that I should build a ship",
@@ -1724,7 +1731,7 @@
     "verse": 52,
     "lines": [
       {
-        "id": "32:11",
+        "id": "32:11b",
         "page": 32,
         "line": 11,
         "text": "& it ",
@@ -1760,10 +1767,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/32"
       },
       {
-        "id": "32:16",
+        "id": "32:16a",
         "page": 32,
         "line": 16,
-        "text": "ught upon",
+        "text": "ught upon them",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/32"
       }
     ]
@@ -1774,10 +1781,10 @@
     "verse": 53,
     "lines": [
       {
-        "id": "32:16",
+        "id": "32:16b",
         "page": 32,
         "line": 16,
-        "text": "them & it came to pass that the Lord said unto me streach forth thine hand aga",
+        "text": "& it came to pass that the Lord said unto me streach forth thine hand aga",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/32"
       },
       {
@@ -1789,7 +1796,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/32"
       },
       {
-        "id": "32:18",
+        "id": "32:18a",
         "page": 32,
         "line": 18,
         "text": "Lord & this will I do that they may know that I am the Lord their God",
@@ -1804,7 +1811,7 @@
     "verse": 54,
     "lines": [
       {
-        "id": "32:18",
+        "id": "32:18b",
         "page": 32,
         "line": 18,
         "text": "& it came to ",
@@ -1819,7 +1826,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/32"
       },
       {
-        "id": "32:20",
+        "id": "32:20a",
         "page": 32,
         "line": 20,
         "text": "the Lord did shake them even according to the word which he had spoken",
@@ -1834,7 +1841,7 @@
     "verse": 55,
     "lines": [
       {
-        "id": "32:20",
+        "id": "32:20b",
         "page": 32,
         "line": 20,
         "text": "& now they ",
@@ -1870,7 +1877,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/32"
       },
       {
-        "id": "32:25",
+        "id": "32:25a",
         "page": 32,
         "line": 25,
         "text": "be long in the land which the Lord thy God shall give thee",

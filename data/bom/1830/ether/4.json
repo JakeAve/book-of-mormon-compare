@@ -5,7 +5,7 @@
     "verse": 1,
     "lines": [
       {
-        "id": "551:43",
+        "id": "551:43b",
         "page": 551,
         "line": 43,
         "text": "And the Lord commanded the brother of ",
@@ -50,14 +50,7 @@
         "id": "552:6",
         "page": 552,
         "line": 6,
-        "text": "world until after Christ should shew himself unto his people. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/552"
-      },
-      {
-        "id": "552:7",
-        "page": 552,
-        "line": 7,
-        "text": "And",
+        "text": "world until after Christ should shew himself unto his people.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/552"
       }
     ]
@@ -71,11 +64,11 @@
         "id": "552:7",
         "page": 552,
         "line": 7,
-        "text": "after that Christ truly had shewed himself unto his peo",
+        "text": "And after that Christ truly had shewed himself unto his peo",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/552"
       },
       {
-        "id": "552:8",
+        "id": "552:8a",
         "page": 552,
         "line": 8,
         "text": "ple, he commanded that they should be made manifest.",
@@ -89,7 +82,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "552:8",
+        "id": "552:8b",
         "page": 552,
         "line": 8,
         "text": "And ",
@@ -117,7 +110,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/552"
       },
       {
-        "id": "552:12",
+        "id": "552:12a",
         "page": 552,
         "line": 12,
         "text": "hide them up again in the earth.",
@@ -131,7 +124,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "552:12",
+        "id": "552:12b",
         "page": 552,
         "line": 12,
         "text": "Behold, I have written upon ",
@@ -152,10 +145,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/552"
       },
       {
-        "id": "552:15",
+        "id": "552:15a",
         "page": 552,
         "line": 15,
-        "text": "which was made manifest unto the brother of Jared; where",
+        "text": "which was made manifest unto the brother of Jared;",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/552"
       }
     ]
@@ -165,6 +158,13 @@
     "chapter": 4,
     "verse": 5,
     "lines": [
+      {
+        "id": "552:15b",
+        "page": 552,
+        "line": 15,
+        "text": "where",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/552"
+      },
       {
         "id": "552:16",
         "page": 552,
@@ -194,7 +194,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/552"
       },
       {
-        "id": "552:20",
+        "id": "552:20a",
         "page": 552,
         "line": 20,
         "text": "ters, according to the commandment of the Lord.",
@@ -208,7 +208,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "552:20",
+        "id": "552:20b",
         "page": 552,
         "line": 20,
         "text": "For the ",
@@ -229,7 +229,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/552"
       },
       {
-        "id": "552:23",
+        "id": "552:23a",
         "page": 552,
         "line": 23,
         "text": "come clean before the Lord;",
@@ -243,7 +243,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "552:23",
+        "id": "552:23b",
         "page": 552,
         "line": 23,
         "text": "and in that day that they shall ",
@@ -285,10 +285,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/552"
       },
       {
-        "id": "552:29",
+        "id": "552:29a",
         "page": 552,
         "line": 29,
-        "text": "the earth, and all things that in them is.",
+        "text": "the earth, and all things that in them",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/552"
       }
     ]
@@ -299,10 +299,10 @@
     "verse": 8,
     "lines": [
       {
-        "id": "552:29",
+        "id": "552:29b",
         "page": 552,
         "line": 29,
-        "text": "And he that will ",
+        "text": "is. And he that will ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/552"
       },
       {
@@ -327,7 +327,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/552"
       },
       {
-        "id": "552:33",
+        "id": "552:33a",
         "page": 552,
         "line": 33,
         "text": "I am he which speaketh;",
@@ -341,7 +341,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "552:33",
+        "id": "552:33b",
         "page": 552,
         "line": 33,
         "text": "and at my command the heavens ",
@@ -362,7 +362,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/552"
       },
       {
-        "id": "552:36",
+        "id": "552:36a",
         "page": 552,
         "line": 36,
         "text": "away, even so as by fire;",
@@ -376,7 +376,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "552:36",
+        "id": "552:36b",
         "page": 552,
         "line": 36,
         "text": "and he that believeth not my words, ",
@@ -397,7 +397,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/552"
       },
       {
-        "id": "552:39",
+        "id": "552:39a",
         "page": 552,
         "line": 39,
         "text": "last day.",
@@ -411,7 +411,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "552:39",
+        "id": "552:39b",
         "page": 552,
         "line": 39,
         "text": "But he that believeth these things which I have ",
@@ -439,7 +439,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/552"
       },
       {
-        "id": "552:43",
+        "id": "552:43a",
         "page": 552,
         "line": 43,
         "text": "men to do good;",
@@ -453,7 +453,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "552:43",
+        "id": "552:43b",
         "page": 552,
         "line": 43,
         "text": "and whatsoever thing persuadeth men to do ",
@@ -495,7 +495,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/553"
       },
       {
-        "id": "553:6",
+        "id": "553:6a",
         "page": 553,
         "line": 6,
         "text": "the truth of the world.",
@@ -509,7 +509,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "553:6",
+        "id": "553:6b",
         "page": 553,
         "line": 6,
         "text": "Come unto me, O ye Gentiles, and I ",
@@ -523,7 +523,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/553"
       },
       {
-        "id": "553:8",
+        "id": "553:8a",
         "page": 553,
         "line": 8,
         "text": "hid up because of unbelief.",
@@ -537,7 +537,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "553:8",
+        "id": "553:8b",
         "page": 553,
         "line": 8,
         "text": "Come unto me, O ye house of ",
@@ -621,7 +621,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/553"
       },
       {
-        "id": "553:19",
+        "id": "553:19a",
         "page": 553,
         "line": 19,
         "text": "nant which he made unto your fathers, O house of Israel;",
@@ -635,7 +635,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "553:19",
+        "id": "553:19b",
         "page": 553,
         "line": 19,
         "text": "and ",
@@ -691,7 +691,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/553"
       },
       {
-        "id": "553:26",
+        "id": "553:26a",
         "page": 553,
         "line": 26,
         "text": "of the land.",
@@ -705,7 +705,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "553:26",
+        "id": "553:26b",
         "page": 553,
         "line": 26,
         "text": "Therefore, repent all ye ends of the earth, and ",
@@ -733,7 +733,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/553"
       },
       {
-        "id": "553:30",
+        "id": "553:30a",
         "page": 553,
         "line": 30,
         "text": "shall follow them that believe in my name.",
@@ -747,7 +747,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "553:30",
+        "id": "553:30b",
         "page": 553,
         "line": 30,
         "text": "And blessed is ",
@@ -778,14 +778,7 @@
         "id": "553:34",
         "page": 553,
         "line": 34,
-        "text": "that hath spoken it. Amen. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/553"
-      },
-      {
-        "id": "553:35",
-        "page": 553,
-        "line": 35,
-        "text": "CHAPTER II.",
+        "text": "that hath spoken it. Amen.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/553"
       }
     ]

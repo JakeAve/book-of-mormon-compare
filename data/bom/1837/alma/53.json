@@ -40,7 +40,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/399"
       },
       {
-        "id": "399:45",
+        "id": "399:45a",
         "page": 399,
         "line": 45,
         "text": "form their labors.",
@@ -54,7 +54,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "399:45",
+        "id": "399:45b",
         "page": 399,
         "line": 45,
         "text": "And Moroni went to the city of ",
@@ -152,7 +152,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/400"
       },
       {
-        "id": "400:11",
+        "id": "400:11a",
         "page": 400,
         "line": 11,
         "text": "round about the land, or the city Bountiful;",
@@ -166,7 +166,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "400:11",
+        "id": "400:11b",
         "page": 400,
         "line": 11,
         "text": "and he ",
@@ -215,7 +215,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/400"
       },
       {
-        "id": "400:18",
+        "id": "400:18a",
         "page": 400,
         "line": 18,
         "text": "height.",
@@ -229,7 +229,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "400:18",
+        "id": "400:18b",
         "page": 400,
         "line": 18,
         "text": "And this city became an exceeding strong",
@@ -327,7 +327,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/400"
       },
       {
-        "id": "400:31",
+        "id": "400:31a",
         "page": 400,
         "line": 31,
         "text": "built a strong hold to retain his prisoners.",
@@ -341,7 +341,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "400:31",
+        "id": "400:31b",
         "page": 400,
         "line": 31,
         "text": "And it ",
@@ -386,14 +386,7 @@
         "id": "400:37",
         "page": 400,
         "line": 37,
-        "text": "ine and affliction, and providing food for their armies. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/400"
-      },
-      {
-        "id": "400:38",
-        "page": 400,
-        "line": 38,
-        "text": "And now it came to pass that the armies of the La",
+        "text": "ine and affliction, and providing food for their armies.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/400"
       }
     ]
@@ -403,6 +396,13 @@
     "chapter": 53,
     "verse": 8,
     "lines": [
+      {
+        "id": "400:38",
+        "page": 400,
+        "line": 38,
+        "text": "And now it came to pass that the armies of the La",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/400"
+      },
       {
         "id": "400:39",
         "page": 400,
@@ -439,7 +439,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/400"
       },
       {
-        "id": "400:44",
+        "id": "400:44a",
         "page": 400,
         "line": 44,
         "text": "their cities in that part of the land;",
@@ -453,7 +453,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "400:44",
+        "id": "400:44b",
         "page": 400,
         "line": 44,
         "text": "and thus because ",
@@ -530,7 +530,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/401"
       },
       {
-        "id": "401:7",
+        "id": "401:7a",
         "page": 401,
         "line": 7,
         "text": "protected by the Nephites;",
@@ -544,7 +544,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "401:7",
+        "id": "401:7b",
         "page": 401,
         "line": 7,
         "text": "and because of their oath, ",
@@ -600,7 +600,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/401"
       },
       {
-        "id": "401:15",
+        "id": "401:15a",
         "page": 401,
         "line": 15,
         "text": "them;",
@@ -614,7 +614,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "401:15",
+        "id": "401:15b",
         "page": 401,
         "line": 15,
         "text": "and for this cause, they were brought down ",
@@ -670,7 +670,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/401"
       },
       {
-        "id": "401:22",
+        "id": "401:22a",
         "page": 401,
         "line": 22,
         "text": "fence of their country.",
@@ -684,7 +684,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "401:22",
+        "id": "401:22b",
         "page": 401,
         "line": 22,
         "text": "But behold, as they were about ",
@@ -712,7 +712,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/401"
       },
       {
-        "id": "401:26",
+        "id": "401:26a",
         "page": 401,
         "line": 26,
         "text": "made;",
@@ -726,7 +726,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "401:26",
+        "id": "401:26b",
         "page": 401,
         "line": 26,
         "text": "and Helamen feared lest by so doing, they ",
@@ -754,7 +754,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/401"
       },
       {
-        "id": "401:30",
+        "id": "401:30a",
         "page": 401,
         "line": 30,
         "text": "dangerous circumstances, at this time.",
@@ -768,7 +768,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "401:30",
+        "id": "401:30b",
         "page": 401,
         "line": 30,
         "text": "But behold, ",
@@ -810,7 +810,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/401"
       },
       {
-        "id": "401:36",
+        "id": "401:36a",
         "page": 401,
         "line": 36,
         "text": "arms; and they called themselves Nephites;",
@@ -824,7 +824,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "401:36",
+        "id": "401:36b",
         "page": 401,
         "line": 36,
         "text": "and they ",
@@ -894,7 +894,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/401"
       },
       {
-        "id": "401:45",
+        "id": "401:45a",
         "page": 401,
         "line": 45,
         "text": "their weapons of war to defend their country.",
@@ -908,7 +908,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "401:45",
+        "id": "401:45b",
         "page": 401,
         "line": 45,
         "text": "And ",
@@ -943,7 +943,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/402"
       },
       {
-        "id": "402:3",
+        "id": "402:3a",
         "page": 402,
         "line": 3,
         "text": "e their leader.",
@@ -957,7 +957,7 @@
     "verse": 20,
     "lines": [
       {
-        "id": "402:3",
+        "id": "402:3b",
         "page": 402,
         "line": 3,
         "text": "And they were all young men, and ",
@@ -985,7 +985,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/402"
       },
       {
-        "id": "402:7",
+        "id": "402:7a",
         "page": 402,
         "line": 7,
         "text": "ever thing they were entrusted;",
@@ -999,7 +999,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "402:7",
+        "id": "402:7b",
         "page": 402,
         "line": 7,
         "text": "yea, they were men ",
@@ -1055,7 +1055,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/402"
       },
       {
-        "id": "402:14",
+        "id": "402:14a",
         "page": 402,
         "line": 14,
         "text": "the south by the West Sea.",
@@ -1069,7 +1069,7 @@
     "verse": 23,
     "lines": [
       {
-        "id": "402:14",
+        "id": "402:14b",
         "page": 402,
         "line": 14,
         "text": "And thus ended the ",
@@ -1086,14 +1086,7 @@
         "id": "402:16",
         "page": 402,
         "line": 16,
-        "text": "the people of Nephi, &c. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/402"
-      },
-      {
-        "id": "402:17",
-        "page": 402,
-        "line": 17,
-        "text": "CHAPTER XXV.",
+        "text": "the people of Nephi, &c.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/402"
       }
     ]

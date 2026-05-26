@@ -5,6 +5,13 @@
     "verse": 1,
     "lines": [
       {
+        "id": "272:22",
+        "page": 272,
+        "line": 22,
+        "text": "CHAPTER XI. ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/272"
+      },
+      {
         "id": "272:23",
         "page": 272,
         "line": 23,
@@ -47,7 +54,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/272"
       },
       {
-        "id": "272:29",
+        "id": "272:29a",
         "page": 272,
         "line": 29,
         "text": "throughout the land;",
@@ -61,7 +68,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "272:29",
+        "id": "272:29b",
         "page": 272,
         "line": 29,
         "text": "for behold, the armies of the Lamanites ",
@@ -152,7 +159,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/272"
       },
       {
-        "id": "273:1",
+        "id": "273:1a",
         "page": 273,
         "line": 1,
         "text": "derness;",
@@ -166,7 +173,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "273:1",
+        "id": "273:1b",
         "page": 273,
         "line": 1,
         "text": "therefore he that had been appointed Chief Captain ",
@@ -225,7 +232,14 @@
         "id": "273:9",
         "page": 273,
         "line": 9,
-        "text": "ites.",
+        "text": "ites. ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/273"
+      },
+      {
+        "id": "273:10a",
+        "page": 273,
+        "line": 10,
+        "text": "And it came to pass that Alma inquired of",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/273"
       }
     ]
@@ -236,10 +250,10 @@
     "verse": 6,
     "lines": [
       {
-        "id": "273:10",
+        "id": "273:10b",
         "page": 273,
         "line": 10,
-        "text": "And it came to pass that Alma inquired of the Lord concern",
+        "text": "the Lord concern",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/273"
       },
       {
@@ -313,7 +327,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/273"
       },
       {
-        "id": "273:20",
+        "id": "273:20a",
         "page": 273,
         "line": 20,
         "text": "the east side of the river Sidon.",
@@ -327,7 +341,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "273:20",
+        "id": "273:20b",
         "page": 273,
         "line": 20,
         "text": "And they came upon the ar",
@@ -369,7 +383,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/273"
       },
       {
-        "id": "273:26",
+        "id": "273:26a",
         "page": 273,
         "line": 26,
         "text": "lands.",
@@ -383,7 +397,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "273:26",
+        "id": "273:26b",
         "page": 273,
         "line": 26,
         "text": "And thus ended the eleventh year of the Judges, the ",
@@ -488,10 +502,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/273"
       },
       {
-        "id": "273:39",
+        "id": "273:39a",
         "page": 273,
         "line": 39,
-        "text": "and their lands remained desolate. And it",
+        "text": "and their lands remained desolate.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/273"
       }
     ]
@@ -502,10 +516,10 @@
     "verse": 12,
     "lines": [
       {
-        "id": "273:39",
+        "id": "273:39b",
         "page": 273,
         "line": 39,
-        "text": "came to pass that ",
+        "text": "And it came to pass that ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/273"
       },
       {
@@ -565,7 +579,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/274"
       },
       {
-        "id": "274:4",
+        "id": "274:4a",
         "page": 274,
         "line": 4,
         "text": "the Jews.",
@@ -579,7 +593,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "274:4",
+        "id": "274:4b",
         "page": 274,
         "line": 4,
         "text": "And as many as would hear their words, unto them ",
@@ -593,7 +607,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/274"
       },
       {
-        "id": "274:6",
+        "id": "274:6a",
         "page": 274,
         "line": 6,
         "text": "sons continually.",
@@ -607,7 +621,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "274:6",
+        "id": "274:6b",
         "page": 274,
         "line": 6,
         "text": "And thus did Alma and Amulek go forth, ",
@@ -677,7 +691,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/274"
       },
       {
-        "id": "274:15",
+        "id": "274:15a",
         "page": 274,
         "line": 15,
         "text": "time of his coming,",
@@ -691,7 +705,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "274:15",
+        "id": "274:15b",
         "page": 274,
         "line": 15,
         "text": "that they might not be hardened against ",
@@ -761,10 +775,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/274"
       },
       {
-        "id": "274:24",
+        "id": "274:24a",
         "page": 274,
         "line": 24,
-        "text": "sciviousness, crying that these things ought not so to be; hold",
+        "text": "sciviousness, crying that these things ought not so to be;",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/274"
       }
     ]
@@ -774,6 +788,13 @@
     "chapter": 16,
     "verse": 19,
     "lines": [
+      {
+        "id": "274:24b",
+        "page": 274,
+        "line": 24,
+        "text": "hold",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/274"
+      },
       {
         "id": "274:25",
         "page": 274,
@@ -789,7 +810,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/274"
       },
       {
-        "id": "274:27",
+        "id": "274:27a",
         "page": 274,
         "line": 27,
         "text": "also the resurrection of the dead.",
@@ -803,7 +824,7 @@
     "verse": 20,
     "lines": [
       {
-        "id": "274:27",
+        "id": "274:27b",
         "page": 274,
         "line": 27,
         "text": "And many of the people ",
@@ -831,7 +852,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/274"
       },
       {
-        "id": "274:31",
+        "id": "274:31a",
         "page": 274,
         "line": 31,
         "text": "joy and gladness.",
@@ -845,7 +866,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "274:31",
+        "id": "274:31b",
         "page": 274,
         "line": 31,
         "text": "And now after the Church having been es",
@@ -883,15 +904,8 @@
         "id": "274:36",
         "page": 274,
         "line": 36,
-        "text": "Judges, over the people of Nephi. ",
+        "text": "Judges, over the people of Nephi.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/274"
-      },
-      {
-        "id": "275:1",
-        "page": 275,
-        "line": 1,
-        "text": "CHAPTER XII.",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/275"
       }
     ]
   }

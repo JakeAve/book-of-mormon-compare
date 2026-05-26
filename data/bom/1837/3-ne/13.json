@@ -5,7 +5,7 @@
     "verse": 1,
     "lines": [
       {
-        "id": "512:13",
+        "id": "512:13b",
         "page": 512,
         "line": 13,
         "text": "Verily, verily, I ",
@@ -36,7 +36,14 @@
         "id": "512:17",
         "page": 512,
         "line": 17,
-        "text": "Father who is heaven.",
+        "text": "Father who is heaven. Therefore, when ye shall do ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/512"
+      },
+      {
+        "id": "512:18a",
+        "page": 512,
+        "line": 18,
+        "text": "your",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/512"
       }
     ]
@@ -47,17 +54,10 @@
     "verse": 2,
     "lines": [
       {
-        "id": "512:17",
-        "page": 512,
-        "line": 17,
-        "text": "Therefore, when ye shall do ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/512"
-      },
-      {
-        "id": "512:18",
+        "id": "512:18b",
         "page": 512,
         "line": 18,
-        "text": "your alms, do not sound a trumpet before you, as will ",
+        "text": "alms, do not sound a trumpet before you, as will ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/512"
       },
       {
@@ -75,7 +75,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/512"
       },
       {
-        "id": "512:21",
+        "id": "512:21a",
         "page": 512,
         "line": 21,
         "text": "they have their reward.",
@@ -89,7 +89,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "512:21",
+        "id": "512:21b",
         "page": 512,
         "line": 21,
         "text": "But when thou doest alms, ",
@@ -159,7 +159,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/512"
       },
       {
-        "id": "512:29",
+        "id": "512:29a",
         "page": 512,
         "line": 29,
         "text": "their reward.",
@@ -173,7 +173,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "512:29",
+        "id": "512:29b",
         "page": 512,
         "line": 29,
         "text": "But thou, when thou prayest, enter in",
@@ -194,7 +194,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/512"
       },
       {
-        "id": "512:32",
+        "id": "512:32a",
         "page": 512,
         "line": 32,
         "text": "seeth in secret, shall reward thee openly.",
@@ -208,7 +208,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "512:32",
+        "id": "512:32b",
         "page": 512,
         "line": 32,
         "text": "But when ",
@@ -229,7 +229,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/512"
       },
       {
-        "id": "512:35",
+        "id": "512:35a",
         "page": 512,
         "line": 35,
         "text": "speaking.",
@@ -243,7 +243,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "512:35",
+        "id": "512:35b",
         "page": 512,
         "line": 35,
         "text": "Be not ye therefore like unto them, for ",
@@ -257,7 +257,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/512"
       },
       {
-        "id": "512:37",
+        "id": "512:37a",
         "page": 512,
         "line": 37,
         "text": "fore ye ask him.",
@@ -271,7 +271,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "512:37",
+        "id": "512:37b",
         "page": 512,
         "line": 37,
         "text": "After this manner therefore pray ye, ",
@@ -292,7 +292,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "512:39",
+        "id": "512:39a",
         "page": 512,
         "line": 39,
         "text": "Thy will be done on earth as it is in heaven.",
@@ -306,14 +306,14 @@
     "verse": 11,
     "lines": [
       {
-        "id": "512:39",
+        "id": "512:39b",
         "page": 512,
         "line": 39,
         "text": "And ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/512"
       },
       {
-        "id": "512:40",
+        "id": "512:40a",
         "page": 512,
         "line": 40,
         "text": "forgive us our debts, as we forgive our debtors.",
@@ -327,7 +327,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "512:40",
+        "id": "512:40b",
         "page": 512,
         "line": 40,
         "text": "And ",
@@ -355,7 +355,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/512"
       },
       {
-        "id": "512:43",
+        "id": "512:43a",
         "page": 512,
         "line": 43,
         "text": "ry, for ever. Amen.",
@@ -369,7 +369,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "512:43",
+        "id": "512:43b",
         "page": 512,
         "line": 43,
         "text": "For, if ye forgive men their ",
@@ -397,7 +397,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/512"
       },
       {
-        "id": "512:46",
+        "id": "512:46a",
         "page": 512,
         "line": 46,
         "text": "your Father forgive your trespasses.",
@@ -411,7 +411,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "512:46",
+        "id": "512:46b",
         "page": 512,
         "line": 46,
         "text": "Moreover, when ",
@@ -439,7 +439,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/513"
       },
       {
-        "id": "513:3",
+        "id": "513:3a",
         "page": 513,
         "line": 3,
         "text": "their reward.",
@@ -453,14 +453,14 @@
     "verse": 17,
     "lines": [
       {
-        "id": "513:3",
+        "id": "513:3b",
         "page": 513,
         "line": 3,
         "text": "But thou, when thou fastest, anoint ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/513"
       },
       {
-        "id": "513:4",
+        "id": "513:4a",
         "page": 513,
         "line": 4,
         "text": "thy head, and wash thy face;",
@@ -474,7 +474,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "513:4",
+        "id": "513:4b",
         "page": 513,
         "line": 4,
         "text": "that thou appear not ",
@@ -523,7 +523,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/513"
       },
       {
-        "id": "513:10",
+        "id": "513:10a",
         "page": 513,
         "line": 10,
         "text": "through and steal,",
@@ -537,7 +537,7 @@
     "verse": 20,
     "lines": [
       {
-        "id": "513:10",
+        "id": "513:10b",
         "page": 513,
         "line": 10,
         "text": "but lay up for yourselves treasures ",
@@ -572,7 +572,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/513"
       },
       {
-        "id": "513:14",
+        "id": "513:14a",
         "page": 513,
         "line": 14,
         "text": "also.",
@@ -586,7 +586,7 @@
     "verse": 22,
     "lines": [
       {
-        "id": "513:14",
+        "id": "513:14b",
         "page": 513,
         "line": 14,
         "text": "The light of the body is the eye, if therefore ",
@@ -600,7 +600,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/513"
       },
       {
-        "id": "513:16",
+        "id": "513:16a",
         "page": 513,
         "line": 16,
         "text": "light.",
@@ -614,7 +614,7 @@
     "verse": 23,
     "lines": [
       {
-        "id": "513:16",
+        "id": "513:16b",
         "page": 513,
         "line": 16,
         "text": "But if thine eye be evil, thy whole body shall ",
@@ -628,7 +628,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/513"
       },
       {
-        "id": "513:18",
+        "id": "513:18a",
         "page": 513,
         "line": 18,
         "text": "thee be darkness, how great is that darkness!",
@@ -642,7 +642,7 @@
     "verse": 24,
     "lines": [
       {
-        "id": "513:18",
+        "id": "513:18b",
         "page": 513,
         "line": 18,
         "text": "No ",
@@ -673,14 +673,7 @@
         "id": "513:22",
         "page": 513,
         "line": 22,
-        "text": "mammon. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/513"
-      },
-      {
-        "id": "513:23",
-        "page": 513,
-        "line": 23,
-        "text": "CHAPTER VI.",
+        "text": "mammon.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/513"
       }
     ]
@@ -690,6 +683,13 @@
     "chapter": 13,
     "verse": 25,
     "lines": [
+      {
+        "id": "513:23",
+        "page": 513,
+        "line": 23,
+        "text": "CHAPTER VI. ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/513"
+      },
       {
         "id": "513:24",
         "page": 513,
@@ -747,7 +747,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/513"
       },
       {
-        "id": "513:32",
+        "id": "513:32a",
         "page": 513,
         "line": 32,
         "text": "meat, and the body than rainment?",
@@ -761,7 +761,7 @@
     "verse": 26,
     "lines": [
       {
-        "id": "513:32",
+        "id": "513:32b",
         "page": 513,
         "line": 32,
         "text": "Behold the fowls ",
@@ -782,7 +782,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/513"
       },
       {
-        "id": "513:35",
+        "id": "513:35a",
         "page": 513,
         "line": 35,
         "text": "them. Are ye not much better than they?",
@@ -796,7 +796,7 @@
     "verse": 27,
     "lines": [
       {
-        "id": "513:35",
+        "id": "513:35b",
         "page": 513,
         "line": 35,
         "text": "Which ",
@@ -810,7 +810,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/513"
       },
       {
-        "id": "513:37",
+        "id": "513:37a",
         "page": 513,
         "line": 37,
         "text": "his stature?",
@@ -824,7 +824,7 @@
     "verse": 28,
     "lines": [
       {
-        "id": "513:37",
+        "id": "513:37b",
         "page": 513,
         "line": 37,
         "text": "And why take ye thought for rainment? ",
@@ -838,7 +838,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/513"
       },
       {
-        "id": "513:39",
+        "id": "513:39a",
         "page": 513,
         "line": 39,
         "text": "toil not, neither do they spin;",
@@ -852,7 +852,7 @@
     "verse": 29,
     "lines": [
       {
-        "id": "513:39",
+        "id": "513:39b",
         "page": 513,
         "line": 39,
         "text": "and yet I say unto you, ",
@@ -866,7 +866,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/513"
       },
       {
-        "id": "513:41",
+        "id": "513:41a",
         "page": 513,
         "line": 41,
         "text": "like one of these.",
@@ -880,7 +880,7 @@
     "verse": 30,
     "lines": [
       {
-        "id": "513:41",
+        "id": "513:41b",
         "page": 513,
         "line": 41,
         "text": "Wherefore, if God so clothe the ",
@@ -901,7 +901,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/514"
       },
       {
-        "id": "514:2",
+        "id": "514:2a",
         "page": 514,
         "line": 2,
         "text": "are not of little faith.",
@@ -915,7 +915,7 @@
     "verse": 31,
     "lines": [
       {
-        "id": "514:2",
+        "id": "514:2b",
         "page": 514,
         "line": 2,
         "text": "Therefore take no thought, say",
@@ -929,7 +929,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/514"
       },
       {
-        "id": "514:4",
+        "id": "514:4a",
         "page": 514,
         "line": 4,
         "text": "wherewithal shall we be clothed?",
@@ -943,7 +943,7 @@
     "verse": 32,
     "lines": [
       {
-        "id": "514:4",
+        "id": "514:4b",
         "page": 514,
         "line": 4,
         "text": "For your heavenly ",
@@ -1002,14 +1002,7 @@
         "id": "514:10",
         "page": 514,
         "line": 10,
-        "text": "Sufficient is the day unto the evil thereof. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/514"
-      },
-      {
-        "id": "514:11",
-        "page": 514,
-        "line": 11,
-        "text": "And now it came to pass that when Jesus had spok",
+        "text": "Sufficient is the day unto the evil thereof.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/514"
       }
     ]

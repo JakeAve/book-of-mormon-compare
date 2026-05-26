@@ -5,7 +5,7 @@
     "verse": 1,
     "lines": [
       {
-        "id": "445:21",
+        "id": "445:21c",
         "page": 445,
         "line": 21,
         "text": "And thus ",
@@ -33,7 +33,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/445"
       },
       {
-        "id": "445:25",
+        "id": "445:25a",
         "page": 445,
         "line": 25,
         "text": "who put their trust in him;",
@@ -47,7 +47,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "445:25",
+        "id": "445:25b",
         "page": 445,
         "line": 25,
         "text": "yea, and we may see at the very ",
@@ -124,7 +124,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/445"
       },
       {
-        "id": "445:36",
+        "id": "445:36a",
         "page": 445,
         "line": 36,
         "text": "ceeding great prosperity.",
@@ -138,7 +138,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "445:36",
+        "id": "445:36b",
         "page": 445,
         "line": 36,
         "text": "And thus we see, that except the ",
@@ -166,7 +166,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/445"
       },
       {
-        "id": "445:40",
+        "id": "445:40a",
         "page": 445,
         "line": 40,
         "text": "member him.",
@@ -180,7 +180,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "445:40",
+        "id": "445:40b",
         "page": 445,
         "line": 40,
         "text": "O how foolish, and how vain, and how evil, ",
@@ -208,7 +208,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/445"
       },
       {
-        "id": "446:1",
+        "id": "446:1a",
         "page": 446,
         "line": 1,
         "text": "vain things of the world;",
@@ -222,7 +222,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "446:1",
+        "id": "446:1b",
         "page": 446,
         "line": 1,
         "text": "yea, how quick to be lifted up in ",
@@ -250,10 +250,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/446"
       },
       {
-        "id": "446:5",
+        "id": "446:5a",
         "page": 446,
         "line": 5,
-        "text": "slow to walk in wisdom’s paths! Behold,",
+        "text": "slow to walk in wisdom’s paths!",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/446"
       }
     ]
@@ -264,10 +264,10 @@
     "verse": 6,
     "lines": [
       {
-        "id": "446:5",
+        "id": "446:5b",
         "page": 446,
         "line": 5,
-        "text": "they do not desire ",
+        "text": "Behold, they do not desire ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/446"
       },
       {
@@ -292,7 +292,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/446"
       },
       {
-        "id": "446:9",
+        "id": "446:9a",
         "page": 446,
         "line": 9,
         "text": "and they will not that he should be their guide.",
@@ -306,7 +306,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "446:9",
+        "id": "446:9b",
         "page": 446,
         "line": 9,
         "text": "O how great ",
@@ -320,7 +320,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/446"
       },
       {
-        "id": "446:11",
+        "id": "446:11a",
         "page": 446,
         "line": 11,
         "text": "less than the dust of the earth.",
@@ -334,7 +334,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "446:11",
+        "id": "446:11b",
         "page": 446,
         "line": 11,
         "text": "For behold, the dust of the ",
@@ -348,7 +348,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/446"
       },
       {
-        "id": "446:13",
+        "id": "446:13a",
         "page": 446,
         "line": 13,
         "text": "the command of our great and everlasting God;",
@@ -362,7 +362,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "446:13",
+        "id": "446:13b",
         "page": 446,
         "line": 13,
         "text": "yea, behold, ",
@@ -376,7 +376,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/446"
       },
       {
-        "id": "446:15",
+        "id": "446:15a",
         "page": 446,
         "line": 15,
         "text": "quake;",
@@ -390,14 +390,14 @@
     "verse": 10,
     "lines": [
       {
-        "id": "446:15",
+        "id": "446:15b",
         "page": 446,
         "line": 15,
         "text": "and by the power of his voice, they are broken up ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/446"
       },
       {
-        "id": "446:16",
+        "id": "446:16a",
         "page": 446,
         "line": 16,
         "text": "and become smooth, yea, even like unto a valley;",
@@ -411,14 +411,14 @@
     "verse": 11,
     "lines": [
       {
-        "id": "446:16",
+        "id": "446:16b",
         "page": 446,
         "line": 16,
         "text": "yea, by the ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/446"
       },
       {
-        "id": "446:17",
+        "id": "446:17a",
         "page": 446,
         "line": 17,
         "text": "power of his voice, doth the whole earth shake;",
@@ -432,7 +432,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "446:17",
+        "id": "446:17b",
         "page": 446,
         "line": 17,
         "text": "yea, by the ",
@@ -446,7 +446,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/446"
       },
       {
-        "id": "446:19",
+        "id": "446:19a",
         "page": 446,
         "line": 19,
         "text": "very centre;",
@@ -460,17 +460,10 @@
     "verse": 13,
     "lines": [
       {
-        "id": "446:19",
+        "id": "446:19b",
         "page": 446,
         "line": 19,
-        "text": "yea, and if he saith unto the earth, Move, and it ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/446"
-      },
-      {
-        "id": "446:20",
-        "page": 446,
-        "line": 20,
-        "text": "is moved;",
+        "text": "yea, and if he saith unto the earth, Move, and it",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/446"
       }
     ]
@@ -484,14 +477,14 @@
         "id": "446:20",
         "page": 446,
         "line": 20,
-        "text": "yea, if he saith unto the earth, Thou shalt go back, ",
+        "text": "is moved; yea, if he saith unto the earth, Thou shalt go back, ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/446"
       },
       {
-        "id": "446:21",
+        "id": "446:21a",
         "page": 446,
         "line": 21,
-        "text": "that it lengthen out the day for many hours, and it is done;",
+        "text": "that it lengthen out the day for many hours, and it",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/446"
       }
     ]
@@ -501,6 +494,13 @@
     "chapter": 12,
     "verse": 15,
     "lines": [
+      {
+        "id": "446:21b",
+        "page": 446,
+        "line": 21,
+        "text": "is done; ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/446"
+      },
       {
         "id": "446:22",
         "page": 446,
@@ -523,7 +523,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/446"
       },
       {
-        "id": "446:25",
+        "id": "446:25a",
         "page": 446,
         "line": 25,
         "text": "the sun.",
@@ -537,17 +537,17 @@
     "verse": 16,
     "lines": [
       {
-        "id": "446:25",
+        "id": "446:25b",
         "page": 446,
         "line": 25,
         "text": "And behold, also, if he saith unto the waters of the ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/446"
       },
       {
-        "id": "446:26",
+        "id": "446:26a",
         "page": 446,
         "line": 26,
-        "text": "great deep, Be thou dried up, and it is done.",
+        "text": "great deep, Be thou dried up, and it is",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/446"
       }
     ]
@@ -558,10 +558,10 @@
     "verse": 17,
     "lines": [
       {
-        "id": "446:26",
+        "id": "446:26b",
         "page": 446,
         "line": 26,
-        "text": "Behold, if he ",
+        "text": "done. Behold, if he ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/446"
       },
       {
@@ -575,14 +575,7 @@
         "id": "446:28",
         "page": 446,
         "line": 28,
-        "text": "and fall upon that city, that it be buried up, and behold it is ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/446"
-      },
-      {
-        "id": "446:29",
-        "page": 446,
-        "line": 29,
-        "text": "done.",
+        "text": "and fall upon that city, that it be buried up, and behold it is",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/446"
       }
     ]
@@ -596,7 +589,7 @@
         "id": "446:29",
         "page": 446,
         "line": 29,
-        "text": "And behold, if a man hideth up a treasure in the earth, ",
+        "text": "done. And behold, if a man hideth up a treasure in the earth, ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/446"
       },
       {
@@ -635,7 +628,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/446"
       },
       {
-        "id": "446:34",
+        "id": "446:34a",
         "page": 446,
         "line": 34,
         "text": "no man getteth it henceforth and forever.",
@@ -649,7 +642,7 @@
     "verse": 20,
     "lines": [
       {
-        "id": "446:34",
+        "id": "446:34b",
         "page": 446,
         "line": 34,
         "text": "And behold, if the ",
@@ -663,7 +656,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/446"
       },
       {
-        "id": "446:36",
+        "id": "446:36a",
         "page": 446,
         "line": 36,
         "text": "shalt be accursed forever, and it shall be done.",
@@ -677,7 +670,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "446:36",
+        "id": "446:36b",
         "page": 446,
         "line": 36,
         "text": "And if the ",
@@ -726,7 +719,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/446"
       },
       {
-        "id": "446:42",
+        "id": "446:42a",
         "page": 446,
         "line": 42,
         "text": "clared.",
@@ -740,7 +733,7 @@
     "verse": 23,
     "lines": [
       {
-        "id": "446:42",
+        "id": "446:42b",
         "page": 446,
         "line": 42,
         "text": "Therefore, blessed are they who will repent, and ",
@@ -754,7 +747,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/446"
       },
       {
-        "id": "447:1",
+        "id": "447:1a",
         "page": 447,
         "line": 1,
         "text": "they that shall be saved.",
@@ -768,7 +761,7 @@
     "verse": 24,
     "lines": [
       {
-        "id": "447:1",
+        "id": "447:1b",
         "page": 447,
         "line": 1,
         "text": "And may God grant, in his great ",
@@ -789,7 +782,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/447"
       },
       {
-        "id": "447:4",
+        "id": "447:4a",
         "page": 447,
         "line": 4,
         "text": "cording to their works.",
@@ -803,7 +796,7 @@
     "verse": 25,
     "lines": [
       {
-        "id": "447:4",
+        "id": "447:4b",
         "page": 447,
         "line": 4,
         "text": "And I would that all men might be ",
@@ -824,7 +817,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/447"
       },
       {
-        "id": "447:7",
+        "id": "447:7a",
         "page": 447,
         "line": 7,
         "text": "from the presence of the Lord;",
@@ -838,7 +831,7 @@
     "verse": 26,
     "lines": [
       {
-        "id": "447:7",
+        "id": "447:7b",
         "page": 447,
         "line": 7,
         "text": "yea, which shall be consigned ",

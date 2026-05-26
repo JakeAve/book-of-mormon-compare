@@ -5,6 +5,22 @@
     "verse": 0,
     "lines": [
       {
+        "id": "193:12",
+        "page": 193,
+        "line": 12,
+        "text": "The Book of Helaman ",
+        "markdown": "The Book of Helaman {{}} ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/193"
+      },
+      {
+        "id": "193:13",
+        "page": 193,
+        "line": 13,
+        "text": "Chapter ",
+        "markdown": "Chapter {{}} ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/193"
+      },
+      {
         "id": "193:14",
         "page": 193,
         "line": 14,
@@ -61,11 +77,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/193"
       },
       {
-        "id": "193:21",
+        "id": "193:21a",
         "page": 193,
         "line": 21,
-        "text": "And now behold it came to pass in the commencement of the <​ fortyeth year of the​> Reign of the Judges",
-        "markdown": "And now behold it came to pass in the commencement of the <​~~forth~~ fortyeth year of the​> Reign of the Judges",
+        "text": "And",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/193"
       }
     ]
@@ -75,6 +90,14 @@
     "chapter": 1,
     "verse": 1,
     "lines": [
+      {
+        "id": "193:21b",
+        "page": 193,
+        "line": 21,
+        "text": "now behold it came to pass in the commencement of the fortyeth year of the​> Reign of the Judges over ",
+        "markdown": "now behold it came to pass in the commencement of the <​~~forth~~ fortyeth year of the​> Reign of the Judges ov{{er}} ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/193"
+      },
       {
         "id": "193:22",
         "page": 193,
@@ -107,7 +130,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/193"
       },
       {
-        "id": "193:25",
+        "id": "193:25a",
         "page": 193,
         "line": 25,
         "text": "Brethren which were the Sons of Pahoron",
@@ -121,7 +144,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "193:25",
+        "id": "193:25b",
         "page": 193,
         "line": 25,
         "text": "now these are their names which did con",
@@ -137,7 +160,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/193"
       },
       {
-        "id": "193:27",
+        "id": "193:27a",
         "page": 193,
         "line": 27,
         "text": "Paanchi & Pacumeni",
@@ -151,7 +174,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "193:27",
+        "id": "193:27b",
         "page": 193,
         "line": 27,
         "text": "now these are not all the Sons of Pahoron for he had ",
@@ -167,7 +190,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/193"
       },
       {
-        "id": "193:29",
+        "id": "193:29a",
         "page": 193,
         "line": 29,
         "text": "did cause three divisions among the People",
@@ -181,7 +204,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "193:29",
+        "id": "193:29b",
         "page": 193,
         "line": 29,
         "text": "nevertheless it came to pass that Pa",
@@ -197,7 +220,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/193"
       },
       {
-        "id": "194:1",
+        "id": "194:1a",
         "page": 194,
         "line": 1,
         "text": "over the <​People of​> Nephi",
@@ -212,7 +235,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "194:1",
+        "id": "194:1b",
         "page": 194,
         "line": 1,
         "text": "& it came to pass that Pacumeni when he saw that hecould not obtain the Judgment seat he did unite with the voice of the",
@@ -227,7 +250,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "194:1",
+        "id": "194:1c",
         "page": 194,
         "line": 1,
         "text": "Peoplebut behold Paanchi & that part of the People that were desireous that he shouldbe their governor was exceding wroth therefore he was about to flatter away thosePeople to rise up in rebellion against their Brethren",
@@ -242,7 +265,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "194:1",
+        "id": "194:1d",
         "page": 194,
         "line": 1,
         "text": "& it came to pass as he was abo",
@@ -265,7 +288,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/194"
       },
       {
-        "id": "194:4",
+        "id": "194:4a",
         "page": 194,
         "line": 4,
         "text": "liberty of the people",
@@ -280,7 +303,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "194:4",
+        "id": "194:4b",
         "page": 194,
         "line": 4,
         "text": "now when those People which were desireous that he should betheir governor saw that he was condemned unto Death therefore they were anga",
@@ -296,7 +319,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/194"
       },
       {
-        "id": "194:6",
+        "id": "194:6a",
         "page": 194,
         "line": 6,
         "text": "horon & murdered Pahoron as he sat upon the Judgment seat",
@@ -311,7 +334,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "194:6",
+        "id": "194:6b",
         "page": 194,
         "line": 6,
         "text": "& he was persued by ",
@@ -326,7 +349,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/194"
       },
       {
-        "id": "194:8",
+        "id": "194:8a",
         "page": 194,
         "line": 8,
         "text": "no man could overtake him",
@@ -341,7 +364,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "194:8",
+        "id": "194:8b",
         "page": 194,
         "line": 8,
         "text": "& he went unto those that sent him & they all enter",
@@ -356,7 +379,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/194"
       },
       {
-        "id": "194:10",
+        "id": "194:10a",
         "page": 194,
         "line": 10,
         "text": "tell no man that Kishcumen had murdered Pahoron",
@@ -371,7 +394,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "194:10",
+        "id": "194:10b",
         "page": 194,
         "line": 10,
         "text": "therefore Kishcumen ",
@@ -402,7 +425,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/194"
       },
       {
-        "id": "194:14",
+        "id": "194:14a",
         "page": 194,
         "line": 14,
         "text": "as many as were found were condemned unto death",
@@ -417,7 +440,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "194:14",
+        "id": "194:14b",
         "page": 194,
         "line": 14,
         "text": "& now behold Pacumeni ",
@@ -448,7 +471,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/194"
       },
       {
-        "id": "194:18",
+        "id": "194:18a",
         "page": 194,
         "line": 18,
         "text": "& it had an end",
@@ -463,7 +486,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "194:18",
+        "id": "194:18b",
         "page": 194,
         "line": 18,
         "text": "& it came to pass in the forty & first year of the Reign of the Jud",
@@ -486,7 +509,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/194"
       },
       {
-        "id": "194:21",
+        "id": "194:21a",
         "page": 194,
         "line": 21,
         "text": "plates & with Breast plates & with all manner of shields of every kind",
@@ -500,7 +523,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "194:21",
+        "id": "194:21b",
         "page": 194,
         "line": 21,
         "text": "& they came ",
@@ -530,7 +553,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/194"
       },
       {
-        "id": "194:25",
+        "id": "194:25a",
         "page": 194,
         "line": 25,
         "text": "hty man",
@@ -545,7 +568,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "194:25",
+        "id": "194:25b",
         "page": 194,
         "line": 25,
         "text": "therefore the King of the Lamanites whose name was Tubaloth who was ",
@@ -576,11 +599,11 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/194"
       },
       {
-        "id": "194:29",
+        "id": "194:29a",
         "page": 194,
         "line": 29,
-        "text": "the Nephites <​there​><​fore​>",
-        "markdown": "{{the Nephites <​there​>}}<​f{{or}}e​>",
+        "text": "the Nephites",
+        "markdown": "{{the Nephites",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/194"
       }
     ]
@@ -591,11 +614,11 @@
     "verse": 17,
     "lines": [
       {
-        "id": "194:29",
+        "id": "194:29b",
         "page": 194,
         "line": 29,
-        "text": "he did stir them up to angar & he did gather together his ar",
-        "markdown": "~~e~~ he did stir them up to angar & he did gather together his ar",
+        "text": "<​there​><​fore​> he did stir them up to angar & he did gather together his ar",
+        "markdown": "<​there​>}}<​f{{or}}e​> ~~e~~ he did stir them up to angar & he did gather together his ar",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/194"
       },
       {
@@ -607,7 +630,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/194"
       },
       {
-        "id": "195:1",
+        "id": "195:1a",
         "page": 195,
         "line": 1,
         "text": "should march down to the land of Zarahemla to Battle against the",
@@ -622,7 +645,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "195:1",
+        "id": "195:1b",
         "page": 195,
         "line": 1,
         "text": "Nephites & itcame to pass that because of so much contention & so much difficulty in the goverment that they had not kept sufficient guards in the land of Zarahemla forthey had supposed that the Lamanites dearst not come into the heart of their ",
@@ -630,7 +653,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/195"
       },
       {
-        "id": "195:2",
+        "id": "195:2a",
         "page": 195,
         "line": 2,
         "text": "lands & attact that great City Zarahemla",
@@ -645,7 +668,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "195:2",
+        "id": "195:2b",
         "page": 195,
         "line": 2,
         "text": "but it came to pass that Coriantumr ",
@@ -669,7 +692,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/195"
       },
       {
-        "id": "195:5",
+        "id": "195:5a",
         "page": 195,
         "line": 5,
         "text": "was no time for the Nephites to gather together their armies",
@@ -684,7 +707,7 @@
     "verse": 20,
     "lines": [
       {
-        "id": "195:5",
+        "id": "195:5b",
         "page": 195,
         "line": 5,
         "text": "therefore Coriantumr ",
@@ -708,7 +731,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/195"
       },
       {
-        "id": "195:8",
+        "id": "195:8a",
         "page": 195,
         "line": 8,
         "text": "ch that they did take possession of the whole city",
@@ -722,7 +745,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "195:8",
+        "id": "195:8b",
         "page": 195,
         "line": 8,
         "text": "& it came to pass that Pacumeni ",
@@ -746,7 +769,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/195"
       },
       {
-        "id": "195:11",
+        "id": "195:11a",
         "page": 195,
         "line": 11,
         "text": "that he died & thus ended the days of Pacumeni",
@@ -760,7 +783,7 @@
     "verse": 22,
     "lines": [
       {
-        "id": "195:11",
+        "id": "195:11b",
         "page": 195,
         "line": 11,
         "text": "& now when Coriantumr saw that he ",
@@ -792,7 +815,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/195"
       },
       {
-        "id": "195:15",
+        "id": "195:15a",
         "page": 195,
         "line": 15,
         "text": "that he was about to go forth against all the land",
@@ -807,7 +830,7 @@
     "verse": 23,
     "lines": [
       {
-        "id": "195:15",
+        "id": "195:15b",
         "page": 195,
         "line": 15,
         "text": "& now he did not tarry in the ",
@@ -831,11 +854,11 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/195"
       },
       {
-        "id": "195:18",
+        "id": "195:18a",
         "page": 195,
         "line": 18,
-        "text": "rough with the sword that he might obtain the North parts of the land &",
-        "markdown": "rough with the sword that he might obtain the North p{{arts of the land &",
+        "text": "rough with the sword that he might obtain the North parts of the land",
+        "markdown": "rough with the sword that he might obtain the North p{{arts of the land",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/195"
       }
     ]
@@ -846,11 +869,11 @@
     "verse": 24,
     "lines": [
       {
-        "id": "195:18",
+        "id": "195:18b",
         "page": 195,
         "line": 18,
-        "text": "suppose",
-        "markdown": "suppose}}",
+        "text": "& suppose",
+        "markdown": "& suppose}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/195"
       },
       {
@@ -901,7 +924,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/195"
       },
       {
-        "id": "195:24",
+        "id": "195:24a",
         "page": 195,
         "line": 24,
         "text": "of the Nephites which were slain",
@@ -915,7 +938,7 @@
     "verse": 26,
     "lines": [
       {
-        "id": "195:24",
+        "id": "195:24b",
         "page": 195,
         "line": 24,
         "text": "for behold Moronihah had supposed that the ",
@@ -945,7 +968,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/195"
       },
       {
-        "id": "195:28",
+        "id": "195:28a",
         "page": 195,
         "line": 28,
         "text": "about by the borders",
@@ -959,7 +982,7 @@
     "verse": 27,
     "lines": [
       {
-        "id": "195:28",
+        "id": "195:28b",
         "page": 195,
         "line": 28,
         "text": "but behold the Lamanites were not frightened accord",
@@ -1007,7 +1030,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/195"
       },
       {
-        "id": "196:1",
+        "id": "196:1a",
         "page": 196,
         "line": 1,
         "text": "strong holds",
@@ -1022,7 +1045,7 @@
     "verse": 28,
     "lines": [
       {
-        "id": "196:1",
+        "id": "196:1b",
         "page": 196,
         "line": 1,
         "text": "but when Moronihah had discovered this he immediately sent ",
@@ -1030,7 +1053,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/196"
       },
       {
-        "id": "196:2",
+        "id": "196:2a",
         "page": 196,
         "line": 2,
         "text": "forth Lehi with an army round about to head them before they should come to theland Bountiful",
@@ -1045,11 +1068,11 @@
     "verse": 29,
     "lines": [
       {
-        "id": "196:2",
+        "id": "196:2b",
         "page": 196,
         "line": 2,
-        "text": "& thus he did head them before they came to the land Bountiful& gave unto them Battle insomuch that they began to retreat back towardsthe land of Zarahemla &",
-        "markdown": "& thus he did head the}}m before they came to the land Bount{{iful& gave unto them Battle insomuch that}} they began to retreat back tow{{ardsthe land of Zarahemla &",
+        "text": "& thus he did head them before they came to the land Bountiful& gave unto them Battle insomuch that they began to retreat back towardsthe land of Zarahemla",
+        "markdown": "& thus he did head the}}m before they came to the land Bount{{iful& gave unto them Battle insomuch that}} they began to retreat back tow{{ardsthe land of Zarahemla",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/196"
       }
     ]
@@ -1060,11 +1083,11 @@
     "verse": 30,
     "lines": [
       {
-        "id": "196:2",
+        "id": "196:2c",
         "page": 196,
         "line": 2,
-        "text": "it came to pass that Moronihah did head them in theirretreat & did give unto them Battle insomuch that it became an exceding bloody ",
-        "markdown": "it came to p}}ass that Moronihah did head them in th{{eirretreat & did give unto them Battle}} insomuch that it became an exceding bloody ",
+        "text": "& it came to pass that Moronihah did head them in theirretreat & did give unto them Battle insomuch that it became an exceding bloody ",
+        "markdown": "& it came to p}}ass that Moronihah did head them in th{{eirretreat & did give unto them Battle}} insomuch that it became an exceding bloody ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/196"
       },
       {
@@ -1076,7 +1099,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/196"
       },
       {
-        "id": "196:4",
+        "id": "196:4a",
         "page": 196,
         "line": 4,
         "text": "was also found",
@@ -1091,7 +1114,7 @@
     "verse": 31,
     "lines": [
       {
-        "id": "196:4",
+        "id": "196:4b",
         "page": 196,
         "line": 4,
         "text": "& now behold the Lamanites could not retreat neither way neith",
@@ -1107,7 +1130,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/196"
       },
       {
-        "id": "196:6",
+        "id": "196:6a",
         "page": 196,
         "line": 6,
         "text": "rounded on every hand by the Nephites",
@@ -1122,7 +1145,7 @@
     "verse": 32,
     "lines": [
       {
-        "id": "196:6",
+        "id": "196:6b",
         "page": 196,
         "line": 6,
         "text": "& thus had Coriantumr plunged the Laman",
@@ -1137,7 +1160,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/196"
       },
       {
-        "id": "196:8",
+        "id": "196:8a",
         "page": 196,
         "line": 8,
         "text": "he himself was slain & the Lamanites did yield themselves up into the hands of the Nephites",
@@ -1152,7 +1175,7 @@
     "verse": 33,
     "lines": [
       {
-        "id": "196:8",
+        "id": "196:8b",
         "page": 196,
         "line": 8,
         "text": "& ",
@@ -1167,7 +1190,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/196"
       },
       {
-        "id": "196:10",
+        "id": "196:10a",
         "page": 196,
         "line": 10,
         "text": "Lamanites which had been taken Prisoners should depart out of the land in peace",
@@ -1182,14 +1205,14 @@
     "verse": 34,
     "lines": [
       {
-        "id": "196:10",
+        "id": "196:10b",
         "page": 196,
         "line": 10,
         "text": "& thus ended ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/196"
       },
       {
-        "id": "196:11",
+        "id": "196:11a",
         "page": 196,
         "line": 11,
         "text": "the forty & first year of the Reign of the Judges",

@@ -5,6 +5,13 @@
     "verse": 0,
     "lines": [
       {
+        "id": "284:30",
+        "page": 284,
+        "line": 30,
+        "text": "Chapter ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/284"
+      },
+      {
         "id": "284:31",
         "page": 284,
         "line": 31,
@@ -12,19 +19,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/284"
       },
       {
-        "id": "284:32",
+        "id": "284:32a",
         "page": 284,
         "line": 32,
-        "text": "Helaman according to the record of Helaman which he kept in his days—— ",
-        "markdown": "Helaman according to the record of Helaman which he kept in his days—— Behold ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/284"
-      },
-      {
-        "id": "284:32",
-        "page": 284,
-        "line": 32,
-        "text": "Behold",
-        "markdown": "Helaman according to the record of Helaman which he kept in his days—— Behold",
+        "text": "Helaman according to the record of Helaman which he kept in his days——",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/284"
       }
     ]
@@ -34,6 +32,13 @@
     "chapter": 45,
     "verse": 1,
     "lines": [
+      {
+        "id": "284:32b",
+        "page": 284,
+        "line": 32,
+        "text": "Behold ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/284"
+      },
       {
         "id": "284:33",
         "page": 284,
@@ -56,7 +61,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/284"
       },
       {
-        "id": "284:36",
+        "id": "284:36a",
         "page": 284,
         "line": 36,
         "text": "God with exceding great joy",
@@ -70,7 +75,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "284:36",
+        "id": "284:36b",
         "page": 284,
         "line": 36,
         "text": "& it came to pass in the nineteenth year of the reign of ",
@@ -91,7 +96,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/284"
       },
       {
-        "id": "285:1",
+        "id": "285:1a",
         "page": 285,
         "line": 1,
         "text": "reckords which have been kept",
@@ -105,7 +110,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "285:1",
+        "id": "285:1b",
         "page": 285,
         "line": 1,
         "text": "& Helaman sayeth unto him yea I believe",
@@ -119,10 +124,10 @@
     "verse": 4,
     "lines": [
       {
-        "id": "285:2",
+        "id": "285:2a",
         "page": 285,
         "line": 2,
-        "text": "& Alma sayeth again believest thou in Jesus Christ whi◊h shall come &",
+        "text": "& Alma sayeth again believest thou in Jesus Christ whi◊h shall come",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/285"
       }
     ]
@@ -133,14 +138,14 @@
     "verse": 5,
     "lines": [
       {
-        "id": "285:2",
+        "id": "285:2b",
         "page": 285,
         "line": 2,
-        "text": "he sayeth ",
+        "text": "& he sayeth ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/285"
       },
       {
-        "id": "285:3",
+        "id": "285:3a",
         "page": 285,
         "line": 3,
         "text": "yea I believe all the words which thou hast spoken",
@@ -154,14 +159,14 @@
     "verse": 6,
     "lines": [
       {
-        "id": "285:3",
+        "id": "285:3b",
         "page": 285,
         "line": 3,
         "text": "& Alma sayeth unto him again will ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/285"
       },
       {
-        "id": "285:4",
+        "id": "285:4a",
         "page": 285,
         "line": 4,
         "text": "ye keep my commandments",
@@ -175,14 +180,14 @@
     "verse": 7,
     "lines": [
       {
-        "id": "285:4",
+        "id": "285:4b",
         "page": 285,
         "line": 4,
         "text": "& he sayeth yea I will keep thy commandments with all my ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/285"
       },
       {
-        "id": "285:5",
+        "id": "285:5a",
         "page": 285,
         "line": 5,
         "text": "heart",
@@ -196,7 +201,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "285:5",
+        "id": "285:5b",
         "page": 285,
         "line": 5,
         "text": "then Alma sayeth unto him blessed art thou Lord shall prosper thee in this land",
@@ -225,7 +230,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/285"
       },
       {
-        "id": "285:8",
+        "id": "285:8a",
         "page": 285,
         "line": 8,
         "text": "the prophecy is fulfilled therefore write the words which I shall say",
@@ -239,7 +244,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "285:8",
+        "id": "285:8b",
         "page": 285,
         "line": 8,
         "text": "& these are ",
@@ -260,7 +265,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/285"
       },
       {
-        "id": "285:11",
+        "id": "285:11a",
         "page": 285,
         "line": 11,
         "text": "us Christ shall manifest himself unto them shall dwindle in unbelief",
@@ -274,7 +279,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "285:11",
+        "id": "285:11b",
         "page": 285,
         "line": 11,
         "text": "yea & ",
@@ -289,7 +294,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/285"
       },
       {
-        "id": "285:13",
+        "id": "285:13a",
         "page": 285,
         "line": 13,
         "text": "people of Nephi shall become extinct",
@@ -303,7 +308,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "285:13",
+        "id": "285:13b",
         "page": 285,
         "line": 13,
         "text": "yea & this because they shall dwindle in unbe",
@@ -331,7 +336,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/285"
       },
       {
-        "id": "285:17",
+        "id": "285:17a",
         "page": 285,
         "line": 17,
         "text": "away before this great iniquity shall come",
@@ -345,7 +350,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "285:17",
+        "id": "285:17b",
         "page": 285,
         "line": 17,
         "text": "& when that great day cometh behold the ",
@@ -368,7 +373,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/285"
       },
       {
-        "id": "285:20",
+        "id": "285:20a",
         "page": 285,
         "line": 20,
         "text": "of Nephi",
@@ -382,7 +387,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "285:20",
+        "id": "285:20b",
         "page": 285,
         "line": 20,
         "text": "but whosoever remaineth & is not destroyed in that great & dread",
@@ -410,7 +415,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/285"
       },
       {
-        "id": "285:24",
+        "id": "285:24a",
         "page": 285,
         "line": 24,
         "text": "cause of iniquity this prophecy shall be fulfilled",
@@ -424,7 +429,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "285:24",
+        "id": "285:24b",
         "page": 285,
         "line": 24,
         "text": "& now it came to pass that ",
@@ -439,7 +444,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/285"
       },
       {
-        "id": "285:26",
+        "id": "285:26a",
         "page": 285,
         "line": 26,
         "text": "other Sons & he also blessed the earth for the righteous sake",
@@ -453,7 +458,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "285:26",
+        "id": "285:26b",
         "page": 285,
         "line": 26,
         "text": "& he said thus saith ",
@@ -482,7 +487,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/285"
       },
       {
-        "id": "285:30",
+        "id": "285:30a",
         "page": 285,
         "line": 30,
         "text": "Lord cannot look upon sin with the least degree of allowance",
@@ -496,7 +501,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "285:30",
+        "id": "285:30b",
         "page": 285,
         "line": 30,
         "text": "& now when Alma ",
@@ -510,7 +515,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/285"
       },
       {
-        "id": "285:32",
+        "id": "285:32a",
         "page": 285,
         "line": 32,
         "text": "fast in the faith from that time henseforth",
@@ -524,7 +529,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "285:32",
+        "id": "285:32b",
         "page": 285,
         "line": 32,
         "text": "& when Alma had done this he ",
@@ -545,7 +550,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/285"
       },
       {
-        "id": "285:35",
+        "id": "285:35a",
         "page": 285,
         "line": 35,
         "text": "not of",
@@ -559,7 +564,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "285:35",
+        "id": "285:35b",
         "page": 285,
         "line": 35,
         "text": "behold this we know that he was a righteous man & the saying went ",
@@ -594,7 +599,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/286"
       },
       {
-        "id": "286:3",
+        "id": "286:3a",
         "page": 286,
         "line": 3,
         "text": "his death & buriel",
@@ -608,7 +613,7 @@
     "verse": 20,
     "lines": [
       {
-        "id": "286:3",
+        "id": "286:3b",
         "page": 286,
         "line": 3,
         "text": "& now it came to pass in the commencement of the nineteenth ",
@@ -622,7 +627,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/286"
       },
       {
-        "id": "286:5",
+        "id": "286:5a",
         "page": 286,
         "line": 5,
         "text": "among the people to declare the word unto them",
@@ -636,7 +641,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "286:5",
+        "id": "286:5b",
         "page": 286,
         "line": 5,
         "text": "for behold because of their ",
@@ -664,7 +669,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/286"
       },
       {
-        "id": "286:9",
+        "id": "286:9a",
         "page": 286,
         "line": 9,
         "text": "the church",
@@ -678,7 +683,7 @@
     "verse": 22,
     "lines": [
       {
-        "id": "286:9",
+        "id": "286:9b",
         "page": 286,
         "line": 9,
         "text": "therefore Helaman & his brethren went forth to establish the church again in ",
@@ -699,7 +704,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/286"
       },
       {
-        "id": "286:12",
+        "id": "286:12a",
         "page": 286,
         "line": 12,
         "text": "land over all the churches",
@@ -713,7 +718,7 @@
     "verse": 23,
     "lines": [
       {
-        "id": "286:12",
+        "id": "286:12b",
         "page": 286,
         "line": 12,
         "text": "& now it came to pass that after Helaman & his brethren had ",
@@ -727,7 +732,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/286"
       },
       {
-        "id": "286:14",
+        "id": "286:14a",
         "page": 286,
         "line": 14,
         "text": "& they would not give heed to the words of Helaman & his brethren",
@@ -741,7 +746,7 @@
     "verse": 24,
     "lines": [
       {
-        "id": "286:14",
+        "id": "286:14b",
         "page": 286,
         "line": 14,
         "text": "but they grew proud ",
@@ -762,7 +767,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/286"
       },
       {
-        "id": "286:17",
+        "id": "286:17a",
         "page": 286,
         "line": 17,
         "text": "fore God",

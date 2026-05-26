@@ -19,7 +19,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/98"
       },
       {
-        "id": "98:17",
+        "id": "98:17a",
         "page": 98,
         "line": 17,
         "text": "the power of the Holy Ghost carrieth it unto the hearts of the children of men",
@@ -33,7 +33,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "98:17",
+        "id": "98:17b",
         "page": 98,
         "line": 17,
         "text": "but behold there ",
@@ -76,7 +76,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/98"
       },
       {
-        "id": "98:22",
+        "id": "98:22a",
         "page": 98,
         "line": 22,
         "text": "night because of them & I cry unto my God in faith & I know that he will hear my cry",
@@ -90,7 +90,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "98:22",
+        "id": "98:22b",
         "page": 98,
         "line": 22,
         "text": "& ",
@@ -118,7 +118,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/98"
       },
       {
-        "id": "98:26",
+        "id": "98:26a",
         "page": 98,
         "line": 26,
         "text": "men to believe in him & to endure to the end which is life eternal",
@@ -132,7 +132,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "98:26",
+        "id": "98:26b",
         "page": 98,
         "line": 26,
         "text": "& it speaketh harsh ",
@@ -146,7 +146,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/98"
       },
       {
-        "id": "98:28",
+        "id": "98:28a",
         "page": 98,
         "line": 28,
         "text": "the words which I have written save he shall be of the spirit of the Devil",
@@ -160,25 +160,18 @@
     "verse": 6,
     "lines": [
       {
-        "id": "98:28",
+        "id": "98:28b",
         "page": 98,
         "line": 28,
         "text": "I glory in p ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/98"
       },
       {
-        "id": "98:29",
+        "id": "98:29a",
         "page": 98,
         "line": 29,
-        "text": "laneness I glory in truth I glory in my Jesus for he hath redeemed my soul from he",
-        "markdown": "laneness I glory in ~~th~~ truth I glory in my Jesus for he hath redeemed my soul from he",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/98"
-      },
-      {
-        "id": "98:30",
-        "page": 98,
-        "line": 30,
-        "text": "ll",
+        "text": "laneness I glory in truth I glory in my Jesus for he hath redeemed my soul from",
+        "markdown": "laneness I glory in ~~th~~ truth I glory in my Jesus for he hath redeemed my soul from",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/98"
       }
     ]
@@ -189,14 +182,21 @@
     "verse": 7,
     "lines": [
       {
-        "id": "98:30",
+        "id": "98:29b",
         "page": 98,
-        "line": 30,
-        "text": "I have charity for my People & great faith in christ that I shall meet many souls ",
+        "line": 29,
+        "text": "he ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/98"
       },
       {
-        "id": "98:31",
+        "id": "98:30",
+        "page": 98,
+        "line": 30,
+        "text": "ll I have charity for my People & great faith in christ that I shall meet many souls ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/98"
+      },
+      {
+        "id": "98:31a",
         "page": 98,
         "line": 31,
         "text": "spotless at his Judgmentseat",
@@ -210,14 +210,14 @@
     "verse": 8,
     "lines": [
       {
-        "id": "98:31",
+        "id": "98:31b",
         "page": 98,
         "line": 31,
         "text": "I have charity for the Jew I say Jew because I mean ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/98"
       },
       {
-        "id": "98:32",
+        "id": "98:32a",
         "page": 98,
         "line": 32,
         "text": "them from whence I came",
@@ -231,7 +231,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "98:32",
+        "id": "98:32b",
         "page": 98,
         "line": 32,
         "text": "I also have charity for the Gentiles but behold for none ",
@@ -252,7 +252,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/98"
       },
       {
-        "id": "98:35",
+        "id": "98:35a",
         "page": 98,
         "line": 35,
         "text": "untill the end of the day of probation",
@@ -266,7 +266,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "98:35",
+        "id": "98:35b",
         "page": 98,
         "line": 35,
         "text": "& now my beloved Brethren & also Jew & all ye ",
@@ -294,7 +294,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/99"
       },
       {
-        "id": "99:2",
+        "id": "99:2a",
         "page": 99,
         "line": 2,
         "text": "they should do good",
@@ -308,7 +308,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "99:2",
+        "id": "99:2b",
         "page": 99,
         "line": 2,
         "text": "& if they are not the words of Christ Judge ye for Christ will shew unto you ",
@@ -329,7 +329,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/99"
       },
       {
-        "id": "99:5",
+        "id": "99:5a",
         "page": 99,
         "line": 5,
         "text": "things notwithstanding my weakness",
@@ -343,14 +343,14 @@
     "verse": 12,
     "lines": [
       {
-        "id": "99:5",
+        "id": "99:5b",
         "page": 99,
         "line": 5,
         "text": "& I pray the Father in the name of Christ that many ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/99"
       },
       {
-        "id": "99:6",
+        "id": "99:6a",
         "page": 99,
         "line": 6,
         "text": "of us if not all may be saved in his Kingdom at that great & last day",
@@ -364,7 +364,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "99:6",
+        "id": "99:6b",
         "page": 99,
         "line": 6,
         "text": "& now my be",
@@ -385,7 +385,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/99"
       },
       {
-        "id": "99:9",
+        "id": "99:9a",
         "page": 99,
         "line": 9,
         "text": "come",
@@ -399,7 +399,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "99:9",
+        "id": "99:9b",
         "page": 99,
         "line": 9,
         "text": "& you that will not partake of the goodness of God & respect the words of the Jews & ",
@@ -420,7 +420,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/99"
       },
       {
-        "id": "99:12",
+        "id": "99:12a",
         "page": 99,
         "line": 12,
         "text": "ay",
@@ -434,7 +434,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "99:12",
+        "id": "99:12b",
         "page": 99,
         "line": 12,
         "text": "for what I Seal on earth shall be brought against you at the Judgment bar for th",

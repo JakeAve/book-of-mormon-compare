@@ -5,6 +5,13 @@
     "verse": 1,
     "lines": [
       {
+        "id": "89:37",
+        "page": 89,
+        "line": 37,
+        "text": "CHAPTER VII. ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/89"
+      },
+      {
         "id": "89:38",
         "page": 89,
         "line": 38,
@@ -68,7 +75,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/90"
       },
       {
-        "id": "90:7",
+        "id": "90:7a",
         "page": 90,
         "line": 7,
         "text": "Redeemer.",
@@ -82,7 +89,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "90:7",
+        "id": "90:7b",
         "page": 90,
         "line": 7,
         "text": "Wherefore, as I said unto you, it must needs be ",
@@ -124,7 +131,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/90"
       },
       {
-        "id": "90:13",
+        "id": "90:13a",
         "page": 90,
         "line": 13,
         "text": "crucify their God.",
@@ -138,7 +145,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "90:13",
+        "id": "90:13b",
         "page": 90,
         "line": 13,
         "text": "For should the mighty miracles be wrought ",
@@ -152,7 +159,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/90"
       },
       {
-        "id": "90:15",
+        "id": "90:15a",
         "page": 90,
         "line": 15,
         "text": "their God;",
@@ -166,7 +173,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "90:15",
+        "id": "90:15b",
         "page": 90,
         "line": 15,
         "text": "but because of priest-crafts and iniquities, they at ",
@@ -180,7 +187,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/90"
       },
       {
-        "id": "90:17",
+        "id": "90:17a",
         "page": 90,
         "line": 17,
         "text": "cified.",
@@ -194,7 +201,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "90:17",
+        "id": "90:17b",
         "page": 90,
         "line": 17,
         "text": "Wherefore, because of their iniquities, destructions, ",
@@ -292,7 +299,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/90"
       },
       {
-        "id": "90:29",
+        "id": "90:29a",
         "page": 90,
         "line": 29,
         "text": "to the lands of their inheritance.",
@@ -306,7 +313,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "90:29",
+        "id": "90:29b",
         "page": 90,
         "line": 29,
         "text": "Yea, the kings of the Gen",
@@ -334,7 +341,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/90"
       },
       {
-        "id": "90:33",
+        "id": "90:33a",
         "page": 90,
         "line": 33,
         "text": "dispute.",
@@ -348,7 +355,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "90:33",
+        "id": "90:33b",
         "page": 90,
         "line": 33,
         "text": "But behold, This land, saith God, shall be a land ",
@@ -362,7 +369,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/90"
       },
       {
-        "id": "90:35",
+        "id": "90:35a",
         "page": 90,
         "line": 35,
         "text": "the land.",
@@ -376,7 +383,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "90:35",
+        "id": "90:35b",
         "page": 90,
         "line": 35,
         "text": "And this land shall be a land of liberty unto the ",
@@ -390,7 +397,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/90"
       },
       {
-        "id": "90:37",
+        "id": "90:37a",
         "page": 90,
         "line": 37,
         "text": "shall raise up unto the Gentiles.",
@@ -404,14 +411,14 @@
     "verse": 12,
     "lines": [
       {
-        "id": "90:37",
+        "id": "90:37b",
         "page": 90,
         "line": 37,
         "text": "And I will fortify this land ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/90"
       },
       {
-        "id": "90:38",
+        "id": "90:38a",
         "page": 90,
         "line": 38,
         "text": "against all other nations;",
@@ -425,14 +432,14 @@
     "verse": 13,
     "lines": [
       {
-        "id": "90:38",
+        "id": "90:38b",
         "page": 90,
         "line": 38,
         "text": "and he that fighteth against Zion, ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/90"
       },
       {
-        "id": "90:39",
+        "id": "90:39a",
         "page": 90,
         "line": 39,
         "text": "shall perish, saith God:",
@@ -446,7 +453,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "90:39",
+        "id": "90:39b",
         "page": 90,
         "line": 39,
         "text": "for he that raiseth up a king against ",
@@ -467,7 +474,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/90"
       },
       {
-        "id": "90:42",
+        "id": "90:42a",
         "page": 90,
         "line": 42,
         "text": "my words.",
@@ -481,7 +488,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "90:42",
+        "id": "90:42b",
         "page": 90,
         "line": 42,
         "text": "Wherefore, for this cause, that my covenants may ",
@@ -509,7 +516,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/91"
       },
       {
-        "id": "91:3",
+        "id": "91:3a",
         "page": 91,
         "line": 3,
         "text": "abominations;",
@@ -523,7 +530,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "91:3",
+        "id": "91:3b",
         "page": 91,
         "line": 3,
         "text": "wherefore, he that fighteth against Zion, both ",
@@ -551,7 +558,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/91"
       },
       {
-        "id": "91:7",
+        "id": "91:7a",
         "page": 91,
         "line": 7,
         "text": "God.",
@@ -565,7 +572,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "91:7",
+        "id": "91:7b",
         "page": 91,
         "line": 7,
         "text": "For I will fulfil my promises which I have made unto ",
@@ -579,7 +586,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/91"
       },
       {
-        "id": "91:9",
+        "id": "91:9a",
         "page": 91,
         "line": 9,
         "text": "the flesh.",
@@ -593,7 +600,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "91:9",
+        "id": "91:9b",
         "page": 91,
         "line": 9,
         "text": "Wherefore, my beloved brethren, thus saith our ",
@@ -719,7 +726,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/91"
       },
       {
-        "id": "91:25",
+        "id": "91:25a",
         "page": 91,
         "line": 25,
         "text": "sea our path, and we are upon an isle of the sea.",
@@ -733,7 +740,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "91:25",
+        "id": "91:25b",
         "page": 91,
         "line": 25,
         "text": "But great is ",
@@ -789,10 +796,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/91"
       },
       {
-        "id": "91:32",
+        "id": "91:32a",
         "page": 91,
         "line": 32,
-        "text": "been broken off; wherefore, he remembereth us also. There",
+        "text": "been broken off; wherefore, he remembereth us also.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/91"
       }
     ]
@@ -802,6 +809,13 @@
     "chapter": 10,
     "verse": 23,
     "lines": [
+      {
+        "id": "91:32b",
+        "page": 91,
+        "line": 32,
+        "text": "There",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/91"
+      },
       {
         "id": "91:33",
         "page": 91,
@@ -817,7 +831,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/91"
       },
       {
-        "id": "91:35",
+        "id": "91:35a",
         "page": 91,
         "line": 35,
         "text": "or the way of eternal life.",
@@ -831,7 +845,7 @@
     "verse": 24,
     "lines": [
       {
-        "id": "91:35",
+        "id": "91:35b",
         "page": 91,
         "line": 35,
         "text": "Wherefore, my beloved brethren, ",
@@ -859,7 +873,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/91"
       },
       {
-        "id": "91:39",
+        "id": "91:39a",
         "page": 91,
         "line": 39,
         "text": "God that ye are saved.",
@@ -873,7 +887,7 @@
     "verse": 25,
     "lines": [
       {
-        "id": "91:39",
+        "id": "91:39b",
         "page": 91,
         "line": 39,
         "text": "Wherefore, may God raise you from ",
@@ -904,15 +918,8 @@
         "id": "91:43",
         "page": 91,
         "line": 43,
-        "text": "him through Grace Divine. Amen. ",
+        "text": "him through Grace Divine. Amen.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/91"
-      },
-      {
-        "id": "92:1",
-        "page": 92,
-        "line": 1,
-        "text": "CHAPTER VIII.",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/92"
       }
     ]
   }

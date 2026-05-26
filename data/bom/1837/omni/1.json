@@ -173,10 +173,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/162"
       },
       {
-        "id": "162:12",
+        "id": "162:12a",
         "page": 162,
         "line": 12,
-        "text": "I write, which are few, in the book of my father. Be",
+        "text": "I write, which are few, in the book of my father.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/162"
       }
     ]
@@ -186,6 +186,13 @@
     "chapter": 1,
     "verse": 5,
     "lines": [
+      {
+        "id": "162:12b",
+        "page": 162,
+        "line": 12,
+        "text": "Be",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/162"
+      },
       {
         "id": "162:13",
         "page": 162,
@@ -201,7 +208,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/162"
       },
       {
-        "id": "162:15",
+        "id": "162:15a",
         "page": 162,
         "line": 15,
         "text": "the Nephites were destroyed:",
@@ -215,7 +222,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "162:15",
+        "id": "162:15b",
         "page": 162,
         "line": 15,
         "text": "for the Lord would not ",
@@ -264,7 +271,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/162"
       },
       {
-        "id": "162:22",
+        "id": "162:22a",
         "page": 162,
         "line": 22,
         "text": "land.",
@@ -278,7 +285,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "162:22",
+        "id": "162:22b",
         "page": 162,
         "line": 22,
         "text": "Wherefore, the Lord did visit them in great ",
@@ -299,7 +306,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/162"
       },
       {
-        "id": "162:25",
+        "id": "162:25a",
         "page": 162,
         "line": 25,
         "text": "of the hands of their enemies.",
@@ -313,7 +320,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "162:25",
+        "id": "162:25b",
         "page": 162,
         "line": 25,
         "text": "And it came to pass ",
@@ -425,7 +432,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/162"
       },
       {
-        "id": "162:39",
+        "id": "162:39a",
         "page": 162,
         "line": 39,
         "text": "brethren.",
@@ -439,7 +446,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "162:39",
+        "id": "162:39b",
         "page": 162,
         "line": 39,
         "text": "And behold, the record of this people is en",
@@ -600,7 +607,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/163"
       },
       {
-        "id": "163:13",
+        "id": "163:13a",
         "page": 163,
         "line": 13,
         "text": "called the land of Zarahemla.",
@@ -614,7 +621,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "163:13",
+        "id": "163:13b",
         "page": 163,
         "line": 13,
         "text": "And they discovered a ",
@@ -691,7 +698,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/163"
       },
       {
-        "id": "163:23",
+        "id": "163:23a",
         "page": 163,
         "line": 23,
         "text": "away captive into Babylon.",
@@ -705,7 +712,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "163:23",
+        "id": "163:23b",
         "page": 163,
         "line": 23,
         "text": "And they journied in ",
@@ -733,7 +740,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/163"
       },
       {
-        "id": "163:27",
+        "id": "163:27a",
         "page": 163,
         "line": 27,
         "text": "from that time forth.",
@@ -747,7 +754,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "163:27",
+        "id": "163:27b",
         "page": 163,
         "line": 27,
         "text": "And at the time that Mosiah ",
@@ -873,7 +880,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/163"
       },
       {
-        "id": "163:43",
+        "id": "163:43a",
         "page": 163,
         "line": 43,
         "text": "appointed to be their king.",
@@ -887,7 +894,7 @@
     "verse": 20,
     "lines": [
       {
-        "id": "163:43",
+        "id": "163:43b",
         "page": 163,
         "line": 43,
         "text": "And it came to pass in ",
@@ -943,7 +950,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/164"
       },
       {
-        "id": "164:4",
+        "id": "164:4a",
         "page": 164,
         "line": 4,
         "text": "them for the space of nine moons.",
@@ -957,7 +964,7 @@
     "verse": 22,
     "lines": [
       {
-        "id": "164:4",
+        "id": "164:4b",
         "page": 164,
         "line": 4,
         "text": "It also spake a ",
@@ -1027,7 +1034,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/164"
       },
       {
-        "id": "164:13",
+        "id": "164:13a",
         "page": 164,
         "line": 13,
         "text": "son, reigneth in his stead.",
@@ -1041,7 +1048,7 @@
     "verse": 24,
     "lines": [
       {
-        "id": "164:13",
+        "id": "164:13b",
         "page": 164,
         "line": 13,
         "text": "And behold, I have seen ",
@@ -1258,7 +1265,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/164"
       },
       {
-        "id": "164:41",
+        "id": "164:41a",
         "page": 164,
         "line": 41,
         "text": "inheritance;",
@@ -1272,7 +1279,7 @@
     "verse": 28,
     "lines": [
       {
-        "id": "164:41",
+        "id": "164:41b",
         "page": 164,
         "line": 41,
         "text": "wherefore, they went up into the wilder",
@@ -1335,7 +1342,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/165"
       },
       {
-        "id": "165:3",
+        "id": "165:3a",
         "page": 165,
         "line": 3,
         "text": "into the wilderness.",
@@ -1349,7 +1356,7 @@
     "verse": 30,
     "lines": [
       {
-        "id": "165:3",
+        "id": "165:3b",
         "page": 165,
         "line": 3,
         "text": "And I, Amaleki, had a brother, ",

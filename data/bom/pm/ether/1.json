@@ -5,10 +5,10 @@
     "verse": 0,
     "lines": [
       {
-        "id": "433:1",
+        "id": "433:1a",
         "page": 433,
         "line": 1,
-        "text": "The Book of Ether Chapter—",
+        "text": "The Book of Ether",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/433"
       }
     ]
@@ -19,10 +19,10 @@
     "verse": 1,
     "lines": [
       {
-        "id": "433:1",
+        "id": "433:1b",
         "page": 433,
         "line": 1,
-        "text": "I— And now I Moroni ",
+        "text": "Chapter— I— And now I Moroni ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/433"
       },
       {
@@ -33,7 +33,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/433"
       },
       {
-        "id": "433:3",
+        "id": "433:3a",
         "page": 433,
         "line": 3,
         "text": "ed by the hand of the Lord upon the face of this north country",
@@ -47,7 +47,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "433:3",
+        "id": "433:3b",
         "page": 433,
         "line": 3,
         "text": "& I take mine ",
@@ -61,7 +61,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/433"
       },
       {
-        "id": "433:5",
+        "id": "433:5a",
         "page": 433,
         "line": 5,
         "text": "hi which is called the Book of Ether",
@@ -75,7 +75,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "433:5",
+        "id": "433:5b",
         "page": 433,
         "line": 5,
         "text": "& as I suppose that the first part of this ",
@@ -96,10 +96,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/433"
       },
       {
-        "id": "433:8",
+        "id": "433:8a",
         "page": 433,
         "line": 8,
-        "text": "nspired among the children of men until that time is had among the Jews there",
+        "text": "nspired among the children of men until that time is had among the Jews",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/433"
       }
     ]
@@ -109,6 +109,13 @@
     "chapter": 1,
     "verse": 4,
     "lines": [
+      {
+        "id": "433:8b",
+        "page": 433,
+        "line": 8,
+        "text": "there",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/433"
+      },
       {
         "id": "433:9",
         "page": 433,
@@ -124,7 +131,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/433"
       },
       {
-        "id": "433:11",
+        "id": "433:11a",
         "page": 433,
         "line": 11,
         "text": "have power that he may get the full account",
@@ -138,7 +145,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "433:11",
+        "id": "433:11b",
         "page": 433,
         "line": 11,
         "text": "but behold I give not the ",
@@ -152,7 +159,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/433"
       },
       {
-        "id": "433:13",
+        "id": "433:13a",
         "page": 433,
         "line": 13,
         "text": "they were destroyed",
@@ -166,17 +173,17 @@
     "verse": 6,
     "lines": [
       {
-        "id": "433:13",
+        "id": "433:13b",
         "page": 433,
         "line": 13,
         "text": "& on this wise do I give the account He that wrote this accou",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/433"
       },
       {
-        "id": "433:14",
+        "id": "433:14a",
         "page": 433,
         "line": 14,
-        "text": "nt was Ether & he was a descendant of Coriantor &",
+        "text": "nt was Ether & he was a descendant of Coriantor",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/433"
       }
     ]
@@ -187,14 +194,14 @@
     "verse": 7,
     "lines": [
       {
-        "id": "433:14",
+        "id": "433:14b",
         "page": 433,
         "line": 14,
-        "text": "Coriantor was the Son of ",
+        "text": "& Coriantor was the Son of ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/433"
       },
       {
-        "id": "433:15",
+        "id": "433:15a",
         "page": 433,
         "line": 15,
         "text": "Moron",
@@ -208,7 +215,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "433:15",
+        "id": "433:15b",
         "page": 433,
         "line": 15,
         "text": "& Moron was the Son of Ethem",
@@ -222,7 +229,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "433:15",
+        "id": "433:15c",
         "page": 433,
         "line": 15,
         "text": "& Ethem was the son of Ahah",
@@ -236,14 +243,14 @@
     "verse": 10,
     "lines": [
       {
-        "id": "433:15",
+        "id": "433:15d",
         "page": 433,
         "line": 15,
         "text": "& Ahah ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/433"
       },
       {
-        "id": "433:16",
+        "id": "433:16a",
         "page": 433,
         "line": 16,
         "text": "was the son of Seth",
@@ -257,7 +264,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "433:16",
+        "id": "433:16b",
         "page": 433,
         "line": 16,
         "text": "& Seth was the son of Shiblon",
@@ -271,7 +278,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "433:16",
+        "id": "433:16c",
         "page": 433,
         "line": 16,
         "text": "& Shiblon was the Son of Com",
@@ -285,7 +292,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "433:17",
+        "id": "433:17a",
         "page": 433,
         "line": 17,
         "text": "& Com was the son of Coriantum",
@@ -299,7 +306,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "433:17",
+        "id": "433:17b",
         "page": 433,
         "line": 17,
         "text": "& Coriantum was the son of Amnigaddah",
@@ -313,14 +320,14 @@
     "verse": 15,
     "lines": [
       {
-        "id": "433:17",
+        "id": "433:17c",
         "page": 433,
         "line": 17,
         "text": "& Am",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/433"
       },
       {
-        "id": "433:18",
+        "id": "433:18a",
         "page": 433,
         "line": 18,
         "text": "nigaddah was the son of Aaron",
@@ -334,14 +341,14 @@
     "verse": 16,
     "lines": [
       {
-        "id": "433:18",
+        "id": "433:18b",
         "page": 433,
         "line": 18,
         "text": "& Aaron was a descendant of Heth who was the ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/433"
       },
       {
-        "id": "433:19",
+        "id": "433:19a",
         "page": 433,
         "line": 19,
         "text": "son of Hearthom",
@@ -355,7 +362,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "433:19",
+        "id": "433:19b",
         "page": 433,
         "line": 19,
         "text": "& Hearthom was the son of Lib",
@@ -369,7 +376,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "433:19",
+        "id": "433:19c",
         "page": 433,
         "line": 19,
         "text": "& Lib was the son of Kish",
@@ -383,14 +390,14 @@
     "verse": 19,
     "lines": [
       {
-        "id": "433:19",
+        "id": "433:19d",
         "page": 433,
         "line": 19,
         "text": "& Kish ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/433"
       },
       {
-        "id": "433:20",
+        "id": "433:20a",
         "page": 433,
         "line": 20,
         "text": "was the son of Corom",
@@ -404,7 +411,7 @@
     "verse": 20,
     "lines": [
       {
-        "id": "433:20",
+        "id": "433:20b",
         "page": 433,
         "line": 20,
         "text": "& Corom was the son of Levi",
@@ -418,7 +425,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "433:20",
+        "id": "433:20c",
         "page": 433,
         "line": 20,
         "text": "& Levi was the son of Kim",
@@ -432,14 +439,14 @@
     "verse": 22,
     "lines": [
       {
-        "id": "433:20",
+        "id": "433:20d",
         "page": 433,
         "line": 20,
         "text": "& Kim ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/433"
       },
       {
-        "id": "433:21",
+        "id": "433:21a",
         "page": 433,
         "line": 21,
         "text": "was the son of Morianton",
@@ -453,7 +460,7 @@
     "verse": 23,
     "lines": [
       {
-        "id": "433:21",
+        "id": "433:21b",
         "page": 433,
         "line": 21,
         "text": "& Morianton was a descendant of Riplakish",
@@ -467,14 +474,14 @@
     "verse": 24,
     "lines": [
       {
-        "id": "433:21",
+        "id": "433:21c",
         "page": 433,
         "line": 21,
         "text": "& Ripla",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/433"
       },
       {
-        "id": "433:22",
+        "id": "433:22a",
         "page": 433,
         "line": 22,
         "text": "kish was the son of Shez",
@@ -488,7 +495,7 @@
     "verse": 25,
     "lines": [
       {
-        "id": "433:22",
+        "id": "433:22b",
         "page": 433,
         "line": 22,
         "text": "& Shez was the son of Heth",
@@ -502,7 +509,7 @@
     "verse": 26,
     "lines": [
       {
-        "id": "433:22",
+        "id": "433:22c",
         "page": 433,
         "line": 22,
         "text": "& Heth was the son of Com",
@@ -516,14 +523,14 @@
     "verse": 27,
     "lines": [
       {
-        "id": "433:22",
+        "id": "433:22d",
         "page": 433,
         "line": 22,
         "text": "& ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/433"
       },
       {
-        "id": "433:23",
+        "id": "433:23a",
         "page": 433,
         "line": 23,
         "text": "Com was the son of Coriantum",
@@ -537,7 +544,7 @@
     "verse": 28,
     "lines": [
       {
-        "id": "433:23",
+        "id": "433:23b",
         "page": 433,
         "line": 23,
         "text": "& Coriantum was the son of Emer",
@@ -551,14 +558,14 @@
     "verse": 29,
     "lines": [
       {
-        "id": "433:23",
+        "id": "433:23c",
         "page": 433,
         "line": 23,
         "text": "& Emer was ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/433"
       },
       {
-        "id": "433:24",
+        "id": "433:24a",
         "page": 433,
         "line": 24,
         "text": "the son of Omer",
@@ -572,7 +579,7 @@
     "verse": 30,
     "lines": [
       {
-        "id": "433:24",
+        "id": "433:24b",
         "page": 433,
         "line": 24,
         "text": "& Omer was the son of Shule",
@@ -586,7 +593,7 @@
     "verse": 31,
     "lines": [
       {
-        "id": "433:24",
+        "id": "433:24c",
         "page": 433,
         "line": 24,
         "text": "& Shule was the son of Kib",
@@ -600,7 +607,7 @@
     "verse": 32,
     "lines": [
       {
-        "id": "433:24",
+        "id": "433:24d",
         "page": 433,
         "line": 24,
         "text": "& ",
@@ -608,7 +615,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/433"
       },
       {
-        "id": "433:25",
+        "id": "433:25a",
         "page": 433,
         "line": 25,
         "text": "Kib was the son of Orihah which was the Son of Jared",
@@ -622,7 +629,7 @@
     "verse": 33,
     "lines": [
       {
-        "id": "433:25",
+        "id": "433:25b",
         "page": 433,
         "line": 25,
         "text": "which Jared came ",
@@ -651,7 +658,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/433"
       },
       {
-        "id": "433:29",
+        "id": "433:29a",
         "page": 433,
         "line": 29,
         "text": "the earth & according to the word of the Lord the people were scattered",
@@ -665,7 +672,7 @@
     "verse": 34,
     "lines": [
       {
-        "id": "433:29",
+        "id": "433:29b",
         "page": 433,
         "line": 29,
         "text": "& the ",
@@ -686,7 +693,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/433"
       },
       {
-        "id": "433:32",
+        "id": "433:32a",
         "page": 433,
         "line": 32,
         "text": "confound us that we may not understand our words",
@@ -700,7 +707,7 @@
     "verse": 35,
     "lines": [
       {
-        "id": "433:32",
+        "id": "433:32b",
         "page": 433,
         "line": 32,
         "text": "And it came to pass that ",
@@ -721,7 +728,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/433"
       },
       {
-        "id": "433:35",
+        "id": "433:35a",
         "page": 433,
         "line": 35,
         "text": "confounded",
@@ -735,7 +742,7 @@
     "verse": 36,
     "lines": [
       {
-        "id": "433:35",
+        "id": "433:35b",
         "page": 433,
         "line": 35,
         "text": "then Jared said unto his brother Cry again unto the Lord & it may be that ",
@@ -749,7 +756,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/433"
       },
       {
-        "id": "433:37",
+        "id": "433:37a",
         "page": 433,
         "line": 37,
         "text": "their language",
@@ -763,7 +770,7 @@
     "verse": 37,
     "lines": [
       {
-        "id": "433:37",
+        "id": "433:37b",
         "page": 433,
         "line": 37,
         "text": "And it came to pass that the brother of Jared did cry unto the ",
@@ -777,7 +784,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/433"
       },
       {
-        "id": "434:1",
+        "id": "434:1a",
         "page": 434,
         "line": 1,
         "text": "they were not confounded",
@@ -791,7 +798,7 @@
     "verse": 38,
     "lines": [
       {
-        "id": "434:1",
+        "id": "434:1b",
         "page": 434,
         "line": 1,
         "text": "And it came to pass that Jared spake again unto ",
@@ -841,7 +848,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/434"
       },
       {
-        "id": "434:7",
+        "id": "434:7a",
         "page": 434,
         "line": 7,
         "text": "had been spoken by the mouth of Jared",
@@ -855,14 +862,14 @@
     "verse": 40,
     "lines": [
       {
-        "id": "434:7",
+        "id": "434:7b",
         "page": 434,
         "line": 7,
         "text": "And it came to pass that the Lord did hear the broth",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/434"
       },
       {
-        "id": "434:8",
+        "id": "434:8a",
         "page": 434,
         "line": 8,
         "text": "er of Jared & had compassion upon him & said unto him",
@@ -876,7 +883,7 @@
     "verse": 41,
     "lines": [
       {
-        "id": "434:8",
+        "id": "434:8b",
         "page": 434,
         "line": 8,
         "text": "Go to & gather togeth thy flocks ",
@@ -898,7 +905,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/434"
       },
       {
-        "id": "434:11",
+        "id": "434:11a",
         "page": 434,
         "line": 11,
         "text": "their families",
@@ -912,7 +919,7 @@
     "verse": 42,
     "lines": [
       {
-        "id": "434:11",
+        "id": "434:11b",
         "page": 434,
         "line": 11,
         "text": "& when thou hast done this thou shalt go at the head of them down ",
@@ -926,7 +933,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/434"
       },
       {
-        "id": "434:13",
+        "id": "434:13a",
         "page": 434,
         "line": 13,
         "text": "into a land which is choice above all the land of the earth",
@@ -940,7 +947,7 @@
     "verse": 43,
     "lines": [
       {
-        "id": "434:13",
+        "id": "434:13b",
         "page": 434,
         "line": 13,
         "text": "& there will I bless ",
@@ -968,7 +975,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/434"
       },
       {
-        "id": "434:17",
+        "id": "434:17a",
         "page": 434,
         "line": 17,
         "text": "& this I will do unto thee because of this long time which ye have cried unto me",

@@ -20,7 +20,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/106"
       },
       {
-        "id": "106:32",
+        "id": "106:32a",
         "page": 106,
         "line": 32,
         "text": "dead were buried by the People of the land",
@@ -34,7 +34,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "106:32",
+        "id": "106:32b",
         "page": 106,
         "line": 32,
         "text": "now their dead were not numbered because ",
@@ -64,7 +64,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/107"
       },
       {
-        "id": "107:2",
+        "id": "107:2a",
         "page": 107,
         "line": 2,
         "text": "People of Nephi there began to be continual peace throughout all the land",
@@ -79,7 +79,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "107:2",
+        "id": "107:2b",
         "page": 107,
         "line": 2,
         "text": "yea & the People ",
@@ -103,10 +103,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/107"
       },
       {
-        "id": "107:5",
+        "id": "107:5a",
         "page": 107,
         "line": 5,
-        "text": "of Mose[s] untill it should be fulfilled &",
+        "text": "of Mose[s] untill it should be fulfilled",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/107"
       }
     ]
@@ -117,19 +117,19 @@
     "verse": 4,
     "lines": [
       {
-        "id": "107:5",
+        "id": "107:5b",
         "page": 107,
         "line": 5,
-        "text": "thus the People did have no disterbence in all ",
-        "markdown": "thus ~~he~~ [the] {{People did have no disterbence in all}} ",
+        "text": "& thus the People did have no disterbence in all ",
+        "markdown": "& thus ~~he~~ [the] {{People did have no disterbence in all}} ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/107"
       },
       {
-        "id": "107:6",
+        "id": "107:6a",
         "page": 107,
         "line": 6,
-        "text": "the sixteenth yea[r] of the Reign of the Judges over the People of Nephi",
-        "markdown": "the sixteenth [yea[r]] of the Reign of the Judges over the Peop{{le of Nephi",
+        "text": "the sixteenth yea[r] of the Reign of the Judges over the People of",
+        "markdown": "the sixteenth [yea[r]] of the Reign of the Judges over the Peop{{le of",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/107"
       }
     ]
@@ -140,11 +140,11 @@
     "verse": 5,
     "lines": [
       {
-        "id": "107:6",
+        "id": "107:6b",
         "page": 107,
         "line": 6,
-        "text": "& it came to pass in ",
-        "markdown": "& it came to pass in}} ",
+        "text": "Nephi & it came to pass in ",
+        "markdown": "Nephi & it came to pass in}} ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/107"
       },
       {
@@ -156,7 +156,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/107"
       },
       {
-        "id": "107:8",
+        "id": "107:8a",
         "page": 107,
         "line": 8,
         "text": "al peace",
@@ -170,7 +170,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "107:8",
+        "id": "107:8b",
         "page": 107,
         "line": 8,
         "text": "but it came to pass in the latter end of the seventeenth year there came ",
@@ -194,7 +194,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/107"
       },
       {
-        "id": "107:11",
+        "id": "107:11a",
         "page": 107,
         "line": 11,
         "text": "concerning the comeing of Christ",
@@ -208,7 +208,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "107:11",
+        "id": "107:11b",
         "page": 107,
         "line": 11,
         "text": "now there was no law against a mans belief ",
@@ -224,7 +224,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/107"
       },
       {
-        "id": "107:13",
+        "id": "107:13a",
         "page": 107,
         "line": 13,
         "text": "be a law which should bring men on to unequal grounds",
@@ -239,7 +239,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "107:13",
+        "id": "107:13b",
         "page": 107,
         "line": 13,
         "text": "for thus saith the scrip",
@@ -247,7 +247,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/107"
       },
       {
-        "id": "107:14",
+        "id": "107:14a",
         "page": 107,
         "line": 14,
         "text": "ture chose ye this day whom ye will serve",
@@ -261,7 +261,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "107:14",
+        "id": "107:14b",
         "page": 107,
         "line": 14,
         "text": "now if a man desired to serve God it was ",
@@ -277,7 +277,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/107"
       },
       {
-        "id": "107:16",
+        "id": "107:16a",
         "page": 107,
         "line": 16,
         "text": "him but if he did not believe in him there was no law to punish him",
@@ -292,7 +292,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "107:16",
+        "id": "107:16b",
         "page": 107,
         "line": 16,
         "text": "but if ",
@@ -316,7 +316,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/107"
       },
       {
-        "id": "107:19",
+        "id": "107:19a",
         "page": 107,
         "line": 19,
         "text": "ed yea for all this wickedness they were punished",
@@ -331,7 +331,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "107:19",
+        "id": "107:19b",
         "page": 107,
         "line": 19,
         "text": "for there was a law that men ",
@@ -355,7 +355,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/107"
       },
       {
-        "id": "107:22",
+        "id": "107:22a",
         "page": 107,
         "line": 22,
         "text": "done therefore all men were on equal grounds",
@@ -369,7 +369,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "107:22",
+        "id": "107:22b",
         "page": 107,
         "line": 22,
         "text": "& this Anti Christ whose name ",
@@ -415,7 +415,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/107"
       },
       {
-        "id": "107:27",
+        "id": "107:27a",
         "page": 107,
         "line": 27,
         "text": "ing which is to come",
@@ -429,7 +429,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "107:27",
+        "id": "107:27b",
         "page": 107,
         "line": 27,
         "text": "behold these things which ye call Prophesies which ye say are ",
@@ -437,7 +437,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/107"
       },
       {
-        "id": "107:28",
+        "id": "107:28a",
         "page": 107,
         "line": 28,
         "text": "handed down by holy Prophets behold they are foolish traditions of your fathers",
@@ -452,7 +452,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "107:28",
+        "id": "107:28b",
         "page": 107,
         "line": 28,
         "text": "how do ",
@@ -467,7 +467,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/107"
       },
       {
-        "id": "107:30",
+        "id": "107:30a",
         "page": 107,
         "line": 30,
         "text": "ye cannot know that there shall be a Christ",
@@ -481,7 +481,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "107:30",
+        "id": "107:30b",
         "page": 107,
         "line": 30,
         "text": "ye look forward & say that ye see a remis",
@@ -504,7 +504,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/107"
       },
       {
-        "id": "107:33",
+        "id": "107:33a",
         "page": 107,
         "line": 33,
         "text": "into a belief of things which are not so",
@@ -519,7 +519,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "107:33",
+        "id": "107:33b",
         "page": 107,
         "line": 33,
         "text": "& many more such things did he say unto ",
@@ -550,7 +550,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/108"
       },
       {
-        "id": "108:2",
+        "id": "108:2a",
         "page": 108,
         "line": 2,
         "text": "according to his strength & whatsoever a man did was no crime",
@@ -565,7 +565,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "108:2",
+        "id": "108:2b",
         "page": 108,
         "line": 2,
         "text": "& thus he did pr",
@@ -588,7 +588,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/108"
       },
       {
-        "id": "108:5",
+        "id": "108:5a",
         "page": 108,
         "line": 5,
         "text": "ardoms telling them that when a man was dead that was the end thereof",
@@ -603,7 +603,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "108:5",
+        "id": "108:5b",
         "page": 108,
         "line": 5,
         "text": "now this ",
@@ -619,7 +619,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/108"
       },
       {
-        "id": "108:7",
+        "id": "108:7a",
         "page": 108,
         "line": 7,
         "text": "of Ammon which were once the People of the Lamanites",
@@ -634,7 +634,7 @@
     "verse": 20,
     "lines": [
       {
-        "id": "108:7",
+        "id": "108:7b",
         "page": 108,
         "line": 7,
         "text": "but behold they were more wise than ",
@@ -649,7 +649,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/108"
       },
       {
-        "id": "108:9",
+        "id": "108:9a",
         "page": 108,
         "line": 9,
         "text": "was a high Priest over that People",
@@ -664,7 +664,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "108:9",
+        "id": "108:9b",
         "page": 108,
         "line": 9,
         "text": "& it came to pass that he caused that he should be ca",
@@ -687,7 +687,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/108"
       },
       {
-        "id": "108:12",
+        "id": "108:12a",
         "page": 108,
         "line": 12,
         "text": "nd & carried before the high Priest & also the chief Judge over the land",
@@ -702,7 +702,7 @@
     "verse": 22,
     "lines": [
       {
-        "id": "108:12",
+        "id": "108:12b",
         "page": 108,
         "line": 12,
         "text": "& it came to ",
@@ -725,7 +725,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/108"
       },
       {
-        "id": "108:15",
+        "id": "108:15a",
         "page": 108,
         "line": 15,
         "text": "rejoiceings why do ye speak against all the Propesies of the holy Prophets",
@@ -740,7 +740,7 @@
     "verse": 23,
     "lines": [
       {
-        "id": "108:15",
+        "id": "108:15b",
         "page": 108,
         "line": 15,
         "text": "now the ",
@@ -787,7 +787,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/108"
       },
       {
-        "id": "108:21",
+        "id": "108:21a",
         "page": 108,
         "line": 21,
         "text": "according to thy words",
@@ -802,7 +802,7 @@
     "verse": 24,
     "lines": [
       {
-        "id": "108:21",
+        "id": "108:21b",
         "page": 108,
         "line": 21,
         "text": "ye say that this People is a free People behohold I say these are in ",
@@ -818,7 +818,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/108"
       },
       {
-        "id": "108:23",
+        "id": "108:23a",
         "page": 108,
         "line": 23,
         "text": "ow that they are true",
@@ -833,7 +833,7 @@
     "verse": 25,
     "lines": [
       {
-        "id": "108:23",
+        "id": "108:23b",
         "page": 108,
         "line": 23,
         "text": "ye say that this People is a guilty & a fallen People because of ",
@@ -862,7 +862,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/108"
       },
       {
-        "id": "108:26",
+        "id": "108:26a",
         "page": 108,
         "line": 26,
         "text": "shall be a Christ & ye say also that he shall be slain for the sins of the world",
@@ -877,7 +877,7 @@
     "verse": 27,
     "lines": [
       {
-        "id": "108:26",
+        "id": "108:26b",
         "page": 108,
         "line": 26,
         "text": "& thus ",
@@ -908,7 +908,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/108"
       },
       {
-        "id": "108:30",
+        "id": "108:30a",
         "page": 108,
         "line": 30,
         "text": "with boldness & that they dearst not enjoy their rights & privileges",
@@ -923,7 +923,7 @@
     "verse": 28,
     "lines": [
       {
-        "id": "108:30",
+        "id": "108:30b",
         "page": 108,
         "line": 30,
         "text": "yea they dearst not m",
@@ -968,7 +968,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/108"
       },
       {
-        "id": "109:1",
+        "id": "109:1a",
         "page": 109,
         "line": 1,
         "text": "known which never was nor vever will be",
@@ -983,7 +983,7 @@
     "verse": 29,
     "lines": [
       {
-        "id": "109:1",
+        "id": "109:1b",
         "page": 109,
         "line": 1,
         "text": "now when the high Priest & the ",
@@ -1023,7 +1023,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/109"
       },
       {
-        "id": "109:6",
+        "id": "109:6a",
         "page": 109,
         "line": 6,
         "text": "Alma & the Chief Judge which was governor over all the land",
@@ -1038,7 +1038,7 @@
     "verse": 30,
     "lines": [
       {
-        "id": "109:6",
+        "id": "109:6b",
         "page": 109,
         "line": 6,
         "text": "& it came to pass ",
@@ -1085,7 +1085,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/109"
       },
       {
-        "id": "109:11",
+        "id": "109:11a",
         "page": 109,
         "line": 11,
         "text": "itions of their fathers for the sake of glutting in the labours of the People",
@@ -1100,7 +1100,7 @@
     "verse": 32,
     "lines": [
       {
-        "id": "109:11",
+        "id": "109:11b",
         "page": 109,
         "line": 11,
         "text": "now Alma ",
@@ -1140,7 +1140,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/109"
       },
       {
-        "id": "109:16",
+        "id": "109:16a",
         "page": 109,
         "line": 16,
         "text": "People",
@@ -1154,7 +1154,7 @@
     "verse": 33,
     "lines": [
       {
-        "id": "109:16",
+        "id": "109:16b",
         "page": 109,
         "line": 16,
         "text": "& not withstanding the many labours which I have performed in the ",
@@ -1178,7 +1178,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/109"
       },
       {
-        "id": "109:19",
+        "id": "109:19a",
         "page": 109,
         "line": 19,
         "text": "we have received only according to law for our time",
@@ -1192,7 +1192,7 @@
     "verse": 34,
     "lines": [
       {
-        "id": "109:19",
+        "id": "109:19b",
         "page": 109,
         "line": 19,
         "text": "& now if we do not ",
@@ -1216,7 +1216,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/109"
       },
       {
-        "id": "109:22",
+        "id": "109:22a",
         "page": 109,
         "line": 22,
         "text": "have rejoiceings in the joy of our Brethren",
@@ -1231,7 +1231,7 @@
     "verse": 35,
     "lines": [
       {
-        "id": "109:22",
+        "id": "109:22b",
         "page": 109,
         "line": 22,
         "text": "then why sayest thou ",
@@ -1254,7 +1254,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/109"
       },
       {
-        "id": "109:25",
+        "id": "109:25a",
         "page": 109,
         "line": 25,
         "text": "that causeth such joy in their hearts",
@@ -1269,7 +1269,7 @@
     "verse": 36,
     "lines": [
       {
-        "id": "109:25",
+        "id": "109:25b",
         "page": 109,
         "line": 25,
         "text": "& Korihor answered him yea",
@@ -1283,14 +1283,14 @@
     "verse": 37,
     "lines": [
       {
-        "id": "109:25",
+        "id": "109:25c",
         "page": 109,
         "line": 25,
         "text": "then Al",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/109"
       },
       {
-        "id": "109:26",
+        "id": "109:26a",
         "page": 109,
         "line": 26,
         "text": "ma sayest unto him believest thou that there is a God",
@@ -1305,7 +1305,7 @@
     "verse": 38,
     "lines": [
       {
-        "id": "109:26",
+        "id": "109:26b",
         "page": 109,
         "line": 26,
         "text": "& he answered nay",
@@ -1335,7 +1335,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/109"
       },
       {
-        "id": "109:29",
+        "id": "109:29a",
         "page": 109,
         "line": 29,
         "text": "Christ shall come",
@@ -1349,7 +1349,7 @@
     "verse": 40,
     "lines": [
       {
-        "id": "109:29",
+        "id": "109:29b",
         "page": 109,
         "line": 29,
         "text": "& now what evidence have ye that there is no God or that ",
@@ -1365,7 +1365,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/109"
       },
       {
-        "id": "109:31",
+        "id": "109:31a",
         "page": 109,
         "line": 31,
         "text": "word only",
@@ -1379,7 +1379,7 @@
     "verse": 41,
     "lines": [
       {
-        "id": "109:31",
+        "id": "109:31b",
         "page": 109,
         "line": 31,
         "text": "but behold I have all things as a testimony that these things are ",
@@ -1394,7 +1394,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/109"
       },
       {
-        "id": "109:33",
+        "id": "109:33a",
         "page": 109,
         "line": 33,
         "text": "will ye deny them believest thou that these things are true",
@@ -1408,7 +1408,7 @@
     "verse": 42,
     "lines": [
       {
-        "id": "109:33",
+        "id": "109:33b",
         "page": 109,
         "line": 33,
         "text": "behold I know ",
@@ -1438,7 +1438,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/110"
       },
       {
-        "id": "110:2",
+        "id": "110:2a",
         "page": 110,
         "line": 2,
         "text": "that he may destroy the children of God",
@@ -1453,7 +1453,7 @@
     "verse": 43,
     "lines": [
       {
-        "id": "110:2",
+        "id": "110:2b",
         "page": 110,
         "line": 2,
         "text": "& now Korihor sayeth unto Almaif thou wilt shew me a sign that I may be convinced that there is a God yea ",
@@ -1469,7 +1469,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/110"
       },
       {
-        "id": "110:4",
+        "id": "110:4a",
         "page": 110,
         "line": 4,
         "text": "thy words",
@@ -1484,7 +1484,7 @@
     "verse": 44,
     "lines": [
       {
-        "id": "110:4",
+        "id": "110:4b",
         "page": 110,
         "line": 4,
         "text": "but Alma sayeth unto him thou hast had signs enough will ye tem",
@@ -1524,7 +1524,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/110"
       },
       {
-        "id": "110:9",
+        "id": "110:9a",
         "page": 110,
         "line": 9,
         "text": "in their regular form doth witness that there is a supreme Creator",
@@ -1539,7 +1539,7 @@
     "verse": 45,
     "lines": [
       {
-        "id": "110:9",
+        "id": "110:9b",
         "page": 110,
         "line": 9,
         "text": "& yet do ye ",
@@ -1562,7 +1562,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/110"
       },
       {
-        "id": "110:12",
+        "id": "110:12a",
         "page": 110,
         "line": 12,
         "text": "except ye shall shew me a sign",
@@ -1577,7 +1577,7 @@
     "verse": 46,
     "lines": [
       {
-        "id": "110:12",
+        "id": "110:12b",
         "page": 110,
         "line": 12,
         "text": "& now it came to pass that Alma said unto him ",
@@ -1592,7 +1592,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/110"
       },
       {
-        "id": "110:14",
+        "id": "110:14a",
         "page": 110,
         "line": 14,
         "text": "spirit of the truth that thy soul may be destroid",
@@ -1607,7 +1607,7 @@
     "verse": 47,
     "lines": [
       {
-        "id": "110:14",
+        "id": "110:14b",
         "page": 110,
         "line": 14,
         "text": "but behold it is better that ",
@@ -1647,7 +1647,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/110"
       },
       {
-        "id": "110:19",
+        "id": "110:19a",
         "page": 110,
         "line": 19,
         "text": "shall not deceive this People any more",
@@ -1662,7 +1662,7 @@
     "verse": 48,
     "lines": [
       {
-        "id": "110:19",
+        "id": "110:19b",
         "page": 110,
         "line": 19,
         "text": "now Korihor sayeth unto him I do not ",
@@ -1685,7 +1685,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/110"
       },
       {
-        "id": "110:22",
+        "id": "110:22a",
         "page": 110,
         "line": 22,
         "text": "lieve",
@@ -1700,7 +1700,7 @@
     "verse": 49,
     "lines": [
       {
-        "id": "110:22",
+        "id": "110:22b",
         "page": 110,
         "line": 22,
         "text": "now Alma sayeth unto him this will I gieve unto thee for a sign that thou sh",
@@ -1714,7 +1714,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/110"
       },
       {
-        "id": "110:24",
+        "id": "110:24a",
         "page": 110,
         "line": 24,
         "text": "ye shall be struck domb that ye shall no more have utterance",
@@ -1729,7 +1729,7 @@
     "verse": 50,
     "lines": [
       {
-        "id": "110:24",
+        "id": "110:24b",
         "page": 110,
         "line": 24,
         "text": "now when Alma ",
@@ -1744,7 +1744,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/110"
       },
       {
-        "id": "110:26",
+        "id": "110:26a",
         "page": 110,
         "line": 26,
         "text": "according to the words of Alma",
@@ -1759,7 +1759,7 @@
     "verse": 51,
     "lines": [
       {
-        "id": "110:26",
+        "id": "110:26b",
         "page": 110,
         "line": 26,
         "text": "& now when the chief Judge saw this he put fo",
@@ -1790,7 +1790,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/110"
       },
       {
-        "id": "110:30",
+        "id": "110:30a",
         "page": 110,
         "line": 30,
         "text": "to you a sign & now will ye dispute more",
@@ -1804,7 +1804,7 @@
     "verse": 52,
     "lines": [
       {
-        "id": "110:30",
+        "id": "110:30b",
         "page": 110,
         "line": 30,
         "text": "& Korihor put forth his hand & w",
@@ -1825,7 +1825,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/110"
       },
       {
-        "id": "110:33",
+        "id": "110:33a",
         "page": 110,
         "line": 33,
         "text": "that there was a God",
@@ -1839,7 +1839,7 @@
     "verse": 53,
     "lines": [
       {
-        "id": "110:33",
+        "id": "110:33b",
         "page": 110,
         "line": 33,
         "text": "but behold the Devil hath deceived me for he appeared ",
@@ -1893,7 +1893,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/111"
       },
       {
-        "id": "111:6",
+        "id": "111:6a",
         "page": 111,
         "line": 6,
         "text": "me",
@@ -1907,7 +1907,7 @@
     "verse": 54,
     "lines": [
       {
-        "id": "111:6",
+        "id": "111:6b",
         "page": 111,
         "line": 6,
         "text": "now when he had said this he besaught that Alma should pray unto God that the ",
@@ -1915,7 +1915,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/111"
       },
       {
-        "id": "111:7",
+        "id": "111:7a",
         "page": 111,
         "line": 7,
         "text": "curse might be taken from him",
@@ -1929,7 +1929,7 @@
     "verse": 55,
     "lines": [
       {
-        "id": "111:7",
+        "id": "111:7b",
         "page": 111,
         "line": 7,
         "text": "but Alma said unto him if this curse should be ",
@@ -1945,7 +1945,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/111"
       },
       {
-        "id": "111:9",
+        "id": "111:9a",
         "page": 111,
         "line": 9,
         "text": "be unto thee even as the Lord will",
@@ -1960,7 +1960,7 @@
     "verse": 56,
     "lines": [
       {
-        "id": "111:9",
+        "id": "111:9b",
         "page": 111,
         "line": 9,
         "text": "& it came to pass that the curse was not taken off ",
@@ -2007,7 +2007,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/111"
       },
       {
-        "id": "111:14",
+        "id": "111:14a",
         "page": 111,
         "line": 14,
         "text": "that they must speedily repent lest the same judgments would come unto them",
@@ -2022,7 +2022,7 @@
     "verse": 58,
     "lines": [
       {
-        "id": "111:14",
+        "id": "111:14b",
         "page": 111,
         "line": 14,
         "text": "& it came ",
@@ -2046,7 +2046,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/111"
       },
       {
-        "id": "111:17",
+        "id": "111:17a",
         "page": 111,
         "line": 17,
         "text": "did go about from house to house a beging food for his support",
@@ -2060,7 +2060,7 @@
     "verse": 59,
     "lines": [
       {
-        "id": "111:17",
+        "id": "111:17b",
         "page": 111,
         "line": 17,
         "text": "& it came to pass that as he ",
@@ -2084,7 +2084,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/111"
       },
       {
-        "id": "111:20",
+        "id": "111:20a",
         "page": 111,
         "line": 20,
         "text": "amongst them behold he was ran upon & troden down even untill he was dead",
@@ -2099,7 +2099,7 @@
     "verse": 60,
     "lines": [
       {
-        "id": "111:20",
+        "id": "111:20b",
         "page": 111,
         "line": 20,
         "text": "& ",
@@ -2120,7 +2120,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/111"
       },
       {
-        "id": "111:23",
+        "id": "111:23a",
         "page": 111,
         "line": 23,
         "text": "to Hell",

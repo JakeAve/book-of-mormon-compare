@@ -12,7 +12,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/104"
       },
       {
-        "id": "104:10",
+        "id": "104:10a",
         "page": 104,
         "line": 10,
         "text": "and a branch shall grow out of his roots;",
@@ -26,7 +26,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "104:10",
+        "id": "104:10b",
         "page": 104,
         "line": 10,
         "text": "and the spirit of the ",
@@ -47,7 +47,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/104"
       },
       {
-        "id": "104:13",
+        "id": "104:13a",
         "page": 104,
         "line": 13,
         "text": "and of the fear of the Lord;",
@@ -61,7 +61,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "104:13",
+        "id": "104:13b",
         "page": 104,
         "line": 13,
         "text": "and shall make him of quick under",
@@ -82,7 +82,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/104"
       },
       {
-        "id": "104:16",
+        "id": "104:16a",
         "page": 104,
         "line": 16,
         "text": "ears:",
@@ -96,7 +96,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "104:16",
+        "id": "104:16b",
         "page": 104,
         "line": 16,
         "text": "but with righteousness shall he judge the poor, and re",
@@ -117,7 +117,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/104"
       },
       {
-        "id": "104:19",
+        "id": "104:19a",
         "page": 104,
         "line": 19,
         "text": "lips shall he slay the wicked.",
@@ -131,14 +131,14 @@
     "verse": 5,
     "lines": [
       {
-        "id": "104:19",
+        "id": "104:19b",
         "page": 104,
         "line": 19,
         "text": "And righteousness shall be the ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/104"
       },
       {
-        "id": "104:20",
+        "id": "104:20a",
         "page": 104,
         "line": 20,
         "text": "girdle of his loins, and faithfulness the girdle of his reins.",
@@ -152,7 +152,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "104:20",
+        "id": "104:20b",
         "page": 104,
         "line": 20,
         "text": "The ",
@@ -162,7 +162,21 @@
         "id": "104:21",
         "page": 104,
         "line": 21,
-        "text": "wolf also shall dwell with the lamb, and the leopard shall lie",
+        "text": "wolf also shall dwell with the lamb, and the leopard shall lie ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/104"
+      },
+      {
+        "id": "104:22",
+        "page": 104,
+        "line": 22,
+        "text": "down with the kid; and the calf and the young lion and the ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/104"
+      },
+      {
+        "id": "104:23a",
+        "page": 104,
+        "line": 23,
+        "text": "fatling together; and a little child shall lead them.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/104"
       }
     ]
@@ -173,17 +187,10 @@
     "verse": 7,
     "lines": [
       {
-        "id": "104:22",
-        "page": 104,
-        "line": 22,
-        "text": "down with the kid; and the calf and the young lion and the ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/104"
-      },
-      {
-        "id": "104:23",
+        "id": "104:23b",
         "page": 104,
         "line": 23,
-        "text": "fatling together; and a little child shall lead them. And the ",
+        "text": "And the ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/104"
       },
       {
@@ -194,31 +201,38 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/104"
       },
       {
-        "id": "104:25",
+        "id": "104:25a",
         "page": 104,
         "line": 25,
-        "text": "together; and the lion shall eat straw like the ox. And the ",
+        "text": "together; and the lion shall eat straw like the ox.",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/104"
+      }
+    ]
+  },
+  {
+    "book": "2-ne",
+    "chapter": 21,
+    "verse": 8,
+    "lines": [
+      {
+        "id": "104:25b",
+        "page": 104,
+        "line": 25,
+        "text": "And the ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/104"
       },
       {
         "id": "104:26",
         "page": 104,
         "line": 26,
-        "text": "sucking child shall play on the hole of the asp, and the wea ",
+        "text": "sucking child shall play on the hole of the asp, and the wea",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/104"
       },
       {
-        "id": "104:27",
+        "id": "104:27a",
         "page": 104,
         "line": 27,
-        "text": "ned child shall put his hand on the cockatrice’s den. They ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/104"
-      },
-      {
-        "id": "104:28",
-        "page": 104,
-        "line": 28,
-        "text": "shall not hurt nor destroy in all my holy mountain: for the",
+        "text": "ned child shall put his hand on the cockatrice’s den.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/104"
       }
     ]
@@ -228,6 +242,20 @@
     "chapter": 21,
     "verse": 9,
     "lines": [
+      {
+        "id": "104:27b",
+        "page": 104,
+        "line": 27,
+        "text": "They ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/104"
+      },
+      {
+        "id": "104:28",
+        "page": 104,
+        "line": 28,
+        "text": "shall not hurt nor destroy in all my holy mountain: for the ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/104"
+      },
       {
         "id": "104:29",
         "page": 104,
@@ -264,7 +292,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/104"
       },
       {
-        "id": "104:33",
+        "id": "104:33a",
         "page": 104,
         "line": 33,
         "text": "and his rest shall be glorious.",
@@ -278,7 +306,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "104:33",
+        "id": "104:33b",
         "page": 104,
         "line": 33,
         "text": "And it shall come to pass in ",
@@ -313,7 +341,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/104"
       },
       {
-        "id": "104:38",
+        "id": "104:38a",
         "page": 104,
         "line": 38,
         "text": "and from the islands of the sea.",
@@ -327,7 +355,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "104:38",
+        "id": "104:38b",
         "page": 104,
         "line": 38,
         "text": "And he shall set up an en",
@@ -348,7 +376,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/104"
       },
       {
-        "id": "104:41",
+        "id": "104:41a",
         "page": 104,
         "line": 41,
         "text": "ners of the earth.",
@@ -362,7 +390,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "104:41",
+        "id": "104:41b",
         "page": 104,
         "line": 41,
         "text": "The envy of Ephraim also shall depart, and ",
@@ -376,7 +404,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/104"
       },
       {
-        "id": "104:43",
+        "id": "104:43a",
         "page": 104,
         "line": 43,
         "text": "envy Judah, and Judah shall not vex Ephraim.",
@@ -390,7 +418,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "104:43",
+        "id": "104:43b",
         "page": 104,
         "line": 43,
         "text": "But they ",
@@ -418,7 +446,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/105"
       },
       {
-        "id": "105:4",
+        "id": "105:4a",
         "page": 105,
         "line": 4,
         "text": "shall obey them.",
@@ -432,7 +460,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "105:4",
+        "id": "105:4b",
         "page": 105,
         "line": 4,
         "text": "And the Lord shall utterly destroy the tongue ",
@@ -453,7 +481,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/105"
       },
       {
-        "id": "105:7",
+        "id": "105:7a",
         "page": 105,
         "line": 7,
         "text": "and make men go over dry shod.",
@@ -467,7 +495,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "105:7",
+        "id": "105:7b",
         "page": 105,
         "line": 7,
         "text": "And there shall be a high",

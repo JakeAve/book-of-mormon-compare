@@ -33,7 +33,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/459"
       },
       {
-        "id": "459:24",
+        "id": "459:24a",
         "page": 459,
         "line": 24,
         "text": "they went,",
@@ -47,7 +47,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "459:24",
+        "id": "459:24b",
         "page": 459,
         "line": 24,
         "text": "behold, now we will know of a surety, ",
@@ -159,7 +159,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/459"
       },
       {
-        "id": "459:38",
+        "id": "459:38a",
         "page": 459,
         "line": 38,
         "text": "phi had spoken concerning the chief judge;",
@@ -173,7 +173,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "459:38",
+        "id": "459:38b",
         "page": 459,
         "line": 38,
         "text": "but now ",
@@ -201,10 +201,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/459"
       },
       {
-        "id": "459:42",
+        "id": "459:42a",
         "page": 459,
         "line": 42,
-        "text": "quake, and had fallen to the earth. Now",
+        "text": "quake, and had fallen to the earth.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/459"
       }
     ]
@@ -215,10 +215,10 @@
     "verse": 6,
     "lines": [
       {
-        "id": "459:42",
+        "id": "459:42b",
         "page": 459,
         "line": 42,
-        "text": "immediate",
+        "text": "Now immediate",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/459"
       },
       {
@@ -243,7 +243,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/459"
       },
       {
-        "id": "459:46",
+        "id": "459:46a",
         "page": 459,
         "line": 46,
         "text": "cry of murder among them.",
@@ -257,7 +257,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "459:46",
+        "id": "459:46b",
         "page": 459,
         "line": 46,
         "text": "And behold the people ",
@@ -369,7 +369,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/460"
       },
       {
-        "id": "460:13",
+        "id": "460:13a",
         "page": 460,
         "line": 13,
         "text": "were cast into prison.",
@@ -383,7 +383,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "460:13",
+        "id": "460:13b",
         "page": 460,
         "line": 13,
         "text": "And it came to pass that on ",
@@ -404,7 +404,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/460"
       },
       {
-        "id": "460:16",
+        "id": "460:16a",
         "page": 460,
         "line": 16,
         "text": "chief judge, who had been slain.",
@@ -418,7 +418,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "460:16",
+        "id": "460:16b",
         "page": 460,
         "line": 16,
         "text": "And thus were also ",
@@ -495,7 +495,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/460"
       },
       {
-        "id": "460:26",
+        "id": "460:26a",
         "page": 460,
         "line": 26,
         "text": "cast into prison.",
@@ -509,7 +509,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "460:26",
+        "id": "460:26b",
         "page": 460,
         "line": 26,
         "text": "And it came to pass that the judges ",
@@ -544,7 +544,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/460"
       },
       {
-        "id": "460:31",
+        "id": "460:31a",
         "page": 460,
         "line": 31,
         "text": "had done, saying,",
@@ -558,7 +558,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "460:31",
+        "id": "460:31b",
         "page": 460,
         "line": 31,
         "text": "we ran and came to the place of the ",
@@ -624,14 +624,7 @@
         "id": "460:39",
         "page": 460,
         "line": 39,
-        "text": "according to the words of Nephi. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/460"
-      },
-      {
-        "id": "460:40",
-        "page": 460,
-        "line": 40,
-        "text": "And now it came to pass, that the judges did ex",
+        "text": "according to the words of Nephi.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/460"
       }
     ]
@@ -641,6 +634,13 @@
     "chapter": 9,
     "verse": 16,
     "lines": [
+      {
+        "id": "460:40",
+        "page": 460,
+        "line": 40,
+        "text": "And now it came to pass, that the judges did ex",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/460"
+      },
       {
         "id": "460:41",
         "page": 460,
@@ -677,7 +677,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/460"
       },
       {
-        "id": "460:46",
+        "id": "460:46a",
         "page": 460,
         "line": 46,
         "text": "to be a great man, chosen of God, and a prophet;",
@@ -691,7 +691,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "460:46",
+        "id": "460:46b",
         "page": 460,
         "line": 46,
         "text": "and ",
@@ -712,7 +712,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/461"
       },
       {
-        "id": "461:2",
+        "id": "461:2a",
         "page": 461,
         "line": 2,
         "text": "derer of this judge.",
@@ -726,7 +726,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "461:2",
+        "id": "461:2b",
         "page": 461,
         "line": 2,
         "text": "And it came to pass that the five ",
@@ -838,7 +838,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/461"
       },
       {
-        "id": "461:16",
+        "id": "461:16a",
         "page": 461,
         "line": 16,
         "text": "hast made with him.",
@@ -852,7 +852,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "461:16",
+        "id": "461:16b",
         "page": 461,
         "line": 16,
         "text": "But Nephi said unto them, O ",
@@ -880,7 +880,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/461"
       },
       {
-        "id": "461:20",
+        "id": "461:20a",
         "page": 461,
         "line": 20,
         "text": "your way of sin?",
@@ -894,7 +894,7 @@
     "verse": 22,
     "lines": [
       {
-        "id": "461:20",
+        "id": "461:20b",
         "page": 461,
         "line": 20,
         "text": "O ye had ought to begin to howl ",
@@ -964,7 +964,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/461"
       },
       {
-        "id": "461:29",
+        "id": "461:29a",
         "page": 461,
         "line": 29,
         "text": "among you.",
@@ -978,7 +978,7 @@
     "verse": 24,
     "lines": [
       {
-        "id": "461:29",
+        "id": "461:29b",
         "page": 461,
         "line": 29,
         "text": "And because I have done this, ye say ",
@@ -999,7 +999,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/461"
       },
       {
-        "id": "461:32",
+        "id": "461:32a",
         "page": 461,
         "line": 32,
         "text": "are angry with me, and seek to destroy my life.",
@@ -1013,7 +1013,7 @@
     "verse": 25,
     "lines": [
       {
-        "id": "461:32",
+        "id": "461:32b",
         "page": 461,
         "line": 32,
         "text": "And ",
@@ -1027,10 +1027,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/461"
       },
       {
-        "id": "461:34",
+        "id": "461:34a",
         "page": 461,
         "line": 34,
-        "text": "see if ye will in this thing seek to destroy me. Be",
+        "text": "see if ye will in this thing seek to destroy me.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/461"
       }
     ]
@@ -1041,6 +1041,13 @@
     "verse": 26,
     "lines": [
       {
+        "id": "461:34b",
+        "page": 461,
+        "line": 34,
+        "text": "Be",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/461"
+      },
+      {
         "id": "461:35",
         "page": 461,
         "line": 35,
@@ -1048,7 +1055,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/461"
       },
       {
-        "id": "461:36",
+        "id": "461:36a",
         "page": 461,
         "line": 36,
         "text": "is the brother of Seezoram, and say unto him,",
@@ -1062,7 +1069,7 @@
     "verse": 27,
     "lines": [
       {
-        "id": "461:36",
+        "id": "461:36b",
         "page": 461,
         "line": 36,
         "text": "has Ne",
@@ -1090,7 +1097,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/461"
       },
       {
-        "id": "461:40",
+        "id": "461:40a",
         "page": 461,
         "line": 40,
         "text": "your brother?",
@@ -1104,14 +1111,14 @@
     "verse": 28,
     "lines": [
       {
-        "id": "461:40",
+        "id": "461:40b",
         "page": 461,
         "line": 40,
         "text": "And behold, he shall say unto you, ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/461"
       },
       {
-        "id": "461:41",
+        "id": "461:41a",
         "page": 461,
         "line": 41,
         "text": "nay.",
@@ -1125,14 +1132,14 @@
     "verse": 29,
     "lines": [
       {
-        "id": "461:41",
+        "id": "461:41b",
         "page": 461,
         "line": 41,
         "text": "And ye shall say unto him, have ye murdered ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/461"
       },
       {
-        "id": "461:42",
+        "id": "461:42a",
         "page": 461,
         "line": 42,
         "text": "your brother?",
@@ -1146,7 +1153,7 @@
     "verse": 30,
     "lines": [
       {
-        "id": "461:42",
+        "id": "461:42b",
         "page": 461,
         "line": 42,
         "text": "And he shall stand with fear, and wist ",
@@ -1174,7 +1181,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/461"
       },
       {
-        "id": "461:46",
+        "id": "461:46a",
         "page": 461,
         "line": 46,
         "text": "cent.",
@@ -1188,14 +1195,14 @@
     "verse": 31,
     "lines": [
       {
-        "id": "461:46",
+        "id": "461:46b",
         "page": 461,
         "line": 46,
         "text": "But behold, ye shall examine him, and ye shall ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/461"
       },
       {
-        "id": "462:1",
+        "id": "462:1a",
         "page": 462,
         "line": 1,
         "text": "find blood upon the skirts of his cloak.",
@@ -1209,7 +1216,7 @@
     "verse": 32,
     "lines": [
       {
-        "id": "462:1",
+        "id": "462:1b",
         "page": 462,
         "line": 1,
         "text": "And when ",
@@ -1230,7 +1237,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/462"
       },
       {
-        "id": "462:4",
+        "id": "462:4a",
         "page": 462,
         "line": 4,
         "text": "your brother?",
@@ -1244,14 +1251,14 @@
     "verse": 33,
     "lines": [
       {
-        "id": "462:4",
+        "id": "462:4b",
         "page": 462,
         "line": 4,
         "text": "And then shall he tremble, and shall ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/462"
       },
       {
-        "id": "462:5",
+        "id": "462:5a",
         "page": 462,
         "line": 5,
         "text": "look pale, even as if death had come upon him.",
@@ -1265,7 +1272,7 @@
     "verse": 34,
     "lines": [
       {
-        "id": "462:5",
+        "id": "462:5b",
         "page": 462,
         "line": 5,
         "text": "And ",
@@ -1286,7 +1293,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/462"
       },
       {
-        "id": "462:8",
+        "id": "462:8a",
         "page": 462,
         "line": 8,
         "text": "know that thou art guilty.",
@@ -1300,7 +1307,7 @@
     "verse": 35,
     "lines": [
       {
-        "id": "462:8",
+        "id": "462:8b",
         "page": 462,
         "line": 8,
         "text": "And then shall greater ",
@@ -1398,7 +1405,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/462"
       },
       {
-        "id": "462:20",
+        "id": "462:20a",
         "page": 462,
         "line": 20,
         "text": "the words he did confess.",
@@ -1412,7 +1419,7 @@
     "verse": 38,
     "lines": [
       {
-        "id": "462:20",
+        "id": "462:20b",
         "page": 462,
         "line": 20,
         "text": "And he was brought to ",
@@ -1433,7 +1440,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/462"
       },
       {
-        "id": "462:23",
+        "id": "462:23a",
         "page": 462,
         "line": 23,
         "text": "Nephi.",
@@ -1447,7 +1454,7 @@
     "verse": 39,
     "lines": [
       {
-        "id": "462:23",
+        "id": "462:23b",
         "page": 462,
         "line": 23,
         "text": "And there were some of the Nephites who ",
@@ -1475,7 +1482,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/462"
       },
       {
-        "id": "462:27",
+        "id": "462:27a",
         "page": 462,
         "line": 27,
         "text": "prison.",
@@ -1489,14 +1496,14 @@
     "verse": 40,
     "lines": [
       {
-        "id": "462:27",
+        "id": "462:27b",
         "page": 462,
         "line": 27,
         "text": "And now there were some among the peo",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/462"
       },
       {
-        "id": "462:28",
+        "id": "462:28a",
         "page": 462,
         "line": 28,
         "text": "ple, who said that Nephi was a prophet;",
@@ -1510,7 +1517,7 @@
     "verse": 41,
     "lines": [
       {
-        "id": "462:28",
+        "id": "462:28b",
         "page": 462,
         "line": 28,
         "text": "and there ",

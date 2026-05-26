@@ -27,7 +27,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/11"
       },
       {
-        "id": "11:41",
+        "id": "11:41a",
         "page": 11,
         "line": 41,
         "text": "uppon these plates",
@@ -41,7 +41,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "11:41",
+        "id": "11:41b",
         "page": 11,
         "line": 41,
         "text": "and now as i have spoken conser",
@@ -92,10 +92,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/11"
       },
       {
-        "id": "11:48",
+        "id": "11:48a",
         "page": 11,
         "line": 48,
-        "text": "plates of neph never the less i have receivd a comm",
+        "text": "plates of neph",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/11"
       }
     ]
@@ -105,6 +105,13 @@
     "chapter": 9,
     "verse": 3,
     "lines": [
+      {
+        "id": "11:48b",
+        "page": 11,
+        "line": 48,
+        "text": "never the less i have receivd a comm",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/11"
+      },
       {
         "id": "11:49",
         "page": 11,
@@ -198,7 +205,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
       },
       {
-        "id": "12:6",
+        "id": "12:6a",
         "page": 12,
         "line": 6,
         "text": "Not",
@@ -212,7 +219,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "12:6",
+        "id": "12:6b",
         "page": 12,
         "line": 6,
         "text": "but the lord noweth all things from the beginning ",
@@ -236,15 +243,8 @@
         "id": "12:9",
         "page": 12,
         "line": 9,
-        "text": "unto the fulfilling of all his words and thus it is amen ",
-        "markdown": "unto the fulfilling of all his words and ~~this~~ [thus] it is amen ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
-      },
-      {
-        "id": "12:10",
-        "page": 12,
-        "line": 10,
-        "text": "Chapter 3rd.——",
+        "text": "unto the fulfilling of all his words and thus it is amen",
+        "markdown": "unto the fulfilling of all his words and ~~this~~ [thus] it is amen",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/12"
       }
     ]

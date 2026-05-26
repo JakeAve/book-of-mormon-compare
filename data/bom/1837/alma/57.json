@@ -33,7 +33,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/412"
       },
       {
-        "id": "412:27",
+        "id": "412:27a",
         "page": 412,
         "line": 27,
         "text": "us.",
@@ -47,7 +47,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "412:27",
+        "id": "412:27b",
         "page": 412,
         "line": 27,
         "text": "But I sent an epistle unto the king, that we ",
@@ -82,7 +82,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/412"
       },
       {
-        "id": "412:32",
+        "id": "412:32a",
         "page": 412,
         "line": 32,
         "text": "on exchange.",
@@ -96,7 +96,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "412:32",
+        "id": "412:32b",
         "page": 412,
         "line": 32,
         "text": "And Ammoron refused mine epistle, ",
@@ -117,7 +117,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/412"
       },
       {
-        "id": "412:35",
+        "id": "412:35a",
         "page": 412,
         "line": 35,
         "text": "Antiparah.",
@@ -131,7 +131,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "412:35",
+        "id": "412:35b",
         "page": 412,
         "line": 35,
         "text": "But the people of Antiparah did leave ",
@@ -152,7 +152,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/412"
       },
       {
-        "id": "412:38",
+        "id": "412:38a",
         "page": 412,
         "line": 38,
         "text": "Antiparah fell into our hands.",
@@ -166,7 +166,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "412:38",
+        "id": "412:38b",
         "page": 412,
         "line": 38,
         "text": "And thus ended the ",
@@ -176,14 +176,7 @@
         "id": "412:39",
         "page": 412,
         "line": 39,
-        "text": "twenty and eighth year of the reign of the judges. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/412"
-      },
-      {
-        "id": "412:40",
-        "page": 412,
-        "line": 40,
-        "text": "And it came to pass that in the commencement of",
+        "text": "twenty and eighth year of the reign of the judges.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/412"
       }
     ]
@@ -193,6 +186,13 @@
     "chapter": 57,
     "verse": 6,
     "lines": [
+      {
+        "id": "412:40",
+        "page": 412,
+        "line": 40,
+        "text": "And it came to pass that in the commencement of ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/412"
+      },
       {
         "id": "412:41",
         "page": 412,
@@ -271,7 +271,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/413"
       },
       {
-        "id": "413:5",
+        "id": "413:5a",
         "page": 413,
         "line": 5,
         "text": "the city Cumeni.",
@@ -285,7 +285,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "413:5",
+        "id": "413:5b",
         "page": 413,
         "line": 5,
         "text": "And now behold, I will shew unto ",
@@ -362,7 +362,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/413"
       },
       {
-        "id": "413:15",
+        "id": "413:15a",
         "page": 413,
         "line": 15,
         "text": "tempted this, their blood was spilt.",
@@ -376,7 +376,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "413:15",
+        "id": "413:15b",
         "page": 413,
         "line": 15,
         "text": "At length their ",
@@ -404,7 +404,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/413"
       },
       {
-        "id": "413:19",
+        "id": "413:19a",
         "page": 413,
         "line": 19,
         "text": "their provisions.",
@@ -418,7 +418,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "413:19",
+        "id": "413:19b",
         "page": 413,
         "line": 19,
         "text": "And notwithstanding the Laman",
@@ -495,7 +495,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/413"
       },
       {
-        "id": "413:29",
+        "id": "413:29a",
         "page": 413,
         "line": 29,
         "text": "obtaining the city Cumeni.",
@@ -509,7 +509,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "413:29",
+        "id": "413:29b",
         "page": 413,
         "line": 29,
         "text": "But it came to pass that ",
@@ -537,7 +537,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/413"
       },
       {
-        "id": "413:33",
+        "id": "413:33a",
         "page": 413,
         "line": 33,
         "text": "death.",
@@ -551,7 +551,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "413:33",
+        "id": "413:33b",
         "page": 413,
         "line": 33,
         "text": "For behold, they would break out in great ",
@@ -586,7 +586,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/413"
       },
       {
-        "id": "413:38",
+        "id": "413:38a",
         "page": 413,
         "line": 38,
         "text": "oners of war;",
@@ -600,7 +600,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "413:38",
+        "id": "413:38b",
         "page": 413,
         "line": 38,
         "text": "therefore it became expedient for us, ",
@@ -635,7 +635,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/413"
       },
       {
-        "id": "413:43",
+        "id": "413:43a",
         "page": 413,
         "line": 43,
         "text": "we had taken from the Lamanites.",
@@ -649,7 +649,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "413:43",
+        "id": "413:43b",
         "page": 413,
         "line": 43,
         "text": "And now, in ",
@@ -775,7 +775,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/414"
       },
       {
-        "id": "414:13",
+        "id": "414:13a",
         "page": 414,
         "line": 13,
         "text": "as they were about to overpower us.",
@@ -789,7 +789,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "414:13",
+        "id": "414:13b",
         "page": 414,
         "line": 13,
         "text": "But behold, my ",
@@ -817,7 +817,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/414"
       },
       {
-        "id": "414:17",
+        "id": "414:17a",
         "page": 414,
         "line": 17,
         "text": "posed them;",
@@ -831,7 +831,7 @@
     "verse": 20,
     "lines": [
       {
-        "id": "414:17",
+        "id": "414:17b",
         "page": 414,
         "line": 17,
         "text": "and as the remainder of our army were ",
@@ -887,7 +887,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/414"
       },
       {
-        "id": "414:24",
+        "id": "414:24a",
         "page": 414,
         "line": 24,
         "text": "their mothers had taught them.",
@@ -901,7 +901,7 @@
     "verse": 22,
     "lines": [
       {
-        "id": "414:24",
+        "id": "414:24b",
         "page": 414,
         "line": 24,
         "text": "And now behold, it ",
@@ -936,7 +936,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/414"
       },
       {
-        "id": "414:29",
+        "id": "414:29a",
         "page": 414,
         "line": 29,
         "text": "of Manti.",
@@ -950,7 +950,7 @@
     "verse": 23,
     "lines": [
       {
-        "id": "414:29",
+        "id": "414:29b",
         "page": 414,
         "line": 29,
         "text": "And we retained our city Cumeni, and ",
@@ -999,7 +999,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/414"
       },
       {
-        "id": "414:35",
+        "id": "414:35a",
         "page": 414,
         "line": 35,
         "text": "and caused that their wounds should be dressed.",
@@ -1013,7 +1013,7 @@
     "verse": 25,
     "lines": [
       {
-        "id": "414:35",
+        "id": "414:35b",
         "page": 414,
         "line": 35,
         "text": "And ",
@@ -1069,7 +1069,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/414"
       },
       {
-        "id": "414:43",
+        "id": "414:43a",
         "page": 414,
         "line": 43,
         "text": "many wounds,",
@@ -1083,7 +1083,7 @@
     "verse": 26,
     "lines": [
       {
-        "id": "414:43",
+        "id": "414:43b",
         "page": 414,
         "line": 43,
         "text": "And now, their preservation was as",
@@ -1139,7 +1139,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/415"
       },
       {
-        "id": "415:4",
+        "id": "415:4a",
         "page": 415,
         "line": 4,
         "text": "ous power.",
@@ -1153,7 +1153,7 @@
     "verse": 27,
     "lines": [
       {
-        "id": "415:4",
+        "id": "415:4b",
         "page": 415,
         "line": 4,
         "text": "Now this was the faith of these of whom ",
@@ -1216,7 +1216,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/415"
       },
       {
-        "id": "415:12",
+        "id": "415:12a",
         "page": 415,
         "line": 12,
         "text": "land of Zarahemla with.",
@@ -1230,7 +1230,7 @@
     "verse": 29,
     "lines": [
       {
-        "id": "415:12",
+        "id": "415:12b",
         "page": 415,
         "line": 12,
         "text": "Now Gid was the chief ",
@@ -1244,7 +1244,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/415"
       },
       {
-        "id": "415:14",
+        "id": "415:14a",
         "page": 415,
         "line": 14,
         "text": "them down to the land.",
@@ -1258,7 +1258,7 @@
     "verse": 30,
     "lines": [
       {
-        "id": "415:14",
+        "id": "415:14b",
         "page": 415,
         "line": 14,
         "text": "And now, these are the ",
@@ -1293,7 +1293,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/415"
       },
       {
-        "id": "415:19",
+        "id": "415:19a",
         "page": 415,
         "line": 19,
         "text": "the camp of the Lamanites.",
@@ -1307,7 +1307,7 @@
     "verse": 31,
     "lines": [
       {
-        "id": "415:19",
+        "id": "415:19b",
         "page": 415,
         "line": 19,
         "text": "And they cried unto us, ",
@@ -1363,7 +1363,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/415"
       },
       {
-        "id": "415:26",
+        "id": "415:26a",
         "page": 415,
         "line": 26,
         "text": "they did rise up in rebellion against us.",
@@ -1377,7 +1377,7 @@
     "verse": 33,
     "lines": [
       {
-        "id": "415:26",
+        "id": "415:26b",
         "page": 415,
         "line": 26,
         "text": "And it came ",
@@ -1419,7 +1419,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/415"
       },
       {
-        "id": "415:32",
+        "id": "415:32a",
         "page": 415,
         "line": 32,
         "text": "from us.",
@@ -1433,7 +1433,7 @@
     "verse": 34,
     "lines": [
       {
-        "id": "415:32",
+        "id": "415:32b",
         "page": 415,
         "line": 32,
         "text": "And behold, when they had fled, and we ",
@@ -1461,7 +1461,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/415"
       },
       {
-        "id": "415:36",
+        "id": "415:36a",
         "page": 415,
         "line": 36,
         "text": "preserving the city.",
@@ -1475,7 +1475,7 @@
     "verse": 35,
     "lines": [
       {
-        "id": "415:36",
+        "id": "415:36b",
         "page": 415,
         "line": 36,
         "text": "And behold, we are again deliv",

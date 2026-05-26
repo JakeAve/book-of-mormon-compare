@@ -1,71 +1,37 @@
-// Loader for the Original Manuscript transcript under data/bom/om/json/.
+import { DEFAULT_CURSOR_CONFIG, type SourceAdapter } from "./types.ts";
+
+// Original Manuscript (OM): the surviving fragments of the original dictation
+// transcript (~28% of the BoM by extent). OM's coverage is fragmentary and
+// jumps around canonical text — large stretches between surviving pages.
 //
-// Each file is one JS Papers manuscript page. The "chapter" field is the page
-// number; "verse" is the line on that page. Order = numeric file name.
-
-import type { SourceFragment } from "../types.ts";
-
-interface OMEntry {
-  text: string;
-  markdown?: string;
-  chapter: number; // page number
-  verse: number; // line on page
-  source?: string;
-}
-
-export interface LoadOMOptions {
-  /** Optional [startPage, endPage] inclusive filter. */
-  pageRange?: [number, number];
-}
-
-export async function loadOM(
-  root: string,
-  opts: LoadOMOptions = {},
-): Promise<SourceFragment[]> {
-  const files: number[] = [];
-  for await (const entry of Deno.readDir(root)) {
-    if (entry.isFile && entry.name.endsWith(".json")) {
-      files.push(parseInt(entry.name));
-    }
-  }
-  files.sort((a, b) => a - b);
-
-  const [lo, hi] = opts.pageRange ?? [-Infinity, Infinity];
-  const fragments: SourceFragment[] = [];
-  for (const page of files) {
-    if (page < lo || page > hi) continue;
-    const raw = await Deno.readTextFile(`${root}/${page}.json`);
-    const entries = JSON.parse(raw) as OMEntry[];
-    for (const e of entries) {
-      const baseMeta = {
-        page: e.chapter,
-        line: e.verse,
-        markdown: e.markdown,
-        source: e.source,
-      };
-      // Split on every "——" (chapter break marker). Each part except the last
-      // has an explicit chapter boundary after it — keep the "——" in the text
-      // so it remains visible in the output as an original manuscript marker,
-      // and mark those fragments with chapterBreakAtEnd so the aligner clamps
-      // them to their anchored verse and doesn't drift forward into the next chapter.
-      const parts = e.text.split("——");
-      for (let pi = 0; pi < parts.length; pi++) {
-        const isLast = pi === parts.length - 1;
-        // Re-attach the marker to the end of each non-final part.
-        const text = (isLast ? parts[pi] : parts[pi] + "——").trim();
-        if (!text || text === "——") continue;
-        const chapterBreakAtEnd = !isLast;
-        fragments.push({
-          id: pi === 0
-            ? `${e.chapter}:${e.verse}`
-            : `${e.chapter}:${e.verse}|p${pi}`,
-          text,
-          meta: chapterBreakAtEnd
-            ? { ...baseMeta, chapterBreakAtEnd: true }
-            : baseMeta,
-        });
-      }
-    }
-  }
-  return fragments;
-}
+// The verse-level LCS cursor that works for PM/1830/1837 doesn't work here:
+// it walks canon linearly, so OM source smears into canonical verses it has
+// no content for, and drift compounds. Instead OM uses the SCAFFOLD algorithm
+// — unique n-gram anchor pairs between source and target, monotone-LIS to
+// reject cross-overs, piecewise-linear interpolation between anchors. Adapted
+// from the legacy aligner1, which gets 89.9% token-purity on OM via this
+// approach.
+export const om: SourceAdapter = {
+  slug: "om",
+  label: "Original Manuscript",
+  raw: "data/raw/om",
+  out: "data/bom/om",
+  algorithm: "scaffold",
+  cursor: DEFAULT_CURSOR_CONFIG,
+  scaffoldMinTokensPerVerse: 3,
+  overrides: [
+    {
+      // OM page 196 line 30 reads `& it came to pass that when the servant
+      // of Helaman...`. Canonical hel 2:7 ends "...might murder Helaman."
+      // and canonical hel 2:8 starts "And when the servant of Helaman..." —
+      // neither contains "and it came to pass", so this is OM-specific
+      // filler with no canonical anchor. The scaffold puts `& it` with v7
+      // and the rest with v8, but the whole line semantically belongs with
+      // v8 (the filler introduces v8's content).
+      page: 196,
+      line: 30,
+      target: { book: "hel", chapter: 2, verse: 8 },
+      note: "OM filler `& it came to pass` between hel 2:7 and 2:8",
+    },
+  ],
+};

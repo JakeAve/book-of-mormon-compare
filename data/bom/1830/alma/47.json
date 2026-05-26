@@ -5,7 +5,7 @@
     "verse": 1,
     "lines": [
       {
-        "id": "360:1",
+        "id": "360:1b",
         "page": 360,
         "line": 1,
         "text": "Now we will return in our rec",
@@ -152,7 +152,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/360"
       },
       {
-        "id": "360:20",
+        "id": "360:20a",
         "page": 360,
         "line": 20,
         "text": "compel them to arms.",
@@ -166,7 +166,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "360:20",
+        "id": "360:20b",
         "page": 360,
         "line": 20,
         "text": "Now behold, this was the desire of ",
@@ -187,7 +187,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/360"
       },
       {
-        "id": "360:23",
+        "id": "360:23a",
         "page": 360,
         "line": 23,
         "text": "Lamanites.",
@@ -201,7 +201,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "360:23",
+        "id": "360:23b",
         "page": 360,
         "line": 23,
         "text": "And now he had got the command of those parts ",
@@ -299,7 +299,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/360"
       },
       {
-        "id": "360:35",
+        "id": "360:35a",
         "page": 360,
         "line": 35,
         "text": "preparation to battle.",
@@ -313,7 +313,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "360:35",
+        "id": "360:35b",
         "page": 360,
         "line": 35,
         "text": "Now it was not Amalickiah’s intention ",
@@ -341,17 +341,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/360"
       },
       {
-        "id": "360:39",
+        "id": "360:39a",
         "page": 360,
         "line": 39,
-        "text": "head, and dethrone the king, and take possession of the king",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/360"
-      },
-      {
-        "id": "360:40",
-        "page": 360,
-        "line": 40,
-        "text": "dom.",
+        "text": "head, and dethrone the king, and take possession of the",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/360"
       }
     ]
@@ -362,10 +355,17 @@
     "verse": 9,
     "lines": [
       {
+        "id": "360:39b",
+        "page": 360,
+        "line": 39,
+        "text": "king ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/360"
+      },
+      {
         "id": "360:40",
         "page": 360,
         "line": 40,
-        "text": "And behold, it came to pass that he caused his army to ",
+        "text": "dom. And behold, it came to pass that he caused his army to ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/360"
       },
       {
@@ -373,6 +373,13 @@
         "page": 360,
         "line": 41,
         "text": "pitch their tents in the valley which was near the mount Anti",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/360"
+      },
+      {
+        "id": "360:42a",
+        "page": 360,
+        "line": 42,
+        "text": "pas.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/360"
       }
     ]
@@ -383,10 +390,10 @@
     "verse": 10,
     "lines": [
       {
-        "id": "360:42",
+        "id": "360:42b",
         "page": 360,
         "line": 42,
-        "text": "pas. And it came to pass that when it was night, he sent a ",
+        "text": "And it came to pass that when it was night, he sent a ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/360"
       },
       {
@@ -453,7 +460,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/361"
       },
       {
-        "id": "361:8",
+        "id": "361:8a",
         "page": 361,
         "line": 8,
         "text": "would not; and he sent again the third time.",
@@ -467,7 +474,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "361:8",
+        "id": "361:8b",
         "page": 361,
         "line": 8,
         "text": "And it came to ",
@@ -593,7 +600,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/361"
       },
       {
-        "id": "361:24",
+        "id": "361:24a",
         "page": 361,
         "line": 24,
         "text": "armies of Lehonti.",
@@ -607,7 +614,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "361:24",
+        "id": "361:24b",
         "page": 361,
         "line": 24,
         "text": "And it came to pass that when they saw ",
@@ -670,7 +677,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/361"
       },
       {
-        "id": "361:32",
+        "id": "361:32a",
         "page": 361,
         "line": 32,
         "text": "throning the king.",
@@ -684,7 +691,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "361:32",
+        "id": "361:32b",
         "page": 361,
         "line": 32,
         "text": "Now it was the custom among the Laman",
@@ -726,7 +733,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/361"
       },
       {
-        "id": "361:37",
+        "id": "361:37a",
         "page": 361,
         "line": 37,
         "text": "he died.",
@@ -740,7 +747,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "361:37",
+        "id": "361:37b",
         "page": 361,
         "line": 37,
         "text": "Now when Lehonti was dead, the Lamanites ap",
@@ -754,7 +761,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/361"
       },
       {
-        "id": "361:39",
+        "id": "361:39a",
         "page": 361,
         "line": 39,
         "text": "der.",
@@ -768,7 +775,7 @@
     "verse": 20,
     "lines": [
       {
-        "id": "361:39",
+        "id": "361:39b",
         "page": 361,
         "line": 39,
         "text": "And it came to pass that Amalickiah marched with his ",
@@ -782,7 +789,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/361"
       },
       {
-        "id": "361:41",
+        "id": "361:41a",
         "page": 361,
         "line": 41,
         "text": "the city of Nephi, which was the chief city.",
@@ -796,7 +803,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "361:41",
+        "id": "361:41b",
         "page": 361,
         "line": 41,
         "text": "And the king ",
@@ -824,7 +831,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/362"
       },
       {
-        "id": "362:2",
+        "id": "362:2a",
         "page": 362,
         "line": 2,
         "text": "Nephites to battle.",
@@ -838,7 +845,7 @@
     "verse": 22,
     "lines": [
       {
-        "id": "362:2",
+        "id": "362:2b",
         "page": 362,
         "line": 2,
         "text": "But behold, as the king came out to meet ",
@@ -887,7 +894,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/362"
       },
       {
-        "id": "362:8",
+        "id": "362:8a",
         "page": 362,
         "line": 8,
         "text": "peace, which custom they had taken from the Nephites.",
@@ -901,7 +908,7 @@
     "verse": 24,
     "lines": [
       {
-        "id": "362:8",
+        "id": "362:8b",
         "page": 362,
         "line": 8,
         "text": "And ",
@@ -922,7 +929,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/362"
       },
       {
-        "id": "362:11",
+        "id": "362:11a",
         "page": 362,
         "line": 11,
         "text": "to the earth.",
@@ -936,14 +943,14 @@
     "verse": 25,
     "lines": [
       {
-        "id": "362:11",
+        "id": "362:11b",
         "page": 362,
         "line": 11,
         "text": "Now the servants of the king fled; and the ser",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/362"
       },
       {
-        "id": "362:12",
+        "id": "362:12a",
         "page": 362,
         "line": 12,
         "text": "vants of Amalickiah raised a cry, saying:",
@@ -957,7 +964,7 @@
     "verse": 26,
     "lines": [
       {
-        "id": "362:12",
+        "id": "362:12b",
         "page": 362,
         "line": 12,
         "text": "Behold, the servants ",
@@ -1048,7 +1055,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/362"
       },
       {
-        "id": "362:23",
+        "id": "362:23a",
         "page": 362,
         "line": 23,
         "text": "the servants of the king.",
@@ -1062,7 +1069,7 @@
     "verse": 29,
     "lines": [
       {
-        "id": "362:23",
+        "id": "362:23b",
         "page": 362,
         "line": 23,
         "text": "Now when the servants of the king ",
@@ -1083,7 +1090,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/362"
       },
       {
-        "id": "362:26",
+        "id": "362:26a",
         "page": 362,
         "line": 26,
         "text": "Zarahemla, and joined the people of Ammon;",
@@ -1097,7 +1104,7 @@
     "verse": 30,
     "lines": [
       {
-        "id": "362:26",
+        "id": "362:26b",
         "page": 362,
         "line": 26,
         "text": "and the army ",
@@ -1139,7 +1146,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/362"
       },
       {
-        "id": "362:31",
+        "id": "362:31a",
         "page": 362,
         "line": 31,
         "text": "Nephi, with his armies, and took possession of the city.",
@@ -1153,7 +1160,7 @@
     "verse": 32,
     "lines": [
       {
-        "id": "362:31",
+        "id": "362:31b",
         "page": 362,
         "line": 31,
         "text": "And ",
@@ -1188,7 +1195,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/362"
       },
       {
-        "id": "362:36",
+        "id": "362:36a",
         "page": 362,
         "line": 36,
         "text": "in vain, and they had made their escape:",
@@ -1202,7 +1209,7 @@
     "verse": 33,
     "lines": [
       {
-        "id": "362:36",
+        "id": "362:36b",
         "page": 362,
         "line": 36,
         "text": "Therefore when the ",
@@ -1356,7 +1363,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/363"
       },
       {
-        "id": "363:13",
+        "id": "363:13a",
         "page": 363,
         "line": 13,
         "text": "Nephi down to the present time.",
@@ -1370,7 +1377,7 @@
     "verse": 36,
     "lines": [
       {
-        "id": "363:13",
+        "id": "363:13b",
         "page": 363,
         "line": 13,
         "text": "Now these dissenters, hav",

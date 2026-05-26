@@ -5,6 +5,13 @@
     "verse": 1,
     "lines": [
       {
+        "id": "391:30",
+        "page": 391,
+        "line": 30,
+        "text": "CHAPTER XXIII. ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/391"
+      },
+      {
         "id": "391:31",
         "page": 391,
         "line": 31,
@@ -40,10 +47,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/391"
       },
       {
-        "id": "391:36",
+        "id": "391:36a",
         "page": 391,
         "line": 36,
-        "text": "menced the twenty and fifth year in peace; neverthe",
+        "text": "menced the twenty and fifth year in peace;",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/391"
       }
     ]
@@ -53,6 +60,13 @@
     "chapter": 51,
     "verse": 2,
     "lines": [
+      {
+        "id": "391:36b",
+        "page": 391,
+        "line": 36,
+        "text": "neverthe",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/391"
+      },
       {
         "id": "391:37",
         "page": 391,
@@ -117,7 +131,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/392"
       },
       {
-        "id": "392:4",
+        "id": "392:4a",
         "page": 392,
         "line": 4,
         "text": "cerning the altering of the law;",
@@ -131,7 +145,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "392:4",
+        "id": "392:4b",
         "page": 392,
         "line": 4,
         "text": "therefore those who ",
@@ -159,17 +173,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/392"
       },
       {
-        "id": "392:8",
+        "id": "392:8a",
         "page": 392,
         "line": 8,
-        "text": "dispute concerning the matter; but not unto blood",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/392"
-      },
-      {
-        "id": "392:9",
-        "page": 392,
-        "line": 9,
-        "text": "shed.",
+        "text": "dispute concerning the matter; but not unto",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/392"
       }
     ]
@@ -179,6 +186,20 @@
     "chapter": 51,
     "verse": 5,
     "lines": [
+      {
+        "id": "392:8b",
+        "page": 392,
+        "line": 8,
+        "text": "blood ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/392"
+      },
+      {
+        "id": "392:9",
+        "page": 392,
+        "line": 9,
+        "text": "shed. ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/392"
+      },
       {
         "id": "392:10",
         "page": 392,
@@ -215,7 +236,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/392"
       },
       {
-        "id": "392:15",
+        "id": "392:15a",
         "page": 392,
         "line": 15,
         "text": "over the land.",
@@ -229,7 +250,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "392:15",
+        "id": "392:15b",
         "page": 392,
         "line": 15,
         "text": "And those who were desirous that Pa",
@@ -334,7 +355,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/392"
       },
       {
-        "id": "392:29",
+        "id": "392:29a",
         "page": 392,
         "line": 29,
         "text": "freedom.",
@@ -348,7 +369,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "392:29",
+        "id": "392:29b",
         "page": 392,
         "line": 29,
         "text": "Now those who were in favor of kings, ",
@@ -369,7 +390,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/392"
       },
       {
-        "id": "392:32",
+        "id": "392:32a",
         "page": 392,
         "line": 32,
         "text": "and authority over the people.",
@@ -383,7 +404,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "392:32",
+        "id": "392:32b",
         "page": 392,
         "line": 32,
         "text": "But behold, this was ",
@@ -432,7 +453,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/392"
       },
       {
-        "id": "392:39",
+        "id": "392:39a",
         "page": 392,
         "line": 39,
         "text": "for he had sworn to drink the blood of Moroni.",
@@ -446,7 +467,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "392:39",
+        "id": "392:39b",
         "page": 392,
         "line": 39,
         "text": "But ",
@@ -467,7 +488,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/392"
       },
       {
-        "id": "392:42",
+        "id": "392:42a",
         "page": 392,
         "line": 42,
         "text": "armies, to come to battle against the Nephites.",
@@ -481,7 +502,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "392:42",
+        "id": "392:42b",
         "page": 392,
         "line": 42,
         "text": "Now ",
@@ -523,7 +544,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/392"
       },
       {
-        "id": "393:1",
+        "id": "393:1a",
         "page": 393,
         "line": 1,
         "text": "down to the land of Zarahemla.",
@@ -537,7 +558,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "393:1",
+        "id": "393:1b",
         "page": 393,
         "line": 1,
         "text": "Yea, even Amalicki",
@@ -628,7 +649,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/393"
       },
       {
-        "id": "393:13",
+        "id": "393:13a",
         "page": 393,
         "line": 13,
         "text": "arms to defend their country.",
@@ -642,7 +663,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "393:13",
+        "id": "393:13b",
         "page": 393,
         "line": 13,
         "text": "And it came to pass ",
@@ -684,7 +705,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/393"
       },
       {
-        "id": "393:19",
+        "id": "393:19a",
         "page": 393,
         "line": 19,
         "text": "soul was filled with anger against them.",
@@ -698,7 +719,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "393:19",
+        "id": "393:19b",
         "page": 393,
         "line": 19,
         "text": "And it came ",
@@ -733,7 +754,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/393"
       },
       {
-        "id": "393:24",
+        "id": "393:24a",
         "page": 393,
         "line": 24,
         "text": "them to death;",
@@ -747,7 +768,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "393:24",
+        "id": "393:24b",
         "page": 393,
         "line": 24,
         "text": "for it was his first care to put an end ",
@@ -817,7 +838,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/393"
       },
       {
-        "id": "393:33",
+        "id": "393:33a",
         "page": 393,
         "line": 33,
         "text": "port the cause of liberty.",
@@ -831,7 +852,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "393:33",
+        "id": "393:33b",
         "page": 393,
         "line": 33,
         "text": "And it came to pass that ",
@@ -866,7 +887,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/393"
       },
       {
-        "id": "393:38",
+        "id": "393:38a",
         "page": 393,
         "line": 38,
         "text": "and leveled to the earth.",
@@ -880,7 +901,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "393:38",
+        "id": "393:38b",
         "page": 393,
         "line": 38,
         "text": "And it came to pass that ",
@@ -915,7 +936,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/393"
       },
       {
-        "id": "393:43",
+        "id": "393:43a",
         "page": 393,
         "line": 43,
         "text": "period;",
@@ -929,7 +950,7 @@
     "verse": 20,
     "lines": [
       {
-        "id": "393:43",
+        "id": "393:43b",
         "page": 393,
         "line": 43,
         "text": "and the remainder of those dissenters, rather ",
@@ -964,7 +985,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/393"
       },
       {
-        "id": "394:1",
+        "id": "394:1a",
         "page": 394,
         "line": 1,
         "text": "country.",
@@ -978,7 +999,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "394:1",
+        "id": "394:1b",
         "page": 394,
         "line": 1,
         "text": "And thus Moroni put an end to those king-",
@@ -1118,7 +1139,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/394"
       },
       {
-        "id": "394:19",
+        "id": "394:19a",
         "page": 394,
         "line": 19,
         "text": "yea, possession of all their fortifications.",
@@ -1132,7 +1153,7 @@
     "verse": 24,
     "lines": [
       {
-        "id": "394:19",
+        "id": "394:19b",
         "page": 394,
         "line": 19,
         "text": "And those ",
@@ -1195,7 +1216,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/394"
       },
       {
-        "id": "394:27",
+        "id": "394:27a",
         "page": 394,
         "line": 27,
         "text": "men in every city to maintain and defend it;",
@@ -1209,7 +1230,7 @@
     "verse": 26,
     "lines": [
       {
-        "id": "394:27",
+        "id": "394:27b",
         "page": 394,
         "line": 27,
         "text": "and thus ",
@@ -1244,7 +1265,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/394"
       },
       {
-        "id": "394:32",
+        "id": "394:32a",
         "page": 394,
         "line": 32,
         "text": "borders, by the seashore.",
@@ -1258,7 +1279,7 @@
     "verse": 27,
     "lines": [
       {
-        "id": "394:32",
+        "id": "394:32b",
         "page": 394,
         "line": 32,
         "text": "And thus had the Laman",
@@ -1321,7 +1342,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/394"
       },
       {
-        "id": "394:40",
+        "id": "394:40a",
         "page": 394,
         "line": 40,
         "text": "them, and slaying many.",
@@ -1335,7 +1356,7 @@
     "verse": 29,
     "lines": [
       {
-        "id": "394:40",
+        "id": "394:40b",
         "page": 394,
         "line": 40,
         "text": "But it came to pass that ",
@@ -1349,7 +1370,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/394"
       },
       {
-        "id": "394:42",
+        "id": "394:42a",
         "page": 394,
         "line": 42,
         "text": "and had headed his people in his flight.",
@@ -1363,7 +1384,7 @@
     "verse": 30,
     "lines": [
       {
-        "id": "394:42",
+        "id": "394:42b",
         "page": 394,
         "line": 42,
         "text": "And it came ",
@@ -1391,7 +1412,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/394"
       },
       {
-        "id": "394:46",
+        "id": "394:46a",
         "page": 394,
         "line": 46,
         "text": "land northward.",
@@ -1405,7 +1426,7 @@
     "verse": 31,
     "lines": [
       {
-        "id": "394:46",
+        "id": "394:46b",
         "page": 394,
         "line": 46,
         "text": "But behold, he met with a disap",
@@ -1443,14 +1464,7 @@
         "id": "395:4",
         "page": 395,
         "line": 4,
-        "text": "advantage over the Lamanites. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/395"
-      },
-      {
-        "id": "395:5",
-        "page": 395,
-        "line": 5,
-        "text": "And it came to pass that they did harrass them, in",
+        "text": "advantage over the Lamanites.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/395"
       }
     ]
@@ -1460,6 +1474,13 @@
     "chapter": 51,
     "verse": 32,
     "lines": [
+      {
+        "id": "395:5",
+        "page": 395,
+        "line": 5,
+        "text": "And it came to pass that they did harrass them, in",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/395"
+      },
       {
         "id": "395:6",
         "page": 395,
@@ -1580,7 +1601,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/395"
       },
       {
-        "id": "395:21",
+        "id": "395:21a",
         "page": 395,
         "line": 21,
         "text": "that he did not awake his servants.",
@@ -1594,7 +1615,7 @@
     "verse": 35,
     "lines": [
       {
-        "id": "395:21",
+        "id": "395:21b",
         "page": 395,
         "line": 21,
         "text": "And he returned ",
@@ -1615,7 +1636,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/395"
       },
       {
-        "id": "395:24",
+        "id": "395:24a",
         "page": 395,
         "line": 24,
         "text": "the things that he had done.",
@@ -1629,7 +1650,7 @@
     "verse": 36,
     "lines": [
       {
-        "id": "395:24",
+        "id": "395:24b",
         "page": 395,
         "line": 24,
         "text": "And he caused that his ",
@@ -1643,7 +1664,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/395"
       },
       {
-        "id": "395:26",
+        "id": "395:26a",
         "page": 395,
         "line": 26,
         "text": "had awoke, and should come upon them.",
@@ -1657,7 +1678,7 @@
     "verse": 37,
     "lines": [
       {
-        "id": "395:26",
+        "id": "395:26b",
         "page": 395,
         "line": 26,
         "text": "And thus ",
@@ -1681,14 +1702,7 @@
         "id": "395:29",
         "page": 395,
         "line": 29,
-        "text": "days of Amalickiah. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/395"
-      },
-      {
-        "id": "395:30",
-        "page": 395,
-        "line": 30,
-        "text": "CHAPTER XXIV.",
+        "text": "days of Amalickiah.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/395"
       }
     ]

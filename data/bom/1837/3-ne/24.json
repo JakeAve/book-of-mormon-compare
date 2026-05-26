@@ -5,7 +5,7 @@
     "verse": 1,
     "lines": [
       {
-        "id": "535:7",
+        "id": "535:7b",
         "page": 535,
         "line": 7,
         "text": "And ",
@@ -82,7 +82,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/535"
       },
       {
-        "id": "535:18",
+        "id": "535:18a",
         "page": 535,
         "line": 18,
         "text": "hold, he shall come, saith the Lord of hosts.",
@@ -96,7 +96,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "535:18",
+        "id": "535:18b",
         "page": 535,
         "line": 18,
         "text": "But ",
@@ -117,10 +117,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/535"
       },
       {
-        "id": "535:21",
+        "id": "535:21a",
         "page": 535,
         "line": 21,
-        "text": "fire, and like fuller’s soap. And",
+        "text": "fire, and like fuller’s soap.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/535"
       }
     ]
@@ -131,10 +131,10 @@
     "verse": 3,
     "lines": [
       {
-        "id": "535:21",
+        "id": "535:21b",
         "page": 535,
         "line": 21,
-        "text": "he shall sit as a re",
+        "text": "And he shall sit as a re",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/535"
       },
       {
@@ -152,17 +152,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/535"
       },
       {
-        "id": "535:24",
+        "id": "535:24a",
         "page": 535,
         "line": 24,
-        "text": "they may offer unto the Lord an offering in righteous",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/535"
-      },
-      {
-        "id": "535:25",
-        "page": 535,
-        "line": 25,
-        "text": "ness.",
+        "text": "they may offer unto the Lord an offering in",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/535"
       }
     ]
@@ -173,10 +166,17 @@
     "verse": 4,
     "lines": [
       {
+        "id": "535:24b",
+        "page": 535,
+        "line": 24,
+        "text": "righteous ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/535"
+      },
+      {
         "id": "535:25",
         "page": 535,
         "line": 25,
-        "text": "Then shall the offering of Judah and Jerusalem ",
+        "text": "ness. Then shall the offering of Judah and Jerusalem ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/535"
       },
       {
@@ -187,7 +187,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/535"
       },
       {
-        "id": "535:27",
+        "id": "535:27a",
         "page": 535,
         "line": 27,
         "text": "as in former years.",
@@ -201,7 +201,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "535:27",
+        "id": "535:27b",
         "page": 535,
         "line": 27,
         "text": "And I will come near to you to ",
@@ -243,7 +243,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/535"
       },
       {
-        "id": "535:33",
+        "id": "535:33a",
         "page": 535,
         "line": 33,
         "text": "of hosts.",
@@ -257,7 +257,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "535:33",
+        "id": "535:33b",
         "page": 535,
         "line": 33,
         "text": "For I am the Lord, I change not; therefore ",
@@ -327,7 +327,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/535"
       },
       {
-        "id": "535:41",
+        "id": "535:41a",
         "page": 535,
         "line": 41,
         "text": "offerings.",
@@ -341,14 +341,14 @@
     "verse": 9,
     "lines": [
       {
-        "id": "535:41",
+        "id": "535:41b",
         "page": 535,
         "line": 41,
         "text": "Ye are cursed with a curse, for ye have ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/535"
       },
       {
-        "id": "536:1",
+        "id": "536:1a",
         "page": 536,
         "line": 1,
         "text": "robbed me, even this whole nation.",
@@ -362,7 +362,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "536:1",
+        "id": "536:1b",
         "page": 536,
         "line": 1,
         "text": "Bring ye all the ",
@@ -397,7 +397,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/536"
       },
       {
-        "id": "536:6",
+        "id": "536:6a",
         "page": 536,
         "line": 6,
         "text": "room enough to receive it.",
@@ -411,7 +411,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "536:6",
+        "id": "536:6b",
         "page": 536,
         "line": 6,
         "text": "And I will rebuke the de",
@@ -439,7 +439,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/536"
       },
       {
-        "id": "536:10",
+        "id": "536:10a",
         "page": 536,
         "line": 10,
         "text": "hosts.",
@@ -453,7 +453,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "536:10",
+        "id": "536:10b",
         "page": 536,
         "line": 10,
         "text": "And all nations shall call you blessed, for ye ",
@@ -628,7 +628,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/536"
       },
       {
-        "id": "536:29",
+        "id": "536:29a",
         "page": 536,
         "line": 29,
         "text": "him that serveth him not.",

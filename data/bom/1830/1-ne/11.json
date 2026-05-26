@@ -47,7 +47,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/30"
       },
       {
-        "id": "30:4",
+        "id": "30:4a",
         "page": 30,
         "line": 4,
         "text": "foot.",
@@ -61,7 +61,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "30:4",
+        "id": "30:4b",
         "page": 30,
         "line": 4,
         "text": "And the spirit saith unto me, Behold, what desirest thou?",
@@ -96,7 +96,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/30"
       },
       {
-        "id": "30:7",
+        "id": "30:7a",
         "page": 30,
         "line": 7,
         "text": "saw the tree of which he hath spoken?",
@@ -110,7 +110,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "30:7",
+        "id": "30:7b",
         "page": 30,
         "line": 7,
         "text": "And I said yea; thou ",
@@ -166,7 +166,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/30"
       },
       {
-        "id": "30:14",
+        "id": "30:14a",
         "page": 30,
         "line": 14,
         "text": "which thou hast desired.",
@@ -180,7 +180,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "30:14",
+        "id": "30:14b",
         "page": 30,
         "line": 14,
         "text": "And behold, this thing shall be giv",
@@ -218,14 +218,7 @@
         "id": "30:19",
         "page": 30,
         "line": 19,
-        "text": "ord that it is the Son of God. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/30"
-      },
-      {
-        "id": "30:20",
-        "page": 30,
-        "line": 20,
-        "text": "And it came to pass that the spirit saith unto me, look! and",
+        "text": "ord that it is the Son of God.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/30"
       }
     ]
@@ -235,6 +228,13 @@
     "chapter": 11,
     "verse": 8,
     "lines": [
+      {
+        "id": "30:20",
+        "page": 30,
+        "line": 20,
+        "text": "And it came to pass that the spirit saith unto me, look! and ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/30"
+      },
       {
         "id": "30:21",
         "page": 30,
@@ -285,7 +285,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/30"
       },
       {
-        "id": "30:27",
+        "id": "30:27a",
         "page": 30,
         "line": 27,
         "text": "which is precious above all.",
@@ -299,14 +299,14 @@
     "verse": 10,
     "lines": [
       {
-        "id": "30:27",
+        "id": "30:27b",
         "page": 30,
         "line": 27,
         "text": "And he saith unto me, What de",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/30"
       },
       {
-        "id": "30:28",
+        "id": "30:28a",
         "page": 30,
         "line": 28,
         "text": "sirest thou?",
@@ -320,7 +320,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "30:28",
+        "id": "30:28b",
         "page": 30,
         "line": 28,
         "text": "And I said unto him, to know the interpretation ",
@@ -351,14 +351,7 @@
         "id": "30:32",
         "page": 30,
         "line": 32,
-        "text": "man speaketh with another. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/30"
-      },
-      {
-        "id": "30:33",
-        "page": 30,
-        "line": 33,
-        "text": "And it came to pass that he said unto me, look: And I look",
+        "text": "man speaketh with another.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/30"
       }
     ]
@@ -368,6 +361,13 @@
     "chapter": 11,
     "verse": 12,
     "lines": [
+      {
+        "id": "30:33",
+        "page": 30,
+        "line": 33,
+        "text": "And it came to pass that he said unto me, look: And I look",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/30"
+      },
       {
         "id": "30:34",
         "page": 30,
@@ -439,7 +439,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/30"
       },
       {
-        "id": "30:42",
+        "id": "30:42a",
         "page": 30,
         "line": 42,
         "text": "Nephi, what beholdest thou?",
@@ -453,14 +453,14 @@
     "verse": 15,
     "lines": [
       {
-        "id": "30:42",
+        "id": "30:42b",
         "page": 30,
         "line": 42,
         "text": "And I saith unto him, a virgin, ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/30"
       },
       {
-        "id": "30:43",
+        "id": "30:43a",
         "page": 30,
         "line": 43,
         "text": "most beautiful and fair above all other virgins.",
@@ -474,14 +474,14 @@
     "verse": 16,
     "lines": [
       {
-        "id": "30:43",
+        "id": "30:43b",
         "page": 30,
         "line": 43,
         "text": "And he saith ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/30"
       },
       {
-        "id": "31:1",
+        "id": "31:1a",
         "page": 31,
         "line": 1,
         "text": "unto me, Knowest thou the condescention of God?",
@@ -495,7 +495,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "31:1",
+        "id": "31:1b",
         "page": 31,
         "line": 1,
         "text": "And I said ",
@@ -509,7 +509,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/31"
       },
       {
-        "id": "31:3",
+        "id": "31:3a",
         "page": 31,
         "line": 3,
         "text": "do not know the meaning of all things.",
@@ -523,7 +523,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "31:3",
+        "id": "31:3b",
         "page": 31,
         "line": 3,
         "text": "And he said unto me, ",
@@ -572,7 +572,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/31"
       },
       {
-        "id": "31:9",
+        "id": "31:9a",
         "page": 31,
         "line": 9,
         "text": "look!",
@@ -586,14 +586,14 @@
     "verse": 20,
     "lines": [
       {
-        "id": "31:9",
+        "id": "31:9b",
         "page": 31,
         "line": 9,
         "text": "And I looked and beheld the virgin again, bearing a chi[l]d ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/31"
       },
       {
-        "id": "31:10",
+        "id": "31:10a",
         "page": 31,
         "line": 10,
         "text": "in her arms.",
@@ -607,7 +607,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "31:10",
+        "id": "31:10b",
         "page": 31,
         "line": 10,
         "text": "And the angel said unto me, behold the Lamb ",
@@ -621,7 +621,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/31"
       },
       {
-        "id": "31:12",
+        "id": "31:12a",
         "page": 31,
         "line": 12,
         "text": "ing of the tree which thy father saw?",
@@ -635,7 +635,7 @@
     "verse": 22,
     "lines": [
       {
-        "id": "31:12",
+        "id": "31:12b",
         "page": 31,
         "line": 12,
         "text": "And I answered him, ",
@@ -656,7 +656,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/31"
       },
       {
-        "id": "31:15",
+        "id": "31:15a",
         "page": 31,
         "line": 15,
         "text": "desirable above all things.",
@@ -670,14 +670,14 @@
     "verse": 23,
     "lines": [
       {
-        "id": "31:15",
+        "id": "31:15b",
         "page": 31,
         "line": 15,
         "text": "And he spake unto me, saying, ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/31"
       },
       {
-        "id": "31:16",
+        "id": "31:16a",
         "page": 31,
         "line": 16,
         "text": "Yea, and the most joyous to the soul.",
@@ -691,7 +691,7 @@
     "verse": 24,
     "lines": [
       {
-        "id": "31:16",
+        "id": "31:16b",
         "page": 31,
         "line": 16,
         "text": "And after that he had ",
@@ -754,7 +754,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/31"
       },
       {
-        "id": "31:24",
+        "id": "31:24a",
         "page": 31,
         "line": 24,
         "text": "the tree of life was a representation of the love of God.",
@@ -768,7 +768,7 @@
     "verse": 26,
     "lines": [
       {
-        "id": "31:24",
+        "id": "31:24b",
         "page": 31,
         "line": 24,
         "text": "And ",
@@ -782,7 +782,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/31"
       },
       {
-        "id": "31:26",
+        "id": "31:26a",
         "page": 31,
         "line": 26,
         "text": "tion of God!",
@@ -796,7 +796,7 @@
     "verse": 27,
     "lines": [
       {
-        "id": "31:26",
+        "id": "31:26b",
         "page": 31,
         "line": 26,
         "text": "And I looked and beheld the Redeemer of the ",
@@ -838,7 +838,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/31"
       },
       {
-        "id": "31:32",
+        "id": "31:32a",
         "page": 31,
         "line": 32,
         "text": "form of a dove.",
@@ -852,7 +852,7 @@
     "verse": 28,
     "lines": [
       {
-        "id": "31:32",
+        "id": "31:32b",
         "page": 31,
         "line": 32,
         "text": "And I beheld that he went forth ministering ",
@@ -873,7 +873,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/31"
       },
       {
-        "id": "31:35",
+        "id": "31:35a",
         "page": 31,
         "line": 35,
         "text": "cast him out from among them.",
@@ -887,7 +887,7 @@
     "verse": 29,
     "lines": [
       {
-        "id": "31:35",
+        "id": "31:35b",
         "page": 31,
         "line": 35,
         "text": "And I also beheld twelve ",
@@ -908,7 +908,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/31"
       },
       {
-        "id": "31:38",
+        "id": "31:38a",
         "page": 31,
         "line": 38,
         "text": "spirit, from before my face, that I saw them not.",
@@ -922,7 +922,7 @@
     "verse": 30,
     "lines": [
       {
-        "id": "31:38",
+        "id": "31:38b",
         "page": 31,
         "line": 38,
         "text": "And it came ",
@@ -950,7 +950,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/31"
       },
       {
-        "id": "31:42",
+        "id": "31:42a",
         "page": 31,
         "line": 42,
         "text": "ter unto them.",
@@ -964,7 +964,7 @@
     "verse": 31,
     "lines": [
       {
-        "id": "31:42",
+        "id": "31:42b",
         "page": 31,
         "line": 42,
         "text": "And he spake unto me again, saying, look! ",
@@ -1016,14 +1016,7 @@
         "id": "32:6",
         "page": 32,
         "line": 6,
-        "text": "clean spirits were cast out. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/32"
-      },
-      {
-        "id": "32:7",
-        "page": 32,
-        "line": 7,
-        "text": "And it came to pass that the angel spake unto me again,",
+        "text": "clean spirits were cast out.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/32"
       }
     ]
@@ -1033,6 +1026,13 @@
     "chapter": 11,
     "verse": 32,
     "lines": [
+      {
+        "id": "32:7",
+        "page": 32,
+        "line": 7,
+        "text": "And it came to pass that the angel spake unto me again, ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/32"
+      },
       {
         "id": "32:8",
         "page": 32,
@@ -1048,7 +1048,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/32"
       },
       {
-        "id": "32:10",
+        "id": "32:10a",
         "page": 32,
         "line": 10,
         "text": "judged of the world; and I saw and bear record.",
@@ -1062,7 +1062,7 @@
     "verse": 33,
     "lines": [
       {
-        "id": "32:10",
+        "id": "32:10b",
         "page": 32,
         "line": 10,
         "text": "And I, Ne",
@@ -1076,10 +1076,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/32"
       },
       {
-        "id": "32:12",
+        "id": "32:12a",
         "page": 32,
         "line": 12,
-        "text": "the sins of the world. And",
+        "text": "the sins of the world.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/32"
       }
     ]
@@ -1090,10 +1090,10 @@
     "verse": 34,
     "lines": [
       {
-        "id": "32:12",
+        "id": "32:12b",
         "page": 32,
         "line": 12,
-        "text": "after that he was slain, I saw the ",
+        "text": "And after that he was slain, I saw the ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/32"
       },
       {
@@ -1111,7 +1111,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/32"
       },
       {
-        "id": "32:15",
+        "id": "32:15a",
         "page": 32,
         "line": 15,
         "text": "twelve called by the angel of the Lord.",
@@ -1125,7 +1125,7 @@
     "verse": 35,
     "lines": [
       {
-        "id": "32:15",
+        "id": "32:15b",
         "page": 32,
         "line": 15,
         "text": "And the multitude of ",

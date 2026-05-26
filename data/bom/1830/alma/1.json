@@ -64,14 +64,7 @@
         "id": "227:18",
         "page": 227,
         "line": 18,
-        "text": "Chief Judge. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/227"
-      },
-      {
-        "id": "227:19",
-        "page": 227,
-        "line": 19,
-        "text": "Now it came to pass that in the first year of the reign of the",
+        "text": "Chief Judge.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/227"
       }
     ]
@@ -81,6 +74,13 @@
     "chapter": 1,
     "verse": 1,
     "lines": [
+      {
+        "id": "227:19",
+        "page": 227,
+        "line": 19,
+        "text": "Now it came to pass that in the first year of the reign of the ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/227"
+      },
       {
         "id": "227:20",
         "page": 227,
@@ -152,7 +152,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/227"
       },
       {
-        "id": "227:29",
+        "id": "227:29a",
         "page": 227,
         "line": 29,
         "text": "strength;",
@@ -166,7 +166,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "227:29",
+        "id": "227:29b",
         "page": 227,
         "line": 29,
         "text": "and he had gone about among the people, preaching ",
@@ -201,7 +201,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/227"
       },
       {
-        "id": "227:34",
+        "id": "227:34a",
         "page": 227,
         "line": 34,
         "text": "ought to be supported by the people;",
@@ -215,7 +215,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "227:34",
+        "id": "227:34b",
         "page": 227,
         "line": 34,
         "text": "and he also testified un",
@@ -250,7 +250,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/228"
       },
       {
-        "id": "228:4",
+        "id": "228:4a",
         "page": 228,
         "line": 4,
         "text": "should have eternal life.",
@@ -264,7 +264,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "228:4",
+        "id": "228:4b",
         "page": 228,
         "line": 4,
         "text": "And it came to pass that he did ",
@@ -285,7 +285,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/228"
       },
       {
-        "id": "228:7",
+        "id": "228:7a",
         "page": 228,
         "line": 7,
         "text": "him money;",
@@ -299,7 +299,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "228:7",
+        "id": "228:7b",
         "page": 228,
         "line": 7,
         "text": "and he began to be lifted up in the pride of his ",
@@ -362,7 +362,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/228"
       },
       {
-        "id": "228:15",
+        "id": "228:15a",
         "page": 228,
         "line": 15,
         "text": "him with the words of God.",
@@ -376,7 +376,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "228:15",
+        "id": "228:15b",
         "page": 228,
         "line": 15,
         "text": "Now the name of the man was ",
@@ -432,7 +432,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/228"
       },
       {
-        "id": "228:22",
+        "id": "228:22a",
         "page": 228,
         "line": 22,
         "text": "was slain by the sword;",
@@ -446,7 +446,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "228:22",
+        "id": "228:22b",
         "page": 228,
         "line": 22,
         "text": "and the man who slew him was ta",
@@ -460,17 +460,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/228"
       },
       {
-        "id": "228:24",
+        "id": "228:24a",
         "page": 228,
         "line": 24,
-        "text": "ma, to be judged according to the crime which he had com",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/228"
-      },
-      {
-        "id": "228:25",
-        "page": 228,
-        "line": 25,
-        "text": "mitted.",
+        "text": "ma, to be judged according to the crime which he had",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/228"
       }
     ]
@@ -481,14 +474,21 @@
     "verse": 11,
     "lines": [
       {
-        "id": "228:25",
+        "id": "228:24b",
         "page": 228,
-        "line": 25,
-        "text": "And it came to pass that he stood before Alma, and ",
+        "line": 24,
+        "text": "com ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/228"
       },
       {
-        "id": "228:26",
+        "id": "228:25",
+        "page": 228,
+        "line": 25,
+        "text": "mitted. And it came to pass that he stood before Alma, and ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/228"
+      },
+      {
+        "id": "228:26a",
         "page": 228,
         "line": 26,
         "text": "plead for himself with much boldness.",
@@ -502,7 +502,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "228:26",
+        "id": "228:26b",
         "page": 228,
         "line": 26,
         "text": "But Alma said unto ",
@@ -537,7 +537,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/228"
       },
       {
-        "id": "228:31",
+        "id": "228:31a",
         "page": 228,
         "line": 31,
         "text": "ple, it would prove their entire destruction.",
@@ -551,7 +551,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "228:31",
+        "id": "228:31b",
         "page": 228,
         "line": 31,
         "text": "And thou hast ",
@@ -572,7 +572,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/228"
       },
       {
-        "id": "228:34",
+        "id": "228:34a",
         "page": 228,
         "line": 34,
         "text": "his blood would come upon us for vengeance;",
@@ -586,7 +586,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "228:34",
+        "id": "228:34b",
         "page": 228,
         "line": 34,
         "text": "therefore thou ",
@@ -663,7 +663,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/228"
       },
       {
-        "id": "229:1",
+        "id": "229:1a",
         "page": 229,
         "line": 1,
         "text": "an ignominious death.",
@@ -677,7 +677,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "229:1",
+        "id": "229:1b",
         "page": 229,
         "line": 1,
         "text": "Nevertheless this did not put an end ",
@@ -705,7 +705,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/229"
       },
       {
-        "id": "229:5",
+        "id": "229:5a",
         "page": 229,
         "line": 5,
         "text": "sake of riches and honor.",
@@ -719,7 +719,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "229:5",
+        "id": "229:5b",
         "page": 229,
         "line": 5,
         "text": "Nevertheless they durst not lie, if ",
@@ -747,7 +747,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/229"
       },
       {
-        "id": "229:9",
+        "id": "229:9a",
         "page": 229,
         "line": 9,
         "text": "belief.",
@@ -761,7 +761,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "229:9",
+        "id": "229:9b",
         "page": 229,
         "line": 9,
         "text": "And they durst not steal, for fear of the law; for such ",
@@ -810,7 +810,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/229"
       },
       {
-        "id": "229:15",
+        "id": "229:15a",
         "page": 229,
         "line": 15,
         "text": "Christ;",
@@ -824,7 +824,7 @@
     "verse": 20,
     "lines": [
       {
-        "id": "229:15",
+        "id": "229:15b",
         "page": 229,
         "line": 15,
         "text": "yea, they did persecute them, and afflict them with ",
@@ -852,7 +852,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/229"
       },
       {
-        "id": "229:19",
+        "id": "229:19a",
         "page": 229,
         "line": 19,
         "text": "and without price.",
@@ -866,7 +866,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "229:19",
+        "id": "229:19b",
         "page": 229,
         "line": 19,
         "text": "Now there was a strict law among the people ",
@@ -887,17 +887,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/229"
       },
       {
-        "id": "229:22",
+        "id": "229:22a",
         "page": 229,
         "line": 22,
-        "text": "Church, and that there should be no persecution among them",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/229"
-      },
-      {
-        "id": "229:23",
-        "page": 229,
-        "line": 23,
-        "text": "selves.",
+        "text": "Church, and that there should be no persecution among",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/229"
       }
     ]
@@ -908,10 +901,17 @@
     "verse": 22,
     "lines": [
       {
+        "id": "229:22b",
+        "page": 229,
+        "line": 22,
+        "text": "them ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/229"
+      },
+      {
         "id": "229:23",
         "page": 229,
         "line": 23,
-        "text": "Nevertheless, there were many among them who be",
+        "text": "selves. Nevertheless, there were many among them who be",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/229"
       },
       {
@@ -929,7 +929,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/229"
       },
       {
-        "id": "229:26",
+        "id": "229:26a",
         "page": 229,
         "line": 26,
         "text": "er with their fists.",
@@ -943,7 +943,7 @@
     "verse": 23,
     "lines": [
       {
-        "id": "229:26",
+        "id": "229:26b",
         "page": 229,
         "line": 26,
         "text": "Now this was in the second year of the ",
@@ -992,7 +992,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/229"
       },
       {
-        "id": "229:32",
+        "id": "229:32a",
         "page": 229,
         "line": 32,
         "text": "among them.",
@@ -1006,7 +1006,7 @@
     "verse": 25,
     "lines": [
       {
-        "id": "229:32",
+        "id": "229:32b",
         "page": 229,
         "line": 32,
         "text": "Now this was a great trial to those that did ",
@@ -1034,10 +1034,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/229"
       },
       {
-        "id": "229:36",
+        "id": "229:36a",
         "page": 229,
         "line": 36,
-        "text": "them. And",
+        "text": "them.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/229"
       }
     ]
@@ -1048,10 +1048,10 @@
     "verse": 26,
     "lines": [
       {
-        "id": "229:36",
+        "id": "229:36b",
         "page": 229,
         "line": 36,
-        "text": "now when the priests left their labor, to impart ",
+        "text": "And now when the priests left their labor, to impart ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/229"
       },
       {
@@ -1104,7 +1104,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/229"
       },
       {
-        "id": "230:1",
+        "id": "230:1a",
         "page": 230,
         "line": 1,
         "text": "according to his strength;",
@@ -1118,7 +1118,7 @@
     "verse": 27,
     "lines": [
       {
-        "id": "230:1",
+        "id": "230:1b",
         "page": 230,
         "line": 1,
         "text": "and they did impart of their sub",
@@ -1139,7 +1139,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/230"
       },
       {
-        "id": "230:4",
+        "id": "230:4a",
         "page": 230,
         "line": 4,
         "text": "not wear costly apparel, yet they were neat and comely:",
@@ -1153,7 +1153,7 @@
     "verse": 28,
     "lines": [
       {
-        "id": "230:4",
+        "id": "230:4b",
         "page": 230,
         "line": 4,
         "text": "and ",
@@ -1174,7 +1174,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/230"
       },
       {
-        "id": "230:7",
+        "id": "230:7a",
         "page": 230,
         "line": 7,
         "text": "their persecutions.",
@@ -1188,7 +1188,7 @@
     "verse": 29,
     "lines": [
       {
-        "id": "230:7",
+        "id": "230:7b",
         "page": 230,
         "line": 7,
         "text": "And now because of the steadiness of the ",
@@ -1230,7 +1230,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/230"
       },
       {
-        "id": "230:13",
+        "id": "230:13a",
         "page": 230,
         "line": 13,
         "text": "manner of good homely cloth.",
@@ -1244,7 +1244,7 @@
     "verse": 30,
     "lines": [
       {
-        "id": "230:13",
+        "id": "230:13b",
         "page": 230,
         "line": 13,
         "text": "And thus in their prosperous ",
@@ -1293,7 +1293,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/230"
       },
       {
-        "id": "230:20",
+        "id": "230:20a",
         "page": 230,
         "line": 20,
         "text": "as to those who stood in need;",
@@ -1307,7 +1307,7 @@
     "verse": 31,
     "lines": [
       {
-        "id": "230:20",
+        "id": "230:20b",
         "page": 230,
         "line": 20,
         "text": "and thus they did prosper and ",
@@ -1321,7 +1321,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/230"
       },
       {
-        "id": "230:22",
+        "id": "230:22a",
         "page": 230,
         "line": 22,
         "text": "their Church.",
@@ -1335,7 +1335,7 @@
     "verse": 32,
     "lines": [
       {
-        "id": "230:22",
+        "id": "230:22b",
         "page": 230,
         "line": 22,
         "text": "For those who did not belong to their Church, ",
@@ -1433,7 +1433,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/230"
       },
       {
-        "id": "230:35",
+        "id": "230:35a",
         "page": 230,
         "line": 35,
         "text": "the judges.",

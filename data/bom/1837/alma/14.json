@@ -26,7 +26,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/281"
       },
       {
-        "id": "281:39",
+        "id": "281:39a",
         "page": 281,
         "line": 39,
         "text": "scriptures;",
@@ -40,7 +40,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "281:39",
+        "id": "281:39b",
         "page": 281,
         "line": 39,
         "text": "but the more part of them were desirous ",
@@ -131,10 +131,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/282"
       },
       {
-        "id": "282:3",
+        "id": "282:3a",
         "page": 282,
         "line": 3,
-        "text": "them before the chief judge of the land. And",
+        "text": "them before the chief judge of the land.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/282"
       }
     ]
@@ -145,10 +145,10 @@
     "verse": 5,
     "lines": [
       {
-        "id": "282:3",
+        "id": "282:3b",
         "page": 282,
         "line": 3,
-        "text": "the peo",
+        "text": "And the peo",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/282"
       },
       {
@@ -208,7 +208,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/282"
       },
       {
-        "id": "282:12",
+        "id": "282:12a",
         "page": 282,
         "line": 12,
         "text": "of the land.",
@@ -222,7 +222,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "282:12",
+        "id": "282:12b",
         "page": 282,
         "line": 12,
         "text": "And it came to pass that Zeezrom was ",
@@ -341,7 +341,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/282"
       },
       {
-        "id": "282:28",
+        "id": "282:28a",
         "page": 282,
         "line": 28,
         "text": "them.",
@@ -355,7 +355,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "282:28",
+        "id": "282:28b",
         "page": 282,
         "line": 28,
         "text": "And they brought their wives and children to",
@@ -432,7 +432,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/282"
       },
       {
-        "id": "282:38",
+        "id": "282:38a",
         "page": 282,
         "line": 38,
         "text": "were consumed by fire.",
@@ -446,7 +446,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "282:38",
+        "id": "282:38b",
         "page": 282,
         "line": 38,
         "text": "And when Amulek saw the ",
@@ -558,7 +558,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/283"
       },
       {
-        "id": "283:6",
+        "id": "283:6a",
         "page": 283,
         "line": 6,
         "text": "the last day.",
@@ -572,14 +572,14 @@
     "verse": 12,
     "lines": [
       {
-        "id": "283:6",
+        "id": "283:6b",
         "page": 283,
         "line": 6,
         "text": "Now Amulek said unto Alma, behold, ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/283"
       },
       {
-        "id": "283:7",
+        "id": "283:7a",
         "page": 283,
         "line": 7,
         "text": "perhaps they will burn us also.",
@@ -593,7 +593,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "283:7",
+        "id": "283:7b",
         "page": 283,
         "line": 7,
         "text": "And Alma said, be it ",
@@ -680,21 +680,7 @@
         "id": "283:18",
         "page": 283,
         "line": 18,
-        "text": "stone?",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/283"
-      }
-    ]
-  },
-  {
-    "book": "alma",
-    "chapter": 14,
-    "verse": 15,
-    "lines": [
-      {
-        "id": "283:18",
-        "page": 283,
-        "line": 18,
-        "text": "Behold, ye see that ye had not power to save ",
+        "text": "stone? Behold, ye see that ye had not power to save ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/283"
       },
       {
@@ -705,10 +691,24 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/283"
       },
       {
-        "id": "283:20",
+        "id": "283:20a",
         "page": 283,
         "line": 20,
-        "text": "saved them, because they were of thy faith. And the ",
+        "text": "saved them, because",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/283"
+      }
+    ]
+  },
+  {
+    "book": "alma",
+    "chapter": 14,
+    "verse": 15,
+    "lines": [
+      {
+        "id": "283:20b",
+        "page": 283,
+        "line": 20,
+        "text": "they were of thy faith. And the ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/283"
       },
       {
@@ -719,7 +719,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/283"
       },
       {
-        "id": "283:22",
+        "id": "283:22a",
         "page": 283,
         "line": 22,
         "text": "what say ye for yourselves?",
@@ -733,7 +733,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "283:22",
+        "id": "283:22b",
         "page": 283,
         "line": 22,
         "text": "Now this judge was af",
@@ -768,7 +768,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/283"
       },
       {
-        "id": "283:26",
+        "id": "283:26a",
         "page": 283,
         "line": 26,
         "text": "them to the officers to be cast into prison.",
@@ -782,7 +782,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "283:26",
+        "id": "283:26b",
         "page": 283,
         "line": 26,
         "text": "And when ",
@@ -824,7 +824,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/283"
       },
       {
-        "id": "283:32",
+        "id": "283:32a",
         "page": 283,
         "line": 32,
         "text": "thing.",
@@ -838,7 +838,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "283:32",
+        "id": "283:32b",
         "page": 283,
         "line": 32,
         "text": "And it came to pass that the judge stood be",
@@ -922,7 +922,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/283"
       },
       {
-        "id": "283:43",
+        "id": "283:43a",
         "page": 283,
         "line": 43,
         "text": "liver yourselves?",
@@ -936,7 +936,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "283:43",
+        "id": "283:43b",
         "page": 283,
         "line": 43,
         "text": "And many such things did they say ",
@@ -957,7 +957,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/283"
       },
       {
-        "id": "283:46",
+        "id": "283:46a",
         "page": 283,
         "line": 46,
         "text": "we are damned?",
@@ -971,7 +971,7 @@
     "verse": 22,
     "lines": [
       {
-        "id": "283:46",
+        "id": "283:46b",
         "page": 283,
         "line": 46,
         "text": "And many such things, yea, all ",
@@ -1076,7 +1076,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/284"
       },
       {
-        "id": "284:13",
+        "id": "284:13a",
         "page": 284,
         "line": 13,
         "text": "Alma and Amulek were bound with cords.",
@@ -1090,7 +1090,7 @@
     "verse": 24,
     "lines": [
       {
-        "id": "284:13",
+        "id": "284:13b",
         "page": 284,
         "line": 13,
         "text": "And the ",
@@ -1125,7 +1125,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/284"
       },
       {
-        "id": "284:18",
+        "id": "284:18a",
         "page": 284,
         "line": 18,
         "text": "ing to your words.",
@@ -1139,7 +1139,7 @@
     "verse": 25,
     "lines": [
       {
-        "id": "284:18",
+        "id": "284:18b",
         "page": 284,
         "line": 18,
         "text": "And it came to pass that they all ",
@@ -1167,7 +1167,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/284"
       },
       {
-        "id": "284:22",
+        "id": "284:22a",
         "page": 284,
         "line": 22,
         "text": "and they arose and stood upon their feet;",
@@ -1181,7 +1181,7 @@
     "verse": 26,
     "lines": [
       {
-        "id": "284:22",
+        "id": "284:22b",
         "page": 284,
         "line": 22,
         "text": "and Alma ",
@@ -1349,7 +1349,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/284"
       },
       {
-        "id": "284:44",
+        "id": "284:44a",
         "page": 284,
         "line": 44,
         "text": "forth into the city.",
@@ -1363,7 +1363,7 @@
     "verse": 29,
     "lines": [
       {
-        "id": "284:44",
+        "id": "284:44b",
         "page": 284,
         "line": 44,
         "text": "Now the people having heard a ",

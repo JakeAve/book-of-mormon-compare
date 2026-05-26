@@ -5,6 +5,13 @@
     "verse": 1,
     "lines": [
       {
+        "id": "363:32",
+        "page": 363,
+        "line": 32,
+        "text": "CHAPTER XX. ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/363"
+      },
+      {
         "id": "363:33",
         "page": 363,
         "line": 33,
@@ -26,7 +33,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/363"
       },
       {
-        "id": "363:36",
+        "id": "363:36a",
         "page": 363,
         "line": 36,
         "text": "also went forth.",
@@ -40,7 +47,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "363:36",
+        "id": "363:36b",
         "page": 363,
         "line": 36,
         "text": "Now we shall say no more concern",
@@ -96,7 +103,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/364"
       },
       {
-        "id": "364:2",
+        "id": "364:2a",
         "page": 364,
         "line": 2,
         "text": "year of the reign of the judges.",
@@ -110,7 +117,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "364:2",
+        "id": "364:2b",
         "page": 364,
         "line": 2,
         "text": "For behold, it came ",
@@ -152,10 +159,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/364"
       },
       {
-        "id": "364:8",
+        "id": "364:8a",
         "page": 364,
         "line": 8,
-        "text": "the land of Jershon. And it came to pass that the La",
+        "text": "the land of Jershon.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/364"
       }
     ]
@@ -165,6 +172,13 @@
     "chapter": 43,
     "verse": 5,
     "lines": [
+      {
+        "id": "364:8b",
+        "page": 364,
+        "line": 8,
+        "text": "And it came to pass that the La",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/364"
+      },
       {
         "id": "364:9",
         "page": 364,
@@ -187,7 +201,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/364"
       },
       {
-        "id": "364:12",
+        "id": "364:12a",
         "page": 364,
         "line": 12,
         "text": "was their leader.",
@@ -201,7 +215,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "364:12",
+        "id": "364:12b",
         "page": 364,
         "line": 12,
         "text": "And now as the Amalekites were of ",
@@ -257,7 +271,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/364"
       },
       {
-        "id": "364:19",
+        "id": "364:19a",
         "page": 364,
         "line": 19,
         "text": "subjection, to the accomplishment of his designs;",
@@ -271,7 +285,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "364:19",
+        "id": "364:19b",
         "page": 364,
         "line": 19,
         "text": "for ",
@@ -306,10 +320,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/364"
       },
       {
-        "id": "364:24",
+        "id": "364:24a",
         "page": 364,
         "line": 24,
-        "text": "bondage, &c. And",
+        "text": "bondage,",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/364"
       }
     ]
@@ -320,10 +334,10 @@
     "verse": 9,
     "lines": [
       {
-        "id": "364:24",
+        "id": "364:24b",
         "page": 364,
         "line": 24,
-        "text": "now the design of the Nephites ",
+        "text": "&c. And now the design of the Nephites ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/364"
       },
       {
@@ -362,7 +376,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/364"
       },
       {
-        "id": "364:30",
+        "id": "364:30a",
         "page": 364,
         "line": 30,
         "text": "God according to their desires;",
@@ -376,7 +390,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "364:30",
+        "id": "364:30b",
         "page": 364,
         "line": 30,
         "text": "for they knew that ",
@@ -404,7 +418,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/364"
       },
       {
-        "id": "364:34",
+        "id": "364:34a",
         "page": 364,
         "line": 34,
         "text": "stroy;",
@@ -418,7 +432,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "364:34",
+        "id": "364:34b",
         "page": 364,
         "line": 34,
         "text": "yea, and they also knew the extreme hatred of ",
@@ -460,7 +474,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/364"
       },
       {
-        "id": "364:40",
+        "id": "364:40a",
         "page": 364,
         "line": 40,
         "text": "of the Lamanites, they would be destroyed.",
@@ -474,7 +488,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "364:40",
+        "id": "364:40b",
         "page": 364,
         "line": 40,
         "text": "And the ",
@@ -488,17 +502,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/364"
       },
       {
-        "id": "364:42",
+        "id": "364:42a",
         "page": 364,
         "line": 42,
-        "text": "ed; therefore they gave them lands for their inherit",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/364"
-      },
-      {
-        "id": "364:43",
-        "page": 364,
-        "line": 43,
-        "text": "ance.",
+        "text": "ed; therefore they gave them lands for their",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/364"
       }
     ]
@@ -509,10 +516,17 @@
     "verse": 13,
     "lines": [
       {
+        "id": "364:42b",
+        "page": 364,
+        "line": 42,
+        "text": "inherit ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/364"
+      },
+      {
         "id": "364:43",
         "page": 364,
         "line": 43,
-        "text": "And the people of Ammon did give unto the ",
+        "text": "ance. And the people of Ammon did give unto the ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/364"
       },
       {
@@ -558,7 +572,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/365"
       },
       {
-        "id": "365:3",
+        "id": "365:3a",
         "page": 365,
         "line": 3,
         "text": "the descendants of the priests of Noah.",
@@ -572,7 +586,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "365:3",
+        "id": "365:3b",
         "page": 365,
         "line": 3,
         "text": "Now those ",
@@ -628,7 +642,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/365"
       },
       {
-        "id": "365:10",
+        "id": "365:10a",
         "page": 365,
         "line": 10,
         "text": "meet them in the land of Jershon.",
@@ -642,7 +656,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "365:10",
+        "id": "365:10b",
         "page": 365,
         "line": 10,
         "text": "Now the leader of ",
@@ -670,7 +684,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/365"
       },
       {
-        "id": "365:14",
+        "id": "365:14a",
         "page": 365,
         "line": 14,
         "text": "phites; and his name was Moroni;",
@@ -684,7 +698,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "365:14",
+        "id": "365:14b",
         "page": 365,
         "line": 14,
         "text": "and Moroni took ",
@@ -747,7 +761,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/365"
       },
       {
-        "id": "365:22",
+        "id": "365:22a",
         "page": 365,
         "line": 22,
         "text": "weapons of war.",
@@ -761,7 +775,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "365:22",
+        "id": "365:22b",
         "page": 365,
         "line": 22,
         "text": "And when the armies of the La",
@@ -789,17 +803,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/365"
       },
       {
-        "id": "365:26",
+        "id": "365:26a",
         "page": 365,
         "line": 26,
-        "text": "heads; and also they were dressed with thick cloth",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/365"
-      },
-      {
-        "id": "365:27",
-        "page": 365,
-        "line": 27,
-        "text": "ing.",
+        "text": "heads; and also they were dressed with thick",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/365"
       }
     ]
@@ -810,10 +817,17 @@
     "verse": 20,
     "lines": [
       {
+        "id": "365:26b",
+        "page": 365,
+        "line": 26,
+        "text": "cloth ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/365"
+      },
+      {
         "id": "365:27",
         "page": 365,
         "line": 27,
-        "text": "Now the army of Zerahemnah was not prepared ",
+        "text": "ing. Now the army of Zerahemnah was not prepared ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/365"
       },
       {
@@ -852,7 +866,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/365"
       },
       {
-        "id": "365:33",
+        "id": "365:33a",
         "page": 365,
         "line": 33,
         "text": "Amalekites.",
@@ -866,7 +880,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "365:33",
+        "id": "365:33b",
         "page": 365,
         "line": 33,
         "text": "But they were not armed with breast",
@@ -964,7 +978,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/365"
       },
       {
-        "id": "365:46",
+        "id": "365:46a",
         "page": 365,
         "line": 46,
         "text": "had gone.",
@@ -978,7 +992,7 @@
     "verse": 23,
     "lines": [
       {
-        "id": "365:46",
+        "id": "365:46b",
         "page": 365,
         "line": 46,
         "text": "But it came to pass, as soon as they had ",
@@ -1020,7 +1034,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/366"
       },
       {
-        "id": "366:6",
+        "id": "366:6a",
         "page": 366,
         "line": 6,
         "text": "go, to defend themselves against the Lamanites.",
@@ -1034,7 +1048,7 @@
     "verse": 24,
     "lines": [
       {
-        "id": "366:6",
+        "id": "366:6b",
         "page": 366,
         "line": 6,
         "text": "And ",
@@ -1132,7 +1146,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/366"
       },
       {
-        "id": "366:19",
+        "id": "366:19a",
         "page": 366,
         "line": 19,
         "text": "marched over into the land of MantI.",
@@ -1146,7 +1160,7 @@
     "verse": 26,
     "lines": [
       {
-        "id": "366:19",
+        "id": "366:19b",
         "page": 366,
         "line": 19,
         "text": "And he caused ",
@@ -1216,7 +1230,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/366"
       },
       {
-        "id": "366:28",
+        "id": "366:28a",
         "page": 366,
         "line": 28,
         "text": "of the river Sidon, in the wilderness.",
@@ -1230,7 +1244,7 @@
     "verse": 28,
     "lines": [
       {
-        "id": "366:28",
+        "id": "366:28b",
         "page": 366,
         "line": 28,
         "text": "And Moroni ",
@@ -1286,7 +1300,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/366"
       },
       {
-        "id": "366:35",
+        "id": "366:35a",
         "page": 366,
         "line": 35,
         "text": "themselves, over all the land;",
@@ -1300,7 +1314,7 @@
     "verse": 30,
     "lines": [
       {
-        "id": "366:35",
+        "id": "366:35b",
         "page": 366,
         "line": 35,
         "text": "and he also knowing ",
@@ -1335,7 +1349,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/366"
       },
       {
-        "id": "366:40",
+        "id": "366:40a",
         "page": 366,
         "line": 40,
         "text": "course the Lamanites were to take.",
@@ -1349,7 +1363,7 @@
     "verse": 31,
     "lines": [
       {
-        "id": "366:40",
+        "id": "366:40b",
         "page": 366,
         "line": 40,
         "text": "Therefore he di",
@@ -1370,7 +1384,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/366"
       },
       {
-        "id": "366:43",
+        "id": "366:43a",
         "page": 366,
         "line": 43,
         "text": "of the hill Riplah;",
@@ -1384,7 +1398,7 @@
     "verse": 32,
     "lines": [
       {
-        "id": "366:43",
+        "id": "366:43b",
         "page": 366,
         "line": 43,
         "text": "and the remainder he concealed in ",
@@ -1398,7 +1412,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/366"
       },
       {
-        "id": "366:45",
+        "id": "366:45a",
         "page": 366,
         "line": 45,
         "text": "so down into the borders of the land Manti.",
@@ -1412,7 +1426,7 @@
     "verse": 33,
     "lines": [
       {
-        "id": "366:45",
+        "id": "366:45b",
         "page": 366,
         "line": 45,
         "text": "And ",
@@ -1454,7 +1468,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/367"
       },
       {
-        "id": "367:3",
+        "id": "367:3a",
         "page": 367,
         "line": 3,
         "text": "Moroni was concealed.",
@@ -1468,7 +1482,7 @@
     "verse": 35,
     "lines": [
       {
-        "id": "367:3",
+        "id": "367:3b",
         "page": 367,
         "line": 3,
         "text": "And as the Lamanites had ",
@@ -1545,7 +1559,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/367"
       },
       {
-        "id": "367:13",
+        "id": "367:13a",
         "page": 367,
         "line": 13,
         "text": "my of Lehi;",
@@ -1559,7 +1573,7 @@
     "verse": 37,
     "lines": [
       {
-        "id": "367:13",
+        "id": "367:13b",
         "page": 367,
         "line": 13,
         "text": "and the work of death commenced, on ",
@@ -1594,7 +1608,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/367"
       },
       {
-        "id": "367:18",
+        "id": "367:18a",
         "page": 367,
         "line": 18,
         "text": "stroke;",
@@ -1608,7 +1622,7 @@
     "verse": 38,
     "lines": [
       {
-        "id": "367:18",
+        "id": "367:18b",
         "page": 367,
         "line": 18,
         "text": "while on the other hand, there was now and ",
@@ -1657,7 +1671,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/367"
       },
       {
-        "id": "367:25",
+        "id": "367:25a",
         "page": 367,
         "line": 25,
         "text": "the work of death among the Lamanites.",
@@ -1671,7 +1685,7 @@
     "verse": 39,
     "lines": [
       {
-        "id": "367:25",
+        "id": "367:25b",
         "page": 367,
         "line": 25,
         "text": "And it ",
@@ -1769,7 +1783,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/367"
       },
       {
-        "id": "367:37",
+        "id": "367:37a",
         "page": 367,
         "line": 37,
         "text": "them.",
@@ -1783,7 +1797,7 @@
     "verse": 42,
     "lines": [
       {
-        "id": "367:37",
+        "id": "367:37b",
         "page": 367,
         "line": 37,
         "text": "And the Lamanites did flee again before them, ",
@@ -1797,7 +1811,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/367"
       },
       {
-        "id": "367:39",
+        "id": "367:39a",
         "page": 367,
         "line": 39,
         "text": "by the armies of Moroni.",
@@ -1811,7 +1825,7 @@
     "verse": 43,
     "lines": [
       {
-        "id": "367:39",
+        "id": "367:39b",
         "page": 367,
         "line": 39,
         "text": "Now in this case, the La",
@@ -1839,7 +1853,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/367"
       },
       {
-        "id": "367:43",
+        "id": "367:43a",
         "page": 367,
         "line": 43,
         "text": "ginning;",
@@ -1853,7 +1867,7 @@
     "verse": 44,
     "lines": [
       {
-        "id": "367:43",
+        "id": "367:43b",
         "page": 367,
         "line": 43,
         "text": "and they were inspired by the Zoramites, ",
@@ -1916,7 +1930,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/368"
       },
       {
-        "id": "368:5",
+        "id": "368:5a",
         "page": 368,
         "line": 5,
         "text": "fierce anger.",
@@ -1930,7 +1944,7 @@
     "verse": 45,
     "lines": [
       {
-        "id": "368:5",
+        "id": "368:5b",
         "page": 368,
         "line": 5,
         "text": "Nevertheless, the Nephites were inspir",
@@ -1965,7 +1979,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/368"
       },
       {
-        "id": "368:10",
+        "id": "368:10a",
         "page": 368,
         "line": 10,
         "text": "their church;",
@@ -1979,7 +1993,7 @@
     "verse": 46,
     "lines": [
       {
-        "id": "368:10",
+        "id": "368:10b",
         "page": 368,
         "line": 10,
         "text": "and they were doing that which they ",
@@ -2014,7 +2028,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/368"
       },
       {
-        "id": "368:15",
+        "id": "368:15a",
         "page": 368,
         "line": 15,
         "text": "selves to be slain by the hands of your enemies.",
@@ -2028,7 +2042,7 @@
     "verse": 47,
     "lines": [
       {
-        "id": "368:15",
+        "id": "368:15b",
         "page": 368,
         "line": 15,
         "text": "And ",
@@ -2119,7 +2133,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/368"
       },
       {
-        "id": "368:27",
+        "id": "368:27a",
         "page": 368,
         "line": 27,
         "text": "bondage.",
@@ -2133,7 +2147,7 @@
     "verse": 49,
     "lines": [
       {
-        "id": "368:27",
+        "id": "368:27b",
         "page": 368,
         "line": 27,
         "text": "And it came to pass that they turned upon ",
@@ -2154,7 +2168,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/368"
       },
       {
-        "id": "368:30",
+        "id": "368:30a",
         "page": 368,
         "line": 30,
         "text": "from bondage.",
@@ -2168,7 +2182,7 @@
     "verse": 50,
     "lines": [
       {
-        "id": "368:30",
+        "id": "368:30b",
         "page": 368,
         "line": 30,
         "text": "And they began to stand against the ",
@@ -2196,7 +2210,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/368"
       },
       {
-        "id": "368:34",
+        "id": "368:34a",
         "page": 368,
         "line": 34,
         "text": "even to the waters of Sidon.",
@@ -2210,7 +2224,7 @@
     "verse": 51,
     "lines": [
       {
-        "id": "368:34",
+        "id": "368:34b",
         "page": 368,
         "line": 34,
         "text": "Now the Lamanites ",
@@ -2245,7 +2259,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/368"
       },
       {
-        "id": "368:39",
+        "id": "368:39a",
         "page": 368,
         "line": 39,
         "text": "Sidon;",
@@ -2259,7 +2273,7 @@
     "verse": 52,
     "lines": [
       {
-        "id": "368:39",
+        "id": "368:39b",
         "page": 368,
         "line": 39,
         "text": "therefore the armies of Moroni encircled them ",
@@ -2273,7 +2287,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/368"
       },
       {
-        "id": "368:41",
+        "id": "368:41a",
         "page": 368,
         "line": 41,
         "text": "hold, on the east, were the men of Lehi;",
@@ -2287,7 +2301,7 @@
     "verse": 53,
     "lines": [
       {
-        "id": "368:41",
+        "id": "368:41b",
         "page": 368,
         "line": 41,
         "text": "therefore ",
@@ -2315,7 +2329,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/368"
       },
       {
-        "id": "368:45",
+        "id": "368:45a",
         "page": 368,
         "line": 45,
         "text": "the Nephites, they were struck with terror.",
@@ -2329,7 +2343,7 @@
     "verse": 54,
     "lines": [
       {
-        "id": "368:45",
+        "id": "368:45b",
         "page": 368,
         "line": 45,
         "text": "Now ",

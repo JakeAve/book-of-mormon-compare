@@ -26,7 +26,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/480"
       },
       {
-        "id": "480:20",
+        "id": "480:20a",
         "page": 480,
         "line": 20,
         "text": "hours;",
@@ -40,7 +40,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "480:20",
+        "id": "480:20b",
         "page": 480,
         "line": 20,
         "text": "for so great was the astonishment of the people that ",
@@ -82,17 +82,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/480"
       },
       {
-        "id": "480:25",
+        "id": "480:25a",
         "page": 480,
         "line": 25,
-        "text": "people, and all the people did hear, and did witness of it, say",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/480"
-      },
-      {
-        "id": "480:26",
-        "page": 480,
-        "line": 26,
-        "text": "ing:",
+        "text": "people, and all the people did hear, and did witness of it,",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/480"
       }
     ]
@@ -103,10 +96,17 @@
     "verse": 4,
     "lines": [
       {
+        "id": "480:25b",
+        "page": 480,
+        "line": 25,
+        "text": "say ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/480"
+      },
+      {
         "id": "480:26",
         "page": 480,
         "line": 26,
-        "text": "O ye people of these great cities which have fallen, ",
+        "text": "ing: O ye people of these great cities which have fallen, ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/480"
       },
       {
@@ -124,17 +124,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/480"
       },
       {
-        "id": "480:29",
+        "id": "480:29a",
         "page": 480,
         "line": 29,
-        "text": "gathered you as a hen gathereth her chickens under her wings, ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/480"
-      },
-      {
-        "id": "480:30",
-        "page": 480,
-        "line": 30,
-        "text": "and have nourished you.",
+        "text": "gathered you as a hen gathereth her chickens under",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/480"
       }
     ]
@@ -145,10 +138,17 @@
     "verse": 5,
     "lines": [
       {
+        "id": "480:29b",
+        "page": 480,
+        "line": 29,
+        "text": "her wings, ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/480"
+      },
+      {
         "id": "480:30",
         "page": 480,
         "line": 30,
-        "text": "And again, how oft would I have ",
+        "text": "and have nourished you. And again, how oft would I have ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/480"
       },
       {
@@ -187,7 +187,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/480"
       },
       {
-        "id": "480:36",
+        "id": "480:36a",
         "page": 480,
         "line": 36,
         "text": "not.",
@@ -201,7 +201,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "480:36",
+        "id": "480:36b",
         "page": 480,
         "line": 36,
         "text": "O ye house of Israel, whom I have spared, how oft will ",
@@ -271,7 +271,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/480"
       },
       {
-        "id": "481:1",
+        "id": "481:1a",
         "page": 481,
         "line": 1,
         "text": "cause of the loss of their kindred and friends.",
@@ -285,7 +285,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "481:1",
+        "id": "481:1b",
         "page": 481,
         "line": 1,
         "text": "And it came ",
@@ -320,7 +320,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/481"
       },
       {
-        "id": "481:6",
+        "id": "481:6a",
         "page": 481,
         "line": 6,
         "text": "all the tumultuous noises did pass away,",
@@ -334,7 +334,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "481:6",
+        "id": "481:6b",
         "page": 481,
         "line": 6,
         "text": "and the earth did ",
@@ -369,7 +369,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/481"
       },
       {
-        "id": "481:11",
+        "id": "481:11a",
         "page": 481,
         "line": 11,
         "text": "Lord Jesus Christ, their Redeemer:",
@@ -383,7 +383,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "481:11",
+        "id": "481:11b",
         "page": 481,
         "line": 11,
         "text": "And thus far were the ",
@@ -425,10 +425,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/481"
       },
       {
-        "id": "481:16",
+        "id": "481:16a",
         "page": 481,
         "line": 16,
-        "text": "of the saints, which were spared;",
+        "text": "of the saints, which were spared; and they were spared,",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/481"
       }
     ]
@@ -439,10 +439,10 @@
     "verse": 13,
     "lines": [
       {
-        "id": "481:16",
+        "id": "481:16b",
         "page": 481,
         "line": 16,
-        "text": "and they were spared, and ",
+        "text": "and ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/481"
       },
       {
@@ -484,7 +484,14 @@
         "id": "481:22",
         "page": 481,
         "line": 22,
-        "text": "ness.",
+        "text": "ness. And now whoso readeth, let him understand; he that ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/481"
+      },
+      {
+        "id": "481:23a",
+        "page": 481,
+        "line": 23,
+        "text": "hath the",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/481"
       }
     ]
@@ -495,17 +502,10 @@
     "verse": 14,
     "lines": [
       {
-        "id": "481:22",
-        "page": 481,
-        "line": 22,
-        "text": "And now whoso readeth, let him understand; he that ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/481"
-      },
-      {
-        "id": "481:23",
+        "id": "481:23b",
         "page": 481,
         "line": 23,
-        "text": "hath the scriptures, let him search them, and see and behold ",
+        "text": "scriptures, let him search them, and see and behold ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/481"
       },
       {
@@ -530,10 +530,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/481"
       },
       {
-        "id": "481:27",
+        "id": "481:27a",
         "page": 481,
         "line": 27,
-        "text": "filling of the prophecies of many of the holy prophets. Be",
+        "text": "filling of the prophecies of many of the holy prophets.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/481"
       }
     ]
@@ -543,6 +543,13 @@
     "chapter": 10,
     "verse": 15,
     "lines": [
+      {
+        "id": "481:27b",
+        "page": 481,
+        "line": 27,
+        "text": "Be",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/481"
+      },
       {
         "id": "481:28",
         "page": 481,
@@ -558,7 +565,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/481"
       },
       {
-        "id": "481:30",
+        "id": "481:30a",
         "page": 481,
         "line": 30,
         "text": "these things;",
@@ -572,7 +579,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "481:30",
+        "id": "481:30b",
         "page": 481,
         "line": 30,
         "text": "yea, the prophet Zenos did testify of these ",
@@ -593,7 +600,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/481"
       },
       {
-        "id": "481:33",
+        "id": "481:33a",
         "page": 481,
         "line": 33,
         "text": "remnant of their seed.",
@@ -607,7 +614,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "481:33",
+        "id": "481:33b",
         "page": 481,
         "line": 33,
         "text": "Behold our father Jacob also testified ",
@@ -642,7 +649,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/481"
       },
       {
-        "id": "481:38",
+        "id": "481:38a",
         "page": 481,
         "line": 38,
         "text": "lem?",
@@ -656,7 +663,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "481:38",
+        "id": "481:38b",
         "page": 481,
         "line": 38,
         "text": "And it came to pass that in the ending of the thirty and ",
@@ -698,7 +705,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/481"
       },
       {
-        "id": "482:1",
+        "id": "482:1a",
         "page": 482,
         "line": 1,
         "text": "Heaven, he did truly manifest himself unto them,",
@@ -712,7 +719,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "482:1",
+        "id": "482:1b",
         "page": 482,
         "line": 1,
         "text": "shewing his ",

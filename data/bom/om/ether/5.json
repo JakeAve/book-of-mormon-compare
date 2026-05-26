@@ -5,11 +5,19 @@
     "verse": 1,
     "lines": [
       {
-        "id": "219:1",
+        "id": "218:1c",
+        "page": 218,
+        "line": 1,
+        "text": "them ",
+        "markdown": "them}} ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/218"
+      },
+      {
+        "id": "219:1a",
         "page": 219,
         "line": 1,
-        "text": "commanded me according to my memory & I have told you the things whichI have sealed up therefore touch them not in order that ye may translate for thatthing is forbidden you except by & by it shall be wisdom in God",
-        "markdown": "commanded me a}}ccording to my m{{emory & I have told you the things whichI have sealed up}} therefore touch {{them not in order that ye may translate for thatthing is forbidden you except}} by & {{by it shall be wisdom in God",
+        "text": "was commanded me according to my memory & I have told you the things whichI have sealed up therefore touch them not in order that ye may translate for thatthing is forbidden you except by & by it shall be wisdom in God",
+        "markdown": "{{was commanded me a}}ccording to my m{{emory & I have told you the things whichI have sealed up}} therefore touch {{them not in order that ye may translate for thatthing is forbidden you except}} by & {{by it shall be wisdom in God",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/219"
       }
     ]
@@ -20,7 +28,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "219:1",
+        "id": "219:1b",
         "page": 219,
         "line": 1,
         "text": "& behold ye may",
@@ -34,7 +42,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "219:1",
+        "id": "219:1c",
         "page": 219,
         "line": 1,
         "text": "be ",
@@ -42,7 +50,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/219"
       },
       {
-        "id": "219:2",
+        "id": "219:2a",
         "page": 219,
         "line": 2,
         "text": "know of a surety that these things are true",
@@ -57,7 +65,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "219:2",
+        "id": "219:2b",
         "page": 219,
         "line": 2,
         "text": "& in the mouth of three witnessesshall these things be established & the testimony of three & this work inthewhichshall be shewn forth the power of God & also his word of which the Father & theSon & the Holy Ghost beareth reckord & all this shall stand as a testimony against the world at the last day",
@@ -72,7 +80,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "219:2",
+        "id": "219:2c",
         "page": 219,
         "line": 2,
         "text": "& if it so be that they repent & come unto the Father in the name of Jesus they shall be received into the Kingdom of",
@@ -87,19 +95,11 @@
     "verse": 6,
     "lines": [
       {
-        "id": "219:2",
+        "id": "219:2d",
         "page": 219,
         "line": 2,
-        "text": "God & now ifI have no authority for these things Judge ye for ye shall know that I have authority when ye shall see me & we shall stand before God at the last day amen ",
-        "markdown": "God & now ifI}} have no authority for these things Judg{{e ye for ye shall know that I have author}}ity when ye shall see me & we shall stan{{d before God at the last day amen }} ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/219"
-      },
-      {
-        "id": "219:3",
-        "page": 219,
-        "line": 3,
-        "text": "Chapter And now I Moroni procede to give the rec",
-        "markdown": "Chapter And now {{I Moroni procede to give the rec }}",
+        "text": "God & now ifI have no authority for these things Judge ye for ye shall know that I have authority when ye shall see me & we shall stand before God at the last day amen",
+        "markdown": "God & now ifI}} have no authority for these things Judg{{e ye for ye shall know that I have author}}ity when ye shall see me & we shall stan{{d before God at the last day amen }}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/219"
       }
     ]

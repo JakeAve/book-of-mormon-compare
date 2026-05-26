@@ -5,26 +5,19 @@
     "verse": 2,
     "lines": [
       {
-        "id": "47:11",
+        "id": "47:11c",
         "page": 47,
         "line": 11,
-        "text": "already had",
-        "markdown": "already had}}",
+        "text": "already had ",
+        "markdown": "already had}} ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/47"
-      }
-    ]
-  },
-  {
-    "book": "2-ne",
-    "chapter": 6,
-    "verse": 5,
-    "lines": [
+      },
       {
-        "id": "48:1",
+        "id": "48:1a",
         "page": 48,
         "line": 1,
-        "text": "fathers & their Queens thy nursing Mothers they",
-        "markdown": "{{fathers & their Queens thy nursing Mothers they",
+        "text": "fathers & their",
+        "markdown": "{{fathers & their",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/48"
       }
     ]
@@ -32,13 +25,13 @@
   {
     "book": "2-ne",
     "chapter": 6,
-    "verse": 6,
+    "verse": 4,
     "lines": [
       {
-        "id": "48:1",
+        "id": "48:1b",
         "page": 48,
         "line": 1,
-        "text": "shall bow",
+        "text": "Queens thy nursing Mothers they",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/48"
       }
     ]
@@ -49,11 +42,11 @@
     "verse": 7,
     "lines": [
       {
-        "id": "48:1",
+        "id": "48:1c",
         "page": 48,
         "line": 1,
-        "text": "down to thee with ",
-        "markdown": "down to the}}e with ",
+        "text": "shall bow down to thee with ",
+        "markdown": "shall bow down to the}}e with ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/48"
       },
       {
@@ -65,7 +58,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/48"
       },
       {
-        "id": "48:3",
+        "id": "48:3a",
         "page": 48,
         "line": 3,
         "text": "that I am the Lord wor [for] they shall not be ashamed that wait for me",
@@ -80,7 +73,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "48:3",
+        "id": "48:3b",
         "page": 48,
         "line": 3,
         "text": "& now ",
@@ -95,7 +88,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/48"
       },
       {
-        "id": "48:5",
+        "id": "48:5a",
         "page": 48,
         "line": 5,
         "text": "th shewn me that they which were at Jerusalem from whence we came have beenslain & carried away captive",
@@ -110,7 +103,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "48:5",
+        "id": "48:5b",
         "page": 48,
         "line": 5,
         "text": "nevertheless the Lord hath shewn unto me thatthey should return again & he also hath shewn unto me that the Lord God the holy one of Israel should manifest himself unto them in the flesh & afterthat he should manifest himself they should scorge him & crucify him according ",
@@ -118,11 +111,11 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/48"
       },
       {
-        "id": "48:6",
+        "id": "48:6a",
         "page": 48,
         "line": 6,
-        "text": "to the words of the Angel which spake it unto me &",
-        "markdown": "{{to the wor}}ds of the An{{gel which spake it unto}} me &",
+        "text": "to the words of the Angel which spake it unto me",
+        "markdown": "{{to the wor}}ds of the An{{gel which spake it unto}} me",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/48"
       }
     ]
@@ -133,10 +126,10 @@
     "verse": 10,
     "lines": [
       {
-        "id": "48:6",
+        "id": "48:6b",
         "page": 48,
         "line": 6,
-        "text": "after that they have hearden",
+        "text": "& after that they have hearden",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/48"
       },
       {
@@ -148,7 +141,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/48"
       },
       {
-        "id": "48:8",
+        "id": "48:8a",
         "page": 48,
         "line": 8,
         "text": "that they shall be smitten & afflicted",
@@ -163,7 +156,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "48:8",
+        "id": "48:8b",
         "page": 48,
         "line": 8,
         "text": "wherefore after they are driven to & fro for ",
@@ -187,7 +180,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/48"
       },
       {
-        "id": "48:11",
+        "id": "48:11a",
         "page": 48,
         "line": 11,
         "text": "the lands of their inheritance",
@@ -202,55 +195,19 @@
     "verse": 12,
     "lines": [
       {
-        "id": "48:11",
+        "id": "48:11b",
         "page": 48,
         "line": 11,
-        "text": "& blessed are the Gentiles they of whom the",
-        "markdown": "& blessed are the Gen}}t{{i}}l{{es}} th{{ey of w}}hom th{{e}}",
+        "text": "& blessed are the Gentiles they of whom the prophet hath ",
+        "markdown": "& blessed are the Gen}}t{{i}}l{{es}} th{{ey of w}}hom th{{e}} p{{rop}}h{{et hath}} ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/48"
-      }
-    ]
-  },
-  {
-    "book": "2-ne",
-    "chapter": 6,
-    "verse": 13,
-    "lines": [
+      },
       {
-        "id": "48:11",
-        "page": 48,
-        "line": 11,
-        "text": "prophet hath",
-        "markdown": "p{{rop}}h{{et hath}}",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/48"
-      }
-    ]
-  },
-  {
-    "book": "2-ne",
-    "chapter": 6,
-    "verse": 16,
-    "lines": [
-      {
-        "id": "49:1",
+        "id": "49:1a",
         "page": 49,
         "line": 1,
-        "text": "am thy Saviour &",
-        "markdown": "{{am thy Saviour &",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/49"
-      }
-    ]
-  },
-  {
-    "book": "2-ne",
-    "chapter": 6,
-    "verse": 17,
-    "lines": [
-      {
-        "id": "49:1",
-        "page": 49,
-        "line": 1,
-        "text": "thy",
+        "text": "am thy Saviour",
+        "markdown": "{{am thy Saviour",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/49"
       }
     ]
@@ -261,10 +218,10 @@
     "verse": 18,
     "lines": [
       {
-        "id": "49:1",
+        "id": "49:1b",
         "page": 49,
         "line": 1,
-        "text": "redeemer the mighty one of Jacob",
+        "text": "& thy redeemer the mighty one of Jacob",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/49"
       }
     ]

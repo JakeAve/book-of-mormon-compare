@@ -5,6 +5,13 @@
     "verse": 1,
     "lines": [
       {
+        "id": "127:25",
+        "page": 127,
+        "line": 25,
+        "text": "CHAPTER XV. ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/127"
+      },
+      {
         "id": "127:26",
         "page": 127,
         "line": 26,
@@ -33,7 +40,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/127"
       },
       {
-        "id": "127:30",
+        "id": "127:30a",
         "page": 127,
         "line": 30,
         "text": "hearts of the children of men.",
@@ -47,7 +54,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "127:30",
+        "id": "127:30b",
         "page": 127,
         "line": 30,
         "text": "But behold, there are many ",
@@ -68,7 +75,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/127"
       },
       {
-        "id": "127:33",
+        "id": "127:33a",
         "page": 127,
         "line": 33,
         "text": "are written, and esteem them as things of nought.",
@@ -82,7 +89,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "127:33",
+        "id": "127:33b",
         "page": 127,
         "line": 33,
         "text": "But I, Ne",
@@ -117,7 +124,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/127"
       },
       {
-        "id": "127:38",
+        "id": "127:38a",
         "page": 127,
         "line": 38,
         "text": "know that he will hear my cry;",
@@ -131,7 +138,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "127:38",
+        "id": "127:38b",
         "page": 127,
         "line": 38,
         "text": "and I know that the Lord God ",
@@ -173,7 +180,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/128"
       },
       {
-        "id": "128:5",
+        "id": "128:5a",
         "page": 128,
         "line": 5,
         "text": "the end, which is life eternal.",
@@ -187,7 +194,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "128:5",
+        "id": "128:5b",
         "page": 128,
         "line": 5,
         "text": "And it speaketh harsh against ",
@@ -208,7 +215,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/128"
       },
       {
-        "id": "128:8",
+        "id": "128:8a",
         "page": 128,
         "line": 8,
         "text": "be of the spirit of the Devil.",
@@ -222,7 +229,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "128:8",
+        "id": "128:8b",
         "page": 128,
         "line": 8,
         "text": "I glory in plainness; I glory in ",
@@ -236,7 +243,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/128"
       },
       {
-        "id": "128:10",
+        "id": "128:10a",
         "page": 128,
         "line": 10,
         "text": "hell.",
@@ -250,17 +257,17 @@
     "verse": 7,
     "lines": [
       {
-        "id": "128:10",
+        "id": "128:10b",
         "page": 128,
         "line": 10,
         "text": "I have charity for my people, and great faith in Christ, ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/128"
       },
       {
-        "id": "128:11",
+        "id": "128:11a",
         "page": 128,
         "line": 11,
-        "text": "that I shall meet many souls spotless at his judgment seat.",
+        "text": "that I shall meet many souls spotless at his",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/128"
       }
     ]
@@ -271,10 +278,10 @@
     "verse": 8,
     "lines": [
       {
-        "id": "128:11",
+        "id": "128:11b",
         "page": 128,
         "line": 11,
-        "text": "I ",
+        "text": "judgment seat. I ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/128"
       },
       {
@@ -285,10 +292,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/128"
       },
       {
-        "id": "128:13",
+        "id": "128:13a",
         "page": 128,
         "line": 13,
-        "text": "from whence I came.",
+        "text": "from whence I",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/128"
       }
     ]
@@ -299,10 +306,10 @@
     "verse": 9,
     "lines": [
       {
-        "id": "128:13",
+        "id": "128:13b",
         "page": 128,
         "line": 13,
-        "text": "I also have charity for the Gentiles.— ",
+        "text": "came. I also have charity for the Gentiles.— ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/128"
       },
       {
@@ -376,7 +383,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/128"
       },
       {
-        "id": "128:23",
+        "id": "128:23a",
         "page": 128,
         "line": 23,
         "text": "me; and they teach all men that they should do good.",
@@ -390,7 +397,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "128:23",
+        "id": "128:23b",
         "page": 128,
         "line": 23,
         "text": "And ",
@@ -425,17 +432,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/128"
       },
       {
-        "id": "128:28",
+        "id": "128:28a",
         "page": 128,
         "line": 28,
-        "text": "ded of him to write these things, notwithstanding my weak",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/128"
-      },
-      {
-        "id": "128:29",
-        "page": 128,
-        "line": 29,
-        "text": "ness:",
+        "text": "ded of him to write these things, notwithstanding my",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/128"
       }
     ]
@@ -446,10 +446,17 @@
     "verse": 12,
     "lines": [
       {
+        "id": "128:28b",
+        "page": 128,
+        "line": 28,
+        "text": "weak ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/128"
+      },
+      {
         "id": "128:29",
         "page": 128,
         "line": 29,
-        "text": "and I pray the Father in the name of Christ, that many ",
+        "text": "ness: and I pray the Father in the name of Christ, that many ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/128"
       },
       {
@@ -495,7 +502,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/128"
       },
       {
-        "id": "128:35",
+        "id": "128:35a",
         "page": 128,
         "line": 35,
         "text": "great day shall come;",
@@ -509,7 +516,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "128:35",
+        "id": "128:35b",
         "page": 128,
         "line": 35,
         "text": "and you that will not partake of the ",

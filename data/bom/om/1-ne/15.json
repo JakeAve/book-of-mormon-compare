@@ -2,22 +2,15 @@
   {
     "book": "1-ne",
     "chapter": 15,
-    "verse": 1,
-    "lines": [
-      {
-        "id": "22:20",
-        "page": 22,
-        "line": 20,
-        "text": "did make",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/22"
-      }
-    ]
-  },
-  {
-    "book": "1-ne",
-    "chapter": 15,
     "verse": 5,
     "lines": [
+      {
+        "id": "22:20c",
+        "page": 22,
+        "line": 20,
+        "text": "make ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/22"
+      },
       {
         "id": "23:1",
         "page": 23,
@@ -27,7 +20,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/23"
       },
       {
-        "id": "23:2",
+        "id": "23:2a",
         "page": 23,
         "line": 2,
         "text": "of the distruction of my people for I had beheld their fall",
@@ -42,7 +35,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "23:2",
+        "id": "23:2b",
         "page": 23,
         "line": 2,
         "text": "&it came to pass that after I had received strength I spake unto ",
@@ -58,7 +51,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/23"
       },
       {
-        "id": "23:4",
+        "id": "23:4a",
         "page": 23,
         "line": 4,
         "text": "utations",
@@ -72,7 +65,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "23:4",
+        "id": "23:4b",
         "page": 23,
         "line": 4,
         "text": "& they said behold we cannot understand the words ",
@@ -87,7 +80,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/23"
       },
       {
-        "id": "23:6",
+        "id": "23:6a",
         "page": 23,
         "line": 6,
         "text": "ches of the olive tree & also conserning the gentiles",
@@ -101,14 +94,14 @@
     "verse": 8,
     "lines": [
       {
-        "id": "23:6",
+        "id": "23:6b",
         "page": 23,
         "line": 6,
         "text": "& I said ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/23"
       },
       {
-        "id": "23:7",
+        "id": "23:7a",
         "page": 23,
         "line": 7,
         "text": "unto them have ye inquired of the Lord",
@@ -122,7 +115,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "23:7",
+        "id": "23:7b",
         "page": 23,
         "line": 7,
         "text": "& they said unto me ",
@@ -138,7 +131,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/23"
       },
       {
-        "id": "23:9",
+        "id": "23:9a",
         "page": 23,
         "line": 9,
         "text": "unto us",
@@ -152,7 +145,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "23:9",
+        "id": "23:9b",
         "page": 23,
         "line": 9,
         "text": "behold I said unto them how is it that ye do not ",
@@ -166,7 +159,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/23"
       },
       {
-        "id": "23:11",
+        "id": "23:11a",
         "page": 23,
         "line": 11,
         "text": "will perish because of the hardness of your hearts",
@@ -180,7 +173,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "23:11",
+        "id": "23:11b",
         "page": 23,
         "line": 11,
         "text": "do ye ",
@@ -216,7 +209,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/23"
       },
       {
-        "id": "23:16",
+        "id": "23:16a",
         "page": 23,
         "line": 16,
         "text": "be made known unto you",
@@ -230,7 +223,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "23:16",
+        "id": "23:16b",
         "page": 23,
         "line": 16,
         "text": "behold I say unto you that ",
@@ -259,7 +252,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/23"
       },
       {
-        "id": "23:20",
+        "id": "23:20a",
         "page": 23,
         "line": 20,
         "text": "a branch of the house of Israel",
@@ -273,7 +266,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "23:20",
+        "id": "23:20b",
         "page": 23,
         "line": 20,
         "text": "& now the thing which ",
@@ -404,7 +397,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/23"
       },
       {
-        "id": "23:37",
+        "id": "23:37a",
         "page": 23,
         "line": 37,
         "text": "how to come unto him & be saved",
@@ -419,7 +412,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "23:37",
+        "id": "23:37b",
         "page": 23,
         "line": 37,
         "text": "& then at that daywill they not rejoice & give praise unto their everlasting ",
@@ -450,7 +443,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/24"
       },
       {
-        "id": "24:4",
+        "id": "24:4a",
         "page": 24,
         "line": 4,
         "text": "fold of god",
@@ -464,7 +457,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "24:4",
+        "id": "24:4b",
         "page": 24,
         "line": 4,
         "text": "behold I say unto you yea they shall be num ",
@@ -485,7 +478,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/24"
       },
       {
-        "id": "24:7",
+        "id": "24:7a",
         "page": 24,
         "line": 7,
         "text": "olive tree",
@@ -499,7 +492,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "24:7",
+        "id": "24:7b",
         "page": 24,
         "line": 7,
         "text": "& this is what our father meaneth & he meaneth ",
@@ -583,7 +576,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/24"
       },
       {
-        "id": "24:18",
+        "id": "24:18a",
         "page": 24,
         "line": 18,
         "text": "be blessid",
@@ -597,7 +590,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "24:18",
+        "id": "24:18b",
         "page": 24,
         "line": 18,
         "text": "& it came to pass that I Nephi spake much unto ",
@@ -671,7 +664,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/24"
       },
       {
-        "id": "24:27",
+        "id": "24:27a",
         "page": 24,
         "line": 27,
         "text": "Lord",
@@ -685,7 +678,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "24:27",
+        "id": "24:27b",
         "page": 24,
         "line": 27,
         "text": "& it came to pass that they did speak unto me again ",
@@ -700,7 +693,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/24"
       },
       {
-        "id": "24:29",
+        "id": "24:29a",
         "page": 24,
         "line": 29,
         "text": "in a dream what meaneth the tree which he saw",
@@ -714,14 +707,14 @@
     "verse": 22,
     "lines": [
       {
-        "id": "24:29",
+        "id": "24:29b",
         "page": 24,
         "line": 29,
         "text": "& I said ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/24"
       },
       {
-        "id": "24:30",
+        "id": "24:30a",
         "page": 24,
         "line": 30,
         "text": "unto them it was a representaion of the tree of life",
@@ -735,7 +728,7 @@
     "verse": 23,
     "lines": [
       {
-        "id": "24:30",
+        "id": "24:30b",
         "page": 24,
         "line": 30,
         "text": "& they said ",
@@ -749,7 +742,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/24"
       },
       {
-        "id": "24:32",
+        "id": "24:32a",
         "page": 24,
         "line": 32,
         "text": "that led to the tree",
@@ -763,7 +756,7 @@
     "verse": 24,
     "lines": [
       {
-        "id": "24:32",
+        "id": "24:32b",
         "page": 24,
         "line": 32,
         "text": "& I said unto them that it was the ",
@@ -800,7 +793,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/24"
       },
       {
-        "id": "24:37",
+        "id": "24:37a",
         "page": 24,
         "line": 37,
         "text": "away to distruction",
@@ -814,7 +807,7 @@
     "verse": 25,
     "lines": [
       {
-        "id": "24:37",
+        "id": "24:37b",
         "page": 24,
         "line": 37,
         "text": "wherefore I Nephi did exhort them ",
@@ -845,7 +838,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/25"
       },
       {
-        "id": "25:3",
+        "id": "25:3a",
         "page": 25,
         "line": 3,
         "text": "all things",
@@ -859,7 +852,7 @@
     "verse": 26,
     "lines": [
       {
-        "id": "25:3",
+        "id": "25:3b",
         "page": 25,
         "line": 3,
         "text": "& they said unto me what meaneth the river of ",
@@ -867,7 +860,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/25"
       },
       {
-        "id": "25:4",
+        "id": "25:4a",
         "page": 25,
         "line": 4,
         "text": "water which our father saw",
@@ -881,7 +874,7 @@
     "verse": 27,
     "lines": [
       {
-        "id": "25:4",
+        "id": "25:4b",
         "page": 25,
         "line": 4,
         "text": "& I said unto them that the ",
@@ -904,7 +897,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/25"
       },
       {
-        "id": "25:7",
+        "id": "25:7a",
         "page": 25,
         "line": 7,
         "text": "the filthyness of the water",
@@ -918,7 +911,7 @@
     "verse": 28,
     "lines": [
       {
-        "id": "25:7",
+        "id": "25:7b",
         "page": 25,
         "line": 7,
         "text": "& I said unto them that it ",
@@ -932,7 +925,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/25"
       },
       {
-        "id": "25:9",
+        "id": "25:9a",
         "page": 25,
         "line": 9,
         "text": "the tree of life & also from the saints of god",
@@ -947,7 +940,7 @@
     "verse": 29,
     "lines": [
       {
-        "id": "25:9",
+        "id": "25:9b",
         "page": 25,
         "line": 9,
         "text": "& I said unto ",
@@ -1007,7 +1000,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/25"
       },
       {
-        "id": "25:16",
+        "id": "25:16a",
         "page": 25,
         "line": 16,
         "text": "& hath no end",
@@ -1021,7 +1014,7 @@
     "verse": 31,
     "lines": [
       {
-        "id": "25:16",
+        "id": "25:16b",
         "page": 25,
         "line": 16,
         "text": "& they said unto me doth this thing mean ",
@@ -1049,7 +1042,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/25"
       },
       {
-        "id": "25:20",
+        "id": "25:20a",
         "page": 25,
         "line": 20,
         "text": "which are temporal",
@@ -1063,7 +1056,7 @@
     "verse": 32,
     "lines": [
       {
-        "id": "25:20",
+        "id": "25:20b",
         "page": 25,
         "line": 20,
         "text": "& it came to pass that I said unto ",
@@ -1159,7 +1152,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/25"
       },
       {
-        "id": "25:32",
+        "id": "25:32a",
         "page": 25,
         "line": 32,
         "text": "filthy also",
@@ -1173,7 +1166,7 @@
     "verse": 34,
     "lines": [
       {
-        "id": "25:32",
+        "id": "25:32b",
         "page": 25,
         "line": 32,
         "text": "but behold I say unto you that the kingd",
@@ -1203,7 +1196,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/25"
       },
       {
-        "id": "25:36",
+        "id": "25:36a",
         "page": 25,
         "line": 36,
         "text": "is filthy",
@@ -1217,7 +1210,7 @@
     "verse": 35,
     "lines": [
       {
-        "id": "25:36",
+        "id": "25:36b",
         "page": 25,
         "line": 36,
         "text": "& there is a place prepared yea even that awful ",
@@ -1239,11 +1232,11 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/25"
       },
       {
-        "id": "25:39",
+        "id": "25:39a",
         "page": 25,
         "line": 39,
-        "text": "the kingdom of god or to be cast out because of that justiceof which I ha[ve] spoken wherefore",
-        "markdown": "the kingdom of god or to be cast out because of that justi{{ceo}}f which I ha[ve] spoken wherefore",
+        "text": "the kingdom of god or to be cast out because of that justiceof which I ha[ve] spoken",
+        "markdown": "the kingdom of god or to be cast out because of that justi{{ceo}}f which I ha[ve] spoken",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/25"
       }
     ]
@@ -1254,10 +1247,10 @@
     "verse": 36,
     "lines": [
       {
-        "id": "25:39",
+        "id": "25:39b",
         "page": 25,
         "line": 39,
-        "text": "the wicked are seperated from ",
+        "text": "wherefore the wicked are seperated from ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/25"
       },
       {
@@ -1287,14 +1280,7 @@
         "id": "26:4",
         "page": 26,
         "line": 4,
-        "text": "my brethren amen ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/26"
-      },
-      {
-        "id": "26:5",
-        "page": 26,
-        "line": 5,
-        "text": "Chapter 5th.",
+        "text": "my brethren amen",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/26"
       }
     ]

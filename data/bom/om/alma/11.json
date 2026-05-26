@@ -5,7 +5,7 @@
     "verse": 1,
     "lines": [
       {
-        "id": "77:1",
+        "id": "77:1d",
         "page": 77,
         "line": 1,
         "text": "now it was in thelaw of Mosiah that every man which was a Judge of the law or whichwas appointed to be Judges should receive his wages according to thetime which they laboured to judge those which were brought beforethem to be judged",
@@ -20,11 +20,11 @@
     "verse": 2,
     "lines": [
       {
-        "id": "77:1",
+        "id": "77:1e",
         "page": 77,
         "line": 1,
-        "text": "now if a man oweth another & he wouldnot pay that which he did owe he was complained of to theJudge & the Judge executed authority & sent forth officers thatthe man should be brought before him & he judgeth the man according to the law & the evidences which are brought against him& thus the man is compeled to pay that which he oweth or be stripedor be cast out from among the people as a thief & a rober and",
-        "markdown": "now if a ma{{n oweth another & he wouldnot p}}ay that which he did ow{{e he was complained of to theJudge}} & the Judge executed {{authority & sent forth officers thatthe}} man should be brought {{before him & he judgeth the man accordin}}g to the law & the evid{{ences which are brought against him&}} thus th{{e}} man is compel{{ed to pay that which he oweth or be stripedo}}r be cast o{{u}}t from amon{{g the people as a thief & a rober and",
+        "text": "now if a man oweth another & he wouldnot pay that which he did owe he was complained of to theJudge & the Judge executed authority & sent forth officers thatthe man should be brought before him & he judgeth the man according to the law & the evidences which are brought against him& thus the man is compeled to pay that which he oweth or be stripedor be cast out from among the people as a thief & a rober",
+        "markdown": "now if a ma{{n oweth another & he wouldnot p}}ay that which he did ow{{e he was complained of to theJudge}} & the Judge executed {{authority & sent forth officers thatthe}} man should be brought {{before him & he judgeth the man accordin}}g to the law & the evid{{ences which are brought against him&}} thus th{{e}} man is compel{{ed to pay that which he oweth or be stripedo}}r be cast o{{u}}t from amon{{g the people as a thief & a rober",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/77"
       }
     ]
@@ -35,11 +35,11 @@
     "verse": 3,
     "lines": [
       {
-        "id": "77:1",
+        "id": "77:1f",
         "page": 77,
         "line": 1,
-        "text": "theJudge receiveth for his wages according to his time a senine ofGold for a day or a senum of silver which is equal to asenine of Gold & this is according to the law which is givennow",
-        "markdown": "theJudge}} receiveth for {{his wages according to his time a senine ofGold for}} a day or a {{senum of sil}}ver {{which is equal to asenine of Go}}ld & {{this is according to}} the {{law which is givenno}}w",
+        "text": "and theJudge receiveth for his wages according to his time a senine ofGold for a day or a senum of silver which is equal to asenine of Gold & this is according to the law which is",
+        "markdown": "and theJudge}} receiveth for {{his wages according to his time a senine ofGold for}} a day or a {{senum of sil}}ver {{which is equal to asenine of Go}}ld & {{this is according to}} the {{law which is",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/77"
       }
     ]
@@ -50,11 +50,11 @@
     "verse": 4,
     "lines": [
       {
-        "id": "77:1",
+        "id": "77:1g",
         "page": 77,
         "line": 1,
-        "text": "these are the names of the different pieces of their Gold& of their silver according to their value & the names are givenby the Nephites for they did not reckon after the manner ofthe Jews which were at Jerusalem neither did they measureafter the manner of the Jews but they altered their reckoning",
-        "markdown": "these are th{{e names of the different pieces of their Gold& of}} their silver {{according to their value & the names are givenby}} the Nephites f{{or they did not reckon after the manner ofthe}} Jews which {{were at Jerusalem neither did they measureaf}}ter ~~their~~ [the] man{{ner of the Jews but they altered their reckoning}}",
+        "text": "givennow these are the names of the different pieces of their Gold& of their silver according to their value & the names are givenby the Nephites for they did not reckon after the manner ofthe Jews which were at Jerusalem neither did they measureafter the manner of the Jews but they altered their reckoning",
+        "markdown": "givenno}}w these are th{{e names of the different pieces of their Gold& of}} their silver {{according to their value & the names are givenby}} the Nephites f{{or they did not reckon after the manner ofthe}} Jews which {{were at Jerusalem neither did they measureaf}}ter ~~their~~ [the] man{{ner of the Jews but they altered their reckoning}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/77"
       }
     ]
@@ -65,7 +65,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "78:1",
+        "id": "78:1a",
         "page": 78,
         "line": 1,
         "text": "was as great as them all",
@@ -80,7 +80,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "78:1",
+        "id": "78:1b",
         "page": 78,
         "line": 1,
         "text": "now this is the value of the lessernumbers of their reckoning",
@@ -95,7 +95,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "78:1",
+        "id": "78:1c",
         "page": 78,
         "line": 1,
         "text": "a shiblon is half of a senum therefore a shiblon for a half a measure of barly",
@@ -110,7 +110,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "78:1",
+        "id": "78:1d",
         "page": 78,
         "line": 1,
         "text": "& a shilum is ahalf of a shiblon",
@@ -125,7 +125,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "78:1",
+        "id": "78:1e",
         "page": 78,
         "line": 1,
         "text": "& a leah is the half of a shilum now an antion ofGold is equal to three",
@@ -140,25 +140,11 @@
     "verse": 18,
     "lines": [
       {
-        "id": "78:1",
+        "id": "78:1f",
         "page": 78,
         "line": 1,
-        "text": "shiblons now this is their number according to their",
-        "markdown": "shiblo}}ns now this is their number acco{{rding to their",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/78"
-      }
-    ]
-  },
-  {
-    "book": "alma",
-    "chapter": 11,
-    "verse": 19,
-    "lines": [
-      {
-        "id": "78:1",
-        "page": 78,
-        "line": 1,
-        "text": "reckoning",
+        "text": "shiblons now this is their number according to their reckoning",
+        "markdown": "shiblo}}ns now this is their number acco{{rding to their reckoning",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/78"
       }
     ]
@@ -169,11 +155,11 @@
     "verse": 20,
     "lines": [
       {
-        "id": "78:1",
+        "id": "78:1g",
         "page": 78,
         "line": 1,
-        "text": "now it was for the sole purpose for toget gain because they received their wages according totheir employ therefore they did stir up the people to riotings& all manner of disterbences & wickedness that they mighthave more employ that they might get moneyaccording to the suits which was brought before them therefore they did stir up the people against Alma & Amulek",
-        "markdown": "now}} it was for the sole purpose for t{{oget gain because they re}}ceived their wages according t{{otheir employ therefore they}} did stir up the people to riot{{ings& all manner of disterben}}ces & wickedness that they {{mighthave more employ }} ~~ey &~~ that they might get {{moneyaccording to the suits which}} was brought before them th{{erefore they did stir up the people a}}gainst Alma &",
+        "text": "now it was for the sole purpose for toget gain because they received their wages according totheir employ therefore they did stir up the people to riotings& all manner of disterbences & wickedness that they mighthave more employ that they might get moneyaccording to the suits which was brought before them therefore they did stir up the people against Alma &",
+        "markdown": "now}} it was for the sole purpose for t{{oget gain because they re}}ceived their wages according t{{otheir employ therefore they}} did stir up the people to riot{{ings& all manner of disterben}}ces & wickedness that they {{mighthave more employ }} ~~ey &~~ that they might get {{moneyaccording to the suits which}} was brought before them th{{erefore they did stir up the people a}}gainst Alma",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/78"
       }
     ]
@@ -184,11 +170,11 @@
     "verse": 21,
     "lines": [
       {
-        "id": "78:1",
+        "id": "78:1h",
         "page": 78,
         "line": 1,
-        "text": "& thusZeezrum began to question Amulek saying will ye answer mea few questions which I shall ask you now Zeezrum was aman which was expert in the devises of the Devil that hemight destroy that which was good therefore he saith untoAmulek will ye answer the questions which I shall put untoyou & Amulek",
-        "markdown": "Amulek {{& thusZeezrum began to question Amu}}lek saying will ye ans{{wer mea few questions which I shall}} ask you now Zeezrum w{{as aman which was expert in th}}e devises of the Devil th{{at hemight destroy that which was}} good th{{ere}}fore he saith {{untoAmulek will ye answer the qu}}esti{{ons whic}}h I shal{{l put untoyou &",
+        "text": "Amulek & thusZeezrum began to question Amulek saying will ye answer mea few questions which I shall ask you now Zeezrum was aman which was expert in the devises of the Devil that hemight destroy that which was good therefore he saith untoAmulek will ye answer the questions which I shall put untoyou",
+        "markdown": "& Amulek {{& thusZeezrum began to question Amu}}lek saying will ye ans{{wer mea few questions which I shall}} ask you now Zeezrum w{{as aman which was expert in th}}e devises of the Devil th{{at hemight destroy that which was}} good th{{ere}}fore he saith {{untoAmulek will ye answer the qu}}esti{{ons whic}}h I shal{{l put",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/78"
       }
     ]
@@ -199,26 +185,11 @@
     "verse": 22,
     "lines": [
       {
-        "id": "78:1",
+        "id": "78:1i",
         "page": 78,
         "line": 1,
-        "text": "saith unto him yea I will if it be accordingto the spirit of the Lord which is in me for I shall say nothing which is conterary to the spirit of the Lord & Zeezrumsaith unto him behold here is six onties of silver &all these will I give unto thee if thou wilt denythe existance of a supreme being now Amulek",
-        "markdown": "Amulek saith unto}} him y{{ea I will i}}f it b{{e accordingto the spirit of the Lord which is in me for I}} shall say n{{othing which is conterary to the spirit of the}} Lord & Zeezru{{msaith unto him behold here is si}}x onties of sil{{ver &all these will I give unto thee i}}f thou wil{{t denythe existance of a supreme being now}}",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/78"
-      }
-    ]
-  },
-  {
-    "book": "alma",
-    "chapter": 11,
-    "verse": 23,
-    "lines": [
-      {
-        "id": "78:1",
-        "page": 78,
-        "line": 1,
-        "text": "saith",
-        "markdown": "Amulek sa{{ith}}",
+        "text": "& Amulek saith unto him yea I will if it be accordingto the spirit of the Lord which is in me for I shall say nothing which is conterary to the spirit of the Lord & Zeezrumsaith unto him behold here is six onties of silver &all these will I give unto thee if thou wilt denythe existance of a supreme being now",
+        "markdown": "untoyou & Amulek saith unto}} him y{{ea I will i}}f it b{{e accordingto the spirit of the Lord which is in me for I}} shall say n{{othing which is conterary to the spirit of the}} Lord & Zeezru{{msaith unto him behold here is si}}x onties of sil{{ver &all these will I give unto thee i}}f thou wil{{t denythe existance of a supreme being",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/78"
       }
     ]
@@ -229,25 +200,19 @@
     "verse": 25,
     "lines": [
       {
-        "id": "79:1",
-        "page": 79,
+        "id": "78:1j",
+        "page": 78,
         "line": 1,
-        "text": "true & a liveing",
-        "markdown": "{{true}} & a li{{ve}}ing",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/79"
-      }
-    ]
-  },
-  {
-    "book": "alma",
-    "chapter": 11,
-    "verse": 26,
-    "lines": [
+        "text": "Amulek saith ",
+        "markdown": "now}} Amulek sa{{ith}} ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/78"
+      },
       {
-        "id": "79:1",
+        "id": "79:1a",
         "page": 79,
         "line": 1,
-        "text": "God",
+        "text": "true & a liveing God",
+        "markdown": "{{true}} & a li{{ve}}ing God",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/79"
       }
     ]
@@ -258,7 +223,7 @@
     "verse": 27,
     "lines": [
       {
-        "id": "79:1",
+        "id": "79:1b",
         "page": 79,
         "line": 1,
         "text": "& Amulek saith yea there is a true & a liveingGod",
@@ -273,7 +238,7 @@
     "verse": 28,
     "lines": [
       {
-        "id": "79:1",
+        "id": "79:1c",
         "page": 79,
         "line": 1,
         "text": "now Zeezrum saith is there more than one God",
@@ -288,7 +253,7 @@
     "verse": 29,
     "lines": [
       {
-        "id": "79:1",
+        "id": "79:1d",
         "page": 79,
         "line": 1,
         "text": "& he answer ",
@@ -296,7 +261,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/79"
       },
       {
-        "id": "79:2",
+        "id": "79:2a",
         "page": 79,
         "line": 2,
         "text": "eth no",
@@ -310,7 +275,7 @@
     "verse": 30,
     "lines": [
       {
-        "id": "79:2",
+        "id": "79:2b",
         "page": 79,
         "line": 2,
         "text": "now Zeezrum saith unto him again how knowest ",
@@ -318,7 +283,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/79"
       },
       {
-        "id": "79:3",
+        "id": "79:3a",
         "page": 79,
         "line": 3,
         "text": "thou these things",
@@ -332,7 +297,7 @@
     "verse": 31,
     "lines": [
       {
-        "id": "79:3",
+        "id": "79:3b",
         "page": 79,
         "line": 3,
         "text": "& he saith an angel hath made them ",
@@ -340,7 +305,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/79"
       },
       {
-        "id": "79:4",
+        "id": "79:4a",
         "page": 79,
         "line": 4,
         "text": "known unto me",
@@ -354,7 +319,7 @@
     "verse": 32,
     "lines": [
       {
-        "id": "79:4",
+        "id": "79:4b",
         "page": 79,
         "line": 4,
         "text": "& Zeezrum saith again who is he that shall come ",
@@ -362,7 +327,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/79"
       },
       {
-        "id": "79:5",
+        "id": "79:5a",
         "page": 79,
         "line": 5,
         "text": "is it the son of God",
@@ -376,7 +341,7 @@
     "verse": 33,
     "lines": [
       {
-        "id": "79:5",
+        "id": "79:5b",
         "page": 79,
         "line": 5,
         "text": "& he saith unto him yea",
@@ -391,7 +356,7 @@
     "verse": 34,
     "lines": [
       {
-        "id": "79:5",
+        "id": "79:5c",
         "page": 79,
         "line": 5,
         "text": "& Zeezrum saith ",
@@ -407,7 +372,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/79"
       },
       {
-        "id": "79:7",
+        "id": "79:7a",
         "page": 79,
         "line": 7,
         "text": "lek answered & said unto him I say unto you he shallnot for it is impossible for him to deny his word",
@@ -422,7 +387,7 @@
     "verse": 35,
     "lines": [
       {
-        "id": "79:7",
+        "id": "79:7b",
         "page": 79,
         "line": 7,
         "text": "now ",
@@ -446,7 +411,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/79"
       },
       {
-        "id": "79:10",
+        "id": "79:10a",
         "page": 79,
         "line": 10,
         "text": "people as tho he had authority to command God",
@@ -461,7 +426,7 @@
     "verse": 36,
     "lines": [
       {
-        "id": "79:10",
+        "id": "79:10b",
         "page": 79,
         "line": 10,
         "text": "now Amu",
@@ -469,7 +434,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/79"
       },
       {
-        "id": "79:11",
+        "id": "79:11a",
         "page": 79,
         "line": 11,
         "text": "lek said again unto him behold thou hast lied forthou sayest that I speak as tho I had authority to commandGod because I said he shall not save his people in theirsins",
@@ -484,7 +449,7 @@
     "verse": 37,
     "lines": [
       {
-        "id": "79:11",
+        "id": "79:11b",
         "page": 79,
         "line": 11,
         "text": "& I say unto you again that he cannot save themin their sins for I cannot deny his word & he hathsaid that no unclean thing can inherit the Kingdom of Heaven therefore how can ye be saved except ye inheritthe Kingdom of Heaven therefore ye cannot be savedin your sins",
@@ -499,7 +464,7 @@
     "verse": 38,
     "lines": [
       {
-        "id": "79:11",
+        "id": "79:11c",
         "page": 79,
         "line": 11,
         "text": "now Zeezrum saith again unto him is theson of God the verry eternal Father",
@@ -514,7 +479,7 @@
     "verse": 39,
     "lines": [
       {
-        "id": "79:11",
+        "id": "79:11d",
         "page": 79,
         "line": 11,
         "text": "& Amulek saithunto him yea he is",
@@ -529,7 +494,7 @@
     "verse": 40,
     "lines": [
       {
-        "id": "79:11",
+        "id": "79:11e",
         "page": 79,
         "line": 11,
         "text": "the verry eternal",
@@ -543,7 +508,7 @@
     "verse": 41,
     "lines": [
       {
-        "id": "79:11",
+        "id": "79:11f",
         "page": 79,
         "line": 11,
         "text": "father of heaven",
@@ -558,7 +523,7 @@
     "verse": 42,
     "lines": [
       {
-        "id": "80:1",
+        "id": "80:1a",
         "page": 80,
         "line": 1,
         "text": "death & the death of Christ shall loose the bands of this temporaldeath that all shall be raised from this temporal death",
@@ -573,7 +538,7 @@
     "verse": 43,
     "lines": [
       {
-        "id": "80:1",
+        "id": "80:1b",
         "page": 80,
         "line": 1,
         "text": "the spirit & ",
@@ -604,7 +569,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/80"
       },
       {
-        "id": "80:5",
+        "id": "80:5a",
         "page": 80,
         "line": 5,
         "text": "recollection of all our guilt",
@@ -619,7 +584,7 @@
     "verse": 44,
     "lines": [
       {
-        "id": "80:5",
+        "id": "80:5b",
         "page": 80,
         "line": 5,
         "text": "now this restoration shall come ",
@@ -651,7 +616,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/80"
       },
       {
-        "id": "80:9",
+        "id": "80:9a",
         "page": 80,
         "line": 9,
         "text": "shall be brought & be reigned before the bar of Christ theson & God the Father & the Holy spirit which is one eternalGod to be judged according to their works whether theybe good or whether they be evil",
@@ -666,7 +631,7 @@
     "verse": 45,
     "lines": [
       {
-        "id": "80:9",
+        "id": "80:9b",
         "page": 80,
         "line": 9,
         "text": "now behold I have spoken unto you concerning the death of the mortal boddy & also concerning the resurrection of the Mortal boddy I sayunto you that this mortal boddy is raised to an immortalboddy that is from death even from the first death untolife that they can die no more their spirits uniting withtheir boddies never to be divided thus the whole becomeing spiritual & immortal that they can no more seecorruption",
@@ -681,11 +646,11 @@
     "verse": 46,
     "lines": [
       {
-        "id": "80:9",
+        "id": "80:9c",
         "page": 80,
         "line": 9,
-        "text": "now when Amulek had finished these wordsthe people began again to be astonished",
-        "markdown": "now when Amulek had finishe}}d these wo{{rdsthe people began again to be astonished}}",
+        "text": "now when Amulek had finished these wordsthe people began again to be astonished & also",
+        "markdown": "now when Amulek had finishe}}d these wo{{rdsthe people began again to be astonished}} & also",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/80"
       }
     ]

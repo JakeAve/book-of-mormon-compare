@@ -5,7 +5,7 @@
     "verse": 1,
     "lines": [
       {
-        "id": "317:15",
+        "id": "317:15b",
         "page": 317,
         "line": 15,
         "text": "& now it came to pass that I received an Epistle from Ammoron ",
@@ -22,7 +22,14 @@
         "id": "317:17",
         "page": 317,
         "line": 17,
-        "text": "had taken that he would deliver up the city of Antiparah",
+        "text": "had taken that he would deliver up the city of Antiparah but I sent an Epistle ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/317"
+      },
+      {
+        "id": "317:18a",
+        "page": 317,
+        "line": 18,
+        "text": "unto",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/317"
       }
     ]
@@ -33,18 +40,11 @@
     "verse": 2,
     "lines": [
       {
-        "id": "317:17",
-        "page": 317,
-        "line": 17,
-        "text": "but I sent an Epistle ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/317"
-      },
-      {
-        "id": "317:18",
+        "id": "317:18b",
         "page": 317,
         "line": 18,
-        "text": "unto the king that we were sure our forces were sufficient to take the city of ",
-        "markdown": "unto the king that we were sure ~~oou~~ [our] forces were sufficient to take the city of ",
+        "text": "the king that we were sure our forces were sufficient to take the city of ",
+        "markdown": "the king that we were sure ~~oou~~ [our] forces were sufficient to take the city of ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/317"
       },
       {
@@ -64,7 +64,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/317"
       },
       {
-        "id": "317:21",
+        "id": "317:21a",
         "page": 317,
         "line": 21,
         "text": "on exchange",
@@ -78,7 +78,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "317:21",
+        "id": "317:21b",
         "page": 317,
         "line": 21,
         "text": "& Ammoron refused mine Epistle for he would not exchange priso",
@@ -92,7 +92,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/317"
       },
       {
-        "id": "317:23",
+        "id": "317:23a",
         "page": 317,
         "line": 23,
         "text": "parah",
@@ -106,7 +106,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "317:23",
+        "id": "317:23b",
         "page": 317,
         "line": 23,
         "text": "but the people of Antiparah did leave the city & fled to their other cities ",
@@ -122,7 +122,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/317"
       },
       {
-        "id": "317:25",
+        "id": "317:25a",
         "page": 317,
         "line": 25,
         "text": "into our hands",
@@ -136,7 +136,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "317:25",
+        "id": "317:25b",
         "page": 317,
         "line": 25,
         "text": "& thus ended the twenty & eighth year of the reign of the Judges",
@@ -150,7 +150,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "317:25",
+        "id": "317:25c",
         "page": 317,
         "line": 25,
         "text": "& ",
@@ -194,7 +194,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/317"
       },
       {
-        "id": "317:31",
+        "id": "317:31a",
         "page": 317,
         "line": 31,
         "text": "plenty of provisions brought unto us",
@@ -209,7 +209,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "317:31",
+        "id": "317:31b",
         "page": 317,
         "line": 31,
         "text": "& it came to pass that it was our desire to wed ",
@@ -252,7 +252,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/317"
       },
       {
-        "id": "318:1",
+        "id": "318:1a",
         "page": 318,
         "line": 1,
         "text": "provisions",
@@ -266,7 +266,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "318:1",
+        "id": "318:1b",
         "page": 318,
         "line": 1,
         "text": "& it came to pass that we did camp round about the city for ",
@@ -287,7 +287,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/318"
       },
       {
-        "id": "318:4",
+        "id": "318:4a",
         "page": 318,
         "line": 4,
         "text": "but as many times as they attempted this their blood was spilt",
@@ -301,7 +301,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "318:4",
+        "id": "318:4b",
         "page": 318,
         "line": 4,
         "text": "at length their ",
@@ -322,7 +322,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/318"
       },
       {
-        "id": "318:7",
+        "id": "318:7a",
         "page": 318,
         "line": 7,
         "text": "ns",
@@ -336,7 +336,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "318:7",
+        "id": "318:7b",
         "page": 318,
         "line": 7,
         "text": "& notwithstanding the Lamanites being cut off from their support after ",
@@ -358,7 +358,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/318"
       },
       {
-        "id": "318:10",
+        "id": "318:10a",
         "page": 318,
         "line": 10,
         "text": "& our prisoners to the land of Zarahemla",
@@ -372,7 +372,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "318:10",
+        "id": "318:10b",
         "page": 318,
         "line": 10,
         "text": "& it came to pass that not many days ",
@@ -393,7 +393,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/318"
       },
       {
-        "id": "318:13",
+        "id": "318:13a",
         "page": 318,
         "line": 13,
         "text": "the city Cumeni",
@@ -407,7 +407,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "318:13",
+        "id": "318:13b",
         "page": 318,
         "line": 13,
         "text": "but it came to pass that our prisoners were so numerous that ",
@@ -423,7 +423,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/318"
       },
       {
-        "id": "318:15",
+        "id": "318:15a",
         "page": 318,
         "line": 15,
         "text": "all our force to keep them or to put them to death",
@@ -437,7 +437,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "318:15",
+        "id": "318:15b",
         "page": 318,
         "line": 15,
         "text": "for behold they would brake ",
@@ -458,7 +458,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/318"
       },
       {
-        "id": "318:18",
+        "id": "318:18a",
         "page": 318,
         "line": 18,
         "text": "upwards of two thousand of them after they had surrendered themselves prisoners of war",
@@ -473,7 +473,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "318:18",
+        "id": "318:18b",
         "page": 318,
         "line": 18,
         "text": "theref",
@@ -502,7 +502,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/318"
       },
       {
-        "id": "318:22",
+        "id": "318:22a",
         "page": 318,
         "line": 22,
         "text": "we had taken from the Lamanites",
@@ -516,7 +516,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "318:22",
+        "id": "318:22b",
         "page": 318,
         "line": 22,
         "text": "& now in those critical circumstances it bec",
@@ -544,7 +544,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/318"
       },
       {
-        "id": "318:26",
+        "id": "318:26a",
         "page": 318,
         "line": 26,
         "text": "go down to the land of Zarahemla",
@@ -558,7 +558,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "318:26",
+        "id": "318:26b",
         "page": 318,
         "line": 26,
         "text": "but it came to pass that on the morrow they ",
@@ -586,7 +586,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/318"
       },
       {
-        "id": "318:30",
+        "id": "318:30a",
         "page": 318,
         "line": 30,
         "text": "support a new supply of provision & also a numerous army of men",
@@ -600,7 +600,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "318:30",
+        "id": "318:30b",
         "page": 318,
         "line": 30,
         "text": "& it came ",
@@ -614,7 +614,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/318"
       },
       {
-        "id": "318:32",
+        "id": "318:32a",
         "page": 318,
         "line": 32,
         "text": "son to check them as they were about to overpower us",
@@ -629,7 +629,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "318:32",
+        "id": "318:32b",
         "page": 318,
         "line": 32,
         "text": "but behold my little ",
@@ -664,7 +664,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/318"
       },
       {
-        "id": "319:1",
+        "id": "319:1a",
         "page": 319,
         "line": 1,
         "text": "behold those two thousand & sixty were firm & undanted",
@@ -678,7 +678,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "319:1",
+        "id": "319:1b",
         "page": 319,
         "line": 1,
         "text": "yea & they did ",
@@ -700,7 +700,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/319"
       },
       {
-        "id": "319:4",
+        "id": "319:4a",
         "page": 319,
         "line": 4,
         "text": "said that their Mothers had taught them",
@@ -714,7 +714,7 @@
     "verse": 22,
     "lines": [
       {
-        "id": "319:4",
+        "id": "319:4b",
         "page": 319,
         "line": 4,
         "text": "& now behold it was these my Sons & those ",
@@ -735,7 +735,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/319"
       },
       {
-        "id": "319:7",
+        "id": "319:7a",
         "page": 319,
         "line": 7,
         "text": "ck to the city of Manti",
@@ -749,14 +749,14 @@
     "verse": 23,
     "lines": [
       {
-        "id": "319:7",
+        "id": "319:7b",
         "page": 319,
         "line": 7,
         "text": "& we retained our City Cumeni & were not all destroy",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/319"
       },
       {
-        "id": "319:8",
+        "id": "319:8a",
         "page": 319,
         "line": 8,
         "text": "ed by the sword nevertheless we had suffered great loss",
@@ -771,7 +771,7 @@
     "verse": 24,
     "lines": [
       {
-        "id": "319:8",
+        "id": "319:8b",
         "page": 319,
         "line": 8,
         "text": "& it came to pass that ",
@@ -792,7 +792,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/319"
       },
       {
-        "id": "319:11",
+        "id": "319:11a",
         "page": 319,
         "line": 11,
         "text": "wounds should be dressed",
@@ -806,7 +806,7 @@
     "verse": 25,
     "lines": [
       {
-        "id": "319:11",
+        "id": "319:11b",
         "page": 319,
         "line": 11,
         "text": "& it came to pass that there were two hundred out ",
@@ -835,7 +835,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/319"
       },
       {
-        "id": "319:15",
+        "id": "319:15a",
         "page": 319,
         "line": 15,
         "text": "there one soul among them which had not received many wounds",
@@ -849,7 +849,7 @@
     "verse": 26,
     "lines": [
       {
-        "id": "319:15",
+        "id": "319:15b",
         "page": 319,
         "line": 15,
         "text": "& now their pres",
@@ -885,7 +885,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/319"
       },
       {
-        "id": "319:20",
+        "id": "319:20a",
         "page": 319,
         "line": 20,
         "text": "his marvelous power",
@@ -900,7 +900,7 @@
     "verse": 27,
     "lines": [
       {
-        "id": "319:20",
+        "id": "319:20b",
         "page": 319,
         "line": 20,
         "text": "now this was the faith of these of which I have spoken they are young their ",
@@ -908,7 +908,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/319"
       },
       {
-        "id": "319:21",
+        "id": "319:21a",
         "page": 319,
         "line": 21,
         "text": "minds are firm & they do put their trust in God continually",
@@ -922,7 +922,7 @@
     "verse": 28,
     "lines": [
       {
-        "id": "319:21",
+        "id": "319:21b",
         "page": 319,
         "line": 21,
         "text": "& now it came to pass that ",
@@ -951,7 +951,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/319"
       },
       {
-        "id": "319:25",
+        "id": "319:25a",
         "page": 319,
         "line": 25,
         "text": "with",
@@ -965,7 +965,7 @@
     "verse": 29,
     "lines": [
       {
-        "id": "319:25",
+        "id": "319:25b",
         "page": 319,
         "line": 25,
         "text": "now Gid was the chief captain over the band which was appointed to gu ",
@@ -973,11 +973,11 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/319"
       },
       {
-        "id": "319:26",
+        "id": "319:26a",
         "page": 319,
         "line": 26,
-        "text": "ide them down to that land",
-        "markdown": "ide them down to ~~the~~ [that] land",
+        "text": "ide them down to that land & now",
+        "markdown": "ide them down to ~~the~~ [that] land ~~of Zarahemla~~ [& now",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/319"
       }
     ]
@@ -988,11 +988,11 @@
     "verse": 30,
     "lines": [
       {
-        "id": "319:26",
+        "id": "319:26b",
         "page": 319,
         "line": 26,
-        "text": "& now these are the words which Gid said unto me ",
-        "markdown": "~~of Zarahemla~~ [& now these] are the words which Gid said unto me ",
+        "text": "these are the words which Gid said unto me ",
+        "markdown": "these] are the words which Gid said unto me ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/319"
       },
       {
@@ -1011,7 +1011,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/319"
       },
       {
-        "id": "319:29",
+        "id": "319:29a",
         "page": 319,
         "line": 29,
         "text": "tch the camp of the Lamanites",
@@ -1025,7 +1025,7 @@
     "verse": 31,
     "lines": [
       {
-        "id": "319:29",
+        "id": "319:29b",
         "page": 319,
         "line": 29,
         "text": "& they cried unto us saying behold the armies of the La",
@@ -1040,7 +1040,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/319"
       },
       {
-        "id": "319:31",
+        "id": "319:31a",
         "page": 319,
         "line": 31,
         "text": "them yea & will destroy our people",
@@ -1055,14 +1055,14 @@
     "verse": 32,
     "lines": [
       {
-        "id": "319:31",
+        "id": "319:31b",
         "page": 319,
         "line": 31,
         "text": "& it came to pass that our prisoners did hear their cries wh",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/319"
       },
       {
-        "id": "319:32",
+        "id": "319:32a",
         "page": 319,
         "line": 32,
         "text": "ich caused them to take courage & they did rise up in rebellion against us",
@@ -1076,7 +1076,7 @@
     "verse": 33,
     "lines": [
       {
-        "id": "319:32",
+        "id": "319:32b",
         "page": 319,
         "line": 32,
         "text": "& ",
@@ -1104,7 +1104,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/320"
       },
       {
-        "id": "320:2",
+        "id": "320:2a",
         "page": 320,
         "line": 2,
         "text": "them broke through & fled from us",
@@ -1118,7 +1118,7 @@
     "verse": 34,
     "lines": [
       {
-        "id": "320:2",
+        "id": "320:2b",
         "page": 320,
         "line": 2,
         "text": "& behold when they had fled & we could ",
@@ -1139,7 +1139,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/320"
       },
       {
-        "id": "320:5",
+        "id": "320:5a",
         "page": 320,
         "line": 5,
         "text": "the city",
@@ -1153,7 +1153,7 @@
     "verse": 35,
     "lines": [
       {
-        "id": "320:5",
+        "id": "320:5b",
         "page": 320,
         "line": 5,
         "text": "& behold we are again delivered out of the hands of our enemies & ble",
@@ -1167,7 +1167,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/320"
       },
       {
-        "id": "320:7",
+        "id": "320:7a",
         "page": 320,
         "line": 7,
         "text": "hath done this great thing for us",
@@ -1181,7 +1181,7 @@
     "verse": 36,
     "lines": [
       {
-        "id": "320:7",
+        "id": "320:7b",
         "page": 320,
         "line": 7,
         "text": "now it came to pass that when I Helaman ",

@@ -2,38 +2,24 @@
   {
     "book": "jacob",
     "chapter": 6,
-    "verse": 2,
+    "verse": 11,
     "lines": [
       {
-        "id": "72:1",
+        "id": "72:1b",
         "page": 72,
         "line": 1,
-        "text": "to be burned with fire",
-        "markdown": "to be burned wit{{h fire }}",
+        "text": "with fire ",
+        "markdown": "wit{{h fire }} ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/72"
-      }
-    ]
-  },
-  {
-    "book": "jacob",
-    "chapter": 6,
-    "verse": 3,
-    "lines": [
+      },
       {
         "id": "72:2",
         "page": 72,
         "line": 2,
-        "text": "Chapter",
-        "markdown": "{{}} Chap{{ter }}",
+        "text": "Chapter ",
+        "markdown": "{{}} Chap{{ter }} ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/72"
-      }
-    ]
-  },
-  {
-    "book": "jacob",
-    "chapter": 6,
-    "verse": 11,
-    "lines": [
+      },
       {
         "id": "73:1",
         "page": 73,
@@ -43,7 +29,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/73"
       },
       {
-        "id": "73:2",
+        "id": "73:2a",
         "page": 73,
         "line": 2,
         "text": "ich is narrow untill ye shall obtain eternal life",
@@ -58,14 +44,14 @@
     "verse": 12,
     "lines": [
       {
-        "id": "73:2",
+        "id": "73:2b",
         "page": 73,
         "line": 2,
         "text": "O be wise what can ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/73"
       },
       {
-        "id": "73:3",
+        "id": "73:3a",
         "page": 73,
         "line": 3,
         "text": "I say more",
@@ -80,7 +66,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "73:3",
+        "id": "73:3b",
         "page": 73,
         "line": 3,
         "text": "finely I bid you farewell untill I shall meet you be",
@@ -99,15 +85,7 @@
         "id": "73:5",
         "page": 73,
         "line": 5,
-        "text": "ead & fear—— ",
-        "markdown": "{{ead & fear—— Amen}}—— ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/73"
-      },
-      {
-        "id": "73:5",
-        "page": 73,
-        "line": 5,
-        "text": "Amen——",
+        "text": "ead & fear—— Amen——",
         "markdown": "{{ead & fear—— Amen}}——",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/73"
       }

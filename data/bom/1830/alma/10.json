@@ -5,6 +5,13 @@
     "verse": 1,
     "lines": [
       {
+        "id": "254:25",
+        "page": 254,
+        "line": 25,
+        "text": "CHAPTER VIII. ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/254"
+      },
+      {
         "id": "254:26",
         "page": 254,
         "line": 26,
@@ -12,7 +19,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/254"
       },
       {
-        "id": "254:27",
+        "id": "254:27a",
         "page": 254,
         "line": 27,
         "text": "people which was in the land of Ammonihah, saying:",
@@ -26,7 +33,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "254:27",
+        "id": "254:27b",
         "page": 254,
         "line": 27,
         "text": "I am ",
@@ -89,7 +96,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/254"
       },
       {
-        "id": "254:35",
+        "id": "254:35a",
         "page": 254,
         "line": 35,
         "text": "sold into Egypt by the hands of his brethren.",
@@ -103,7 +110,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "254:35",
+        "id": "254:35b",
         "page": 254,
         "line": 35,
         "text": "And behold, I ",
@@ -173,7 +180,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/255"
       },
       {
-        "id": "255:5",
+        "id": "255:5a",
         "page": 255,
         "line": 5,
         "text": "this people;",
@@ -187,7 +194,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "255:5",
+        "id": "255:5b",
         "page": 255,
         "line": 5,
         "text": "nevertheless, I did harden my heart, for I was ",
@@ -225,7 +232,14 @@
         "id": "255:10",
         "page": 255,
         "line": 10,
-        "text": "the tenth year of the reign of our Judges.",
+        "text": "the tenth year of the reign of our Judges. As I was a jour ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/255"
+      },
+      {
+        "id": "255:11a",
+        "page": 255,
+        "line": 11,
+        "text": "neying to see a",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/255"
       }
     ]
@@ -236,17 +250,10 @@
     "verse": 7,
     "lines": [
       {
-        "id": "255:10",
-        "page": 255,
-        "line": 10,
-        "text": "As I was a jour",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/255"
-      },
-      {
-        "id": "255:11",
+        "id": "255:11b",
         "page": 255,
         "line": 11,
-        "text": "neying to see a very near kindred, behold an angel of the Lord ",
+        "text": "very near kindred, behold an angel of the Lord ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/255"
       },
       {
@@ -362,7 +369,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/255"
       },
       {
-        "id": "255:26",
+        "id": "255:26a",
         "page": 255,
         "line": 26,
         "text": "God.",
@@ -376,7 +383,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "255:26",
+        "id": "255:26b",
         "page": 255,
         "line": 26,
         "text": "And again: I know that the things whereof he hath ",
@@ -404,7 +411,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/255"
       },
       {
-        "id": "255:30",
+        "id": "255:30a",
         "page": 255,
         "line": 30,
         "text": "hath dwelt at my house;",
@@ -418,7 +425,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "255:30",
+        "id": "255:30b",
         "page": 255,
         "line": 30,
         "text": "for behold, he hath blessed mine ",
@@ -488,7 +495,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/255"
       },
       {
-        "id": "255:39",
+        "id": "255:39a",
         "page": 255,
         "line": 39,
         "text": "the spirit of prophecy which was in them;",
@@ -502,7 +509,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "255:39",
+        "id": "255:39b",
         "page": 255,
         "line": 39,
         "text": "nevertheless, there ",
@@ -551,7 +558,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/256"
       },
       {
-        "id": "256:3",
+        "id": "256:3a",
         "page": 256,
         "line": 3,
         "text": "ness against them.",
@@ -565,7 +572,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "256:3",
+        "id": "256:3b",
         "page": 256,
         "line": 3,
         "text": "Now it was those men which sought to ",
@@ -593,7 +600,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/256"
       },
       {
-        "id": "256:7",
+        "id": "256:7a",
         "page": 256,
         "line": 7,
         "text": "Judges.",
@@ -607,7 +614,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "256:7",
+        "id": "256:7b",
         "page": 256,
         "line": 7,
         "text": "Now these Lawyers were learned in all the arts and ",
@@ -621,7 +628,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/256"
       },
       {
-        "id": "256:9",
+        "id": "256:9a",
         "page": 256,
         "line": 9,
         "text": "might be skilful in their profession.",
@@ -635,7 +642,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "256:9",
+        "id": "256:9b",
         "page": 256,
         "line": 9,
         "text": "And it came to pass ",
@@ -656,7 +663,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/256"
       },
       {
-        "id": "256:12",
+        "id": "256:12a",
         "page": 256,
         "line": 12,
         "text": "should speak.",
@@ -670,7 +677,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "256:12",
+        "id": "256:12b",
         "page": 256,
         "line": 12,
         "text": "Now they knew not that Amulek could know ",
@@ -705,7 +712,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/256"
       },
       {
-        "id": "256:17",
+        "id": "256:17a",
         "page": 256,
         "line": 17,
         "text": "are laying traps and snares to catch the holy ones of God;",
@@ -719,7 +726,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "256:17",
+        "id": "256:17b",
         "page": 256,
         "line": 17,
         "text": "ye ",
@@ -740,7 +747,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/256"
       },
       {
-        "id": "256:20",
+        "id": "256:20a",
         "page": 256,
         "line": 20,
         "text": "utter destruction of this people;",
@@ -754,7 +761,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "256:20",
+        "id": "256:20b",
         "page": 256,
         "line": 20,
         "text": "yea, well did Mosiah say, ",
@@ -803,7 +810,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/256"
       },
       {
-        "id": "256:27",
+        "id": "256:27a",
         "page": 256,
         "line": 27,
         "text": "ripe for destruction.",
@@ -817,7 +824,7 @@
     "verse": 20,
     "lines": [
       {
-        "id": "256:27",
+        "id": "256:27b",
         "page": 256,
         "line": 27,
         "text": "And now I say unto you, that well doth ",
@@ -838,7 +845,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/256"
       },
       {
-        "id": "256:30",
+        "id": "256:30a",
         "page": 256,
         "line": 30,
         "text": "Kingdom of Heaven is at hand.",
@@ -852,7 +859,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "256:30",
+        "id": "256:30b",
         "page": 256,
         "line": 30,
         "text": "Yea, well doth he cry, by the ",
@@ -866,7 +873,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/256"
       },
       {
-        "id": "256:32",
+        "id": "256:32a",
         "page": 256,
         "line": 32,
         "text": "with equity and justice in my hands.",
@@ -880,7 +887,7 @@
     "verse": 22,
     "lines": [
       {
-        "id": "256:32",
+        "id": "256:32b",
         "page": 256,
         "line": 32,
         "text": "Yea, and I say unto you, ",
@@ -915,7 +922,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/256"
       },
       {
-        "id": "256:37",
+        "id": "256:37a",
         "page": 256,
         "line": 37,
         "text": "lence, and the sword.",
@@ -929,7 +936,7 @@
     "verse": 23,
     "lines": [
       {
-        "id": "256:37",
+        "id": "256:37b",
         "page": 256,
         "line": 37,
         "text": "But it is by the prayers of the right",
@@ -999,7 +1006,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/257"
       },
       {
-        "id": "257:3",
+        "id": "257:3a",
         "page": 257,
         "line": 3,
         "text": "we have selected.",
@@ -1013,7 +1020,7 @@
     "verse": 25,
     "lines": [
       {
-        "id": "257:3",
+        "id": "257:3b",
         "page": 257,
         "line": 3,
         "text": "But Amulek stretched forth his hand, and ",
@@ -1055,7 +1062,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/257"
       },
       {
-        "id": "257:9",
+        "id": "257:9a",
         "page": 257,
         "line": 9,
         "text": "truth?",
@@ -1069,7 +1076,7 @@
     "verse": 26,
     "lines": [
       {
-        "id": "257:9",
+        "id": "257:9b",
         "page": 257,
         "line": 9,
         "text": "For behold, have I testified against your law? Ye ",
@@ -1090,7 +1097,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/257"
       },
       {
-        "id": "257:12",
+        "id": "257:12a",
         "page": 257,
         "line": 12,
         "text": "to your condemnation.",
@@ -1104,7 +1111,7 @@
     "verse": 27,
     "lines": [
       {
-        "id": "257:12",
+        "id": "257:12b",
         "page": 257,
         "line": 12,
         "text": "And now behold, I say unto you, that ",
@@ -1160,7 +1167,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/257"
       },
       {
-        "id": "257:19",
+        "id": "257:19a",
         "page": 257,
         "line": 19,
         "text": "saith that he hath not spoken against it.",
@@ -1174,17 +1181,17 @@
     "verse": 29,
     "lines": [
       {
-        "id": "257:19",
+        "id": "257:19b",
         "page": 257,
         "line": 19,
         "text": "And again: he hath ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/257"
       },
       {
-        "id": "257:20",
+        "id": "257:20a",
         "page": 257,
         "line": 20,
-        "text": "reviled against our Lawyers, and our Judges, &c.",
+        "text": "reviled against our Lawyers, and our Judges,",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/257"
       }
     ]
@@ -1195,10 +1202,10 @@
     "verse": 30,
     "lines": [
       {
-        "id": "257:20",
+        "id": "257:20b",
         "page": 257,
         "line": 20,
-        "text": "And it ",
+        "text": "&c. And it ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/257"
       },
       {
@@ -1209,10 +1216,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/257"
       },
       {
-        "id": "257:22",
+        "id": "257:22a",
         "page": 257,
         "line": 22,
-        "text": "they should remember these things against him. And",
+        "text": "they should remember these things against him.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/257"
       }
     ]
@@ -1223,10 +1230,10 @@
     "verse": 31,
     "lines": [
       {
-        "id": "257:22",
+        "id": "257:22b",
         "page": 257,
         "line": 22,
-        "text": "it came ",
+        "text": "And it came ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/257"
       },
       {
@@ -1251,7 +1258,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/257"
       },
       {
-        "id": "257:26",
+        "id": "257:26a",
         "page": 257,
         "line": 26,
         "text": "much business to do among the people.",
@@ -1265,7 +1272,7 @@
     "verse": 32,
     "lines": [
       {
-        "id": "257:26",
+        "id": "257:26b",
         "page": 257,
         "line": 26,
         "text": "Now the object of ",

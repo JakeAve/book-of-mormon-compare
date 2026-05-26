@@ -5,7 +5,7 @@
     "verse": 1,
     "lines": [
       {
-        "id": "485:16",
+        "id": "485:16b",
         "page": 485,
         "line": 16,
         "text": "And it came to pass that when Jesus had spoken ",
@@ -89,7 +89,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/485"
       },
       {
-        "id": "485:28",
+        "id": "485:28a",
         "page": 485,
         "line": 28,
         "text": "have seen me, and know that I am.",
@@ -103,7 +103,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "485:28",
+        "id": "485:28b",
         "page": 485,
         "line": 28,
         "text": "And again, more bles",
@@ -145,7 +145,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/485"
       },
       {
-        "id": "485:34",
+        "id": "485:34a",
         "page": 485,
         "line": 34,
         "text": "Holy Ghost, and shall receive a remission of their sins.",
@@ -159,7 +159,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "485:34",
+        "id": "485:34b",
         "page": 485,
         "line": 34,
         "text": "Yea, ",
@@ -173,7 +173,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/485"
       },
       {
-        "id": "485:36",
+        "id": "485:36a",
         "page": 485,
         "line": 36,
         "text": "is the kingdom of Heaven.",
@@ -187,14 +187,14 @@
     "verse": 4,
     "lines": [
       {
-        "id": "485:36",
+        "id": "485:36b",
         "page": 485,
         "line": 36,
         "text": "And again, blessed are all they ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/485"
       },
       {
-        "id": "485:37",
+        "id": "485:37a",
         "page": 485,
         "line": 37,
         "text": "that mourn, for they shall be comforted;",
@@ -208,14 +208,14 @@
     "verse": 5,
     "lines": [
       {
-        "id": "485:37",
+        "id": "485:37b",
         "page": 485,
         "line": 37,
         "text": "and blessed are the ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/485"
       },
       {
-        "id": "485:38",
+        "id": "485:38a",
         "page": 485,
         "line": 38,
         "text": "meek, for they shall inherit the earth.",
@@ -229,7 +229,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "485:38",
+        "id": "485:38b",
         "page": 485,
         "line": 38,
         "text": "And blessed are all ",
@@ -243,7 +243,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/485"
       },
       {
-        "id": "485:40",
+        "id": "485:40a",
         "page": 485,
         "line": 40,
         "text": "shall be filled with the Holy Ghost.",
@@ -257,14 +257,14 @@
     "verse": 7,
     "lines": [
       {
-        "id": "485:40",
+        "id": "485:40b",
         "page": 485,
         "line": 40,
         "text": "And blessed are the mer",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/485"
       },
       {
-        "id": "485:41",
+        "id": "485:41a",
         "page": 485,
         "line": 41,
         "text": "ciful, for they shall obtain mercy.",
@@ -278,14 +278,14 @@
     "verse": 8,
     "lines": [
       {
-        "id": "485:41",
+        "id": "485:41b",
         "page": 485,
         "line": 41,
         "text": "And blessed are all the ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/485"
       },
       {
-        "id": "485:42",
+        "id": "485:42a",
         "page": 485,
         "line": 42,
         "text": "pure in heart, for they shall see God.",
@@ -299,7 +299,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "485:42",
+        "id": "485:42b",
         "page": 485,
         "line": 42,
         "text": "And blessed are all ",
@@ -313,7 +313,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/485"
       },
       {
-        "id": "486:1",
+        "id": "486:1a",
         "page": 486,
         "line": 1,
         "text": "God.",
@@ -327,17 +327,17 @@
     "verse": 10,
     "lines": [
       {
-        "id": "486:1",
+        "id": "486:1b",
         "page": 486,
         "line": 1,
         "text": "And blessed are all they which are persecuted, for my ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/486"
       },
       {
-        "id": "486:2",
+        "id": "486:2a",
         "page": 486,
         "line": 2,
-        "text": "namesake, for theirs is the kingdom of Heaven. And bles",
+        "text": "namesake, for theirs is the kingdom of Heaven.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/486"
       }
     ]
@@ -347,6 +347,13 @@
     "chapter": 12,
     "verse": 11,
     "lines": [
+      {
+        "id": "486:2b",
+        "page": 486,
+        "line": 2,
+        "text": "And bles",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/486"
+      },
       {
         "id": "486:3",
         "page": 486,
@@ -383,7 +390,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/486"
       },
       {
-        "id": "486:7",
+        "id": "486:7a",
         "page": 486,
         "line": 7,
         "text": "the prophets which were before you.",
@@ -397,7 +404,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "486:7",
+        "id": "486:7b",
         "page": 486,
         "line": 7,
         "text": "Verily, verily I say unto ",
@@ -425,7 +432,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/486"
       },
       {
-        "id": "486:11",
+        "id": "486:11a",
         "page": 486,
         "line": 11,
         "text": "and to be trodden under foot of men.",
@@ -439,7 +446,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "486:11",
+        "id": "486:11b",
         "page": 486,
         "line": 11,
         "text": "Verily, verily I say unto ",
@@ -453,7 +460,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/486"
       },
       {
-        "id": "486:13",
+        "id": "486:13a",
         "page": 486,
         "line": 13,
         "text": "that is set on a hill cannot be hid.",
@@ -467,7 +474,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "486:13",
+        "id": "486:13b",
         "page": 486,
         "line": 13,
         "text": "Behold, do men light a ",
@@ -481,7 +488,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/486"
       },
       {
-        "id": "486:15",
+        "id": "486:15a",
         "page": 486,
         "line": 15,
         "text": "stick, and it giveth light to all that are in the house;",
@@ -495,7 +502,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "486:15",
+        "id": "486:15b",
         "page": 486,
         "line": 15,
         "text": "therefore ",
@@ -530,7 +537,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/486"
       },
       {
-        "id": "486:19",
+        "id": "486:19a",
         "page": 486,
         "line": 19,
         "text": "I am not come to destroy but to fulfil:",
@@ -544,7 +551,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "486:19",
+        "id": "486:19b",
         "page": 486,
         "line": 19,
         "text": "for verily I say unto ",
@@ -600,7 +607,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/486"
       },
       {
-        "id": "486:26",
+        "id": "486:26a",
         "page": 486,
         "line": 26,
         "text": "ments before you, and the law is fulfilled;",
@@ -614,7 +621,7 @@
     "verse": 20,
     "lines": [
       {
-        "id": "486:26",
+        "id": "486:26b",
         "page": 486,
         "line": 26,
         "text": "therefore come ",
@@ -642,7 +649,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/486"
       },
       {
-        "id": "486:30",
+        "id": "486:30a",
         "page": 486,
         "line": 30,
         "text": "heaven.",
@@ -656,7 +663,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "486:30",
+        "id": "486:30b",
         "page": 486,
         "line": 30,
         "text": "Ye have heard that it hath been said by them of old ",
@@ -677,7 +684,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/486"
       },
       {
-        "id": "486:33",
+        "id": "486:33a",
         "page": 486,
         "line": 33,
         "text": "ment of God.",
@@ -691,7 +698,7 @@
     "verse": 22,
     "lines": [
       {
-        "id": "486:33",
+        "id": "486:33b",
         "page": 486,
         "line": 33,
         "text": "But I say unto you, that whosoever is angry ",
@@ -719,10 +726,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/486"
       },
       {
-        "id": "486:37",
+        "id": "486:37a",
         "page": 486,
         "line": 37,
-        "text": "in danger of hell-fire; therefore,",
+        "text": "in danger of",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/486"
       }
     ]
@@ -733,10 +740,10 @@
     "verse": 23,
     "lines": [
       {
-        "id": "486:37",
+        "id": "486:37b",
         "page": 486,
         "line": 37,
-        "text": "if ye shall come unto me, or ",
+        "text": "hell-fire; therefore, if ye shall come unto me, or ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/486"
       },
       {
@@ -747,7 +754,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/486"
       },
       {
-        "id": "486:39",
+        "id": "486:39a",
         "page": 486,
         "line": 39,
         "text": "ther hath aught against thee,",
@@ -761,7 +768,7 @@
     "verse": 24,
     "lines": [
       {
-        "id": "486:39",
+        "id": "486:39b",
         "page": 486,
         "line": 39,
         "text": "go thy way unto thy brother, and ",
@@ -775,7 +782,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/486"
       },
       {
-        "id": "486:41",
+        "id": "486:41a",
         "page": 486,
         "line": 41,
         "text": "full purpose of heart, and I will receive you.",
@@ -789,7 +796,7 @@
     "verse": 25,
     "lines": [
       {
-        "id": "486:41",
+        "id": "486:41b",
         "page": 486,
         "line": 41,
         "text": "Agree with ",
@@ -810,7 +817,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/486"
       },
       {
-        "id": "487:1",
+        "id": "487:1a",
         "page": 487,
         "line": 1,
         "text": "prison.",
@@ -824,7 +831,7 @@
     "verse": 26,
     "lines": [
       {
-        "id": "487:1",
+        "id": "487:1b",
         "page": 487,
         "line": 1,
         "text": "Verily, verily I say unto thee, thou shalt by no means ",
@@ -845,7 +852,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/487"
       },
       {
-        "id": "487:4",
+        "id": "487:4a",
         "page": 487,
         "line": 4,
         "text": "ily, verily I say unto you, Nay.",
@@ -859,14 +866,14 @@
     "verse": 27,
     "lines": [
       {
-        "id": "487:4",
+        "id": "487:4b",
         "page": 487,
         "line": 4,
         "text": "Behold, it is written by them ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/487"
       },
       {
-        "id": "487:5",
+        "id": "487:5a",
         "page": 487,
         "line": 5,
         "text": "of old time, that thou shalt not commit adultery;",
@@ -880,7 +887,7 @@
     "verse": 28,
     "lines": [
       {
-        "id": "487:5",
+        "id": "487:5b",
         "page": 487,
         "line": 5,
         "text": "but I say un",
@@ -894,7 +901,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/487"
       },
       {
-        "id": "487:7",
+        "id": "487:7a",
         "page": 487,
         "line": 7,
         "text": "hath committed adultery already in his heart.",
@@ -908,7 +915,7 @@
     "verse": 29,
     "lines": [
       {
-        "id": "487:7",
+        "id": "487:7b",
         "page": 487,
         "line": 7,
         "text": "Behold, I give ",
@@ -922,7 +929,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/487"
       },
       {
-        "id": "487:9",
+        "id": "487:9a",
         "page": 487,
         "line": 9,
         "text": "to enter into your heart:",
@@ -936,7 +943,7 @@
     "verse": 30,
     "lines": [
       {
-        "id": "487:9",
+        "id": "487:9b",
         "page": 487,
         "line": 9,
         "text": "for it is better that ye should deny ",
@@ -950,7 +957,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/487"
       },
       {
-        "id": "487:11",
+        "id": "487:11a",
         "page": 487,
         "line": 11,
         "text": "than that ye should be cast into hell.",
@@ -964,7 +971,7 @@
     "verse": 31,
     "lines": [
       {
-        "id": "487:11",
+        "id": "487:11b",
         "page": 487,
         "line": 11,
         "text": "It hath been written, ",
@@ -978,7 +985,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/487"
       },
       {
-        "id": "487:13",
+        "id": "487:13a",
         "page": 487,
         "line": 13,
         "text": "writing of divorcement.",
@@ -992,7 +999,7 @@
     "verse": 32,
     "lines": [
       {
-        "id": "487:13",
+        "id": "487:13b",
         "page": 487,
         "line": 13,
         "text": "Verily, verily I say unto you, That ",
@@ -1013,7 +1020,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/487"
       },
       {
-        "id": "487:16",
+        "id": "487:16a",
         "page": 487,
         "line": 16,
         "text": "marry her who is divorced, committeth adultery.",
@@ -1027,7 +1034,7 @@
     "verse": 33,
     "lines": [
       {
-        "id": "487:16",
+        "id": "487:16b",
         "page": 487,
         "line": 16,
         "text": "And again ",
@@ -1041,7 +1048,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/487"
       },
       {
-        "id": "487:18",
+        "id": "487:18a",
         "page": 487,
         "line": 18,
         "text": "unto the Lord thine oaths.",
@@ -1055,7 +1062,7 @@
     "verse": 34,
     "lines": [
       {
-        "id": "487:18",
+        "id": "487:18b",
         "page": 487,
         "line": 18,
         "text": "But verily, verily I say unto you, ",
@@ -1076,7 +1083,7 @@
     "verse": 35,
     "lines": [
       {
-        "id": "487:20",
+        "id": "487:20a",
         "page": 487,
         "line": 20,
         "text": "nor by the earth, for it his footstool;",
@@ -1090,7 +1097,7 @@
     "verse": 36,
     "lines": [
       {
-        "id": "487:20",
+        "id": "487:20b",
         "page": 487,
         "line": 20,
         "text": "neither shalt thou swear ",
@@ -1104,7 +1111,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/487"
       },
       {
-        "id": "487:22",
+        "id": "487:22a",
         "page": 487,
         "line": 22,
         "text": "white;",
@@ -1118,7 +1125,7 @@
     "verse": 37,
     "lines": [
       {
-        "id": "487:22",
+        "id": "487:22b",
         "page": 487,
         "line": 22,
         "text": "but let your communication be Yea, yea; Nay, nay: for ",
@@ -1128,7 +1135,7 @@
         "id": "487:23",
         "page": 487,
         "line": 23,
-        "text": "whatsoever cometh of more than these are evil.",
+        "text": "whatsoever cometh of more than these are evil. And behold,",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/487"
       }
     ]
@@ -1139,14 +1146,7 @@
     "verse": 38,
     "lines": [
       {
-        "id": "487:23",
-        "page": 487,
-        "line": 23,
-        "text": "And behold, ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/487"
-      },
-      {
-        "id": "487:24",
+        "id": "487:24a",
         "page": 487,
         "line": 24,
         "text": "it is written, An eye for an eye, and a tooth for a tooth.",
@@ -1160,7 +1160,7 @@
     "verse": 39,
     "lines": [
       {
-        "id": "487:24",
+        "id": "487:24b",
         "page": 487,
         "line": 24,
         "text": "But I ",
@@ -1195,7 +1195,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/487"
       },
       {
-        "id": "487:28",
+        "id": "487:28a",
         "page": 487,
         "line": 28,
         "text": "coat, let him have thy cloak also.",
@@ -1209,14 +1209,14 @@
     "verse": 41,
     "lines": [
       {
-        "id": "487:28",
+        "id": "487:28b",
         "page": 487,
         "line": 28,
         "text": "And whosoever shall com",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/487"
       },
       {
-        "id": "487:29",
+        "id": "487:29a",
         "page": 487,
         "line": 29,
         "text": "pel thee to go a mile, go with him twain.",
@@ -1230,7 +1230,7 @@
     "verse": 42,
     "lines": [
       {
-        "id": "487:29",
+        "id": "487:29b",
         "page": 487,
         "line": 29,
         "text": "Give to him that ",
@@ -1244,7 +1244,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/487"
       },
       {
-        "id": "487:31",
+        "id": "487:31a",
         "page": 487,
         "line": 31,
         "text": "not away.",
@@ -1258,14 +1258,14 @@
     "verse": 43,
     "lines": [
       {
-        "id": "487:31",
+        "id": "487:31b",
         "page": 487,
         "line": 31,
         "text": "And behold, it is written also, That thou shalt love ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/487"
       },
       {
-        "id": "487:32",
+        "id": "487:32a",
         "page": 487,
         "line": 32,
         "text": "thy neighbor, and hate thine enemy:",
@@ -1279,7 +1279,7 @@
     "verse": 44,
     "lines": [
       {
-        "id": "487:32",
+        "id": "487:32b",
         "page": 487,
         "line": 32,
         "text": "but behold I say unto you, ",
@@ -1300,7 +1300,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/487"
       },
       {
-        "id": "487:35",
+        "id": "487:35a",
         "page": 487,
         "line": 35,
         "text": "and persecute you,",
@@ -1314,7 +1314,7 @@
     "verse": 45,
     "lines": [
       {
-        "id": "487:35",
+        "id": "487:35b",
         "page": 487,
         "line": 35,
         "text": "that ye may be the children of your Fa",
@@ -1328,7 +1328,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/487"
       },
       {
-        "id": "487:37",
+        "id": "487:37a",
         "page": 487,
         "line": 37,
         "text": "evil and on the good;",
@@ -1342,7 +1342,7 @@
     "verse": 46,
     "lines": [
       {
-        "id": "487:37",
+        "id": "487:37b",
         "page": 487,
         "line": 37,
         "text": "therefore those things which were of ",
@@ -1384,7 +1384,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/487"
       },
       {
-        "id": "487:41",
+        "id": "487:41a",
         "page": 487,
         "line": 41,
         "text": "Father which is in Heaven is perfect.",

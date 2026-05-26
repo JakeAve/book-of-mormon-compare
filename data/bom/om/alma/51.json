@@ -5,6 +5,14 @@
     "verse": 1,
     "lines": [
       {
+        "id": "160:11",
+        "page": 160,
+        "line": 11,
+        "text": "Chapter ",
+        "markdown": "{{ Chapter}} ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/160"
+      },
+      {
         "id": "160:12",
         "page": 160,
         "line": 12,
@@ -29,7 +37,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/160"
       },
       {
-        "id": "160:15",
+        "id": "160:15a",
         "page": 160,
         "line": 15,
         "text": "ty & fifthyear in peace",
@@ -44,7 +52,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "160:15",
+        "id": "160:15b",
         "page": 160,
         "line": 15,
         "text": "nevertheless they did not long maintain an entire peace ",
@@ -66,7 +74,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/160"
       },
       {
-        "id": "160:18",
+        "id": "160:18a",
         "page": 160,
         "line": 18,
         "text": "t a few particular Points of the law should be altered",
@@ -80,7 +88,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "160:18",
+        "id": "160:18b",
         "page": 160,
         "line": 18,
         "text": "but behold Paroron wou",
@@ -102,7 +110,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/160"
       },
       {
-        "id": "160:21",
+        "id": "160:21a",
         "page": 160,
         "line": 21,
         "text": "the law",
@@ -116,7 +124,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "160:21",
+        "id": "160:21b",
         "page": 160,
         "line": 21,
         "text": "therefore those which were desireous that the law should be altered we",
@@ -130,7 +138,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/160"
       },
       {
-        "id": "160:23",
+        "id": "160:23a",
         "page": 160,
         "line": 23,
         "text": "therefore there arose a warm disputes concerning the matter but not unto Bloodshed",
@@ -144,7 +152,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "160:23",
+        "id": "160:23b",
         "page": 160,
         "line": 23,
         "text": "& ",
@@ -172,7 +180,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/160"
       },
       {
-        "id": "160:27",
+        "id": "160:27a",
         "page": 160,
         "line": 27,
         "text": "nd",
@@ -186,7 +194,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "160:27",
+        "id": "160:27b",
         "page": 160,
         "line": 27,
         "text": "& those who were desireous that Pahoron should remain Chief Judge over the land to",
@@ -208,7 +216,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/160"
       },
       {
-        "id": "160:30",
+        "id": "160:30a",
         "page": 160,
         "line": 30,
         "text": "a free goverment",
@@ -222,7 +230,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "160:30",
+        "id": "160:30b",
         "page": 160,
         "line": 30,
         "text": "& it came to pass that this matter of their contension was settled by ",
@@ -259,7 +267,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/160"
       },
       {
-        "id": "160:35",
+        "id": "160:35a",
         "page": 160,
         "line": 35,
         "text": "aintain the cause of freedom",
@@ -273,7 +281,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "160:35",
+        "id": "160:35b",
         "page": 160,
         "line": 35,
         "text": "now those which were in favour of Kings were those ",
@@ -288,7 +296,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/161"
       },
       {
-        "id": "161:2",
+        "id": "161:2a",
         "page": 161,
         "line": 2,
         "text": "Power & authority over the People",
@@ -302,7 +310,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "161:2",
+        "id": "161:2b",
         "page": 161,
         "line": 2,
         "text": "but Beheld this was a critical time for such contensionsto be among the People of Nephi for behold Ameleckiah had again stired up thehearts of the People of the Lamanites againts the People of the Nephites & he was gathering togeth",
@@ -318,7 +326,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/161"
       },
       {
-        "id": "161:4",
+        "id": "161:4a",
         "page": 161,
         "line": 4,
         "text": "ligence for he had swoarn to drink the Blood of Moroni",
@@ -333,7 +341,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "161:4",
+        "id": "161:4b",
         "page": 161,
         "line": 4,
         "text": "but behold we shall see tha",
@@ -349,7 +357,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/161"
       },
       {
-        "id": "161:6",
+        "id": "161:6a",
         "page": 161,
         "line": 6,
         "text": "armies to come to Battle against the Nephites",
@@ -363,7 +371,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "161:6",
+        "id": "161:6b",
         "page": 161,
         "line": 6,
         "text": "now his armies were not so great as th",
@@ -395,7 +403,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/161"
       },
       {
-        "id": "161:10",
+        "id": "161:10a",
         "page": 161,
         "line": 10,
         "text": "not to come down to the land of Zarahemla",
@@ -409,7 +417,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "161:10",
+        "id": "161:10b",
         "page": 161,
         "line": 10,
         "text": "yea even Ameleckiah did himself ",
@@ -433,11 +441,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/161"
       },
       {
-        "id": "161:13",
+        "id": "161:13a",
         "page": 161,
         "line": 13,
-        "text": "of their comtntions Concening the Chief Judge Parhoron & it came to pass that when",
-        "markdown": "of their comtntions Concening the Chief Judge Parhoron & it came {{to pass that when}}",
+        "text": "of their comtntions Concening the Chief Judge Parhoron",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/161"
       }
     ]
@@ -447,6 +454,14 @@
     "chapter": 51,
     "verse": 13,
     "lines": [
+      {
+        "id": "161:13b",
+        "page": 161,
+        "line": 13,
+        "text": "& it came to pass that when ",
+        "markdown": "& it came {{to pass that when}} ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/161"
+      },
       {
         "id": "161:14",
         "page": 161,
@@ -471,7 +486,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/161"
       },
       {
-        "id": "161:17",
+        "id": "161:17a",
         "page": 161,
         "line": 17,
         "text": "t they would not take up arms to defend their country",
@@ -485,7 +500,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "161:17",
+        "id": "161:17b",
         "page": 161,
         "line": 17,
         "text": "& it came to pass that when Moro",
@@ -514,7 +529,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/161"
       },
       {
-        "id": "161:21",
+        "id": "161:21a",
         "page": 161,
         "line": 21,
         "text": "filled with angar against them",
@@ -528,7 +543,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "161:21",
+        "id": "161:21b",
         "page": 161,
         "line": 21,
         "text": "& it came to pass that he sent a petition with the voice ",
@@ -570,7 +585,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/161"
       },
       {
-        "id": "161:26",
+        "id": "161:26a",
         "page": 161,
         "line": 26,
         "text": "as granted according to the voice of the People",
@@ -584,7 +599,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "161:26",
+        "id": "161:26b",
         "page": 161,
         "line": 26,
         "text": "& it came to pass that Moroni commanded ",
@@ -606,7 +621,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/161"
       },
       {
-        "id": "161:29",
+        "id": "161:29a",
         "page": 161,
         "line": 29,
         "text": "liberty",
@@ -620,7 +635,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "161:29",
+        "id": "161:29b",
         "page": 161,
         "line": 29,
         "text": "& it came to pass that the armies did march forth against them & ",
@@ -642,10 +657,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/161"
       },
       {
-        "id": "161:32",
+        "id": "161:32a",
         "page": 161,
         "line": 32,
-        "text": "elled to the",
+        "text": "elled to the earth",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/161"
       }
     ]
@@ -656,11 +671,11 @@
     "verse": 19,
     "lines": [
       {
-        "id": "161:32",
+        "id": "161:32b",
         "page": 161,
         "line": 32,
-        "text": "earth & it came to pass that there were four thousand of those dissenters w ",
-        "markdown": "earth & it came to pass that there [were] four thousand of those dissenters w ",
+        "text": "& it came to pass that there were four thousand of those dissenters w ",
+        "markdown": "& it came to pass that there [were] four thousand of those dissenters w ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/161"
       },
       {
@@ -678,11 +693,11 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/161"
       },
       {
-        "id": "162:1",
+        "id": "162:1a",
         "page": 162,
         "line": 1,
-        "text": "were taken & cast into prison for there was no time for their trials at this period&",
-        "markdown": "{{were taken & cast into prison for there}} was no~~t~~ time for their trials at this perio{{d&",
+        "text": "were taken & cast into prison for there was no time for their trials at this",
+        "markdown": "{{were taken & cast into prison for there}} was no~~t~~ time for their trials at this",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/162"
       }
     ]
@@ -693,15 +708,15 @@
     "verse": 20,
     "lines": [
       {
-        "id": "162:1",
+        "id": "162:1b",
         "page": 162,
         "line": 1,
-        "text": "the remainder of those dissenters rather than to be smote down to the earth by thesword yielded to the standard of liberty & were compeled to hoist the title of liberty upon their towers & in their cities & to take up arms in defence of their coun",
-        "markdown": "the remainder of those dissenters ra}}ther than to be smote down to the earth by t{{hesword yielded to the standard of liberty}} & were compeled to hoist the title of l{{iberty upon their towers & in their citie}}s & to take up arms in defence of their coun",
+        "text": "period& the remainder of those dissenters rather than to be smote down to the earth by thesword yielded to the standard of liberty & were compeled to hoist the title of liberty upon their towers & in their cities & to take up arms in defence of their coun",
+        "markdown": "perio{{d& the remainder of those dissenters ra}}ther than to be smote down to the earth by t{{hesword yielded to the standard of liberty}} & were compeled to hoist the title of l{{iberty upon their towers & in their citie}}s & to take up arms in defence of their coun",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/162"
       },
       {
-        "id": "162:2",
+        "id": "162:2a",
         "page": 162,
         "line": 2,
         "text": "try",
@@ -716,7 +731,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "162:2",
+        "id": "162:2b",
         "page": 162,
         "line": 2,
         "text": "& thus Moroni put an end to those Kingmen that there were not any known by ",
@@ -748,7 +763,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/162"
       },
       {
-        "id": "162:6",
+        "id": "162:6a",
         "page": 162,
         "line": 6,
         "text": "dom from bondage",
@@ -763,7 +778,7 @@
     "verse": 22,
     "lines": [
       {
-        "id": "162:6",
+        "id": "162:6b",
         "page": 162,
         "line": 6,
         "text": "behold it cane to pass that while Moroni was thus breaking dow",
@@ -795,7 +810,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/162"
       },
       {
-        "id": "162:10",
+        "id": "162:10a",
         "page": 162,
         "line": 10,
         "text": "rders by the Sea shore",
@@ -810,7 +825,7 @@
     "verse": 23,
     "lines": [
       {
-        "id": "162:10",
+        "id": "162:10b",
         "page": 162,
         "line": 10,
         "text": "& it came to pass that the Nephites were not sufficiently strong ",
@@ -834,7 +849,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/162"
       },
       {
-        "id": "162:13",
+        "id": "162:13a",
         "page": 162,
         "line": 13,
         "text": "ir fortifications",
@@ -849,7 +864,7 @@
     "verse": 24,
     "lines": [
       {
-        "id": "162:13",
+        "id": "162:13b",
         "page": 162,
         "line": 13,
         "text": "& those which fled out of the City of Moroni came to the City of ",
@@ -864,7 +879,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/162"
       },
       {
-        "id": "162:15",
+        "id": "162:15a",
         "page": 162,
         "line": 15,
         "text": "de preperations & were ready to receive the Lamanites to Battle",
@@ -878,7 +893,7 @@
     "verse": 25,
     "lines": [
       {
-        "id": "162:15",
+        "id": "162:15b",
         "page": 162,
         "line": 15,
         "text": "but it came to ",
@@ -899,7 +914,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/162"
       },
       {
-        "id": "162:18",
+        "id": "162:18a",
         "page": 162,
         "line": 18,
         "text": "ry City to maintain & defend it",
@@ -913,7 +928,7 @@
     "verse": 26,
     "lines": [
       {
-        "id": "162:18",
+        "id": "162:18b",
         "page": 162,
         "line": 18,
         "text": "& thus he went om takeing possession of many cities ",
@@ -935,7 +950,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/162"
       },
       {
-        "id": "162:21",
+        "id": "162:21a",
         "page": 162,
         "line": 21,
         "text": "the Sea Shore",
@@ -949,7 +964,7 @@
     "verse": 27,
     "lines": [
       {
-        "id": "162:21",
+        "id": "162:21b",
         "page": 162,
         "line": 21,
         "text": "& thus had the Lamanites obtained by the cunning of Amelickiah ",
@@ -971,7 +986,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/162"
       },
       {
-        "id": "162:24",
+        "id": "162:24a",
         "page": 162,
         "line": 24,
         "text": "lds for the Lamanites",
@@ -985,14 +1000,14 @@
     "verse": 28,
     "lines": [
       {
-        "id": "162:24",
+        "id": "162:24b",
         "page": 162,
         "line": 24,
         "text": "& it came to pass that they marched to the borders of the lan",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/162"
       },
       {
-        "id": "162:25",
+        "id": "162:25a",
         "page": 162,
         "line": 25,
         "text": "d bountiful driveing the Nephites before them & slaying many",
@@ -1006,7 +1021,7 @@
     "verse": 29,
     "lines": [
       {
-        "id": "162:25",
+        "id": "162:25b",
         "page": 162,
         "line": 25,
         "text": "but it cane to ",
@@ -1021,7 +1036,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/162"
       },
       {
-        "id": "162:27",
+        "id": "162:27a",
         "page": 162,
         "line": 27,
         "text": "headed his People in his flight",
@@ -1035,7 +1050,7 @@
     "verse": 30,
     "lines": [
       {
-        "id": "162:27",
+        "id": "162:27b",
         "page": 162,
         "line": 27,
         "text": "& it came to pass that he headed Amelick",
@@ -1049,7 +1064,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/162"
       },
       {
-        "id": "162:29",
+        "id": "162:29a",
         "page": 162,
         "line": 29,
         "text": "ht take possession of the land Bountiful & also the land Northward",
@@ -1063,7 +1078,7 @@
     "verse": 31,
     "lines": [
       {
-        "id": "162:29",
+        "id": "162:29b",
         "page": 162,
         "line": 29,
         "text": "but ",
@@ -1093,7 +1108,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/162"
       },
       {
-        "id": "163:1",
+        "id": "163:1a",
         "page": 163,
         "line": 1,
         "text": "advantage over the Lamanites",
@@ -1107,7 +1122,7 @@
     "verse": 32,
     "lines": [
       {
-        "id": "163:1",
+        "id": "163:1b",
         "page": 163,
         "line": 1,
         "text": "& it came to pass that they did harrass them inso",
@@ -1131,7 +1146,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/163"
       },
       {
-        "id": "163:4",
+        "id": "163:4a",
         "page": 163,
         "line": 4,
         "text": "& after this manner were they driven",
@@ -1145,7 +1160,7 @@
     "verse": 33,
     "lines": [
       {
-        "id": "163:4",
+        "id": "163:4b",
         "page": 163,
         "line": 4,
         "text": "& it came to pass that when the night had come ",
@@ -1169,7 +1184,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/163"
       },
       {
-        "id": "163:7",
+        "id": "163:7a",
         "page": 163,
         "line": 7,
         "text": "ague which was caused by the labours & heat of the day",
@@ -1184,7 +1199,7 @@
     "verse": 34,
     "lines": [
       {
-        "id": "163:7",
+        "id": "163:7b",
         "page": 163,
         "line": 7,
         "text": "& it came to pass that ",
@@ -1208,7 +1223,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/163"
       },
       {
-        "id": "163:10",
+        "id": "163:10a",
         "page": 163,
         "line": 10,
         "text": "ants",
@@ -1222,7 +1237,7 @@
     "verse": 35,
     "lines": [
       {
-        "id": "163:10",
+        "id": "163:10b",
         "page": 163,
         "line": 10,
         "text": "& he returned again privelly to his own camp & behold his men were asleep ",
@@ -1230,7 +1245,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/163"
       },
       {
-        "id": "163:11",
+        "id": "163:11a",
         "page": 163,
         "line": 11,
         "text": "& he awoke them & told them all the things that he had done",
@@ -1245,7 +1260,7 @@
     "verse": 36,
     "lines": [
       {
-        "id": "163:11",
+        "id": "163:11b",
         "page": 163,
         "line": 11,
         "text": "& he caused that ",
@@ -1261,11 +1276,25 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/163"
       },
       {
-        "id": "163:13",
+        "id": "163:13a",
         "page": 163,
         "line": 13,
-        "text": "me upon them & thus ended the twenty & fifth year of the Reign of the Judges ",
-        "markdown": "me upon them & thus ended the twenty & fifth ~~&~~ yea{{r of the Reign of the Judges}} ",
+        "text": "me upon them",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/163"
+      }
+    ]
+  },
+  {
+    "book": "alma",
+    "chapter": 51,
+    "verse": 37,
+    "lines": [
+      {
+        "id": "163:13b",
+        "page": 163,
+        "line": 13,
+        "text": "& thus ended the twenty & fifth year of the Reign of the Judges ",
+        "markdown": "& thus ended the twenty & fifth ~~&~~ yea{{r of the Reign of the Judges}} ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/163"
       },
       {
@@ -1280,19 +1309,12 @@
         "id": "163:15",
         "page": 163,
         "line": 15,
-        "text": "Chapter",
-        "markdown": "Chapter {{}}",
+        "text": "Chapter ",
+        "markdown": "Chapter {{}} ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/163"
-      }
-    ]
-  },
-  {
-    "book": "alma",
-    "chapter": 51,
-    "verse": 37,
-    "lines": [
+      },
       {
-        "id": "163:16",
+        "id": "163:16a",
         "page": 163,
         "line": 16,
         "text": "Amd",

@@ -5,6 +5,22 @@
     "verse": 1,
     "lines": [
       {
+        "id": "169:3",
+        "page": 169,
+        "line": 3,
+        "text": "Chapter ",
+        "markdown": "Chapter {{}} ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/169"
+      },
+      {
+        "id": "169:4",
+        "page": 169,
+        "line": 4,
+        "text": "And now it came to pass in the commencement of the twenty & ninth year <​of the Reign​> ",
+        "markdown": "And now it came to pass in the comme{{ncement of the twenty & ninth year <​of the Reign​>}} ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/169"
+      },
+      {
         "id": "169:5",
         "page": 169,
         "line": 5,
@@ -13,7 +29,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/169"
       },
       {
-        "id": "169:6",
+        "id": "169:6a",
         "page": 169,
         "line": 6,
         "text": "oners",
@@ -27,7 +43,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "169:6",
+        "id": "169:6b",
         "page": 169,
         "line": 6,
         "text": "& it came to pass that Moroni felt to rejoice excedingly at this request ",
@@ -51,7 +67,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/169"
       },
       {
-        "id": "169:9",
+        "id": "169:9a",
         "page": 169,
         "line": 9,
         "text": "strengthening of his army",
@@ -66,7 +82,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "169:9",
+        "id": "169:9b",
         "page": 169,
         "line": 9,
         "text": "now the Lamanites had taken many women & childr",
@@ -97,7 +113,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/169"
       },
       {
-        "id": "169:13",
+        "id": "169:13a",
         "page": 169,
         "line": 13,
         "text": "possible",
@@ -111,7 +127,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "169:13",
+        "id": "169:13b",
         "page": 169,
         "line": 13,
         "text": "therefore he wrote an epistle & sent it by the servant of Am",
@@ -127,7 +143,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/169"
       },
       {
-        "id": "169:15",
+        "id": "169:15a",
         "page": 169,
         "line": 15,
         "text": "rds which he wrote unto Ammoron saying",
@@ -141,7 +157,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "169:15",
+        "id": "169:15b",
         "page": 169,
         "line": 15,
         "text": "Behold Ammoron I have wrote ",
@@ -165,7 +181,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/169"
       },
       {
-        "id": "169:18",
+        "id": "169:18a",
         "page": 169,
         "line": 18,
         "text": "still determined to carry on after his death",
@@ -179,7 +195,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "169:18",
+        "id": "169:18b",
         "page": 169,
         "line": 18,
         "text": "behold I would tell you some ",
@@ -203,7 +219,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/169"
       },
       {
-        "id": "169:21",
+        "id": "169:21a",
         "page": 169,
         "line": 21,
         "text": "to your own lands of your possessions which is the land of Nephi",
@@ -217,7 +233,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "169:21",
+        "id": "169:21b",
         "page": 169,
         "line": 21,
         "text": "yea I wo",
@@ -248,7 +264,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/169"
       },
       {
-        "id": "169:25",
+        "id": "169:25a",
         "page": 169,
         "line": 25,
         "text": "ous purposes & return with your armies to your own lands",
@@ -262,7 +278,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "169:25",
+        "id": "169:25b",
         "page": 169,
         "line": 25,
         "text": "but as ye have ",
@@ -276,7 +292,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/169"
       },
       {
-        "id": "169:27",
+        "id": "169:27a",
         "page": 169,
         "line": 27,
         "text": "I may expect you will do it again",
@@ -290,7 +306,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "169:27",
+        "id": "169:27b",
         "page": 169,
         "line": 27,
         "text": "& now behold we are prepared to receive ",
@@ -312,7 +328,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/169"
       },
       {
-        "id": "169:30",
+        "id": "169:30a",
         "page": 169,
         "line": 30,
         "text": "destruction",
@@ -326,7 +342,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "169:30",
+        "id": "169:30b",
         "page": 169,
         "line": 30,
         "text": "but as the Lord liveeth our armies shall come upon you ex",
@@ -348,7 +364,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/169"
       },
       {
-        "id": "169:33",
+        "id": "169:33a",
         "page": 169,
         "line": 33,
         "text": "use of our God",
@@ -362,7 +378,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "169:33",
+        "id": "169:33b",
         "page": 169,
         "line": 33,
         "text": "but behold it supposeth me that I talk to you conce",
@@ -398,7 +414,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/170"
       },
       {
-        "id": "170:2",
+        "id": "170:2a",
         "page": 170,
         "line": 2,
         "text": "exchange",
@@ -413,7 +429,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "170:2",
+        "id": "170:2b",
         "page": 170,
         "line": 2,
         "text": "& behold if ye do not this I will come against you with my ",
@@ -445,7 +461,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/170"
       },
       {
-        "id": "170:6",
+        "id": "170:6a",
         "page": 170,
         "line": 6,
         "text": "Battle even untill you are destroid from off the face of the earth",
@@ -460,7 +476,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "170:6",
+        "id": "170:6b",
         "page": 170,
         "line": 6,
         "text": "behold I ",
@@ -491,7 +507,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/170"
       },
       {
-        "id": "170:10",
+        "id": "170:10a",
         "page": 170,
         "line": 10,
         "text": "inheritance",
@@ -506,7 +522,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "170:10",
+        "id": "170:10b",
         "page": 170,
         "line": 10,
         "text": "now I close my epist[l]e I am Moroni I am a leader of the People ",
@@ -514,7 +530,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/170"
       },
       {
-        "id": "170:11",
+        "id": "170:11a",
         "page": 170,
         "line": 11,
         "text": "of the Nephites",
@@ -529,7 +545,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "170:11",
+        "id": "170:11b",
         "page": 170,
         "line": 11,
         "text": "now it came to pass that Ammoron when he had received ",
@@ -545,7 +561,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/170"
       },
       {
-        "id": "170:13",
+        "id": "170:13a",
         "page": 170,
         "line": 13,
         "text": "are the words which he wrote saying",
@@ -560,7 +576,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "170:13",
+        "id": "170:13b",
         "page": 170,
         "line": 13,
         "text": "I am Ammoron the King of the Lam",
@@ -583,7 +599,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/170"
       },
       {
-        "id": "170:16",
+        "id": "170:16a",
         "page": 170,
         "line": 16,
         "text": "mies fore I fear not your threatnings",
@@ -598,7 +614,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "170:16",
+        "id": "170:16b",
         "page": 170,
         "line": 16,
         "text": "for behold your Fathers did wrong ",
@@ -613,7 +629,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/170"
       },
       {
-        "id": "170:18",
+        "id": "170:18a",
         "page": 170,
         "line": 18,
         "text": "when it rightfully belonged unto them",
@@ -628,7 +644,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "170:18",
+        "id": "170:18b",
         "page": 170,
         "line": 18,
         "text": "& now behold if ye will lay ",
@@ -652,7 +668,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/170"
       },
       {
-        "id": "170:21",
+        "id": "170:21a",
         "page": 170,
         "line": 21,
         "text": "down their weopons & shall be at war no more",
@@ -666,7 +682,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "170:21",
+        "id": "170:21b",
         "page": 170,
         "line": 21,
         "text": "behold ye have breathed out ",
@@ -681,7 +697,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/170"
       },
       {
-        "id": "170:23",
+        "id": "170:23a",
         "page": 170,
         "line": 23,
         "text": "your threatnings",
@@ -695,7 +711,7 @@
     "verse": 20,
     "lines": [
       {
-        "id": "170:23",
+        "id": "170:23b",
         "page": 170,
         "line": 23,
         "text": "nevertheless I will grant to exchange Prisoners accord",
@@ -717,7 +733,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/170"
       },
       {
-        "id": "170:26",
+        "id": "170:26a",
         "page": 170,
         "line": 26,
         "text": "phites to our authority or to their eternal extinction",
@@ -731,7 +747,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "170:26",
+        "id": "170:26b",
         "page": 170,
         "line": 26,
         "text": "& as concerning that ",
@@ -752,7 +768,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/170"
       },
       {
-        "id": "170:29",
+        "id": "170:29a",
         "page": 170,
         "line": 29,
         "text": "us as well as you",
@@ -766,7 +782,7 @@
     "verse": 22,
     "lines": [
       {
-        "id": "170:29",
+        "id": "170:29b",
         "page": 170,
         "line": 29,
         "text": "& if it so be that there is a Devil & a Hell behold will he ",
@@ -787,7 +803,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/170"
       },
       {
-        "id": "170:32",
+        "id": "170:32a",
         "page": 170,
         "line": 32,
         "text": "things matter not",
@@ -801,7 +817,7 @@
     "verse": 23,
     "lines": [
       {
-        "id": "170:32",
+        "id": "170:32b",
         "page": 170,
         "line": 32,
         "text": "I am Ammoron & a desendant of Zoram whom your ",
@@ -809,7 +825,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/170"
       },
       {
-        "id": "170:33",
+        "id": "170:33a",
         "page": 170,
         "line": 33,
         "text": "fathers presed & brought out of Jerusalem",
@@ -823,7 +839,7 @@
     "verse": 24,
     "lines": [
       {
-        "id": "170:33",
+        "id": "170:33b",
         "page": 170,
         "line": 33,
         "text": "& behold I am now a bold Lama",
@@ -852,7 +868,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/171"
       },
       {
-        "id": "171:2",
+        "id": "171:2a",
         "page": 171,
         "line": 2,
         "text": "Moroni",

@@ -6,9 +6,9 @@
 //   deno run -A scripts/align-audit.ts <version> [<version2> ...]
 //
 // Examples:
-//   deno run -A scripts/align-audit.ts om-2
-//   deno run -A scripts/align-audit.ts om om-2          # compare both
-//   deno run -A scripts/align-audit.ts pm pm2 1830 1830-2 1837 1837-2 om om-2
+//   deno run -A scripts/align-audit.ts om
+//   deno run -A scripts/align-audit.ts pm om            # compare both
+//   deno run -A scripts/align-audit.ts pm 1830 1837 om
 
 interface ChapterReport {
   book: string;
@@ -102,7 +102,7 @@ function printSummary(s: Summary) {
 if (import.meta.main) {
   const versions = Deno.args.length > 0
     ? Deno.args
-    : ["pm", "pm2", "1830", "1830-2", "1837", "1837-2", "om", "om-2"];
+    : ["pm", "1830", "1837", "om"];
   const summaries: Summary[] = [];
   for (const v of versions) {
     try {

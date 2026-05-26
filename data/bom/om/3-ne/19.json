@@ -5,7 +5,15 @@
     "verse": 25,
     "lines": [
       {
-        "id": "211:1",
+        "id": "210:1c",
+        "page": 210,
+        "line": 1,
+        "text": "were in the wilderness ",
+        "markdown": "w}}ere in the wi{{lderness}} ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/210"
+      },
+      {
+        "id": "211:1a",
         "page": 211,
         "line": 1,
         "text": "be nothing upon earth so white as the whiteness thereof",
@@ -20,7 +28,7 @@
     "verse": 26,
     "lines": [
       {
-        "id": "211:1",
+        "id": "211:1b",
         "page": 211,
         "line": 1,
         "text": "& Jesus saith unto th",
@@ -28,7 +36,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/211"
       },
       {
-        "id": "211:2",
+        "id": "211:2a",
         "page": 211,
         "line": 2,
         "text": "em pray on nevertheless they did not cease to pray",
@@ -43,7 +51,7 @@
     "verse": 27,
     "lines": [
       {
-        "id": "211:2",
+        "id": "211:2b",
         "page": 211,
         "line": 2,
         "text": "& he turned from them ag",
@@ -59,7 +67,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/211"
       },
       {
-        "id": "211:4",
+        "id": "211:4a",
         "page": 211,
         "line": 4,
         "text": "unto the Father saying",
@@ -74,39 +82,11 @@
     "verse": 28,
     "lines": [
       {
-        "id": "211:4",
+        "id": "211:4b",
         "page": 211,
         "line": 4,
-        "text": "Father I thank thee that thou",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/211"
-      }
-    ]
-  },
-  {
-    "book": "3-ne",
-    "chapter": 19,
-    "verse": 29,
-    "lines": [
-      {
-        "id": "211:4",
-        "page": 211,
-        "line": 4,
-        "text": "hast",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/211"
-      }
-    ]
-  },
-  {
-    "book": "3-ne",
-    "chapter": 19,
-    "verse": 30,
-    "lines": [
-      {
-        "id": "211:4",
-        "page": 211,
-        "line": 4,
-        "text": "purified these whi",
-        "markdown": "purifie}}d these whi",
+        "text": "Father I thank thee that thou hast purified these whi",
+        "markdown": "Father I thank thee that thou hast purifie}}d these whi",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/211"
       }
     ]

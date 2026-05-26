@@ -5,6 +5,13 @@
     "verse": 1,
     "lines": [
       {
+        "id": "420:1",
+        "page": 420,
+        "line": 1,
+        "text": "CHAPTER XXVII. ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/420"
+      },
+      {
         "id": "420:2",
         "page": 420,
         "line": 2,
@@ -40,7 +47,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/420"
       },
       {
-        "id": "420:7",
+        "id": "420:7a",
         "page": 420,
         "line": 7,
         "text": "taining those lands which were lost;",
@@ -54,7 +61,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "420:7",
+        "id": "420:7b",
         "page": 420,
         "line": 7,
         "text": "yea, and he did ",
@@ -124,7 +131,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/420"
       },
       {
-        "id": "420:16",
+        "id": "420:16a",
         "page": 420,
         "line": 16,
         "text": "so miraculously prospered in retaining.",
@@ -138,7 +145,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "420:16",
+        "id": "420:16b",
         "page": 420,
         "line": 16,
         "text": "And it came ",
@@ -215,7 +222,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/420"
       },
       {
-        "id": "420:26",
+        "id": "420:26a",
         "page": 420,
         "line": 26,
         "text": "Lamanites;",
@@ -229,7 +236,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "420:26",
+        "id": "420:26b",
         "page": 420,
         "line": 26,
         "text": "yea, even those who had been compelled ",
@@ -250,7 +257,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/420"
       },
       {
-        "id": "420:29",
+        "id": "420:29a",
         "page": 420,
         "line": 29,
         "text": "in this part of the land;",
@@ -264,7 +271,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "420:29",
+        "id": "420:29b",
         "page": 420,
         "line": 29,
         "text": "and thus being exceeding nu",
@@ -292,7 +299,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/420"
       },
       {
-        "id": "420:33",
+        "id": "420:33a",
         "page": 420,
         "line": 33,
         "text": "them with an exceeding great slaughter.",
@@ -306,7 +313,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "420:33",
+        "id": "420:33b",
         "page": 420,
         "line": 33,
         "text": "And their ",
@@ -376,10 +383,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/420"
       },
       {
-        "id": "420:42",
+        "id": "420:42a",
         "page": 420,
         "line": 42,
-        "text": "posed that they would easily maintain that city; there",
+        "text": "posed that they would easily maintain that city;",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/420"
       }
     ]
@@ -389,6 +396,13 @@
     "chapter": 59,
     "verse": 10,
     "lines": [
+      {
+        "id": "420:42b",
+        "page": 420,
+        "line": 42,
+        "text": "there",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/420"
+      },
       {
         "id": "420:43",
         "page": 420,
@@ -439,7 +453,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/421"
       },
       {
-        "id": "421:3",
+        "id": "421:3a",
         "page": 421,
         "line": 3,
         "text": "brethren.",
@@ -453,7 +467,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "421:3",
+        "id": "421:3b",
         "page": 421,
         "line": 3,
         "text": "Now this was the case with all his chief ",
@@ -474,7 +488,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/421"
       },
       {
-        "id": "421:6",
+        "id": "421:6a",
         "page": 421,
         "line": 6,
         "text": "the success of the Lamanites over them.",
@@ -488,7 +502,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "421:6",
+        "id": "421:6b",
         "page": 421,
         "line": 6,
         "text": "And it came ",

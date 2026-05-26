@@ -19,7 +19,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/24"
       },
       {
-        "id": "24:33",
+        "id": "24:33a",
         "page": 24,
         "line": 33,
         "text": "also of the seeds of fruits of every kind.",
@@ -33,7 +33,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "24:33",
+        "id": "24:33b",
         "page": 24,
         "line": 33,
         "text": "And it came to pass ",
@@ -54,7 +54,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/24"
       },
       {
-        "id": "24:36",
+        "id": "24:36a",
         "page": 24,
         "line": 36,
         "text": "words, I have seen a vision.",
@@ -68,7 +68,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "24:36",
+        "id": "24:36b",
         "page": 24,
         "line": 36,
         "text": "And behold, because of the thing ",
@@ -138,7 +138,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/25"
       },
       {
-        "id": "25:2",
+        "id": "25:2a",
         "page": 25,
         "line": 2,
         "text": "a white robe; and he came and stood before me.",
@@ -152,7 +152,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "25:2",
+        "id": "25:2b",
         "page": 25,
         "line": 2,
         "text": "And it ",
@@ -187,7 +187,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/25"
       },
       {
-        "id": "25:6",
+        "id": "25:6a",
         "page": 25,
         "line": 6,
         "text": "waste.",
@@ -201,7 +201,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "25:6",
+        "id": "25:6b",
         "page": 25,
         "line": 6,
         "text": "And after that I had travelled for the space of many ",
@@ -243,7 +243,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/25"
       },
       {
-        "id": "25:11",
+        "id": "25:11a",
         "page": 25,
         "line": 11,
         "text": "I beheld a large and spacious field.",
@@ -257,7 +257,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "25:11",
+        "id": "25:11b",
         "page": 25,
         "line": 11,
         "text": "And it came to pass that I ",
@@ -306,7 +306,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/25"
       },
       {
-        "id": "25:17",
+        "id": "25:17a",
         "page": 25,
         "line": 17,
         "text": "seen.",
@@ -320,7 +320,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "25:17",
+        "id": "25:17b",
         "page": 25,
         "line": 17,
         "text": "And as I partook of the fruit thereof, it filled my soul ",
@@ -341,7 +341,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/25"
       },
       {
-        "id": "25:20",
+        "id": "25:20a",
         "page": 25,
         "line": 20,
         "text": "was desirous above all other fruit.",
@@ -355,7 +355,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "25:20",
+        "id": "25:20b",
         "page": 25,
         "line": 20,
         "text": "And as I cast my eyes ",
@@ -376,7 +376,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/25"
       },
       {
-        "id": "25:23",
+        "id": "25:23a",
         "page": 25,
         "line": 23,
         "text": "near the tree of which I was partaking the fruit.",
@@ -390,7 +390,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "25:23",
+        "id": "25:23b",
         "page": 25,
         "line": 23,
         "text": "And I look",
@@ -474,7 +474,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/25"
       },
       {
-        "id": "25:33",
+        "id": "25:33a",
         "page": 25,
         "line": 33,
         "text": "take of the fruit also.",
@@ -488,7 +488,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "25:33",
+        "id": "25:33b",
         "page": 25,
         "line": 33,
         "text": "And it came to pass that I was desi",
@@ -530,10 +530,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/25"
       },
       {
-        "id": "25:38",
+        "id": "25:38a",
         "page": 25,
         "line": 38,
-        "text": "come unto me.",
+        "text": "come unto me. And I beheld a rod of iron; and",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/25"
       }
     ]
@@ -544,10 +544,10 @@
     "verse": 19,
     "lines": [
       {
-        "id": "25:38",
+        "id": "25:38b",
         "page": 25,
         "line": 38,
-        "text": "And I beheld a rod of iron; and it extended ",
+        "text": "it extended ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/25"
       },
       {
@@ -558,7 +558,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/25"
       },
       {
-        "id": "25:40",
+        "id": "25:40a",
         "page": 25,
         "line": 40,
         "text": "stood.",
@@ -572,7 +572,7 @@
     "verse": 20,
     "lines": [
       {
-        "id": "25:40",
+        "id": "25:40b",
         "page": 25,
         "line": 40,
         "text": "And I also beheld a straight and narrow path, which ",
@@ -593,7 +593,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/25"
       },
       {
-        "id": "25:43",
+        "id": "25:43a",
         "page": 25,
         "line": 43,
         "text": "and spacious field, as if it had been a world;",
@@ -607,7 +607,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "25:43",
+        "id": "25:43b",
         "page": 25,
         "line": 43,
         "text": "and I saw num",
@@ -649,7 +649,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/26"
       },
       {
-        "id": "26:5",
+        "id": "26:5a",
         "page": 26,
         "line": 5,
         "text": "in the path which led to the tree.",
@@ -663,7 +663,7 @@
     "verse": 23,
     "lines": [
       {
-        "id": "26:5",
+        "id": "26:5b",
         "page": 26,
         "line": 5,
         "text": "And it came to pass that ",
@@ -733,7 +733,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/26"
       },
       {
-        "id": "26:14",
+        "id": "26:14a",
         "page": 26,
         "line": 14,
         "text": "partake of the fruit of the tree.",
@@ -747,7 +747,7 @@
     "verse": 25,
     "lines": [
       {
-        "id": "26:14",
+        "id": "26:14b",
         "page": 26,
         "line": 14,
         "text": "And after that they had par",
@@ -761,7 +761,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/26"
       },
       {
-        "id": "26:16",
+        "id": "26:16a",
         "page": 26,
         "line": 16,
         "text": "they were ashamed.",
@@ -775,7 +775,7 @@
     "verse": 26,
     "lines": [
       {
-        "id": "26:16",
+        "id": "26:16b",
         "page": 26,
         "line": 16,
         "text": "And I also cast my eyes round about, and ",
@@ -796,7 +796,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/26"
       },
       {
-        "id": "26:19",
+        "id": "26:19a",
         "page": 26,
         "line": 19,
         "text": "the earth;",
@@ -810,7 +810,7 @@
     "verse": 27,
     "lines": [
       {
-        "id": "26:19",
+        "id": "26:19b",
         "page": 26,
         "line": 19,
         "text": "and it was filled with people, both old and young, ",
@@ -838,7 +838,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/26"
       },
       {
-        "id": "26:23",
+        "id": "26:23a",
         "page": 26,
         "line": 23,
         "text": "king of the fruit.",
@@ -852,7 +852,7 @@
     "verse": 28,
     "lines": [
       {
-        "id": "26:23",
+        "id": "26:23b",
         "page": 26,
         "line": 23,
         "text": "And after that they had tasted of the fruit, ",
@@ -922,7 +922,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/26"
       },
       {
-        "id": "26:31",
+        "id": "26:31a",
         "page": 26,
         "line": 31,
         "text": "fell down, and partook of the fruit of the tree.",
@@ -936,7 +936,7 @@
     "verse": 31,
     "lines": [
       {
-        "id": "26:31",
+        "id": "26:31b",
         "page": 26,
         "line": 31,
         "text": "And he also ",
@@ -978,7 +978,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/26"
       },
       {
-        "id": "26:36",
+        "id": "26:36a",
         "page": 26,
         "line": 36,
         "text": "in strange roads.",
@@ -992,7 +992,7 @@
     "verse": 33,
     "lines": [
       {
-        "id": "26:36",
+        "id": "26:36b",
         "page": 26,
         "line": 36,
         "text": "And great was the multitude that did enter ",
@@ -1034,7 +1034,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/26"
       },
       {
-        "id": "26:41",
+        "id": "26:41a",
         "page": 26,
         "line": 41,
         "text": "had fallen away.",
@@ -1048,7 +1048,7 @@
     "verse": 35,
     "lines": [
       {
-        "id": "26:41",
+        "id": "26:41b",
         "page": 26,
         "line": 41,
         "text": "And Laman and Lemuel partook not of the ",
@@ -1058,14 +1058,7 @@
         "id": "26:42",
         "page": 26,
         "line": 42,
-        "text": "fruit, saith my father. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/26"
-      },
-      {
-        "id": "26:43",
-        "page": 26,
-        "line": 43,
-        "text": "And",
+        "text": "fruit, saith my father.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/26"
       }
     ]
@@ -1079,7 +1072,7 @@
         "id": "26:43",
         "page": 26,
         "line": 43,
-        "text": "it came to pass that after my father had spoken all the ",
+        "text": "And it came to pass that after my father had spoken all the ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/26"
       },
       {
@@ -1104,7 +1097,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/27"
       },
       {
-        "id": "27:4",
+        "id": "27:4a",
         "page": 27,
         "line": 4,
         "text": "should be cast off from the presence of the Lord;",
@@ -1118,7 +1111,7 @@
     "verse": 37,
     "lines": [
       {
-        "id": "27:4",
+        "id": "27:4b",
         "page": 27,
         "line": 4,
         "text": "and he did ",

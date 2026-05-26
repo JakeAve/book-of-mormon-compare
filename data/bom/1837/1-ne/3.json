@@ -47,7 +47,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/15"
       },
       {
-        "id": "15:33",
+        "id": "15:33a",
         "page": 15,
         "line": 33,
         "text": "return to Jerusalem.",
@@ -61,7 +61,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "15:33",
+        "id": "15:33b",
         "page": 15,
         "line": 33,
         "text": "For behold, Laban hath the re",
@@ -110,7 +110,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/15"
       },
       {
-        "id": "15:39",
+        "id": "15:39a",
         "page": 15,
         "line": 39,
         "text": "to the wilderness.",
@@ -124,7 +124,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "15:39",
+        "id": "15:39b",
         "page": 15,
         "line": 39,
         "text": "And now, behold, thy brothers ",
@@ -145,10 +145,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/15"
       },
       {
-        "id": "15:42",
+        "id": "15:42a",
         "page": 15,
         "line": 42,
-        "text": "them, but it is a commandment of the Lord. There",
+        "text": "them, but it is a commandment of the Lord.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/15"
       }
     ]
@@ -158,6 +158,13 @@
     "chapter": 3,
     "verse": 6,
     "lines": [
+      {
+        "id": "15:42b",
+        "page": 15,
+        "line": 42,
+        "text": "There",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/15"
+      },
       {
         "id": "15:43",
         "page": 15,
@@ -243,7 +250,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/16"
       },
       {
-        "id": "16:6",
+        "id": "16:6a",
         "page": 16,
         "line": 6,
         "text": "I had been blessed of the Lord.",
@@ -257,7 +264,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "16:6",
+        "id": "16:6b",
         "page": 16,
         "line": 6,
         "text": "And I, Nephi, and ",
@@ -299,7 +306,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/16"
       },
       {
-        "id": "16:11",
+        "id": "16:11a",
         "page": 16,
         "line": 11,
         "text": "one with another;",
@@ -313,7 +320,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "16:11",
+        "id": "16:11b",
         "page": 16,
         "line": 11,
         "text": "and we cast lots who of us should ",
@@ -341,7 +348,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/16"
       },
       {
-        "id": "16:15",
+        "id": "16:15a",
         "page": 16,
         "line": 15,
         "text": "sat in his house.",
@@ -355,7 +362,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "16:15",
+        "id": "16:15b",
         "page": 16,
         "line": 15,
         "text": "And he desired of Laban the re",
@@ -411,7 +418,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/16"
       },
       {
-        "id": "16:22",
+        "id": "16:22a",
         "page": 16,
         "line": 22,
         "text": "slay thee.",
@@ -425,7 +432,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "16:22",
+        "id": "16:22b",
         "page": 16,
         "line": 22,
         "text": "But Laman fled out of his presence, and ",
@@ -481,7 +488,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/16"
       },
       {
-        "id": "16:29",
+        "id": "16:29a",
         "page": 16,
         "line": 29,
         "text": "which the Lord hath commanded us.",
@@ -495,7 +502,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "16:29",
+        "id": "16:29b",
         "page": 16,
         "line": 29,
         "text": "Wherefore let ",
@@ -530,7 +537,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/16"
       },
       {
-        "id": "16:34",
+        "id": "16:34a",
         "page": 16,
         "line": 34,
         "text": "cause of the commandments of the Lord:",
@@ -544,7 +551,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "16:34",
+        "id": "16:34b",
         "page": 16,
         "line": 34,
         "text": "for he know ",
@@ -600,7 +607,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/16"
       },
       {
-        "id": "16:41",
+        "id": "16:41a",
         "page": 16,
         "line": 41,
         "text": "needs be that he flee out of the land.",
@@ -614,7 +621,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "16:41",
+        "id": "16:41b",
         "page": 16,
         "line": 41,
         "text": "And behold it ",
@@ -635,7 +642,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/16"
       },
       {
-        "id": "16:44",
+        "id": "16:44a",
         "page": 16,
         "line": 44,
         "text": "our fathers;",
@@ -649,7 +656,7 @@
     "verse": 20,
     "lines": [
       {
-        "id": "16:44",
+        "id": "16:44b",
         "page": 16,
         "line": 44,
         "text": "and also that we may preserve unto them ",
@@ -705,10 +712,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/17"
       },
       {
-        "id": "17:5",
+        "id": "17:5a",
         "page": 17,
         "line": 5,
-        "text": "faithful in keeping the commandments of God. And",
+        "text": "faithful in keeping the commandments of God.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/17"
       }
     ]
@@ -718,6 +725,13 @@
     "chapter": 3,
     "verse": 22,
     "lines": [
+      {
+        "id": "17:5b",
+        "page": 17,
+        "line": 5,
+        "text": "And ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/17"
+      },
       {
         "id": "17:6",
         "page": 17,
@@ -733,7 +747,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/17"
       },
       {
-        "id": "17:8",
+        "id": "17:8a",
         "page": 17,
         "line": 8,
         "text": "our silver, and our precious things.",
@@ -747,7 +761,7 @@
     "verse": 23,
     "lines": [
       {
-        "id": "17:8",
+        "id": "17:8b",
         "page": 17,
         "line": 8,
         "text": "And after we had ",
@@ -894,7 +908,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/17"
       },
       {
-        "id": "17:25",
+        "id": "17:25a",
         "page": 17,
         "line": 25,
         "text": "and we hid ourselves in the cavity of a rock.",
@@ -908,7 +922,7 @@
     "verse": 28,
     "lines": [
       {
-        "id": "17:25",
+        "id": "17:25b",
         "page": 17,
         "line": 25,
         "text": "And it ",
@@ -1013,7 +1027,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/17"
       },
       {
-        "id": "17:39",
+        "id": "17:39a",
         "page": 17,
         "line": 39,
         "text": "liver Laban into your hands.",
@@ -1027,14 +1041,14 @@
     "verse": 30,
     "lines": [
       {
-        "id": "17:39",
+        "id": "17:39b",
         "page": 17,
         "line": 39,
         "text": "And after the angel had ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/17"
       },
       {
-        "id": "17:40",
+        "id": "17:40a",
         "page": 17,
         "line": 40,
         "text": "spoken unto us, he departed.",
@@ -1048,7 +1062,7 @@
     "verse": 31,
     "lines": [
       {
-        "id": "17:40",
+        "id": "17:40b",
         "page": 17,
         "line": 40,
         "text": "And after the angel ",

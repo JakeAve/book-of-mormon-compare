@@ -5,7 +5,7 @@
     "verse": 1,
     "lines": [
       {
-        "id": "49:1",
+        "id": "49:1c",
         "page": 49,
         "line": 1,
         "text": "yea for thus saith the ",
@@ -21,11 +21,11 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/49"
       },
       {
-        "id": "49:3",
+        "id": "49:3a",
         "page": 49,
         "line": 3,
-        "text": "Lord where is the bill of your Mothers divorsement to whom have I put theeaway or to which of my creditors have I sold you yea to whom have I sold youbehold for your iniquities have ye sold yourselves & for your transgressions<​is​> your Mother put away wherefore",
-        "markdown": "{{Lord where is the bill of your Mothers divors}}ement to {{whom have}} I p{{u}}t th{{eeaway or to which o}}f {{my creditors ha}}ve I sold you yea to wh{{om have I sold youbehold fo}}r your iniqui{{ti}}es have ye sold yourselves & for {{your transgressions<​is​> your}} Mother put away wherefore",
+        "text": "Lord where is the bill of your Mothers divorsement to whom have I put theeaway or to which of my creditors have I sold you yea to whom have I sold youbehold for your iniquities have ye sold yourselves & for your transgressions<​is​> your Mother put away",
+        "markdown": "{{Lord where is the bill of your Mothers divors}}ement to {{whom have}} I p{{u}}t th{{eeaway or to which o}}f {{my creditors ha}}ve I sold you yea to wh{{om have I sold youbehold fo}}r your iniqui{{ti}}es have ye sold yourselves & for {{your transgressions<​is​> your}} Mother put away",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/49"
       }
     ]
@@ -36,11 +36,11 @@
     "verse": 2,
     "lines": [
       {
-        "id": "49:3",
+        "id": "49:3b",
         "page": 49,
         "line": 3,
-        "text": "when I came there was no man when I calledyea there was none to answer O house of Israel is my hand shortened at all ",
-        "markdown": "when I came there was no {{man when I calledy}}ea there was none to answer O house of Israel is my ha{{nd shortened at all}} ",
+        "text": "wherefore when I came there was no man when I calledyea there was none to answer O house of Israel is my hand shortened at all ",
+        "markdown": "wherefore when I came there was no {{man when I calledy}}ea there was none to answer O house of Israel is my ha{{nd shortened at all}} ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/49"
       },
       {
@@ -52,7 +52,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/49"
       },
       {
-        "id": "49:5",
+        "id": "49:5a",
         "page": 49,
         "line": 5,
         "text": "dry up the Sea I make the rivers a wilderness & their fish to stink becausethe waters are dried up & they dieth because of thurst",
@@ -67,7 +67,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "49:5",
+        "id": "49:5b",
         "page": 49,
         "line": 5,
         "text": "I cloath the heavens with ",
@@ -75,7 +75,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/49"
       },
       {
-        "id": "49:6",
+        "id": "49:6a",
         "page": 49,
         "line": 6,
         "text": "blackness & I make sackcloth their covering",
@@ -89,7 +89,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "49:6",
+        "id": "49:6b",
         "page": 49,
         "line": 6,
         "text": "the Lord God hath given me the ",
@@ -105,7 +105,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/49"
       },
       {
-        "id": "49:8",
+        "id": "49:8a",
         "page": 49,
         "line": 8,
         "text": "wakeneth mine ear to hear as the learned",
@@ -119,7 +119,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "49:8",
+        "id": "49:8b",
         "page": 49,
         "line": 8,
         "text": "the Lord God hath opened mine ear & I was ",
@@ -127,7 +127,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/49"
       },
       {
-        "id": "49:9",
+        "id": "49:9a",
         "page": 49,
         "line": 9,
         "text": "not rebellious neither turned away back",
@@ -141,7 +141,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "49:9",
+        "id": "49:9b",
         "page": 49,
         "line": 9,
         "text": "I gave my back to the smiters & my cheeksto them that plucked off the hair I hid not my face from shame & spitting",
@@ -156,7 +156,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "49:9",
+        "id": "49:9c",
         "page": 49,
         "line": 9,
         "text": "for theLord God will help me therefore shall I not be confounded therefore have I set myface like a flint & I know that I shall not be ashamed",
@@ -171,7 +171,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "49:9",
+        "id": "49:9d",
         "page": 49,
         "line": 9,
         "text": "& the Lord is near & hejustifieth me who will contend with me let us stand together who ismine adversary let him come near me & I will smite him with the strengthof my mouth",
@@ -186,41 +186,11 @@
     "verse": 9,
     "lines": [
       {
-        "id": "49:9",
+        "id": "49:9e",
         "page": 49,
         "line": 9,
-        "text": "for the Lord God will help me",
-        "markdown": "mo{{u}}th f{{or the Lord God will help",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/49"
-      }
-    ]
-  },
-  {
-    "book": "2-ne",
-    "chapter": 7,
-    "verse": 10,
-    "lines": [
-      {
-        "id": "49:9",
-        "page": 49,
-        "line": 9,
-        "text": "&",
-        "markdown": "me",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/49"
-      }
-    ]
-  },
-  {
-    "book": "2-ne",
-    "chapter": 7,
-    "verse": 11,
-    "lines": [
-      {
-        "id": "49:9",
-        "page": 49,
-        "line": 9,
-        "text": "all they which shall condemn",
-        "markdown": "& all they which shall condemn}}",
+        "text": "for the Lord God will help me & all they",
+        "markdown": "mo{{u}}th f{{or the Lord God will help me & all",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/49"
       }
     ]

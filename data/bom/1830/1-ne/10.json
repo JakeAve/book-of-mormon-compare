@@ -5,6 +5,13 @@
     "verse": 1,
     "lines": [
       {
+        "id": "27:35",
+        "page": 27,
+        "line": 35,
+        "text": "CHAPTER III. ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/27"
+      },
+      {
         "id": "27:36",
         "page": 27,
         "line": 36,
@@ -29,15 +36,8 @@
         "id": "27:39",
         "page": 27,
         "line": 39,
-        "text": "of the things of my father, and also of my brethren. ",
+        "text": "of the things of my father, and also of my brethren.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/27"
-      },
-      {
-        "id": "28:1",
-        "page": 28,
-        "line": 1,
-        "text": "For behold, it came to pass that after my father had made",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/28"
       }
     ]
   },
@@ -46,6 +46,13 @@
     "chapter": 10,
     "verse": 2,
     "lines": [
+      {
+        "id": "28:1",
+        "page": 28,
+        "line": 1,
+        "text": "For behold, it came to pass that after my father had made ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/28"
+      },
       {
         "id": "28:2",
         "page": 28,
@@ -61,7 +68,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/28"
       },
       {
-        "id": "28:4",
+        "id": "28:4a",
         "page": 28,
         "line": 4,
         "text": "Jews:",
@@ -75,7 +82,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "28:4",
+        "id": "28:4b",
         "page": 28,
         "line": 4,
         "text": "How that after they were destroyed, yea, even that ",
@@ -145,7 +152,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/28"
       },
       {
-        "id": "28:13",
+        "id": "28:13a",
         "page": 28,
         "line": 13,
         "text": "of the world.",
@@ -159,7 +166,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "28:13",
+        "id": "28:13b",
         "page": 28,
         "line": 13,
         "text": "And he also spake concerning the prophets: ",
@@ -180,7 +187,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/28"
       },
       {
-        "id": "28:16",
+        "id": "28:16a",
         "page": 28,
         "line": 16,
         "text": "world.",
@@ -194,7 +201,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "28:16",
+        "id": "28:16b",
         "page": 28,
         "line": 16,
         "text": "Wherefore, all mankind was in a lost and in a fallen ",
@@ -229,7 +236,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/28"
       },
       {
-        "id": "28:20",
+        "id": "28:20a",
         "page": 28,
         "line": 20,
         "text": "before the Messiah, to prepare the way of the Lord;",
@@ -243,7 +250,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "28:20",
+        "id": "28:20b",
         "page": 28,
         "line": 20,
         "text": "yea, even ",
@@ -313,7 +320,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/28"
       },
       {
-        "id": "28:29",
+        "id": "28:29a",
         "page": 28,
         "line": 29,
         "text": "ter.",
@@ -327,7 +334,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "28:29",
+        "id": "28:29b",
         "page": 28,
         "line": 29,
         "text": "And after that he had baptised the Messiah with water, ",
@@ -344,14 +351,7 @@
         "id": "28:31",
         "page": 28,
         "line": 31,
-        "text": "Lamb of God, which should take away the sins of the world. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/28"
-      },
-      {
-        "id": "28:32",
-        "page": 28,
-        "line": 32,
-        "text": "And",
+        "text": "Lamb of God, which should take away the sins of the world.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/28"
       }
     ]
@@ -365,7 +365,7 @@
         "id": "28:32",
         "page": 28,
         "line": 32,
-        "text": "it came to pass that after my father had spoken these ",
+        "text": "And it came to pass that after my father had spoken these ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/28"
       },
       {
@@ -446,7 +446,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/28"
       },
       {
-        "id": "28:43",
+        "id": "28:43a",
         "page": 28,
         "line": 43,
         "text": "earth.",
@@ -460,7 +460,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "28:43",
+        "id": "28:43b",
         "page": 28,
         "line": 43,
         "text": "Wherefore, he said, it must needs be that we should ",
@@ -481,7 +481,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/29"
       },
       {
-        "id": "29:3",
+        "id": "29:3a",
         "page": 29,
         "line": 3,
         "text": "on all the face of the earth.",
@@ -495,7 +495,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "29:3",
+        "id": "29:3b",
         "page": 29,
         "line": 3,
         "text": "And after that the House of ",
@@ -537,7 +537,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/29"
       },
       {
-        "id": "29:9",
+        "id": "29:9a",
         "page": 29,
         "line": 9,
         "text": "their Redeemer.",
@@ -551,7 +551,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "29:9",
+        "id": "29:9b",
         "page": 29,
         "line": 9,
         "text": "And after this manner of language did my ",
@@ -579,7 +579,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/29"
       },
       {
-        "id": "29:13",
+        "id": "29:13a",
         "page": 29,
         "line": 13,
         "text": "other book.",
@@ -593,7 +593,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "29:13",
+        "id": "29:13b",
         "page": 29,
         "line": 13,
         "text": "And all these things of which I have spoken, ",
@@ -610,14 +610,7 @@
         "id": "29:15",
         "page": 29,
         "line": 15,
-        "text": "uel. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/29"
-      },
-      {
-        "id": "29:16",
-        "page": 29,
-        "line": 16,
-        "text": "And",
+        "text": "uel.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/29"
       }
     ]
@@ -631,7 +624,7 @@
         "id": "29:16",
         "page": 29,
         "line": 16,
-        "text": "it came to pass that after I, Nephi, having heard all ",
+        "text": "And it came to pass that after I, Nephi, having heard all ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/29"
       },
       {
@@ -698,7 +691,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/29"
       },
       {
-        "id": "29:26",
+        "id": "29:26a",
         "page": 29,
         "line": 26,
         "text": "that he should manifest himself unto the children of men;",
@@ -712,7 +705,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "29:26",
+        "id": "29:26b",
         "page": 29,
         "line": 26,
         "text": "for ",
@@ -733,7 +726,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/29"
       },
       {
-        "id": "29:29",
+        "id": "29:29a",
         "page": 29,
         "line": 29,
         "text": "they repent and come unto him;",
@@ -747,7 +740,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "29:29",
+        "id": "29:29b",
         "page": 29,
         "line": 29,
         "text": "for he that diligently seeketh, ",
@@ -796,7 +789,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/29"
       },
       {
-        "id": "29:35",
+        "id": "29:35a",
         "page": 29,
         "line": 35,
         "text": "be brought into judgment.",
@@ -810,7 +803,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "29:35",
+        "id": "29:35b",
         "page": 29,
         "line": 35,
         "text": "Wherefore, if ye have sought to do ",

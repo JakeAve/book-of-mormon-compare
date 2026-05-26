@@ -5,7 +5,7 @@
     "verse": 1,
     "lines": [
       {
-        "id": "149:4",
+        "id": "149:4b",
         "page": 149,
         "line": 4,
         "text": "now we will return in our rec",
@@ -53,7 +53,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/149"
       },
       {
-        "id": "149:10",
+        "id": "149:10a",
         "page": 149,
         "line": 10,
         "text": "battle against the Nephites",
@@ -68,7 +68,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "149:10",
+        "id": "149:10b",
         "page": 149,
         "line": 10,
         "text": "& it came to pass that when the proclamation had gone for",
@@ -100,7 +100,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/149"
       },
       {
-        "id": "149:14",
+        "id": "149:14a",
         "page": 149,
         "line": 14,
         "text": "ot obey the commandment of the King",
@@ -114,7 +114,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "149:14",
+        "id": "149:14b",
         "page": 149,
         "line": 14,
         "text": "& now it came to pass that the King was wroth ",
@@ -138,7 +138,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/149"
       },
       {
-        "id": "149:17",
+        "id": "149:17a",
         "page": 149,
         "line": 17,
         "text": "that he should go forth & compel them to arms",
@@ -152,7 +152,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "149:17",
+        "id": "149:17b",
         "page": 149,
         "line": 17,
         "text": "now behold this was the desires of ",
@@ -167,7 +167,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/149"
       },
       {
-        "id": "149:19",
+        "id": "149:19a",
         "page": 149,
         "line": 19,
         "text": "plan in his heart to dethroan the King of the Lamanites",
@@ -181,7 +181,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "149:19",
+        "id": "149:19b",
         "page": 149,
         "line": 19,
         "text": "& now he had gat ",
@@ -219,7 +219,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/149"
       },
       {
-        "id": "149:24",
+        "id": "149:24a",
         "page": 149,
         "line": 24,
         "text": "y them therefore they feld to Oneidah to the place of arms",
@@ -233,7 +233,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "149:24",
+        "id": "149:24b",
         "page": 149,
         "line": 24,
         "text": "& they had appoint",
@@ -255,11 +255,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/149"
       },
       {
-        "id": "149:27",
+        "id": "149:27a",
         "page": 149,
         "line": 27,
-        "text": "st the Nephites & it came to pass that thay had gathered themselves to gether up",
-        "markdown": "st the Nephites & it came to pass that thay had gathered themselves to ~~gather~~ [gether] up",
+        "text": "st the Nephites",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/149"
       }
     ]
@@ -269,6 +268,14 @@
     "chapter": 47,
     "verse": 7,
     "lines": [
+      {
+        "id": "149:27b",
+        "page": 149,
+        "line": 27,
+        "text": "& it came to pass that thay had gathered themselves to gether up",
+        "markdown": "& it came to pass that thay had gathered themselves to ~~gather~~ [gether] up",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/149"
+      },
       {
         "id": "149:28",
         "page": 149,
@@ -307,7 +314,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/149"
       },
       {
-        "id": "149:32",
+        "id": "149:32a",
         "page": 149,
         "line": 32,
         "text": "head & dethron the King & take possession of the Kingdom",
@@ -321,7 +328,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "149:32",
+        "id": "149:32b",
         "page": 149,
         "line": 32,
         "text": "& behold it came ",
@@ -335,7 +342,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/149"
       },
       {
-        "id": "149:34",
+        "id": "149:34a",
         "page": 149,
         "line": 34,
         "text": "was near the Mount Antipus",
@@ -350,7 +357,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "149:34",
+        "id": "149:34b",
         "page": 149,
         "line": 34,
         "text": "& it came to pass that when it was ",
@@ -381,7 +388,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/150"
       },
       {
-        "id": "150:3",
+        "id": "150:3a",
         "page": 150,
         "line": 3,
         "text": "with him",
@@ -396,7 +403,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "150:3",
+        "id": "150:3b",
         "page": 150,
         "line": 3,
         "text": "& it came to pass that when Lehonti received the Message he dearst not ",
@@ -420,7 +427,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/150"
       },
       {
-        "id": "150:6",
+        "id": "150:6a",
         "page": 150,
         "line": 6,
         "text": "honti would not & he sent again the third time",
@@ -435,7 +442,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "150:6",
+        "id": "150:6b",
         "page": 150,
         "line": 6,
         "text": "& it came to pass that when ",
@@ -466,7 +473,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/150"
       },
       {
-        "id": "150:10",
+        "id": "150:10a",
         "page": 150,
         "line": 10,
         "text": "down & that he would bring his guards with him",
@@ -481,7 +488,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "150:10",
+        "id": "150:10b",
         "page": 150,
         "line": 10,
         "text": "& it came to pass that ",
@@ -520,7 +527,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/150"
       },
       {
-        "id": "150:15",
+        "id": "150:15a",
         "page": 150,
         "line": 15,
         "text": "second leader over the whole army",
@@ -535,7 +542,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "150:15",
+        "id": "150:15b",
         "page": 150,
         "line": 15,
         "text": "& it came to pass that Lehonti came ",
@@ -543,7 +550,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/150"
       },
       {
-        "id": "150:16",
+        "id": "150:16a",
         "page": 150,
         "line": 16,
         "text": "down with his men & surrounded the men of Amelickiah so that before they awoke at the dawn of the day they were surrounded by the armies of Lehonti",
@@ -558,7 +565,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "150:16",
+        "id": "150:16b",
         "page": 150,
         "line": 16,
         "text": "& ",
@@ -587,7 +594,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/150"
       },
       {
-        "id": "150:20",
+        "id": "150:20a",
         "page": 150,
         "line": 20,
         "text": "lickiah desired",
@@ -601,7 +608,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "150:20",
+        "id": "150:20b",
         "page": 150,
         "line": 20,
         "text": "& it came to pass that he delivered his men conterary to the co",
@@ -615,7 +622,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/150"
       },
       {
-        "id": "150:22",
+        "id": "150:22a",
         "page": 150,
         "line": 22,
         "text": "ight accomplish his designs in dethroning the King",
@@ -629,7 +636,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "150:22",
+        "id": "150:22b",
         "page": 150,
         "line": 22,
         "text": "now it was the custom ",
@@ -645,7 +652,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/150"
       },
       {
-        "id": "150:24",
+        "id": "150:24a",
         "page": 150,
         "line": 24,
         "text": "ader to be their Chief leader",
@@ -659,17 +666,17 @@
     "verse": 18,
     "lines": [
       {
-        "id": "150:24",
+        "id": "150:24b",
         "page": 150,
         "line": 24,
         "text": "& it came to pass that Ameleckiah caused that one ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/150"
       },
       {
-        "id": "150:25",
+        "id": "150:25a",
         "page": 150,
         "line": 25,
-        "text": "of his Servants should administer poison by degreas to Lehonti that he died n",
+        "text": "of his Servants should administer poison by degreas to Lehonti that he died",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/150"
       }
     ]
@@ -680,6 +687,13 @@
     "verse": 19,
     "lines": [
       {
+        "id": "150:25b",
+        "page": 150,
+        "line": 25,
+        "text": "n",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/150"
+      },
+      {
         "id": "150:26",
         "page": 150,
         "line": 26,
@@ -687,7 +701,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/150"
       },
       {
-        "id": "150:27",
+        "id": "150:27a",
         "page": 150,
         "line": 27,
         "text": "ader & their Chief commander",
@@ -701,7 +715,7 @@
     "verse": 20,
     "lines": [
       {
-        "id": "150:27",
+        "id": "150:27b",
         "page": 150,
         "line": 27,
         "text": "& it came to pass that Amelickiah march",
@@ -716,7 +730,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/150"
       },
       {
-        "id": "150:29",
+        "id": "150:29a",
         "page": 150,
         "line": 29,
         "text": "ty of Nephi which was the chief city",
@@ -730,7 +744,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "150:29",
+        "id": "150:29b",
         "page": 150,
         "line": 29,
         "text": "& the King came out to meet him with his ",
@@ -752,7 +766,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/150"
       },
       {
-        "id": "150:32",
+        "id": "150:32a",
         "page": 150,
         "line": 32,
         "text": "to Battle",
@@ -766,7 +780,7 @@
     "verse": 22,
     "lines": [
       {
-        "id": "150:32",
+        "id": "150:32b",
         "page": 150,
         "line": 32,
         "text": "but behold as the King came out to meet him Amelickiah ",
@@ -819,7 +833,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/151"
       },
       {
-        "id": "151:3",
+        "id": "151:3a",
         "page": 151,
         "line": 3,
         "text": "the Nephites",
@@ -833,7 +847,7 @@
     "verse": 24,
     "lines": [
       {
-        "id": "151:3",
+        "id": "151:3b",
         "page": 151,
         "line": 3,
         "text": "& it came to pass that when he had raised the first from the ground ",
@@ -841,7 +855,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/151"
       },
       {
-        "id": "151:4",
+        "id": "151:4a",
         "page": 151,
         "line": 4,
         "text": "behold he stabed the King to the heart & he fell to the earth",
@@ -856,7 +870,7 @@
     "verse": 25,
     "lines": [
       {
-        "id": "151:4",
+        "id": "151:4b",
         "page": 151,
         "line": 4,
         "text": "now the servants of ",
@@ -864,7 +878,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/151"
       },
       {
-        "id": "151:5",
+        "id": "151:5a",
         "page": 151,
         "line": 5,
         "text": "the King fled & the servants of Ameleckiah raised a cry saying",
@@ -879,7 +893,7 @@
     "verse": 26,
     "lines": [
       {
-        "id": "151:5",
+        "id": "151:5b",
         "page": 151,
         "line": 5,
         "text": "behold the ",
@@ -895,7 +909,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/151"
       },
       {
-        "id": "151:7",
+        "id": "151:7a",
         "page": 151,
         "line": 7,
         "text": "behold come & see",
@@ -909,7 +923,7 @@
     "verse": 27,
     "lines": [
       {
-        "id": "151:7",
+        "id": "151:7b",
         "page": 151,
         "line": 7,
         "text": "& it came to pass that Ameleckiah commanded that his ",
@@ -941,7 +955,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/151"
       },
       {
-        "id": "151:11",
+        "id": "151:11a",
         "page": 151,
         "line": 11,
         "text": "sue his servants that they may be slain",
@@ -955,7 +969,7 @@
     "verse": 28,
     "lines": [
       {
-        "id": "151:11",
+        "id": "151:11b",
         "page": 151,
         "line": 11,
         "text": "& it came to pass that when all they ",
@@ -971,7 +985,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/151"
       },
       {
-        "id": "151:13",
+        "id": "151:13a",
         "page": 151,
         "line": 13,
         "text": "ants of the King",
@@ -985,7 +999,7 @@
     "verse": 29,
     "lines": [
       {
-        "id": "151:13",
+        "id": "151:13b",
         "page": 151,
         "line": 13,
         "text": "now when the servants of the King saw an army persueing after th",
@@ -1001,7 +1015,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/151"
       },
       {
-        "id": "151:15",
+        "id": "151:15a",
         "page": 151,
         "line": 15,
         "text": "of Zarahemla & joined the People of Ammon",
@@ -1016,7 +1030,7 @@
     "verse": 30,
     "lines": [
       {
-        "id": "151:15",
+        "id": "151:15b",
         "page": 151,
         "line": 15,
         "text": "& the army which persued after them ",
@@ -1032,7 +1046,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/151"
       },
       {
-        "id": "151:17",
+        "id": "151:17a",
         "page": 151,
         "line": 17,
         "text": "the hearts of the People",
@@ -1046,7 +1060,7 @@
     "verse": 31,
     "lines": [
       {
-        "id": "151:17",
+        "id": "151:17b",
         "page": 151,
         "line": 17,
         "text": "& it came to pass on the morrow he entered the City Nephi w",
@@ -1054,7 +1068,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/151"
       },
       {
-        "id": "151:18",
+        "id": "151:18a",
         "page": 151,
         "line": 18,
         "text": "ith his armies & took possession of the City",
@@ -1068,7 +1082,7 @@
     "verse": 32,
     "lines": [
       {
-        "id": "151:18",
+        "id": "151:18b",
         "page": 151,
         "line": 18,
         "text": "& now it came to pass that the Qu",
@@ -1099,7 +1113,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/151"
       },
       {
-        "id": "151:22",
+        "id": "151:22a",
         "page": 151,
         "line": 22,
         "text": "made their escape",
@@ -1113,7 +1127,7 @@
     "verse": 33,
     "lines": [
       {
-        "id": "151:22",
+        "id": "151:22b",
         "page": 151,
         "line": 22,
         "text": "therefore when the Queen had received this message she sent ",
@@ -1177,7 +1191,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/151"
       },
       {
-        "id": "151:30",
+        "id": "151:30a",
         "page": 151,
         "line": 30,
         "text": "& thus they satisfied the Queen concerning the death of the King",
@@ -1191,7 +1205,7 @@
     "verse": 35,
     "lines": [
       {
-        "id": "151:30",
+        "id": "151:30b",
         "page": 151,
         "line": 30,
         "text": "& it came to pass that ",
@@ -1227,7 +1241,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/151"
       },
       {
-        "id": "151:35",
+        "id": "151:35a",
         "page": 151,
         "line": 35,
         "text": "nters of the Nephites from the Reign of Nephi down to the presant time",
@@ -1241,7 +1255,7 @@
     "verse": 36,
     "lines": [
       {
-        "id": "151:35",
+        "id": "151:35b",
         "page": 151,
         "line": 35,
         "text": "now these ",

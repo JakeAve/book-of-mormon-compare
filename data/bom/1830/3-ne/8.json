@@ -5,6 +5,13 @@
     "verse": 1,
     "lines": [
       {
+        "id": "476:17",
+        "page": 476,
+        "line": 17,
+        "text": "CHAPTER IV. ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/476"
+      },
+      {
         "id": "476:18",
         "page": 476,
         "line": 18,
@@ -40,7 +47,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/476"
       },
       {
-        "id": "476:23",
+        "id": "476:23a",
         "page": 476,
         "line": 23,
         "text": "ry whit from his iniquity.",
@@ -54,7 +61,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "476:23",
+        "id": "476:23b",
         "page": 476,
         "line": 23,
         "text": "And now it came to pass, if there ",
@@ -68,10 +75,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/476"
       },
       {
-        "id": "476:25",
+        "id": "476:25a",
         "page": 476,
         "line": 25,
-        "text": "time, the thirty and third year had passed away, and",
+        "text": "time, the thirty and third year had passed away,",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/476"
       }
     ]
@@ -82,10 +89,10 @@
     "verse": 3,
     "lines": [
       {
-        "id": "476:25",
+        "id": "476:25b",
         "page": 476,
         "line": 25,
-        "text": "the peo",
+        "text": "and the peo",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/476"
       },
       {
@@ -110,7 +117,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/476"
       },
       {
-        "id": "476:29",
+        "id": "476:29a",
         "page": 476,
         "line": 29,
         "text": "over the face of the land.",
@@ -124,7 +131,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "476:29",
+        "id": "476:29b",
         "page": 476,
         "line": 29,
         "text": "And there began to be great doubt",
@@ -194,7 +201,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/476"
       },
       {
-        "id": "476:37",
+        "id": "476:37a",
         "page": 476,
         "line": 37,
         "text": "earth as if it was about to divide asunder;",
@@ -208,7 +215,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "476:37",
+        "id": "476:37b",
         "page": 476,
         "line": 37,
         "text": "and there was ex ",
@@ -222,7 +229,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/476"
       },
       {
-        "id": "476:39",
+        "id": "476:39a",
         "page": 476,
         "line": 39,
         "text": "the land.",
@@ -236,7 +243,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "476:39",
+        "id": "476:39b",
         "page": 476,
         "line": 39,
         "text": "And the city of Zarahemla did take fire;",
@@ -250,7 +257,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "476:39",
+        "id": "476:39c",
         "page": 476,
         "line": 39,
         "text": "and the ",
@@ -264,7 +271,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/477"
       },
       {
-        "id": "477:2",
+        "id": "477:2a",
         "page": 477,
         "line": 2,
         "text": "habitants thereof were drowned;",
@@ -278,7 +285,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "477:2",
+        "id": "477:2b",
         "page": 477,
         "line": 2,
         "text": "and the earth was carried up ",
@@ -292,7 +299,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/477"
       },
       {
-        "id": "477:4",
+        "id": "477:4a",
         "page": 477,
         "line": 4,
         "text": "of, there became a great mountain;",
@@ -306,14 +313,14 @@
     "verse": 11,
     "lines": [
       {
-        "id": "477:4",
+        "id": "477:4b",
         "page": 477,
         "line": 4,
         "text": "and there was a great and ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/477"
       },
       {
-        "id": "477:5",
+        "id": "477:5a",
         "page": 477,
         "line": 5,
         "text": "terrible destruction in the land southward.",
@@ -327,7 +334,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "477:5",
+        "id": "477:5b",
         "page": 477,
         "line": 5,
         "text": "But behold, there ",
@@ -362,7 +369,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/477"
       },
       {
-        "id": "477:10",
+        "id": "477:10a",
         "page": 477,
         "line": 10,
         "text": "the whole earth;",
@@ -376,7 +383,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "477:10",
+        "id": "477:10b",
         "page": 477,
         "line": 10,
         "text": "and the highways were broken up, and the ",
@@ -390,7 +397,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/477"
       },
       {
-        "id": "477:12",
+        "id": "477:12a",
         "page": 477,
         "line": 12,
         "text": "rough,",
@@ -404,7 +411,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "477:12",
+        "id": "477:12b",
         "page": 477,
         "line": 12,
         "text": "and many great and notable cities were sunk, and many ",
@@ -425,7 +432,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/477"
       },
       {
-        "id": "477:15",
+        "id": "477:15a",
         "page": 477,
         "line": 15,
         "text": "and the places were left desolate;",
@@ -439,7 +446,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "477:15",
+        "id": "477:15b",
         "page": 477,
         "line": 15,
         "text": "and there were some cities ",
@@ -453,7 +460,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/477"
       },
       {
-        "id": "477:17",
+        "id": "477:17a",
         "page": 477,
         "line": 17,
         "text": "and there were many in them which were slain;",
@@ -467,7 +474,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "477:17",
+        "id": "477:17b",
         "page": 477,
         "line": 17,
         "text": "and there ",
@@ -488,7 +495,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/477"
       },
       {
-        "id": "477:20",
+        "id": "477:20a",
         "page": 477,
         "line": 20,
         "text": "were carried away;",
@@ -502,7 +509,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "477:20",
+        "id": "477:20b",
         "page": 477,
         "line": 20,
         "text": "and thus the face of the whole earth be",
@@ -516,7 +523,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/477"
       },
       {
-        "id": "477:22",
+        "id": "477:22a",
         "page": 477,
         "line": 22,
         "text": "and the lightnings, and the quaking of the earth.",
@@ -530,7 +537,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "477:22",
+        "id": "477:22b",
         "page": 477,
         "line": 22,
         "text": "And behold, ",
@@ -642,7 +649,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/477"
       },
       {
-        "id": "477:36",
+        "id": "477:36a",
         "page": 477,
         "line": 36,
         "text": "had not fallen, could feel the vapour of darkness;",
@@ -656,7 +663,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "477:36",
+        "id": "477:36b",
         "page": 477,
         "line": 36,
         "text": "and there ",
@@ -684,7 +691,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/477"
       },
       {
-        "id": "477:40",
+        "id": "477:40a",
         "page": 477,
         "line": 40,
         "text": "light at all;",
@@ -698,7 +705,7 @@
     "verse": 22,
     "lines": [
       {
-        "id": "477:40",
+        "id": "477:40b",
         "page": 477,
         "line": 40,
         "text": "and there was not any light seen, neither fire, nor ",
@@ -768,7 +775,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/478"
       },
       {
-        "id": "478:6",
+        "id": "478:6a",
         "page": 478,
         "line": 6,
         "text": "them.",
@@ -782,7 +789,7 @@
     "verse": 24,
     "lines": [
       {
-        "id": "478:6",
+        "id": "478:6b",
         "page": 478,
         "line": 6,
         "text": "And in one place they were heard to cry, saying: O ",
@@ -803,7 +810,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/478"
       },
       {
-        "id": "478:9",
+        "id": "478:9a",
         "page": 478,
         "line": 9,
         "text": "not have been burned in that great city Zarahemla.",
@@ -817,7 +824,7 @@
     "verse": 25,
     "lines": [
       {
-        "id": "478:9",
+        "id": "478:9b",
         "page": 478,
         "line": 9,
         "text": "And in an",

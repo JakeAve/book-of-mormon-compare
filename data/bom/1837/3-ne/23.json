@@ -5,7 +5,7 @@
     "verse": 1,
     "lines": [
       {
-        "id": "534:7",
+        "id": "534:7b",
         "page": 534,
         "line": 7,
         "text": "And now behold I say ",
@@ -33,7 +33,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/534"
       },
       {
-        "id": "534:11",
+        "id": "534:11a",
         "page": 534,
         "line": 11,
         "text": "Isaiah.",
@@ -47,7 +47,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "534:11",
+        "id": "534:11b",
         "page": 534,
         "line": 11,
         "text": "For surely he spake as touching all things ",
@@ -68,7 +68,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/534"
       },
       {
-        "id": "534:14",
+        "id": "534:14a",
         "page": 534,
         "line": 14,
         "text": "speak also to the Gentiles.",
@@ -82,7 +82,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "534:14",
+        "id": "534:14b",
         "page": 534,
         "line": 14,
         "text": "And all things that he ",
@@ -96,7 +96,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/534"
       },
       {
-        "id": "534:16",
+        "id": "534:16a",
         "page": 534,
         "line": 16,
         "text": "the words which he spake.",
@@ -110,7 +110,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "534:16",
+        "id": "534:16b",
         "page": 534,
         "line": 16,
         "text": "Therefore give heed to ",
@@ -131,7 +131,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/534"
       },
       {
-        "id": "534:19",
+        "id": "534:19a",
         "page": 534,
         "line": 19,
         "text": "ther, they shall go forth unto the Gentiles.",
@@ -145,7 +145,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "534:19",
+        "id": "534:19b",
         "page": 534,
         "line": 19,
         "text": "And ",
@@ -176,14 +176,7 @@
         "id": "534:23",
         "page": 534,
         "line": 23,
-        "text": "things. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/534"
-      },
-      {
-        "id": "534:24",
-        "page": 534,
-        "line": 24,
-        "text": "And now it came to pass that when Jesus had said",
+        "text": "things.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/534"
       }
     ]
@@ -193,6 +186,13 @@
     "chapter": 23,
     "verse": 6,
     "lines": [
+      {
+        "id": "534:24",
+        "page": 534,
+        "line": 24,
+        "text": "And now it came to pass that when Jesus had said ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/534"
+      },
       {
         "id": "534:25",
         "page": 534,
@@ -215,7 +215,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/534"
       },
       {
-        "id": "534:28",
+        "id": "534:28a",
         "page": 534,
         "line": 28,
         "text": "would that ye should write, that ye have not.",
@@ -229,7 +229,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "534:28",
+        "id": "534:28b",
         "page": 534,
         "line": 28,
         "text": "And it ",
@@ -243,7 +243,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/534"
       },
       {
-        "id": "534:30",
+        "id": "534:30a",
         "page": 534,
         "line": 30,
         "text": "record which ye have kept.",
@@ -257,7 +257,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "534:30",
+        "id": "534:30b",
         "page": 534,
         "line": 30,
         "text": "And when Nephi had ",
@@ -271,7 +271,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/534"
       },
       {
-        "id": "534:32",
+        "id": "534:32a",
         "page": 534,
         "line": 32,
         "text": "he cast his eyes upon them, and said",
@@ -285,7 +285,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "534:32",
+        "id": "534:32b",
         "page": 534,
         "line": 32,
         "text": "verily, I say unto ",
@@ -334,7 +334,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/534"
       },
       {
-        "id": "534:39",
+        "id": "534:39a",
         "page": 534,
         "line": 39,
         "text": "so?",
@@ -348,7 +348,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "534:39",
+        "id": "534:39b",
         "page": 534,
         "line": 39,
         "text": "And his disciples answered him and said, yea, ",
@@ -362,7 +362,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/534"
       },
       {
-        "id": "534:41",
+        "id": "534:41a",
         "page": 534,
         "line": 41,
         "text": "and they were all fulfilled.",
@@ -376,7 +376,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "534:41",
+        "id": "534:41b",
         "page": 534,
         "line": 41,
         "text": "And Jesus said unto them, ",
@@ -397,7 +397,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/534"
       },
       {
-        "id": "534:44",
+        "id": "534:44a",
         "page": 534,
         "line": 44,
         "text": "minister unto them?",
@@ -411,7 +411,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "534:44",
+        "id": "534:44b",
         "page": 534,
         "line": 44,
         "text": "And it came to pass that Nephi ",
@@ -449,9 +449,16 @@
         "id": "535:2",
         "page": 535,
         "line": 2,
-        "text": "as he commanded. ",
+        "text": "as he commanded.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/535"
-      },
+      }
+    ]
+  },
+  {
+    "book": "3-ne",
+    "chapter": 23,
+    "verse": 14,
+    "lines": [
       {
         "id": "535:3",
         "page": 535,
@@ -465,14 +472,7 @@
         "line": 4,
         "text": "And now it came to pass that when Jesus had ex",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/535"
-      }
-    ]
-  },
-  {
-    "book": "3-ne",
-    "chapter": 23,
-    "verse": 14,
-    "lines": [
+      },
       {
         "id": "535:5",
         "page": 535,
@@ -488,7 +488,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/535"
       },
       {
-        "id": "535:7",
+        "id": "535:7a",
         "page": 535,
         "line": 7,
         "text": "the things which he had expounded unto them.",

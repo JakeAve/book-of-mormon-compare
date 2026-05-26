@@ -40,10 +40,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/416"
       },
       {
-        "id": "416:34",
+        "id": "416:34a",
         "page": 416,
         "line": 34,
-        "text": "should fill the judgement seat.",
+        "text": "should fill the",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/416"
       }
     ]
@@ -54,10 +54,10 @@
     "verse": 2,
     "lines": [
       {
-        "id": "416:34",
+        "id": "416:34b",
         "page": 416,
         "line": 34,
-        "text": "And it came to pass that He",
+        "text": "judgement seat. And it came to pass that He",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/416"
       },
       {
@@ -68,10 +68,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/416"
       },
       {
-        "id": "416:36",
+        "id": "416:36a",
         "page": 416,
         "line": 36,
-        "text": "the judegment seat, by the voice of the people; but",
+        "text": "the judegment seat, by the voice of the",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/416"
       }
     ]
@@ -82,10 +82,10 @@
     "verse": 3,
     "lines": [
       {
-        "id": "416:36",
+        "id": "416:36b",
         "page": 416,
         "line": 36,
-        "text": "behold, Kish",
+        "text": "people; but behold, Kish",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/416"
       },
       {
@@ -138,7 +138,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/416"
       },
       {
-        "id": "416:43",
+        "id": "416:43a",
         "page": 416,
         "line": 43,
         "text": "the band of Kishkumen;",
@@ -152,7 +152,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "416:43",
+        "id": "416:43b",
         "page": 416,
         "line": 43,
         "text": "therefore he did flatter them, and ",
@@ -229,7 +229,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/417"
       },
       {
-        "id": "417:10",
+        "id": "417:10a",
         "page": 417,
         "line": 10,
         "text": "laid by this band to destroy Helaman.",
@@ -243,7 +243,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "417:10",
+        "id": "417:10b",
         "page": 417,
         "line": 10,
         "text": "And it came to pass ",
@@ -271,10 +271,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/417"
       },
       {
-        "id": "417:14",
+        "id": "417:14a",
         "page": 417,
         "line": 14,
-        "text": "that he might murder Helaman: And it",
+        "text": "that he might murder Helaman:",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/417"
       }
     ]
@@ -285,10 +285,10 @@
     "verse": 8,
     "lines": [
       {
-        "id": "417:14",
+        "id": "417:14b",
         "page": 417,
         "line": 14,
-        "text": "came to pass that ",
+        "text": "And it came to pass that ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/417"
       },
       {
@@ -327,10 +327,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/417"
       },
       {
-        "id": "417:20",
+        "id": "417:20a",
         "page": 417,
         "line": 20,
-        "text": "saith unto Kishkumen, Let us go forth unto the judgement seat.",
+        "text": "saith unto Kishkumen, Let us go forth unto the",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/417"
       }
     ]
@@ -340,6 +340,13 @@
     "chapter": 2,
     "verse": 9,
     "lines": [
+      {
+        "id": "417:20b",
+        "page": 417,
+        "line": 20,
+        "text": "judgement seat. ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/417"
+      },
       {
         "id": "417:21",
         "page": 417,
@@ -404,7 +411,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/417"
       },
       {
-        "id": "417:29",
+        "id": "417:29a",
         "page": 417,
         "line": 29,
         "text": "executed according to the law.",
@@ -418,7 +425,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "417:29",
+        "id": "417:29b",
         "page": 417,
         "line": 29,
         "text": "But behold, when Gadianton ",
@@ -481,7 +488,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/417"
       },
       {
-        "id": "417:37",
+        "id": "417:37a",
         "page": 417,
         "line": 37,
         "text": "es over the people of Nephi.",
@@ -495,7 +502,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "417:37",
+        "id": "417:37b",
         "page": 417,
         "line": 37,
         "text": "And behold, in the end of this ",
@@ -540,15 +547,8 @@
         "id": "417:42",
         "page": 417,
         "line": 42,
-        "text": "all the account which I have written. ",
+        "text": "all the account which I have written.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/417"
-      },
-      {
-        "id": "418:1",
-        "page": 418,
-        "line": 1,
-        "text": "CHAPTER II.",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/418"
       }
     ]
   }

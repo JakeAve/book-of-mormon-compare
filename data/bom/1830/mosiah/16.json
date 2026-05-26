@@ -33,7 +33,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/194"
       },
       {
-        "id": "194:37",
+        "id": "194:37a",
         "page": 194,
         "line": 37,
         "text": "and shall confess before God that his judgments are just;",
@@ -47,7 +47,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "194:37",
+        "id": "194:37b",
         "page": 194,
         "line": 37,
         "text": "and ",
@@ -75,7 +75,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/194"
       },
       {
-        "id": "194:41",
+        "id": "194:41a",
         "page": 194,
         "line": 41,
         "text": "therefore the Lord redeemeth them not,",
@@ -89,7 +89,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "194:41",
+        "id": "194:41b",
         "page": 194,
         "line": 41,
         "text": "for they are carnal ",
@@ -124,7 +124,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/195"
       },
       {
-        "id": "195:3",
+        "id": "195:3a",
         "page": 195,
         "line": 3,
         "text": "subjecting themselves to the devil.",
@@ -138,7 +138,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "195:3",
+        "id": "195:3b",
         "page": 195,
         "line": 3,
         "text": "Thus all mankind were ",
@@ -159,7 +159,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/195"
       },
       {
-        "id": "195:6",
+        "id": "195:6a",
         "page": 195,
         "line": 6,
         "text": "state.",
@@ -173,7 +173,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "195:6",
+        "id": "195:6b",
         "page": 195,
         "line": 6,
         "text": "But remember, that he that persists in his own carnal ",
@@ -208,7 +208,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/195"
       },
       {
-        "id": "195:11",
+        "id": "195:11a",
         "page": 195,
         "line": 11,
         "text": "an enemy to God.",
@@ -222,7 +222,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "195:11",
+        "id": "195:11b",
         "page": 195,
         "line": 11,
         "text": "And now if Christ had not come into the ",
@@ -236,7 +236,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/195"
       },
       {
-        "id": "195:13",
+        "id": "195:13a",
         "page": 195,
         "line": 13,
         "text": "come, there could have been no redemption.",
@@ -250,7 +250,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "195:13",
+        "id": "195:13b",
         "page": 195,
         "line": 13,
         "text": "And if Christ ",
@@ -271,7 +271,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/195"
       },
       {
-        "id": "195:16",
+        "id": "195:16a",
         "page": 195,
         "line": 16,
         "text": "have no sting, there could have been no resurrection.",
@@ -285,7 +285,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "195:16",
+        "id": "195:16b",
         "page": 195,
         "line": 16,
         "text": "But ",
@@ -299,7 +299,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/195"
       },
       {
-        "id": "195:18",
+        "id": "195:18a",
         "page": 195,
         "line": 18,
         "text": "and the sting of death is swallowed up in Christ:",
@@ -313,7 +313,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "195:18",
+        "id": "195:18b",
         "page": 195,
         "line": 18,
         "text": "He is the ",
@@ -334,7 +334,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/195"
       },
       {
-        "id": "195:21",
+        "id": "195:21a",
         "page": 195,
         "line": 21,
         "text": "less, that there can be no more death.",
@@ -348,7 +348,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "195:21",
+        "id": "195:21b",
         "page": 195,
         "line": 21,
         "text": "Even this mortal shall ",
@@ -376,10 +376,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/195"
       },
       {
-        "id": "195:25",
+        "id": "195:25a",
         "page": 195,
         "line": 25,
-        "text": "good or whether they be evil. If they be good, to the resur",
+        "text": "good or whether they be evil.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/195"
       }
     ]
@@ -389,6 +389,13 @@
     "chapter": 16,
     "verse": 11,
     "lines": [
+      {
+        "id": "195:25b",
+        "page": 195,
+        "line": 25,
+        "text": "If they be good, to the resur",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/195"
+      },
       {
         "id": "195:26",
         "page": 195,
@@ -404,10 +411,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/195"
       },
       {
-        "id": "195:28",
+        "id": "195:28a",
         "page": 195,
         "line": 28,
-        "text": "the devil, who hath subjected them, which is damnation; hav",
+        "text": "the devil, who hath subjected them, which is damnation;",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/195"
       }
     ]
@@ -417,6 +424,13 @@
     "chapter": 16,
     "verse": 12,
     "lines": [
+      {
+        "id": "195:28b",
+        "page": 195,
+        "line": 28,
+        "text": "hav",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/195"
+      },
       {
         "id": "195:29",
         "page": 195,
@@ -460,7 +474,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/195"
       },
       {
-        "id": "195:35",
+        "id": "195:35a",
         "page": 195,
         "line": 35,
         "text": "would not repent.",
@@ -474,7 +488,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "195:35",
+        "id": "195:35b",
         "page": 195,
         "line": 35,
         "text": "And now had ye not ought to tremble and ",
@@ -488,7 +502,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/195"
       },
       {
-        "id": "195:37",
+        "id": "195:37a",
         "page": 195,
         "line": 37,
         "text": "ye can be saved?",
@@ -502,7 +516,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "195:37",
+        "id": "195:37b",
         "page": 195,
         "line": 37,
         "text": "Therefore, if ye teach the law of Moses, ",
@@ -516,7 +530,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/195"
       },
       {
-        "id": "195:39",
+        "id": "195:39a",
         "page": 195,
         "line": 39,
         "text": "come;",
@@ -530,7 +544,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "195:39",
+        "id": "195:39b",
         "page": 195,
         "line": 39,
         "text": "teach them that redemption cometh through Christ ",
@@ -540,15 +554,8 @@
         "id": "195:40",
         "page": 195,
         "line": 40,
-        "text": "the Lord, which is the very Eternal Father. Amen. ",
+        "text": "the Lord, which is the very Eternal Father. Amen.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/195"
-      },
-      {
-        "id": "196:1",
-        "page": 196,
-        "line": 1,
-        "text": "CHAPTER IX.",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/196"
       }
     ]
   }

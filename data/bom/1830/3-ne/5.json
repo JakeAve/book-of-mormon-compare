@@ -5,7 +5,7 @@
     "verse": 1,
     "lines": [
       {
-        "id": "469:10",
+        "id": "469:10b",
         "page": 469,
         "line": 10,
         "text": "And now behold there ",
@@ -33,7 +33,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/469"
       },
       {
-        "id": "469:14",
+        "id": "469:14a",
         "page": 469,
         "line": 14,
         "text": "needs be that they must be fulfilled;",
@@ -47,7 +47,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "469:14",
+        "id": "469:14b",
         "page": 469,
         "line": 14,
         "text": "and they knew that it ",
@@ -82,10 +82,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/469"
       },
       {
-        "id": "469:19",
+        "id": "469:19a",
         "page": 469,
         "line": 19,
-        "text": "come to pass according to that which had been spoken; there",
+        "text": "come to pass according to that which had been spoken;",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/469"
       }
     ]
@@ -95,6 +95,13 @@
     "chapter": 5,
     "verse": 3,
     "lines": [
+      {
+        "id": "469:19b",
+        "page": 469,
+        "line": 19,
+        "text": "there",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/469"
+      },
       {
         "id": "469:20",
         "page": 469,
@@ -159,7 +166,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/469"
       },
       {
-        "id": "469:28",
+        "id": "469:28a",
         "page": 469,
         "line": 28,
         "text": "that they would murder no more, were set at liberty;",
@@ -173,7 +180,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "469:28",
+        "id": "469:28b",
         "page": 469,
         "line": 28,
         "text": "but as ",
@@ -208,7 +215,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/469"
       },
       {
-        "id": "469:33",
+        "id": "469:33a",
         "page": 469,
         "line": 33,
         "text": "ding to the law.",
@@ -222,7 +229,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "469:33",
+        "id": "469:33b",
         "page": 469,
         "line": 33,
         "text": "And thus they did put an end to all those ",
@@ -243,7 +250,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/469"
       },
       {
-        "id": "469:36",
+        "id": "469:36a",
         "page": 469,
         "line": 36,
         "text": "committed.",
@@ -257,7 +264,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "469:36",
+        "id": "469:36b",
         "page": 469,
         "line": 36,
         "text": "And thus had the twenty and second year passed ",
@@ -278,7 +285,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/469"
       },
       {
-        "id": "469:39",
+        "id": "469:39a",
         "page": 469,
         "line": 39,
         "text": "five years passed away,",
@@ -292,7 +299,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "469:39",
+        "id": "469:39b",
         "page": 469,
         "line": 39,
         "text": "and there had many things transpired ",
@@ -327,7 +334,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/469"
       },
       {
-        "id": "470:1",
+        "id": "470:1a",
         "page": 470,
         "line": 1,
         "text": "years;",
@@ -341,7 +348,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "470:1",
+        "id": "470:1b",
         "page": 470,
         "line": 1,
         "text": "but behold there are records which do contain all the ",
@@ -355,7 +362,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/470"
       },
       {
-        "id": "470:3",
+        "id": "470:3a",
         "page": 470,
         "line": 3,
         "text": "count was given by Nephi;",
@@ -369,7 +376,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "470:3",
+        "id": "470:3b",
         "page": 470,
         "line": 3,
         "text": "therefore I have made my record ",
@@ -404,7 +411,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/470"
       },
       {
-        "id": "470:7",
+        "id": "470:7a",
         "page": 470,
         "line": 7,
         "text": "with mine own hands.",
@@ -418,7 +425,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "470:7",
+        "id": "470:7b",
         "page": 470,
         "line": 7,
         "text": "And behold, I am called Mormon, ",
@@ -446,7 +453,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/470"
       },
       {
-        "id": "470:11",
+        "id": "470:11a",
         "page": 470,
         "line": 11,
         "text": "transgression.",
@@ -460,7 +467,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "470:11",
+        "id": "470:11b",
         "page": 470,
         "line": 11,
         "text": "Behold I am a disciple of Jesus Christ, the ",
@@ -474,7 +481,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/470"
       },
       {
-        "id": "470:13",
+        "id": "470:13a",
         "page": 470,
         "line": 13,
         "text": "among his people, that they might have everlasting life.",
@@ -488,7 +495,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "470:13",
+        "id": "470:13b",
         "page": 470,
         "line": 13,
         "text": "And ",
@@ -544,7 +551,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/470"
       },
       {
-        "id": "470:20",
+        "id": "470:20a",
         "page": 470,
         "line": 20,
         "text": "time;",
@@ -558,7 +565,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "470:20",
+        "id": "470:20b",
         "page": 470,
         "line": 20,
         "text": "therefore I do make my record from the accounts ",
@@ -572,7 +579,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/470"
       },
       {
-        "id": "470:22",
+        "id": "470:22a",
         "page": 470,
         "line": 22,
         "text": "the commencement of my day;",
@@ -586,14 +593,14 @@
     "verse": 17,
     "lines": [
       {
-        "id": "470:22",
+        "id": "470:22b",
         "page": 470,
         "line": 22,
         "text": "and then I do make a record ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/470"
       },
       {
-        "id": "470:23",
+        "id": "470:23a",
         "page": 470,
         "line": 23,
         "text": "of the things which I have seen with mine own eyes.",
@@ -607,7 +614,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "470:23",
+        "id": "470:23b",
         "page": 470,
         "line": 23,
         "text": "And I ",
@@ -628,7 +635,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/470"
       },
       {
-        "id": "470:26",
+        "id": "470:26a",
         "page": 470,
         "line": 26,
         "text": "language, we are not able to write.",
@@ -642,7 +649,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "470:26",
+        "id": "470:26b",
         "page": 470,
         "line": 26,
         "text": "And now I make an end ",
@@ -656,7 +663,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/470"
       },
       {
-        "id": "470:28",
+        "id": "470:28a",
         "page": 470,
         "line": 28,
         "text": "count of the things which hath been before me.",
@@ -670,7 +677,7 @@
     "verse": 20,
     "lines": [
       {
-        "id": "470:28",
+        "id": "470:28b",
         "page": 470,
         "line": 28,
         "text": "I am Mor",
@@ -712,7 +719,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/470"
       },
       {
-        "id": "470:34",
+        "id": "470:34a",
         "page": 470,
         "line": 34,
         "text": "unto the salvation of our souls.",
@@ -726,7 +733,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "470:34",
+        "id": "470:34b",
         "page": 470,
         "line": 34,
         "text": "Surely he hath blessed the ",
@@ -740,7 +747,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/470"
       },
       {
-        "id": "470:36",
+        "id": "470:36a",
         "page": 470,
         "line": 36,
         "text": "seph.",
@@ -754,7 +761,7 @@
     "verse": 22,
     "lines": [
       {
-        "id": "470:36",
+        "id": "470:36b",
         "page": 470,
         "line": 36,
         "text": "And insomuch as the children of Lehi hath kept his ",
@@ -768,7 +775,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/470"
       },
       {
-        "id": "470:38",
+        "id": "470:38a",
         "page": 470,
         "line": 38,
         "text": "according to his word;",
@@ -782,7 +789,7 @@
     "verse": 23,
     "lines": [
       {
-        "id": "470:38",
+        "id": "470:38b",
         "page": 470,
         "line": 38,
         "text": "yea, and surely shall he again bring ",
@@ -796,7 +803,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/470"
       },
       {
-        "id": "470:40",
+        "id": "470:40a",
         "page": 470,
         "line": 40,
         "text": "their God;",
@@ -810,7 +817,7 @@
     "verse": 24,
     "lines": [
       {
-        "id": "470:40",
+        "id": "470:40b",
         "page": 470,
         "line": 40,
         "text": "and as surely as the Lord liveth will he gather in ",
@@ -831,7 +838,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/470"
       },
       {
-        "id": "470:43",
+        "id": "470:43a",
         "page": 470,
         "line": 43,
         "text": "earth;",
@@ -845,7 +852,7 @@
     "verse": 25,
     "lines": [
       {
-        "id": "470:43",
+        "id": "470:43b",
         "page": 470,
         "line": 43,
         "text": "and as he hath covenanted with all the house of Jacob, ",
@@ -873,7 +880,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/471"
       },
       {
-        "id": "471:4",
+        "id": "471:4a",
         "page": 471,
         "line": 4,
         "text": "covenant that he hath covenanted with them;",
@@ -887,7 +894,7 @@
     "verse": 26,
     "lines": [
       {
-        "id": "471:4",
+        "id": "471:4b",
         "page": 471,
         "line": 4,
         "text": "and then shall ",
@@ -918,14 +925,7 @@
         "id": "471:8",
         "page": 471,
         "line": 8,
-        "text": "been dispersed; yea, as the Lord liveth, so shall it be. Amen. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/471"
-      },
-      {
-        "id": "471:9",
-        "page": 471,
-        "line": 9,
-        "text": "CHAPTER III.",
+        "text": "been dispersed; yea, as the Lord liveth, so shall it be. Amen.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/471"
       }
     ]

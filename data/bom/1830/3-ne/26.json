@@ -19,7 +19,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/511"
       },
       {
-        "id": "511:20",
+        "id": "511:20a",
         "page": 511,
         "line": 20,
         "text": "pound all things unto them, both great and small.",
@@ -33,7 +33,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "511:20",
+        "id": "511:20b",
         "page": 511,
         "line": 20,
         "text": "And he ",
@@ -54,7 +54,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/511"
       },
       {
-        "id": "511:23",
+        "id": "511:23a",
         "page": 511,
         "line": 23,
         "text": "him that they should be given unto future generations.",
@@ -68,7 +68,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "511:23",
+        "id": "511:23b",
         "page": 511,
         "line": 23,
         "text": "And ",
@@ -110,7 +110,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/511"
       },
       {
-        "id": "511:29",
+        "id": "511:29a",
         "page": 511,
         "line": 29,
         "text": "earth should pass away;",
@@ -124,7 +124,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "511:29",
+        "id": "511:29b",
         "page": 511,
         "line": 29,
         "text": "and even unto the great and last day, ",
@@ -145,7 +145,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/511"
       },
       {
-        "id": "511:32",
+        "id": "511:32a",
         "page": 511,
         "line": 32,
         "text": "they be good or whether they be evil:",
@@ -159,7 +159,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "511:32",
+        "id": "511:32b",
         "page": 511,
         "line": 32,
         "text": "if they be good, to the ",
@@ -197,15 +197,8 @@
         "id": "511:37",
         "page": 511,
         "line": 37,
-        "text": "before the world began. ",
+        "text": "before the world began.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/511"
-      },
-      {
-        "id": "512:1",
-        "page": 512,
-        "line": 1,
-        "text": "CHAPTER XII.",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/512"
       }
     ]
   },
@@ -214,6 +207,13 @@
     "chapter": 26,
     "verse": 6,
     "lines": [
+      {
+        "id": "512:1",
+        "page": 512,
+        "line": 1,
+        "text": "CHAPTER XII. ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/512"
+      },
       {
         "id": "512:2",
         "page": 512,
@@ -229,7 +229,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/512"
       },
       {
-        "id": "512:4",
+        "id": "512:4a",
         "page": 512,
         "line": 4,
         "text": "people;",
@@ -243,14 +243,14 @@
     "verse": 7,
     "lines": [
       {
-        "id": "512:4",
+        "id": "512:4b",
         "page": 512,
         "line": 4,
         "text": "but behold the plates of Nephi do contain the more ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/512"
       },
       {
-        "id": "512:5",
+        "id": "512:5a",
         "page": 512,
         "line": 5,
         "text": "part of the things which he taught the people;",
@@ -264,7 +264,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "512:5",
+        "id": "512:5b",
         "page": 512,
         "line": 5,
         "text": "and these ",
@@ -327,7 +327,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/512"
       },
       {
-        "id": "512:13",
+        "id": "512:13a",
         "page": 512,
         "line": 13,
         "text": "things be made manifest unto them.",
@@ -341,7 +341,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "512:13",
+        "id": "512:13b",
         "page": 512,
         "line": 13,
         "text": "And if it so be that they ",
@@ -355,7 +355,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/512"
       },
       {
-        "id": "512:15",
+        "id": "512:15a",
         "page": 512,
         "line": 15,
         "text": "withheld from them, unto their condemnation.",
@@ -369,7 +369,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "512:15",
+        "id": "512:15b",
         "page": 512,
         "line": 15,
         "text": "Behold I",
@@ -390,7 +390,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/512"
       },
       {
-        "id": "512:18",
+        "id": "512:18a",
         "page": 512,
         "line": 18,
         "text": "faith of my people;",
@@ -404,7 +404,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "512:18",
+        "id": "512:18b",
         "page": 512,
         "line": 18,
         "text": "therefore I, Mormon, do write the things ",
@@ -425,7 +425,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/512"
       },
       {
-        "id": "512:21",
+        "id": "512:21a",
         "page": 512,
         "line": 21,
         "text": "the things which have been commanded me;",
@@ -439,7 +439,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "512:21",
+        "id": "512:21b",
         "page": 512,
         "line": 21,
         "text": "therefore I ",
@@ -516,7 +516,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/512"
       },
       {
-        "id": "512:31",
+        "id": "512:31a",
         "page": 512,
         "line": 31,
         "text": "utter.",
@@ -530,7 +530,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "512:31",
+        "id": "512:31b",
         "page": 512,
         "line": 31,
         "text": "And it came to pass that after he had ascended into ",
@@ -579,7 +579,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/512"
       },
       {
-        "id": "512:38",
+        "id": "512:38a",
         "page": 512,
         "line": 38,
         "text": "Father,",
@@ -593,7 +593,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "512:38",
+        "id": "512:38b",
         "page": 512,
         "line": 38,
         "text": "behold, it came to pass on the morrow, that the multi",
@@ -628,7 +628,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/512"
       },
       {
-        "id": "513:1",
+        "id": "513:1a",
         "page": 513,
         "line": 1,
         "text": "them.",
@@ -642,7 +642,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "513:1",
+        "id": "513:1b",
         "page": 513,
         "line": 1,
         "text": "And it came to pass that the disciples whom Jesus ",
@@ -663,7 +663,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/513"
       },
       {
-        "id": "513:4",
+        "id": "513:4a",
         "page": 513,
         "line": 4,
         "text": "ed in the name of Jesus, were filled with the Holy Ghost.",
@@ -677,7 +677,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "513:4",
+        "id": "513:4b",
         "page": 513,
         "line": 4,
         "text": "And ",
@@ -691,7 +691,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/513"
       },
       {
-        "id": "513:6",
+        "id": "513:6a",
         "page": 513,
         "line": 6,
         "text": "not lawful to be written;",
@@ -705,7 +705,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "513:6",
+        "id": "513:6b",
         "page": 513,
         "line": 6,
         "text": "and they taught, and did minister ",
@@ -719,7 +719,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/513"
       },
       {
-        "id": "513:8",
+        "id": "513:8a",
         "page": 513,
         "line": 8,
         "text": "every man dealing justly, one with another.",
@@ -733,7 +733,7 @@
     "verse": 20,
     "lines": [
       {
-        "id": "513:8",
+        "id": "513:8b",
         "page": 513,
         "line": 8,
         "text": "And it came to ",
@@ -747,10 +747,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/513"
       },
       {
-        "id": "513:10",
+        "id": "513:10a",
         "page": 513,
         "line": 10,
-        "text": "ed them. And they which were baptized in the name of Je",
+        "text": "ed them.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/513"
       }
     ]
@@ -760,6 +760,13 @@
     "chapter": 26,
     "verse": 21,
     "lines": [
+      {
+        "id": "513:10b",
+        "page": 513,
+        "line": 10,
+        "text": "And they which were baptized in the name of Je",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/513"
+      },
       {
         "id": "513:11",
         "page": 513,

@@ -5,6 +5,13 @@
     "verse": 1,
     "lines": [
       {
+        "id": "581:27",
+        "page": 581,
+        "line": 27,
+        "text": "CHAPTER II. ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/581"
+      },
+      {
         "id": "581:28",
         "page": 581,
         "line": 28,
@@ -40,7 +47,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/581"
       },
       {
-        "id": "581:33",
+        "id": "581:33a",
         "page": 581,
         "line": 33,
         "text": "it shall be wisdom in God.",
@@ -54,7 +61,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "581:33",
+        "id": "581:33b",
         "page": 581,
         "line": 33,
         "text": "And behold, ye may be ",
@@ -68,7 +75,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/581"
       },
       {
-        "id": "581:35",
+        "id": "581:35a",
         "page": 581,
         "line": 35,
         "text": "shall assist to bring forth this work;",
@@ -82,7 +89,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "581:35",
+        "id": "581:35b",
         "page": 581,
         "line": 35,
         "text": "and unto three ",
@@ -152,7 +159,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/582"
       },
       {
-        "id": "582:4",
+        "id": "582:4a",
         "page": 582,
         "line": 4,
         "text": "last day.",
@@ -166,7 +173,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "582:4",
+        "id": "582:4b",
         "page": 582,
         "line": 4,
         "text": "And if it so be that they repent and come ",
@@ -180,7 +187,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/582"
       },
       {
-        "id": "582:6",
+        "id": "582:6a",
         "page": 582,
         "line": 6,
         "text": "ceived into the kingdom of God.",
@@ -194,7 +201,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "582:6",
+        "id": "582:6b",
         "page": 582,
         "line": 6,
         "text": "And now, if I have ",
@@ -218,14 +225,7 @@
         "id": "582:9",
         "page": 582,
         "line": 9,
-        "text": "we shall stand before God at the last day. Amen. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/582"
-      },
-      {
-        "id": "582:10",
-        "page": 582,
-        "line": 10,
-        "text": "CHAPTER III.",
+        "text": "we shall stand before God at the last day. Amen.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/582"
       }
     ]

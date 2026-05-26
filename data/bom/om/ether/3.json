@@ -5,6 +5,13 @@
     "verse": 9,
     "lines": [
       {
+        "id": "216:5c",
+        "page": 216,
+        "line": 5,
+        "text": "name ther ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/216"
+      },
+      {
         "id": "217:1",
         "page": 217,
         "line": 1,
@@ -13,7 +20,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/217"
       },
       {
-        "id": "217:2",
+        "id": "217:2a",
         "page": 217,
         "line": 2,
         "text": "ye could not have seen my finger sawest thou more then this",
@@ -28,26 +35,11 @@
     "verse": 10,
     "lines": [
       {
-        "id": "217:2",
+        "id": "217:2b",
         "page": 217,
         "line": 2,
-        "text": "& he answered",
-        "markdown": "& h{{e answered",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/217"
-      }
-    ]
-  },
-  {
-    "book": "ether",
-    "chapter": 3,
-    "verse": 12,
-    "lines": [
-      {
-        "id": "217:2",
-        "page": 217,
-        "line": 2,
-        "text": "nay Lord",
-        "markdown": "nay Lord}}",
+        "text": "& he answered nay",
+        "markdown": "& h{{e answered nay",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/217"
       }
     ]

@@ -5,6 +5,14 @@
     "verse": 1,
     "lines": [
       {
+        "id": "183:26",
+        "page": 183,
+        "line": 26,
+        "text": "Chapter ",
+        "markdown": "Chapter {{}} ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/183"
+      },
+      {
         "id": "183:27",
         "page": 183,
         "line": 27,
@@ -21,7 +29,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/183"
       },
       {
-        "id": "183:29",
+        "id": "183:29a",
         "page": 183,
         "line": 29,
         "text": "rejoiced because of the wellfare yea the exceding success which Helaman hadhad in obtaining those lands which were lost",
@@ -36,7 +44,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "183:29",
+        "id": "183:29b",
         "page": 183,
         "line": 29,
         "text": "yea & he did make it known unto all his People in all the land round about in that part where he was that theymight rejoice also",
@@ -51,7 +59,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "183:29",
+        "id": "183:29c",
         "page": 183,
         "line": 29,
         "text": "& it came to pass that he immediately sent an epistle ",
@@ -59,7 +67,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/183"
       },
       {
-        "id": "184:1",
+        "id": "184:1a",
         "page": 184,
         "line": 1,
         "text": "to Pahoron desireing that he should cause men to be gathered togetherto strengthen Helaman or the armies of Helaman insomuch that he mightwith ease maintain that part of the land which he had been so marackulously prospered in retaining",
@@ -74,7 +82,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "184:1",
+        "id": "184:1b",
         "page": 184,
         "line": 1,
         "text": "& it came to pass when Moroni had sent thisepistle to the land of Zarahemla he began again to lay a plan that hemight obtain the remainder of those possessions & cities which the Lamanites had taken from them",
@@ -89,7 +97,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "184:1",
+        "id": "184:1c",
         "page": 184,
         "line": 1,
         "text": "& it came to pass that while Moroni was thus makeing preperations to go against the Lamanites to battle behold the people of ",
@@ -105,7 +113,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/184"
       },
       {
-        "id": "184:3",
+        "id": "184:3a",
         "page": 184,
         "line": 3,
         "text": "Lehi & the City of Morionton were attackted by the Lamanites",
@@ -120,7 +128,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "184:3",
+        "id": "184:3b",
         "page": 184,
         "line": 3,
         "text": "yea even ",
@@ -144,7 +152,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/184"
       },
       {
-        "id": "184:6",
+        "id": "184:6a",
         "page": 184,
         "line": 6,
         "text": "land",
@@ -159,7 +167,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "184:6",
+        "id": "184:6b",
         "page": 184,
         "line": 6,
         "text": "& thus being exceding numerous yea & receiveing strength from day to ",
@@ -206,7 +214,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/184"
       },
       {
-        "id": "184:11",
+        "id": "184:11a",
         "page": 184,
         "line": 11,
         "text": "roni",
@@ -220,7 +228,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "184:11",
+        "id": "184:11b",
         "page": 184,
         "line": 11,
         "text": "& now as Moroni had supposed that there should be men sent to the City of ",
@@ -244,7 +252,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/184"
       },
       {
-        "id": "184:14",
+        "id": "184:14a",
         "page": 184,
         "line": 14,
         "text": "pposed that they would easily maintain that City",
@@ -258,7 +266,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "184:14",
+        "id": "184:14b",
         "page": 184,
         "line": 14,
         "text": "therefore he retained all ",
@@ -266,7 +274,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/184"
       },
       {
-        "id": "184:15",
+        "id": "184:15a",
         "page": 184,
         "line": 15,
         "text": "his force to maintain those places which he had recovered",
@@ -280,7 +288,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "184:15",
+        "id": "184:15b",
         "page": 184,
         "line": 15,
         "text": "& now when Moroni ",
@@ -302,7 +310,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/184"
       },
       {
-        "id": "184:18",
+        "id": "184:18a",
         "page": 184,
         "line": 18,
         "text": "nds of their Bretheren",
@@ -317,7 +325,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "184:18",
+        "id": "184:18b",
         "page": 184,
         "line": 18,
         "text": "now this was the case with all his chief Captains they doubted ",
@@ -332,7 +340,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/184"
       },
       {
-        "id": "184:20",
+        "id": "184:20a",
         "page": 184,
         "line": 20,
         "text": "cess of the Lamanites over them",
@@ -347,7 +355,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "184:20",
+        "id": "184:20b",
         "page": 184,
         "line": 20,
         "text": "& it came to pass that Moroni was angary with the ",

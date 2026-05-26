@@ -5,6 +5,13 @@
     "verse": 1,
     "lines": [
       {
+        "id": "173:25",
+        "page": 173,
+        "line": 25,
+        "text": "CHAPTER IV. ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/173"
+      },
+      {
         "id": "173:26",
         "page": 173,
         "line": 26,
@@ -26,7 +33,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/173"
       },
       {
-        "id": "173:29",
+        "id": "173:29a",
         "page": 173,
         "line": 29,
         "text": "to keep his commandments.",
@@ -40,7 +47,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "173:29",
+        "id": "173:29b",
         "page": 173,
         "line": 29,
         "text": "And it came to pass that there ",
@@ -61,7 +68,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/173"
       },
       {
-        "id": "173:32",
+        "id": "173:32a",
         "page": 173,
         "line": 32,
         "text": "of Christ.",
@@ -75,7 +82,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "173:32",
+        "id": "173:32b",
         "page": 173,
         "line": 32,
         "text": "And again: It came to pass that when king Ben",
@@ -166,7 +173,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/174"
       },
       {
-        "id": "174:6",
+        "id": "174:6a",
         "page": 174,
         "line": 6,
         "text": "that Lehi left Jerusalem.",
@@ -180,14 +187,14 @@
     "verse": 5,
     "lines": [
       {
-        "id": "174:6",
+        "id": "174:6b",
         "page": 174,
         "line": 6,
         "text": "And king Benjamin lived three years, ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/174"
       },
       {
-        "id": "174:7",
+        "id": "174:7a",
         "page": 174,
         "line": 7,
         "text": "and he died.",
@@ -201,7 +208,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "174:7",
+        "id": "174:7b",
         "page": 174,
         "line": 7,
         "text": "And it came to pass that king Mosiah did walk ",

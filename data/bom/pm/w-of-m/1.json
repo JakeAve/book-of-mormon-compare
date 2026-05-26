@@ -5,11 +5,10 @@
     "verse": 0,
     "lines": [
       {
-        "id": "119:23",
+        "id": "119:23a",
         "page": 119,
         "line": 23,
-        "text": "The words of Mormon Chapter 2.d",
-        "markdown": "The words of Mormon [Chapter 2.d]",
+        "text": "The words of Mormon",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/119"
       }
     ]
@@ -20,10 +19,11 @@
     "verse": 1,
     "lines": [
       {
-        "id": "119:23",
+        "id": "119:23b",
         "page": 119,
         "line": 23,
-        "text": "And now I Mormon being about to deliver up ",
+        "text": "Chapter 2.d And now I Mormon being about to deliver up ",
+        "markdown": "[Chapter 2.d] And now I Mormon being about to deliver up ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/119"
       },
       {
@@ -76,7 +76,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/119"
       },
       {
-        "id": "119:30",
+        "id": "119:30a",
         "page": 119,
         "line": 30,
         "text": "profit them",
@@ -90,7 +90,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "119:30",
+        "id": "119:30b",
         "page": 119,
         "line": 30,
         "text": "& now I speak somewhat concerning that which I have written for after ",
@@ -125,7 +125,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/119"
       },
       {
-        "id": "119:35",
+        "id": "119:35a",
         "page": 119,
         "line": 35,
         "text": "the words of Nephi",
@@ -139,7 +139,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "119:35",
+        "id": "119:35b",
         "page": 119,
         "line": 35,
         "text": "& the things which are upon these plates pleasing me because of the ",
@@ -168,7 +168,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/120"
       },
       {
-        "id": "120:2",
+        "id": "120:2a",
         "page": 120,
         "line": 2,
         "text": "come to pass",
@@ -182,7 +182,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "120:2",
+        "id": "120:2b",
         "page": 120,
         "line": 2,
         "text": "wherefore I chose these things to finish my record upon them which ",
@@ -196,7 +196,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/120"
       },
       {
-        "id": "120:4",
+        "id": "120:4a",
         "page": 120,
         "line": 4,
         "text": "th part of the things of my People",
@@ -210,7 +210,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "120:4",
+        "id": "120:4b",
         "page": 120,
         "line": 4,
         "text": "but behold I shall take these plates which contain ",
@@ -224,7 +224,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/120"
       },
       {
-        "id": "120:6",
+        "id": "120:6a",
         "page": 120,
         "line": 6,
         "text": "are choice unto me & I know they will be choice unto my Brethren",
@@ -238,7 +238,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "120:6",
+        "id": "120:6b",
         "page": 120,
         "line": 6,
         "text": "& I do this for a wise ",
@@ -260,7 +260,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/120"
       },
       {
-        "id": "120:9",
+        "id": "120:9a",
         "page": 120,
         "line": 9,
         "text": "ich is to come wherefore he worketh in me to do according to his will",
@@ -274,7 +274,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "120:9",
+        "id": "120:9b",
         "page": 120,
         "line": 9,
         "text": "& my prayer to ",
@@ -316,7 +316,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/120"
       },
       {
-        "id": "120:14",
+        "id": "120:14a",
         "page": 120,
         "line": 14,
         "text": "given me",
@@ -330,7 +330,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "120:14",
+        "id": "120:14b",
         "page": 120,
         "line": 14,
         "text": "wherefore it came to pass that after Amaleki had delivered up these pla",
@@ -351,7 +351,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/120"
       },
       {
-        "id": "120:17",
+        "id": "120:17a",
         "page": 120,
         "line": 17,
         "text": "to Generation untill the days of King Benjamin",
@@ -365,7 +365,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "120:17",
+        "id": "120:17b",
         "page": 120,
         "line": 17,
         "text": "& they were handed down from King ",
@@ -400,7 +400,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/120"
       },
       {
-        "id": "120:22",
+        "id": "120:22a",
         "page": 120,
         "line": 22,
         "text": "of God which is written",
@@ -414,14 +414,14 @@
     "verse": 12,
     "lines": [
       {
-        "id": "120:22",
+        "id": "120:22b",
         "page": 120,
         "line": 22,
         "text": "& now concerning this King Benjamin he had somewhat co",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/120"
       },
       {
-        "id": "120:23",
+        "id": "120:23a",
         "page": 120,
         "line": 23,
         "text": "ntentions among his own People",
@@ -435,7 +435,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "120:23",
+        "id": "120:23b",
         "page": 120,
         "line": 23,
         "text": "& it came to pass also that the armies of the Lamanites ",
@@ -456,7 +456,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/120"
       },
       {
-        "id": "120:26",
+        "id": "120:26a",
         "page": 120,
         "line": 26,
         "text": "strength of his own arm with the sword of Laban",
@@ -470,7 +470,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "120:26",
+        "id": "120:26b",
         "page": 120,
         "line": 26,
         "text": "& in the strength of the Lord they did con",
@@ -491,7 +491,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/120"
       },
       {
-        "id": "120:29",
+        "id": "120:29a",
         "page": 120,
         "line": 29,
         "text": "all the lands of their inheritance",
@@ -505,14 +505,14 @@
     "verse": 15,
     "lines": [
       {
-        "id": "120:29",
+        "id": "120:29b",
         "page": 120,
         "line": 29,
         "text": "& it came to pass that after there had been fals Christs ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/120"
       },
       {
-        "id": "120:30",
+        "id": "120:30a",
         "page": 120,
         "line": 30,
         "text": "& their mouths had been shut & they punished according to their crimes",
@@ -526,7 +526,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "120:30",
+        "id": "120:30b",
         "page": 120,
         "line": 30,
         "text": "& after their had ",
@@ -554,7 +554,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/120"
       },
       {
-        "id": "120:34",
+        "id": "120:34a",
         "page": 120,
         "line": 34,
         "text": "assistance of the holy Prophets which were among his People",
@@ -568,7 +568,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "120:34",
+        "id": "120:34b",
         "page": 120,
         "line": 34,
         "text": "for behold King Benjamin ",
@@ -589,7 +589,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/120"
       },
       {
-        "id": "120:37",
+        "id": "120:37a",
         "page": 120,
         "line": 37,
         "text": "use much sharpness because of the stiffneckedness of the People",
@@ -603,7 +603,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "120:37",
+        "id": "120:37b",
         "page": 120,
         "line": 37,
         "text": "wherefore with the ",

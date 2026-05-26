@@ -19,7 +19,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/202"
       },
       {
-        "id": "202:20",
+        "id": "202:20a",
         "page": 202,
         "line": 20,
         "text": "to dance, and to make themselves merry.",
@@ -33,7 +33,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "202:20",
+        "id": "202:20b",
         "page": 202,
         "line": 20,
         "text": "And it came to pass ",
@@ -47,7 +47,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/202"
       },
       {
-        "id": "202:22",
+        "id": "202:22a",
         "page": 202,
         "line": 22,
         "text": "gether to sing and to dance.",
@@ -61,7 +61,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "202:22",
+        "id": "202:22b",
         "page": 202,
         "line": 22,
         "text": "And now the priests of king ",
@@ -82,10 +82,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/202"
       },
       {
-        "id": "202:25",
+        "id": "202:25a",
         "page": 202,
         "line": 25,
-        "text": "durst not return to their wives and their children. And",
+        "text": "durst not return to their wives and their children.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/202"
       }
     ]
@@ -96,10 +96,10 @@
     "verse": 4,
     "lines": [
       {
-        "id": "202:25",
+        "id": "202:25b",
         "page": 202,
         "line": 25,
-        "text": "hav",
+        "text": "And hav",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/202"
       },
       {
@@ -110,7 +110,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/202"
       },
       {
-        "id": "202:27",
+        "id": "202:27a",
         "page": 202,
         "line": 27,
         "text": "ters of the Lamanites, they laid and watched them;",
@@ -124,7 +124,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "202:27",
+        "id": "202:27b",
         "page": 202,
         "line": 27,
         "text": "and when ",
@@ -208,7 +208,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/202"
       },
       {
-        "id": "202:37",
+        "id": "202:37a",
         "page": 202,
         "line": 37,
         "text": "Nephi, to destroy the people of Limhi.",
@@ -222,7 +222,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "202:37",
+        "id": "202:37b",
         "page": 202,
         "line": 37,
         "text": "And now Limhi had ",
@@ -292,7 +292,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/203"
       },
       {
-        "id": "203:2",
+        "id": "203:2a",
         "page": 203,
         "line": 2,
         "text": "for they fought like lions for their prey.",
@@ -306,7 +306,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "203:2",
+        "id": "203:2b",
         "page": 203,
         "line": 2,
         "text": "And it came to pass ",
@@ -376,7 +376,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/203"
       },
       {
-        "id": "203:11",
+        "id": "203:11a",
         "page": 203,
         "line": 11,
         "text": "the flight of his people.",
@@ -390,7 +390,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "203:11",
+        "id": "203:11b",
         "page": 203,
         "line": 11,
         "text": "And they took him and bound up his ",
@@ -425,7 +425,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/203"
       },
       {
-        "id": "203:16",
+        "id": "203:16a",
         "page": 203,
         "line": 16,
         "text": "him.",
@@ -439,7 +439,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "203:16",
+        "id": "203:16b",
         "page": 203,
         "line": 16,
         "text": "But Limhi saith unto them, Ye shall not slay him, but ",
@@ -474,7 +474,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/203"
       },
       {
-        "id": "203:21",
+        "id": "203:21a",
         "page": 203,
         "line": 21,
         "text": "ye break the oath which ye made unto my people?",
@@ -488,7 +488,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "203:21",
+        "id": "203:21b",
         "page": 203,
         "line": 21,
         "text": "And now ",
@@ -512,7 +512,7 @@
         "id": "203:24",
         "page": 203,
         "line": 24,
-        "text": "I did cause my people to come up to war against thy",
+        "text": "I did cause my people to come up to war against thy people.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/203"
       }
     ]
@@ -522,13 +522,6 @@
     "chapter": 20,
     "verse": 16,
     "lines": [
-      {
-        "id": "203:24",
-        "page": 203,
-        "line": 24,
-        "text": "people. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/203"
-      },
       {
         "id": "203:25",
         "page": 203,
@@ -551,7 +544,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/203"
       },
       {
-        "id": "203:28",
+        "id": "203:28a",
         "page": 203,
         "line": 28,
         "text": "to be made among his people.",
@@ -565,7 +558,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "203:28",
+        "id": "203:28b",
         "page": 203,
         "line": 28,
         "text": "Now when Gideon had heard ",
@@ -586,7 +579,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/203"
       },
       {
-        "id": "203:31",
+        "id": "203:31a",
         "page": 203,
         "line": 31,
         "text": "people, and lay not this thing to their charge.",
@@ -600,7 +593,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "203:31",
+        "id": "203:31b",
         "page": 203,
         "line": 31,
         "text": "For do ye not ",
@@ -621,7 +614,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/203"
       },
       {
-        "id": "203:34",
+        "id": "203:34a",
         "page": 203,
         "line": 34,
         "text": "they which have stolen the daughters of the Lamanites?",
@@ -635,7 +628,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "203:34",
+        "id": "203:34b",
         "page": 203,
         "line": 34,
         "text": "And ",
@@ -663,7 +656,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/203"
       },
       {
-        "id": "203:38",
+        "id": "203:38a",
         "page": 203,
         "line": 38,
         "text": "so, there are but few of us.",
@@ -677,7 +670,7 @@
     "verse": 20,
     "lines": [
       {
-        "id": "203:38",
+        "id": "203:38b",
         "page": 203,
         "line": 38,
         "text": "And behold, they come with their ",
@@ -691,7 +684,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/203"
       },
       {
-        "id": "203:40",
+        "id": "203:40a",
         "page": 203,
         "line": 40,
         "text": "us, we must perish.",
@@ -705,7 +698,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "203:40",
+        "id": "203:40b",
         "page": 203,
         "line": 40,
         "text": "For are not the words of Abinadi fulfilled, ",
@@ -726,7 +719,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/203"
       },
       {
-        "id": "203:43",
+        "id": "203:43a",
         "page": 203,
         "line": 43,
         "text": "iniquities?",
@@ -740,7 +733,7 @@
     "verse": 22,
     "lines": [
       {
-        "id": "203:43",
+        "id": "203:43b",
         "page": 203,
         "line": 43,
         "text": "And now let us pacify the king, and we fulfil the ",
@@ -824,7 +817,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/204"
       },
       {
-        "id": "204:10",
+        "id": "204:10a",
         "page": 204,
         "line": 10,
         "text": "my people shall not slay thy people.",
@@ -838,7 +831,7 @@
     "verse": 25,
     "lines": [
       {
-        "id": "204:10",
+        "id": "204:10b",
         "page": 204,
         "line": 10,
         "text": "And it came to pass ",
@@ -873,7 +866,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/204"
       },
       {
-        "id": "204:15",
+        "id": "204:15a",
         "page": 204,
         "line": 15,
         "text": "of Limhi.",
@@ -887,7 +880,7 @@
     "verse": 26,
     "lines": [
       {
-        "id": "204:15",
+        "id": "204:15b",
         "page": 204,
         "line": 15,
         "text": "And when the Lamanites saw the people of Limhi, ",

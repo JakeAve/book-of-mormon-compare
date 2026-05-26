@@ -5,7 +5,7 @@
     "verse": 1,
     "lines": [
       {
-        "id": "177:19",
+        "id": "177:19b",
         "page": 177,
         "line": 19,
         "text": "& now it came to pass that I received an epistle fr",
@@ -20,7 +20,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/177"
       },
       {
-        "id": "177:21",
+        "id": "177:21a",
         "page": 177,
         "line": 21,
         "text": "which we had taken that he would deliver up the city of Antiparah unto us",
@@ -34,7 +34,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "177:21",
+        "id": "177:21b",
         "page": 177,
         "line": 21,
         "text": "but I ",
@@ -63,7 +63,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/177"
       },
       {
-        "id": "177:25",
+        "id": "177:25a",
         "page": 177,
         "line": 25,
         "text": "exchange",
@@ -77,14 +77,14 @@
     "verse": 3,
     "lines": [
       {
-        "id": "177:25",
+        "id": "177:25b",
         "page": 177,
         "line": 25,
         "text": "& as Ammoron refused mine epistle for he would not exchange Prisoners ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/177"
       },
       {
-        "id": "177:26",
+        "id": "177:26a",
         "page": 177,
         "line": 26,
         "text": "therefore we began to make preperations to go against the city of Antiparah",
@@ -98,7 +98,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "177:26",
+        "id": "177:26b",
         "page": 177,
         "line": 26,
         "text": "but the Peo",
@@ -112,7 +112,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/177"
       },
       {
-        "id": "177:28",
+        "id": "177:28a",
         "page": 177,
         "line": 28,
         "text": "session of to fortify them & thus the City of Antiparah fell in to our hands",
@@ -126,17 +126,17 @@
     "verse": 5,
     "lines": [
       {
-        "id": "177:28",
+        "id": "177:28b",
         "page": 177,
         "line": 28,
         "text": "& thus ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/177"
       },
       {
-        "id": "177:29",
+        "id": "177:29a",
         "page": 177,
         "line": 29,
-        "text": "ended the twenty & eigth year of the Reign of the Judges & it came to pass that in",
+        "text": "ended the twenty & eigth year of the Reign of the Judges",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/177"
       }
     ]
@@ -146,6 +146,13 @@
     "chapter": 57,
     "verse": 6,
     "lines": [
+      {
+        "id": "177:29b",
+        "page": 177,
+        "line": 29,
+        "text": "& it came to pass that in ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/177"
+      },
       {
         "id": "177:30",
         "page": 177,
@@ -176,11 +183,11 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/177"
       },
       {
-        "id": "178:1",
+        "id": "178:1a",
         "page": 178,
         "line": 1,
-        "text": "which had come to join their Brethren my little band of two thousand& now behold we were strong yea & we had also a plenty of Provisions broughtunto us &",
-        "markdown": "{{which had come to join their Brethr}}en my little band of two thousan{{d& now behold we were strong yea}} & we had also ~~als~~[a plenty] of Provisions b{{roughtunto us & it came to pass <​that​> it was ou}}r desire~~s~~ to wedge a Battle ~~wich~~ [with] the ar{{my",
+        "text": "which had come to join their Brethren my little band of two thousand& now behold we were strong yea & we had also a plenty of Provisions broughtunto us",
+        "markdown": "{{which had come to join their Brethr}}en my little band of two thousan{{d& now behold we were strong yea}} & we had also ~~als~~[a plenty] of Provisions b{{roughtunto us & it came to pass <​that​> it was ou}}r desire~~s~~ to wedge a Battle ~~wich~~ [with] the",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/178"
       }
     ]
@@ -191,11 +198,11 @@
     "verse": 7,
     "lines": [
       {
-        "id": "178:1",
+        "id": "178:1b",
         "page": 178,
         "line": 1,
-        "text": "it came to pass <​that​> it was our desire to wedge a Battle with the army which was plased to protect the City Cumeni &",
-        "markdown": "which was plased to protect the Ci}}ty [Cumeni] & now behold I will shew unto you {{tha}}t",
+        "text": "& it came to pass <​that​> it was our desire to wedge a Battle with the army which was plased to protect the City Cumeni",
+        "markdown": "ar{{my which was plased to protect the Ci}}ty [Cumeni] & now behold I will shew unto you {{tha}}t",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/178"
       }
     ]
@@ -206,10 +213,10 @@
     "verse": 8,
     "lines": [
       {
-        "id": "178:1",
+        "id": "178:1c",
         "page": 178,
         "line": 1,
-        "text": "now behold I will shew unto you that ",
+        "text": "& now behold I will shew unto you that ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/178"
       },
       {
@@ -229,7 +236,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/178"
       },
       {
-        "id": "178:4",
+        "id": "178:4a",
         "page": 178,
         "line": 4,
         "text": "fore they were to receive a supply of provisions",
@@ -244,7 +251,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "178:4",
+        "id": "178:4b",
         "page": 178,
         "line": 4,
         "text": "& it came to pass that we ",
@@ -276,7 +283,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/178"
       },
       {
-        "id": "178:8",
+        "id": "178:8a",
         "page": 178,
         "line": 8,
         "text": "blood was spilt",
@@ -291,7 +298,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "178:8",
+        "id": "178:8b",
         "page": 178,
         "line": 8,
         "text": "at lengt their provisions did arive & they were about to en",
@@ -307,7 +314,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/178"
       },
       {
-        "id": "178:10",
+        "id": "178:10a",
         "page": 178,
         "line": 10,
         "text": "we did take them & their provisions",
@@ -322,7 +329,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "178:10",
+        "id": "178:10b",
         "page": 178,
         "line": 10,
         "text": "& notwithstanding the Lamanites being cut off ",
@@ -346,7 +353,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/178"
       },
       {
-        "id": "178:13",
+        "id": "178:13a",
         "page": 178,
         "line": 13,
         "text": "send then to Judeah & our Prisoners to the land of Zarahemla",
@@ -361,7 +368,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "178:13",
+        "id": "178:13b",
         "page": 178,
         "line": 13,
         "text": "& it came to pass th",
@@ -384,7 +391,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/178"
       },
       {
-        "id": "178:16",
+        "id": "178:16a",
         "page": 178,
         "line": 16,
         "text": "designs in obtaining the city Cumeni",
@@ -399,7 +406,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "178:16",
+        "id": "178:16b",
         "page": 178,
         "line": 16,
         "text": "but it came to pass that our Prisoners ",
@@ -415,11 +422,11 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/178"
       },
       {
-        "id": "178:18",
+        "id": "178:18a",
         "page": 178,
         "line": 18,
-        "text": "ged to employ all our forc to keep them or put them to death for",
-        "markdown": "ged to employ all our ~~forces t ~~ [forc to] keep them or ~~to~~ [put] them to death for",
+        "text": "ged to employ all our forc to keep them or put them to death",
+        "markdown": "ged to employ all our ~~forces t ~~ [forc to] keep them or ~~to~~ [put] them to death",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/178"
       }
     ]
@@ -430,10 +437,10 @@
     "verse": 14,
     "lines": [
       {
-        "id": "178:18",
+        "id": "178:18b",
         "page": 178,
         "line": 18,
-        "text": "be hold they ",
+        "text": "for be hold they ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/178"
       },
       {
@@ -459,7 +466,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/178"
       },
       {
-        "id": "178:22",
+        "id": "178:22a",
         "page": 178,
         "line": 22,
         "text": "isoners of war",
@@ -474,7 +481,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "178:22",
+        "id": "178:22b",
         "page": 178,
         "line": 22,
         "text": "therefore it became expediant for us that we should put an ",
@@ -497,7 +504,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/178"
       },
       {
-        "id": "178:25",
+        "id": "178:25a",
         "page": 178,
         "line": 25,
         "text": "withstanding that which we had taken from the Lamanites",
@@ -511,7 +518,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "178:25",
+        "id": "178:25b",
         "page": 178,
         "line": 25,
         "text": "& now in those ",
@@ -539,7 +546,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/178"
       },
       {
-        "id": "178:29",
+        "id": "178:29a",
         "page": 178,
         "line": 29,
         "text": "them charge over our Prisoners to go down to the Land of Zarahemla",
@@ -554,7 +561,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "178:29",
+        "id": "178:29b",
         "page": 178,
         "line": 29,
         "text": "but it came ",
@@ -582,7 +589,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/178"
       },
       {
-        "id": "179:1",
+        "id": "179:1a",
         "page": 179,
         "line": 1,
         "text": "Ammoron had sent to their support a new supply of Provisions & alsoa numerous army of men",
@@ -597,7 +604,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "179:1",
+        "id": "179:1b",
         "page": 179,
         "line": 1,
         "text": "& it came to pass that those men which we sent withthe Prisoners did arive in season to check them as they were about to over power",
@@ -612,7 +619,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "179:1",
+        "id": "179:1c",
         "page": 179,
         "line": 1,
         "text": "usbut Behold my little band of twothousand & sixty faught most desper",
@@ -628,7 +635,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/179"
       },
       {
-        "id": "179:3",
+        "id": "179:3a",
         "page": 179,
         "line": 3,
         "text": "all those who opposed them",
@@ -643,7 +650,7 @@
     "verse": 20,
     "lines": [
       {
-        "id": "179:3",
+        "id": "179:3b",
         "page": 179,
         "line": 3,
         "text": "& as the remainder of our army were about to give ",
@@ -659,7 +666,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/179"
       },
       {
-        "id": "179:5",
+        "id": "179:5a",
         "page": 179,
         "line": 5,
         "text": "nted",
@@ -673,7 +680,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "179:5",
+        "id": "179:5b",
         "page": 179,
         "line": 5,
         "text": "yea & they did obey & observe to perform every word of command ",
@@ -728,7 +735,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/179"
       },
       {
-        "id": "179:11",
+        "id": "179:11a",
         "page": 179,
         "line": 11,
         "text": "anti",
@@ -742,7 +749,7 @@
     "verse": 23,
     "lines": [
       {
-        "id": "179:11",
+        "id": "179:11b",
         "page": 179,
         "line": 11,
         "text": "& we retained our City Cumeni & were not all destroid by the sword never",
@@ -750,7 +757,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/179"
       },
       {
-        "id": "179:12",
+        "id": "179:12a",
         "page": 179,
         "line": 12,
         "text": "theless we had suffered great loss",
@@ -765,7 +772,7 @@
     "verse": 24,
     "lines": [
       {
-        "id": "179:12",
+        "id": "179:12b",
         "page": 179,
         "line": 12,
         "text": "& it came to pass that after the Lamanites had ",
@@ -789,7 +796,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/179"
       },
       {
-        "id": "179:15",
+        "id": "179:15a",
         "page": 179,
         "line": 15,
         "text": "dressed",
@@ -803,7 +810,7 @@
     "verse": 25,
     "lines": [
       {
-        "id": "179:15",
+        "id": "179:15b",
         "page": 179,
         "line": 15,
         "text": "& it came to pass that there were two hundred out of my twothousand ",
@@ -833,7 +840,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/179"
       },
       {
-        "id": "179:19",
+        "id": "179:19a",
         "page": 179,
         "line": 19,
         "text": "l among them which had not received many wounds",
@@ -847,7 +854,7 @@
     "verse": 26,
     "lines": [
       {
-        "id": "179:19",
+        "id": "179:19b",
         "page": 179,
         "line": 19,
         "text": "& now there preservation was ",
@@ -882,7 +889,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/179"
       },
       {
-        "id": "179:24",
+        "id": "179:24a",
         "page": 179,
         "line": 24,
         "text": "uld be preserved by his marvelous power",
@@ -896,7 +903,7 @@
     "verse": 27,
     "lines": [
       {
-        "id": "179:24",
+        "id": "179:24b",
         "page": 179,
         "line": 24,
         "text": "now this was the faith of these of which ",
@@ -911,7 +918,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/179"
       },
       {
-        "id": "179:26",
+        "id": "179:26a",
         "page": 179,
         "line": 26,
         "text": "in God continually",
@@ -925,7 +932,7 @@
     "verse": 28,
     "lines": [
       {
-        "id": "179:26",
+        "id": "179:26b",
         "page": 179,
         "line": 26,
         "text": "& now it came to pass that after we had thus taken care of ",
@@ -946,7 +953,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/179"
       },
       {
-        "id": "179:29",
+        "id": "179:29a",
         "page": 179,
         "line": 29,
         "text": "ich they had started to go down to the land of Zarahemla with",
@@ -960,7 +967,7 @@
     "verse": 29,
     "lines": [
       {
-        "id": "179:29",
+        "id": "179:29b",
         "page": 179,
         "line": 29,
         "text": "now Gid w",
@@ -968,7 +975,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/179"
       },
       {
-        "id": "179:30",
+        "id": "179:30a",
         "page": 179,
         "line": 30,
         "text": "as the Chief Captain over the band which was appointed to guard them downto that land",
@@ -983,7 +990,7 @@
     "verse": 30,
     "lines": [
       {
-        "id": "179:30",
+        "id": "179:30b",
         "page": 179,
         "line": 30,
         "text": "& now these are the words which Gid said unto me behold we di",
@@ -999,11 +1006,11 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/179"
       },
       {
-        "id": "180:1",
+        "id": "180:1a",
         "page": 180,
         "line": 1,
-        "text": "that we did meet the spies of our armies which had been sent out to watchthe camp of the Lamanites &",
-        "markdown": "{{that we did meet the spies of o}}ur armies which had been sent out t{{o watchthe camp of the Lamanites &",
+        "text": "that we did meet the spies of our armies which had been sent out to watchthe camp of the Lamanites",
+        "markdown": "{{that we did meet the spies of o}}ur armies which had been sent out t{{o watchthe camp of the Lamanites",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/180"
       }
     ]
@@ -1014,11 +1021,11 @@
     "verse": 31,
     "lines": [
       {
-        "id": "180:1",
+        "id": "180:1b",
         "page": 180,
         "line": 1,
-        "text": "they cried u[n]to us saying behold the armies of theLamanites are a marching towards the city of Cumeni & behold they will fallupon them yea & will destroy our People & it",
-        "markdown": "they}} cried u[n]to us saying behold ~~arm~~ [the] arm{{ies of theLamanites are a marching towards}} the city of Cumeni & behold they w{{ill fallupon them yea & will destroy our}} People & it",
+        "text": "& they cried u[n]to us saying behold the armies of theLamanites are a marching towards the city of Cumeni & behold they will fallupon them yea & will destroy our People",
+        "markdown": "& they}} cried u[n]to us saying behold ~~arm~~ [the] arm{{ies of theLamanites are a marching towards}} the city of Cumeni & behold they w{{ill fallupon them yea & will destroy our}} People",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/180"
       }
     ]
@@ -1029,15 +1036,15 @@
     "verse": 32,
     "lines": [
       {
-        "id": "180:1",
+        "id": "180:1c",
         "page": 180,
         "line": 1,
-        "text": "came to pass that our Prisoners didhear their cries which caused them to take courage & they did raise up in rebell",
-        "markdown": "came to pass that our Priso{{ners didhear their cries which caused the}}m to take courage & they did raise up in rebell",
+        "text": "& it came to pass that our Prisoners didhear their cries which caused them to take courage & they did raise up in rebell",
+        "markdown": "& it came to pass that our Priso{{ners didhear their cries which caused the}}m to take courage & they did raise up in rebell",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/180"
       },
       {
-        "id": "180:2",
+        "id": "180:2a",
         "page": 180,
         "line": 2,
         "text": "ion against us",
@@ -1052,7 +1059,7 @@
     "verse": 33,
     "lines": [
       {
-        "id": "180:2",
+        "id": "180:2b",
         "page": 180,
         "line": 2,
         "text": "& it came to pass because of their rebellion we did cause that ",
@@ -1076,7 +1083,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/180"
       },
       {
-        "id": "180:5",
+        "id": "180:5a",
         "page": 180,
         "line": 5,
         "text": "in & the remainder <​of them​> brake through & fled from us",
@@ -1091,7 +1098,7 @@
     "verse": 34,
     "lines": [
       {
-        "id": "180:5",
+        "id": "180:5b",
         "page": 180,
         "line": 5,
         "text": "& behold when they had ",
@@ -1114,7 +1121,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/180"
       },
       {
-        "id": "180:8",
+        "id": "180:8a",
         "page": 180,
         "line": 8,
         "text": "ist our Brethren in preserveing the city",
@@ -1129,7 +1136,7 @@
     "verse": 35,
     "lines": [
       {
-        "id": "180:8",
+        "id": "180:8b",
         "page": 180,
         "line": 8,
         "text": "& behold we are again delivered out ",
@@ -1144,7 +1151,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/180"
       },
       {
-        "id": "180:10",
+        "id": "180:10a",
         "page": 180,
         "line": 10,
         "text": "that hath delivered us yea that hath done this great thing for us",
@@ -1159,7 +1166,7 @@
     "verse": 36,
     "lines": [
       {
-        "id": "180:10",
+        "id": "180:10b",
         "page": 180,
         "line": 10,
         "text": "now it came ",
@@ -1190,7 +1197,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/180"
       },
       {
-        "id": "180:14",
+        "id": "180:14a",
         "page": 180,
         "line": 14,
         "text": "ve entered into the rest of their God",

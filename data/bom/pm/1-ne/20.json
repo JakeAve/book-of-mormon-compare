@@ -5,7 +5,7 @@
     "verse": 1,
     "lines": [
       {
-        "id": "44:31",
+        "id": "44:31b",
         "page": 44,
         "line": 31,
         "text": "hearken & hear this O house of Jacob which are called ",
@@ -27,7 +27,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/44"
       },
       {
-        "id": "44:34",
+        "id": "44:34a",
         "page": 44,
         "line": 34,
         "text": "ey swear not in truth nor in righteousness",
@@ -41,7 +41,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "44:34",
+        "id": "44:34b",
         "page": 44,
         "line": 34,
         "text": "nevertheless they call the",
@@ -55,10 +55,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/44"
       },
       {
-        "id": "44:36",
+        "id": "44:36a",
         "page": 44,
         "line": 36,
-        "text": "Israel which is the Lord of hosts yea the Lord of hoasts is his name beho",
+        "text": "Israel which is the Lord of hosts yea the Lord of hoasts is his name",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/44"
       }
     ]
@@ -69,6 +69,13 @@
     "verse": 3,
     "lines": [
       {
+        "id": "44:36b",
+        "page": 44,
+        "line": 36,
+        "text": "beho",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/44"
+      },
+      {
         "id": "45:1",
         "page": 45,
         "line": 1,
@@ -76,7 +83,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/45"
       },
       {
-        "id": "45:2",
+        "id": "45:2a",
         "page": 45,
         "line": 2,
         "text": "out of my mouth & I shewed them I did shew them suddenly",
@@ -90,7 +97,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "45:2",
+        "id": "45:2b",
         "page": 45,
         "line": 2,
         "text": "& I did it ",
@@ -104,7 +111,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/45"
       },
       {
-        "id": "45:4",
+        "id": "45:4a",
         "page": 45,
         "line": 4,
         "text": "thy brow brass",
@@ -119,7 +126,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "45:4",
+        "id": "45:4b",
         "page": 45,
         "line": 4,
         "text": "& I have even from the beginning declared to thee befo",
@@ -140,7 +147,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/45"
       },
       {
-        "id": "45:7",
+        "id": "45:7a",
         "page": 45,
         "line": 7,
         "text": "oulton image hath commanded them",
@@ -154,7 +161,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "45:7",
+        "id": "45:7b",
         "page": 45,
         "line": 7,
         "text": "thou hast seen & heard all this & w",
@@ -168,7 +175,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/45"
       },
       {
-        "id": "45:9",
+        "id": "45:9a",
         "page": 45,
         "line": 9,
         "text": "time even hiden things & thou didst not know them",
@@ -182,7 +189,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "45:9",
+        "id": "45:9b",
         "page": 45,
         "line": 9,
         "text": "they are created ",
@@ -203,7 +210,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/45"
       },
       {
-        "id": "45:12",
+        "id": "45:12a",
         "page": 45,
         "line": 12,
         "text": "I knew them",
@@ -217,7 +224,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "45:12",
+        "id": "45:12b",
         "page": 45,
         "line": 12,
         "text": "yea & thou heardest not yea thou knewest not yea from that time ",
@@ -231,7 +238,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/45"
       },
       {
-        "id": "45:14",
+        "id": "45:14a",
         "page": 45,
         "line": 14,
         "text": "sly & wast called a transgressor from thy womb",
@@ -245,10 +252,10 @@
     "verse": 9,
     "lines": [
       {
-        "id": "45:14",
+        "id": "45:14b",
         "page": 45,
         "line": 14,
-        "text": "nevertheless for <​my ​> ",
+        "text": "nevertheless for <​my name ",
         "markdown": "nevertheless for ~~thy~~ <​my ~~name~~​> name ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/45"
       },
@@ -260,7 +267,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/45"
       },
       {
-        "id": "45:16",
+        "id": "45:16a",
         "page": 45,
         "line": 16,
         "text": "t thee not off",
@@ -274,14 +281,14 @@
     "verse": 10,
     "lines": [
       {
-        "id": "45:16",
+        "id": "45:16b",
         "page": 45,
         "line": 16,
         "text": "for behold I have refined thee I have chosen thee in the furna",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/45"
       },
       {
-        "id": "45:17",
+        "id": "45:17a",
         "page": 45,
         "line": 17,
         "text": "ce of affliction",
@@ -295,7 +302,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "45:17",
+        "id": "45:17b",
         "page": 45,
         "line": 17,
         "text": "for mine own sake yea for mine own sake will I do this for ",
@@ -309,7 +316,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/45"
       },
       {
-        "id": "45:19",
+        "id": "45:19a",
         "page": 45,
         "line": 19,
         "text": "other",
@@ -323,14 +330,14 @@
     "verse": 12,
     "lines": [
       {
-        "id": "45:19",
+        "id": "45:19b",
         "page": 45,
         "line": 19,
         "text": "hearken unto me O Jacob & Israel my called for I am he & I am the first ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/45"
       },
       {
-        "id": "45:20",
+        "id": "45:20a",
         "page": 45,
         "line": 20,
         "text": "& I am also the last",
@@ -344,7 +351,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "45:20",
+        "id": "45:20b",
         "page": 45,
         "line": 20,
         "text": "mine hand hath also laid the foundation of the earth ",
@@ -359,7 +366,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/45"
       },
       {
-        "id": "45:22",
+        "id": "45:22a",
         "page": 45,
         "line": 22,
         "text": "d up together",
@@ -373,7 +380,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "45:22",
+        "id": "45:22b",
         "page": 45,
         "line": 22,
         "text": "all ye assemble yourselves & hear which among them hath ",
@@ -394,7 +401,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/45"
       },
       {
-        "id": "45:25",
+        "id": "45:25a",
         "page": 45,
         "line": 25,
         "text": "Babylon & his arm shall come upon the Chaldeans",
@@ -408,7 +415,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "45:25",
+        "id": "45:25b",
         "page": 45,
         "line": 25,
         "text": "also saith the Lord I the ",
@@ -422,7 +429,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/45"
       },
       {
-        "id": "45:27",
+        "id": "45:27a",
         "page": 45,
         "line": 27,
         "text": "& he shall make his way prosperous",
@@ -436,7 +443,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "45:27",
+        "id": "45:27b",
         "page": 45,
         "line": 27,
         "text": "come ye near unto me I have not spoke",
@@ -450,7 +457,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/45"
       },
       {
-        "id": "45:29",
+        "id": "45:29a",
         "page": 45,
         "line": 29,
         "text": "I spoken & the Lord God & his spirit hath sent me",
@@ -464,7 +471,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "45:29",
+        "id": "45:29b",
         "page": 45,
         "line": 29,
         "text": "& thus saith the Lord thy ",
@@ -485,7 +492,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/45"
       },
       {
-        "id": "45:32",
+        "id": "45:32a",
         "page": 45,
         "line": 32,
         "text": "done it",
@@ -499,14 +506,14 @@
     "verse": 18,
     "lines": [
       {
-        "id": "45:32",
+        "id": "45:32b",
         "page": 45,
         "line": 32,
         "text": "O that thou hadst hearkened to my commandments then had thy ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/45"
       },
       {
-        "id": "45:33",
+        "id": "45:33a",
         "page": 45,
         "line": 33,
         "text": "peace been as a river & thy righteousness as the waves of the Sea",
@@ -520,7 +527,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "45:33",
+        "id": "45:33b",
         "page": 45,
         "line": 33,
         "text": "thy seed al",
@@ -534,7 +541,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/45"
       },
       {
-        "id": "45:35",
+        "id": "45:35a",
         "page": 45,
         "line": 35,
         "text": "his name should not have been cut off nor destroid from before me",
@@ -548,7 +555,7 @@
     "verse": 20,
     "lines": [
       {
-        "id": "45:35",
+        "id": "45:35b",
         "page": 45,
         "line": 35,
         "text": "go ",
@@ -569,7 +576,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/46"
       },
       {
-        "id": "46:2",
+        "id": "46:2a",
         "page": 46,
         "line": 2,
         "text": "redeemed his servant Jacob",
@@ -583,7 +590,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "46:2",
+        "id": "46:2b",
         "page": 46,
         "line": 2,
         "text": "& they thirsted not he lead them through the de",
@@ -597,7 +604,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/46"
       },
       {
-        "id": "46:4",
+        "id": "46:4a",
         "page": 46,
         "line": 4,
         "text": "ck also & the waters gushed out",
@@ -611,14 +618,14 @@
     "verse": 22,
     "lines": [
       {
-        "id": "46:4",
+        "id": "46:4b",
         "page": 46,
         "line": 4,
         "text": "& notwithstanding he hath done all this & grea",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/46"
       },
       {
-        "id": "46:5",
+        "id": "46:5a",
         "page": 46,
         "line": 5,
         "text": "ter also there is no peace saith the Lord unto the wicked",

@@ -5,7 +5,7 @@
     "verse": 1,
     "lines": [
       {
-        "id": "492:33",
+        "id": "492:33b",
         "page": 492,
         "line": 33,
         "text": "And now behold there was not a living soul ",
@@ -33,7 +33,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/492"
       },
       {
-        "id": "492:37",
+        "id": "492:37a",
         "page": 492,
         "line": 37,
         "text": "they must be fulfilled:",
@@ -47,7 +47,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "492:37",
+        "id": "492:37b",
         "page": 492,
         "line": 37,
         "text": "and they knew that it must be ",
@@ -89,7 +89,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/492"
       },
       {
-        "id": "492:43",
+        "id": "492:43a",
         "page": 492,
         "line": 43,
         "text": "which had been spoken;",
@@ -103,7 +103,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "492:43",
+        "id": "492:43b",
         "page": 492,
         "line": 43,
         "text": "therefore they did forsake all ",
@@ -180,7 +180,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/493"
       },
       {
-        "id": "493:7",
+        "id": "493:7a",
         "page": 493,
         "line": 7,
         "text": "murder no more, were set at liberty;",
@@ -194,7 +194,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "493:7",
+        "id": "493:7b",
         "page": 493,
         "line": 7,
         "text": "but as many as ",
@@ -229,7 +229,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/493"
       },
       {
-        "id": "493:12",
+        "id": "493:12a",
         "page": 493,
         "line": 12,
         "text": "and punished according to the law.",
@@ -243,7 +243,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "493:12",
+        "id": "493:12b",
         "page": 493,
         "line": 12,
         "text": "And thus they ",
@@ -299,7 +299,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/493"
       },
       {
-        "id": "493:19",
+        "id": "493:19a",
         "page": 493,
         "line": 19,
         "text": "had twenty and five years passed away,",
@@ -313,7 +313,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "493:19",
+        "id": "493:19b",
         "page": 493,
         "line": 19,
         "text": "and there had ",
@@ -355,7 +355,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/493"
       },
       {
-        "id": "493:25",
+        "id": "493:25a",
         "page": 493,
         "line": 25,
         "text": "five years;",
@@ -369,7 +369,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "493:25",
+        "id": "493:25b",
         "page": 493,
         "line": 25,
         "text": "but behold there are records which do con",
@@ -383,10 +383,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/493"
       },
       {
-        "id": "493:27",
+        "id": "493:27a",
         "page": 493,
         "line": 27,
-        "text": "short but a true account was given by Nephi; there",
+        "text": "short but a true account was given by Nephi;",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/493"
       }
     ]
@@ -396,6 +396,13 @@
     "chapter": 5,
     "verse": 10,
     "lines": [
+      {
+        "id": "493:27b",
+        "page": 493,
+        "line": 27,
+        "text": "there",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/493"
+      },
       {
         "id": "493:28",
         "page": 493,
@@ -411,7 +418,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/493"
       },
       {
-        "id": "493:30",
+        "id": "493:30a",
         "page": 493,
         "line": 30,
         "text": "plates which were called the plates of Nephi.",
@@ -425,7 +432,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "493:30",
+        "id": "493:30b",
         "page": 493,
         "line": 30,
         "text": "And ",
@@ -439,7 +446,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/493"
       },
       {
-        "id": "493:32",
+        "id": "493:32a",
         "page": 493,
         "line": 32,
         "text": "made with mine own hands.",
@@ -453,7 +460,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "493:32",
+        "id": "493:32b",
         "page": 493,
         "line": 32,
         "text": "And behold, I am call",
@@ -481,10 +488,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/493"
       },
       {
-        "id": "493:36",
+        "id": "493:36a",
         "page": 493,
         "line": 36,
-        "text": "established among them after their transgression. Be",
+        "text": "established among them after their transgression.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/493"
       }
     ]
@@ -494,6 +501,13 @@
     "chapter": 5,
     "verse": 13,
     "lines": [
+      {
+        "id": "493:36b",
+        "page": 493,
+        "line": 36,
+        "text": "Be",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/493"
+      },
       {
         "id": "493:37",
         "page": 493,
@@ -551,7 +565,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/493"
       },
       {
-        "id": "493:44",
+        "id": "493:44a",
         "page": 493,
         "line": 44,
         "text": "things which have been done;",
@@ -565,7 +579,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "493:44",
+        "id": "493:44b",
         "page": 493,
         "line": 44,
         "text": "yea, a small record of ",
@@ -607,7 +621,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/494"
       },
       {
-        "id": "494:2",
+        "id": "494:2a",
         "page": 494,
         "line": 2,
         "text": "until the commencement of my day;",
@@ -621,7 +635,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "494:2",
+        "id": "494:2b",
         "page": 494,
         "line": 2,
         "text": "and then I do ",
@@ -635,7 +649,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/494"
       },
       {
-        "id": "494:4",
+        "id": "494:4a",
         "page": 494,
         "line": 4,
         "text": "mine own eyes.",
@@ -649,7 +663,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "494:4",
+        "id": "494:4b",
         "page": 494,
         "line": 4,
         "text": "And I know the record which I ",
@@ -670,7 +684,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/494"
       },
       {
-        "id": "494:7",
+        "id": "494:7a",
         "page": 494,
         "line": 7,
         "text": "guage, we are not able to write.",
@@ -684,7 +698,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "494:7",
+        "id": "494:7b",
         "page": 494,
         "line": 7,
         "text": "And now I make an ",
@@ -705,7 +719,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/494"
       },
       {
-        "id": "494:10",
+        "id": "494:10a",
         "page": 494,
         "line": 10,
         "text": "me.",
@@ -719,7 +733,7 @@
     "verse": 20,
     "lines": [
       {
-        "id": "494:10",
+        "id": "494:10b",
         "page": 494,
         "line": 10,
         "text": "I am Mormon, and a pure descendant of Lehi.— ",
@@ -761,7 +775,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/494"
       },
       {
-        "id": "494:16",
+        "id": "494:16a",
         "page": 494,
         "line": 16,
         "text": "unto the salvation of our souls.",
@@ -775,7 +789,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "494:16",
+        "id": "494:16b",
         "page": 494,
         "line": 16,
         "text": "Surely he hath bles",
@@ -789,7 +803,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/494"
       },
       {
-        "id": "494:18",
+        "id": "494:18a",
         "page": 494,
         "line": 18,
         "text": "the seed of Joseph.",
@@ -803,7 +817,7 @@
     "verse": 22,
     "lines": [
       {
-        "id": "494:18",
+        "id": "494:18b",
         "page": 494,
         "line": 18,
         "text": "And insomuch as the children of ",
@@ -817,7 +831,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/494"
       },
       {
-        "id": "494:20",
+        "id": "494:20a",
         "page": 494,
         "line": 20,
         "text": "them and prospered them according to his word;",
@@ -831,7 +845,7 @@
     "verse": 23,
     "lines": [
       {
-        "id": "494:20",
+        "id": "494:20b",
         "page": 494,
         "line": 20,
         "text": "yea, ",
@@ -880,7 +894,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/494"
       },
       {
-        "id": "494:26",
+        "id": "494:26a",
         "page": 494,
         "line": 26,
         "text": "face of the earth;",
@@ -894,7 +908,7 @@
     "verse": 25,
     "lines": [
       {
-        "id": "494:26",
+        "id": "494:26b",
         "page": 494,
         "line": 26,
         "text": "and as he hath covenanted with all ",
@@ -929,7 +943,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/494"
       },
       {
-        "id": "494:31",
+        "id": "494:31a",
         "page": 494,
         "line": 31,
         "text": "that he hath covenanted with them;",
@@ -943,7 +957,7 @@
     "verse": 26,
     "lines": [
       {
-        "id": "494:31",
+        "id": "494:31b",
         "page": 494,
         "line": 31,
         "text": "and then shall ",
@@ -981,14 +995,7 @@
         "id": "494:36",
         "page": 494,
         "line": 36,
-        "text": "Lord liveth, so shall it be. Amen. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/494"
-      },
-      {
-        "id": "494:37",
-        "page": 494,
-        "line": 37,
-        "text": "CHAPTER III.",
+        "text": "Lord liveth, so shall it be. Amen.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/494"
       }
     ]

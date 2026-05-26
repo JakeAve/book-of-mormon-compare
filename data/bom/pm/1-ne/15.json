@@ -12,7 +12,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/29"
       },
       {
-        "id": "29:25",
+        "id": "29:25a",
         "page": 29,
         "line": 25,
         "text": "& seen all these things I returned to the tent of my father",
@@ -26,7 +26,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "29:25",
+        "id": "29:25b",
         "page": 29,
         "line": 25,
         "text": "& it came to pass that ",
@@ -40,7 +40,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/29"
       },
       {
-        "id": "29:27",
+        "id": "29:27a",
         "page": 29,
         "line": 27,
         "text": "things which my father had spoken unto them",
@@ -54,7 +54,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "29:27",
+        "id": "29:27b",
         "page": 29,
         "line": 27,
         "text": "for he truly spake many great ",
@@ -75,7 +75,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/29"
       },
       {
-        "id": "29:30",
+        "id": "29:30a",
         "page": 29,
         "line": 30,
         "text": "k unto the Lord as they had ought",
@@ -89,7 +89,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "29:30",
+        "id": "29:30b",
         "page": 29,
         "line": 30,
         "text": "& now I Nephi was grieved because of ",
@@ -110,7 +110,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/29"
       },
       {
-        "id": "29:33",
+        "id": "29:33a",
         "page": 29,
         "line": 33,
         "text": "s of the children of men",
@@ -124,7 +124,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "29:33",
+        "id": "29:33b",
         "page": 29,
         "line": 33,
         "text": "& it came to pass that I was overcome because ",
@@ -167,7 +167,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/30"
       },
       {
-        "id": "30:2",
+        "id": "30:2a",
         "page": 30,
         "line": 2,
         "text": "thren desireing to know of them the cause of their disputeations",
@@ -181,7 +181,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "30:2",
+        "id": "30:2b",
         "page": 30,
         "line": 2,
         "text": "& they ",
@@ -203,7 +203,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/30"
       },
       {
-        "id": "30:5",
+        "id": "30:5a",
         "page": 30,
         "line": 5,
         "text": "tiles",
@@ -217,7 +217,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "30:5",
+        "id": "30:5b",
         "page": 30,
         "line": 5,
         "text": "& I said unto them have ye enquired of the Lord",
@@ -231,17 +231,17 @@
     "verse": 9,
     "lines": [
       {
-        "id": "30:5",
+        "id": "30:5c",
         "page": 30,
         "line": 5,
         "text": "& they said unto m",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/30"
       },
       {
-        "id": "30:6",
+        "id": "30:6a",
         "page": 30,
         "line": 6,
-        "text": "e we have not for the Lord maketh no such thing known unto us beho",
+        "text": "e we have not for the Lord maketh no such thing known unto us",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/30"
       }
     ]
@@ -251,6 +251,13 @@
     "chapter": 15,
     "verse": 10,
     "lines": [
+      {
+        "id": "30:6b",
+        "page": 30,
+        "line": 6,
+        "text": "beho",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/30"
+      },
       {
         "id": "30:7",
         "page": 30,
@@ -266,7 +273,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/30"
       },
       {
-        "id": "30:9",
+        "id": "30:9a",
         "page": 30,
         "line": 9,
         "text": "rts",
@@ -280,7 +287,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "30:9",
+        "id": "30:9b",
         "page": 30,
         "line": 9,
         "text": "do ye not remember the thing which the Lord hath said if ye will ",
@@ -302,7 +309,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/30"
       },
       {
-        "id": "30:12",
+        "id": "30:12a",
         "page": 30,
         "line": 12,
         "text": "ings shall be made known unto you",
@@ -316,7 +323,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "30:12",
+        "id": "30:12b",
         "page": 30,
         "line": 12,
         "text": "behold I say unto you that the Ho",
@@ -338,7 +345,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/30"
       },
       {
-        "id": "30:15",
+        "id": "30:15a",
         "page": 30,
         "line": 15,
         "text": "House of Israel & are we not a branch of the House of Israel",
@@ -352,7 +359,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "30:15",
+        "id": "30:15b",
         "page": 30,
         "line": 15,
         "text": "& now the ",
@@ -402,7 +409,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/30"
       },
       {
-        "id": "30:22",
+        "id": "30:22a",
         "page": 30,
         "line": 22,
         "text": "nt of our seed",
@@ -416,7 +423,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "30:22",
+        "id": "30:22b",
         "page": 30,
         "line": 22,
         "text": "& at that day shall the remnant of our seed know that ",
@@ -459,7 +466,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/30"
       },
       {
-        "id": "30:28",
+        "id": "30:28a",
         "page": 30,
         "line": 28,
         "text": "know how to come unto him & be saved",
@@ -473,7 +480,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "30:28",
+        "id": "30:28b",
         "page": 30,
         "line": 28,
         "text": "& then at that day will they not ",
@@ -523,7 +530,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/30"
       },
       {
-        "id": "30:34",
+        "id": "30:34a",
         "page": 30,
         "line": 34,
         "text": "of the Olive tree into the true Olive tree",
@@ -537,7 +544,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "30:34",
+        "id": "30:34b",
         "page": 30,
         "line": 34,
         "text": "& this is what our father mean",
@@ -573,7 +580,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/31"
       },
       {
-        "id": "31:2",
+        "id": "31:2a",
         "page": 31,
         "line": 2,
         "text": "Israel",
@@ -587,7 +594,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "31:2",
+        "id": "31:2b",
         "page": 31,
         "line": 2,
         "text": "wherefore our father hath not spoken of our seed alone but also of all the Hou",
@@ -608,7 +615,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/31"
       },
       {
-        "id": "31:5",
+        "id": "31:5a",
         "page": 31,
         "line": 5,
         "text": "d shall all the Kindreds of the earth be blessed",
@@ -622,7 +629,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "31:5",
+        "id": "31:5b",
         "page": 31,
         "line": 5,
         "text": "& it came to pass that I Nephi ",
@@ -636,7 +643,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/31"
       },
       {
-        "id": "31:7",
+        "id": "31:7a",
         "page": 31,
         "line": 7,
         "text": "cerning the restoration of the Jews in the latter days",
@@ -651,7 +658,7 @@
     "verse": 20,
     "lines": [
       {
-        "id": "31:7",
+        "id": "31:7b",
         "page": 31,
         "line": 7,
         "text": "& I did rehears unto ",
@@ -686,7 +693,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/31"
       },
       {
-        "id": "31:12",
+        "id": "31:12a",
         "page": 31,
         "line": 12,
         "text": "passified & did humble themselves before the Lord",
@@ -700,7 +707,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "31:12",
+        "id": "31:12b",
         "page": 31,
         "line": 12,
         "text": "& it came to pass that they ",
@@ -715,7 +722,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/31"
       },
       {
-        "id": "31:14",
+        "id": "31:14a",
         "page": 31,
         "line": 14,
         "text": "saw in a dream what meaneth the tree which he saw",
@@ -729,14 +736,14 @@
     "verse": 22,
     "lines": [
       {
-        "id": "31:14",
+        "id": "31:14b",
         "page": 31,
         "line": 14,
         "text": "& I said unto them ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/31"
       },
       {
-        "id": "31:15",
+        "id": "31:15a",
         "page": 31,
         "line": 15,
         "text": "it was a representation of the tree of life",
@@ -750,14 +757,14 @@
     "verse": 23,
     "lines": [
       {
-        "id": "31:15",
+        "id": "31:15b",
         "page": 31,
         "line": 15,
         "text": "& they said unto me what mea",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/31"
       },
       {
-        "id": "31:16",
+        "id": "31:16a",
         "page": 31,
         "line": 16,
         "text": "neth the rod of iron which our father saw that lead to the tree",
@@ -771,7 +778,7 @@
     "verse": 24,
     "lines": [
       {
-        "id": "31:16",
+        "id": "31:16b",
         "page": 31,
         "line": 16,
         "text": "& I said ",
@@ -799,7 +806,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/31"
       },
       {
-        "id": "31:20",
+        "id": "31:20a",
         "page": 31,
         "line": 20,
         "text": "ess to lead them away to destruction",
@@ -813,7 +820,7 @@
     "verse": 25,
     "lines": [
       {
-        "id": "31:20",
+        "id": "31:20b",
         "page": 31,
         "line": 20,
         "text": "wherefore I Nephi did exhort them to ",
@@ -841,7 +848,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/31"
       },
       {
-        "id": "31:24",
+        "id": "31:24a",
         "page": 31,
         "line": 24,
         "text": "in all things",
@@ -855,14 +862,14 @@
     "verse": 26,
     "lines": [
       {
-        "id": "31:24",
+        "id": "31:24b",
         "page": 31,
         "line": 24,
         "text": "& they said unto me what meaneth the river of water which ou",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/31"
       },
       {
-        "id": "31:25",
+        "id": "31:25a",
         "page": 31,
         "line": 25,
         "text": "r father saw",
@@ -876,7 +883,7 @@
     "verse": 27,
     "lines": [
       {
-        "id": "31:25",
+        "id": "31:25b",
         "page": 31,
         "line": 25,
         "text": "& I said unto them that the water which my father saw was ",
@@ -890,7 +897,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/31"
       },
       {
-        "id": "31:27",
+        "id": "31:27a",
         "page": 31,
         "line": 27,
         "text": "beheld not the filthiness of the water",
@@ -904,7 +911,7 @@
     "verse": 28,
     "lines": [
       {
-        "id": "31:27",
+        "id": "31:27b",
         "page": 31,
         "line": 27,
         "text": "& I said unto them that it was an ",
@@ -918,7 +925,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/31"
       },
       {
-        "id": "31:29",
+        "id": "31:29a",
         "page": 31,
         "line": 29,
         "text": "the Saints of God",
@@ -932,14 +939,14 @@
     "verse": 29,
     "lines": [
       {
-        "id": "31:29",
+        "id": "31:29b",
         "page": 31,
         "line": 29,
         "text": "& I said unto them that it was a representation of that ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/31"
       },
       {
-        "id": "31:30",
+        "id": "31:30a",
         "page": 31,
         "line": 30,
         "text": "awful Hell which the Angel said unto me was prepared for the wicked",
@@ -953,7 +960,7 @@
     "verse": 30,
     "lines": [
       {
-        "id": "31:30",
+        "id": "31:30b",
         "page": 31,
         "line": 30,
         "text": "& ",
@@ -981,7 +988,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/31"
       },
       {
-        "id": "31:34",
+        "id": "31:34a",
         "page": 31,
         "line": 34,
         "text": "& hath no end",
@@ -995,7 +1002,7 @@
     "verse": 31,
     "lines": [
       {
-        "id": "31:34",
+        "id": "31:34b",
         "page": 31,
         "line": 34,
         "text": "& they said unto me doth this thing mean the torment of the ",
@@ -1016,7 +1023,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/31"
       },
       {
-        "id": "31:37",
+        "id": "31:37a",
         "page": 31,
         "line": 37,
         "text": "which are temporal",
@@ -1030,7 +1037,7 @@
     "verse": 32,
     "lines": [
       {
-        "id": "31:37",
+        "id": "31:37b",
         "page": 31,
         "line": 37,
         "text": "& it came to pass that I said unto them that ",
@@ -1058,7 +1065,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/32"
       },
       {
-        "id": "32:4",
+        "id": "32:4a",
         "page": 32,
         "line": 4,
         "text": "bation",
@@ -1072,7 +1079,7 @@
     "verse": 33,
     "lines": [
       {
-        "id": "32:4",
+        "id": "32:4b",
         "page": 32,
         "line": 4,
         "text": "wherefore if they should die in their wickedness they must be ",
@@ -1114,7 +1121,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/32"
       },
       {
-        "id": "32:10",
+        "id": "32:10a",
         "page": 32,
         "line": 10,
         "text": "also",
@@ -1128,7 +1135,7 @@
     "verse": 34,
     "lines": [
       {
-        "id": "32:10",
+        "id": "32:10b",
         "page": 32,
         "line": 10,
         "text": "but behold I say unto you the Kingdom of God is not filthy & there ",
@@ -1178,7 +1185,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/32"
       },
       {
-        "id": "32:16",
+        "id": "32:16a",
         "page": 32,
         "line": 16,
         "text": "of which I have spoken",
@@ -1192,7 +1199,7 @@
     "verse": 36,
     "lines": [
       {
-        "id": "32:16",
+        "id": "32:16b",
         "page": 32,
         "line": 16,
         "text": "wherefore the wicked are rejected from the right",

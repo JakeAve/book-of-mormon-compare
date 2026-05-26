@@ -8,12 +8,12 @@
         "id": "100:23",
         "page": 100,
         "line": 23,
-        "text": "The words which Jacob the Brother of Nephi spake ",
-        "markdown": "—— Chapter []—— The words ~~of~~ [which] Jacob the Brother of Nephi spake ",
+        "text": "Chapter The words which Jacob the Brother of Nephi spake ",
+        "markdown": "Chapter []—— The words ~~of~~ [which] Jacob the Brother of Nephi spake ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/100"
       },
       {
-        "id": "100:24",
+        "id": "100:24a",
         "page": 100,
         "line": 24,
         "text": "unto the People of Nephi after the death of Nephi—",
@@ -27,7 +27,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "100:24",
+        "id": "100:24b",
         "page": 100,
         "line": 24,
         "text": "Now my beloved brethren I Jacob ",
@@ -48,7 +48,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/100"
       },
       {
-        "id": "100:27",
+        "id": "100:27a",
         "page": 100,
         "line": 27,
         "text": "this day that I might declare unto you the word of God",
@@ -62,7 +62,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "100:27",
+        "id": "100:27b",
         "page": 100,
         "line": 27,
         "text": "& ye yourselves know that I have ",
@@ -76,11 +76,11 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/100"
       },
       {
-        "id": "100:29",
+        "id": "100:29a",
         "page": 100,
         "line": 29,
-        "text": "th much more desire & anxiety for the wellfare of your souls then I have hitherto been for",
-        "markdown": "th much more desire & anxiety for the wellfare of your souls then I [have] hitherto been for",
+        "text": "th much more desire & anxiety for the wellfare of your souls then I have hitherto been",
+        "markdown": "th much more desire & anxiety for the wellfare of your souls then I [have] hitherto been",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/100"
       }
     ]
@@ -91,10 +91,10 @@
     "verse": 4,
     "lines": [
       {
-        "id": "100:29",
+        "id": "100:29b",
         "page": 100,
         "line": 29,
-        "text": "be",
+        "text": "for be",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/100"
       },
       {
@@ -133,7 +133,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/100"
       },
       {
-        "id": "100:34",
+        "id": "100:34a",
         "page": 100,
         "line": 34,
         "text": "God",
@@ -147,14 +147,14 @@
     "verse": 6,
     "lines": [
       {
-        "id": "100:34",
+        "id": "100:34b",
         "page": 100,
         "line": 34,
         "text": "yea & it grieveth my soul & causeth me to shrink with shame before the presance of my ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/100"
       },
       {
-        "id": "100:35",
+        "id": "100:35a",
         "page": 100,
         "line": 35,
         "text": "maker that I must testify unto you concerning the wickedness of your hearts",
@@ -168,7 +168,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "100:35",
+        "id": "100:35b",
         "page": 100,
         "line": 35,
         "text": "& also it gr",
@@ -190,7 +190,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/100"
       },
       {
-        "id": "101:1",
+        "id": "101:1a",
         "page": 101,
         "line": 1,
         "text": "& delicate before God which thing is pleasing unto God",
@@ -204,7 +204,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "101:1",
+        "id": "101:1b",
         "page": 101,
         "line": 1,
         "text": "& it supposeth me that ",
@@ -218,7 +218,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/101"
       },
       {
-        "id": "101:3",
+        "id": "101:3a",
         "page": 101,
         "line": 3,
         "text": "leth the wounded soul",
@@ -232,7 +232,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "101:3",
+        "id": "101:3b",
         "page": 101,
         "line": 3,
         "text": "wherefore it burdeneth my soul that I should be co",
@@ -267,7 +267,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/101"
       },
       {
-        "id": "101:8",
+        "id": "101:8a",
         "page": 101,
         "line": 8,
         "text": "pierce their souls & wound their delicate minds",
@@ -281,7 +281,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "101:8",
+        "id": "101:8b",
         "page": 101,
         "line": 8,
         "text": "but notwithstanding the greatness ",
@@ -302,7 +302,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/101"
       },
       {
-        "id": "101:11",
+        "id": "101:11a",
         "page": 101,
         "line": 11,
         "text": "rt & under the glance of the pirceing eye of the Almighty God",
@@ -316,7 +316,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "101:11",
+        "id": "101:11b",
         "page": 101,
         "line": 11,
         "text": "wherefore I must tell you ",
@@ -337,7 +337,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/101"
       },
       {
-        "id": "101:14",
+        "id": "101:14a",
         "page": 101,
         "line": 14,
         "text": "& declare the word which I shall give thee unto this People",
@@ -352,7 +352,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "101:14",
+        "id": "101:14b",
         "page": 101,
         "line": 14,
         "text": "& now behold my Brethren ",
@@ -373,7 +373,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/101"
       },
       {
-        "id": "101:17",
+        "id": "101:17a",
         "page": 101,
         "line": 17,
         "text": "of promise unto you & to your seed doth abound most plentifully",
@@ -387,7 +387,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "101:17",
+        "id": "101:17b",
         "page": 101,
         "line": 17,
         "text": "& the hand of pro",
@@ -422,7 +422,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/101"
       },
       {
-        "id": "101:22",
+        "id": "101:22a",
         "page": 101,
         "line": 22,
         "text": "ye are better then they",
@@ -436,7 +436,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "101:22",
+        "id": "101:22b",
         "page": 101,
         "line": 22,
         "text": "& now my Brethren do ye suppose that God justifieth you in this ",
@@ -450,7 +450,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/101"
       },
       {
-        "id": "101:24",
+        "id": "101:24a",
         "page": 101,
         "line": 24,
         "text": "s his Judgments must speadily come unto you",
@@ -464,14 +464,14 @@
     "verse": 15,
     "lines": [
       {
-        "id": "101:24",
+        "id": "101:24b",
         "page": 101,
         "line": 24,
         "text": "O that he would show you that he can ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/101"
       },
       {
-        "id": "101:25",
+        "id": "101:25a",
         "page": 101,
         "line": 25,
         "text": "pierce you & with one glance of his eye he can smite you to the dust",
@@ -485,7 +485,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "101:25",
+        "id": "101:25b",
         "page": 101,
         "line": 25,
         "text": "O that he would ",
@@ -499,7 +499,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/101"
       },
       {
-        "id": "101:27",
+        "id": "101:27a",
         "page": 101,
         "line": 27,
         "text": "commands & let not this pride of your hearts destroy your souls",
@@ -513,7 +513,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "101:27",
+        "id": "101:27b",
         "page": 101,
         "line": 27,
         "text": "think of your Br",
@@ -527,7 +527,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/101"
       },
       {
-        "id": "101:29",
+        "id": "101:29a",
         "page": 101,
         "line": 29,
         "text": "they may be rich like unto you",
@@ -541,17 +541,17 @@
     "verse": 18,
     "lines": [
       {
-        "id": "101:29",
+        "id": "101:29b",
         "page": 101,
         "line": 29,
         "text": "but before that ye seek for riches seek ye for the Kingdom ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/101"
       },
       {
-        "id": "101:30",
+        "id": "101:30a",
         "page": 101,
         "line": 30,
-        "text": "of God &",
+        "text": "of God",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/101"
       }
     ]
@@ -562,10 +562,10 @@
     "verse": 19,
     "lines": [
       {
-        "id": "101:30",
+        "id": "101:30b",
         "page": 101,
         "line": 30,
-        "text": "after that ye have obtained a hope in Christ ye shall obtain riches if ye seek them ",
+        "text": "& after that ye have obtained a hope in Christ ye shall obtain riches if ye seek them ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/101"
       },
       {
@@ -577,7 +577,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/101"
       },
       {
-        "id": "101:32",
+        "id": "101:32a",
         "page": 101,
         "line": 32,
         "text": "liberate the captive & administer relief to the sick & the afflicted",
@@ -591,7 +591,7 @@
     "verse": 20,
     "lines": [
       {
-        "id": "101:32",
+        "id": "101:32b",
         "page": 101,
         "line": 32,
         "text": "& now my Brethre",
@@ -612,7 +612,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/101"
       },
       {
-        "id": "101:35",
+        "id": "101:35a",
         "page": 101,
         "line": 35,
         "text": "God hath given you what say ye of it",
@@ -626,7 +626,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "101:35",
+        "id": "101:35b",
         "page": 101,
         "line": 35,
         "text": "do ye not suppose that such things are abominable ",
@@ -648,7 +648,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/101"
       },
       {
-        "id": "102:1",
+        "id": "102:1a",
         "page": 102,
         "line": 1,
         "text": "should heep his commandments & glorify him forever",
@@ -662,7 +662,7 @@
     "verse": 22,
     "lines": [
       {
-        "id": "102:1",
+        "id": "102:1b",
         "page": 102,
         "line": 1,
         "text": "& now I make an end of speaking ",
@@ -676,7 +676,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/102"
       },
       {
-        "id": "102:3",
+        "id": "102:3a",
         "page": 102,
         "line": 3,
         "text": "grosser crime my heart would rejoice excedingly because of you",
@@ -690,7 +690,7 @@
     "verse": 23,
     "lines": [
       {
-        "id": "102:3",
+        "id": "102:3b",
         "page": 102,
         "line": 3,
         "text": "but the word of God bur ",
@@ -718,7 +718,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/102"
       },
       {
-        "id": "102:7",
+        "id": "102:7a",
         "page": 102,
         "line": 7,
         "text": "David & Solomon his Son",
@@ -732,14 +732,14 @@
     "verse": 24,
     "lines": [
       {
-        "id": "102:7",
+        "id": "102:7b",
         "page": 102,
         "line": 7,
         "text": "behold David & Solomon truly had many wives & conu",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/102"
       },
       {
-        "id": "102:8",
+        "id": "102:8a",
         "page": 102,
         "line": 8,
         "text": "bines which thing was abominable before me saith the Lord",
@@ -753,7 +753,7 @@
     "verse": 25,
     "lines": [
       {
-        "id": "102:8",
+        "id": "102:8b",
         "page": 102,
         "line": 8,
         "text": "wherefore thus saith the ",
@@ -774,7 +774,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/102"
       },
       {
-        "id": "102:11",
+        "id": "102:11a",
         "page": 102,
         "line": 11,
         "text": "of Joseph",
@@ -788,14 +788,14 @@
     "verse": 26,
     "lines": [
       {
-        "id": "102:11",
+        "id": "102:11b",
         "page": 102,
         "line": 11,
         "text": "wherefore I the Lord God will not suffer that this People shall do like unto them ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/102"
       },
       {
-        "id": "102:12",
+        "id": "102:12a",
         "page": 102,
         "line": 12,
         "text": "of Old",
@@ -809,14 +809,14 @@
     "verse": 27,
     "lines": [
       {
-        "id": "102:12",
+        "id": "102:12b",
         "page": 102,
         "line": 12,
         "text": "wherefore my Brethren hear me & hearken to the word of the Lord for there shall not a",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/102"
       },
       {
-        "id": "102:13",
+        "id": "102:13a",
         "page": 102,
         "line": 13,
         "text": "ny man among you have save it be one wife & concubines he shall have none",
@@ -831,7 +831,7 @@
     "verse": 28,
     "lines": [
       {
-        "id": "102:13",
+        "id": "102:13b",
         "page": 102,
         "line": 13,
         "text": "for I the ",
@@ -845,7 +845,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/102"
       },
       {
-        "id": "102:15",
+        "id": "102:15a",
         "page": 102,
         "line": 15,
         "text": "thus saith the Lord of hosts",
@@ -859,14 +859,14 @@
     "verse": 29,
     "lines": [
       {
-        "id": "102:15",
+        "id": "102:15b",
         "page": 102,
         "line": 15,
         "text": "wherefore this People shall keep my commandments saith ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/102"
       },
       {
-        "id": "102:16",
+        "id": "102:16a",
         "page": 102,
         "line": 16,
         "text": "the Lord of hosts or cursed be the land for their sakes",
@@ -880,7 +880,7 @@
     "verse": 30,
     "lines": [
       {
-        "id": "102:16",
+        "id": "102:16b",
         "page": 102,
         "line": 16,
         "text": "for if I will saith the Lord of ho",
@@ -894,7 +894,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/102"
       },
       {
-        "id": "102:18",
+        "id": "102:18a",
         "page": 102,
         "line": 18,
         "text": "to these things",
@@ -908,7 +908,7 @@
     "verse": 31,
     "lines": [
       {
-        "id": "102:18",
+        "id": "102:18b",
         "page": 102,
         "line": 18,
         "text": "for behold I the Lord have seen the sorrow & heard the mourning of the ",
@@ -922,7 +922,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/102"
       },
       {
-        "id": "102:20",
+        "id": "102:20a",
         "page": 102,
         "line": 20,
         "text": "of the wickedness & abominations of their husbands",
@@ -936,7 +936,7 @@
     "verse": 32,
     "lines": [
       {
-        "id": "102:20",
+        "id": "102:20b",
         "page": 102,
         "line": 20,
         "text": "& I will not suffer saith the Lord of hosts ",
@@ -950,7 +950,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/102"
       },
       {
-        "id": "102:22",
+        "id": "102:22a",
         "page": 102,
         "line": 22,
         "text": "lem shall come up unto me against the men of my People saith the Lord of hosts",
@@ -964,7 +964,7 @@
     "verse": 33,
     "lines": [
       {
-        "id": "102:22",
+        "id": "102:22b",
         "page": 102,
         "line": 22,
         "text": "for they ",
@@ -985,7 +985,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/102"
       },
       {
-        "id": "102:25",
+        "id": "102:25a",
         "page": 102,
         "line": 25,
         "text": "commit whoredoms like unto they of old saith the Lord of hosts",
@@ -999,7 +999,7 @@
     "verse": 34,
     "lines": [
       {
-        "id": "102:25",
+        "id": "102:25b",
         "page": 102,
         "line": 25,
         "text": "& now behold my ",
@@ -1020,7 +1020,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/102"
       },
       {
-        "id": "102:28",
+        "id": "102:28a",
         "page": 102,
         "line": 28,
         "text": "things which ye ought not to have done",
@@ -1034,7 +1034,7 @@
     "verse": 35,
     "lines": [
       {
-        "id": "102:28",
+        "id": "102:28b",
         "page": 102,
         "line": 28,
         "text": "behold ye have done greater iniquity then the ",

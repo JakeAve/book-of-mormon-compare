@@ -5,7 +5,14 @@
     "verse": 5,
     "lines": [
       {
-        "id": "58:1",
+        "id": "57:8b",
+        "page": 57,
+        "line": 8,
+        "text": "it back ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/57"
+      },
+      {
+        "id": "58:1a",
         "page": 58,
         "line": 1,
         "text": "spoken unto the Jews like unto them save it be that they are taught after thmanner of the things of the Jews",
@@ -20,7 +27,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "58:1",
+        "id": "58:1b",
         "page": 58,
         "line": 1,
         "text": "but behold I Nephi have not taught my children after the manner of the Jews but behold I of myself have dwelt at ",
@@ -52,7 +59,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/58"
       },
       {
-        "id": "58:5",
+        "id": "58:5a",
         "page": 58,
         "line": 5,
         "text": "ich Isaiah hath spoken & I do not write them",
@@ -66,7 +73,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "58:5",
+        "id": "58:5b",
         "page": 58,
         "line": 5,
         "text": "but behold I procede wi",
@@ -98,7 +105,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/58"
       },
       {
-        "id": "58:9",
+        "id": "58:9a",
         "page": 58,
         "line": 9,
         "text": "come to pass",
@@ -112,70 +119,12 @@
     "verse": 8,
     "lines": [
       {
-        "id": "58:9",
+        "id": "58:9b",
         "page": 58,
         "line": 9,
-        "text": "wherefore they are of",
+        "text": "wherefore they are of worth unto the children of men &",
+        "markdown": "wherefore they are of worth unto the {{children of men &",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/58"
-      }
-    ]
-  },
-  {
-    "book": "2-ne",
-    "chapter": 25,
-    "verse": 9,
-    "lines": [
-      {
-        "id": "58:9",
-        "page": 58,
-        "line": 9,
-        "text": "worth unto",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/58"
-      }
-    ]
-  },
-  {
-    "book": "2-ne",
-    "chapter": 25,
-    "verse": 10,
-    "lines": [
-      {
-        "id": "58:9",
-        "page": 58,
-        "line": 9,
-        "text": "the children of men & he",
-        "markdown": "the {{children of men & he}}",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/58"
-      }
-    ]
-  },
-  {
-    "book": "2-ne",
-    "chapter": 25,
-    "verse": 14,
-    "lines": [
-      {
-        "id": "59:1",
-        "page": 59,
-        "line": 1,
-        "text": "God hath",
-        "markdown": "{{God hath",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/59"
-      }
-    ]
-  },
-  {
-    "book": "2-ne",
-    "chapter": 25,
-    "verse": 15,
-    "lines": [
-      {
-        "id": "59:1",
-        "page": 59,
-        "line": 1,
-        "text": "scorged",
-        "markdown": "sc}}orged",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/59"
       }
     ]
   },
@@ -185,11 +134,19 @@
     "verse": 16,
     "lines": [
       {
+        "id": "58:9c",
+        "page": 58,
+        "line": 9,
+        "text": "he ",
+        "markdown": "he}} ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/58"
+      },
+      {
         "id": "59:1",
         "page": 59,
         "line": 1,
-        "text": "them by other Nations for the space of many Generationsyea even down from Generation to Generation untill they shall be persuaded tobelieve in Christ the Son of God & the atonement which is infinate for all mankind & when that day shall come that they shall believe in Christ & worsh",
-        "markdown": "them {{by other Nations for the space o}}f many G{{enerationsyea even dow}}n from Gene{{ration to Generation untill they sha}}ll be p{{ersuaded tobelieve in Chris}}t the Son of God & {{the atonement}} which is infinate for all m{{ankind & whe}}n that day shall com{{e t}}hat they shall believe in Christ & worsh",
+        "text": "God hath scorged them by other Nations for the space of many Generationsyea even down from Generation to Generation untill they shall be persuaded tobelieve in Christ the Son of God & the atonement which is infinate for all mankind & when that day shall come that they shall believe in Christ & worsh",
+        "markdown": "{{God hath sc}}orged them {{by other Nations for the space o}}f many G{{enerationsyea even dow}}n from Gene{{ration to Generation untill they sha}}ll be p{{ersuaded tobelieve in Chris}}t the Son of God & {{the atonement}} which is infinate for all m{{ankind & whe}}n that day shall com{{e t}}hat they shall believe in Christ & worsh",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/59"
       },
       {
@@ -209,7 +166,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/59"
       },
       {
-        "id": "59:4",
+        "id": "59:4a",
         "page": 59,
         "line": 4,
         "text": "must needs be expediant that they should believe these",
@@ -224,7 +181,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "59:4",
+        "id": "59:4b",
         "page": 59,
         "line": 4,
         "text": "things the Lord ",
@@ -247,7 +204,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/59"
       },
       {
-        "id": "59:7",
+        "id": "59:7a",
         "page": 59,
         "line": 7,
         "text": "onder among the children of men",
@@ -262,32 +219,18 @@
     "verse": 18,
     "lines": [
       {
-        "id": "59:7",
+        "id": "59:7b",
         "page": 59,
         "line": 7,
         "text": "wherefore he shall bring forth his words ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/59"
       },
       {
-        "id": "59:8",
+        "id": "59:8a",
         "page": 59,
         "line": 8,
-        "text": "unto them which words shall Judge them at the last day",
-        "markdown": "{{unto them which words s}}hall Judge them at the last day",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/59"
-      }
-    ]
-  },
-  {
-    "book": "2-ne",
-    "chapter": 25,
-    "verse": 20,
-    "lines": [
-      {
-        "id": "59:8",
-        "page": 59,
-        "line": 8,
-        "text": "for they shall be",
+        "text": "unto them which words shall Judge them at the last day for they shall",
+        "markdown": "{{unto them which words s}}hall Judge them at the last day for they shall",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/59"
       }
     ]
@@ -298,7 +241,14 @@
     "verse": 24,
     "lines": [
       {
-        "id": "60:1",
+        "id": "59:8b",
+        "page": 59,
+        "line": 8,
+        "text": "be ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/59"
+      },
+      {
+        "id": "60:1a",
         "page": 60,
         "line": 1,
         "text": "shall be fulfilled",
@@ -313,7 +263,7 @@
     "verse": 25,
     "lines": [
       {
-        "id": "60:1",
+        "id": "60:1b",
         "page": 60,
         "line": 1,
         "text": "for for this end was the Law given wherefore the Law hathbecome dead unto us & we are made alive in Christ because of our faithyet we keep the Law because of the commandments",
@@ -328,7 +278,7 @@
     "verse": 26,
     "lines": [
       {
-        "id": "60:1",
+        "id": "60:1c",
         "page": 60,
         "line": 1,
         "text": "& we talk of Christ we ",
@@ -352,7 +302,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/60"
       },
       {
-        "id": "60:4",
+        "id": "60:4a",
         "page": 60,
         "line": 4,
         "text": "may look for a remission of their sins",
@@ -366,7 +316,7 @@
     "verse": 27,
     "lines": [
       {
-        "id": "60:4",
+        "id": "60:4b",
         "page": 60,
         "line": 4,
         "text": "wherefore we speak concerning ",
@@ -406,7 +356,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/60"
       },
       {
-        "id": "60:9",
+        "id": "60:9a",
         "page": 60,
         "line": 9,
         "text": "when the Law had ought to be done away",
@@ -420,26 +370,11 @@
     "verse": 28,
     "lines": [
       {
-        "id": "60:9",
+        "id": "60:9b",
         "page": 60,
         "line": 9,
-        "text": "& now behold",
-        "markdown": "& {{now behold",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/60"
-      }
-    ]
-  },
-  {
-    "book": "2-ne",
-    "chapter": 25,
-    "verse": 30,
-    "lines": [
-      {
-        "id": "60:9",
-        "page": 60,
-        "line": 9,
-        "text": "my people ye",
-        "markdown": "my people ye}}",
+        "text": "& now behold my",
+        "markdown": "& {{now behold my",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/60"
       }
     ]

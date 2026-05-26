@@ -5,6 +5,20 @@
     "verse": 1,
     "lines": [
       {
+        "id": "427:8",
+        "page": 427,
+        "line": 8,
+        "text": "CHAPTER XXIX. ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/427"
+      },
+      {
+        "id": "427:9",
+        "page": 427,
+        "line": 9,
+        "text": "And now it came to pass that when Moroni had re",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/427"
+      },
+      {
         "id": "427:10",
         "page": 427,
         "line": 10,
@@ -26,7 +40,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/427"
       },
       {
-        "id": "427:13",
+        "id": "427:13a",
         "page": 427,
         "line": 13,
         "text": "freedom and cause of his country.",
@@ -40,7 +54,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "427:13",
+        "id": "427:13b",
         "page": 427,
         "line": 13,
         "text": "But he did also ",
@@ -110,7 +124,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/427"
       },
       {
-        "id": "427:22",
+        "id": "427:22a",
         "page": 427,
         "line": 22,
         "text": "Gideon.",
@@ -124,7 +138,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "427:22",
+        "id": "427:22b",
         "page": 427,
         "line": 22,
         "text": "And he did raise the standard of liberty in ",
@@ -180,7 +194,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/427"
       },
       {
-        "id": "427:29",
+        "id": "427:29a",
         "page": 427,
         "line": 29,
         "text": "bondage.",
@@ -194,7 +208,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "427:29",
+        "id": "427:29b",
         "page": 427,
         "line": 29,
         "text": "And thus when Moroni had gathered to",
@@ -299,17 +313,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/427"
       },
       {
-        "id": "428:1",
+        "id": "428:1a",
         "page": 428,
         "line": 1,
-        "text": "ken prisoners; and Pahoran was restored to his judg ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/428"
-      },
-      {
-        "id": "428:2",
-        "page": 428,
-        "line": 2,
-        "text": "ment seat.",
+        "text": "ken prisoners; and Pahoran was restored to his",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/428"
       }
     ]
@@ -320,10 +327,17 @@
     "verse": 9,
     "lines": [
       {
+        "id": "428:1b",
+        "page": 428,
+        "line": 1,
+        "text": "judg ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/428"
+      },
+      {
         "id": "428:2",
         "page": 428,
         "line": 2,
-        "text": "And the men of Pachus received their tri",
+        "text": "ment seat. And the men of Pachus received their tri",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/428"
       },
       {
@@ -362,7 +376,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/428"
       },
       {
-        "id": "428:8",
+        "id": "428:8a",
         "page": 428,
         "line": 8,
         "text": "fight against it, were put to death.",
@@ -376,7 +390,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "428:8",
+        "id": "428:8b",
         "page": 428,
         "line": 8,
         "text": "And thus is be",
@@ -404,7 +418,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/428"
       },
       {
-        "id": "428:12",
+        "id": "428:12a",
         "page": 428,
         "line": 12,
         "text": "ecuted according to the law.",
@@ -418,7 +432,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "428:12",
+        "id": "428:12b",
         "page": 428,
         "line": 12,
         "text": "And thus ended the ",
@@ -502,7 +516,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/428"
       },
       {
-        "id": "428:23",
+        "id": "428:23a",
         "page": 428,
         "line": 23,
         "text": "sist him in preserving that part of the land;",
@@ -516,7 +530,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "428:23",
+        "id": "428:23b",
         "page": 428,
         "line": 23,
         "text": "and he al",
@@ -544,10 +558,24 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/428"
       },
       {
-        "id": "428:27",
+        "id": "428:27a",
         "page": 428,
         "line": 27,
-        "text": "this was done, to fortify the land against the Laman",
+        "text": "this was done, to fortify the land against the",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/428"
+      }
+    ]
+  },
+  {
+    "book": "alma",
+    "chapter": 62,
+    "verse": 14,
+    "lines": [
+      {
+        "id": "428:27b",
+        "page": 428,
+        "line": 27,
+        "text": "Laman",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/428"
       },
       {
@@ -563,14 +591,7 @@
         "line": 29,
         "text": "And it came to pass that Moroni and Pahoran, leav",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/428"
-      }
-    ]
-  },
-  {
-    "book": "alma",
-    "chapter": 62,
-    "verse": 14,
-    "lines": [
+      },
       {
         "id": "428:30",
         "page": 428,
@@ -628,7 +649,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/428"
       },
       {
-        "id": "428:37",
+        "id": "428:37a",
         "page": 428,
         "line": 37,
         "text": "provisions, and their weapons of war.",
@@ -642,7 +663,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "428:37",
+        "id": "428:37b",
         "page": 428,
         "line": 37,
         "text": "And it came ",
@@ -750,7 +771,14 @@
         "id": "429:3",
         "page": 429,
         "line": 3,
-        "text": "phihah.",
+        "text": "phihah. Now Moroni was desirous that the Laman ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/429"
+      },
+      {
+        "id": "429:4a",
+        "page": 429,
+        "line": 4,
+        "text": "ites",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/429"
       }
     ]
@@ -761,17 +789,10 @@
     "verse": 19,
     "lines": [
       {
-        "id": "429:3",
-        "page": 429,
-        "line": 3,
-        "text": "Now Moroni was desirous that the Laman",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/429"
-      },
-      {
-        "id": "429:4",
+        "id": "429:4b",
         "page": 429,
         "line": 4,
-        "text": "ites should come out to battle against them, upon the ",
+        "text": "should come out to battle against them, upon the ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/429"
       },
       {
@@ -803,7 +824,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/429"
       },
       {
-        "id": "429:9",
+        "id": "429:9a",
         "page": 429,
         "line": 9,
         "text": "day.",
@@ -817,7 +838,7 @@
     "verse": 20,
     "lines": [
       {
-        "id": "429:9",
+        "id": "429:9b",
         "page": 429,
         "line": 9,
         "text": "And when the night came, Moroni went forth ",
@@ -964,7 +985,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/429"
       },
       {
-        "id": "429:27",
+        "id": "429:27a",
         "page": 429,
         "line": 27,
         "text": "they were all within the walls of the city.",
@@ -978,7 +999,7 @@
     "verse": 24,
     "lines": [
       {
-        "id": "429:27",
+        "id": "429:27b",
         "page": 429,
         "line": 27,
         "text": "And now ",
@@ -1006,7 +1027,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/429"
       },
       {
-        "id": "429:31",
+        "id": "429:31a",
         "page": 429,
         "line": 31,
         "text": "pass.",
@@ -1020,7 +1041,7 @@
     "verse": 25,
     "lines": [
       {
-        "id": "429:31",
+        "id": "429:31b",
         "page": 429,
         "line": 31,
         "text": "And now when Moroni saw that they were flee",
@@ -1055,7 +1076,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/429"
       },
       {
-        "id": "429:36",
+        "id": "429:36a",
         "page": 429,
         "line": 36,
         "text": "in the borders by the seashore.",
@@ -1069,7 +1090,7 @@
     "verse": 26,
     "lines": [
       {
-        "id": "429:36",
+        "id": "429:36b",
         "page": 429,
         "line": 36,
         "text": "Thus had Moroni and ",
@@ -1118,7 +1139,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/429"
       },
       {
-        "id": "429:42",
+        "id": "429:42a",
         "page": 429,
         "line": 42,
         "text": "of Ammon, and become a free people.",
@@ -1132,7 +1153,7 @@
     "verse": 28,
     "lines": [
       {
-        "id": "429:42",
+        "id": "429:42b",
         "page": 429,
         "line": 42,
         "text": "And it came ",
@@ -1146,7 +1167,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/429"
       },
       {
-        "id": "429:44",
+        "id": "429:44a",
         "page": 429,
         "line": 44,
         "text": "was granted, according to their desires;",
@@ -1160,7 +1181,7 @@
     "verse": 29,
     "lines": [
       {
-        "id": "429:44",
+        "id": "429:44b",
         "page": 429,
         "line": 44,
         "text": "therefore all ",
@@ -1212,28 +1233,21 @@
         "id": "430:5",
         "page": 430,
         "line": 5,
-        "text": "ites.",
+        "text": "ites. ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/430"
-      }
-    ]
-  },
-  {
-    "book": "alma",
-    "chapter": 62,
-    "verse": 30,
-    "lines": [
+      },
       {
         "id": "430:6",
         "page": 430,
         "line": 6,
-        "text": "Now it came to pass that Moroni, after he had ob",
+        "text": "Now it came to pass that Moroni, after he had ob ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/430"
       },
       {
         "id": "430:7",
         "page": 430,
         "line": 7,
-        "text": "tained possession of the city of Nephihah, having ta",
+        "text": "tained possession of the city of Nephihah, having ta ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/430"
       },
       {
@@ -1244,10 +1258,24 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/430"
       },
       {
-        "id": "430:9",
+        "id": "430:9a",
         "page": 430,
         "line": 9,
-        "text": "of the Lamanites exceedingly, and having retained many ",
+        "text": "of the Lamanites",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/430"
+      }
+    ]
+  },
+  {
+    "book": "alma",
+    "chapter": 62,
+    "verse": 30,
+    "lines": [
+      {
+        "id": "430:9b",
+        "page": 430,
+        "line": 9,
+        "text": "exceedingly, and having retained many ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/430"
       },
       {
@@ -1426,7 +1454,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/430"
       },
       {
-        "id": "430:31",
+        "id": "430:31a",
         "page": 430,
         "line": 31,
         "text": "wilderness, on the east;",
@@ -1440,7 +1468,7 @@
     "verse": 35,
     "lines": [
       {
-        "id": "430:31",
+        "id": "430:31b",
         "page": 430,
         "line": 31,
         "text": "and thus they did encamp for ",
@@ -1678,7 +1706,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/431"
       },
       {
-        "id": "431:15",
+        "id": "431:15a",
         "page": 431,
         "line": 15,
         "text": "Nephites.",
@@ -1692,7 +1720,7 @@
     "verse": 39,
     "lines": [
       {
-        "id": "431:15",
+        "id": "431:15b",
         "page": 431,
         "line": 15,
         "text": "And thus ended the thirty and first year ",
@@ -1713,7 +1741,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/431"
       },
       {
-        "id": "431:18",
+        "id": "431:18a",
         "page": 431,
         "line": 18,
         "text": "ine, and aflliction, for the space of many years.",
@@ -1727,7 +1755,7 @@
     "verse": 40,
     "lines": [
       {
-        "id": "431:18",
+        "id": "431:18b",
         "page": 431,
         "line": 18,
         "text": "And ",
@@ -1762,7 +1790,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/431"
       },
       {
-        "id": "431:23",
+        "id": "431:23a",
         "page": 431,
         "line": 23,
         "text": "ed.",
@@ -1776,7 +1804,7 @@
     "verse": 41,
     "lines": [
       {
-        "id": "431:23",
+        "id": "431:23b",
         "page": 431,
         "line": 23,
         "text": "But behold, because of the exceeding great length ",
@@ -1874,7 +1902,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/431"
       },
       {
-        "id": "431:36",
+        "id": "431:36a",
         "page": 431,
         "line": 36,
         "text": "phi.",
@@ -1888,7 +1916,7 @@
     "verse": 43,
     "lines": [
       {
-        "id": "431:36",
+        "id": "431:36b",
         "page": 431,
         "line": 36,
         "text": "And Moroni yielded up the command of his ar",
@@ -1909,7 +1937,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/431"
       },
       {
-        "id": "431:39",
+        "id": "431:39a",
         "page": 431,
         "line": 39,
         "text": "might spend the remainder of his days in peace.",
@@ -1923,7 +1951,7 @@
     "verse": 44,
     "lines": [
       {
-        "id": "431:39",
+        "id": "431:39b",
         "page": 431,
         "line": 39,
         "text": "And ",
@@ -1958,7 +1986,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/431"
       },
       {
-        "id": "431:44",
+        "id": "431:44a",
         "page": 431,
         "line": 44,
         "text": "should be made again in the church;",
@@ -1972,7 +2000,7 @@
     "verse": 45,
     "lines": [
       {
-        "id": "431:44",
+        "id": "431:44b",
         "page": 431,
         "line": 44,
         "text": "therefore Hela",
@@ -2028,7 +2056,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/432"
       },
       {
-        "id": "432:4",
+        "id": "432:4a",
         "page": 432,
         "line": 4,
         "text": "the church of God, throughout all the land;",
@@ -2042,7 +2070,7 @@
     "verse": 47,
     "lines": [
       {
-        "id": "432:4",
+        "id": "432:4b",
         "page": 432,
         "line": 4,
         "text": "yea, and ",
@@ -2056,7 +2084,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/432"
       },
       {
-        "id": "432:6",
+        "id": "432:6a",
         "page": 432,
         "line": 6,
         "text": "judges, and their chief judges were chosen.",
@@ -2070,7 +2098,7 @@
     "verse": 48,
     "lines": [
       {
-        "id": "432:6",
+        "id": "432:6b",
         "page": 432,
         "line": 6,
         "text": "And the ",
@@ -2098,7 +2126,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/432"
       },
       {
-        "id": "432:10",
+        "id": "432:10a",
         "page": 432,
         "line": 10,
         "text": "rich;",
@@ -2112,7 +2140,7 @@
     "verse": 49,
     "lines": [
       {
-        "id": "432:10",
+        "id": "432:10b",
         "page": 432,
         "line": 10,
         "text": "but notwithstanding their riches, or their ",
@@ -2140,7 +2168,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/432"
       },
       {
-        "id": "432:14",
+        "id": "432:14a",
         "page": 432,
         "line": 14,
         "text": "themselves exceedingly before him;",
@@ -2154,7 +2182,7 @@
     "verse": 50,
     "lines": [
       {
-        "id": "432:14",
+        "id": "432:14b",
         "page": 432,
         "line": 14,
         "text": "yea, they did re",
@@ -2189,7 +2217,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/432"
       },
       {
-        "id": "432:19",
+        "id": "432:19a",
         "page": 432,
         "line": 19,
         "text": "enemies.",
@@ -2203,7 +2231,7 @@
     "verse": 51,
     "lines": [
       {
-        "id": "432:19",
+        "id": "432:19b",
         "page": 432,
         "line": 19,
         "text": "And they did pray unto the Lord their God ",
@@ -2224,7 +2252,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/432"
       },
       {
-        "id": "432:22",
+        "id": "432:22a",
         "page": 432,
         "line": 22,
         "text": "and prosper in the land.",
@@ -2238,7 +2266,7 @@
     "verse": 52,
     "lines": [
       {
-        "id": "432:22",
+        "id": "432:22b",
         "page": 432,
         "line": 22,
         "text": "And it came to pass that all ",
@@ -2262,28 +2290,7 @@
         "id": "432:25",
         "page": 432,
         "line": 25,
-        "text": "the people of Nephi. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/432"
-      },
-      {
-        "id": "432:26",
-        "page": 432,
-        "line": 26,
-        "text": "CHAPTER XXX. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/432"
-      },
-      {
-        "id": "432:27",
-        "page": 432,
-        "line": 27,
-        "text": "And it came to pass in the commencement of the ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/432"
-      },
-      {
-        "id": "432:28",
-        "page": 432,
-        "line": 28,
-        "text": "thirty and sixty year of the reign of the judges over",
+        "text": "the people of Nephi.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/432"
       }
     ]

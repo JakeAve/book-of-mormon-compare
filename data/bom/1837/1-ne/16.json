@@ -5,6 +5,13 @@
     "verse": 1,
     "lines": [
       {
+        "id": "45:38",
+        "page": 45,
+        "line": 38,
+        "text": "And now it came to pass that after I, Nephi, had ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/45"
+      },
+      {
         "id": "45:39",
         "page": 45,
         "line": 39,
@@ -68,7 +75,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/46"
       },
       {
-        "id": "46:8",
+        "id": "46:8a",
         "page": 46,
         "line": 8,
         "text": "be hard, for it cutteth them to the very center.",
@@ -82,7 +89,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "46:8",
+        "id": "46:8b",
         "page": 46,
         "line": 8,
         "text": "And ",
@@ -117,7 +124,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/46"
       },
       {
-        "id": "46:13",
+        "id": "46:13a",
         "page": 46,
         "line": 13,
         "text": "speakest hard things against us.",
@@ -131,7 +138,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "46:13",
+        "id": "46:13b",
         "page": 46,
         "line": 13,
         "text": "And it came to pass ",
@@ -145,7 +152,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/46"
       },
       {
-        "id": "46:15",
+        "id": "46:15a",
         "page": 46,
         "line": 15,
         "text": "gence, to keep the commandments of the Lord.",
@@ -159,7 +166,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "46:15",
+        "id": "46:15b",
         "page": 46,
         "line": 15,
         "text": "And ",
@@ -187,7 +194,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/46"
       },
       {
-        "id": "46:19",
+        "id": "46:19a",
         "page": 46,
         "line": 19,
         "text": "righteousness.",
@@ -201,7 +208,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "46:19",
+        "id": "46:19b",
         "page": 46,
         "line": 19,
         "text": "Now all these things were said and ",
@@ -320,7 +327,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/46"
       },
       {
-        "id": "46:33",
+        "id": "46:33a",
         "page": 46,
         "line": 33,
         "text": "wilderness.",
@@ -334,7 +341,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "46:33",
+        "id": "46:33b",
         "page": 46,
         "line": 33,
         "text": "And it came to pass that as my father ",
@@ -379,16 +386,9 @@
         "id": "46:39",
         "page": 46,
         "line": 39,
-        "text": "to the wilderness.",
+        "text": "to the wilderness. ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/46"
-      }
-    ]
-  },
-  {
-    "book": "1-ne",
-    "chapter": 16,
-    "verse": 11,
-    "lines": [
+      },
       {
         "id": "46:40",
         "page": 46,
@@ -404,10 +404,24 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/46"
       },
       {
-        "id": "46:42",
+        "id": "46:42a",
         "page": 46,
         "line": 42,
-        "text": "ness, and all the remainder of our provisions which ",
+        "text": "ness,",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/46"
+      }
+    ]
+  },
+  {
+    "book": "1-ne",
+    "chapter": 16,
+    "verse": 11,
+    "lines": [
+      {
+        "id": "46:42b",
+        "page": 46,
+        "line": 42,
+        "text": "and all the remainder of our provisions which ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/46"
       },
       {
@@ -565,7 +579,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/47"
       },
       {
-        "id": "47:14",
+        "id": "47:14a",
         "page": 47,
         "line": 14,
         "text": "and our arrows, and our stones and our slings;",
@@ -579,7 +593,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "47:14",
+        "id": "47:14b",
         "page": 47,
         "line": 14,
         "text": "and ",
@@ -593,7 +607,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/47"
       },
       {
-        "id": "47:16",
+        "id": "47:16a",
         "page": 47,
         "line": 16,
         "text": "in the more fertile parts of the wilderness.",
@@ -607,7 +621,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "47:16",
+        "id": "47:16b",
         "page": 47,
         "line": 16,
         "text": "And after ",
@@ -670,7 +684,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/47"
       },
       {
-        "id": "47:24",
+        "id": "47:24a",
         "page": 47,
         "line": 24,
         "text": "of my bow, for we did obtain no food.",
@@ -684,7 +698,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "47:24",
+        "id": "47:24b",
         "page": 47,
         "line": 24,
         "text": "And it came ",
@@ -796,7 +810,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/47"
       },
       {
-        "id": "47:38",
+        "id": "47:38a",
         "page": 47,
         "line": 38,
         "text": "could obtain no food.",
@@ -810,7 +824,7 @@
     "verse": 22,
     "lines": [
       {
-        "id": "47:38",
+        "id": "47:38b",
         "page": 47,
         "line": 38,
         "text": "And it came to pass that I, ",
@@ -873,7 +887,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/47"
       },
       {
-        "id": "47:46",
+        "id": "47:46a",
         "page": 47,
         "line": 46,
         "text": "father, whither shall I go, to obtain food?",
@@ -887,7 +901,7 @@
     "verse": 24,
     "lines": [
       {
-        "id": "47:46",
+        "id": "47:46b",
         "page": 47,
         "line": 46,
         "text": "And it ",
@@ -950,7 +964,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/48"
       },
       {
-        "id": "48:7",
+        "id": "48:7a",
         "page": 48,
         "line": 7,
         "text": "was brought down into the depths of sorrow.",
@@ -964,7 +978,7 @@
     "verse": 26,
     "lines": [
       {
-        "id": "48:7",
+        "id": "48:7b",
         "page": 48,
         "line": 7,
         "text": "And it ",
@@ -985,7 +999,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/48"
       },
       {
-        "id": "48:10",
+        "id": "48:10a",
         "page": 48,
         "line": 10,
         "text": "written!",
@@ -999,7 +1013,7 @@
     "verse": 27,
     "lines": [
       {
-        "id": "48:10",
+        "id": "48:10b",
         "page": 48,
         "line": 10,
         "text": "And it came to pass that when my father ",
@@ -1023,14 +1037,7 @@
         "id": "48:13",
         "page": 48,
         "line": 13,
-        "text": "ren, and the sons of Ishmael, and our wives. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/48"
-      },
-      {
-        "id": "48:14",
-        "page": 48,
-        "line": 14,
-        "text": "And it came to pass that I, Nephi, beheld the point",
+        "text": "ren, and the sons of Ishmael, and our wives.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/48"
       }
     ]
@@ -1040,6 +1047,13 @@
     "chapter": 16,
     "verse": 28,
     "lines": [
+      {
+        "id": "48:14",
+        "page": 48,
+        "line": 14,
+        "text": "And it came to pass that I, Nephi, beheld the point",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/48"
+      },
       {
         "id": "48:15",
         "page": 48,
@@ -1055,7 +1069,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/48"
       },
       {
-        "id": "48:17",
+        "id": "48:17a",
         "page": 48,
         "line": 17,
         "text": "did give unto them.",
@@ -1069,7 +1083,7 @@
     "verse": 29,
     "lines": [
       {
-        "id": "48:17",
+        "id": "48:17b",
         "page": 48,
         "line": 17,
         "text": "And there was also written upon ",
@@ -1139,7 +1153,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/48"
       },
       {
-        "id": "48:26",
+        "id": "48:26a",
         "page": 48,
         "line": 26,
         "text": "which were given upon the ball.",
@@ -1153,7 +1167,7 @@
     "verse": 31,
     "lines": [
       {
-        "id": "48:26",
+        "id": "48:26b",
         "page": 48,
         "line": 26,
         "text": "And it came to pass ",
@@ -1167,7 +1181,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/48"
       },
       {
-        "id": "48:28",
+        "id": "48:28a",
         "page": 48,
         "line": 28,
         "text": "food for our families.",
@@ -1181,7 +1195,7 @@
     "verse": 32,
     "lines": [
       {
-        "id": "48:28",
+        "id": "48:28b",
         "page": 48,
         "line": 28,
         "text": "And it came to pass that I did ",
@@ -1219,14 +1233,7 @@
         "id": "48:33",
         "page": 48,
         "line": 33,
-        "text": "did give thanks unto him. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/48"
-      },
-      {
-        "id": "48:34",
-        "page": 48,
-        "line": 34,
-        "text": "And it came to pass that we did again take our",
+        "text": "did give thanks unto him.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/48"
       }
     ]
@@ -1236,6 +1243,13 @@
     "chapter": 16,
     "verse": 33,
     "lines": [
+      {
+        "id": "48:34",
+        "page": 48,
+        "line": 34,
+        "text": "And it came to pass that we did again take our ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/48"
+      },
       {
         "id": "48:35",
         "page": 48,
@@ -1279,7 +1293,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/48"
       },
       {
-        "id": "48:40",
+        "id": "48:40a",
         "page": 48,
         "line": 40,
         "text": "ried in the place which was called Nahom.",
@@ -1293,7 +1307,7 @@
     "verse": 35,
     "lines": [
       {
-        "id": "48:40",
+        "id": "48:40b",
         "page": 48,
         "line": 40,
         "text": "And it ",
@@ -1356,7 +1370,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/49"
       },
       {
-        "id": "49:2",
+        "id": "49:2a",
         "page": 49,
         "line": 2,
         "text": "must perish in the wilderness with hunger.",
@@ -1370,7 +1384,7 @@
     "verse": 36,
     "lines": [
       {
-        "id": "49:2",
+        "id": "49:2b",
         "page": 49,
         "line": 2,
         "text": "And thus ",
@@ -1391,7 +1405,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/49"
       },
       {
-        "id": "49:5",
+        "id": "49:5a",
         "page": 49,
         "line": 5,
         "text": "lem.",
@@ -1405,7 +1419,7 @@
     "verse": 37,
     "lines": [
       {
-        "id": "49:5",
+        "id": "49:5b",
         "page": 49,
         "line": 5,
         "text": "And Laman said unto Lemuel, and also unto ",
@@ -1433,7 +1447,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/49"
       },
       {
-        "id": "49:9",
+        "id": "49:9a",
         "page": 49,
         "line": 9,
         "text": "ren:",
@@ -1447,7 +1461,7 @@
     "verse": 38,
     "lines": [
       {
-        "id": "49:9",
+        "id": "49:9b",
         "page": 49,
         "line": 9,
         "text": "Now, he says that the Lord has talked with him, ",
@@ -1576,14 +1590,7 @@
         "id": "49:26",
         "page": 49,
         "line": 26,
-        "text": "again with food, that we did not perish. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/49"
-      },
-      {
-        "id": "49:27",
-        "page": 49,
-        "line": 27,
-        "text": "And it came to pass that we did again take our jour",
+        "text": "again with food, that we did not perish.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/49"
       }
     ]

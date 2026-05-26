@@ -5,6 +5,13 @@
     "verse": 1,
     "lines": [
       {
+        "id": "124:14",
+        "page": 124,
+        "line": 14,
+        "text": "CHAPTER XIII. ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/124"
+      },
+      {
         "id": "124:15",
         "page": 124,
         "line": 15,
@@ -26,7 +33,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/124"
       },
       {
-        "id": "124:18",
+        "id": "124:18a",
         "page": 124,
         "line": 18,
         "text": "I write but a few of the words of my brother Jacob.",
@@ -40,7 +47,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "124:18",
+        "id": "124:18b",
         "page": 124,
         "line": 18,
         "text": "Where",
@@ -68,7 +75,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/124"
       },
       {
-        "id": "124:22",
+        "id": "124:22a",
         "page": 124,
         "line": 22,
         "text": "to the plainness of my prophesying.",
@@ -82,7 +89,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "124:22",
+        "id": "124:22b",
         "page": 124,
         "line": 22,
         "text": "For my soul delighteth ",
@@ -110,7 +117,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/124"
       },
       {
-        "id": "124:26",
+        "id": "124:26a",
         "page": 124,
         "line": 26,
         "text": "to their language, unto their understanding.",
@@ -124,7 +131,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "124:26",
+        "id": "124:26b",
         "page": 124,
         "line": 26,
         "text": "Wherefore, I ",
@@ -187,7 +194,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/124"
       },
       {
-        "id": "124:34",
+        "id": "124:34a",
         "page": 124,
         "line": 34,
         "text": "yea, even by water.",
@@ -201,7 +208,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "124:34",
+        "id": "124:34b",
         "page": 124,
         "line": 34,
         "text": "And now, I would ask of you, my beloved ",
@@ -215,7 +222,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/124"
       },
       {
-        "id": "124:36",
+        "id": "124:36a",
         "page": 124,
         "line": 36,
         "text": "in being baptized by water?",
@@ -229,7 +236,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "124:36",
+        "id": "124:36b",
         "page": 124,
         "line": 36,
         "text": "Know ye not that he was holy? ",
@@ -278,7 +285,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/125"
       },
       {
-        "id": "125:3",
+        "id": "125:3a",
         "page": 125,
         "line": 3,
         "text": "Ghost descended upon him in the form of a dove.",
@@ -292,7 +299,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "125:3",
+        "id": "125:3b",
         "page": 125,
         "line": 3,
         "text": "And again: ",
@@ -313,7 +320,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/125"
       },
       {
-        "id": "125:6",
+        "id": "125:6a",
         "page": 125,
         "line": 6,
         "text": "enter, he having set the example before them.",
@@ -327,7 +334,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "125:6",
+        "id": "125:6b",
         "page": 125,
         "line": 6,
         "text": "And he saith ",
@@ -348,10 +355,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/125"
       },
       {
-        "id": "125:9",
+        "id": "125:9a",
         "page": 125,
         "line": 9,
-        "text": "ling to keep the commandments of the Father? And",
+        "text": "ling to keep the commandments of the Father?",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/125"
       }
     ]
@@ -362,10 +369,10 @@
     "verse": 11,
     "lines": [
       {
-        "id": "125:9",
+        "id": "125:9b",
         "page": 125,
         "line": 9,
-        "text": "the Fa",
+        "text": "And the Fa",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/125"
       },
       {
@@ -376,7 +383,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/125"
       },
       {
-        "id": "125:11",
+        "id": "125:11a",
         "page": 125,
         "line": 11,
         "text": "of my beloved Son.",
@@ -390,7 +397,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "125:11",
+        "id": "125:11b",
         "page": 125,
         "line": 11,
         "text": "And also, the voice of the Son came ",
@@ -411,10 +418,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/125"
       },
       {
-        "id": "125:14",
+        "id": "125:14a",
         "page": 125,
         "line": 14,
-        "text": "low me, and do the things which ye have seen me do. Where",
+        "text": "low me, and do the things which ye have seen me do.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/125"
       }
     ]
@@ -424,6 +431,13 @@
     "chapter": 31,
     "verse": 13,
     "lines": [
+      {
+        "id": "125:14b",
+        "page": 125,
+        "line": 14,
+        "text": "Where",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/125"
+      },
       {
         "id": "125:15",
         "page": 125,
@@ -579,7 +593,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/125"
       },
       {
-        "id": "125:35",
+        "id": "125:35a",
         "page": 125,
         "line": 35,
         "text": "end, the same shall be saved.",
@@ -593,7 +607,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "125:35",
+        "id": "125:35b",
         "page": 125,
         "line": 35,
         "text": "And now, my beloved breth",
@@ -614,7 +628,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/125"
       },
       {
-        "id": "125:38",
+        "id": "125:38a",
         "page": 125,
         "line": 38,
         "text": "not be saved;",
@@ -628,7 +642,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "125:38",
+        "id": "125:38b",
         "page": 125,
         "line": 38,
         "text": "wherefore, do the things which I have told you ",
@@ -670,7 +684,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/125"
       },
       {
-        "id": "126:1",
+        "id": "126:1a",
         "page": 126,
         "line": 1,
         "text": "Holy Ghost.",
@@ -684,7 +698,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "126:1",
+        "id": "126:1b",
         "page": 126,
         "line": 1,
         "text": "And then are ye in this straight and narrow path ",
@@ -862,14 +876,7 @@
         "id": "126:23",
         "page": 126,
         "line": 23,
-        "text": "is one God, without end. Amen. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/126"
-      },
-      {
-        "id": "126:24",
-        "page": 126,
-        "line": 24,
-        "text": "CHAPTER XIV.",
+        "text": "is one God, without end. Amen.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/126"
       }
     ]

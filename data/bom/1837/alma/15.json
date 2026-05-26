@@ -47,7 +47,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/285"
       },
       {
-        "id": "285:12",
+        "id": "285:12a",
         "page": 285,
         "line": 12,
         "text": "words of Alma.",
@@ -61,7 +61,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "285:12",
+        "id": "285:12b",
         "page": 285,
         "line": 12,
         "text": "And they related unto them all that ",
@@ -75,17 +75,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/285"
       },
       {
-        "id": "285:14",
+        "id": "285:14a",
         "page": 285,
         "line": 14,
-        "text": "concerning themselves, and of their power of deliver",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/285"
-      },
-      {
-        "id": "285:15",
-        "page": 285,
-        "line": 15,
-        "text": "ance.",
+        "text": "concerning themselves, and of their power of",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/285"
       }
     ]
@@ -96,10 +89,17 @@
     "verse": 3,
     "lines": [
       {
+        "id": "285:14b",
+        "page": 285,
+        "line": 14,
+        "text": "deliver",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/285"
+      },
+      {
         "id": "285:15",
         "page": 285,
         "line": 15,
-        "text": "And also Zeezrom lay sick at Sidom, with a ",
+        "text": "ance. And also Zeezrom lay sick at Sidom, with a ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/285"
       },
       {
@@ -152,7 +152,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/285"
       },
       {
-        "id": "285:23",
+        "id": "285:23a",
         "page": 285,
         "line": 23,
         "text": "gan to be scorched with a burning heat.",
@@ -166,7 +166,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "285:23",
+        "id": "285:23b",
         "page": 285,
         "line": 23,
         "text": "Now when ",
@@ -285,7 +285,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/285"
       },
       {
-        "id": "285:38",
+        "id": "285:38a",
         "page": 285,
         "line": 38,
         "text": "unto salvation?",
@@ -299,14 +299,14 @@
     "verse": 7,
     "lines": [
       {
-        "id": "285:38",
+        "id": "285:38b",
         "page": 285,
         "line": 38,
         "text": "And he answered and said, yea, I be",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/285"
       },
       {
-        "id": "285:39",
+        "id": "285:39a",
         "page": 285,
         "line": 39,
         "text": "lieve all the words that thou hast taught.",
@@ -320,7 +320,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "285:39",
+        "id": "285:39b",
         "page": 285,
         "line": 39,
         "text": "And Alma ",
@@ -334,7 +334,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/285"
       },
       {
-        "id": "285:41",
+        "id": "285:41a",
         "page": 285,
         "line": 41,
         "text": "canst be healed.",
@@ -348,14 +348,14 @@
     "verse": 9,
     "lines": [
       {
-        "id": "285:41",
+        "id": "285:41b",
         "page": 285,
         "line": 41,
         "text": "And he said, yea, I believe according ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/285"
       },
       {
-        "id": "285:42",
+        "id": "285:42a",
         "page": 285,
         "line": 42,
         "text": "to thy words.",
@@ -369,7 +369,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "285:42",
+        "id": "285:42b",
         "page": 285,
         "line": 42,
         "text": "And then Alma cried unto the Lord, ",
@@ -425,7 +425,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/286"
       },
       {
-        "id": "286:3",
+        "id": "286:3a",
         "page": 286,
         "line": 3,
         "text": "of Sidom.",
@@ -439,7 +439,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "286:3",
+        "id": "286:3b",
         "page": 286,
         "line": 3,
         "text": "And Alma baptized Zeezrom unto the Lord; ",
@@ -453,7 +453,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/286"
       },
       {
-        "id": "286:5",
+        "id": "286:5a",
         "page": 286,
         "line": 5,
         "text": "people.",
@@ -467,7 +467,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "286:5",
+        "id": "286:5b",
         "page": 286,
         "line": 5,
         "text": "And Alma established a church in the land ",
@@ -516,7 +516,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/286"
       },
       {
-        "id": "286:11",
+        "id": "286:11a",
         "page": 286,
         "line": 11,
         "text": "and were baptized;",
@@ -530,7 +530,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "286:11",
+        "id": "286:11b",
         "page": 286,
         "line": 11,
         "text": "but as to the people that were in the ",
@@ -575,14 +575,7 @@
         "id": "286:17",
         "page": 286,
         "line": 17,
-        "text": "sins. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/286"
-      },
-      {
-        "id": "286:18",
-        "page": 286,
-        "line": 18,
-        "text": "And it came to pass that Alma and Amulek, Amu",
+        "text": "sins.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/286"
       }
     ]
@@ -592,6 +585,13 @@
     "chapter": 15,
     "verse": 16,
     "lines": [
+      {
+        "id": "286:18",
+        "page": 286,
+        "line": 18,
+        "text": "And it came to pass that Alma and Amulek, Amu",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/286"
+      },
       {
         "id": "286:19",
         "page": 286,
@@ -621,7 +621,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/286"
       },
       {
-        "id": "286:23",
+        "id": "286:23a",
         "page": 286,
         "line": 23,
         "text": "his kindred;",
@@ -635,7 +635,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "286:23",
+        "id": "286:23b",
         "page": 286,
         "line": 23,
         "text": "therefore, after Alma having established ",
@@ -726,7 +726,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/286"
       },
       {
-        "id": "286:35",
+        "id": "286:35a",
         "page": 286,
         "line": 35,
         "text": "ened him in the Lord.",
@@ -740,7 +740,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "286:35",
+        "id": "286:35b",
         "page": 286,
         "line": 35,
         "text": "And thus ended the tenth year ",
@@ -750,14 +750,7 @@
         "id": "286:36",
         "page": 286,
         "line": 36,
-        "text": "of the reign of the judges over the people of Nephi. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/286"
-      },
-      {
-        "id": "286:37",
-        "page": 286,
-        "line": 37,
-        "text": "CHAPTER XI.",
+        "text": "of the reign of the judges over the people of Nephi.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/286"
       }
     ]

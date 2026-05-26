@@ -152,7 +152,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/196"
       },
       {
-        "id": "196:32",
+        "id": "196:32a",
         "page": 196,
         "line": 32,
         "text": "he shall know that I am the Lord.",
@@ -166,7 +166,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "196:32",
+        "id": "196:32b",
         "page": 196,
         "line": 32,
         "text": "and it shall come ",
@@ -187,7 +187,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/196"
       },
       {
-        "id": "196:35",
+        "id": "196:35a",
         "page": 196,
         "line": 35,
         "text": "will cause that they shall howl all the day long.",
@@ -201,7 +201,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "196:35",
+        "id": "196:35b",
         "page": 196,
         "line": 35,
         "text": "Yea, ",
@@ -257,7 +257,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/196"
       },
       {
-        "id": "196:42",
+        "id": "196:42a",
         "page": 196,
         "line": 42,
         "text": "pester their land also, and devour their grain.",
@@ -271,7 +271,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "196:42",
+        "id": "196:42b",
         "page": 196,
         "line": 42,
         "text": "And ",
@@ -397,7 +397,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/197"
       },
       {
-        "id": "197:11",
+        "id": "197:11a",
         "page": 197,
         "line": 11,
         "text": "thy people, and saith that God will destroy them;",
@@ -411,7 +411,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "197:11",
+        "id": "197:11b",
         "page": 197,
         "line": 11,
         "text": "and ",
@@ -453,7 +453,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/197"
       },
       {
-        "id": "197:16",
+        "id": "197:16a",
         "page": 197,
         "line": 16,
         "text": "beasts and trodden under foot.",
@@ -467,7 +467,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "197:16",
+        "id": "197:16b",
         "page": 197,
         "line": 16,
         "text": "And again, he saith ",
@@ -565,7 +565,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/197"
       },
       {
-        "id": "197:28",
+        "id": "197:28a",
         "page": 197,
         "line": 28,
         "text": "concerning you, and he has prophesied in vain.",
@@ -579,7 +579,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "197:28",
+        "id": "197:28b",
         "page": 197,
         "line": 28,
         "text": "And ",
@@ -607,7 +607,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/197"
       },
       {
-        "id": "197:32",
+        "id": "197:32a",
         "page": 197,
         "line": 32,
         "text": "prosper.",
@@ -621,7 +621,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "197:32",
+        "id": "197:32b",
         "page": 197,
         "line": 32,
         "text": "Behold, here is the man, we deliver him in",
@@ -677,7 +677,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/197"
       },
       {
-        "id": "197:39",
+        "id": "197:39a",
         "page": 197,
         "line": 39,
         "text": "do with him.",
@@ -691,7 +691,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "197:39",
+        "id": "197:39b",
         "page": 197,
         "line": 39,
         "text": "And it came to pass that they said un",
@@ -712,7 +712,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/197"
       },
       {
-        "id": "197:42",
+        "id": "197:42a",
         "page": 197,
         "line": 42,
         "text": "brought before them.",
@@ -726,7 +726,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "197:42",
+        "id": "197:42b",
         "page": 197,
         "line": 42,
         "text": "And they began to question ",
@@ -796,7 +796,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/198"
       },
       {
-        "id": "198:5",
+        "id": "198:5a",
         "page": 198,
         "line": 5,
         "text": "have been taught by our fathers, saying:",
@@ -810,7 +810,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "198:5",
+        "id": "198:5b",
         "page": 198,
         "line": 5,
         "text": "how beauti",
@@ -838,7 +838,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/198"
       },
       {
-        "id": "198:9",
+        "id": "198:9a",
         "page": 198,
         "line": 9,
         "text": "saith unto Zion, thy God reigneth;",
@@ -852,19 +852,12 @@
     "verse": 22,
     "lines": [
       {
-        "id": "198:9",
+        "id": "198:9b",
         "page": 198,
         "line": 9,
-        "text": "thy watchmen",
+        "text": "thy watchmen ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/198"
-      }
-    ]
-  },
-  {
-    "book": "mosiah",
-    "chapter": 12,
-    "verse": 23,
-    "lines": [
+      },
       {
         "id": "198:10",
         "page": 198,
@@ -880,10 +873,24 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/198"
       },
       {
-        "id": "198:12",
+        "id": "198:12a",
         "page": 198,
         "line": 12,
-        "text": "shall bring again Zion. Break forth into joy; sing to",
+        "text": "shall bring again Zion.",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/198"
+      }
+    ]
+  },
+  {
+    "book": "mosiah",
+    "chapter": 12,
+    "verse": 23,
+    "lines": [
+      {
+        "id": "198:12b",
+        "page": 198,
+        "line": 12,
+        "text": "Break forth into joy; sing to",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/198"
       },
       {
@@ -901,17 +908,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/198"
       },
       {
-        "id": "198:15",
+        "id": "198:15a",
         "page": 198,
         "line": 15,
-        "text": "lem. The Lord hath made bare his holy arm in the ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/198"
-      },
-      {
-        "id": "198:16",
-        "page": 198,
-        "line": 16,
-        "text": "eyes of all the nations; and all the ends of the earth",
+        "text": "lem.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/198"
       }
     ]
@@ -922,7 +922,21 @@
     "verse": 24,
     "lines": [
       {
-        "id": "198:17",
+        "id": "198:15b",
+        "page": 198,
+        "line": 15,
+        "text": "The Lord hath made bare his holy arm in the ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/198"
+      },
+      {
+        "id": "198:16",
+        "page": 198,
+        "line": 16,
+        "text": "eyes of all the nations; and all the ends of the earth ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/198"
+      },
+      {
+        "id": "198:17a",
         "page": 198,
         "line": 17,
         "text": "shall see the salvation of our God.",
@@ -936,7 +950,7 @@
     "verse": 25,
     "lines": [
       {
-        "id": "198:17",
+        "id": "198:17b",
         "page": 198,
         "line": 17,
         "text": "And now Abinadi ",
@@ -964,7 +978,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/198"
       },
       {
-        "id": "198:21",
+        "id": "198:21a",
         "page": 198,
         "line": 21,
         "text": "mean?",
@@ -978,7 +992,7 @@
     "verse": 26,
     "lines": [
       {
-        "id": "198:21",
+        "id": "198:21b",
         "page": 198,
         "line": 21,
         "text": "I say unto you, wo be unto you for perverting ",
@@ -999,7 +1013,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/198"
       },
       {
-        "id": "198:24",
+        "id": "198:24a",
         "page": 198,
         "line": 24,
         "text": "perverted the ways of the Lord.",
@@ -1013,7 +1027,7 @@
     "verse": 27,
     "lines": [
       {
-        "id": "198:24",
+        "id": "198:24b",
         "page": 198,
         "line": 24,
         "text": "Ye have not applied ",
@@ -1041,7 +1055,7 @@
     "verse": 28,
     "lines": [
       {
-        "id": "198:27",
+        "id": "198:27a",
         "page": 198,
         "line": 27,
         "text": "And they said, we teach the law of Moses.",
@@ -1055,7 +1069,7 @@
     "verse": 29,
     "lines": [
       {
-        "id": "198:27",
+        "id": "198:27b",
         "page": 198,
         "line": 27,
         "text": "And ",
@@ -1104,7 +1118,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/198"
       },
       {
-        "id": "198:34",
+        "id": "198:34a",
         "page": 198,
         "line": 34,
         "text": "evil against this people?",
@@ -1118,7 +1132,7 @@
     "verse": 30,
     "lines": [
       {
-        "id": "198:34",
+        "id": "198:34b",
         "page": 198,
         "line": 34,
         "text": "Know ye not that I speak ",
@@ -1174,7 +1188,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/198"
       },
       {
-        "id": "198:41",
+        "id": "198:41a",
         "page": 198,
         "line": 41,
         "text": "Moses? What say ye?",
@@ -1188,14 +1202,14 @@
     "verse": 32,
     "lines": [
       {
-        "id": "198:41",
+        "id": "198:41b",
         "page": 198,
         "line": 41,
         "text": "And they answered and said, ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/198"
       },
       {
-        "id": "198:42",
+        "id": "198:42a",
         "page": 198,
         "line": 42,
         "text": "that salvation did come by the law of Moses.",
@@ -1209,7 +1223,7 @@
     "verse": 33,
     "lines": [
       {
-        "id": "198:42",
+        "id": "198:42b",
         "page": 198,
         "line": 42,
         "text": "But ",
@@ -1237,7 +1251,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/198"
       },
       {
-        "id": "198:46",
+        "id": "198:46a",
         "page": 198,
         "line": 46,
         "text": "to Moses in the mount of Sinai, saying:",
@@ -1251,7 +1265,7 @@
     "verse": 34,
     "lines": [
       {
-        "id": "198:46",
+        "id": "198:46b",
         "page": 198,
         "line": 46,
         "text": "I am the Lord ",
@@ -1265,7 +1279,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/198"
       },
       {
-        "id": "199:1",
+        "id": "199:1a",
         "page": 199,
         "line": 1,
         "text": "Egypt, out of the house of bondage.",
@@ -1279,14 +1293,14 @@
     "verse": 35,
     "lines": [
       {
-        "id": "199:1",
+        "id": "199:1b",
         "page": 199,
         "line": 1,
         "text": "Thou shalt have ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/199"
       },
       {
-        "id": "199:2",
+        "id": "199:2a",
         "page": 199,
         "line": 2,
         "text": "no other God before me.",
@@ -1300,7 +1314,7 @@
     "verse": 36,
     "lines": [
       {
-        "id": "199:2",
+        "id": "199:2b",
         "page": 199,
         "line": 2,
         "text": "Thou shalt not make unto ",
@@ -1321,7 +1335,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/199"
       },
       {
-        "id": "199:5",
+        "id": "199:5a",
         "page": 199,
         "line": 5,
         "text": "neath.",
@@ -1335,7 +1349,7 @@
     "verse": 37,
     "lines": [
       {
-        "id": "199:5",
+        "id": "199:5b",
         "page": 199,
         "line": 5,
         "text": "Now Abinadi said unto them, have ye done ",

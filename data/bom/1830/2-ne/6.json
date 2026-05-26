@@ -12,7 +12,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/80"
       },
       {
-        "id": "80:2",
+        "id": "80:2a",
         "page": 80,
         "line": 2,
         "text": "unto the people of Nephi:",
@@ -26,7 +26,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "80:2",
+        "id": "80:2b",
         "page": 80,
         "line": 2,
         "text": "Behold, my beloved brethren, that ",
@@ -61,7 +61,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/80"
       },
       {
-        "id": "80:7",
+        "id": "80:7a",
         "page": 80,
         "line": 7,
         "text": "have spoken unto you exceeding many things;",
@@ -75,7 +75,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "80:7",
+        "id": "80:7b",
         "page": 80,
         "line": 7,
         "text": "nevertheless, I ",
@@ -166,7 +166,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/80"
       },
       {
-        "id": "80:19",
+        "id": "80:19a",
         "page": 80,
         "line": 19,
         "text": "the name of your God.",
@@ -180,7 +180,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "80:19",
+        "id": "80:19b",
         "page": 80,
         "line": 19,
         "text": "And now, the words which I shall read, ",
@@ -253,9 +253,16 @@
         "id": "80:28",
         "page": 80,
         "line": 28,
-        "text": "arms, and thy daughters shall be carried upon their shoulders. ",
+        "text": "arms, and thy daughters shall be carried upon their shoulders.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/80"
-      },
+      }
+    ]
+  },
+  {
+    "book": "2-ne",
+    "chapter": 6,
+    "verse": 7,
+    "lines": [
       {
         "id": "80:29",
         "page": 80,
@@ -267,7 +274,7 @@
         "id": "80:30",
         "page": 80,
         "line": 30,
-        "text": "nursing mothers: they shall bow down to thee with their fa ",
+        "text": "nursing mothers: they shall bow down to thee with their fa",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/80"
       },
       {
@@ -281,16 +288,9 @@
         "id": "80:32",
         "page": 80,
         "line": 32,
-        "text": "thou shalt know that I am the Lord: for they shall not be",
+        "text": "thou shalt know that I am the Lord: for they shall not be ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/80"
-      }
-    ]
-  },
-  {
-    "book": "2-ne",
-    "chapter": 6,
-    "verse": 7,
-    "lines": [
+      },
       {
         "id": "80:33",
         "page": 80,
@@ -327,7 +327,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/80"
       },
       {
-        "id": "80:37",
+        "id": "80:37a",
         "page": 80,
         "line": 37,
         "text": "and carried away captive;",
@@ -341,7 +341,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "80:37",
+        "id": "80:37b",
         "page": 80,
         "line": 37,
         "text": "nevertheless, the Lord hath shewn ",
@@ -383,10 +383,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/81"
       },
       {
-        "id": "81:2",
+        "id": "81:2a",
         "page": 81,
         "line": 2,
-        "text": "unto me. And",
+        "text": "unto me.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/81"
       }
     ]
@@ -397,10 +397,10 @@
     "verse": 10,
     "lines": [
       {
-        "id": "81:2",
+        "id": "81:2b",
         "page": 81,
         "line": 2,
-        "text": "after that they have hardened their hearts and ",
+        "text": "And after that they have hardened their hearts and ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/81"
       },
       {
@@ -425,7 +425,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/81"
       },
       {
-        "id": "81:6",
+        "id": "81:6a",
         "page": 81,
         "line": 6,
         "text": "flicted.",
@@ -439,7 +439,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "81:6",
+        "id": "81:6b",
         "page": 81,
         "line": 6,
         "text": "Wherefore, after they are driven to and fro, for thus ",
@@ -544,7 +544,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/81"
       },
       {
-        "id": "81:20",
+        "id": "81:20a",
         "page": 81,
         "line": 20,
         "text": "things.",
@@ -558,7 +558,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "81:20",
+        "id": "81:20b",
         "page": 81,
         "line": 20,
         "text": "Wherefore, they that fight against Zion and the cove",
@@ -586,7 +586,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/81"
       },
       {
-        "id": "81:24",
+        "id": "81:24a",
         "page": 81,
         "line": 24,
         "text": "wait for the coming of the Messiah.",
@@ -600,7 +600,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "81:24",
+        "id": "81:24b",
         "page": 81,
         "line": 24,
         "text": "And behold, according ",
@@ -670,7 +670,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/81"
       },
       {
-        "id": "81:33",
+        "id": "81:33a",
         "page": 81,
         "line": 33,
         "text": "the Lord is God, the Holy One of Israel:",
@@ -684,7 +684,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "81:33",
+        "id": "81:33b",
         "page": 81,
         "line": 33,
         "text": "for shall the prey ",
@@ -694,14 +694,7 @@
         "id": "81:34",
         "page": 81,
         "line": 34,
-        "text": "be taken from the mighty, or the lawful captive delivered? ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/81"
-      },
-      {
-        "id": "81:35",
-        "page": 81,
-        "line": 35,
-        "text": "But thus saith the Lord: Even the captives of the mighty shall",
+        "text": "be taken from the mighty, or the lawful captive delivered?",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/81"
       }
     ]
@@ -711,6 +704,13 @@
     "chapter": 6,
     "verse": 17,
     "lines": [
+      {
+        "id": "81:35",
+        "page": 81,
+        "line": 35,
+        "text": "But thus saith the Lord: Even the captives of the mighty shall ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/81"
+      },
       {
         "id": "81:36",
         "page": 81,
@@ -733,7 +733,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/81"
       },
       {
-        "id": "81:39",
+        "id": "81:39a",
         "page": 81,
         "line": 39,
         "text": "with thee,",
@@ -747,7 +747,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "81:39",
+        "id": "81:39b",
         "page": 81,
         "line": 39,
         "text": "and I will feed them that oppress thee, with their ",

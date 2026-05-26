@@ -26,7 +26,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/111"
       },
       {
-        "id": "111:43",
+        "id": "111:43a",
         "page": 111,
         "line": 43,
         "text": "cleave to the house of Jacob.",
@@ -40,7 +40,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "111:43",
+        "id": "111:43b",
         "page": 111,
         "line": 43,
         "text": "And the people shall ",
@@ -89,7 +89,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/112"
       },
       {
-        "id": "112:3",
+        "id": "112:3a",
         "page": 112,
         "line": 3,
         "text": "shall rule over their oppressors.",
@@ -103,7 +103,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "112:3",
+        "id": "112:3b",
         "page": 112,
         "line": 3,
         "text": "And it shall come to ",
@@ -159,7 +159,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/112"
       },
       {
-        "id": "112:10",
+        "id": "112:10a",
         "page": 112,
         "line": 10,
         "text": "city ceased!",
@@ -173,14 +173,14 @@
     "verse": 5,
     "lines": [
       {
-        "id": "112:10",
+        "id": "112:10b",
         "page": 112,
         "line": 10,
         "text": "The Lord hath broken the staff of the ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/112"
       },
       {
-        "id": "112:11",
+        "id": "112:11a",
         "page": 112,
         "line": 11,
         "text": "wicked, the sceptres of the rulers.",
@@ -194,7 +194,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "112:11",
+        "id": "112:11b",
         "page": 112,
         "line": 11,
         "text": "He who smote the ",
@@ -208,17 +208,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/112"
       },
       {
-        "id": "112:13",
+        "id": "112:13a",
         "page": 112,
         "line": 13,
-        "text": "the nations in anger, is persecuted, and none hinder",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/112"
-      },
-      {
-        "id": "112:14",
-        "page": 112,
-        "line": 14,
-        "text": "eth.",
+        "text": "the nations in anger, is persecuted, and none",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/112"
       }
     ]
@@ -229,14 +222,21 @@
     "verse": 7,
     "lines": [
       {
-        "id": "112:14",
+        "id": "112:13b",
         "page": 112,
-        "line": 14,
-        "text": "The whole earth is at rest, and is quiet: they ",
+        "line": 13,
+        "text": "hinder ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/112"
       },
       {
-        "id": "112:15",
+        "id": "112:14",
+        "page": 112,
+        "line": 14,
+        "text": "eth. The whole earth is at rest, and is quiet: they ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/112"
+      },
+      {
+        "id": "112:15a",
         "page": 112,
         "line": 15,
         "text": "break forth into singing.",
@@ -250,7 +250,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "112:15",
+        "id": "112:15b",
         "page": 112,
         "line": 15,
         "text": "Yea, the fir-trees rejoice at ",
@@ -299,7 +299,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/112"
       },
       {
-        "id": "112:21",
+        "id": "112:21a",
         "page": 112,
         "line": 21,
         "text": "their thrones all the kings of the nations.",
@@ -313,7 +313,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "112:21",
+        "id": "112:21b",
         "page": 112,
         "line": 21,
         "text": "All they ",
@@ -327,7 +327,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/112"
       },
       {
-        "id": "112:23",
+        "id": "112:23a",
         "page": 112,
         "line": 23,
         "text": "weak as we? Art thou become like unto us?",
@@ -341,7 +341,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "112:23",
+        "id": "112:23b",
         "page": 112,
         "line": 23,
         "text": "Thy ",
@@ -362,7 +362,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/112"
       },
       {
-        "id": "112:26",
+        "id": "112:26a",
         "page": 112,
         "line": 26,
         "text": "and the worms cover thee.",
@@ -376,7 +376,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "112:26",
+        "id": "112:26b",
         "page": 112,
         "line": 26,
         "text": "How art thou fallen from ",
@@ -425,7 +425,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/112"
       },
       {
-        "id": "112:32",
+        "id": "112:32a",
         "page": 112,
         "line": 32,
         "text": "the sides of the north;",
@@ -439,14 +439,14 @@
     "verse": 14,
     "lines": [
       {
-        "id": "112:32",
+        "id": "112:32b",
         "page": 112,
         "line": 32,
         "text": "I will ascend above the heights ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/112"
       },
       {
-        "id": "112:33",
+        "id": "112:33a",
         "page": 112,
         "line": 33,
         "text": "of the clouds; I will be like the Most High.",
@@ -460,7 +460,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "112:33",
+        "id": "112:33b",
         "page": 112,
         "line": 33,
         "text": "Yet thou ",
@@ -516,17 +516,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/112"
       },
       {
-        "id": "112:39",
+        "id": "112:39a",
         "page": 112,
         "line": 39,
-        "text": "cities thereof, and opened not the house of his prison",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/112"
-      },
-      {
-        "id": "112:40",
-        "page": 112,
-        "line": 40,
-        "text": "ers?",
+        "text": "cities thereof, and opened not the house of his",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/112"
       }
     ]
@@ -537,14 +530,21 @@
     "verse": 18,
     "lines": [
       {
-        "id": "112:40",
+        "id": "112:39b",
         "page": 112,
-        "line": 40,
-        "text": "All the kings of the nations, yea, all of them, lie ",
+        "line": 39,
+        "text": "prison ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/112"
       },
       {
-        "id": "112:41",
+        "id": "112:40",
+        "page": 112,
+        "line": 40,
+        "text": "ers? All the kings of the nations, yea, all of them, lie ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/112"
+      },
+      {
+        "id": "112:41a",
         "page": 112,
         "line": 41,
         "text": "in glory, every one of them in his own house.",
@@ -558,7 +558,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "112:41",
+        "id": "112:41b",
         "page": 112,
         "line": 41,
         "text": "But ",
@@ -586,7 +586,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/112"
       },
       {
-        "id": "112:45",
+        "id": "112:45a",
         "page": 112,
         "line": 45,
         "text": "the pit; as a carcass trodden under feet.",
@@ -600,7 +600,7 @@
     "verse": 20,
     "lines": [
       {
-        "id": "112:45",
+        "id": "112:45b",
         "page": 112,
         "line": 45,
         "text": "Thou shalt ",
@@ -621,10 +621,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/112"
       },
       {
-        "id": "113:1",
+        "id": "113:1a",
         "page": 113,
         "line": 1,
-        "text": "evil-doers shall never be renowned. Prepare",
+        "text": "evil-doers shall never be renowned.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/113"
       }
     ]
@@ -635,10 +635,10 @@
     "verse": 21,
     "lines": [
       {
-        "id": "113:1",
+        "id": "113:1b",
         "page": 113,
         "line": 1,
-        "text": "slaugh",
+        "text": "Prepare slaugh",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/113"
       },
       {
@@ -656,7 +656,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/113"
       },
       {
-        "id": "113:4",
+        "id": "113:4a",
         "page": 113,
         "line": 4,
         "text": "face of the word with cities.",
@@ -670,7 +670,7 @@
     "verse": 22,
     "lines": [
       {
-        "id": "113:4",
+        "id": "113:4b",
         "page": 113,
         "line": 4,
         "text": "For I will rise up against ",
@@ -691,7 +691,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/113"
       },
       {
-        "id": "113:7",
+        "id": "113:7a",
         "page": 113,
         "line": 7,
         "text": "saith the Lord.",
@@ -705,7 +705,7 @@
     "verse": 23,
     "lines": [
       {
-        "id": "113:7",
+        "id": "113:7b",
         "page": 113,
         "line": 7,
         "text": "I will also make it a possession for ",
@@ -754,7 +754,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/113"
       },
       {
-        "id": "113:13",
+        "id": "113:13a",
         "page": 113,
         "line": 13,
         "text": "purposed, so shall it stand:",
@@ -768,7 +768,7 @@
     "verse": 25,
     "lines": [
       {
-        "id": "113:13",
+        "id": "113:13b",
         "page": 113,
         "line": 13,
         "text": "that I will bring the As",
@@ -789,7 +789,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/113"
       },
       {
-        "id": "113:16",
+        "id": "113:16a",
         "page": 113,
         "line": 16,
         "text": "and his burden depart from off their shoulders.",
@@ -803,7 +803,7 @@
     "verse": 26,
     "lines": [
       {
-        "id": "113:16",
+        "id": "113:16b",
         "page": 113,
         "line": 16,
         "text": "This ",
@@ -824,7 +824,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/113"
       },
       {
-        "id": "113:19",
+        "id": "113:19a",
         "page": 113,
         "line": 19,
         "text": "tions.",
@@ -838,7 +838,7 @@
     "verse": 27,
     "lines": [
       {
-        "id": "113:19",
+        "id": "113:19b",
         "page": 113,
         "line": 19,
         "text": "For the Lord of hosts hath purposed, and who ",
@@ -852,7 +852,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/113"
       },
       {
-        "id": "113:21",
+        "id": "113:21a",
         "page": 113,
         "line": 21,
         "text": "shall turn it back?",
@@ -866,7 +866,7 @@
     "verse": 28,
     "lines": [
       {
-        "id": "113:21",
+        "id": "113:21b",
         "page": 113,
         "line": 21,
         "text": "In the year that king Ahaz died ",
@@ -908,7 +908,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/113"
       },
       {
-        "id": "113:26",
+        "id": "113:26a",
         "page": 113,
         "line": 26,
         "text": "shall be a fiery flying serpent.",
@@ -922,7 +922,7 @@
     "verse": 30,
     "lines": [
       {
-        "id": "113:26",
+        "id": "113:26b",
         "page": 113,
         "line": 26,
         "text": "And the first-born of ",
@@ -943,7 +943,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/113"
       },
       {
-        "id": "113:29",
+        "id": "113:29a",
         "page": 113,
         "line": 29,
         "text": "shall slay thy remnant.",
@@ -957,7 +957,7 @@
     "verse": 31,
     "lines": [
       {
-        "id": "113:29",
+        "id": "113:29b",
         "page": 113,
         "line": 29,
         "text": "Howl, O gate; cry, O city; ",
@@ -978,7 +978,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/113"
       },
       {
-        "id": "113:32",
+        "id": "113:32a",
         "page": 113,
         "line": 32,
         "text": "in his appointed times.",
@@ -992,7 +992,7 @@
     "verse": 32,
     "lines": [
       {
-        "id": "113:32",
+        "id": "113:32b",
         "page": 113,
         "line": 32,
         "text": "What shall then answer the ",
@@ -1009,14 +1009,7 @@
         "id": "113:34",
         "page": 113,
         "line": 34,
-        "text": "ded Zion, and the poor of his people shall trust in it. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/113"
-      },
-      {
-        "id": "113:35",
-        "page": 113,
-        "line": 35,
-        "text": "CHAPTER XI.",
+        "text": "ded Zion, and the poor of his people shall trust in it.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/113"
       }
     ]

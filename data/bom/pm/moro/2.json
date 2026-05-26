@@ -5,6 +5,13 @@
     "verse": 1,
     "lines": [
       {
+        "id": "458:11",
+        "page": 458,
+        "line": 11,
+        "text": "Chapter ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/458"
+      },
+      {
         "id": "458:12",
         "page": 458,
         "line": 12,
@@ -12,7 +19,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/458"
       },
       {
-        "id": "458:13",
+        "id": "458:13a",
         "page": 458,
         "line": 13,
         "text": "as he laid his hands upon them",
@@ -27,7 +34,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "458:13",
+        "id": "458:13b",
         "page": 458,
         "line": 13,
         "text": "& he called them by name saying Ye shall call ",
@@ -49,7 +56,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/458"
       },
       {
-        "id": "458:16",
+        "id": "458:16a",
         "page": 458,
         "line": 16,
         "text": "& in my name shall ye give it for thus do mine Apostles",
@@ -63,7 +70,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "458:16",
+        "id": "458:16b",
         "page": 458,
         "line": 16,
         "text": "now Christ spake these words ",

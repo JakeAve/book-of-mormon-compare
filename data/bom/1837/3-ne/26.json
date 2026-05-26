@@ -26,7 +26,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/537"
       },
       {
-        "id": "537:4",
+        "id": "537:4a",
         "page": 537,
         "line": 4,
         "text": "and small.",
@@ -40,7 +40,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "537:4",
+        "id": "537:4b",
         "page": 537,
         "line": 4,
         "text": "And he saith, these scriptures which ye ",
@@ -61,7 +61,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/537"
       },
       {
-        "id": "537:7",
+        "id": "537:7a",
         "page": 537,
         "line": 7,
         "text": "should be given unto future generations.",
@@ -75,7 +75,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "537:7",
+        "id": "537:7b",
         "page": 537,
         "line": 7,
         "text": "And he did ",
@@ -117,7 +117,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/537"
       },
       {
-        "id": "537:13",
+        "id": "537:13a",
         "page": 537,
         "line": 13,
         "text": "the heavens and the earth should pass away;",
@@ -131,7 +131,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "537:13",
+        "id": "537:13b",
         "page": 537,
         "line": 13,
         "text": "and even ",
@@ -159,7 +159,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/537"
       },
       {
-        "id": "537:17",
+        "id": "537:17a",
         "page": 537,
         "line": 17,
         "text": "good or whether they be evil;",
@@ -173,7 +173,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "537:17",
+        "id": "537:17b",
         "page": 537,
         "line": 17,
         "text": "if they be good, to the ",
@@ -218,14 +218,7 @@
         "id": "537:23",
         "page": 537,
         "line": 23,
-        "text": "began. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/537"
-      },
-      {
-        "id": "537:24",
-        "page": 537,
-        "line": 24,
-        "text": "CHAPTER XII.",
+        "text": "began.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/537"
       }
     ]
@@ -235,6 +228,13 @@
     "chapter": 26,
     "verse": 6,
     "lines": [
+      {
+        "id": "537:24",
+        "page": 537,
+        "line": 24,
+        "text": "CHAPTER XII. ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/537"
+      },
       {
         "id": "537:25",
         "page": 537,
@@ -250,7 +250,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/537"
       },
       {
-        "id": "537:27",
+        "id": "537:27a",
         "page": 537,
         "line": 27,
         "text": "teach unto the people;",
@@ -264,7 +264,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "537:27",
+        "id": "537:27b",
         "page": 537,
         "line": 27,
         "text": "but behold the plates of Nephi ",
@@ -278,7 +278,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/537"
       },
       {
-        "id": "537:29",
+        "id": "537:29a",
         "page": 537,
         "line": 29,
         "text": "the people;",
@@ -292,7 +292,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "537:29",
+        "id": "537:29b",
         "page": 537,
         "line": 29,
         "text": "and these things have I written, which ",
@@ -362,7 +362,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/537"
       },
       {
-        "id": "537:38",
+        "id": "537:38a",
         "page": 537,
         "line": 38,
         "text": "them.",
@@ -376,7 +376,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "537:38",
+        "id": "537:38b",
         "page": 537,
         "line": 38,
         "text": "And if it so be that they will not believe these ",
@@ -390,7 +390,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/537"
       },
       {
-        "id": "537:40",
+        "id": "537:40a",
         "page": 537,
         "line": 40,
         "text": "them, unto their condemnation.",
@@ -404,7 +404,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "537:40",
+        "id": "537:40b",
         "page": 537,
         "line": 40,
         "text": "Behold I were about ",
@@ -425,7 +425,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/537"
       },
       {
-        "id": "538:1",
+        "id": "538:1a",
         "page": 538,
         "line": 1,
         "text": "faith of my people;",
@@ -439,7 +439,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "538:1",
+        "id": "538:1b",
         "page": 538,
         "line": 1,
         "text": "therefore I, Mormon, do write the ",
@@ -467,7 +467,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/538"
       },
       {
-        "id": "538:5",
+        "id": "538:5a",
         "page": 538,
         "line": 5,
         "text": "ed me;",
@@ -481,7 +481,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "538:5",
+        "id": "538:5b",
         "page": 538,
         "line": 5,
         "text": "therefore I would that ye should behold that ",
@@ -558,7 +558,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/538"
       },
       {
-        "id": "538:15",
+        "id": "538:15a",
         "page": 538,
         "line": 15,
         "text": "loosed their tongues that they could utter.",
@@ -572,7 +572,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "538:15",
+        "id": "538:15b",
         "page": 538,
         "line": 15,
         "text": "And it ",
@@ -628,7 +628,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/538"
       },
       {
-        "id": "538:23",
+        "id": "538:23a",
         "page": 538,
         "line": 23,
         "text": "unto them, and had ascended unto the Father,",
@@ -642,7 +642,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "538:23",
+        "id": "538:23b",
         "page": 538,
         "line": 23,
         "text": "behold, ",
@@ -684,7 +684,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/538"
       },
       {
-        "id": "538:29",
+        "id": "538:29a",
         "page": 538,
         "line": 29,
         "text": "not any man write them.",
@@ -698,7 +698,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "538:29",
+        "id": "538:29b",
         "page": 538,
         "line": 29,
         "text": "And it came to pass that ",
@@ -726,7 +726,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/538"
       },
       {
-        "id": "538:33",
+        "id": "538:33a",
         "page": 538,
         "line": 33,
         "text": "of Jesus, were filled with the Holy Ghost.",
@@ -740,7 +740,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "538:33",
+        "id": "538:33b",
         "page": 538,
         "line": 33,
         "text": "And many ",
@@ -754,7 +754,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/538"
       },
       {
-        "id": "538:35",
+        "id": "538:35a",
         "page": 538,
         "line": 35,
         "text": "not lawful to be written;",
@@ -768,7 +768,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "538:35",
+        "id": "538:35b",
         "page": 538,
         "line": 35,
         "text": "and they taught, and did ",
@@ -789,7 +789,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/538"
       },
       {
-        "id": "538:38",
+        "id": "538:38a",
         "page": 538,
         "line": 38,
         "text": "another.",
@@ -803,14 +803,14 @@
     "verse": 20,
     "lines": [
       {
-        "id": "538:38",
+        "id": "538:38b",
         "page": 538,
         "line": 38,
         "text": "And it came to pass that they did do all ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/538"
       },
       {
-        "id": "538:39",
+        "id": "538:39a",
         "page": 538,
         "line": 39,
         "text": "things, even as Jesus had commanded them.",
@@ -824,7 +824,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "538:39",
+        "id": "538:39b",
         "page": 538,
         "line": 39,
         "text": "And ",

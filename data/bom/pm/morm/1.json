@@ -5,17 +5,10 @@
     "verse": 0,
     "lines": [
       {
-        "id": "417:24",
-        "page": 417,
-        "line": 24,
-        "text": "Ammoron ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/417"
-      },
-      {
-        "id": "417:25",
+        "id": "417:25a",
         "page": 417,
         "line": 25,
-        "text": "Chapter— I",
+        "text": "Chapter— I And now",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/417"
       }
     ]
@@ -26,26 +19,17 @@
     "verse": 1,
     "lines": [
       {
-        "id": "417:25",
+        "id": "417:25b",
         "page": 417,
         "line": 25,
-        "text": "And now I Mormon make a record of the things ",
+        "text": "I Mormon make a record of the things ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/417"
       },
       {
-        "id": "417:26",
+        "id": "417:26a",
         "page": 417,
         "line": 26,
-        "text": "which I have both seen & heard & call it the Book of Mormon—— ",
-        "markdown": "which I have both seen & heard & call it the Book of Mormon—— And ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/417"
-      },
-      {
-        "id": "417:26",
-        "page": 417,
-        "line": 26,
-        "text": "And",
-        "markdown": "which I have both seen & heard & call it the Book of Mormon—— And",
+        "text": "which I have both seen & heard & call it the Book of Mormon——",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/417"
       }
     ]
@@ -55,6 +39,13 @@
     "chapter": 1,
     "verse": 2,
     "lines": [
+      {
+        "id": "417:26b",
+        "page": 417,
+        "line": 26,
+        "text": "And ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/417"
+      },
       {
         "id": "417:27",
         "page": 417,
@@ -77,10 +68,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/417"
       },
       {
-        "id": "417:30",
+        "id": "417:30a",
         "page": 417,
         "line": 30,
-        "text": "unto me I perceive that thou art a sober Child & art quick to observe ther",
+        "text": "unto me I perceive that thou art a sober Child & art quick to observe",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/417"
       }
     ]
@@ -90,6 +81,13 @@
     "chapter": 1,
     "verse": 3,
     "lines": [
+      {
+        "id": "417:30b",
+        "page": 417,
+        "line": 30,
+        "text": "ther",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/417"
+      },
       {
         "id": "417:31",
         "page": 417,
@@ -119,7 +117,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/417"
       },
       {
-        "id": "417:35",
+        "id": "417:35a",
         "page": 417,
         "line": 35,
         "text": "erning this People",
@@ -133,7 +131,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "417:35",
+        "id": "417:35b",
         "page": 417,
         "line": 35,
         "text": "& behold ye shall take the plates of Nephi unto yourself & the ",
@@ -168,7 +166,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/417"
       },
       {
-        "id": "417:39",
+        "id": "417:39a",
         "page": 417,
         "line": 39,
         "text": "I remembred the things which Ammoron Commanded me",
@@ -182,7 +180,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "417:39",
+        "id": "417:39b",
         "page": 417,
         "line": 39,
         "text": "& it came to pass ",
@@ -196,7 +194,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/418"
       },
       {
-        "id": "418:2",
+        "id": "418:2a",
         "page": 418,
         "line": 2,
         "text": "even to the land of Zarahemla",
@@ -210,7 +208,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "418:2",
+        "id": "418:2b",
         "page": 418,
         "line": 2,
         "text": "the whole face of the land having become covered ",
@@ -224,10 +222,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/418"
       },
       {
-        "id": "418:4",
+        "id": "418:4a",
         "page": 418,
         "line": 4,
-        "text": "Sea &",
+        "text": "Sea",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/418"
       }
     ]
@@ -238,10 +236,10 @@
     "verse": 8,
     "lines": [
       {
-        "id": "418:4",
+        "id": "418:4b",
         "page": 418,
         "line": 4,
-        "text": "it came to pass that in this year there began to be a war between the Nephites ",
+        "text": "& it came to pass that in this year there began to be a war between the Nephites ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/418"
       },
       {
@@ -255,7 +253,14 @@
         "id": "418:6",
         "page": 418,
         "line": 6,
-        "text": "this war was between the Nephites & the Lamanites Lemuelites & the Ishmaelites",
+        "text": "this war was between the Nephites & the Lamanites Lemuelites & the Ishmaelites ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/418"
+      },
+      {
+        "id": "418:7a",
+        "page": 418,
+        "line": 7,
+        "text": "now the Lamanites & the Lemuelites &",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/418"
       }
     ]
@@ -266,14 +271,14 @@
     "verse": 9,
     "lines": [
       {
-        "id": "418:7",
+        "id": "418:7b",
         "page": 418,
         "line": 7,
-        "text": "now the Lamanites & the Lemuelites & the Ishmaelites were called Lamanites & the ",
+        "text": "the Ishmaelites were called Lamanites & the ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/418"
       },
       {
-        "id": "418:8",
+        "id": "418:8a",
         "page": 418,
         "line": 8,
         "text": "two parties were Nephites & Lamanites",
@@ -287,14 +292,14 @@
     "verse": 10,
     "lines": [
       {
-        "id": "418:8",
+        "id": "418:8b",
         "page": 418,
         "line": 8,
         "text": "& it came to pass that the war began to ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/418"
       },
       {
-        "id": "418:9",
+        "id": "418:9a",
         "page": 418,
         "line": 9,
         "text": "be among them in the borders of Zarahemla by the waters of Sidon",
@@ -308,7 +313,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "418:9",
+        "id": "418:9b",
         "page": 418,
         "line": 9,
         "text": "& it came ",
@@ -336,7 +341,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/418"
       },
       {
-        "id": "418:13",
+        "id": "418:13a",
         "page": 418,
         "line": 13,
         "text": "beat the Lamanites & did slay many of them",
@@ -350,7 +355,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "418:13",
+        "id": "418:13b",
         "page": 418,
         "line": 13,
         "text": "& it came to pass that the La",
@@ -367,21 +372,7 @@
         "id": "418:15",
         "page": 418,
         "line": 15,
-        "text": "did remain for the pace of about four years that there was no blood shed",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/418"
-      }
-    ]
-  },
-  {
-    "book": "morm",
-    "chapter": 1,
-    "verse": 13,
-    "lines": [
-      {
-        "id": "418:15",
-        "page": 418,
-        "line": 15,
-        "text": "but ",
+        "text": "did remain for the pace of about four years that there was no blood shed but ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/418"
       },
       {
@@ -392,15 +383,29 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/418"
       },
       {
-        "id": "418:17",
+        "id": "418:17a",
         "page": 418,
         "line": 17,
-        "text": "away his beloved Disciples. & the work of miracles & of healing did cease bcause of the ",
-        "markdown": "away his beloved Disciples. & the work of miracles & of healing~~s~~ did cease bcause of the ",
+        "text": "away his beloved",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/418"
+      }
+    ]
+  },
+  {
+    "book": "morm",
+    "chapter": 1,
+    "verse": 13,
+    "lines": [
+      {
+        "id": "418:17b",
+        "page": 418,
+        "line": 17,
+        "text": "Disciples. & the work of miracles & of healing did cease bcause of the ",
+        "markdown": "Disciples. & the work of miracles & of healing~~s~~ did cease bcause of the ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/418"
       },
       {
-        "id": "418:18",
+        "id": "418:18a",
         "page": 418,
         "line": 18,
         "text": "iniquity of the people",
@@ -414,14 +419,14 @@
     "verse": 14,
     "lines": [
       {
-        "id": "418:18",
+        "id": "418:18b",
         "page": 418,
         "line": 18,
         "text": "& there were no gifts from the Lord & the Holy Ghost did not ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/418"
       },
       {
-        "id": "418:19",
+        "id": "418:19a",
         "page": 418,
         "line": 19,
         "text": "come upon any bcause of their wickedness & unbelief",
@@ -435,7 +440,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "418:19",
+        "id": "418:19b",
         "page": 418,
         "line": 19,
         "text": "& I being fifteen years of ",
@@ -449,7 +454,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/418"
       },
       {
-        "id": "418:21",
+        "id": "418:21a",
         "page": 418,
         "line": 21,
         "text": "and knew of the goodness of Jesus",
@@ -463,7 +468,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "418:21",
+        "id": "418:21b",
         "page": 418,
         "line": 21,
         "text": "& I did endeavor to preach unto the people but my ",
@@ -484,7 +489,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/418"
       },
       {
-        "id": "418:24",
+        "id": "418:24a",
         "page": 418,
         "line": 24,
         "text": "away out of the land because of their iniquity",
@@ -498,7 +503,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "418:24",
+        "id": "418:24b",
         "page": 418,
         "line": 24,
         "text": "but I did remain among them but I were ",
@@ -512,7 +517,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/418"
       },
       {
-        "id": "418:26",
+        "id": "418:26a",
         "page": 418,
         "line": 26,
         "text": "because of the hardness of their heart the land was cursed for their sake",
@@ -526,7 +531,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "418:26",
+        "id": "418:26b",
         "page": 418,
         "line": 26,
         "text": "& these ",
@@ -554,7 +559,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/418"
       },
       {
-        "id": "418:30",
+        "id": "418:30a",
         "page": 418,
         "line": 30,
         "text": "could not hold them nor retain them again",
@@ -568,7 +573,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "418:30",
+        "id": "418:30b",
         "page": 418,
         "line": 30,
         "text": "& it came to pass that there ",
@@ -590,7 +595,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/418"
       },
       {
-        "id": "418:33",
+        "id": "418:33a",
         "page": 418,
         "line": 33,
         "text": "adi & also Samuel the Lamanite",

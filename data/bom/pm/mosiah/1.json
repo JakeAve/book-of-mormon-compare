@@ -5,11 +5,11 @@
     "verse": 0,
     "lines": [
       {
-        "id": "121:4",
+        "id": "121:4a",
         "page": 121,
         "line": 4,
-        "text": "the Book of Mosiah Chapter",
-        "markdown": "[the Book of Mosiah] Chapter",
+        "text": "the Book of Mosiah",
+        "markdown": "[the Book of Mosiah]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/121"
       }
     ]
@@ -20,11 +20,11 @@
     "verse": 1,
     "lines": [
       {
-        "id": "121:4",
+        "id": "121:4b",
         "page": 121,
         "line": 4,
-        "text": "And now there was no more con",
-        "markdown": "[the Book of Mosiah] Chapter []—— And now there was no more con",
+        "text": "Chapter And now there was no more con",
+        "markdown": "Chapter []—— And now there was no more con",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/121"
       },
       {
@@ -35,7 +35,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/121"
       },
       {
-        "id": "121:6",
+        "id": "121:6a",
         "page": 121,
         "line": 6,
         "text": "jamin so that King Benjamin had continual peace all the remainder of his days",
@@ -49,7 +49,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "121:6",
+        "id": "121:6b",
         "page": 121,
         "line": 6,
         "text": "& it came ",
@@ -84,7 +84,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/121"
       },
       {
-        "id": "121:11",
+        "id": "121:11a",
         "page": 121,
         "line": 11,
         "text": "delivered them by the hand of the Lord",
@@ -98,7 +98,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "121:11",
+        "id": "121:11b",
         "page": 121,
         "line": 11,
         "text": "& he also taught them concerning the records ",
@@ -126,7 +126,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/121"
       },
       {
-        "id": "121:15",
+        "id": "121:15a",
         "page": 121,
         "line": 15,
         "text": "mysteries of God",
@@ -140,7 +140,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "121:15",
+        "id": "121:15b",
         "page": 121,
         "line": 15,
         "text": "for it were not possible that our father Lehi could have remembered ",
@@ -219,7 +219,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/121"
       },
       {
-        "id": "121:25",
+        "id": "121:25a",
         "page": 121,
         "line": 25,
         "text": "the tradition of their fathers which are not correct",
@@ -233,7 +233,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "121:25",
+        "id": "121:25b",
         "page": 121,
         "line": 25,
         "text": "O my Sons I would that ye ",
@@ -261,7 +261,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/121"
       },
       {
-        "id": "121:29",
+        "id": "121:29a",
         "page": 121,
         "line": 29,
         "text": "rety because we have them before our eyes",
@@ -275,7 +275,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "121:29",
+        "id": "121:29b",
         "page": 121,
         "line": 29,
         "text": "& now my Sons I would that ye should ",
@@ -296,7 +296,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/121"
       },
       {
-        "id": "121:32",
+        "id": "121:32a",
         "page": 121,
         "line": 32,
         "text": "ises which the Lord made unto our fathers",
@@ -310,14 +310,14 @@
     "verse": 8,
     "lines": [
       {
-        "id": "121:32",
+        "id": "121:32b",
         "page": 121,
         "line": 32,
         "text": "& many more things did King Benjamin teach ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/121"
       },
       {
-        "id": "121:33",
+        "id": "121:33a",
         "page": 121,
         "line": 33,
         "text": "his Sons which are not written in this Book",
@@ -331,7 +331,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "121:33",
+        "id": "121:33b",
         "page": 121,
         "line": 33,
         "text": "& it came to pass that after King Benja",
@@ -352,7 +352,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/121"
       },
       {
-        "id": "121:36",
+        "id": "121:36a",
         "page": 121,
         "line": 36,
         "text": "he should confer the kingdom upon one of his Sons",
@@ -366,7 +366,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "121:36",
+        "id": "121:36b",
         "page": 121,
         "line": 36,
         "text": "therefore he had Mosiah brought ",
@@ -409,7 +409,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/122"
       },
       {
-        "id": "122:4",
+        "id": "122:4a",
         "page": 122,
         "line": 4,
         "text": "the Lord our God hath given us",
@@ -423,7 +423,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "122:4",
+        "id": "122:4b",
         "page": 122,
         "line": 4,
         "text": "& moreover I shall give this People a name that there",
@@ -444,7 +444,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/122"
       },
       {
-        "id": "122:7",
+        "id": "122:7a",
         "page": 122,
         "line": 7,
         "text": "ping the commandments of the Lord",
@@ -458,14 +458,14 @@
     "verse": 12,
     "lines": [
       {
-        "id": "122:7",
+        "id": "122:7b",
         "page": 122,
         "line": 7,
         "text": "& I give unto them a name that never shall be bloted ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/122"
       },
       {
-        "id": "122:8",
+        "id": "122:8a",
         "page": 122,
         "line": 8,
         "text": "out except it be through transgression",
@@ -479,7 +479,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "122:8",
+        "id": "122:8b",
         "page": 122,
         "line": 8,
         "text": "yea & moreover I say unto you that if this highly ",
@@ -507,7 +507,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/122"
       },
       {
-        "id": "122:12",
+        "id": "122:12a",
         "page": 122,
         "line": 12,
         "text": "as he hath hitherto preserved our fathers",
@@ -521,7 +521,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "122:12",
+        "id": "122:12b",
         "page": 122,
         "line": 12,
         "text": "for I say unto you that if he had not extended ",
@@ -536,7 +536,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/122"
       },
       {
-        "id": "122:14",
+        "id": "122:14a",
         "page": 122,
         "line": 14,
         "text": "Lamanites & become victims to their hatred",
@@ -550,7 +550,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "122:14",
+        "id": "122:14b",
         "page": 122,
         "line": 14,
         "text": "& it came to pass that after King Benjam",
@@ -564,7 +564,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/122"
       },
       {
-        "id": "122:16",
+        "id": "122:16a",
         "page": 122,
         "line": 16,
         "text": "the affairs of the Kingdom",
@@ -578,7 +578,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "122:16",
+        "id": "122:16b",
         "page": 122,
         "line": 16,
         "text": "& moreover he also gave him charge concerning the records ",
@@ -606,7 +606,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/122"
       },
       {
-        "id": "122:20",
+        "id": "122:20a",
         "page": 122,
         "line": 20,
         "text": "according to the heed & diligence which they gave unto him",
@@ -620,7 +620,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "122:20",
+        "id": "122:20b",
         "page": 122,
         "line": 20,
         "text": "therefore as they were ",
@@ -641,7 +641,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/122"
       },
       {
-        "id": "122:23",
+        "id": "122:23a",
         "page": 122,
         "line": 23,
         "text": "afflictions to stir them up in rememberance of their duty",
@@ -655,7 +655,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "122:23",
+        "id": "122:23b",
         "page": 122,
         "line": 23,
         "text": "& now it came to pass that Mo",
@@ -676,7 +676,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/122"
       },
       {
-        "id": "122:26",
+        "id": "122:26a",
         "page": 122,
         "line": 26,
         "text": "to go up to the temple to hear the words which his father should speak unto them",

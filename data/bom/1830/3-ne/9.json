@@ -12,17 +12,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/478"
       },
       {
-        "id": "478:18",
+        "id": "478:18a",
         "page": 478,
         "line": 18,
-        "text": "the inhabitants of the earth upon all the face of this land, cry",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/478"
-      },
-      {
-        "id": "478:19",
-        "page": 478,
-        "line": 19,
-        "text": "ing,",
+        "text": "the inhabitants of the earth upon all the face of this land,",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/478"
       }
     ]
@@ -33,10 +26,17 @@
     "verse": 2,
     "lines": [
       {
+        "id": "478:18b",
+        "page": 478,
+        "line": 18,
+        "text": "cry ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/478"
+      },
+      {
         "id": "478:19",
         "page": 478,
         "line": 19,
-        "text": "Wo, wo, wo unto this people; wo unto the inhabitants of ",
+        "text": "ing, Wo, wo, wo unto this people; wo unto the inhabitants of ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/478"
       },
       {
@@ -61,7 +61,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/478"
       },
       {
-        "id": "478:23",
+        "id": "478:23a",
         "page": 478,
         "line": 23,
         "text": "iniquity and abominations that they are fallen.",
@@ -75,7 +75,7 @@
     "verse": 3,
     "lines": [
       {
-        "id": "478:23",
+        "id": "478:23b",
         "page": 478,
         "line": 23,
         "text": "Behold, that ",
@@ -89,7 +89,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/478"
       },
       {
-        "id": "478:25",
+        "id": "478:25a",
         "page": 478,
         "line": 25,
         "text": "ants thereof.",
@@ -103,7 +103,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "478:25",
+        "id": "478:25b",
         "page": 478,
         "line": 25,
         "text": "And behold, that great city Moroni have I caus",
@@ -117,7 +117,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/478"
       },
       {
-        "id": "478:27",
+        "id": "478:27a",
         "page": 478,
         "line": 27,
         "text": "thereof to be drowned.",
@@ -131,7 +131,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "478:27",
+        "id": "478:27b",
         "page": 478,
         "line": 27,
         "text": "And behold, that great city Moroni",
@@ -159,7 +159,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/478"
       },
       {
-        "id": "478:31",
+        "id": "478:31a",
         "page": 478,
         "line": 31,
         "text": "come up any more unto me against them.",
@@ -173,7 +173,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "478:31",
+        "id": "478:31b",
         "page": 478,
         "line": 31,
         "text": "And behold, the ",
@@ -187,7 +187,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/478"
       },
       {
-        "id": "478:33",
+        "id": "478:33a",
         "page": 478,
         "line": 33,
         "text": "thereof to be buried up in the depths of the earth;",
@@ -201,7 +201,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "478:33",
+        "id": "478:33b",
         "page": 478,
         "line": 33,
         "text": "yea, and ",
@@ -418,7 +418,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/479"
       },
       {
-        "id": "479:18",
+        "id": "479:18a",
         "page": 479,
         "line": 18,
         "text": "edness and their abominations;",
@@ -432,7 +432,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "479:18",
+        "id": "479:18b",
         "page": 479,
         "line": 18,
         "text": "and because they did cast ",
@@ -467,7 +467,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/479"
       },
       {
-        "id": "479:23",
+        "id": "479:23a",
         "page": 479,
         "line": 23,
         "text": "not cry unto me from the ground against them;",
@@ -481,7 +481,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "479:23",
+        "id": "479:23b",
         "page": 479,
         "line": 23,
         "text": "and many ",
@@ -530,7 +530,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/479"
       },
       {
-        "id": "479:29",
+        "id": "479:29a",
         "page": 479,
         "line": 29,
         "text": "sins, and be converted, that I may heal you?",
@@ -544,7 +544,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "479:29",
+        "id": "479:29b",
         "page": 479,
         "line": 29,
         "text": "Yea, verily I ",
@@ -572,7 +572,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/479"
       },
       {
-        "id": "479:33",
+        "id": "479:33a",
         "page": 479,
         "line": 33,
         "text": "they which cometh unto me.",
@@ -586,7 +586,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "479:33",
+        "id": "479:33b",
         "page": 479,
         "line": 33,
         "text": "Behold I am Jesus Christ, the ",
@@ -614,7 +614,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/479"
       },
       {
-        "id": "479:37",
+        "id": "479:37a",
         "page": 479,
         "line": 37,
         "text": "me hath the Father glorified his name.",
@@ -628,7 +628,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "479:37",
+        "id": "479:37b",
         "page": 479,
         "line": 37,
         "text": "I came unto my own, ",
@@ -642,7 +642,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/479"
       },
       {
-        "id": "479:39",
+        "id": "479:39a",
         "page": 479,
         "line": 39,
         "text": "ing my coming, are fulfilled.",
@@ -656,7 +656,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "479:39",
+        "id": "479:39b",
         "page": 479,
         "line": 39,
         "text": "And as many as have received ",
@@ -684,7 +684,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/479"
       },
       {
-        "id": "479:43",
+        "id": "479:43a",
         "page": 479,
         "line": 43,
         "text": "Moses fulfilled.",
@@ -698,14 +698,14 @@
     "verse": 18,
     "lines": [
       {
-        "id": "479:43",
+        "id": "479:43b",
         "page": 479,
         "line": 43,
         "text": "I am the light and the life of the world. I ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/479"
       },
       {
-        "id": "480:1",
+        "id": "480:1a",
         "page": 480,
         "line": 1,
         "text": "am Alpha and Omega, the beginning and the end.",
@@ -719,7 +719,7 @@
     "verse": 19,
     "lines": [
       {
-        "id": "480:1",
+        "id": "480:1b",
         "page": 480,
         "line": 1,
         "text": "And ye ",
@@ -740,17 +740,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/480"
       },
       {
-        "id": "480:4",
+        "id": "480:4a",
         "page": 480,
         "line": 4,
-        "text": "for I will accept none of your sacrifices and your burnt offer",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/480"
-      },
-      {
-        "id": "480:5",
-        "page": 480,
-        "line": 5,
-        "text": "ings;",
+        "text": "for I will accept none of your sacrifices and your burnt",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/480"
       }
     ]
@@ -761,10 +754,17 @@
     "verse": 20,
     "lines": [
       {
+        "id": "480:4b",
+        "page": 480,
+        "line": 4,
+        "text": "offer ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/480"
+      },
+      {
         "id": "480:5",
         "page": 480,
         "line": 5,
-        "text": "and ye shall offer for a sacrifice unto me a broken heart ",
+        "text": "ings; and ye shall offer for a sacrifice unto me a broken heart ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/480"
       },
       {
@@ -817,7 +817,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/480"
       },
       {
-        "id": "480:12",
+        "id": "480:12a",
         "page": 480,
         "line": 12,
         "text": "the world, to save the world from sin;",
@@ -831,7 +831,7 @@
     "verse": 22,
     "lines": [
       {
-        "id": "480:12",
+        "id": "480:12b",
         "page": 480,
         "line": 12,
         "text": "therefore whoso re",

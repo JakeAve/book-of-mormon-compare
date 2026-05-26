@@ -2,32 +2,26 @@
   {
     "book": "ether",
     "chapter": 9,
-    "verse": 2,
-    "lines": [
-      {
-        "id": "223:1",
-        "page": 223,
-        "line": 1,
-        "text": "inted",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/223"
-      }
-    ]
-  },
-  {
-    "book": "ether",
-    "chapter": 9,
     "verse": 4,
     "lines": [
       {
+        "id": "222:15b",
+        "page": 222,
+        "line": 15,
+        "text": "for ",
+        "markdown": "for}} ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/222"
+      },
+      {
         "id": "223:1",
         "page": 223,
         "line": 1,
-        "text": "King over the People by the hand of wickedness & he gave unto Akish his dau",
-        "markdown": "K{{in}}g over {{the People by the hand of wickedness & he gave unto Akish his dau}}",
+        "text": "inted King over the People by the hand of wickedness & he gave unto Akish his dau",
+        "markdown": "inted K{{in}}g over {{the People by the hand of wickedness & he gave unto Akish his dau}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/223"
       },
       {
-        "id": "223:2",
+        "id": "223:2a",
         "page": 223,
         "line": 2,
         "text": "ghter to wife",
@@ -41,7 +35,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "223:2",
+        "id": "223:2b",
         "page": 223,
         "line": 2,
         "text": "& it came to pass that Akish sought the life of his fatherinlaw & he ",
@@ -57,7 +51,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/223"
       },
       {
-        "id": "223:4",
+        "id": "223:4a",
         "page": 223,
         "line": 4,
         "text": "e head of his fatherinlaw as he sat upon his throan giveing audience to his People",
@@ -72,7 +66,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "223:4",
+        "id": "223:4b",
         "page": 223,
         "line": 4,
         "text": "for ",
@@ -88,7 +82,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/223"
       },
       {
-        "id": "223:6",
+        "id": "223:6a",
         "page": 223,
         "line": 6,
         "text": "ted the hearts of all the People therefore Jared was murdered upon his throan & Akish Reigned in his stead",
@@ -103,7 +97,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "223:6",
+        "id": "223:6b",
         "page": 223,
         "line": 6,
         "text": "& it came to pass that Akish began to be jealous of his Son the",
@@ -119,7 +113,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/223"
       },
       {
-        "id": "223:8",
+        "id": "223:8a",
         "page": 223,
         "line": 8,
         "text": "suffered death",
@@ -133,7 +127,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "223:8",
+        "id": "223:8b",
         "page": 223,
         "line": 8,
         "text": "& now the Brother of him that suffered death & his name was Nim",
@@ -149,7 +143,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/223"
       },
       {
-        "id": "223:10",
+        "id": "223:10a",
         "page": 223,
         "line": 10,
         "text": "Brother",
@@ -163,11 +157,11 @@
     "verse": 9,
     "lines": [
       {
-        "id": "223:10",
+        "id": "223:10b",
         "page": 223,
         "line": 10,
-        "text": "& it came to pass that Nimrah gathered together a small number of men &fled out of the land & came over & dwelt with Omer &",
-        "markdown": "& it came to pass that Nimrah gather{{ed together a small number of men &f}}l{{e}}d out of the land & came over & dwelt wit{{h Omer &",
+        "text": "& it came to pass that Nimrah gathered together a small number of men &fled out of the land & came over & dwelt with Omer",
+        "markdown": "& it came to pass that Nimrah gather{{ed together a small number of men &f}}l{{e}}d out of the land & came over & dwelt wit{{h Omer",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/223"
       }
     ]
@@ -178,15 +172,15 @@
     "verse": 10,
     "lines": [
       {
-        "id": "223:10",
+        "id": "223:10c",
         "page": 223,
         "line": 10,
-        "text": "it came to pass that Akish ",
-        "markdown": "it came to pass that Akish}} ",
+        "text": "& it came to pass that Akish ",
+        "markdown": "& it came to pass that Akish}} ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/223"
       },
       {
-        "id": "223:11",
+        "id": "223:11a",
         "page": 223,
         "line": 11,
         "text": "begat other Sons & they won the hearts of the People notwithstanding they hadswoarn unto him to do all manner of iniquity according to that which he",
@@ -201,26 +195,11 @@
     "verse": 11,
     "lines": [
       {
-        "id": "223:11",
+        "id": "223:11b",
         "page": 223,
         "line": 11,
-        "text": "desirednow the People of Akish were desireous for gain even as",
-        "markdown": "desirednow the Peo}}pl{{e of}} Akish were desireo{{us}} for ga{{in even as",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/223"
-      }
-    ]
-  },
-  {
-    "book": "ether",
-    "chapter": 9,
-    "verse": 13,
-    "lines": [
-      {
-        "id": "223:11",
-        "page": 223,
-        "line": 11,
-        "text": "Akish was desireous for",
-        "markdown": "Akish was desireous for}}",
+        "text": "desirednow the People of Akish were desireous for gain even as Akish was",
+        "markdown": "desirednow the Peo}}pl{{e of}} Akish were desireo{{us}} for ga{{in even as Akish was",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/223"
       }
     ]
@@ -231,7 +210,15 @@
     "verse": 26,
     "lines": [
       {
-        "id": "224:1",
+        "id": "223:11c",
+        "page": 223,
+        "line": 11,
+        "text": "desireous for ",
+        "markdown": "desireous for}} ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/223"
+      },
+      {
+        "id": "224:1a",
         "page": 224,
         "line": 1,
         "text": "face of the land & Heth began to embrace the secret plans again of old to destroy his father",
@@ -246,7 +233,7 @@
     "verse": 27,
     "lines": [
       {
-        "id": "224:1",
+        "id": "224:1b",
         "page": 224,
         "line": 1,
         "text": "& it came to pass that he did dethroan his father for he slewhim with his own sword & he did reign in his stead",
@@ -261,7 +248,7 @@
     "verse": 28,
     "lines": [
       {
-        "id": "224:1",
+        "id": "224:1c",
         "page": 224,
         "line": 1,
         "text": "& there came Prophets in the land again crying repentance unto them that they must preparethe way of the Lord or there should come a curse upon the face of the land yea even there should be a great famine inthewhich they should be destroid ifthey did not repent",
@@ -276,40 +263,11 @@
     "verse": 29,
     "lines": [
       {
-        "id": "224:1",
+        "id": "224:1d",
         "page": 224,
         "line": 1,
-        "text": "but the People believed not the words of the Prophets but they cast them out & some of them they cast into pits & left them",
-        "markdown": "but the People believed not the words of the Prophets but they cas}}t them {{out & some of them they cast into pits & left them",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/224"
-      }
-    ]
-  },
-  {
-    "book": "ether",
-    "chapter": 9,
-    "verse": 30,
-    "lines": [
-      {
-        "id": "224:1",
-        "page": 224,
-        "line": 1,
-        "text": "to",
-        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/224"
-      }
-    ]
-  },
-  {
-    "book": "ether",
-    "chapter": 9,
-    "verse": 31,
-    "lines": [
-      {
-        "id": "224:1",
-        "page": 224,
-        "line": 1,
-        "text": "perish",
-        "markdown": "perish}}",
+        "text": "but the People believed not the words of the Prophets but they cast them out & some of them they cast into pits & left them to perish",
+        "markdown": "but the People believed not the words of the Prophets but they cas}}t them {{out & some of them they cast into pits & left them to perish}}",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/224"
       }
     ]
@@ -320,7 +278,7 @@
     "verse": 33,
     "lines": [
       {
-        "id": "224:2",
+        "id": "224:2a",
         "page": 224,
         "line": 2,
         "text": "hedge up the way that the People could not pass that whoso should attempt to pass might fall by the poisonous serpants",
@@ -335,7 +293,7 @@
     "verse": 34,
     "lines": [
       {
-        "id": "224:2",
+        "id": "224:2b",
         "page": 224,
         "line": 2,
         "text": "& it came to pass that the People did follow thecourse of the beasts & did devour the carcases of them which fell by the way untill they had devoured them all now when the people saw that they must perish they began to repentof their iniquities & cry unto the Lord",
@@ -350,7 +308,7 @@
     "verse": 35,
     "lines": [
       {
-        "id": "224:2",
+        "id": "224:2c",
         "page": 224,
         "line": 2,
         "text": "& it came to pass that when they had humbled themselves sufficiently before the Lord the Lord did send rain upon the face ofthe earth & the People began to revive again & there began to be fruit in the North countries & in all the Countries around about & the Lord did shew forth his Powerunto them in preserveing them from famine",

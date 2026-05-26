@@ -5,7 +5,7 @@
     "verse": 1,
     "lines": [
       {
-        "id": "7:41",
+        "id": "7:41b",
         "page": 7,
         "line": 41,
         "text": "and now ",
@@ -62,10 +62,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/7"
       },
       {
-        "id": "7:49",
+        "id": "7:49a",
         "page": 7,
         "line": 49,
-        "text": "of prommise and it came to pass that the lord com",
+        "text": "of prommise",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/7"
       }
     ]
@@ -75,6 +75,13 @@
     "chapter": 7,
     "verse": 2,
     "lines": [
+      {
+        "id": "7:49b",
+        "page": 7,
+        "line": 49,
+        "text": "and it came to pass that the lord com",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/7"
+      },
       {
         "id": "7:50",
         "page": 7,
@@ -119,7 +126,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/8"
       },
       {
-        "id": "8:2",
+        "id": "8:2a",
         "page": 8,
         "line": 2,
         "text": "Alem",
@@ -133,7 +140,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "8:2",
+        "id": "8:2b",
         "page": 8,
         "line": 2,
         "text": "and it came to pass that we went up unto the ",
@@ -155,7 +162,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/8"
       },
       {
-        "id": "8:5",
+        "id": "8:5a",
         "page": 8,
         "line": 5,
         "text": "Words of the lord",
@@ -169,7 +176,7 @@
     "verse": 5,
     "lines": [
       {
-        "id": "8:5",
+        "id": "8:5b",
         "page": 8,
         "line": 5,
         "text": "and it came to pass that the lord did ",
@@ -191,7 +198,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/8"
       },
       {
-        "id": "8:8",
+        "id": "8:8a",
         "page": 8,
         "line": 8,
         "text": "Wilderness to the tent of our father",
@@ -205,7 +212,7 @@
     "verse": 6,
     "lines": [
       {
-        "id": "8:8",
+        "id": "8:8b",
         "page": 8,
         "line": 8,
         "text": "and it came to pass ",
@@ -240,7 +247,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/8"
       },
       {
-        "id": "8:13",
+        "id": "8:13a",
         "page": 8,
         "line": 13,
         "text": "wife and his three other daugters",
@@ -255,7 +262,7 @@
     "verse": 7,
     "lines": [
       {
-        "id": "8:13",
+        "id": "8:13b",
         "page": 8,
         "line": 13,
         "text": "and it came ",
@@ -270,7 +277,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/8"
       },
       {
-        "id": "8:15",
+        "id": "8:15a",
         "page": 8,
         "line": 15,
         "text": "unto the land of jerusalem",
@@ -284,7 +291,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "8:15",
+        "id": "8:15b",
         "page": 8,
         "line": 15,
         "text": "and now i nephi being ",
@@ -329,7 +336,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/8"
       },
       {
-        "id": "8:21",
+        "id": "8:21a",
         "page": 8,
         "line": 21,
         "text": "speak unto you yea & set an exampel for you",
@@ -343,7 +350,7 @@
     "verse": 9,
     "lines": [
       {
-        "id": "8:21",
+        "id": "8:21b",
         "page": 8,
         "line": 21,
         "text": "how ",
@@ -371,7 +378,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/8"
       },
       {
-        "id": "8:24",
+        "id": "8:24a",
         "page": 8,
         "line": 24,
         "text": "Angel of the lord",
@@ -385,7 +392,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "8:24",
+        "id": "8:24b",
         "page": 8,
         "line": 24,
         "text": "yea and how is it that ",
@@ -407,7 +414,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/8"
       },
       {
-        "id": "8:27",
+        "id": "8:27a",
         "page": 8,
         "line": 27,
         "text": "Also that we should obtain the record",
@@ -421,7 +428,7 @@
     "verse": 12,
     "lines": [
       {
-        "id": "8:27",
+        "id": "8:27b",
         "page": 8,
         "line": 27,
         "text": "yea and how is it that ",
@@ -450,7 +457,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/8"
       },
       {
-        "id": "8:31",
+        "id": "8:31a",
         "page": 8,
         "line": 31,
         "text": "thful in him",
@@ -464,7 +471,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "8:31",
+        "id": "8:31b",
         "page": 8,
         "line": 31,
         "text": "& if it so be that we are faithful in him ",
@@ -499,7 +506,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/8"
       },
       {
-        "id": "8:36",
+        "id": "8:36a",
         "page": 8,
         "line": 36,
         "text": "ction of jerusalem must be fulfild",
@@ -513,7 +520,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "8:36",
+        "id": "8:36b",
         "page": 8,
         "line": 36,
         "text": "for behold the spir",
@@ -548,7 +555,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/8"
       },
       {
-        "id": "8:41",
+        "id": "8:41a",
         "page": 8,
         "line": 41,
         "text": "driven him out of the land",
@@ -562,7 +569,7 @@
     "verse": 15,
     "lines": [
       {
-        "id": "8:41",
+        "id": "8:41b",
         "page": 8,
         "line": 41,
         "text": "now be hold i say unto ",
@@ -605,10 +612,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/8"
       },
       {
-        "id": "8:47",
+        "id": "8:47a",
         "page": 8,
         "line": 47,
-        "text": "[s]peak and",
+        "text": "[s]peak",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/8"
       }
     ]
@@ -619,11 +626,11 @@
     "verse": 16,
     "lines": [
       {
-        "id": "8:47",
+        "id": "8:47b",
         "page": 8,
         "line": 47,
-        "text": "it came to pass that when i nephi had spoken ",
-        "markdown": "it came to pass that [when] i nephi had spoken ",
+        "text": "and it came to pass that when i nephi had spoken ",
+        "markdown": "and it came to pass that [when] i nephi had spoken ",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/8"
       },
       {
@@ -663,7 +670,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/8"
       },
       {
-        "id": "8:53",
+        "id": "8:53a",
         "page": 8,
         "line": 53,
         "text": "to be devoured by wild beasts",
@@ -677,7 +684,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "8:53",
+        "id": "8:53b",
         "page": 8,
         "line": 53,
         "text": "but it came to pass ",
@@ -707,7 +714,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/9"
       },
       {
-        "id": "9:4",
+        "id": "9:4a",
         "page": 9,
         "line": 4,
         "text": "with which i am boumd",
@@ -721,7 +728,7 @@
     "verse": 18,
     "lines": [
       {
-        "id": "9:4",
+        "id": "9:4b",
         "page": 9,
         "line": 4,
         "text": "and it came to pass that When i ",
@@ -788,10 +795,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/9"
       },
       {
-        "id": "9:12",
+        "id": "9:12a",
         "page": 9,
         "line": 12,
-        "text": "Away my life and it came to pass that they ware sorraful bec",
+        "text": "Away my life",
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/9"
       }
     ]
@@ -801,6 +808,13 @@
     "chapter": 7,
     "verse": 20,
     "lines": [
+      {
+        "id": "9:12b",
+        "page": 9,
+        "line": 12,
+        "text": "and it came to pass that they ware sorraful bec",
+        "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/9"
+      },
       {
         "id": "9:13",
         "page": 9,
@@ -816,7 +830,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/9"
       },
       {
-        "id": "9:15",
+        "id": "9:15a",
         "page": 9,
         "line": 15,
         "text": "them of the thing that they had done against",
@@ -830,7 +844,7 @@
     "verse": 21,
     "lines": [
       {
-        "id": "9:15",
+        "id": "9:15b",
         "page": 9,
         "line": 15,
         "text": "and ",
@@ -873,7 +887,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/9"
       },
       {
-        "id": "9:21",
+        "id": "9:21a",
         "page": 9,
         "line": 21,
         "text": "toward the tent of our father",
@@ -887,7 +901,7 @@
     "verse": 22,
     "lines": [
       {
-        "id": "9:21",
+        "id": "9:21b",
         "page": 9,
         "line": 21,
         "text": "and it came to pass that we did ",
@@ -924,7 +938,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/original-manuscript-of-the-book-of-mormon-circa-12-april-1828-circa-1-july-1829/9"
       },
       {
-        "id": "9:26",
+        "id": "9:26a",
         "page": 9,
         "line": 26,
         "text": "fer burnt ofrings unto him",

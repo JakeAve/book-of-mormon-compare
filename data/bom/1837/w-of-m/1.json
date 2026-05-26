@@ -40,7 +40,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/165"
       },
       {
-        "id": "165:12",
+        "id": "165:12a",
         "page": 165,
         "line": 12,
         "text": "the destruction of my people, the Nephites.",
@@ -54,7 +54,7 @@
     "verse": 2,
     "lines": [
       {
-        "id": "165:12",
+        "id": "165:12b",
         "page": 165,
         "line": 12,
         "text": "And it is ",
@@ -173,7 +173,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/165"
       },
       {
-        "id": "165:28",
+        "id": "165:28a",
         "page": 165,
         "line": 28,
         "text": "words of Nephi.",
@@ -187,7 +187,7 @@
     "verse": 4,
     "lines": [
       {
-        "id": "165:28",
+        "id": "165:28b",
         "page": 165,
         "line": 28,
         "text": "And the things which are upon these ",
@@ -229,10 +229,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/165"
       },
       {
-        "id": "165:34",
+        "id": "165:34a",
         "page": 165,
         "line": 34,
-        "text": "go beyond this day, must surely come to pass; where",
+        "text": "go beyond this day, must surely come to pass;",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/165"
       }
     ]
@@ -242,6 +242,13 @@
     "chapter": 1,
     "verse": 5,
     "lines": [
+      {
+        "id": "165:34b",
+        "page": 165,
+        "line": 34,
+        "text": "where",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/165"
+      },
       {
         "id": "165:35",
         "page": 165,
@@ -348,7 +355,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/166"
       },
       {
-        "id": "166:10",
+        "id": "166:10a",
         "page": 166,
         "line": 10,
         "text": "to his will.",
@@ -362,7 +369,7 @@
     "verse": 8,
     "lines": [
       {
-        "id": "166:10",
+        "id": "166:10b",
         "page": 166,
         "line": 10,
         "text": "And my prayer to God, is concerning my ",
@@ -418,7 +425,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/166"
       },
       {
-        "id": "166:17",
+        "id": "166:17a",
         "page": 166,
         "line": 17,
         "text": "standing which God has given me.",
@@ -432,7 +439,7 @@
     "verse": 10,
     "lines": [
       {
-        "id": "166:17",
+        "id": "166:17b",
         "page": 166,
         "line": 17,
         "text": "Wherefore, it ",
@@ -474,7 +481,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/166"
       },
       {
-        "id": "166:23",
+        "id": "166:23a",
         "page": 166,
         "line": 23,
         "text": "Benjamin;",
@@ -488,7 +495,7 @@
     "verse": 11,
     "lines": [
       {
-        "id": "166:23",
+        "id": "166:23b",
         "page": 166,
         "line": 23,
         "text": "and they were handed down from king ",
@@ -565,7 +572,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/166"
       },
       {
-        "id": "166:33",
+        "id": "166:33a",
         "page": 166,
         "line": 33,
         "text": "somewhat contentions among his own people.",
@@ -579,7 +586,7 @@
     "verse": 13,
     "lines": [
       {
-        "id": "166:33",
+        "id": "166:33b",
         "page": 166,
         "line": 33,
         "text": "And ",
@@ -621,7 +628,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/166"
       },
       {
-        "id": "166:39",
+        "id": "166:39a",
         "page": 166,
         "line": 39,
         "text": "the sword of Laban;",
@@ -635,7 +642,7 @@
     "verse": 14,
     "lines": [
       {
-        "id": "166:39",
+        "id": "166:39b",
         "page": 166,
         "line": 39,
         "text": "and in the strength of the Lord ",
@@ -698,7 +705,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/166"
       },
       {
-        "id": "166:47",
+        "id": "166:47a",
         "page": 166,
         "line": 47,
         "text": "ished according to their crimes;",
@@ -712,7 +719,7 @@
     "verse": 16,
     "lines": [
       {
-        "id": "166:47",
+        "id": "166:47b",
         "page": 166,
         "line": 47,
         "text": "and after there had ",
@@ -761,7 +768,7 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/167"
       },
       {
-        "id": "167:7",
+        "id": "167:7a",
         "page": 167,
         "line": 7,
         "text": "were among his people:",
@@ -775,7 +782,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "167:7",
+        "id": "167:7b",
         "page": 167,
         "line": 7,
         "text": "for behold, king Benjamin ",
