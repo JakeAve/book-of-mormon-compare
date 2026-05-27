@@ -191,7 +191,21 @@ export function applyInsertions(
         : {}),
     };
 
-    if (ins.insertAfterLine) {
+    if (ins.insertBeforeLine) {
+      const beforePage = ins.insertBeforeLine.page;
+      const beforeLine = ins.insertBeforeLine.line;
+      const idx = verse.lines.findIndex(
+        (l) => l.page === beforePage && l.line === beforeLine,
+      );
+      if (idx === -1) {
+        console.warn(
+          `  insertion override: insertBeforeLine p${beforePage}:${beforeLine} not found in ${vk}, appending`,
+        );
+        verse.lines.push(newLine);
+      } else {
+        verse.lines.splice(idx, 0, newLine);
+      }
+    } else if (ins.insertAfterLine) {
       const afterPage = ins.insertAfterLine.page;
       const afterLine = ins.insertAfterLine.line;
       const idx = verse.lines.findIndex(

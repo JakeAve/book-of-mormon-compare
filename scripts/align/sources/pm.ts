@@ -816,6 +816,186 @@ const pm: SourceAdapter = {
       target: { book: "hel", chapter: 16, verse: 19 },
       note: "trailing 'yea why will he not shew himself' belongs to Hel 16:19",
     },
+
+    // 3 Nephi overrides
+    {
+      // PM p374:25 ends "...robbers were about to perish with han" — "han"
+      // (index 14) is the first half of split word "hunger" closing v20.
+      page: 374,
+      line: 25,
+      wordIndices: [14],
+      target: { book: "3-ne", chapter: 4, verse: 20 },
+      note: "'han' is first half of split word 'hunger', belongs to 3 Ne 4:20",
+    },
+    {
+      // PM p374:26 begins "ger & the Nephites..." — "ger" (index 0) completes
+      // "hunger" closing v20.
+      page: 374,
+      line: 26,
+      wordIndices: [0],
+      target: { book: "3-ne", chapter: 4, verse: 20 },
+      note: "'ger' completes split word 'hunger', belongs to 3 Ne 4:20",
+    },
+    {
+      // PM p381:15 reads "...there could not be any light atal & there was not
+      // any" — "atal" (index 13) closes v21 canonically ("at all").
+      page: 381,
+      line: 15,
+      wordIndices: [13],
+      target: { book: "3-ne", chapter: 8, verse: 21 },
+      note: "'atal' completes 'at all' closing 3 Ne 8:21",
+    },
+    {
+      // PM p381:21 reads "m & in one place they were heard to cry saying..." —
+      // "& in one place they" (indices 1–5) opens v24 canonically.
+      page: 381,
+      line: 21,
+      wordRange: [1, 5],
+      target: { book: "3-ne", chapter: 8, verse: 24 },
+      note: "trailing '& in one place they' belongs to 3 Ne 8:24",
+    },
+    {
+      // PM p381:28 ends "...upon all the face of this land cry" — "cry"
+      // (index 16) is the first half of split word "crying" closing v1.
+      page: 381,
+      line: 28,
+      wordIndices: [16],
+      target: { book: "3-ne", chapter: 9, verse: 1 },
+      note: "'cry' is first half of split word 'crying', belongs to 3 Ne 9:1",
+    },
+    {
+      // PM p381:29 begins "ing Wo. wo wo..." — "ing" (index 0) completes
+      // "crying" closing v1.
+      page: 381,
+      line: 29,
+      wordIndices: [0],
+      target: { book: "3-ne", chapter: 9, verse: 1 },
+      note: "'ing' completes split word 'crying', belongs to 3 Ne 9:1",
+    },
+    {
+      // PM p383:15 reads "...under her wings & have nourished you & again how
+      // oft" — "& have nourished you" (indices 9–12) closes v4 canonically.
+      page: 383,
+      line: 15,
+      wordRange: [9, 12],
+      target: { book: "3-ne", chapter: 10, verse: 4 },
+      note: "leading '& have nourished you' belongs to 3 Ne 10:4",
+    },
+    {
+      // PM p387:28 reads "...shall be in danger of hellfire therefore if ye
+      // sh" — "hellfire" (index 10) closes v22 canonically ("hell fire").
+      page: 387,
+      line: 28,
+      wordIndices: [10],
+      target: { book: "3-ne", chapter: 12, verse: 22 },
+      note:
+        "leading 'hellfire' belongs to 3 Ne 12:22 (completes 'danger of hell fire')",
+    },
+    {
+      // Caret insertion in 3 Ne 12:37 before "for whatsoever cometh..." —
+      // the JSP PM transcript does not capture this interlinear addition.
+      insertText: "but let your communication be yea yea nay nay ",
+      insertBeforeLine: { page: 388, line: 11 },
+      target: { book: "3-ne", chapter: 12, verse: 37 },
+      note:
+        "caret insertion before 'for whatsoever cometh', not in JSP PM transcript",
+    },
+    {
+      // PM p388:11 reads "...evil and be" — "and" (index 13) opens v38
+      // canonically ("And behold, it is written..."); "be" (index 14) is the
+      // first half of split word "behold".
+      page: 388,
+      line: 11,
+      wordRange: [13, 14],
+      target: { book: "3-ne", chapter: 12, verse: 38 },
+      note: "'and be' opens 3 Ne 12:38 ('And behold it is written')",
+    },
+    {
+      // PM p388:12 reads "hold it is written an eye for an eye..." — "hold it
+      // is" (indices 0–2) completes "behold it is" opening v38 canonically.
+      page: 388,
+      line: 12,
+      wordRange: [0, 2],
+      target: { book: "3-ne", chapter: 12, verse: 38 },
+      note: "'hold it is' completes split word 'behold', belongs to 3 Ne 12:38",
+    },
+    {
+      // PM p389:1 ends "...for their much speak" — "speak" (index 12) is the
+      // first half of split word "speaking" closing v7.
+      page: 389,
+      line: 1,
+      wordIndices: [12],
+      target: { book: "3-ne", chapter: 13, verse: 7 },
+      note:
+        "'speak' is first half of split word 'speaking', belongs to 3 Ne 13:7",
+    },
+    {
+      // PM p389:2 begins "ing Be not ye therefore..." — "ing" (index 0)
+      // completes "speaking" closing v7.
+      page: 389,
+      line: 2,
+      wordIndices: [0],
+      target: { book: "3-ne", chapter: 13, verse: 7 },
+      note: "'ing' completes split word 'speaking', belongs to 3 Ne 13:7",
+    },
+    {
+      // PM p396:31 reads "them Behold verily verily I say unto you..." — "Behold
+      // verily verily I" (indices 1–4) opens v27 canonically.
+      page: 396,
+      line: 31,
+      wordRange: [1, 4],
+      target: { book: "3-ne", chapter: 18, verse: 27 },
+      note: "trailing 'Behold verily verily I' belongs to 3 Ne 18:27",
+    },
+    {
+      // PM p405:39 reads "upon them & sayeth verily I say unto you..." —
+      // "sayeth" (index 3) closes v8 canonically ("upon them and said:").
+      page: 405,
+      line: 39,
+      wordIndices: [3],
+      target: { book: "3-ne", chapter: 23, verse: 8 },
+      note:
+        "leading 'sayeth' belongs to 3 Ne 23:8 (completes 'upon them and said')",
+    },
+    {
+      // PM p406:4 reads "...were it not so & his Disciples answered him & said
+      // yea" — "& his Disciples answered him & said yea" (indices 10–17) opens
+      // v10 canonically.
+      page: 406,
+      line: 4,
+      wordRange: [9, 17],
+      target: { book: "3-ne", chapter: 23, verse: 10 },
+      note:
+        "trailing '& his Disciples answered him & said yea' belongs to 3 Ne 23:10",
+    },
+    {
+      // PM p407:20 reads "& ye shall tread down the wicked for they shall be
+      // ashes..." — "& ye shall tread" (indices 0–3) opens v3 canonically.
+      page: 407,
+      line: 20,
+      wordRange: [0, 3],
+      target: { book: "3-ne", chapter: 25, verse: 3 },
+      note: "trailing '& ye shall tread' belongs to 3 Ne 25:3",
+    },
+    {
+      // PM p410:33 ends "...for none of them lost behold I" — "behold I"
+      // (indices 13–14) opens v31 canonically ("Behold, I would that ye
+      // should understand").
+      page: 410,
+      line: 33,
+      wordRange: [13, 14],
+      target: { book: "3-ne", chapter: 27, verse: 31 },
+      note: "trailing 'behold I' belongs to 3 Ne 27:31",
+    },
+    {
+      // PM p410:34 reads "would that yo should understand for I mean them..." —
+      // "would that yo should" (indices 0–3) continues opening v31 canonically.
+      page: 410,
+      line: 34,
+      wordRange: [0, 3],
+      target: { book: "3-ne", chapter: 27, verse: 31 },
+      note: "trailing 'would that yo should' belongs to 3 Ne 27:31",
+    },
   ],
 };
 

@@ -609,7 +609,7 @@
         "id": "387:28a",
         "page": 387,
         "line": 28,
-        "text": "whosoever shall say thou fool shall be in danger of",
+        "text": "whosoever shall say thou fool shall be in danger of Hellfire",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/387"
       }
     ]
@@ -623,7 +623,7 @@
         "id": "387:28b",
         "page": 387,
         "line": 28,
-        "text": "Hellfire Therefore if ye sh",
+        "text": "Therefore if ye sh",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/387"
       },
       {
@@ -967,17 +967,16 @@
     "verse": 37,
     "lines": [
       {
+        "id": "ins:3-ne-12-37",
+        "page": 0,
+        "line": 0,
+        "text": "but let your communication be yea yea nay nay "
+      },
+      {
         "id": "388:11b",
         "page": 388,
         "line": 11,
-        "text": "for whatsoever cometh of more than these are evil & be ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/388"
-      },
-      {
-        "id": "388:12a",
-        "page": 388,
-        "line": 12,
-        "text": "hold it is",
+        "text": "for whatsoever cometh of more than these are evil",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/388"
       }
     ]
@@ -988,10 +987,17 @@
     "verse": 38,
     "lines": [
       {
-        "id": "388:12b",
+        "id": "388:11c",
+        "page": 388,
+        "line": 11,
+        "text": "& be",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/388"
+      },
+      {
+        "id": "388:12a",
         "page": 388,
         "line": 12,
-        "text": "written An eye for an eye & a tooth for a tooth",
+        "text": "hold it is written An eye for an eye & a tooth for a tooth",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/388"
       }
     ]
@@ -1002,7 +1008,7 @@
     "verse": 39,
     "lines": [
       {
-        "id": "388:12c",
+        "id": "388:12b",
         "page": 388,
         "line": 12,
         "text": "but I say unto you ",
