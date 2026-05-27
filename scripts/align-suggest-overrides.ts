@@ -472,19 +472,54 @@ async function main() {
 
   const outDir = `${REPORT_ROOT}/${version}`;
   await Deno.mkdir(outDir, { recursive: true });
-  const outPath = `${outDir}/override-suggestions.json`;
-  await Deno.writeTextFile(
-    outPath,
-    JSON.stringify(
-      { version, generatedAt: new Date().toISOString(), findings: allFindings },
-      null,
-      2,
-    ),
-  );
+  const outPath = `${outDir}/override-suggestions.md`;
+  await Deno.writeTextFile(outPath, buildMarkdown(version, allFindings));
 
   console.log(
     `\nWrote ${allFindings.length} finding(s) to ${outPath}`,
   );
+}
+
+function buildMarkdown(version: string, findings: Finding[]): string {
+  const lines: string[] = [
+    `# ${version.toUpperCase()} Override Suggestions`,
+    `_Generated: ${new Date().toISOString().slice(0, 10)}_`,
+    "",
+    "Mark each finding: `[ ]` = unreviewed · `[x]` = fix · `[-]` = skip",
+    "",
+  ];
+
+  // Group by book.
+  const byBook = new Map<string, Finding[]>();
+  for (const f of findings) {
+    const b = f.book;
+    if (!byBook.has(b)) byBook.set(b, []);
+    byBook.get(b)!.push(f);
+  }
+
+  for (const [book, bookFindings] of byBook) {
+    lines.push(`## ${book}`);
+    lines.push("");
+    for (const f of bookFindings) {
+      if (f.type === "token-ratio") {
+        lines.push(
+          `- [ ] **ch${f.chapter} v${f.verse}** token-ratio \`${
+            f.ratio.toFixed(2)
+          }\` (pm:${f.pmTokens} canon:${f.canonTokens}) — [view](${f.url})`,
+        );
+      } else {
+        const dir = f.type === "trailing-bleed" ? "→" : "←";
+        lines.push(
+          `- [ ] **ch${f.chapter} v${f.verse}${dir}${f.intoVerse}** ${f.type} \`${
+            f.overlapTokens.join(" ")
+          }\` — [view](${f.url})`,
+        );
+      }
+    }
+    lines.push("");
+  }
+
+  return lines.join("\n");
 }
 
 if (import.meta.main) {

@@ -79,6 +79,78 @@ const pm: SourceAdapter = {
       target: { book: "1-ne", chapter: 22, verse: 5 },
       note: "trailing 'away' (end of 'lead away') belongs to 1 Ne 22:5",
     },
+
+    // 2 Nephi overrides
+    {
+      // PM p59:25 reads "visions in the night time & by day..." — "night time"
+      // (indices 3–4) closes v23's clause about visions and belongs there.
+      page: 59,
+      line: 25,
+      wordRange: [3, 4],
+      target: { book: "2-ne", chapter: 4, verse: 23 },
+      note: "leading 'night time' belongs to 2 Ne 4:23",
+    },
+    {
+      // PM p61:24 reads "& that they should labour with their hands & it came
+      // to pass..." — "hands" (index 7) closes v17's sentence and belongs there.
+      page: 61,
+      line: 24,
+      wordIndices: [7],
+      target: { book: "2-ne", chapter: 5, verse: 17 },
+      note:
+        "leading 'hands' belongs to 2 Ne 5:17 (completes 'labour with their hands')",
+    },
+    {
+      // PM p64:36 reads "y Judgment...my righteousness is" — the phrase
+      // "my righteousness is" (indices 11–13) opens v5 canonically
+      // ("My righteousness is near; my salvation is gone forth...").
+      page: 64,
+      line: 36,
+      wordRange: [11, 13],
+      target: { book: "2-ne", chapter: 8, verse: 5 },
+      note: "trailing 'my righteousness is' belongs to 2 Ne 8:5",
+    },
+    {
+      // PM p74:11 reads "the wimples & the crisping pins the glasses..." —
+      // "crisping pins" (indices 4–5) closes v22 canonically
+      // ("...the wimples, and the crisping pins").
+      page: 74,
+      line: 11,
+      wordRange: [4, 5],
+      target: { book: "2-ne", chapter: 13, verse: 22 },
+      note: "leading 'crisping pins' belongs to 2 Ne 13:22",
+    },
+    {
+      // PM p85:5 reads "ten them & as one generation hath been destroid..." —
+      // "as one generation hath been destroid" (indices 2–8) opens v9
+      // canonically ("And as one generation hath been destroyed...").
+      page: 85,
+      line: 5,
+      wordRange: [2, 8],
+      target: { book: "2-ne", chapter: 25, verse: 9 },
+      note:
+        "trailing 'as one generation hath been destroid' belongs to 2 Ne 25:9",
+    },
+    {
+      // PM p88:11 ends "...shall not be for" where "for" is the first half of
+      // the split word "forgotten". Belongs to v15 to complete "shall not be
+      // forgotten" (canon 2 Ne 26:15).
+      page: 88,
+      line: 11,
+      wordIndices: [16],
+      target: { book: "2-ne", chapter: 26, verse: 15 },
+      note:
+        "'for' is first half of split word 'forgotten', belongs to 2 Ne 26:15",
+    },
+    {
+      // PM p88:12 begins "gotten for they which shall be destroid..." — "gotten"
+      // (index 0) completes "forgotten" from the line above, closing v15.
+      page: 88,
+      line: 12,
+      wordIndices: [0],
+      target: { book: "2-ne", chapter: 26, verse: 15 },
+      note: "'gotten' completes split word 'forgotten', belongs to 2 Ne 26:15",
+    },
   ],
 };
 
