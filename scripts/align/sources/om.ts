@@ -9,7 +9,7 @@ import { DEFAULT_CURSOR_CONFIG, type SourceAdapter } from "./types.ts";
 // no content for, and drift compounds. Instead OM uses the SCAFFOLD algorithm
 // — unique n-gram anchor pairs between source and target, monotone-LIS to
 // reject cross-overs, piecewise-linear interpolation between anchors.
-export const om: SourceAdapter = {
+const om: SourceAdapter = {
   slug: "om",
   label: "Original Manuscript",
   raw: "data/raw/om",
@@ -33,3 +33,5 @@ export const om: SourceAdapter = {
     },
   ],
 };
+
+export default om;

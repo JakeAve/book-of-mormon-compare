@@ -4,7 +4,7 @@ import { DEFAULT_CURSOR_CONFIG, type SourceAdapter } from "./types.ts";
 // the canonical 2013 text than 1830 (many 1830 variants were restored), but
 // not identical — start with the same tail-trim posture as 1830 and tune
 // against the report.
-export const ed1837: SourceAdapter = {
+const ed1837: SourceAdapter = {
   slug: "1837",
   label: "1837 Second Edition",
   raw: "data/raw/1837",
@@ -15,3 +15,5 @@ export const ed1837: SourceAdapter = {
     tailTrimMaxMatchFraction: 0.85,
   },
 };
+
+export default ed1837;
