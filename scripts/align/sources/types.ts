@@ -88,6 +88,10 @@ export interface Override {
   /** Insert the synthetic line immediately after this existing line in the
    *  target verse. Defaults to appending at the end of the verse. */
   insertAfterLine?: { page: number; line: number };
+  /** When set alongside insertAfterLine, splits that line at this 0-based
+   *  word index (inclusive end of the first half) and inserts the synthetic
+   *  line between the two halves. */
+  insertAfterWordIndex?: number;
 
   // ── Common fields ────────────────────────────────────────────────────────
   /** Canonical destination. */

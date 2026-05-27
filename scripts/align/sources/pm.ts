@@ -178,14 +178,36 @@ const pm: SourceAdapter = {
       // OC added a caret insertion after "possess the power of God" in the PM
       // (Mosiah 8:16) that the JSP transcript did not capture. The inserted
       // text reads "which no man can yet a man may have great power".
-      insertText: "which no man can yet a man may have great power",
+      insertText:
+        " which no man can yet a man may have great power given him from God ",
       insertAfterLine: { page: 135, line: 29 },
+      insertAfterWordIndex: 11,
       target: { book: "mosiah", chapter: 8, verse: 16 },
       note:
         "OC caret insertion after 'possess the power of God', not in JSP PM transcript",
     },
 
     // Mosiah overrides — word reassignments
+    {
+      // PM p135:29 reads "...possess the power of God but a seer can know of
+      // thin" — "but a seer can know of thin" (indices 12–18) opens v17
+      // canonically ("But a seer can know of things...").
+      page: 135,
+      line: 29,
+      wordRange: [12, 18],
+      target: { book: "mosiah", chapter: 8, verse: 17 },
+      note: "trailing 'but a seer can know of thin' belongs to Mosiah 8:17",
+    },
+    {
+      // PM p135:30 begins "gs which has past..." — "gs which" (indices 0–1)
+      // completes the split word "things" from the line above and belongs to
+      // v17 with the rest of that sentence.
+      page: 135,
+      line: 30,
+      wordRange: [0, 1],
+      target: { book: "mosiah", chapter: 8, verse: 17 },
+      note: "'gs which' completes split word 'things', belongs to Mosiah 8:17",
+    },
     {
       // PM p134:3 reads "we to Mourn yea I say unto you great are..." — "yea
       // I say unto" (indices 3–6) opens v24's speech and belongs there.

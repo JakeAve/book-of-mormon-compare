@@ -488,24 +488,17 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/135"
       },
       {
-        "id": "135:29",
+        "id": "135:29a:pre",
         "page": 135,
         "line": 29,
-        "text": "can no man have except he should possess the power of God but a seer can know of thin ",
+        "text": "can no man have except he should possess the power of God",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/135"
       },
       {
         "id": "ins:mosiah-8-16",
         "page": 0,
         "line": 0,
-        "text": "which no man can yet a man may have great power"
-      },
-      {
-        "id": "135:30a",
-        "page": 135,
-        "line": 30,
-        "text": "gs which",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/135"
+        "text": " which no man can yet a man may have great power given him from God "
       }
     ]
   },
@@ -515,10 +508,17 @@
     "verse": 17,
     "lines": [
       {
-        "id": "135:30b",
+        "id": "135:29b",
+        "page": 135,
+        "line": 29,
+        "text": "but a seer can know of thin",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/135"
+      },
+      {
+        "id": "135:30",
         "page": 135,
         "line": 30,
-        "text": "has past & also of things which is to come & by them shall all things be revealed or ",
+        "text": "gs which has past & also of things which is to come & by them shall all things be revealed or ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/135"
       },
       {

@@ -202,6 +202,44 @@ export function applyInsertions(
           `  insertion override: insertAfterLine p${afterPage}:${afterLine} not found in ${vk}, appending`,
         );
         verse.lines.push(newLine);
+      } else if (ins.insertAfterWordIndex !== undefined) {
+        // Split the existing line at the given word boundary, insert the
+        // synthetic line between the two halves.
+        const existing = verse.lines[idx];
+        const words = existing.text.split(" ");
+        const splitAt = ins.insertAfterWordIndex + 1;
+        const textA = words.slice(0, splitAt).join(" ");
+        const textB = words.slice(splitAt).join(" ");
+        // Use :pre/:post suffixes to avoid doubling an existing a/b suffix.
+        const lineA: OutLine = {
+          ...existing,
+          id: `${existing.id}:pre`,
+          text: textA,
+          ...(existing.markdown !== undefined
+            ? {
+              markdown: splitMarkdown(existing.markdown, words, 0, splitAt - 1),
+            }
+            : {}),
+        };
+        const toInsert: OutLine[] = [lineA, newLine];
+        if (textB.trim().length > 0) {
+          toInsert.push({
+            ...existing,
+            id: `${existing.id}:post`,
+            text: textB,
+            ...(existing.markdown !== undefined
+              ? {
+                markdown: splitMarkdown(
+                  existing.markdown,
+                  words,
+                  splitAt,
+                  words.length - 1,
+                ),
+              }
+              : {}),
+          });
+        }
+        verse.lines.splice(idx, 1, ...toInsert);
       } else {
         verse.lines.splice(idx + 1, 0, newLine);
       }
@@ -209,6 +247,24 @@ export function applyInsertions(
       verse.lines.push(newLine);
     }
   }
+}
+
+// Extracts a word-index range from a markdown string, mapping via the plain
+// text word list so markup tokens stay aligned with their text counterparts.
+function splitMarkdown(
+  markdown: string,
+  textWords: string[],
+  fromWord: number,
+  toWord: number,
+): string {
+  const mdWords = markdown.split(" ").filter((w) => w.length > 0);
+  const mapping = buildTextToMdMapping(
+    textWords.filter((w) => w.length > 0),
+    mdWords,
+  );
+  const mdStart = mapping[fromWord] ?? 0;
+  const mdEnd = mapping[toWord + 1] ?? mdWords.length;
+  return mdWords.slice(mdStart, mdEnd).join(" ");
 }
 
 function sliceMarkdown(
