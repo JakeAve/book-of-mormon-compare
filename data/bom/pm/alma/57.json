@@ -976,8 +976,8 @@
         "id": "319:26a",
         "page": 319,
         "line": 26,
-        "text": "ide them down to that land & now",
-        "markdown": "ide them down to ~~the~~ [that] land ~~of Zarahemla~~ [& now",
+        "text": "ide them down to that land",
+        "markdown": "ide them down to ~~the~~ [that] land",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/319"
       }
     ]
@@ -991,8 +991,8 @@
         "id": "319:26b",
         "page": 319,
         "line": 26,
-        "text": "these are the words which Gid said unto me ",
-        "markdown": "these] are the words which Gid said unto me ",
+        "text": "& now these are the words which Gid said unto me ",
+        "markdown": "~~of Zarahemla~~ [& now these] are the words which Gid said unto me ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/319"
       },
       {

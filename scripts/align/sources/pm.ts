@@ -80,6 +80,15 @@ const pm: SourceAdapter = {
       note: "trailing 'away' (end of 'lead away') belongs to 1 Ne 22:5",
     },
     {
+      // PM p52:6 reads "...of miseary & wo awake & arise..." — "wo" (index 3)
+      // closes v13 canonically ("misery and woe").
+      page: 52,
+      line: 6,
+      wordIndices: [3],
+      target: { book: "2-ne", chapter: 1, verse: 13 },
+      note: "leading 'wo' belongs to 2 Ne 1:13 (closes 'misery and woe')",
+    },
+    {
       // PM p59:25 reads "visions in the night time & by day..." — "night time"
       // (indices 3–4) closes v23's clause about visions and belongs there.
       page: 59,
@@ -353,6 +362,36 @@ const pm: SourceAdapter = {
       note: "leading 'the Angel said' belongs to Alma 10:8",
     },
     {
+      // PM p199:10 reads "ken it and again he hath reviled against our Lawyers
+      // and our Judges &c. and it come" — "and again...Judges &c." (indices 2–13)
+      // opens v29 canonically ("And again, he has reviled against our lawyers,
+      // and our judges.").
+      page: 199,
+      line: 10,
+      wordRange: [2, 13],
+      target: { book: "alma", chapter: 10, verse: 29 },
+      note:
+        "trailing 'and again he hath reviled...Judges &c.' belongs to Alma 10:29",
+    },
+    {
+      // "and it come" (indices 14–16) opens v30 canonically ("And it came to
+      // pass that the lawyers put it into their hearts...").
+      page: 199,
+      line: 10,
+      wordRange: [14, 16],
+      target: { book: "alma", chapter: 10, verse: 30 },
+      note: "trailing 'and it come' belongs to Alma 10:30",
+    },
+    {
+      // PM p199:11 reads "to pass that the Lawyers put it into their hearts..." —
+      // "to pass that the Lawyers" (indices 0–4) belongs to v30 with the above.
+      page: 199,
+      line: 11,
+      wordRange: [0, 4],
+      target: { book: "alma", chapter: 10, verse: 30 },
+      note: "leading 'to pass that the Lawyers' belongs to Alma 10:30",
+    },
+    {
       // PM p198:12 reads "es of God ye are laying plans to pervert the ways..." —
       // "ye are laying plans to pervert the ways of the righteous and to bring"
       // (indices 3–16) opens v18 canonically.
@@ -381,6 +420,15 @@ const pm: SourceAdapter = {
       wordRange: [1, 5],
       target: { book: "alma", chapter: 16, verse: 4 },
       note: "trailing 'now it came to pass' belongs to Alma 16:4",
+    },
+    {
+      // PM p221:14 reads "...their travel .&C &" — "&" (index 8) is the "And"
+      // that opens v38 canonically.
+      page: 221,
+      line: 14,
+      wordIndices: [8],
+      target: { book: "alma", chapter: 18, verse: 38 },
+      note: "trailing '&' belongs to Alma 18:38",
     },
     {
       // PM p220:27 ends "...I do not know what that mean" — "mean" (index 16)
@@ -430,6 +478,33 @@ const pm: SourceAdapter = {
       target: { book: "alma", chapter: 19, verse: 25 },
       note:
         "caret insertion after 'Ammon was the great spirit', not in JSP PM transcript",
+    },
+    {
+      // Caret insertion in Alma 19:12 after "the name of God" — JSP PM
+      // transcript did not capture this interlinear addition.
+      insertText: " & blessed art thou ",
+      insertAfterLine: { page: 222, line: 32 },
+      insertAfterWordIndex: 12,
+      target: { book: "alma", chapter: 19, verse: 12 },
+      note: "caret insertion after 'the name of God', not in JSP PM transcript",
+    },
+    {
+      // PM p222:32 reads "...the name of God for as sure as" — "for as sure as"
+      // (indices 13–16) opens v13 canonically ("For as sure as thou livest...").
+      page: 222,
+      line: 32,
+      wordRange: [13, 16],
+      target: { book: "alma", chapter: 19, verse: 13 },
+      note: "trailing 'for as sure as' belongs to Alma 19:13",
+    },
+    {
+      // PM p222:33 reads "thou lievest behold I have sn my redeemer..." — "thou
+      // lievest behold I have" (indices 0–4) continues opening v13 canonically.
+      page: 222,
+      line: 33,
+      wordRange: [0, 4],
+      target: { book: "alma", chapter: 19, verse: 13 },
+      note: "leading 'thou lievest behold I have' belongs to Alma 19:13",
     },
     {
       // PM p224:14 reads "...great spirit but others rebuked them all saying
@@ -603,6 +678,15 @@ const pm: SourceAdapter = {
         "trailing '& it' belongs to Alma 56:49 (starts '& it came to pass')",
     },
     {
+      // PM p316:34 begins "an now when the people of Antipus..." — "an" (index
+      // 0) completes split word "Helaman" closing v52.
+      page: 316,
+      line: 34,
+      wordIndices: [0],
+      target: { book: "alma", chapter: 56, verse: 52 },
+      note: "'an' completes split word 'Helaman', belongs to Alma 56:52",
+    },
+    {
       // PM p317:17 reads "...city of Antiparah but I sent an Epistle" — "but
       // I sent an Epistle" (indices 11–15) opens v2 canonically.
       page: 317,
@@ -620,6 +704,16 @@ const pm: SourceAdapter = {
       target: { book: "alma", chapter: 57, verse: 2 },
       note:
         "leading 'unto' belongs to Alma 57:2 (completes 'sent an Epistle unto')",
+    },
+    {
+      // PM p319:26 reads "ide them down to that land & now these are the
+      // words..." — "& now" (indices 6–7) opens v30 canonically ("And now,
+      // these are the words which Gid said...").
+      page: 319,
+      line: 26,
+      wordRange: [6, 7],
+      target: { book: "alma", chapter: 57, verse: 30 },
+      note: "trailing '& now' belongs to Alma 57:30",
     },
     {
       // PM p321:12 reads "the City & it came to pass on the morrow..." — "& it
@@ -746,6 +840,16 @@ const pm: SourceAdapter = {
       target: { book: "hel", chapter: 12, verse: 17 },
       note:
         "leading 'done' belongs to Hel 12:17 (completes 'behold it is done')",
+    },
+    {
+      // PM p359:20 reads "...and he will cause that it shall be so & wo unto
+      // whom..." — "so" (index 9) closes v21 canonically ("he will cause that
+      // it shall be so").
+      page: 359,
+      line: 20,
+      wordIndices: [9],
+      target: { book: "hel", chapter: 12, verse: 21 },
+      note: "leading 'so' belongs to Hel 12:21 (completes 'it shall be so')",
     },
     {
       // PM p360:33 reads "...which is in her yea & wo be" — "yea & wo be"

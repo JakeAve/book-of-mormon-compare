@@ -386,18 +386,17 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/222"
       },
       {
-        "id": "222:32",
+        "id": "222:32a:pre",
         "page": 222,
         "line": 32,
-        "text": "his hand unto the woman & said blessed be the name of God for as sure as ",
+        "text": "his hand unto the woman & said blessed be the name of God",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/222"
       },
       {
-        "id": "222:33a",
-        "page": 222,
-        "line": 33,
-        "text": "thou lievest behold I have",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/222"
+        "id": "ins:alma-19-12",
+        "page": 0,
+        "line": 0,
+        "text": " & blessed art thou "
       }
     ]
   },
@@ -407,10 +406,17 @@
     "verse": 13,
     "lines": [
       {
-        "id": "222:33b",
+        "id": "222:32b",
+        "page": 222,
+        "line": 32,
+        "text": "for as sure as ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/222"
+      },
+      {
+        "id": "222:33",
         "page": 222,
         "line": 33,
-        "text": "sn my redeemer & he shall come forth & be bo",
+        "text": "thou lievest behold I have sn my redeemer & he shall come forth & be bo",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/222"
       },
       {
