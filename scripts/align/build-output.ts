@@ -2,6 +2,7 @@ import { buildTextToMdMapping } from "../shared/markdown.ts";
 import { applyJoins, buildCanonIndex } from "../shared/stitch.ts";
 import { lineKey, parseLineKey, verseKey } from "./line-key.ts";
 import type { CursorResult, LineInfo } from "./types.ts";
+import type { Override } from "./sources/types.ts";
 
 export interface OutLine {
   id: string;
@@ -147,6 +148,67 @@ function buildVerseLines(
     lines.push(outLine);
   }
   return lines;
+}
+
+/** Applies insertion overrides to already-built verse outputs. Each insertion
+ *  adds a synthetic line (no page/line from source) into the target verse,
+ *  either after a specified existing line or at the end of the verse. */
+export function applyInsertions(
+  verses: OutVerse[],
+  overrides: Override[] | undefined,
+): void {
+  if (!overrides) return;
+  const insertions = overrides.filter((o) => o.insertText !== undefined);
+  if (insertions.length === 0) return;
+
+  const byVk = new Map(
+    verses.map((v) => [verseKey(v.book, v.chapter, v.verse), v]),
+  );
+
+  for (const ins of insertions) {
+    const vk = verseKey(
+      ins.target.book,
+      ins.target.chapter,
+      ins.target.verse,
+    );
+    const verse = byVk.get(vk);
+    if (!verse) {
+      console.warn(
+        `  insertion override did not find verse: ${vk} (${ins.note})`,
+      );
+      continue;
+    }
+
+    const syntheticId =
+      `ins:${ins.target.book}-${ins.target.chapter}-${ins.target.verse}`;
+    const newLine: OutLine = {
+      id: syntheticId,
+      page: 0,
+      line: 0,
+      text: ins.insertText!,
+      ...(ins.insertMarkdown !== undefined
+        ? { markdown: ins.insertMarkdown }
+        : {}),
+    };
+
+    if (ins.insertAfterLine) {
+      const afterPage = ins.insertAfterLine.page;
+      const afterLine = ins.insertAfterLine.line;
+      const idx = verse.lines.findIndex(
+        (l) => l.page === afterPage && l.line === afterLine,
+      );
+      if (idx === -1) {
+        console.warn(
+          `  insertion override: insertAfterLine p${afterPage}:${afterLine} not found in ${vk}, appending`,
+        );
+        verse.lines.push(newLine);
+      } else {
+        verse.lines.splice(idx + 1, 0, newLine);
+      }
+    } else {
+      verse.lines.push(newLine);
+    }
+  }
 }
 
 function sliceMarkdown(

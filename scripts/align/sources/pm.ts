@@ -173,7 +173,19 @@ const pm: SourceAdapter = {
       note: "trailing '& thou beholdest that a' belongs to Jacob 5:45",
     },
 
-    // Mosiah overrides
+    // Mosiah overrides — text insertions
+    {
+      // OC added a caret insertion after "possess the power of God" in the PM
+      // (Mosiah 8:16) that the JSP transcript did not capture. The inserted
+      // text reads "which no man can yet a man may have great power".
+      insertText: "which no man can yet a man may have great power",
+      insertAfterLine: { page: 135, line: 29 },
+      target: { book: "mosiah", chapter: 8, verse: 16 },
+      note:
+        "OC caret insertion after 'possess the power of God', not in JSP PM transcript",
+    },
+
+    // Mosiah overrides — word reassignments
     {
       // PM p134:3 reads "we to Mourn yea I say unto you great are..." — "yea
       // I say unto" (indices 3–6) opens v24's speech and belongs there.

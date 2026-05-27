@@ -4,7 +4,11 @@ import { runCursor } from "./align/cursor.ts";
 import { runScaffoldAlign } from "./align/scaffold-align.ts";
 import { pushChapterMarkersForward } from "./align/chapter-markers.ts";
 import { applyOverrides } from "./align/apply-overrides.ts";
-import { buildAllVerseOutputs, type OutVerse } from "./align/build-output.ts";
+import {
+  applyInsertions,
+  buildAllVerseOutputs,
+  type OutVerse,
+} from "./align/build-output.ts";
 import { verseKey } from "./align/line-key.ts";
 import {
   ADAPTERS,
@@ -54,6 +58,7 @@ async function run(
   );
 
   const outVerses = buildAllVerseOutputs(cursorResults, lineInfos, canonByKey);
+  applyInsertions(outVerses, adapter.overrides);
   console.log(`  output verses: ${outVerses.length}`);
 
   if (opts.preview > 0) {
