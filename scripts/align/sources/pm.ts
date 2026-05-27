@@ -649,6 +649,173 @@ const pm: SourceAdapter = {
       target: { book: "alma", chapter: 62, verse: 8 },
       note: "leading 'seat' belongs to Alma 62:8 (completes 'judgment seat')",
     },
+
+    // Helaman overrides
+    {
+      // PM p341:20 reads "ong the Lamanites & because of this their great
+      // wickedness &" — "& because of this their great wickedness &" (indices
+      // 3–10) opens v13 canonically.
+      page: 341,
+      line: 20,
+      wordRange: [3, 10],
+      target: { book: "hel", chapter: 4, verse: 13 },
+      note:
+        "trailing '& because of this their great wickedness' belongs to Hel 4:13",
+    },
+    {
+      // PM p344:15 reads "...dissenters & it came to pass that they were
+      // overshadowed" — "& it came to pass" (indices 5–9) opens v28 canonically.
+      page: 344,
+      line: 15,
+      wordRange: [5, 9],
+      target: { book: "hel", chapter: 5, verse: 28 },
+      note: "trailing '& it came to pass' belongs to Hel 5:28",
+    },
+    {
+      // PM p344:37 reads "...which they beheld & it came to" — "& it came to"
+      // (indices 13–16) starts the transitional clause opening v37.
+      page: 344,
+      line: 37,
+      wordRange: [13, 16],
+      target: { book: "hel", chapter: 5, verse: 37 },
+      note: "trailing '& it came to' belongs to Hel 5:37",
+    },
+    {
+      // PM p344:38 reads "pass that this man did cry..." — "pass that this man"
+      // (indices 0–3) continues "it came to pass that this man" opening v37.
+      page: 344,
+      line: 38,
+      wordRange: [0, 3],
+      target: { book: "hel", chapter: 5, verse: 37 },
+      note: "trailing 'pass that this man' belongs to Hel 5:37",
+    },
+    {
+      // PM p351:23 reads "...coming of Messiah yea did he not bear record that
+      // the Son of God shou" — "yea did he not bear record that the" (indices
+      // 5–12) opens v14 canonically.
+      page: 351,
+      line: 23,
+      wordRange: [5, 12],
+      target: { book: "hel", chapter: 8, verse: 14 },
+      note:
+        "trailing 'yea did he not bear record that the' belongs to Hel 8:14",
+    },
+    {
+      // PM p359:6 reads "...even to the verry sentre yea & if he saieth..." —
+      // "sentre" (index 11) is second half of split word "centre" closing v12
+      // canonically ("even to the very center").
+      page: 359,
+      line: 6,
+      wordIndices: [11],
+      target: { book: "hel", chapter: 12, verse: 12 },
+      note: "'sentre' completes split word 'centre', belongs to Hel 12:12",
+    },
+    {
+      // PM p359:7 reads "earth move & it is moved yea if he say..." — "it is
+      // moved" (indices 3–5) closes v13 canonically ("the earth move—it is
+      // moved").
+      page: 359,
+      line: 7,
+      wordRange: [3, 5],
+      target: { book: "hel", chapter: 12, verse: 13 },
+      note: "leading 'it is moved' belongs to Hel 12:13",
+    },
+    {
+      // PM p359:8 reads "gthen out the day for many hours & it is done &
+      // thus..." — "it is done" (indices 8–10) closes v14 canonically
+      // ("it is done").
+      page: 359,
+      line: 8,
+      wordRange: [8, 10],
+      target: { book: "hel", chapter: 12, verse: 14 },
+      note: "leading 'it is done' belongs to Hel 12:14",
+    },
+    {
+      // PM p359:11 reads "...be thou dried up & it is done behold if he
+      // saieth..." — "done" (index 14) closes v16 canonically ("it is done").
+      page: 359,
+      line: 11,
+      wordIndices: [14],
+      target: { book: "hel", chapter: 12, verse: 16 },
+      note: "leading 'done' belongs to Hel 12:16 (completes 'it is done')",
+    },
+    {
+      // PM p359:13 reads "...behold it is done & behold if a man hideth up..."
+      // — "done" (index 8) closes v17 canonically ("behold it is done").
+      page: 359,
+      line: 13,
+      wordIndices: [8],
+      target: { book: "hel", chapter: 12, verse: 17 },
+      note:
+        "leading 'done' belongs to Hel 12:17 (completes 'behold it is done')",
+    },
+    {
+      // PM p360:33 reads "...which is in her yea & wo be" — "yea & wo be"
+      // (indices 12–15) opens v15 canonically ("Yea, and wo be unto the city
+      // of Gideon...").
+      page: 360,
+      line: 33,
+      wordRange: [12, 15],
+      target: { book: "hel", chapter: 13, verse: 15 },
+      note: "trailing 'yea & wo be' belongs to Hel 13:15",
+    },
+    {
+      // PM p360:34 reads "unto the city of Gideon for the wickedness &
+      // abominations which is in her yea &" — "unto...which is in her" (indices
+      // 0–13) belongs to v15 canonically; "yea &" (indices 14–15) opens v16.
+      page: 360,
+      line: 34,
+      wordRange: [0, 13],
+      target: { book: "hel", chapter: 13, verse: 15 },
+      note: "'unto the city of Gideon...which is in her' belongs to Hel 13:15",
+    },
+    {
+      page: 360,
+      line: 34,
+      wordRange: [14, 15],
+      target: { book: "hel", chapter: 13, verse: 16 },
+      note:
+        "trailing 'yea &' belongs to Hel 13:16 (opens 'yea & wo be unto all the cities')",
+    },
+    {
+      // PM p360:35 reads "wo be unto all the cities which are in the land..." —
+      // "wo be unto all the cities which" (indices 0–6) belongs to v16 canonically.
+      page: 360,
+      line: 35,
+      wordRange: [0, 6],
+      target: { book: "hel", chapter: 13, verse: 16 },
+      note: "leading 'wo be unto all the cities which' belongs to Hel 13:16",
+    },
+    {
+      // PM p362:19 reads "...this shall be your language in them days but" —
+      // "but" (index 16) opens v38 canonically ("But behold, your days...").
+      page: 362,
+      line: 19,
+      wordIndices: [16],
+      target: { book: "hel", chapter: 13, verse: 38 },
+      note:
+        "trailing 'but' belongs to Hel 13:38 (opens 'But behold your days')",
+    },
+    {
+      // PM p362:20 reads "behold your days of probation is passed..." — "behold
+      // your days" (indices 0–2) opens v38 canonically ("But behold, your days
+      // of probation are past").
+      page: 362,
+      line: 20,
+      wordRange: [0, 2],
+      target: { book: "hel", chapter: 13, verse: 38 },
+      note: "trailing 'behold your days' belongs to Hel 13:38",
+    },
+    {
+      // PM p367:2 reads "unto Jerusalem yea why will he not shew himself in
+      // this land..." — "yea why will he not shew himself" (indices 2–8) opens
+      // v19 canonically.
+      page: 367,
+      line: 2,
+      wordRange: [2, 8],
+      target: { book: "hel", chapter: 16, verse: 19 },
+      note: "trailing 'yea why will he not shew himself' belongs to Hel 16:19",
+    },
   ],
 };
 

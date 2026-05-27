@@ -901,7 +901,7 @@
         "id": "344:15a",
         "page": 344,
         "line": 15,
-        "text": "& Nephites which were dissenters & it came to pass",
+        "text": "& Nephites which were dissenters",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/344"
       }
     ]
@@ -915,7 +915,7 @@
         "id": "344:15b",
         "page": 344,
         "line": 15,
-        "text": "that they were overshadowed ",
+        "text": "& it came to pass that they were overshadowed ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/344"
       },
       {
@@ -1179,17 +1179,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/344"
       },
       {
-        "id": "344:37",
+        "id": "344:37a",
         "page": 344,
         "line": 37,
-        "text": "as if talking or lifting their voices to some being which they beheld & it came to ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/344"
-      },
-      {
-        "id": "344:38a",
-        "page": 344,
-        "line": 38,
-        "text": "pass that this man",
+        "text": "as if talking or lifting their voices to some being which they beheld",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/344"
       }
     ]
@@ -1200,10 +1193,17 @@
     "verse": 37,
     "lines": [
       {
-        "id": "344:38b",
+        "id": "344:37b",
+        "page": 344,
+        "line": 37,
+        "text": "& it came to ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/344"
+      },
+      {
+        "id": "344:38",
         "page": 344,
         "line": 38,
-        "text": "did cry unto the multitude that they might turn & look ",
+        "text": "pass that this man did cry unto the multitude that they might turn & look ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/344"
       },
       {
