@@ -253,14 +253,7 @@
         "id": "418:6",
         "page": 418,
         "line": 6,
-        "text": "this war was between the Nephites & the Lamanites Lemuelites & the Ishmaelites ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/418"
-      },
-      {
-        "id": "418:7a",
-        "page": 418,
-        "line": 7,
-        "text": "now the Lamanites & the Lemuelites &",
+        "text": "this war was between the Nephites & the Lamanites Lemuelites & the Ishmaelites",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/418"
       }
     ]
@@ -271,10 +264,10 @@
     "verse": 9,
     "lines": [
       {
-        "id": "418:7b",
+        "id": "418:7",
         "page": 418,
         "line": 7,
-        "text": "the Ishmaelites were called Lamanites & the ",
+        "text": "now the Lamanites & the Lemuelites & the Ishmaelites were called Lamanites & the ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/418"
       },
       {
@@ -369,24 +362,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/418"
       },
       {
-        "id": "418:15",
+        "id": "418:15a",
         "page": 418,
         "line": 15,
-        "text": "did remain for the pace of about four years that there was no blood shed but ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/418"
-      },
-      {
-        "id": "418:16",
-        "page": 418,
-        "line": 16,
-        "text": "wickedness did prevail upon the whole land insomuch that the Lord did take ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/418"
-      },
-      {
-        "id": "418:17a",
-        "page": 418,
-        "line": 17,
-        "text": "away his beloved",
+        "text": "did remain for the pace of about four years that there was no blood shed",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/418"
       }
     ]
@@ -397,11 +376,25 @@
     "verse": 13,
     "lines": [
       {
-        "id": "418:17b",
+        "id": "418:15b",
+        "page": 418,
+        "line": 15,
+        "text": "but ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/418"
+      },
+      {
+        "id": "418:16",
+        "page": 418,
+        "line": 16,
+        "text": "wickedness did prevail upon the whole land insomuch that the Lord did take ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/418"
+      },
+      {
+        "id": "418:17",
         "page": 418,
         "line": 17,
-        "text": "Disciples. & the work of miracles & of healing did cease bcause of the ",
-        "markdown": "Disciples. & the work of miracles & of healing~~s~~ did cease bcause of the ",
+        "text": "away his beloved Disciples. & the work of miracles & of healing did cease bcause of the ",
+        "markdown": "away his beloved Disciples. & the work of miracles & of healing~~s~~ did cease bcause of the ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/418"
       },
       {

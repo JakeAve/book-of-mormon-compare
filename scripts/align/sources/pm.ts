@@ -996,6 +996,148 @@ const pm: SourceAdapter = {
       target: { book: "3-ne", chapter: 27, verse: 31 },
       note: "trailing 'would that yo should' belongs to 3 Ne 27:31",
     },
+
+    // Mormon overrides
+    {
+      // PM p418:7 reads "now the Lamanites & the Lemuelites & the Ishmaelites
+      // were called..." — "now the Lamanites & the Lemuelites &" (indices 0–6)
+      // opens v9 canonically ("Now the Lamanites and the Lemuelites...").
+      page: 418,
+      line: 7,
+      wordRange: [0, 6],
+      target: { book: "morm", chapter: 1, verse: 9 },
+      note:
+        "trailing 'now the Lamanites & the Lemuelites &' belongs to Morm 1:9",
+    },
+    {
+      // PM p418:15 ends "...no blood shed but" — "but" (index 15) opens v13
+      // canonically ("But wickedness did prevail...").
+      page: 418,
+      line: 15,
+      wordIndices: [15],
+      target: { book: "morm", chapter: 1, verse: 13 },
+      note:
+        "trailing 'but' belongs to Morm 1:13 (opens 'But wickedness did prevail')",
+    },
+    {
+      // PM p418:16 reads "wickedness did prevail upon the whole land insomuch
+      // that the Lord did take" — whole line belongs to v13.
+      page: 418,
+      line: 16,
+      target: { book: "morm", chapter: 1, verse: 13 },
+      note: "trailing 'wickedness did prevail...' belongs to Morm 1:13",
+    },
+    {
+      // PM p418:17 reads "away his beloved Disciples. & the work of miracles..." —
+      // "away his beloved Disciples" (indices 0–3) belongs to v13 (continuation
+      // of "the Lord did take away his beloved disciples").
+      page: 418,
+      line: 17,
+      wordRange: [0, 3],
+      target: { book: "morm", chapter: 1, verse: 13 },
+      note: "leading 'away his beloved Disciples' belongs to Morm 1:13",
+    },
+    {
+      // PM p422:28 begins "on & now all these things..." — "on" (index 0)
+      // completes split word "Desolation" closing v8.
+      page: 422,
+      line: 28,
+      wordIndices: [0],
+      target: { book: "morm", chapter: 4, verse: 8 },
+      note: "'on' completes split word 'Desolation', belongs to Morm 4:8",
+    },
+    {
+      // PM p424:1 reads "revealed upon the house top & also that a
+      // knowledge..." — "house top" (indices 3–4) closes v8 canonically
+      // ("revealed upon the house-tops").
+      page: 424,
+      line: 1,
+      wordRange: [3, 4],
+      target: { book: "morm", chapter: 5, verse: 8 },
+      note:
+        "leading 'house top' belongs to Morm 5:8 (completes 'upon the house top')",
+    },
+    {
+      // PM p423:28 reads "& it came to pass that they came against us again..." —
+      // "& it came to pass" (indices 0–4) opens v4 canonically.
+      page: 423,
+      line: 28,
+      wordRange: [0, 4],
+      target: { book: "morm", chapter: 5, verse: 4 },
+      note: "trailing '& it came to pass' belongs to Morm 5:4",
+    },
+    {
+      // PM p426:11 ends "...and I said O ye fair" — "O ye fair" (indices 18–20)
+      // opens v17 canonically ("O ye fair ones, how could ye have departed...").
+      page: 426,
+      line: 11,
+      wordRange: [18, 20],
+      target: { book: "morm", chapter: 6, verse: 17 },
+      note: "trailing 'O ye fair' belongs to Morm 6:17",
+    },
+    {
+      // PM p426:12 begins "ones how could ye have departed..." — "ones how could"
+      // (indices 0–2) completes "O ye fair ones how could" opening v17.
+      page: 426,
+      line: 12,
+      wordRange: [0, 2],
+      target: { book: "morm", chapter: 6, verse: 17 },
+      note:
+        "leading 'ones how could' belongs to Morm 6:17 (completes 'O ye fair ones how could')",
+    },
+    {
+      // PM p426:34 reads "...to stand before his judgement seat & he..." —
+      // "judgement seat" (indices 11–12) closes v6 canonically
+      // ("before his judgment-seat").
+      page: 426,
+      line: 34,
+      wordRange: [11, 12],
+      target: { book: "morm", chapter: 7, verse: 6 },
+      note:
+        "leading 'judgement seat' belongs to Morm 7:6 (completes 'before his judgment seat')",
+    },
+    {
+      // PM p430:38 reads "...wrought by the Apostles & if there was miracles
+      // wrought then" — "& if there was miracles wrought" (indices 10–15) opens
+      // v19 canonically ("And if there were miracles wrought then...").
+      page: 430,
+      line: 38,
+      wordRange: [10, 15],
+      target: { book: "morm", chapter: 9, verse: 19 },
+      note: "trailing '& if there was miracles wrought' belongs to Morm 9:19",
+    },
+    {
+      // PM p430:29 reads "...unhappy stills shall be unhappy sha" — "shall be
+      // unhappy sha" (indices 12–15) belongs to v14 (scribal repetition of the
+      // "unhappy" clause that closes v14 canonically).
+      page: 430,
+      line: 29,
+      wordRange: [12, 15],
+      target: { book: "morm", chapter: 9, verse: 14 },
+      note:
+        "leading 'shall be unhappy sha' belongs to Morm 9:14 (scribal repetition)",
+    },
+    {
+      // PM p430:30 reads "ll be unhappy shall be unhappy still, and now O all
+      // ye..." — "ll be unhappy shall be unhappy still," (indices 0–6) completes
+      // the scribal repetition; v15 begins at "and now O all ye" (index 7).
+      page: 430,
+      line: 30,
+      wordRange: [0, 6],
+      target: { book: "morm", chapter: 9, verse: 14 },
+      note:
+        "leading 'll be unhappy shall be unhappy still,' belongs to Morm 9:14 (scribal repetition)",
+    },
+    {
+      // PM p430:33 reads "not ceaseed to be a God of miracles behold are not..." —
+      // "a God of miracles" (indices 4–7) closes v15 canonically
+      // ("not ceased to be a God of miracles").
+      page: 430,
+      line: 33,
+      wordRange: [4, 7],
+      target: { book: "morm", chapter: 9, verse: 15 },
+      note: "leading 'a God of miracles' belongs to Morm 9:15",
+    },
   ],
 };
 
