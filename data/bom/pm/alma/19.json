@@ -915,12 +915,18 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/224"
       },
       {
-        "id": "224:14",
+        "id": "224:14a:pre",
         "page": 224,
         "line": 14,
-        "text": "that there was many among them who said that Ammon was the great spirit but others rebuked them all saying that he was a monster which hath been",
-        "markdown": "that there was many among them who said that Ammon was the great [spirit] ~~spir~~ but others rebuked them all saying that he was a monster which hath been",
+        "text": "that there was many among them who said that Ammon was the great spirit",
+        "markdown": "that there was many among them who said that Ammon was the great [spirit]",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/224"
+      },
+      {
+        "id": "ins:alma-19-25",
+        "page": 0,
+        "line": 0,
+        "text": " & others said he was sent by the great spirit "
       }
     ]
   },
@@ -930,17 +936,18 @@
     "verse": 26,
     "lines": [
       {
-        "id": "224:15",
+        "id": "224:14b",
         "page": 224,
-        "line": 15,
-        "text": "sent from the Nephites to torment us & there were some which said that ",
+        "line": 14,
+        "text": "but others rebuked them all saying that he was a monster which hath been ",
+        "markdown": "~~spir~~ but others rebuked them all saying that he was a monster which hath been ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/224"
       },
       {
-        "id": "224:16a",
+        "id": "224:15a",
         "page": 224,
-        "line": 16,
-        "text": "Ammon was sent by the great spirit to afflict them",
+        "line": 15,
+        "text": "sent from the Nephites to torment us",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/224"
       }
     ]
@@ -951,10 +958,17 @@
     "verse": 27,
     "lines": [
       {
-        "id": "224:16b",
+        "id": "224:15b",
+        "page": 224,
+        "line": 15,
+        "text": "& there were some which said that ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/224"
+      },
+      {
+        "id": "224:16",
         "page": 224,
         "line": 16,
-        "text": "because of their iniquities ",
+        "text": "Ammon was sent by the great spirit to afflict them because of their iniquities ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/224"
       },
       {

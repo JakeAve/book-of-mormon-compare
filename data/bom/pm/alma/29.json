@@ -422,17 +422,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/248"
       },
       {
-        "id": "248:22",
+        "id": "248:22a",
         "page": 248,
         "line": 22,
-        "text": "& hath given me much success inthewhich my joy is full but I do not goy in ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/248"
-      },
-      {
-        "id": "248:23a",
-        "page": 248,
-        "line": 23,
-        "text": "my",
+        "text": "& hath given me much success inthewhich my joy is full",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/248"
       }
     ]
@@ -443,10 +436,17 @@
     "verse": 14,
     "lines": [
       {
-        "id": "248:23b",
+        "id": "248:22b",
+        "page": 248,
+        "line": 22,
+        "text": "but I do not goy in ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/248"
+      },
+      {
+        "id": "248:23",
         "page": 248,
         "line": 23,
-        "text": "own succss alone but my joy is more full because of the success of my ",
+        "text": "my own succss alone but my joy is more full because of the success of my ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/248"
       },
       {

@@ -204,7 +204,7 @@
         "id": "197:12a",
         "page": 197,
         "line": 12,
-        "text": "our Judges. as I was a Journeying to see a very",
+        "text": "our Judges.",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/197"
       }
     ]
@@ -218,7 +218,7 @@
         "id": "197:12b",
         "page": 197,
         "line": 12,
-        "text": "near Kindred Behold an Angel ",
+        "text": "as I was a Journeying to see a very near Kindred Behold an Angel ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/197"
       },
       {
@@ -250,10 +250,30 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/197"
       },
       {
-        "id": "197:17",
+        "id": "197:17a:pre",
         "page": 197,
         "line": 17,
-        "text": "thee and thy house, and it came to pass that I obeyed the voice of the Angel and ",
+        "text": "thee and thy house,",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/197"
+      },
+      {
+        "id": "ins:alma-10-7",
+        "page": 0,
+        "line": 0,
+        "text": " & the blessing of the Lord shall rest upon thee and thy house "
+      }
+    ]
+  },
+  {
+    "book": "alma",
+    "chapter": 10,
+    "verse": 8,
+    "lines": [
+      {
+        "id": "197:17b",
+        "page": 197,
+        "line": 17,
+        "text": "and it came to pass that I obeyed the voice of the Angel and ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/197"
       },
       {
@@ -264,24 +284,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/197"
       },
       {
-        "id": "197:19a",
+        "id": "197:19",
         "page": 197,
         "line": 19,
-        "text": "the Angel said",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/197"
-      }
-    ]
-  },
-  {
-    "book": "alma",
-    "chapter": 10,
-    "verse": 8,
-    "lines": [
-      {
-        "id": "197:19b",
-        "page": 197,
-        "line": 19,
-        "text": "unto me thou shalt receive into thy house, and behold it was this ",
+        "text": "the Angel said unto me thou shalt receive into thy house, and behold it was this ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/197"
       },
       {
@@ -620,7 +626,7 @@
         "id": "198:12a",
         "page": 198,
         "line": 12,
-        "text": "es of God ye are laying plans to pervert the",
+        "text": "es of God",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/198"
       }
     ]
@@ -634,7 +640,7 @@
         "id": "198:12b",
         "page": 198,
         "line": 12,
-        "text": "ways of the righteous and to bring ",
+        "text": "ye are laying plans to pervert the ways of the righteous and to bring ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/198"
       },
       {
