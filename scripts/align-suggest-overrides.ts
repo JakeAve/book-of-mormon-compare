@@ -20,6 +20,62 @@ import {
 import { normalize } from "./align/report.ts";
 import { getSiteUrl } from "../lib/config.ts";
 
+// Raw source entry shape (matches data/raw/<version>/<page>.json).
+interface RawSourceEntry {
+  text: string;
+  chapter: number; // = page number
+  verse: number; // = line number within page
+  source?: string;
+}
+
+// Normalize a single raw word exactly as tokenize-source.ts does.
+function normalizeSourceWord(raw: string): string {
+  return raw
+    .toLowerCase()
+    .replace(/&/g, "and")
+    .replace(/~~[^~]*~~/g, "")
+    .replace(/\{\{|\}\}/g, "")
+    .replace(/\[|\]/g, "")
+    .replace(/[^a-z0-9]/g, "")
+    .trim();
+}
+
+// Tokenize a single raw-source line text into normalized words with their
+// 0-based word indices. Mirrors the per-entry loop in tokenize-source.ts.
+function tokenizeRawLine(text: string): { norm: string; index: number }[] {
+  const rawWords = text.split(/\s+/).filter((w) => w.length > 0);
+  const out: { norm: string; index: number }[] = [];
+  for (let i = 0; i < rawWords.length; i++) {
+    const norm = normalizeSourceWord(rawWords[i]);
+    if (norm) out.push({ norm, index: i });
+  }
+  return out;
+}
+
+// Cache of loaded raw source pages: version → page → entries[].
+const rawSourceCache = new Map<string, Map<number, RawSourceEntry[]>>();
+
+async function loadRawPage(
+  version: string,
+  page: number,
+): Promise<RawSourceEntry[]> {
+  let versionCache = rawSourceCache.get(version);
+  if (!versionCache) {
+    versionCache = new Map();
+    rawSourceCache.set(version, versionCache);
+  }
+  if (versionCache.has(page)) return versionCache.get(page)!;
+  try {
+    const raw = await Deno.readTextFile(`data/raw/${version}/${page}.json`);
+    const entries = JSON.parse(raw) as RawSourceEntry[];
+    versionCache.set(page, entries);
+    return entries;
+  } catch {
+    versionCache.set(page, []);
+    return [];
+  }
+}
+
 const K = 5; // boundary window: number of words to inspect at each verse edge
 const RATIO_LO = 0.4;
 const RATIO_HI = 2.5;
@@ -88,7 +144,40 @@ interface RatioFinding {
   url: string;
 }
 
-type Finding = BleedFinding | RatioFinding;
+interface SplitWordFinding {
+  type: "split-word";
+  book: string;
+  chapter: number;
+  /** The verse whose last token + next verse's first token form the joined word. */
+  verse: number;
+  nextVerse: number;
+  joinedWord: string;
+  url: string;
+}
+
+interface TrailingAmpersandFinding {
+  type: "trailing-ampersand";
+  book: string;
+  chapter: number;
+  verse: number;
+  url: string;
+}
+
+interface LeadingFragmentFinding {
+  type: "leading-fragment";
+  book: string;
+  chapter: number;
+  verse: number;
+  fragment: string;
+  url: string;
+}
+
+type Finding =
+  | BleedFinding
+  | RatioFinding
+  | SplitWordFinding
+  | TrailingAmpersandFinding
+  | LeadingFragmentFinding;
 
 function verseWords(verse: Verse): string[] {
   if (verse.lines) {
@@ -112,26 +201,40 @@ function buildUrl(
 
 // Find the page/line and word range for a set of tokens within a verse's lines,
 // scanning from the given end ("front" for leading, "back" for trailing).
-function resolveLineForTokens(
+// Uses raw source tokenization (same as tokenize-source.ts) to get accurate
+// word indices — avoids off-by-one errors caused by ◊-joined tokens like
+// "say◊th" that normalize() would split but tokenizeSource keeps as one word.
+async function resolveLineForTokens(
+  version: string,
   verse: Verse,
   tokens: string[],
   side: "front" | "back",
-): { page: number; line: number; wordRange?: [number, number] } | null {
+): Promise<
+  { page: number; line: number; wordRange?: [number, number] } | null
+> {
   if (!verse.lines || verse.lines.length === 0) return null;
   const lines = side === "back" ? [...verse.lines].reverse() : verse.lines;
   for (const l of lines) {
-    const lineWords = normalize(l.text);
+    // Load the raw page file and look up this exact line to get the canonical
+    // raw text (which may differ from l.text stored in the aligned JSON after
+    // markdown stripping / stitch processing).
+    const rawEntries = await loadRawPage(version, l.page);
+    const rawEntry = rawEntries.find(
+      (e) => e.chapter === l.page && e.verse === l.line,
+    );
+    // Fall back to the aligned text if the raw entry isn't available.
+    const rawText = rawEntry?.text ?? l.text;
+    const lineWords = tokenizeRawLine(rawText);
+    const lineNorms = lineWords.map((w) => w.norm);
     // Check if all overlap tokens appear in this line.
-    const lineSet = new Set(lineWords);
+    const lineSet = new Set(lineNorms);
     if (tokens.every((t) => lineSet.has(t))) {
-      // Find the word-index range within the line.
-      const indices: number[] = [];
-      for (let i = 0; i < lineWords.length; i++) {
-        if (tokens.includes(lineWords[i])) indices.push(i);
-      }
-      if (indices.length > 0) {
-        const lo = indices[0];
-        const hi = indices[indices.length - 1];
+      // Find the word-index range within the line using raw indices.
+      const tokenSet = new Set(tokens);
+      const matched = lineWords.filter((w) => tokenSet.has(w.norm));
+      if (matched.length > 0) {
+        const lo = matched[0].index;
+        const hi = matched[matched.length - 1].index;
         return {
           page: l.page,
           line: l.line,
@@ -148,14 +251,14 @@ function resolveLineForTokens(
   return { page: fallback.page, line: fallback.line };
 }
 
-function analyzeChapter(
+async function analyzeChapter(
   version: string,
   book: string,
   chapter: number,
   aligned: Verse[],
   canonical: Verse[],
   siteUrl: string,
-): Finding[] {
+): Promise<Finding[]> {
   const canonByVerse = new Map(canonical.map((v) => [v.verse, v]));
   // All normalized words that appear in the canonical chapter — used to filter
   // fragment tokens caused by PM line breaks splitting a word mid-character.
@@ -202,7 +305,12 @@ function analyzeChapter(
         .filter((w) => canonNextHead.includes(w))
         .filter((w) => canonVocab.has(w)); // drop line-break fragments
       if (overlap.length > 0 && !overlap.every((w) => STOP_WORDS.has(w))) {
-        const resolved = resolveLineForTokens(pmVerse, overlap, "back");
+        const resolved = await resolveLineForTokens(
+          version,
+          pmVerse,
+          overlap,
+          "back",
+        );
         bleedCandidates.push({
           type: "trailing-bleed",
           book,
@@ -260,7 +368,12 @@ function analyzeChapter(
         overlap.length > 0 && !overlap.every((w) => STOP_WORDS.has(w)) &&
         !isSymmetric
       ) {
-        const resolved = resolveLineForTokens(pmVerse, overlap, "front");
+        const resolved = await resolveLineForTokens(
+          version,
+          pmVerse,
+          overlap,
+          "front",
+        );
         bleedCandidates.push({
           type: "leading-bleed",
           book,
@@ -313,7 +426,12 @@ function analyzeChapter(
           !STOP_WORDS.has(pmHead[0])
         ) {
           const extraWords = [pmHead[0]];
-          const resolved = resolveLineForTokens(pmVerse, extraWords, "front");
+          const resolved = await resolveLineForTokens(
+            version,
+            pmVerse,
+            extraWords,
+            "front",
+          );
           bleedCandidates.push({
             type: "leading-bleed",
             book,
@@ -406,6 +524,75 @@ function analyzeChapter(
   });
   if (ratioCandidates.length > 0) findings.push(ratioCandidates[0]);
 
+  // Split-word detection: for each verse boundary V / V+1, check whether
+  // lastToken(V) + firstToken(V+1) concatenated forms a word in the canonical
+  // vocabulary. If so, the line break has split a word across verses.
+  const alignedByVerse = new Map(aligned.map((v) => [v.verse, v]));
+  const sortedVerses = [...alignedByVerse.keys()].sort((a, b) => a - b);
+  for (let i = 0; i < sortedVerses.length - 1; i++) {
+    const vNum = sortedVerses[i];
+    const nextVNum = sortedVerses[i + 1];
+    if (vNum === 0) continue;
+    const pmVerse = alignedByVerse.get(vNum)!;
+    const pmNext = alignedByVerse.get(nextVNum)!;
+    const pmWords = verseWords(pmVerse);
+    const pmNextWords = verseWords(pmNext);
+    if (pmWords.length === 0 || pmNextWords.length === 0) continue;
+    const lastTok = pmWords[pmWords.length - 1];
+    const firstTok = pmNextWords[0];
+    const joined = lastTok + firstTok;
+    if (canonVocab.has(joined)) {
+      findings.push({
+        type: "split-word",
+        book,
+        chapter,
+        verse: vNum,
+        nextVerse: nextVNum,
+        joinedWord: joined,
+        url: buildUrl(siteUrl, version, book, chapter, vNum, nextVNum),
+      });
+    }
+  }
+
+  // Boundary quality scan: inspect the aligned output directly for structural
+  // artifacts that suggest a verse boundary is in the wrong place.
+  for (const pmVerse of aligned) {
+    if (pmVerse.verse === 0) continue;
+    if (!pmVerse.lines || pmVerse.lines.length === 0) continue;
+
+    // Trailing-ampersand: verse's last line ends with a standalone "&".
+    const lastLine = pmVerse.lines[pmVerse.lines.length - 1];
+    if (/(?:^|\s)&\s*$/.test(lastLine.text)) {
+      findings.push({
+        type: "trailing-ampersand",
+        book,
+        chapter,
+        verse: pmVerse.verse,
+        url: buildUrl(siteUrl, version, book, chapter, pmVerse.verse),
+      });
+    }
+
+    // Leading-fragment: verse's first line starts with a token shorter than
+    // 3 chars that doesn't appear standalone in the canonical vocabulary.
+    const firstLine = pmVerse.lines[0];
+    const firstRawToken = firstLine.text.trim().split(/\s+/)[0] ?? "";
+    const firstNorm = normalizeSourceWord(firstRawToken);
+    if (
+      firstNorm.length > 0 &&
+      firstNorm.length < 3 &&
+      !canonVocab.has(firstNorm)
+    ) {
+      findings.push({
+        type: "leading-fragment",
+        book,
+        chapter,
+        verse: pmVerse.verse,
+        fragment: firstNorm,
+        url: buildUrl(siteUrl, version, book, chapter, pmVerse.verse),
+      });
+    }
+  }
+
   return findings;
 }
 
@@ -462,7 +649,14 @@ async function main() {
       const aligned = await loadChapter(version, b, String(c));
       const canonical = await loadChapter("2013", b, String(c));
       if (aligned.length === 0 || canonical.length === 0) continue;
-      const found = analyzeChapter(version, b, c, aligned, canonical, siteUrl);
+      const found = await analyzeChapter(
+        version,
+        b,
+        c,
+        aligned,
+        canonical,
+        siteUrl,
+      );
       allFindings.push(...found);
       if (found.length > 0) {
         console.log(`${b} ${c}: ${found.length} finding(s)`);
@@ -506,6 +700,18 @@ function buildMarkdown(version: string, findings: Finding[]): string {
           `- [ ] **ch${f.chapter} v${f.verse}** token-ratio \`${
             f.ratio.toFixed(2)
           }\` (pm:${f.pmTokens} canon:${f.canonTokens}) — [view](${f.url})`,
+        );
+      } else if (f.type === "split-word") {
+        lines.push(
+          `- [ ] **ch${f.chapter} v${f.verse}→${f.nextVerse}** split-word \`${f.joinedWord}\` — [view](${f.url})`,
+        );
+      } else if (f.type === "trailing-ampersand") {
+        lines.push(
+          `- [ ] **ch${f.chapter} v${f.verse}** trailing-ampersand — [view](${f.url})`,
+        );
+      } else if (f.type === "leading-fragment") {
+        lines.push(
+          `- [ ] **ch${f.chapter} v${f.verse}** leading-fragment \`${f.fragment}\` — [view](${f.url})`,
         );
       } else {
         const dir = f.type === "trailing-bleed" ? "→" : "←";
