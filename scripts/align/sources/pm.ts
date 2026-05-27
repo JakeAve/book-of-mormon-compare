@@ -997,6 +997,50 @@ const pm: SourceAdapter = {
       note: "trailing 'would that yo should' belongs to 3 Ne 27:31",
     },
 
+    // Moroni overrides
+    {
+      // PM p458:37 reads "...they took the cup & said O God the Eternal
+      // Father" — "said" (index 10) closes v1 canonically ("took the cup,
+      // and said:").
+      page: 458,
+      line: 37,
+      wordIndices: [10],
+      target: { book: "moro", chapter: 5, verse: 1 },
+      note:
+        "leading 'said' belongs to Moro 5:1 (completes 'took the cup & said')",
+    },
+    {
+      // PM p462:15 reads "...it shall be well with them wherefore my beloved
+      // brethren..." — "them" (index 9) closes v47 canonically ("it shall be
+      // well with them").
+      page: 462,
+      line: 15,
+      wordIndices: [9],
+      target: { book: "moro", chapter: 7, verse: 47 },
+      note:
+        "leading 'them' belongs to Moro 7:47 (completes 'it shall be well with them')",
+    },
+    {
+      // PM p465:24 reads "up unto the my son be faithful in christ & may not
+      // the things..." — "my son be faithful in christ &" (indices 3–9) opens
+      // v25 canonically ("My son, be faithful in Christ...").
+      page: 465,
+      line: 24,
+      wordRange: [3, 9],
+      target: { book: "moro", chapter: 9, verse: 25 },
+      note: "trailing 'my son be faithful in christ &' belongs to Moro 9:25",
+    },
+    {
+      // PM p465:35 reads "tion Behold I would exhort you that..." — "Behold I
+      // would" (indices 1–3) opens v3 canonically ("Behold, I would exhort
+      // you...").
+      page: 465,
+      line: 35,
+      wordRange: [1, 3],
+      target: { book: "moro", chapter: 10, verse: 3 },
+      note: "trailing 'Behold I would' belongs to Moro 10:3",
+    },
+
     // Ether overrides
     {
       // PM p436:37 reads "...sea behold O Lord thou canst do this we know that
