@@ -997,6 +997,80 @@ const pm: SourceAdapter = {
       note: "trailing 'would that yo should' belongs to 3 Ne 27:31",
     },
 
+    // Ether overrides
+    {
+      // PM p436:37 reads "...sea behold O Lord thou canst do this we know that
+      // thou art able" — "behold O Lord thou canst do this we know" (indices
+      // 4–12) opens v5 canonically ("Behold, O Lord, thou canst do this...").
+      page: 436,
+      line: 37,
+      wordRange: [4, 12],
+      target: { book: "ether", chapter: 3, verse: 5 },
+      note:
+        "trailing 'Behold O Lord thou canst do this we know' belongs to Ether 3:5",
+    },
+    {
+      // PM p440:9 reads "...give light unto the vessels thereof & thus the Lord
+      // caused stones to shine" — "thereof" (index 8) closes v2 canonically
+      // ("they did give light unto the vessels thereof").
+      page: 440,
+      line: 9,
+      wordIndices: [8],
+      target: { book: "ether", chapter: 6, verse: 2 },
+      note:
+        "leading 'thereof' belongs to Ether 6:2 (completes 'unto the vessels thereof')",
+    },
+    {
+      // PM p444:38 reads "...which did not seek his destruction & the" —
+      // "destruction" (index 14) closes v2 canonically ("did not seek his
+      // destruction").
+      page: 444,
+      line: 38,
+      wordIndices: [14],
+      target: { book: "ether", chapter: 9, verse: 2 },
+      note:
+        "leading 'destruction' belongs to Ether 9:2 (completes 'seek his destruction')",
+    },
+    {
+      // PM p447:39 reads "...he begat Levi & he died& it came to pass..." —
+      // "died&" (index 11, raw "died&") closes v14 canonically ("he died").
+      page: 447,
+      line: 39,
+      wordIndices: [11],
+      target: { book: "ether", chapter: 10, verse: 14 },
+      note: "leading 'died' belongs to Ether 10:14 (completes 'he died')",
+    },
+    {
+      // PM p451:24 reads "...take no advantage of weakness & if men come unto
+      // me I will shew..." — "& if men come" (indices 8–11) opens v27
+      // canonically ("And if men come unto me I will show...").
+      page: 451,
+      line: 24,
+      wordRange: [8, 12],
+      target: { book: "ether", chapter: 12, verse: 27 },
+      note: "trailing '& if men come unto' belongs to Ether 12:27",
+    },
+    {
+      // PM p455:11 reads "...did burn the cities thereof & there" — "thereof"
+      // (index 16) closes v17 canonically ("he did burn the cities thereof").
+      page: 455,
+      line: 11,
+      wordIndices: [16],
+      target: { book: "ether", chapter: 14, verse: 17 },
+      note:
+        "leading 'thereof' belongs to Ether 14:17 (completes 'burn the cities thereof')",
+    },
+    {
+      // PM p456:29 reads "save it were Ether & it came to pass that Ether did
+      // behold..." — "& it came to" (indices 4–7) opens v13 canonically ("And
+      // it came to pass that Ether did behold...").
+      page: 456,
+      line: 29,
+      wordRange: [4, 7],
+      target: { book: "ether", chapter: 15, verse: 13 },
+      note: "trailing '& it came to' belongs to Ether 15:13",
+    },
+
     // Mormon overrides
     {
       // PM p418:7 reads "now the Lamanites & the Lemuelites & the Ishmaelites
