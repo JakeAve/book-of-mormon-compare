@@ -151,6 +151,77 @@ const pm: SourceAdapter = {
       target: { book: "2-ne", chapter: 26, verse: 15 },
       note: "'gotten' completes split word 'forgotten', belongs to 2 Ne 26:15",
     },
+
+    // Jacob overrides
+    {
+      // PM p107:34 reads "...unto mine ownself & the servant..." — "ownself"
+      // (index 7) closes v33's sentence and belongs there.
+      page: 107,
+      line: 34,
+      wordIndices: [7],
+      target: { book: "jacob", chapter: 5, verse: 33 },
+      note: "leading 'ownself' belongs to Jacob 5:33",
+    },
+    {
+      // PM p108:24 reads "...& thou beholdest that a part thereof..." — the
+      // clause "& thou beholdest that a" (indices 6–10) opens v45 canonically
+      // and belongs there.
+      page: 108,
+      line: 24,
+      wordRange: [6, 10],
+      target: { book: "jacob", chapter: 5, verse: 45 },
+      note: "trailing '& thou beholdest that a' belongs to Jacob 5:45",
+    },
+
+    // Mosiah overrides
+    {
+      // PM p134:3 reads "we to Mourn yea I say unto you great are..." — "yea
+      // I say unto" (indices 3–6) opens v24's speech and belongs there.
+      page: 134,
+      line: 3,
+      wordRange: [3, 6],
+      target: { book: "mosiah", chapter: 7, verse: 24 },
+      note: "trailing 'yea I say unto' belongs to Mosiah 7:24",
+    },
+    {
+      // PM p142:31 reads "...what sayest thou & they answered & said that
+      // salvation..." — "& they answered & said that" (indices 6–11) opens
+      // v32 canonically and belongs there.
+      page: 142,
+      line: 31,
+      wordRange: [6, 11],
+      target: { book: "mosiah", chapter: 12, verse: 32 },
+      note: "trailing '& they answered & said that' belongs to Mosiah 12:32",
+    },
+    {
+      // PM p160:22 begins "in the wilderness yea & in the vally of Alma..." —
+      // "in the wilderness" (indices 0–2) closes v20's narrative and belongs
+      // there.
+      page: 160,
+      line: 22,
+      wordRange: [0, 2],
+      target: { book: "mosiah", chapter: 24, verse: 20 },
+      note: "leading 'in the wilderness' belongs to Mosiah 24:20",
+    },
+    {
+      // PM p161:27 reads "...faith on the Lord and he did" — "the Lord and"
+      // (indices 8–10) completes "faith on the Lord" closing v15.
+      page: 161,
+      line: 27,
+      wordRange: [8, 10],
+      target: { book: "mosiah", chapter: 25, verse: 15 },
+      note:
+        "leading 'the Lord and' belongs to Mosiah 25:15 (completes 'faith on the Lord')",
+    },
+    {
+      // PM p171:4 reads "...anniqity and whosoever hath Committid aniqity..." —
+      // "and whosoever hath Committid" (indices 4–7) opens v15 canonically.
+      page: 171,
+      line: 4,
+      wordRange: [4, 7],
+      target: { book: "mosiah", chapter: 29, verse: 15 },
+      note: "trailing 'and whosoever hath committid' belongs to Mosiah 29:15",
+    },
   ],
 };
 
