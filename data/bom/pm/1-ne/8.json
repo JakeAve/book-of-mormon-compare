@@ -475,7 +475,7 @@
         "id": "16:34a",
         "page": 16,
         "line": 34,
-        "text": "unto me & I beheld a rod of iron &",
+        "text": "unto me",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/16"
       }
     ]
@@ -489,7 +489,7 @@
         "id": "16:34b",
         "page": 16,
         "line": 34,
-        "text": "it extended along the bank of the river & le ",
+        "text": "& I beheld a rod of iron & it extended along the bank of the river & le ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/16"
       },
       {
@@ -642,11 +642,18 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/17"
       },
       {
-        "id": "17:9a",
+        "id": "17:9",
         "page": 17,
         "line": 9,
-        "text": "they did come forth & partook of the fruit of the tree & after that they had partook of",
-        "markdown": "they did come forth & ~~partake~~ [partook] of the fruit of the tree & after that they had partook of",
+        "text": "they did come forth & partook of the fruit of the tree & after that they had partook of the ",
+        "markdown": "they did come forth & ~~partake~~ [partook] of the fruit of the tree & after that they had partook of the ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/17"
+      },
+      {
+        "id": "17:10a",
+        "page": 17,
+        "line": 10,
+        "text": "fruit of the tree",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/17"
       }
     ]
@@ -657,17 +664,10 @@
     "verse": 25,
     "lines": [
       {
-        "id": "17:9b",
-        "page": 17,
-        "line": 9,
-        "text": "the ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/17"
-      },
-      {
-        "id": "17:10a",
+        "id": "17:10b",
         "page": 17,
         "line": 10,
-        "text": "fruit of the tree they did cast their eyes about as if they were ashamed",
+        "text": "they did cast their eyes about as if they were ashamed",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/17"
       }
     ]
@@ -678,7 +678,7 @@
     "verse": 26,
     "lines": [
       {
-        "id": "17:10b",
+        "id": "17:10c",
         "page": 17,
         "line": 10,
         "text": "& I also cast ",
