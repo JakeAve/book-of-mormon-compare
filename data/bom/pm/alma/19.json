@@ -396,7 +396,8 @@
         "id": "ins:alma-19-12",
         "page": 0,
         "line": 0,
-        "text": " & blessed art thou "
+        "text": " & blessed art thou ",
+        "markdown": " [& blessed art thou] "
       }
     ]
   },
@@ -932,7 +933,8 @@
         "id": "ins:alma-19-25",
         "page": 0,
         "line": 0,
-        "text": " & others said he was sent by the great spirit "
+        "text": " & others said he was sent by the great spirit ",
+        "markdown": " [& others said he was sent by the great spirit] "
       }
     ]
   },

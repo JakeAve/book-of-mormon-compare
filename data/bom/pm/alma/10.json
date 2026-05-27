@@ -260,7 +260,8 @@
         "id": "ins:alma-10-7",
         "page": 0,
         "line": 0,
-        "text": " & the blessing of the Lord shall rest upon thee and thy house "
+        "text": " & the blessing of the Lord shall rest upon thee and thy house ",
+        "markdown": " [& the blessing of the Lord shall rest upon thee and thy house] "
       }
     ]
   },

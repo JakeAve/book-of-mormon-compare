@@ -191,6 +191,8 @@ const pm: SourceAdapter = {
       // (Mosiah 8:16) that the JSP transcript did not capture.
       insertText:
         " which no man can yet a man may have great power given him from God ",
+      insertMarkdown:
+        " [which no man can yet a man may have great power given him from God] ",
       insertAfterLine: { page: 135, line: 29 },
       insertAfterWordIndex: 11,
       target: { book: "mosiah", chapter: 8, verse: 16 },
@@ -327,6 +329,8 @@ const pm: SourceAdapter = {
       // PM transcript does not capture this insertion.
       insertText:
         " & the blessing of the Lord shall rest upon thee and thy house ",
+      insertMarkdown:
+        " [& the blessing of the Lord shall rest upon thee and thy house] ",
       insertAfterLine: { page: 197, line: 17 },
       insertAfterWordIndex: 3,
       target: { book: "alma", chapter: 10, verse: 7 },
@@ -473,6 +477,7 @@ const pm: SourceAdapter = {
       // Caret insertion in Alma 19:25 after "Ammon was the great spirit" —
       // not in JSP PM transcript.
       insertText: " & others said he was sent by the great spirit ",
+      insertMarkdown: " [& others said he was sent by the great spirit] ",
       insertAfterLine: { page: 224, line: 14 },
       insertAfterWordIndex: 13,
       target: { book: "alma", chapter: 19, verse: 25 },
@@ -483,6 +488,7 @@ const pm: SourceAdapter = {
       // Caret insertion in Alma 19:12 after "the name of God" — JSP PM
       // transcript did not capture this interlinear addition.
       insertText: " & blessed art thou ",
+      insertMarkdown: " [& blessed art thou] ",
       insertAfterLine: { page: 222, line: 32 },
       insertAfterWordIndex: 12,
       target: { book: "alma", chapter: 19, verse: 12 },
@@ -995,6 +1001,7 @@ const pm: SourceAdapter = {
       // Caret insertion in 3 Ne 12:37 before "for whatsoever cometh..." —
       // the JSP PM transcript does not capture this interlinear addition.
       insertText: "but let your communication be yea yea nay nay ",
+      insertMarkdown: "[but let your communication be yea yea nay nay] ",
       insertBeforeLine: { page: 388, line: 11 },
       target: { book: "3-ne", chapter: 12, verse: 37 },
       note:
