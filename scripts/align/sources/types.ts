@@ -58,17 +58,45 @@ export interface CursorConfig {
  *  that don't appear in either canonical verse, so no structural rule can
  *  decide where to put them). Keep overrides sparse — every entry is a
  *  known limitation of the algorithm we've accepted rather than fixed.
- *  Record a `note` so future readers know what motivated the carve-out. */
+ *  Record a `note` so future readers know what motivated the carve-out.
+ *
+ *  Two kinds:
+ *  - Word reassignment (page + line present): moves source words to a
+ *    different verse than the cursor assigned them to.
+ *  - Text insertion (insertText present, no page/line): injects text that
+ *    does not exist in the raw source — e.g. a caret insertion in the
+ *    manuscript that the JSP transcript did not capture. */
 export interface Override {
-  /** Source page (= raw `chapter`). */
-  page: number;
-  /** Source line (= raw `verse`). */
-  line: number;
+  // ── Word-reassignment fields (required for reassignment overrides) ──────
+  /** Source page (= raw `chapter`). Omit for insertion overrides. */
+  page?: number;
+  /** Source line (= raw `verse`). Omit for insertion overrides. */
+  line?: number;
   /** Word indices on the line to reassign. Omit to reassign the whole line.
    *  Indices are 0-based and match `SourceWord.wordIndexInLine`. */
   wordIndices?: number[];
   /** Inclusive range [start, end] of word indices to reassign. */
   wordRange?: [number, number];
+
+  // ── Text-insertion fields (required for insertion overrides) ─────────────
+  /** Text to inject into the target verse. When present this is an insertion
+   *  override — page/line/wordIndices/wordRange are ignored. */
+  insertText?: string;
+  /** Markdown version of the inserted text (e.g. with deletion markup).
+   *  Defaults to insertText if omitted. */
+  insertMarkdown?: string;
+  /** Insert the synthetic line immediately after this existing line in the
+   *  target verse. Defaults to appending at the end of the verse. */
+  insertAfterLine?: { page: number; line: number };
+  /** Insert the synthetic line immediately before this existing line in the
+   *  target verse. Takes precedence over insertAfterLine when both are set. */
+  insertBeforeLine?: { page: number; line: number };
+  /** When set alongside insertAfterLine, splits that line at this 0-based
+   *  word index (inclusive end of the first half) and inserts the synthetic
+   *  line between the two halves. */
+  insertAfterWordIndex?: number;
+
+  // ── Common fields ────────────────────────────────────────────────────────
   /** Canonical destination. */
   target: { book: string; chapter: number; verse: number };
   /** Why this override exists. Required for non-obvious corrections. */

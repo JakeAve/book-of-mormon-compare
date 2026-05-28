@@ -17,11 +17,13 @@ export function applyOverrides(
 
   const out = results.slice();
   for (const ov of overrides) {
+    if (ov.insertText !== undefined) continue; // insertion overrides handled in build-output
+    if (ov.page === undefined || ov.line === undefined) continue;
     const inRange = matchPredicate(ov);
     let matched = 0;
     for (let i = 0; i < out.length; i++) {
       const r = out[i];
-      if (r.page !== ov.page || r.line !== ov.line) continue;
+      if (r.page !== ov.page! || r.line !== ov.line!) continue;
       if (!inRange(r.wordIndexInLine)) continue;
       out[i] = {
         ...r,

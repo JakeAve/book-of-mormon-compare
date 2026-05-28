@@ -438,10 +438,17 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/430"
       },
       {
-        "id": "430:29a",
+        "id": "430:29",
         "page": 430,
         "line": 29,
-        "text": "Be happy still & he that is unhappy shall be unhappy stills",
+        "text": "Be happy still & he that is unhappy shall be unhappy stills shall be unhappy sha",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/430"
+      },
+      {
+        "id": "430:30a",
+        "page": 430,
+        "line": 30,
+        "text": "ll be unhappy shall be unhappy still,",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/430"
       }
     ]
@@ -452,17 +459,10 @@
     "verse": 15,
     "lines": [
       {
-        "id": "430:29b",
-        "page": 430,
-        "line": 29,
-        "text": "shall be unhappy sha ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/430"
-      },
-      {
-        "id": "430:30",
+        "id": "430:30b",
         "page": 430,
         "line": 30,
-        "text": "ll be unhappy shall be unhappy still, and now O all ye that have imagineed up unto you",
+        "text": "and now O all ye that have imagineed up unto you",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/430"
       },
       {
@@ -483,7 +483,8 @@
         "id": "430:33a",
         "page": 430,
         "line": 33,
-        "text": "not ceaseed to be",
+        "text": "not ceaseed to be a God of miracles",
+        "markdown": "not ceaseed to be [a] God of miracles",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/430"
       }
     ]
@@ -497,8 +498,7 @@
         "id": "430:33b",
         "page": 430,
         "line": 33,
-        "text": "a God of miracles behold are not the things that God hath wrought ",
-        "markdown": "[a] God of miracles behold are not the things that God hath wrought ",
+        "text": "behold are not the things that God hath wrought ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/430"
       },
       {
@@ -564,8 +564,7 @@
         "id": "430:38a",
         "page": 430,
         "line": 38,
-        "text": "& there was many mighty miracles wrought by the Apostles & if there was miracles wrought",
-        "markdown": "& there was many mighty miracles wrought by the Apostles & if there [was] miracles wrought",
+        "text": "& there was many mighty miracles wrought by the Apostles",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/430"
       }
     ]
@@ -579,7 +578,8 @@
         "id": "430:38b",
         "page": 430,
         "line": 38,
-        "text": "then ",
+        "text": "& if there was miracles wrought then ",
+        "markdown": "& if there [was] miracles wrought then ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/430"
       },
       {

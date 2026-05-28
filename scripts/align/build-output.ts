@@ -2,6 +2,7 @@ import { buildTextToMdMapping } from "../shared/markdown.ts";
 import { applyJoins, buildCanonIndex } from "../shared/stitch.ts";
 import { lineKey, parseLineKey, verseKey } from "./line-key.ts";
 import type { CursorResult, LineInfo } from "./types.ts";
+import type { Override } from "./sources/types.ts";
 
 export interface OutLine {
   id: string;
@@ -147,6 +148,137 @@ function buildVerseLines(
     lines.push(outLine);
   }
   return lines;
+}
+
+/** Applies insertion overrides to already-built verse outputs. Each insertion
+ *  adds a synthetic line (no page/line from source) into the target verse,
+ *  either after a specified existing line or at the end of the verse. */
+export function applyInsertions(
+  verses: OutVerse[],
+  overrides: Override[] | undefined,
+): void {
+  if (!overrides) return;
+  const insertions = overrides.filter((o) => o.insertText !== undefined);
+  if (insertions.length === 0) return;
+
+  const byVk = new Map(
+    verses.map((v) => [verseKey(v.book, v.chapter, v.verse), v]),
+  );
+
+  for (const ins of insertions) {
+    const vk = verseKey(
+      ins.target.book,
+      ins.target.chapter,
+      ins.target.verse,
+    );
+    const verse = byVk.get(vk);
+    if (!verse) {
+      console.warn(
+        `  insertion override did not find verse: ${vk} (${ins.note})`,
+      );
+      continue;
+    }
+
+    const syntheticId =
+      `ins:${ins.target.book}-${ins.target.chapter}-${ins.target.verse}`;
+    const newLine: OutLine = {
+      id: syntheticId,
+      page: 0,
+      line: 0,
+      text: ins.insertText!,
+      ...(ins.insertMarkdown !== undefined
+        ? { markdown: ins.insertMarkdown }
+        : {}),
+    };
+
+    if (ins.insertBeforeLine) {
+      const beforePage = ins.insertBeforeLine.page;
+      const beforeLine = ins.insertBeforeLine.line;
+      const idx = verse.lines.findIndex(
+        (l) => l.page === beforePage && l.line === beforeLine,
+      );
+      if (idx === -1) {
+        console.warn(
+          `  insertion override: insertBeforeLine p${beforePage}:${beforeLine} not found in ${vk}, appending`,
+        );
+        verse.lines.push(newLine);
+      } else {
+        verse.lines.splice(idx, 0, newLine);
+      }
+    } else if (ins.insertAfterLine) {
+      const afterPage = ins.insertAfterLine.page;
+      const afterLine = ins.insertAfterLine.line;
+      const idx = verse.lines.findIndex(
+        (l) => l.page === afterPage && l.line === afterLine,
+      );
+      if (idx === -1) {
+        console.warn(
+          `  insertion override: insertAfterLine p${afterPage}:${afterLine} not found in ${vk}, appending`,
+        );
+        verse.lines.push(newLine);
+      } else if (ins.insertAfterWordIndex !== undefined) {
+        // Split the existing line at the given word boundary, insert the
+        // synthetic line between the two halves.
+        const existing = verse.lines[idx];
+        const words = existing.text.split(" ");
+        const splitAt = ins.insertAfterWordIndex + 1;
+        const textA = words.slice(0, splitAt).join(" ");
+        const textB = words.slice(splitAt).join(" ");
+        // Use :pre/:post suffixes to avoid doubling an existing a/b suffix.
+        const lineA: OutLine = {
+          ...existing,
+          id: `${existing.id}:pre`,
+          text: textA,
+          ...(existing.markdown !== undefined
+            ? {
+              markdown: splitMarkdown(existing.markdown, words, 0, splitAt - 1),
+            }
+            : {}),
+        };
+        const toInsert: OutLine[] = [lineA, newLine];
+        if (textB.trim().length > 0) {
+          toInsert.push({
+            ...existing,
+            id: `${existing.id}:post`,
+            text: textB,
+            ...(existing.markdown !== undefined
+              ? {
+                markdown: splitMarkdown(
+                  existing.markdown,
+                  words,
+                  splitAt,
+                  words.length - 1,
+                ),
+              }
+              : {}),
+          });
+        }
+        verse.lines.splice(idx, 1, ...toInsert);
+      } else {
+        verse.lines.splice(idx + 1, 0, newLine);
+      }
+    } else {
+      verse.lines.push(newLine);
+    }
+  }
+}
+
+// Extracts a word-index range from a markdown string, mapping via the plain
+// text word list so markup tokens stay aligned with their text counterparts.
+function splitMarkdown(
+  markdown: string,
+  textWords: string[],
+  fromWord: number,
+  toWord: number,
+): string {
+  const mdWords = markdown.split(" ").filter((w) => w.length > 0);
+  const mapping = buildTextToMdMapping(
+    textWords.filter((w) => w.length > 0),
+    mdWords,
+  );
+  const mdStart = mapping[fromWord] ?? 0;
+  const mdEnd = mapping[toWord + 1] ?? mdWords.length;
+  return mdWords.slice(mdStart, mdEnd).join(" ");
 }
 
 function sliceMarkdown(

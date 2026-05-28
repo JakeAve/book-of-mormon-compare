@@ -35,38 +35,69 @@ Deno.test("strip: handles mixed markers", () => {
 Deno.test("parse: plain text → all normal tokens", () => {
   const result = parseManuscriptMarkup("hello world");
   assertEquals(result.length, 2);
-  assertEquals(result[0], { text: "hello", kind: "normal" });
-  assertEquals(result[1], { text: "world", kind: "normal" });
+  assertEquals(result[0].text, "hello");
+  assertEquals(result[0].kind, "normal");
+  assertEquals(result[0].segments, undefined);
+  assertEquals(result[1].text, "world");
+  assertEquals(result[1].kind, "normal");
+  assertEquals(result[1].segments, undefined);
 });
 
 Deno.test("parse: ~~word~~ → deleted", () => {
   const result = parseManuscriptMarkup("~~word~~");
   assertEquals(result.length, 1);
-  assertEquals(result[0], { text: "word", kind: "deleted" });
+  assertEquals(result[0].text, "word");
+  assertEquals(result[0].kind, "deleted");
+  assertEquals(result[0].segments, undefined);
 });
 
 Deno.test("parse: {{word}} → unclear", () => {
   const result = parseManuscriptMarkup("{{word}}");
   assertEquals(result.length, 1);
-  assertEquals(result[0], { text: "word", kind: "unclear" });
+  assertEquals(result[0].text, "word");
+  assertEquals(result[0].kind, "unclear");
+  assertEquals(result[0].segments, undefined);
 });
 
 Deno.test("parse: [word] → inserted", () => {
   const result = parseManuscriptMarkup("[word]");
   assertEquals(result.length, 1);
-  assertEquals(result[0], { text: "word", kind: "inserted" });
+  assertEquals(result[0].text, "word");
+  assertEquals(result[0].kind, "inserted");
+  assertEquals(result[0].segments, undefined);
 });
 
-Deno.test("parse: dow[n] → single inserted token", () => {
+Deno.test("parse: dow[n] → token with inserted dominant and segments", () => {
   const result = parseManuscriptMarkup("dow[n]");
   assertEquals(result.length, 1);
-  assertEquals(result[0], { text: "down", kind: "inserted" });
+  assertEquals(result[0].text, "down");
+  assertEquals(result[0].kind, "inserted");
+  assertEquals(result[0].segments, [
+    { text: "dow", kind: "normal" },
+    { text: "n", kind: "inserted" },
+  ]);
 });
 
-Deno.test("parse: {{h}}e → unclear wins over normal in same word", () => {
+Deno.test("parse: {{h}}e → unclear wins over normal in same word, with segments", () => {
   const result = parseManuscriptMarkup("{{h}}e");
   assertEquals(result.length, 1);
-  assertEquals(result[0], { text: "he", kind: "unclear" });
+  assertEquals(result[0].text, "he");
+  assertEquals(result[0].kind, "unclear");
+  assertEquals(result[0].segments, [
+    { text: "h", kind: "unclear" },
+    { text: "e", kind: "normal" },
+  ]);
+});
+
+Deno.test("parse: mountain~~s~~ → normal word with deleted suffix via segments", () => {
+  const result = parseManuscriptMarkup("mountain~~s~~");
+  assertEquals(result.length, 1);
+  assertEquals(result[0].text, "mountains");
+  assertEquals(result[0].kind, "deleted");
+  assertEquals(result[0].segments, [
+    { text: "mountain", kind: "normal" },
+    { text: "s", kind: "deleted" },
+  ]);
 });
 
 Deno.test("parse: cross-word unclear markup {{& it ca}}", () => {
@@ -113,5 +144,7 @@ Deno.test("parse: token count matches splitText of stripped", () => {
 Deno.test("parse: unclosed ~~ marker applies kind to rest of string", () => {
   const result = parseManuscriptMarkup("~~word");
   assertEquals(result.length, 1);
-  assertEquals(result[0], { text: "word", kind: "deleted" });
+  assertEquals(result[0].text, "word");
+  assertEquals(result[0].kind, "deleted");
+  assertEquals(result[0].segments, undefined);
 });

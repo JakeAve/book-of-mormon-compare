@@ -5,6 +5,7 @@ import type { Verse } from "../lib/data.ts";
 import WordMatch from "./WordMatch.tsx";
 import {
   type ManuscriptKind,
+  type ManuscriptToken,
   parseManuscriptMarkup,
   stripManuscriptMarkup,
 } from "../lib/manuscriptMarkup.ts";
@@ -25,6 +26,22 @@ function kindStyle(kind: ManuscriptKind) {
     default:
       return {};
   }
+}
+
+function renderManuscriptToken(
+  text: string | undefined,
+  parsed: ManuscriptToken | undefined,
+): JSX.Element {
+  if (parsed?.segments) {
+    return (
+      <>
+        {parsed.segments.map((seg, i) => (
+          <span key={i} style={kindStyle(seg.kind)}>{seg.text}</span>
+        ))}
+      </>
+    );
+  }
+  return <span style={kindStyle(parsed?.kind ?? "normal")}>{text}</span>;
 }
 
 export interface DiffProps {
@@ -73,8 +90,6 @@ export function Diff(
     const t = d[i];
     const t1 = split1?.[t1Idx];
     const t2 = split2?.[t2Idx];
-    const kind1 = parsed1?.[t1Idx]?.kind ?? "normal";
-    const kind2 = parsed2?.[t2Idx]?.kind ?? "normal";
 
     if (t.removed) {
       t1Idx++;
@@ -83,7 +98,7 @@ export function Diff(
           class="highlight"
           style={{ backgroundColor: "var(--color-side1-highlight)" }}
         >
-          <span style={kindStyle(kind1)}>{t1}</span>
+          {renderManuscriptToken(t1, parsed1?.[t1Idx - 1])}
           {insertSpaceBetween(t1, split1?.[t1Idx])}
         </span>,
       );
@@ -96,7 +111,7 @@ export function Diff(
           class="highlight"
           style={{ backgroundColor: "var(--color-side2-highlight)" }}
         >
-          <span style={kindStyle(kind2)}>{t2}</span>
+          {renderManuscriptToken(t2, parsed2?.[t2Idx - 1])}
           {insertSpaceBetween(t2, split2?.[t2Idx])}
         </span>,
       );
@@ -110,13 +125,13 @@ export function Diff(
 
       c1.push(
         <WordMatch id={"a" + id}>
-          <span style={kindStyle(kind1)}>{t1}</span>
+          {renderManuscriptToken(t1, parsed1?.[t1Idx - 1])}
           {insertSpaceBetween(t1, split1?.[t1Idx])}
         </WordMatch>,
       );
       c2.push(
         <WordMatch id={"b" + id}>
-          <span style={kindStyle(kind2)}>{t2}</span>
+          {renderManuscriptToken(t2, parsed2?.[t2Idx - 1])}
           {insertSpaceBetween(t2, split2?.[t2Idx])}
         </WordMatch>,
       );

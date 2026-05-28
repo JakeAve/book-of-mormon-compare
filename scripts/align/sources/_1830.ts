@@ -5,7 +5,7 @@ import { DEFAULT_CURSOR_CONFIG, type SourceAdapter } from "./types.ts";
 // dropped in 1830 and restored in later editions. When the source is shorter
 // than canonical the LCS will spuriously extend matches into the next verse's
 // source, so we enable tail-trim.
-export const ed1830: SourceAdapter = {
+const ed1830: SourceAdapter = {
   slug: "1830",
   label: "1830 First Edition",
   raw: "data/raw/1830",
@@ -16,3 +16,5 @@ export const ed1830: SourceAdapter = {
     tailTrimMaxMatchFraction: 0.7,
   },
 };
+
+export default ed1830;

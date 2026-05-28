@@ -2,9 +2,15 @@ import { splitText } from "./textHelpers.ts";
 
 export type ManuscriptKind = "normal" | "deleted" | "unclear" | "inserted";
 
+export interface ManuscriptSegment {
+  text: string;
+  kind: ManuscriptKind;
+}
+
 export interface ManuscriptToken {
   text: string;
   kind: ManuscriptKind;
+  segments?: ManuscriptSegment[];
 }
 
 export function stripManuscriptMarkup(markdown: string): string {
@@ -60,24 +66,36 @@ export function parseManuscriptMarkup(markdown: string): ManuscriptToken[] {
   const tokens = splitText(stripped);
   if (tokens.length === 0) return [];
 
-  // Phase 3: map each token to its dominant kind via character position
+  // Phase 3: map each token to its dominant kind via character position,
+  // recording per-character segments when a token spans multiple kinds.
   const result: ManuscriptToken[] = [];
   let cursor = 0;
   for (const token of tokens) {
     const pos = stripped.indexOf(token, cursor);
     if (pos === -1) {
-      // Unreachable in practice: the stripped string was built from the same
-      // characters as the tokens (splitText result), so indexOf will always succeed.
-      // This guards against potential bugs in the pipeline.
       result.push({ text: token, kind: "normal" });
       continue;
     }
-    const kinds = new Set<ManuscriptKind>();
-    for (let j = 0; j < token.length; j++) {
-      kinds.add(kindChars[pos + j]);
+
+    const segments: ManuscriptSegment[] = [];
+    let segStart = 0;
+    let segKind = kindChars[pos];
+    for (let j = 1; j <= token.length; j++) {
+      const nextKind = j < token.length ? kindChars[pos + j] : null;
+      if (nextKind !== segKind) {
+        segments.push({ text: token.slice(segStart, j), kind: segKind });
+        segStart = j;
+        if (nextKind !== null) segKind = nextKind;
+      }
     }
+
     cursor = pos + token.length;
-    result.push({ text: token, kind: dominantKind(kinds) });
+    const allKinds = new Set(segments.map((s) => s.kind));
+    result.push({
+      text: token,
+      kind: dominantKind(allKinds),
+      segments: segments.length > 1 ? segments : undefined,
+    });
   }
   return result;
 }

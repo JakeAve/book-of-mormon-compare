@@ -1,57 +1,13 @@
-// Path conventions for aligning text sources onto the canonical 2013 layout.
+// Canonical target the aligner aligns every source against.
 //
 //   data/raw/<slug>/*.json            raw JS Papers transcripts (one file per
 //                                     manuscript page, entries keyed by line)
 //   data/bom/<slug>/<book>/<ch>.json  aligned per-chapter output (consumed by
 //                                     loadChapter)
 //
-// Raw transcripts live outside data/bom/ so the BoM data tree only contains
-// publishable, UI-consumable artifacts. To add a new source, register its slug
-// here and run `deno task align:<slug>`.
+// Per-source slug/label/raw/out lives on each SourceAdapter in
+// `scripts/align/sources/*.ts` — the adapters are auto-discovered by
+// `scripts/align/sources/index.ts`, so this file intentionally does NOT
+// duplicate that registry.
 
 export const TARGET_ROOT = "data/bom/2013";
-
-export interface SourceConfig {
-  /** Short slug used in folder names and deno task names. */
-  slug: string;
-  /** Display name for logs. Distinct from VERSION_DISPLAY_NAMES in lib/data.ts
-   * (that one feeds the UI; this one just labels CLI output). */
-  label: string;
-  /** Folder holding the raw transcript page files. */
-  raw: string;
-  /** Folder the aligned per-chapter tree gets written to. */
-  out: string;
-}
-
-export const SOURCES = {
-  om: {
-    slug: "om",
-    label: "Original Manuscript",
-    raw: "data/raw/om",
-    out: "data/bom/om",
-  },
-  pm: {
-    slug: "pm",
-    label: "Printer's Manuscript",
-    raw: "data/raw/pm",
-    out: "data/bom/pm",
-  },
-  "1830": {
-    slug: "1830",
-    label: "1830 First Edition",
-    raw: "data/raw/1830",
-    out: "data/bom/1830",
-  },
-  "1837": {
-    slug: "1837",
-    label: "1837 Second Edition",
-    raw: "data/raw/1837",
-    out: "data/bom/1837",
-  },
-} as const satisfies Record<string, SourceConfig>;
-
-export type SourceSlug = keyof typeof SOURCES;
-
-export function isSourceSlug(s: string): s is SourceSlug {
-  return s in SOURCES;
-}

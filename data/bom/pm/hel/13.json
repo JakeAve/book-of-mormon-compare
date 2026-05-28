@@ -480,18 +480,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/360"
       },
       {
-        "id": "360:33",
+        "id": "360:33a",
         "page": 360,
         "line": 33,
-        "text": "great city because of the wickedness & abominations which is in her yea & wo be ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/360"
-      },
-      {
-        "id": "360:34a",
-        "page": 360,
-        "line": 34,
-        "text": "unto the City",
-        "markdown": "unto ~~this~~ [the] City",
+        "text": "great city because of the wickedness & abominations which is in her",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/360"
       }
     ]
@@ -502,17 +494,18 @@
     "verse": 15,
     "lines": [
       {
-        "id": "360:34b",
+        "id": "360:33b",
         "page": 360,
-        "line": 34,
-        "text": "of Gideon for the wickedness & abominations which is in her yea & ",
+        "line": 33,
+        "text": "yea & wo be ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/360"
       },
       {
-        "id": "360:35a",
+        "id": "360:34a",
         "page": 360,
-        "line": 35,
-        "text": "wo be unto all the cities which",
+        "line": 34,
+        "text": "unto the City of Gideon for the wickedness & abominations which is in her",
+        "markdown": "unto ~~this~~ [the] City of Gideon for the wickedness & abominations which is in her",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/360"
       }
     ]
@@ -523,10 +516,17 @@
     "verse": 16,
     "lines": [
       {
-        "id": "360:35b",
+        "id": "360:34b",
+        "page": 360,
+        "line": 34,
+        "text": "yea & ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/360"
+      },
+      {
+        "id": "360:35",
         "page": 360,
         "line": 35,
-        "text": "are in the land round about which is possessed by the ",
+        "text": "wo be unto all the cities which are in the land round about which is possessed by the ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/360"
       },
       {
@@ -1262,17 +1262,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/362"
       },
       {
-        "id": "362:19",
+        "id": "362:19a",
         "page": 362,
         "line": 19,
-        "text": "not turn away thine anger from us & this shall be your language in them days but ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/362"
-      },
-      {
-        "id": "362:20a",
-        "page": 362,
-        "line": 20,
-        "text": "behold your days",
+        "text": "not turn away thine anger from us & this shall be your language in them days",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/362"
       }
     ]
@@ -1283,10 +1276,17 @@
     "verse": 38,
     "lines": [
       {
-        "id": "362:20b",
+        "id": "362:19b",
+        "page": 362,
+        "line": 19,
+        "text": "but ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/362"
+      },
+      {
+        "id": "362:20",
         "page": 362,
         "line": 20,
-        "text": "of probation is passed ye have procrastinated the day of your salva",
+        "text": "behold your days of probation is passed ye have procrastinated the day of your salva",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/362"
       },
       {
