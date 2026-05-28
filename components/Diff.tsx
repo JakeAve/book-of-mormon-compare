@@ -22,7 +22,10 @@ function kindStyle(kind: ManuscriptKind) {
     case "unclear":
       return { color: "var(--color-muted)" };
     case "inserted":
-      return { fontWeight: "600" };
+      return {
+        fontStyle: "italic",
+        verticalAlign: "super",
+      };
     default:
       return {};
   }

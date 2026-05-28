@@ -204,8 +204,15 @@ const STEPS: TutorialStep[] = [
           — text that is hard to read but assumed
         </p>
         <p style={{ margin: 0 }}>
-          <span style={{ fontWeight: 600, marginRight: "0.5rem" }}>
-            bold
+          <span
+            style={{
+              fontStyle: "italic",
+              verticalAlign: "super",
+              fontSize: "0.85em",
+              marginRight: "0.5rem",
+            }}
+          >
+            raised
           </span>
           — text inserted above the line or in the margin
         </p>
