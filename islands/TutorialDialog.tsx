@@ -89,11 +89,7 @@ const STEPS: TutorialStep[] = [
     domElements: ["[data-tutorial='verse-source']"],
     body: (
       <p style={{ margin: 0 }}>
-        For aligned versions (Original Manuscript, Printer's Manuscript, 1830,
-        and 1837), clicking the <strong>verse number</strong>{" "}
-        opens a popup listing each contributing manuscript line. Each line links
-        to the original source — the Joseph Smith Papers or other archival sites
-        — in a new tab.
+        Click the <strong>verse number</strong> to view the source.
       </p>
     ),
   },
