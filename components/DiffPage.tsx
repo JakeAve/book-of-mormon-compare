@@ -233,6 +233,7 @@ export function DiffPage({
                 verses2={verses2}
                 startRow={0}
                 markedVerses={markedVerses}
+                perVerse={v1 !== "om" && v2 !== "om"}
               />
             )}
         </div>

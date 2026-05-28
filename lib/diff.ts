@@ -82,3 +82,15 @@ export function diff(oldText: string, newText: string): Token[] {
 
   return [...changes, ...middle, ...suffix];
 }
+
+export function diffVersesPaired(
+  verses1: string[],
+  verses2: string[],
+): Token[][] {
+  const len = Math.max(verses1.length, verses2.length);
+  const result: Token[][] = [];
+  for (let i = 0; i < len; i++) {
+    result.push(diff(verses1[i] ?? "", verses2[i] ?? ""));
+  }
+  return result;
+}

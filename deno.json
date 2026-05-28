@@ -5,6 +5,7 @@
     "setup": "git config core.hooksPath .githooks && chmod +x .githooks/pre-commit .githooks/pre-push",
     "check": "deno fmt --check . && deno lint . && deno check",
     "test": "deno test -A",
+    "bench": "deno bench --allow-read **/*.bench.ts",
     "pre-commit": "deno task check && deno task test",
     "pre-push": "deno task check && deno task test",
     "dev": "vite",
