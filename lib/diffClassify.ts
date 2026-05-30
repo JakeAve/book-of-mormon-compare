@@ -1,4 +1,4 @@
-import type { DiffKind } from "./diff.ts";
+import type { DiffKind, Token } from "./diff.ts";
 import { isPunctuation } from "./textHelpers.ts";
 import { levenshtein } from "./editDistance.ts";
 import { isKnownVariant } from "./spellingVariants.ts";
@@ -35,4 +35,37 @@ export function classifySubstitution(oldVal: string, newVal: string): DiffKind {
   }
 
   return "wordChange";
+}
+
+export function classifyDiff(tokens: Token[]): Token[] {
+  let i = 0;
+  while (i < tokens.length) {
+    if (!tokens[i].added && !tokens[i].removed) {
+      i++;
+      continue;
+    }
+
+    const removed: Token[] = [];
+    const added: Token[] = [];
+    let j = i;
+    while (j < tokens.length && (tokens[j].added || tokens[j].removed)) {
+      if (tokens[j].removed) removed.push(tokens[j]);
+      else added.push(tokens[j]);
+      j++;
+    }
+
+    const pairCount = Math.min(removed.length, added.length);
+    for (let k = 0; k < pairCount; k++) {
+      const kind = classifySubstitution(removed[k].value, added[k].value);
+      removed[k].kind = kind;
+      added[k].kind = kind;
+    }
+    for (let k = pairCount; k < removed.length; k++) {
+      removed[k].kind = "omission";
+    }
+    for (let k = pairCount; k < added.length; k++) added[k].kind = "addition";
+
+    i = j;
+  }
+  return tokens;
 }
