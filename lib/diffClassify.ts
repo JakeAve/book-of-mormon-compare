@@ -63,7 +63,9 @@ export function classifyDiff(tokens: Token[]): Token[] {
     for (let k = pairCount; k < removed.length; k++) {
       removed[k].kind = "omission";
     }
-    for (let k = pairCount; k < added.length; k++) added[k].kind = "addition";
+    for (let k = pairCount; k < added.length; k++) {
+      added[k].kind = "addition";
+    }
 
     i = j;
   }
