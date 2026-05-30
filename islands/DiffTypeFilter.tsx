@@ -40,6 +40,8 @@ export default function DiffTypeFilter() {
 
   return (
     <div
+      role="group"
+      aria-label="Filter highlights by change type"
       style={{
         display: "flex",
         flexWrap: "wrap",
