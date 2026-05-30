@@ -208,6 +208,48 @@
     "verse": 3,
     "lines": [
       {
+        "id": "595:28",
+        "page": 595,
+        "line": 28,
+        "text": "OLIVER COWDERY,",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/595"
+      }
+    ]
+  },
+  {
+    "book": "witnesses",
+    "chapter": 1,
+    "verse": 4,
+    "lines": [
+      {
+        "id": "595:29",
+        "page": 595,
+        "line": 29,
+        "text": "DAVID WHITMER,",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/595"
+      }
+    ]
+  },
+  {
+    "book": "witnesses",
+    "chapter": 1,
+    "verse": 5,
+    "lines": [
+      {
+        "id": "595:30",
+        "page": 595,
+        "line": 30,
+        "text": "MARTIN HARRIS.",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/595"
+      }
+    ]
+  },
+  {
+    "book": "witnesses",
+    "chapter": 1,
+    "verse": 6,
+    "lines": [
+      {
         "id": "596:1",
         "page": 596,
         "line": 1,
@@ -219,7 +261,7 @@
   {
     "book": "witnesses",
     "chapter": 1,
-    "verse": 4,
+    "verse": 7,
     "lines": [
       {
         "id": "596:2",
@@ -317,6 +359,125 @@
         "page": 596,
         "line": 15,
         "text": "not, God bearing witness of it.",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/596"
+      }
+    ]
+  },
+  {
+    "book": "witnesses",
+    "chapter": 1,
+    "verse": 8,
+    "lines": [
+      {
+        "id": "596:16",
+        "page": 596,
+        "line": 16,
+        "text": "CHRISTIAN WHITMER,",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/596"
+      }
+    ]
+  },
+  {
+    "book": "witnesses",
+    "chapter": 1,
+    "verse": 9,
+    "lines": [
+      {
+        "id": "596:17",
+        "page": 596,
+        "line": 17,
+        "text": "JACOB WHITMER,",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/596"
+      }
+    ]
+  },
+  {
+    "book": "witnesses",
+    "chapter": 1,
+    "verse": 10,
+    "lines": [
+      {
+        "id": "596:18a",
+        "page": 596,
+        "line": 18,
+        "text": "PETER WHITMER,",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/596"
+      }
+    ]
+  },
+  {
+    "book": "witnesses",
+    "chapter": 1,
+    "verse": 11,
+    "lines": [
+      {
+        "id": "596:18b",
+        "page": 596,
+        "line": 18,
+        "text": "Jr. ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/596"
+      },
+      {
+        "id": "596:19",
+        "page": 596,
+        "line": 19,
+        "text": "JOHN WHITMER,",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/596"
+      }
+    ]
+  },
+  {
+    "book": "witnesses",
+    "chapter": 1,
+    "verse": 12,
+    "lines": [
+      {
+        "id": "596:20",
+        "page": 596,
+        "line": 20,
+        "text": "HIRAM PAGE,",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/596"
+      }
+    ]
+  },
+  {
+    "book": "witnesses",
+    "chapter": 1,
+    "verse": 13,
+    "lines": [
+      {
+        "id": "596:21",
+        "page": 596,
+        "line": 21,
+        "text": "JOSEPH SMITH, Sen.",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/596"
+      }
+    ]
+  },
+  {
+    "book": "witnesses",
+    "chapter": 1,
+    "verse": 14,
+    "lines": [
+      {
+        "id": "596:22",
+        "page": 596,
+        "line": 22,
+        "text": "HYRUM SMITH,",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/596"
+      }
+    ]
+  },
+  {
+    "book": "witnesses",
+    "chapter": 1,
+    "verse": 15,
+    "lines": [
+      {
+        "id": "596:23",
+        "page": 596,
+        "line": 23,
+        "text": "SAMUEL H. SMITH.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/596"
       }
     ]

@@ -236,6 +236,48 @@
     "verse": 3,
     "lines": [
       {
+        "id": "624:32",
+        "page": 624,
+        "line": 32,
+        "text": "OLIVER COWDERY,",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/624"
+      }
+    ]
+  },
+  {
+    "book": "witnesses",
+    "chapter": 1,
+    "verse": 4,
+    "lines": [
+      {
+        "id": "624:33",
+        "page": 624,
+        "line": 33,
+        "text": "DAVID WHITMER,",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/624"
+      }
+    ]
+  },
+  {
+    "book": "witnesses",
+    "chapter": 1,
+    "verse": 5,
+    "lines": [
+      {
+        "id": "624:34",
+        "page": 624,
+        "line": 34,
+        "text": "MARTIN HARRIS.",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/624"
+      }
+    ]
+  },
+  {
+    "book": "witnesses",
+    "chapter": 1,
+    "verse": 6,
+    "lines": [
+      {
         "id": "625:1",
         "page": 625,
         "line": 1,
@@ -254,7 +296,7 @@
   {
     "book": "witnesses",
     "chapter": 1,
-    "verse": 4,
+    "verse": 7,
     "lines": [
       {
         "id": "625:3",
@@ -358,69 +400,188 @@
         "id": "625:17",
         "page": 625,
         "line": 17,
-        "text": "have seen; and we lie not, God bearing witness of it. ",
+        "text": "have seen; and we lie not, God bearing witness of it.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/625"
-      },
+      }
+    ]
+  },
+  {
+    "book": "witnesses",
+    "chapter": 1,
+    "verse": 8,
+    "lines": [
       {
         "id": "625:18",
         "page": 625,
         "line": 18,
-        "text": "TO THE READER. ",
+        "text": "CHRISTIAN WHITMER,",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/625"
-      },
+      }
+    ]
+  },
+  {
+    "book": "witnesses",
+    "chapter": 1,
+    "verse": 9,
+    "lines": [
       {
         "id": "625:19",
         "page": 625,
         "line": 19,
-        "text": "Contrary to our expectations, when the foregoing ",
+        "text": "JACOB WHITMER,",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/625"
-      },
+      }
+    ]
+  },
+  {
+    "book": "witnesses",
+    "chapter": 1,
+    "verse": 10,
+    "lines": [
       {
-        "id": "625:20",
+        "id": "625:20a",
         "page": 625,
         "line": 20,
-        "text": "work was commenced, we have been induced to aban ",
+        "text": "PETER WHITMER,",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/625"
+      }
+    ]
+  },
+  {
+    "book": "witnesses",
+    "chapter": 1,
+    "verse": 11,
+    "lines": [
+      {
+        "id": "625:20b",
+        "page": 625,
+        "line": 20,
+        "text": "Jr. ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/625"
       },
       {
         "id": "625:21",
         "page": 625,
         "line": 21,
-        "text": "don the idea of attaching to it the Book of Doctrine ",
+        "text": "JOHN WHITMER,",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/625"
-      },
+      }
+    ]
+  },
+  {
+    "book": "witnesses",
+    "chapter": 1,
+    "verse": 12,
+    "lines": [
       {
         "id": "625:22",
         "page": 625,
         "line": 22,
-        "text": "and Covenants. We came to this conclusion from ",
+        "text": "HIRAM PAGE,",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/625"
-      },
+      }
+    ]
+  },
+  {
+    "book": "witnesses",
+    "chapter": 1,
+    "verse": 13,
+    "lines": [
       {
         "id": "625:23",
         "page": 625,
         "line": 23,
-        "text": "the fact, that the two connected, would make a vol ",
+        "text": "JOSEPH SMITH, Sen.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/625"
-      },
+      }
+    ]
+  },
+  {
+    "book": "witnesses",
+    "chapter": 1,
+    "verse": 14,
+    "lines": [
       {
         "id": "625:24",
         "page": 625,
         "line": 24,
-        "text": "ume, entirely too unwieldy for the purpose intended, ",
+        "text": "HYRUM SMITH,",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/625"
-      },
+      }
+    ]
+  },
+  {
+    "book": "witnesses",
+    "chapter": 1,
+    "verse": 15,
+    "lines": [
       {
         "id": "625:25",
         "page": 625,
         "line": 25,
-        "text": "that of a pocket companion. ",
+        "text": "SAMUEL H. SMITH. ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/625"
       },
       {
         "id": "625:26",
         "page": 625,
         "line": 26,
+        "text": "TO THE READER. ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/625"
+      },
+      {
+        "id": "625:27",
+        "page": 625,
+        "line": 27,
+        "text": "Contrary to our expectations, when the foregoing ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/625"
+      },
+      {
+        "id": "625:28",
+        "page": 625,
+        "line": 28,
+        "text": "work was commenced, we have been induced to aban ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/625"
+      },
+      {
+        "id": "625:29",
+        "page": 625,
+        "line": 29,
+        "text": "don the idea of attaching to it the Book of Doctrine ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/625"
+      },
+      {
+        "id": "625:30",
+        "page": 625,
+        "line": 30,
+        "text": "and Covenants. We came to this conclusion from ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/625"
+      },
+      {
+        "id": "625:31",
+        "page": 625,
+        "line": 31,
+        "text": "the fact, that the two connected, would make a vol ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/625"
+      },
+      {
+        "id": "625:32",
+        "page": 625,
+        "line": 32,
+        "text": "ume, entirely too unwieldy for the purpose intended, ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/625"
+      },
+      {
+        "id": "625:33",
+        "page": 625,
+        "line": 33,
+        "text": "that of a pocket companion. ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/625"
+      },
+      {
+        "id": "625:34",
+        "page": 625,
+        "line": 34,
         "text": "The Publishers.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/625"
       }
