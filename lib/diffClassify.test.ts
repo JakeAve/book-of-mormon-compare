@@ -73,3 +73,30 @@ Deno.test("classifyDiff: uneven run pairs then labels leftovers", () => {
   assertEquals(tokens[1].kind, "omission"); // big has no partner
   assertEquals(tokens[2].kind, "wordChange");
 });
+
+Deno.test("classifyDiff: interleaved removed/added/removed region", () => {
+  const tokens: Token[] = [
+    { value: "a", removed: true },
+    { value: "b", added: true },
+    { value: "c", removed: true },
+  ];
+  classifyDiff(tokens);
+  // collected removed=[a,c], added=[b]; pair (a,b) -> wordChange, c leftover -> omission
+  assertEquals(tokens[0].kind, "wordChange");
+  assertEquals(tokens[1].kind, "wordChange");
+  assertEquals(tokens[2].kind, "omission");
+});
+
+Deno.test("classifyDiff: multiple disjoint change regions are classified independently", () => {
+  const tokens: Token[] = [
+    { value: "keep", added: false, removed: false },
+    { value: "extra", added: true },
+    { value: "same", added: false, removed: false },
+    { value: "old", removed: true },
+  ];
+  classifyDiff(tokens);
+  assertEquals(tokens[0].kind, undefined);
+  assertEquals(tokens[1].kind, "addition");
+  assertEquals(tokens[2].kind, undefined);
+  assertEquals(tokens[3].kind, "omission");
+});
