@@ -12,8 +12,6 @@
   --color-divider: #e8e0d0;
   --color-verse-num: #b0a090;
 
-  --color-side1-highlight: #edd9a8;
-  --color-side2-highlight: #d4e0c4;
   --color-word-match: #a8d8e0;
   --color-word-match-selection: #a8d8e0;
   --color-diff-capitalization-1: #d8e4f0;
@@ -53,8 +51,6 @@
     --color-divider: #363636;
     --color-verse-num: #706060;
 
-    --color-side1-highlight: #a06c1f;
-    --color-side2-highlight: #4a7940;
     --color-word-match: #1a5a64;
     --color-word-match-selection: #1a5a64;
     --color-diff-capitalization-1: #2e4763;

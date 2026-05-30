@@ -39,19 +39,27 @@ const STEPS: TutorialStep[] = [
     body: (
       <>
         <p style={{ margin: "0 0 0.75rem" }}>
-          Words and phrases that differ between versions are highlighted inline.
+          Words that differ between versions are highlighted inline and
+          color-coded by the kind of difference:
         </p>
         <p style={{ margin: "0 0 0.5rem" }}>
-          {swatch(
-            "--color-side1-highlight",
-            "Left column — text present here but changed or absent on the right",
-          )}
+          {swatch("--color-diff-capitalization-2", "Capitalization")}
         </p>
         <p style={{ margin: "0 0 0.5rem" }}>
-          {swatch(
-            "--color-side2-highlight",
-            "Right column — text present here but changed or absent on the left",
-          )}
+          {swatch("--color-diff-spelling-2", "Spelling variant")}
+        </p>
+        <p style={{ margin: "0 0 0.5rem" }}>
+          {swatch("--color-diff-addition-2", "Addition")}
+        </p>
+        <p style={{ margin: "0 0 0.5rem" }}>
+          {swatch("--color-diff-omission-1", "Omission")}
+        </p>
+        <p style={{ margin: "0 0 0.75rem" }}>
+          {swatch("--color-diff-wordchange-2", "Word change")}
+        </p>
+        <p style={{ margin: "0 0 0.75rem" }}>
+          Use the legend above the text to toggle any kind of highlight on or
+          off.
         </p>
         <p style={{ margin: "0" }}>
           {swatch(
