@@ -7,16 +7,16 @@ import { VitePWA } from "vite-plugin-pwa";
 // vite-plugin-pwa's injectManifest sub-build doesn't inherit the parent
 // define config, so process.env.NODE_ENV survives into the SW bundle
 // (process doesn't exist in SW scope). Replace it post-build.
+// Also inject BUILD_ID at build time to version the navigation cache.
 const swProcessFix = {
   name: "sw-process-fix",
   closeBundle() {
     const swPath = "_fresh/client/sw.js";
     try {
-      const content = readFileSync(swPath, "utf-8");
-      writeFileSync(
-        swPath,
-        content.replaceAll("process.env.NODE_ENV", '"production"'),
-      );
+      let content = readFileSync(swPath, "utf-8");
+      content = content.replaceAll("process.env.NODE_ENV", '"production"');
+      content = content.replaceAll("__BUILD_ID__", Date.now().toString());
+      writeFileSync(swPath, content);
     } catch {
       // sw.js not present in dev mode — no-op
     }
