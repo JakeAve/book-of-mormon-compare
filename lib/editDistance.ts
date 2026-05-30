@@ -5,7 +5,7 @@ export function levenshtein(a: string, b: string): number {
   if (n === 0) return m;
 
   let prev = Int32Array.from({ length: n + 1 }, (_, j) => j);
-  const curr = new Int32Array(n + 1);
+  let curr = new Int32Array(n + 1);
 
   for (let i = 1; i <= m; i++) {
     curr[0] = i;
@@ -17,7 +17,7 @@ export function levenshtein(a: string, b: string): number {
         prev[j - 1] + cost,
       );
     }
-    prev = curr.slice();
+    [prev, curr] = [curr, prev];
   }
   return prev[n];
 }

@@ -19,6 +19,10 @@ Deno.test("levenshtein: handles empty strings", () => {
   assertEquals(levenshtein("", ""), 0);
 });
 
-Deno.test("levenshtein: full replacement", () => {
+Deno.test("levenshtein: prefix deletion", () => {
   assertEquals(levenshtein("unto", "to"), 2);
+});
+
+Deno.test("levenshtein: deletion (colour vs color)", () => {
+  assertEquals(levenshtein("colour", "color"), 1);
 });
