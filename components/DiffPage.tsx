@@ -2,6 +2,7 @@ import type { ComponentChildren } from "preact";
 import type { Verse } from "../lib/data.ts";
 import { Diff } from "./Diff.tsx";
 import ChapterNavDialog from "../islands/ChapterNavDialog.tsx";
+import DiffTypeFilter from "../islands/DiffTypeFilter.tsx";
 
 interface Props {
   verses1: Verse[];
@@ -193,6 +194,8 @@ export function DiffPage({
             </div>
           </div>
         </div>
+
+        <DiffTypeFilter />
 
         {/* Reader body */}
         <div
