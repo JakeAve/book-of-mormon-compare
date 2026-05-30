@@ -29,6 +29,15 @@ Need an offline page that helps re-orient if offline
 1 Nephi 4:17-18 1 Nephi 5:8-9, 9-10 1 Nephi 5:22 end of chapter ! Nephi 7:8-9,
 19-20
 
+#### Fix Alma 9:25-26 override (PM)
+
+Re-running `align:pm` regenerates `data/bom/pm/alma/9.json` incorrectly: PM page
+196 lines 6-7 get split/stitched wrong, producing a doubled "and" ("and and not
+many days hence...") and a stray `h` fragment at the start of 9:26. The override
+for this verse in `scripts/align/sources/pm.ts` (the `196` override) is likely
+wrong. Until fixed, do not commit the regenerated `alma/9.json` — revert it
+after re-aligning.
+
 ### Fix remaining markdown truncation cases in aligned data (9 cases)
 
 These lines in the aligned JSON have `markdown` with fewer words than `text`

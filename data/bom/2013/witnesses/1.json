@@ -17,14 +17,91 @@
     "book": "witnesses",
     "chapter": 1,
     "verse": 3,
+    "text": "Oliver Cowdery",
+    "source": "https://www.churchofjesuschrist.org/study/scriptures/bofm/three?lang=eng"
+  },
+  {
+    "book": "witnesses",
+    "chapter": 1,
+    "verse": 4,
+    "text": "David Whitmer",
+    "source": "https://www.churchofjesuschrist.org/study/scriptures/bofm/three?lang=eng"
+  },
+  {
+    "book": "witnesses",
+    "chapter": 1,
+    "verse": 5,
+    "text": "Martin Harris",
+    "source": "https://www.churchofjesuschrist.org/study/scriptures/bofm/three?lang=eng"
+  },
+  {
+    "book": "witnesses",
+    "chapter": 1,
+    "verse": 6,
     "text": "The Testimony of Eight Witnesses",
     "source": "https://www.churchofjesuschrist.org/study/scriptures/bofm/eight?lang=eng"
   },
   {
     "book": "witnesses",
     "chapter": 1,
-    "verse": 4,
+    "verse": 7,
     "text": "Be it known unto all nations, kindreds, tongues, and people, unto whom this work shall come: That Joseph Smith, Jun., the translator of this work, has shown unto us the plates of which hath been spoken, which have the appearance of gold; and as many of the leaves as the said Smith has translated we did handle with our hands; and we also saw the engravings thereon, all of which has the appearance of ancient work, and of curious workmanship. And this we bear record with words of soberness, that the said Smith has shown unto us, for we have seen and hefted, and know of a surety that the said Smith has got the plates of which we have spoken. And we give our names unto the world, to witness unto the world that which we have seen. And we lie not, God bearing witness of it.",
     "source": "https://www.churchofjesuschrist.org/study/scriptures/bofm/eight?lang=eng&id=p1#p1"
+  },
+  {
+    "book": "witnesses",
+    "chapter": 1,
+    "verse": 8,
+    "text": "Christian Whitmer",
+    "source": "https://www.churchofjesuschrist.org/study/scriptures/bofm/eight?lang=eng"
+  },
+  {
+    "book": "witnesses",
+    "chapter": 1,
+    "verse": 9,
+    "text": "Jacob Whitmer",
+    "source": "https://www.churchofjesuschrist.org/study/scriptures/bofm/eight?lang=eng"
+  },
+  {
+    "book": "witnesses",
+    "chapter": 1,
+    "verse": 10,
+    "text": "Peter Whitmer, Jun.",
+    "source": "https://www.churchofjesuschrist.org/study/scriptures/bofm/eight?lang=eng"
+  },
+  {
+    "book": "witnesses",
+    "chapter": 1,
+    "verse": 11,
+    "text": "John Whitmer",
+    "source": "https://www.churchofjesuschrist.org/study/scriptures/bofm/eight?lang=eng"
+  },
+  {
+    "book": "witnesses",
+    "chapter": 1,
+    "verse": 12,
+    "text": "Hiram Page",
+    "source": "https://www.churchofjesuschrist.org/study/scriptures/bofm/eight?lang=eng"
+  },
+  {
+    "book": "witnesses",
+    "chapter": 1,
+    "verse": 13,
+    "text": "Joseph Smith, Sen.",
+    "source": "https://www.churchofjesuschrist.org/study/scriptures/bofm/eight?lang=eng"
+  },
+  {
+    "book": "witnesses",
+    "chapter": 1,
+    "verse": 14,
+    "text": "Hyrum Smith",
+    "source": "https://www.churchofjesuschrist.org/study/scriptures/bofm/eight?lang=eng"
+  },
+  {
+    "book": "witnesses",
+    "chapter": 1,
+    "verse": 15,
+    "text": "Samuel H. Smith",
+    "source": "https://www.churchofjesuschrist.org/study/scriptures/bofm/eight?lang=eng"
   }
 ]

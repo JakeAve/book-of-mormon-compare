@@ -156,7 +156,7 @@
         "id": "468:2",
         "page": 468,
         "line": 2,
-        "text": "And also the testimony of eight witnesses",
+        "text": "(Oliver Cowdery)",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/468"
       }
     ]
@@ -170,66 +170,220 @@
         "id": "468:3",
         "page": 468,
         "line": 3,
-        "text": "Be it known unto all Nations kindreds tongues & people unto whom this work shall come ",
+        "text": "(David Whitmer)",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/468"
-      },
+      }
+    ]
+  },
+  {
+    "book": "witnesses",
+    "chapter": 1,
+    "verse": 5,
+    "lines": [
       {
         "id": "468:4",
         "page": 468,
         "line": 4,
-        "text": "that Joseph Smith jun. the author & proprietor of this work has shewn unto us the plates ",
+        "text": "(Martin Harris)",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/468"
-      },
+      }
+    ]
+  },
+  {
+    "book": "witnesses",
+    "chapter": 1,
+    "verse": 6,
+    "lines": [
       {
         "id": "468:5",
         "page": 468,
         "line": 5,
-        "text": "of which hath been spoken which have the appearance of gold & as many of the leaves ",
-        "markdown": "of which hath been spoken which have the appearance of gold & as many of the ~~leave~~ [leaves] ",
+        "text": "And also the testimony of eight witnesses",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/468"
-      },
+      }
+    ]
+  },
+  {
+    "book": "witnesses",
+    "chapter": 1,
+    "verse": 7,
+    "lines": [
       {
         "id": "468:6",
         "page": 468,
         "line": 6,
-        "text": "as the said Smith has translated we did handle with our hands & we also saw ",
-        "markdown": "as the said Smith has translated ~~wit~~ [we] did handle with our hands & we also saw ",
+        "text": "Be it known unto all Nations kindreds tongues & people unto whom this work shall come ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/468"
       },
       {
         "id": "468:7",
         "page": 468,
         "line": 7,
-        "text": "the engravings thereon all of which has the appearance of ancient work & of curious ",
+        "text": "that Joseph Smith jun. the author & proprietor of this work has shewn unto us the plates ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/468"
       },
       {
         "id": "468:8",
         "page": 468,
         "line": 8,
-        "text": "workmanship & this we bear record with words of soberness that the said Smith has ",
-        "markdown": "workmanship & this ~~we~~ [we] bear record with words of soberness that the said Smith has ",
+        "text": "of which hath been spoken which have the appearance of gold & as many of the leaves ",
+        "markdown": "of which hath been spoken which have the appearance of gold & as many of the ~~leave~~ [leaves] ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/468"
       },
       {
         "id": "468:9",
         "page": 468,
         "line": 9,
-        "text": "shewn unto us for we have seen & hefted & know of a surety that the said Smith has ",
+        "text": "as the said Smith has translated we did handle with our hands & we also saw ",
+        "markdown": "as the said Smith has translated ~~wit~~ [we] did handle with our hands & we also saw ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/468"
       },
       {
         "id": "468:10",
         "page": 468,
         "line": 10,
-        "text": "got the plates of which we have spoken & we give our names unto the world to wit",
+        "text": "the engravings thereon all of which has the appearance of ancient work & of curious ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/468"
       },
       {
         "id": "468:11",
         "page": 468,
         "line": 11,
+        "text": "workmanship & this we bear record with words of soberness that the said Smith has ",
+        "markdown": "workmanship & this ~~we~~ [we] bear record with words of soberness that the said Smith has ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/468"
+      },
+      {
+        "id": "468:12",
+        "page": 468,
+        "line": 12,
+        "text": "shewn unto us for we have seen & hefted & know of a surety that the said Smith has ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/468"
+      },
+      {
+        "id": "468:13",
+        "page": 468,
+        "line": 13,
+        "text": "got the plates of which we have spoken & we give our names unto the world to wit",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/468"
+      },
+      {
+        "id": "468:14",
+        "page": 468,
+        "line": 14,
         "text": "ness unto the world that which we have seen & we lie not God bearing witness of it",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/468"
+      }
+    ]
+  },
+  {
+    "book": "witnesses",
+    "chapter": 1,
+    "verse": 8,
+    "lines": [
+      {
+        "id": "468:15",
+        "page": 468,
+        "line": 15,
+        "text": "Christian Whitmer)",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/468"
+      }
+    ]
+  },
+  {
+    "book": "witnesses",
+    "chapter": 1,
+    "verse": 9,
+    "lines": [
+      {
+        "id": "468:16",
+        "page": 468,
+        "line": 16,
+        "text": "Jacob Whitmer)",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/468"
+      }
+    ]
+  },
+  {
+    "book": "witnesses",
+    "chapter": 1,
+    "verse": 10,
+    "lines": [
+      {
+        "id": "468:17",
+        "page": 468,
+        "line": 17,
+        "text": "Peter Whitmer Jun—)",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/468"
+      }
+    ]
+  },
+  {
+    "book": "witnesses",
+    "chapter": 1,
+    "verse": 11,
+    "lines": [
+      {
+        "id": "468:18",
+        "page": 468,
+        "line": 18,
+        "text": "John Whitmer)",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/468"
+      }
+    ]
+  },
+  {
+    "book": "witnesses",
+    "chapter": 1,
+    "verse": 12,
+    "lines": [
+      {
+        "id": "468:19",
+        "page": 468,
+        "line": 19,
+        "text": "Hiram Page)",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/468"
+      }
+    ]
+  },
+  {
+    "book": "witnesses",
+    "chapter": 1,
+    "verse": 13,
+    "lines": [
+      {
+        "id": "468:20",
+        "page": 468,
+        "line": 20,
+        "text": "Joseph Smith sen—)",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/468"
+      }
+    ]
+  },
+  {
+    "book": "witnesses",
+    "chapter": 1,
+    "verse": 14,
+    "lines": [
+      {
+        "id": "468:21",
+        "page": 468,
+        "line": 21,
+        "text": "Hyrum Smith)",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/468"
+      }
+    ]
+  },
+  {
+    "book": "witnesses",
+    "chapter": 1,
+    "verse": 15,
+    "lines": [
+      {
+        "id": "468:22",
+        "page": 468,
+        "line": 22,
+        "text": "Samuel H Smith)",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/468"
       }
     ]
