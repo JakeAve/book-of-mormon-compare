@@ -10,8 +10,12 @@ Deno.test("classifySubstitution: curated variant is spelling", () => {
   assertEquals(classifySubstitution("&", "and"), "spelling");
 });
 
-Deno.test("classifySubstitution: near-miss edit distance is spelling", () => {
+Deno.test("classifySubstitution: curated variant (thru/through) is spelling", () => {
   assertEquals(classifySubstitution("thru", "through"), "spelling");
+});
+
+Deno.test("classifySubstitution: edit-distance match is spelling (colour/color)", () => {
+  assertEquals(classifySubstitution("colour", "color"), "spelling");
 });
 
 Deno.test("classifySubstitution: distant words are word change", () => {
