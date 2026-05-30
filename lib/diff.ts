@@ -1,9 +1,17 @@
 import { splitText } from "./textHelpers.ts";
 
+export type DiffKind =
+  | "capitalization"
+  | "spelling"
+  | "addition"
+  | "omission"
+  | "wordChange";
+
 export interface Token {
   value: string;
   added?: boolean;
   removed?: boolean;
+  kind?: DiffKind; // set only on changed tokens (added || removed)
 }
 
 export function diff(oldText: string, newText: string): Token[] {
