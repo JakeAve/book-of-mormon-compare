@@ -16,8 +16,8 @@ declare const self: ServiceWorkerGlobalScope & {
 // __BUILD_ID__ is replaced with Date.now() by swProcessFix in vite.config.ts.
 // Each build gets a unique cache so old HTML (referencing old-hashed assets)
 // can never be served by a new SW that has already cleaned up those old assets.
-declare const __BUILD_ID__: string;
-const NAV_CACHE = `navigation-cache-__BUILD_ID__`;
+// Use a plain string — not template ${} syntax — so replaceAll finds it.
+const NAV_CACHE = "navigation-cache-__BUILD_ID__";
 
 precacheAndRoute(self.__WB_MANIFEST);
 cleanupOutdatedCaches();
@@ -49,21 +49,30 @@ self.addEventListener("activate", (event) => {
       if (oldNavCaches.length === 0) return;
       const dest = await caches.open(NAV_CACHE);
       for (const name of oldNavCaches) {
-        const old = await caches.open(name);
-        const keys = await old.keys();
-        await Promise.all(
-          keys.map(async (req) => {
-            if (await dest.match(req)) return;
-            try {
-              const fresh = await fetch(req);
-              if (fresh.ok) await dest.put(req, fresh);
-            } catch {
-              const stale = await old.match(req);
-              if (stale) await dest.put(req, stale);
-            }
-          }),
-        );
-        await caches.delete(name);
+        try {
+          const old = await caches.open(name);
+          const keys = await old.keys();
+          await Promise.all(
+            keys.map(async (req) => {
+              if (await dest.match(req)) return;
+              try {
+                const fresh = await fetch(req);
+                if (fresh.ok) {
+                  await dest.put(req, fresh);
+                } else {
+                  const stale = await old.match(req);
+                  if (stale) await dest.put(req, stale);
+                }
+              } catch {
+                const stale = await old.match(req);
+                if (stale) await dest.put(req, stale);
+              }
+            }),
+          );
+          await caches.delete(name);
+        } catch (err) {
+          console.warn("[SW] Failed to migrate cache", name, err);
+        }
       }
     })(),
   );
