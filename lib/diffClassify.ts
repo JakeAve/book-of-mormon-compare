@@ -3,6 +3,10 @@ import { isPunctuation } from "./textHelpers.ts";
 import { levenshtein } from "./editDistance.ts";
 import { isKnownVariant } from "./spellingVariants.ts";
 
+// Short words (< 5 chars) make the ratio gate meaningless: "lord"→"word" is
+// 1 edit / 4 chars = 0.25, under the ratio limit, yet is clearly a word change.
+// MAX_VARIANT_RATIO ≈ one edit per three characters separates spelling variants
+// from word changes; both thresholds are tunable against the corpus.
 const MAX_VARIANT_DISTANCE = 3;
 const MAX_VARIANT_RATIO = 0.34;
 const MIN_VARIANT_LEN = 5;
