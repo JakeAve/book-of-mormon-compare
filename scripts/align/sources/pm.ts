@@ -306,6 +306,24 @@ const pm: SourceAdapter = {
       note: "leading 'something to eat' belongs to Alma 8:19",
     },
     {
+      // PM p196:6 ends "...nigh at h" — "h" (index 15) is the first half of
+      // split word "hand" closing v25 canonically ("nigh at hand").
+      page: 196,
+      line: 6,
+      wordIndices: [15],
+      target: { book: "alma", chapter: 9, verse: 25 },
+      note: "'h' is first half of split word 'hand', belongs to Alma 9:25",
+    },
+    {
+      // PM p196:7 begins "and and not many days..." — the first "and" (index 0)
+      // completes "hand" from the line above; the second "and" opens v26.
+      page: 196,
+      line: 7,
+      wordIndices: [0],
+      target: { book: "alma", chapter: 9, verse: 25 },
+      note: "'and' completes split word 'hand', belongs to Alma 9:25",
+    },
+    {
       // PM p196:24 reads "...stiffnecked People and also because I said..." —
       // "and also because" (indices 5–7) opens v32 canonically.
       page: 196,
@@ -405,6 +423,17 @@ const pm: SourceAdapter = {
       target: { book: "alma", chapter: 10, verse: 18 },
       note:
         "trailing 'ye are laying plans to pervert...' belongs to Alma 10:18",
+    },
+    {
+      // PM p204:36 reads "rd. and again my Brethren I would Cite your minds..." —
+      // "and again my Brethren I would Cite" (indices 1–7) opens v1 canonically
+      // ("And now, my brethren, I would cite your minds forward...").
+      page: 204,
+      line: 36,
+      wordRange: [1, 7],
+      target: { book: "alma", chapter: 13, verse: 1 },
+      note:
+        "trailing 'and again my Brethren I would Cite' belongs to Alma 13:1",
     },
     {
       // PM p207:11 reads "...full of love & all long suffering having faith" —
