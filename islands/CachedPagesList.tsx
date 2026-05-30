@@ -9,7 +9,12 @@ import {
   VERSION_DISPLAY_NAMES,
 } from "@/lib/data.ts";
 
-const NAVIGATION_CACHE = "navigation-cache";
+async function openNavCache(): Promise<Cache | null> {
+  const names = await caches.keys();
+  const name = names.find((n) => n.startsWith("navigation-cache-"));
+  if (!name) return null;
+  return caches.open(name);
+}
 
 function displayVersion(v: string): string {
   return VERSION_DISPLAY_NAMES[v] ?? v;
@@ -31,7 +36,11 @@ export default function CachedPagesList() {
     let cancelled = false;
     (async () => {
       try {
-        const cache = await caches.open(NAVIGATION_CACHE);
+        const cache = await openNavCache();
+        if (!cache) {
+          if (!cancelled) setGroups([]);
+          return;
+        }
         const requests = await cache.keys();
         const hrefs = requests.map((r) => r.url);
         if (cancelled) return;
