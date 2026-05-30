@@ -16,6 +16,14 @@
   --color-side2-highlight: #d4e0c4;
   --color-word-match: #a8d8e0;
   --color-word-match-selection: #a8d8e0;
+  --color-diff-capitalization-1: #d8e4f0;
+  --color-diff-capitalization-2: #c8d8ec;
+  --color-diff-spelling-1: #e8d8ec;
+  --color-diff-spelling-2: #ddc8e4;
+  --color-diff-addition-2: #cfe6c4;
+  --color-diff-omission-1: #f0d4cc;
+  --color-diff-wordchange-1: #edd9a8;
+  --color-diff-wordchange-2: #d4e0c4;
 
   --color-dialog-bg: #fdfaf4;
   --color-dialog-border: #e8e0d0;
@@ -49,6 +57,14 @@
     --color-side2-highlight: #4a7940;
     --color-word-match: #1a5a64;
     --color-word-match-selection: #1a5a64;
+    --color-diff-capitalization-1: #2e4763;
+    --color-diff-capitalization-2: #1f3a5c;
+    --color-diff-spelling-1: #4a2e5c;
+    --color-diff-spelling-2: #3c1f50;
+    --color-diff-addition-2: #4a7940;
+    --color-diff-omission-1: #8a3b2c;
+    --color-diff-wordchange-1: #a06c1f;
+    --color-diff-wordchange-2: #4a7940;
 
     --color-dialog-bg: #262626;
     --color-dialog-border: #363636;
@@ -390,4 +406,63 @@ body {
   animation: tutorial-pulse 1.8s ease-in-out infinite;
   position: relative;
   z-index: 1;
+}
+
+/* Diff-kind highlight colors (keyed on column + kind) */
+[data-col="1"] [data-diff-kind="capitalization"] {
+  background-color: var(--color-diff-capitalization-1);
+}
+[data-col="2"] [data-diff-kind="capitalization"] {
+  background-color: var(--color-diff-capitalization-2);
+}
+[data-col="1"] [data-diff-kind="spelling"] {
+  background-color: var(--color-diff-spelling-1);
+}
+[data-col="2"] [data-diff-kind="spelling"] {
+  background-color: var(--color-diff-spelling-2);
+}
+[data-diff-kind="addition"] {
+  background-color: var(--color-diff-addition-2);
+}
+[data-diff-kind="omission"] {
+  background-color: var(--color-diff-omission-1);
+}
+[data-col="1"] [data-diff-kind="wordChange"] {
+  background-color: var(--color-diff-wordchange-1);
+}
+[data-col="2"] [data-diff-kind="wordChange"] {
+  background-color: var(--color-diff-wordchange-2);
+}
+
+/* Filter: hide a kind's highlight when its name is in data-diff-inactive */
+[data-diff-inactive~="capitalization"] [data-diff-kind="capitalization"],
+[data-diff-inactive~="spelling"] [data-diff-kind="spelling"],
+[data-diff-inactive~="addition"] [data-diff-kind="addition"],
+[data-diff-inactive~="omission"] [data-diff-kind="omission"],
+[data-diff-inactive~="wordChange"] [data-diff-kind="wordChange"] {
+  background-color: transparent;
+}
+
+/* Legend swatches */
+.diff-swatch {
+  display: inline-block;
+  width: 0.75rem;
+  height: 0.75rem;
+  border-radius: 2px;
+  vertical-align: middle;
+}
+.diff-swatch[data-diff-kind="capitalization"] {
+  background-color: var(--color-diff-capitalization-2);
+}
+.diff-swatch[data-diff-kind="spelling"] {
+  background-color: var(--color-diff-spelling-2);
+}
+.diff-swatch[data-diff-kind="addition"] {
+  background-color: var(--color-diff-addition-2);
+}
+.diff-swatch[data-diff-kind="omission"] {
+  background-color: var(--color-diff-omission-1);
+}
+.diff-swatch[data-diff-kind="wordChange"] {
+  background-color: var(--color-diff-wordchange-2);
 }
