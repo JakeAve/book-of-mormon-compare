@@ -2,6 +2,8 @@
 
 # Book of Mormon Compare
 
+![Book of Mormon Compare screenshot](static/bofm-compare-screenshot.png)
+
 A side-by-side diff viewer for comparing different versions of the Book of
 Mormon, built with [Fresh 2](https://fresh.deno.dev/) and Deno.
 
