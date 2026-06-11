@@ -2,7 +2,6 @@ import type { PageProps } from "fresh";
 import type { State } from "@/utils/state.ts";
 import Footer from "@/components/Footer.tsx";
 import Header from "@/components/Header.tsx";
-import BetaBanner from "@/components/BetaBanner.tsx";
 import ScrollRestorer from "@/islands/ScrollRestorer.tsx";
 import Toast from "@/islands/Toast.tsx";
 import PwaManager from "@/islands/PwaManager.tsx";
@@ -47,7 +46,6 @@ export default function App({ Component, state }: PageProps<unknown, State>) {
         style={{ backgroundColor: "var(--color-page-bg)" }}
       >
         <Header />
-        <BetaBanner />
         <Component />
         <Footer />
         <ScrollRestorer />

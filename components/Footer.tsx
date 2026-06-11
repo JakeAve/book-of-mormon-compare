@@ -12,6 +12,14 @@ export default function Footer() {
         <a href="/about" class="underline">About</a>
         <a href="/versions" class="underline">Versions</a>
         <a href="/textual-criticism" class="underline">Textual Criticism</a>
+        <a
+          href="https://github.com/JakeAve/book-of-mormon-compare"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="underline"
+        >
+          GitHub
+        </a>
       </nav>
       <p class="max-w-2xl mx-auto mb-2">
         This project is an independent study and research tool. It is not
