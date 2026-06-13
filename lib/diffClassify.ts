@@ -37,6 +37,26 @@ export function classifySubstitution(oldVal: string, newVal: string): DiffKind {
   return "wordChange";
 }
 
+function findBestMatch(
+  removedVal: string,
+  added: Token[],
+  matched: Set<number>,
+): number {
+  const a = stripPunct(removedVal).toLowerCase();
+  for (let m = 0; m < added.length; m++) {
+    if (matched.has(m)) continue;
+    if (isKnownVariant(a, stripPunct(added[m].value).toLowerCase())) return m;
+  }
+  for (let m = 0; m < added.length; m++) {
+    if (matched.has(m)) continue;
+    if (removedVal.toLowerCase() === added[m].value.toLowerCase()) return m;
+  }
+  for (let m = 0; m < added.length; m++) {
+    if (!matched.has(m)) return m;
+  }
+  return -1;
+}
+
 export function classifyDiff(tokens: Token[]): Token[] {
   let i = 0;
   while (i < tokens.length) {
@@ -54,17 +74,20 @@ export function classifyDiff(tokens: Token[]): Token[] {
       j++;
     }
 
-    const pairCount = Math.min(removed.length, added.length);
-    for (let k = 0; k < pairCount; k++) {
-      const kind = classifySubstitution(removed[k].value, added[k].value);
-      removed[k].kind = kind;
-      added[k].kind = kind;
+    const matchedAdded = new Set<number>();
+    for (let k = 0; k < removed.length; k++) {
+      const idx = findBestMatch(removed[k].value, added, matchedAdded);
+      if (idx === -1) {
+        removed[k].kind = "omission";
+      } else {
+        matchedAdded.add(idx);
+        const kind = classifySubstitution(removed[k].value, added[idx].value);
+        removed[k].kind = kind;
+        added[idx].kind = kind;
+      }
     }
-    for (let k = pairCount; k < removed.length; k++) {
-      removed[k].kind = "omission";
-    }
-    for (let k = pairCount; k < added.length; k++) {
-      added[k].kind = "addition";
+    for (let m = 0; m < added.length; m++) {
+      if (!matchedAdded.has(m)) added[m].kind = "addition";
     }
 
     i = j;
