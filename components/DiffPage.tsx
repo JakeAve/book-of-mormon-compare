@@ -10,6 +10,9 @@ interface Props {
   select2: ComponentChildren;
   book: string;
   chapter: string;
+  bookName: string;
+  v1Display: string;
+  v2Display: string;
   prev: { book: string; chapter: string } | null;
   next: { book: string; chapter: string } | null;
   v1: string;
@@ -100,6 +103,9 @@ export function DiffPage({
   select2,
   book,
   chapter,
+  bookName,
+  v1Display,
+  v2Display,
   prev,
   next,
   v1,
@@ -110,6 +116,9 @@ export function DiffPage({
 
   return (
     <main>
+      <h1 class="sr-only">
+        {bookName} {chapter}: {v1Display} vs. {v2Display}
+      </h1>
       <div style={{ maxWidth: "56rem", margin: "0 auto", overflowX: "clip" }}>
         {/* Sticky header */}
         <div style={{ position: "sticky", top: 0, zIndex: 10 }}>

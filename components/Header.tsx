@@ -14,7 +14,7 @@ export default function Header() {
         backgroundColor: "var(--color-page-bg)",
       }}
     >
-      <h1 style={{ margin: 0 }}>
+      <p style={{ margin: 0 }}>
         <a
           href="/"
           style={{
@@ -28,7 +28,7 @@ export default function Header() {
         >
           Book of Mormon Compare
         </a>
-      </h1>
+      </p>
       <TutorialTrigger />
       <HeaderIconButton href="/about" label="About" style={{ right: "1.5rem" }}>
         i

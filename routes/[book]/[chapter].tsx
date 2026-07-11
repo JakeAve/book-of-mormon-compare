@@ -25,6 +25,9 @@ interface PageData {
   versions: string[];
   book: string;
   chapter: string;
+  bookName: string;
+  v1Display: string;
+  v2Display: string;
   prev: { book: string; chapter: string } | null;
   next: { book: string; chapter: string } | null;
   markedVerses: Set<number> | null;
@@ -108,6 +111,9 @@ export const handler = define.handlers({
         versions,
         book,
         chapter,
+        bookName,
+        v1Display,
+        v2Display,
         prev: adjacent.prev,
         next: adjacent.next,
         markedVerses,
@@ -125,6 +131,9 @@ export default define.page<typeof handler>(({ data }) => {
     versions,
     book,
     chapter,
+    bookName,
+    v1Display,
+    v2Display,
     prev,
     next,
     markedVerses,
@@ -141,6 +150,9 @@ export default define.page<typeof handler>(({ data }) => {
         select2={<VersionSelector side="v2" current={v2} versions={versions} />}
         book={book}
         chapter={chapter}
+        bookName={bookName}
+        v1Display={v1Display}
+        v2Display={v2Display}
         prev={prev}
         next={next}
         v1={v1}
