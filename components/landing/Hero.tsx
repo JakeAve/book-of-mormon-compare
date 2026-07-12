@@ -13,8 +13,7 @@ export default function Hero() {
         style={{ color: "var(--color-muted)" }}
       >
         From the 1829 dictation to today's printed edition, compare the text
-        word for word — manuscripts, first editions, and every revision in
-        between.
+        word for word.
       </p>
       <div class="flex flex-col sm:flex-row items-center gap-4 mt-2">
         <a

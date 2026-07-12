@@ -13,14 +13,13 @@ export default function SeoSections() {
             class="font-serif text-base leading-relaxed"
             style={{ color: "var(--color-muted)" }}
           >
-            No original manuscript survives untouched — the Book of Mormon
-            reached print through dictation, hand copying, and repeated
-            typesetting, and each stage left its own mark. Scribes occasionally
-            misheard or miscopied a word. Compositors adjusted spelling and
-            punctuation to house style. Later editions corrected grammar,
-            standardized wording, and fixed errors that had crept in along the
-            way. Comparing any two witnesses side by side shows these changes
-            directly, without relying on a secondhand summary of what differs.
+            The Book of Mormon reached print through dictation, hand copying,
+            and repeated typesetting, and each stage left its own mark. Scribes
+            occasionally misheard or miscopied a word. Compositors adjusted
+            spelling and punctuation to house style. Later editions corrected
+            grammar, standardized wording, and fixed errors that had crept in
+            along the way. Comparing any two witnesses side by side shows these
+            changes directly, providing full transparency on what differs.
           </p>
           <p>
             <a
@@ -45,11 +44,12 @@ export default function SeoSections() {
             style={{ color: "var(--color-muted)" }}
           >
             The Book of Mormon's documentary record spans handwritten
-            manuscripts from 1828–29 through the current printed edition, with
+            manuscripts from 1828-29 through the current printed edition, with
             several editions in between. Each one is available here in full,
             matched verse for verse against any other, so you can pick two
             points in that record — an early manuscript and a modern printing,
-            or two editions decades apart — and see exactly what separates them.
+            or two editions decades apart — and see exactly what varies between
+            them.
           </p>
           <p>
             <a

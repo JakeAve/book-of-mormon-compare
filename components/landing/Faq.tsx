@@ -12,7 +12,7 @@ export const FAQ_ITEMS: FaqItem[] = [
   {
     question: "What versions and editions of the Book of Mormon exist?",
     answer:
-      "The documentary record includes two early manuscripts — the Original Manuscript and the Printer's Manuscript — and a chain of printed editions beginning with the 1830 first edition through the current edition used today. See the Versions page for a list and historical summary of each.",
+      "The documentary record includes two early manuscripts — the Original Manuscript and the Printer's Manuscript — and a chain of printed editions beginning with the 1830 first edition through the current editions used today. See the Versions page for a list and historical summary of each.",
   },
   {
     question: "Why was the Book of Mormon changed?",
@@ -20,14 +20,9 @@ export const FAQ_ITEMS: FaqItem[] = [
       "Changes entered the text at several stages: scribes copying dictation, typesetters preparing each new printing, and editors correcting grammar and standardizing wording in later editions. Comparing manuscripts and editions side by side shows which category of change produced any given difference.",
   },
   {
-    question: "How does the 1830 edition compare to today's edition?",
+    question: 'What are the most significant "real" changes to the text?',
     answer:
-      "The 1830 first edition has no verse numbers and reflects the original typesetting from the Printer's Manuscript. Today's edition has been through additional rounds of grammatical correction and standardization. The two can be compared directly, verse by verse, in the reader.",
-  },
-  {
-    question: "Is the Book of Mormon still being updated?",
-    answer:
-      "The current edition has been revised periodically since 1837, most recently in 2013, generally for minor corrections and formatting rather than substantive wording changes.",
+      'A comprehensive list of substantive changes would depend on the compiler\'s opinion of substance. The largest addition was included by Joseph Smith for the 1840 edition with the phrase "or out of the waters of baptism" to 1 Nephi 20:1. The largest standing omission was made during the 1830 printing, where the duplicate passage in 1 Nephi 14:2 "if it so be that they hearden not their hearts against the Lamb of God; and if it so be that they hearden not their hearts against the Lamb of God" was corrected to remove the repeated phrase. While the Printer\'s Manuscript has the duplicated phrase crossed out, many copies of the 18030 edition were already printed before the correction was made. The Original Manuscript of the passage is nonextant, so it is impossible to know if the repeated phrase came from the Original Manuscript. Other changes that most Book of Mormon readers consider clarifying, rather than substantive, are passages in 1 Nephi 11 where the phrases "the mother of God," "the Eternal Father," and "the Everlasting God" where updated to "the mother of the Son of God," "the Son of the Eternal Father," and "the Son of the everlasting God," for the 1837 edition.',
   },
 ];
 
