@@ -9,7 +9,7 @@ export const handler = define.handlers({
       title: "Textual Criticism — Book of Mormon Compare",
       description:
         "An introduction to textual criticism as applied to the Book of Mormon: the transmission chain, categories of change, and key scholarly resources.",
-      imageUrl: `${siteUrl}/og-image?book=1-ne&chapter=1&v1=pm&v2=2013`,
+      imageUrl: `${siteUrl}/og-default.png`,
       pageUrl: `${siteUrl}/textual-criticism`,
       canonicalUrl: `${siteUrl}/textual-criticism`,
     };

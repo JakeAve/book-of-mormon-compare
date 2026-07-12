@@ -24,8 +24,7 @@ export const handler = define.handlers({
         "Book of Mormon Changes — Compare Versions & Editions Side by Side",
       description:
         "See every change to the Book of Mormon, side by side. Compare manuscripts, the 1830 first edition, and every later edition — word for word.",
-      imageUrl:
-        `${siteUrl}/og-image?book=${SPECIMEN_BOOK}&chapter=${SPECIMEN_CHAPTER}&v1=${SPECIMEN_V1}&v2=${SPECIMEN_V2}`,
+      imageUrl: `${siteUrl}/og-default.png`,
       pageUrl: `${siteUrl}/`,
       canonicalUrl: `${siteUrl}/`,
     };

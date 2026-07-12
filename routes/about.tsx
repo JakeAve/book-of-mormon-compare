@@ -9,7 +9,7 @@ export const handler = define.handlers({
       title: "About — Book of Mormon Compare",
       description:
         "About Book of Mormon Compare: a tool for textual-critical study of Book of Mormon manuscripts and editions.",
-      imageUrl: `${siteUrl}/og-image?book=1-ne&chapter=1&v1=pm&v2=2013`,
+      imageUrl: `${siteUrl}/og-default.png`,
       pageUrl: `${siteUrl}/about`,
       canonicalUrl: `${siteUrl}/about`,
     };

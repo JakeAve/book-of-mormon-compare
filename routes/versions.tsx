@@ -9,7 +9,7 @@ export const handler = define.handlers({
       title: "Versions — Book of Mormon Compare",
       description:
         "Descriptions of each Book of Mormon version available for comparison: Original Manuscript, Printer's Manuscript, 1830, 1837, and 2013 editions.",
-      imageUrl: `${siteUrl}/og-image?book=1-ne&chapter=1&v1=pm&v2=2013`,
+      imageUrl: `${siteUrl}/og-default.png`,
       pageUrl: `${siteUrl}/versions`,
       canonicalUrl: `${siteUrl}/versions`,
     };
