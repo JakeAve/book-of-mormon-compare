@@ -1,5 +1,6 @@
 import { define } from "@/utils/state.ts";
 import { getSiteUrl } from "@/lib/config.ts";
+import { buildBreadcrumbList } from "@/lib/breadcrumbs.ts";
 
 export const handler = define.handlers({
   GET(ctx) {
@@ -17,11 +18,18 @@ export const handler = define.handlers({
 });
 
 export default define.page<typeof handler>(() => {
+  const siteUrl = getSiteUrl();
+  const jsonLd = buildBreadcrumbList([
+    { name: "Home", url: `${siteUrl}/` },
+    { name: "Versions", url: `${siteUrl}/versions` },
+  ]);
+
   return (
     <main
       class="flex flex-col gap-10 max-w-2xl mx-auto px-6 pt-10 pb-16 font-serif text-base leading-relaxed"
       style={{ color: "var(--color-text)" }}
     >
+      <script type="application/ld+json">{JSON.stringify(jsonLd)}</script>
       <h1 class="text-3xl font-semibold">Versions</h1>
       <p>
         In textual criticism, any surviving document that transmits a text —

@@ -9,6 +9,7 @@ import {
 } from "../../lib/data.ts";
 import type { Verse } from "../../lib/data.ts";
 import { getSiteUrl } from "../../lib/config.ts";
+import { buildBreadcrumbList } from "../../lib/breadcrumbs.ts";
 import { parseMarkParam, serializeMarkParam } from "../../lib/verseMark.ts";
 import { DiffPage } from "../../components/DiffPage.tsx";
 import VersionSelector from "../../islands/VersionSelector.tsx";
@@ -141,8 +142,15 @@ export default define.page<typeof handler>(({ data }) => {
   const qs = `?v1=${encodeURIComponent(v1)}&v2=${encodeURIComponent(v2)}`;
   const prevHref = prev ? `/${prev.book}/${prev.chapter}${qs}` : null;
   const nextHref = next ? `/${next.book}/${next.chapter}${qs}` : null;
+  const siteUrl = getSiteUrl();
+  const jsonLd = buildBreadcrumbList([
+    { name: "Home", url: `${siteUrl}/` },
+    { name: bookName, url: `${siteUrl}/${book}/1${qs}` },
+    { name: `Chapter ${chapter}`, url: `${siteUrl}/${book}/${chapter}${qs}` },
+  ]);
   return (
     <>
+      <script type="application/ld+json">{JSON.stringify(jsonLd)}</script>
       <DiffPage
         verses1={verses1}
         verses2={verses2}
