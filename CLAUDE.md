@@ -43,11 +43,14 @@ committing. The pre-push hook runs the same checks.
 
 File-based routes. Server-rendered by default.
 
-- `_app.tsx` — root document shell (header, footer, global styles)
+- `_app.tsx` — root document shell (header, footer, global styles, fallback
+  head/OG metadata for routes that don't set `ctx.state.head`)
 - `_error.tsx` — error page
-- `index.tsx` — redirects to `witnesses/1`
-- `about.tsx` — about page
+- `index.tsx` — landing page (hero, specimen diff, timeline, FAQ + JSON-LD)
+- `about.tsx`, `versions.tsx`, `textual-criticism.tsx` — site-level pages
+- `offline.tsx` — PWA offline fallback (precached by `sw.ts`)
 - `og-image.ts` — dynamic OG image renderer (uses `lib/ogImage.ts`)
+- `sitemap.xml.ts` — sitemap
 - `[book]/index.tsx` — book landing (redirects to chapter 1)
 - `[book]/[chapter].tsx` — main comparison page, URL params
   `?v1=<version>&v2=<version>`
@@ -58,7 +61,8 @@ File-based routes. Server-rendered by default.
 - `Diff.tsx` — single verse diff renderer
 - `WordMatch.tsx` — word-match highlight markup
 - `Header.tsx`, `Footer.tsx`, `HeaderIconButton.tsx` — chrome
-- `BetaBanner.tsx` — pre-release notice
+- `landing/` — landing page sections (Hero, Specimen, WitnessTimeline,
+  HowItWorks, SeoSections, Faq, Divider)
 
 ### `islands/` (client-interactive)
 
@@ -68,7 +72,11 @@ File-based routes. Server-rendered by default.
 - `SwipeNavigator.tsx` — touch swipe between chapters
 - `ScrollRestorer.tsx` — preserves scroll across navigations
 - `SelectionMenu.tsx` — verse selection / share / copy menu
+- `VerseLinePopup.tsx` — manuscript line source popup
 - `TutorialDialog.tsx`, `TutorialTrigger.tsx` — first-visit tutorial
+- `PwaManager.tsx` — service worker registration / update prompt
+- `Toast.tsx`, `toastSignal.ts` — toast notifications
+- `CachedPagesList.tsx` — offline page: lists cached chapters
 
 ### `lib/`
 
@@ -78,7 +86,9 @@ Pure modules with colocated tests.
   chapter loading, adjacent navigation), `bookChapters.ts` (book/chapter
   metadata), `verseMark.ts`, `manuscriptMarkup.ts`
 - **Diff:** `diff.ts` (word-level LCS), `textHelpers.ts` (tokenization)
-- **Infra:** `config.ts` (`SITE_URL`), `logger.ts`, `ogImage.ts`, `fontData.ts`
+- **Infra:** `config.ts` (`SITE_URL`), `logger.ts`, `ogImage.ts`, `fontData.ts`,
+  `breadcrumbs.ts` (JSON-LD breadcrumb lists), `cachedNavigations.ts` (parses
+  SW-cached chapter URLs for the offline page)
 
 ### `db/` and `utils/`
 
@@ -99,19 +109,31 @@ swapped without touching the service.
 To swap backends, implement `SecurityStore` and pass the new instance in
 `main.ts`.
 
-### `scripts/align/`
+### `scripts/`
 
-Modular manuscript alignment pipeline (entry point: `scripts/align-source.ts`).
+Manuscript alignment pipeline and tooling (entry point:
+`scripts/align-source.ts`; see also `align-audit.ts`, `align-report.ts`,
+`align-suggest-overrides.ts`, `generate-icons.ts`).
 
-- `paths.ts` — version → raw source / output paths
-- `sources/` — per-version raw loaders (e.g. `om.ts`, `bom2013.ts`)
-- `anchor.ts` → `bucket.ts` → `stitch.ts` → `normalize.ts` — pipeline stages
-- `types.ts` — shared pipeline types
+- `align/sources/` — per-version raw loaders (`om.ts`, `pm.ts`, `_1830.ts`,
+  `_1837.ts`)
+- `align/` — pipeline stages (tokenize, anchor, match, merge-splits,
+  build-output, apply-overrides) and shared `types.ts`
+- `shared/` — cross-script helpers (`paths.ts`, `stitch.ts`, `markdown.ts`,
+  `bom2013.ts`)
 
 ### `data/`
 
 - `data/bom/<version>/<book>/<chapter>.json` — verse JSON consumed at runtime
 - `data/raw/<version>/` — raw transcripts consumed by the alignment scripts
+
+### PWA
+
+- `sw.ts` — Workbox service worker: precached build assets, `/` and `/offline`
+  cached at install, stale-while-revalidate navigation cache, offline fallback.
+  Built via `vite-plugin-pwa` (`injectManifest`) in `vite.config.ts`
+- `static/manifest.webmanifest` — app manifest (`start_url: /`); icons in
+  `static/icons/` (regenerate with `scripts/generate-icons.ts`)
 
 ## Data Formats
 
