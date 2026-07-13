@@ -25,12 +25,20 @@ clientsClaim();
 
 const OFFLINE_CACHE = "offline-fallback";
 const OFFLINE_URL = "/offline";
+const LANDING_URL = "/";
 
 self.addEventListener("install", (event) => {
   event.waitUntil(
-    caches.open(OFFLINE_CACHE).then((cache) =>
-      cache.add(new Request(OFFLINE_URL, { cache: "reload" }))
-    ),
+    Promise.all([
+      caches.open(OFFLINE_CACHE).then((cache) =>
+        cache.add(new Request(OFFLINE_URL, { cache: "reload" }))
+      ),
+      // Landing precache is best-effort — never block install on it. It goes
+      // in NAV_CACHE so the stale-while-revalidate route keeps it fresh.
+      caches.open(NAV_CACHE).then((cache) =>
+        cache.add(new Request(LANDING_URL, { cache: "reload" }))
+      ).catch(() => {}),
+    ]),
   );
 });
 
