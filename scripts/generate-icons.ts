@@ -73,8 +73,15 @@ await Deno.writeFile(
 );
 console.log("✓ icon-512-maskable.png");
 
+const appleTouchIcon = renderPng(180);
 await Deno.writeFile(
   new URL("../static/apple-touch-icon.png", import.meta.url),
-  renderPng(180),
+  appleTouchIcon,
 );
 console.log("✓ apple-touch-icon.png");
+
+await Deno.writeFile(
+  new URL("../static/apple-touch-icon-precomposed.png", import.meta.url),
+  appleTouchIcon,
+);
+console.log("✓ apple-touch-icon-precomposed.png");
