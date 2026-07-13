@@ -17,6 +17,7 @@ export default function App(
     "Side-by-side textual comparison of Book of Mormon manuscripts and editions";
   const imageUrl = head?.imageUrl ?? `${siteUrl}/og-default.png`;
   const pageUrl = head?.pageUrl ?? new URL(url.pathname, siteUrl).href;
+  const isChapterPage = /^\/[^/]+\/[^/]+/.test(url.pathname);
 
   return (
     <html lang="en">
@@ -50,7 +51,7 @@ export default function App(
         class="flex flex-col min-h-screen"
         style={{ backgroundColor: "var(--color-page-bg)" }}
       >
-        <Header />
+        <Header showTutorial={isChapterPage} />
         <Component />
         <Footer />
         <ScrollRestorer />
