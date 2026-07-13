@@ -1,6 +1,7 @@
 import { useEffect, useRef } from "preact/hooks";
 import { useSignal } from "@preact/signals";
 import type { ComponentChildren } from "preact";
+import { dismissTooltip } from "./tutorialTooltip.ts";
 
 interface TutorialStep {
   title: string;
@@ -273,11 +274,13 @@ export default function TutorialDialog() {
         "",
         url.pathname + (url.search ? url.search : "") + url.hash,
       );
+      dismissTooltip();
       step.value = 0;
       dialogRef.current?.showModal();
       applyHighlights(STEPS[0]?.domElements);
     }
     function onOpen() {
+      dismissTooltip();
       step.value = 0;
       dialogRef.current?.showModal();
       applyHighlights(STEPS[0]?.domElements);
