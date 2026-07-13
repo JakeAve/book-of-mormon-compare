@@ -1,4 +1,5 @@
 import { useEffect, useState } from "preact/hooks";
+import CloseIcon from "../components/CloseIcon.tsx";
 import HeaderIconButton from "../components/HeaderIconButton.tsx";
 import { dismissTooltip, isTooltipDismissed } from "./tutorialTooltip.ts";
 
@@ -40,7 +41,7 @@ export default function TutorialTrigger() {
             aria-label="Dismiss"
             onClick={dismiss}
           >
-            ×
+            <CloseIcon />
           </button>
         </div>
       )}

@@ -1,6 +1,7 @@
 import { useEffect, useRef } from "preact/hooks";
 import { useSignal } from "@preact/signals";
 import type { ComponentChildren } from "preact";
+import CloseIcon from "../components/CloseIcon.tsx";
 import { dismissTooltip } from "./tutorialTooltip.ts";
 
 interface TutorialStep {
@@ -345,7 +346,7 @@ export default function TutorialDialog() {
           aria-label="Close tutorial"
           onClick={closeDialog}
         >
-          ×
+          <CloseIcon size={16} />
         </button>
       </div>
       <div class="tutorial-body">
