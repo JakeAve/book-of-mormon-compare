@@ -1,2 +1,3 @@
 #!/bin/sh
+export PATH="$HOME/.deno/bin:$PATH"
 deno task pre-commit
