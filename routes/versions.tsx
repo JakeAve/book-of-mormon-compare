@@ -8,7 +8,7 @@ export const handler = define.handlers({
     ctx.state.head = {
       title: "Versions — Book of Mormon Compare",
       description:
-        "Descriptions of each Book of Mormon version available for comparison: Original Manuscript, Printer's Manuscript, 1830, 1837, and 2013 editions.",
+        "Descriptions of each Book of Mormon version available for comparison: Original Manuscript, Printer's Manuscript, 1830, 1837, 1840, and 2013 editions.",
       imageUrl: `${siteUrl}/og-default.png`,
       pageUrl: `${siteUrl}/versions`,
       canonicalUrl: `${siteUrl}/versions`,
@@ -152,6 +152,43 @@ export default define.page<typeof handler>(() => {
         <p>
           <a href="/1-ne/1?v1=1837&v2=2013" class="underline">
             Compare 1837 Second Edition →
+          </a>
+        </p>
+      </section>
+
+      <section class="flex flex-col gap-3">
+        <h2 class="text-xl font-semibold">1840 Nauvoo Edition</h2>
+        <p>
+          The third edition, printed at the Cincinnati firm of Shepard & Stearns
+          under the direction of Ebenezer Robinson. Unlike the largely
+          grammatical 1837 revision, Joseph Smith personally compared the 1830
+          and 1837 printings against the Original Manuscript for this edition,
+          restoring readings lost when the Printer's Manuscript was copied and
+          correcting further compositor errors accumulated over two printings.
+          The most notable resulting change corrected the description of the
+          Nephites from "white and delightsome" to "pure and delightsome."
+        </p>
+        <p>
+          After heavily relying on the Original Manuscript for this edition,
+          Joseph Smith placed the manuscript in the cornerstone of the Nauvoo
+          House on October 2, 1841. Unfortunately it suffered significant water
+          damage by the time it was recovered.
+        </p>
+        <p>
+          The 1840 edition in this project is sourced from the images made
+          available by the{" "}
+          <a
+            target="_blank"
+            href="https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/1"
+            rel="noopener noreferrer"
+            class="underline"
+          >
+            Joseph Smith Paper's project on document ID 7274.
+          </a>
+        </p>
+        <p>
+          <a href="/1-ne/1?v1=1840&v2=2013" class="underline">
+            Compare 1840 Nauvoo Edition →
           </a>
         </p>
       </section>

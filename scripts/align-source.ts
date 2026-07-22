@@ -2,7 +2,10 @@ import { tokenizeSource } from "./align/tokenize-source.ts";
 import { groupByVerse, tokenizeTarget } from "./align/tokenize-target.ts";
 import { runCursor } from "./align/cursor.ts";
 import { runScaffoldAlign } from "./align/scaffold-align.ts";
-import { pushChapterMarkersForward } from "./align/chapter-markers.ts";
+import {
+  attachOrphanMarkersToPrecedingVerse,
+  pushChapterMarkersForward,
+} from "./align/chapter-markers.ts";
 import { applyOverrides } from "./align/apply-overrides.ts";
 import {
   applyInsertions,
@@ -48,7 +51,10 @@ async function run(
       adapter.dictionary,
     );
   const cursorResults = applyOverrides(
-    pushChapterMarkersForward(rawResults, verseGroups, lineInfos),
+    attachOrphanMarkersToPrecedingVerse(
+      pushChapterMarkersForward(rawResults, verseGroups, lineInfos),
+      lineInfos,
+    ),
     adapter.overrides,
   );
   console.log(`  cursor assigned: ${cursorResults.length} words`);

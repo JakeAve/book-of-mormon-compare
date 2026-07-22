@@ -29,18 +29,26 @@ function editDistance(a: string, b: string): number {
 export interface CanonIndex {
   words: Set<string>;
   bigrams: Set<string>;
+  /** Normalized forms of canon tokens that are themselves hyphenated
+   *  compounds (e.g. "judgment-seat" → "judgmentseat"). A merged tail+head
+   *  that lands here is a genuine compound word, not a printer's line-wrap
+   *  hyphen, even though it also matches `words` (which normalizes away the
+   *  hyphen for every token). */
+  hyphenatedWords: Set<string>;
 }
 
 export function buildCanonIndex(canonText: string): CanonIndex {
-  const tokens = canonText.split(/\s+/)
-    .map(normalize)
-    .filter((w) => w.length > 0);
+  const rawTokens = canonText.split(/\s+/).filter((w) => w.length > 0);
+  const tokens = rawTokens.map(normalize).filter((w) => w.length > 0);
   const words = new Set(tokens);
+  const hyphenatedWords = new Set(
+    rawTokens.filter((w) => w.includes("-")).map(normalize),
+  );
   const bigrams = new Set<string>();
   for (let i = 0; i + 1 < tokens.length; i++) {
     bigrams.add(`${tokens[i]} ${tokens[i + 1]}`);
   }
-  return { words, bigrams };
+  return { words, bigrams, hyphenatedWords };
 }
 
 function fuzzyWordHit(s: string, words: Set<string>): boolean {
@@ -81,8 +89,24 @@ export function applyJoins(lines: JoinableLine[], canon: CanonIndex): void {
     const headTokens = b.text.trim().split(/\s+/);
     const tail = tailTokens[tailTokens.length - 1] ?? "";
     const head = headTokens[0] ?? "";
-    // Explicit scribal hyphenation — mid-word break, keep the hyphen.
-    if (tail.endsWith("-")) continue;
+    if (tail.endsWith("-")) {
+      // A trailing hyphen is ambiguous: it could be the printer breaking a
+      // single word across the line (drop it) or a genuine hyphenated
+      // compound that happens to fall at the line break (keep it). Only
+      // drop it when canon confirms the merged form is a real word AND
+      // canon doesn't already know it as a hyphenated compound.
+      const merged = normalize(tail.slice(0, -1)) + normalize(head);
+      const isGenuineCompound = canon.hyphenatedWords.has(merged);
+      const isLineWrapHyphen = !isGenuineCompound &&
+        (canon.words.has(merged) || fuzzyWordHit(merged, canon.words));
+      if (isLineWrapHyphen) {
+        a.text = a.text.replace(/-$/, "");
+        if (a.markdown !== undefined) {
+          a.markdown = a.markdown.replace(/-$/, "");
+        }
+      }
+      continue;
+    }
     const sep = decideJoin(tail, head, canon);
     if (sep === " ") {
       a.text += " ";

@@ -14,6 +14,24 @@ Deno.test("getVersions returns [] when data dir is missing", async () => {
   assertEquals(versions, []);
 });
 
+Deno.test("getVersions orders known versions by publication, not alphabetically", async () => {
+  const versions = await getVersions(BOM_DIR);
+  assertEquals(versions, ["om", "pm", "1830", "1837", "1840", "2013"]);
+});
+
+Deno.test("getVersions puts unrecognized directories after known versions, alphabetically", async () => {
+  const dir = await Deno.makeTempDir();
+  try {
+    for (const name of ["2013", "zzz-future", "1830", "aaa-future", "om"]) {
+      await Deno.mkdir(`${dir}/${name}`);
+    }
+    const versions = await getVersions(dir);
+    assertEquals(versions, ["om", "1830", "2013", "aaa-future", "zzz-future"]);
+  } finally {
+    await Deno.remove(dir, { recursive: true });
+  }
+});
+
 Deno.test("loadChapter reads a real chapter", async () => {
   const verses = await loadChapter("2013", "1-ne", "1", BOM_DIR);
   assertEquals(verses.length > 0, true);

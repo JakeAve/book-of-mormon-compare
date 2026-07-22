@@ -24,7 +24,7 @@ export function isChapterHeading(text: string): boolean {
     /^the (first|second|third|fourth) book of\b/.test(t) ||
     /^the book of (nephi|jacob|enos|jarom|omni|mosiah|alma|helaman|mormon|ether|moroni)\b/
       .test(t) ||
-    /^words of mormon\b/.test(t)
+    /^(the )?words of mormon\b/.test(t)
   );
 }
 
@@ -46,7 +46,7 @@ export function headingToBook(normalized: string): string | null {
   if (/^the book of enos\b/.test(normalized)) return "enos";
   if (/^the book of jarom\b/.test(normalized)) return "jarom";
   if (/^the book of omni\b/.test(normalized)) return "omni";
-  if (/^words of mormon\b/.test(normalized)) return "w-of-m";
+  if (/^(the )?words of mormon\b/.test(normalized)) return "w-of-m";
   if (/^the book of mosiah\b/.test(normalized)) return "mosiah";
   if (/^the book of alma\b/.test(normalized)) return "alma";
   if (/^the book of helaman\b/.test(normalized)) return "hel";

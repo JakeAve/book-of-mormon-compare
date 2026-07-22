@@ -53,15 +53,41 @@ Deno.test("applyJoins - mutates lines with correct trailing spaces", () => {
   assertEquals(lines[1].text.endsWith(" "), false); // "wildern" / "ess" → merged
 });
 
-Deno.test("applyJoins - hyphenated tail leaves no trailing space", () => {
+Deno.test("applyJoins - line-wrap hyphen for a real canon word is stripped", () => {
+  // "di-" + "d" → "did", a plain (non-hyphenated) canon word: the hyphen
+  // was only the printer breaking "did" across the line.
   const canon = buildCanonIndex("and they did go forth");
   const lines = [
     { text: "and they di-" },
     { text: "d go forth" },
   ];
   applyJoins(lines, canon);
+  assertEquals(lines[0].text, "and they di");
+  assertEquals(lines[0].text.endsWith("-"), false);
+});
+
+Deno.test("applyJoins - genuine hyphenated compound keeps its hyphen", () => {
+  // "judgment-" + "seat" merges to "judgmentseat", but canon has this word
+  // as a hyphenated compound ("judgment-seat"), not a plain word — keep it.
+  const canon = buildCanonIndex("he sat upon the judgment-seat and judged");
+  const lines = [
+    { text: "he sat upon the judgment-" },
+    { text: "seat and judged" },
+  ];
+  applyJoins(lines, canon);
   assertEquals(lines[0].text.endsWith("-"), true);
-  assertEquals(lines[0].text.endsWith(" "), false);
+});
+
+Deno.test("applyJoins - unrecognized hyphenated merge defaults to keeping it", () => {
+  // Merged form matches nothing in canon — safest default is to leave the
+  // hyphen untouched rather than guess.
+  const canon = buildCanonIndex("apple zebra fruit");
+  const lines = [
+    { text: "foo-" },
+    { text: "bar" },
+  ];
+  applyJoins(lines, canon);
+  assertEquals(lines[0].text.endsWith("-"), true);
 });
 
 Deno.test("applyJoins - markdown gets the same trailing space as text", () => {
