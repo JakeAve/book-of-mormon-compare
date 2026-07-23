@@ -1,6 +1,6 @@
 export default function Hero() {
   return (
-    <section class="flex flex-col items-center text-center gap-6 px-6 pt-14 pb-10 sm:pt-20 sm:pb-14">
+    <section class="landing-hero flex flex-col items-center text-center gap-6 px-6 pt-14 pb-10 sm:pt-20 sm:pb-14">
       <p class="landing-eyebrow">Manuscripts · Editions · Revisions</p>
       <h1
         class="landing-display text-[2.5rem] leading-[1.05] sm:text-6xl lg:text-7xl max-w-4xl"

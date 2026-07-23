@@ -454,16 +454,8 @@ body {
 
 /* Landing page — letterpress / print-shop motifs */
 
-@font-face {
-  font-family: "Cormorant Garamond";
-  src: url("/CormorantGaramond-Regular.ttf") format("truetype");
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-}
-
 .landing-display {
-  font-family: "Cormorant Garamond", Georgia, serif;
+  font-family: ui-serif, Georgia, serif;
 }
 
 .landing-eyebrow {
@@ -489,6 +481,110 @@ body {
   height: 1px;
   background: var(--color-text);
   opacity: 0.25;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  @keyframes landing-hero-in {
+    from {
+      opacity: 0;
+      transform: translateY(16px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  .landing-hero > * {
+    animation: landing-hero-in 0.5s cubic-bezier(0.22, 1, 0.36, 1) both;
+  }
+
+  .landing-hero > *:nth-child(1) {
+    animation-delay: 0ms;
+  }
+
+  .landing-hero > *:nth-child(2) {
+    animation-duration: 0.6s;
+    animation-delay: 120ms;
+  }
+
+  .landing-hero > *:nth-child(3) {
+    animation-delay: 220ms;
+  }
+
+  .landing-hero > *:nth-child(4) {
+    animation-delay: 320ms;
+  }
+}
+
+@supports (animation-timeline: view()) {
+  @media (prefers-reduced-motion: no-preference) {
+    @keyframes landing-reveal-left {
+      from {
+        opacity: 0;
+        transform: translate(-32px, 24px);
+      }
+      to {
+        opacity: 1;
+        transform: translate(0, 0);
+      }
+    }
+
+    @keyframes landing-reveal-right {
+      from {
+        opacity: 0;
+        transform: translate(32px, 24px);
+      }
+      to {
+        opacity: 1;
+        transform: translate(0, 0);
+      }
+    }
+
+    .landing-scroll-reveal {
+      animation: landing-reveal-left linear both;
+      animation-timeline: view();
+      animation-range: entry 0% entry 100%;
+    }
+
+    .landing-scroll-reveal:nth-of-type(even) {
+      animation-name: landing-reveal-right;
+    }
+
+    @keyframes landing-converge-left {
+      from {
+        opacity: 0;
+        transform: translateX(-32px);
+      }
+      to {
+        opacity: 1;
+        transform: translateX(0);
+      }
+    }
+
+    @keyframes landing-converge-right {
+      from {
+        opacity: 0;
+        transform: translateX(32px);
+      }
+      to {
+        opacity: 1;
+        transform: translateX(0);
+      }
+    }
+
+    .landing-col-left {
+      animation: landing-converge-left linear both;
+      animation-timeline: view();
+      animation-range: entry 0% entry 100%;
+    }
+
+    .landing-col-right {
+      animation: landing-converge-right linear both;
+      animation-timeline: view();
+      animation-range: entry 0% entry 100%;
+    }
+  }
 }
 
 .landing-plate {

@@ -21,7 +21,7 @@ const EARLY_WITNESSES = [
 
 export default function WitnessTimeline() {
   return (
-    <section class="px-6 py-10 sm:py-14">
+    <section class="landing-scroll-reveal px-6 py-10 sm:py-14">
       <div class="max-w-3xl mx-auto flex flex-col gap-8">
         <div class="flex flex-col gap-3 text-center">
           <p class="landing-eyebrow">The witnesses</p>

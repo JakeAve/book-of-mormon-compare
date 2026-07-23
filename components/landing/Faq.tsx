@@ -28,7 +28,7 @@ export const FAQ_ITEMS: FaqItem[] = [
 
 export default function Faq() {
   return (
-    <section class="px-6 py-10 sm:py-14">
+    <section class="landing-scroll-reveal px-6 py-10 sm:py-14">
       <div class="max-w-2xl mx-auto flex flex-col gap-6">
         <p class="landing-eyebrow text-center">Frequently asked</p>
         <div class="flex flex-col gap-4">

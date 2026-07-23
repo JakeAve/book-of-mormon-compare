@@ -18,7 +18,7 @@ const FEATURES = [
 
 export default function HowItWorks() {
   return (
-    <section class="px-6 py-10 sm:py-14">
+    <section class="landing-scroll-reveal px-6 py-10 sm:py-14">
       <div class="max-w-3xl mx-auto flex flex-col gap-8">
         <p class="landing-eyebrow text-center">How it works</p>
         <div class="grid sm:grid-cols-3 gap-8 sm:gap-6">

@@ -50,14 +50,14 @@ export default function Specimen(
   const tokens = diff(text1, text2);
 
   return (
-    <section class="px-6 py-10 sm:py-14">
+    <section class="landing-scroll-reveal px-6 py-10 sm:py-14">
       <div class="max-w-3xl mx-auto flex flex-col gap-5">
         <p class="landing-eyebrow text-center">
           Specimen No. 1 — {reference}
         </p>
         <div class="landing-plate">
           <div class="grid sm:grid-cols-2 gap-6 sm:gap-8">
-            <div class="flex flex-col gap-2">
+            <div class="landing-col-left flex flex-col gap-2">
               <p class="landing-eyebrow" style={{ opacity: 0.75 }}>
                 {v1Label}
               </p>
@@ -68,7 +68,7 @@ export default function Specimen(
                 {renderColumn(tokens, "col1")}
               </p>
             </div>
-            <div class="flex flex-col gap-2 pt-4 sm:pt-0 sm:pl-8 border-t sm:border-t-0 sm:border-l border-[var(--color-divider)]">
+            <div class="landing-col-right flex flex-col gap-2 pt-4 sm:pt-0 sm:pl-8 border-t sm:border-t-0 sm:border-l border-[var(--color-divider)]">
               <p class="landing-eyebrow" style={{ opacity: 0.75 }}>
                 {v2Label}
               </p>
