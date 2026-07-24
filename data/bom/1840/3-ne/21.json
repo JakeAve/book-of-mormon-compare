@@ -838,20 +838,6 @@
     "verse": 22,
     "lines": [
       {
-        "id": "491:1",
-        "page": 491,
-        "line": 1,
-        "text": "BOOK OF NEPHI. 467",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/491"
-      }
-    ]
-  },
-  {
-    "book": "3-ne",
-    "chapter": 21,
-    "verse": 23,
-    "lines": [
-      {
         "id": "491:2",
         "page": 491,
         "line": 2,
@@ -880,38 +866,17 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/491"
       },
       {
-        "id": "491:6a",
+        "id": "491:6",
         "page": 491,
         "line": 6,
-        "text": "and be numbered among this remnant of",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/491"
-      }
-    ]
-  },
-  {
-    "book": "3-ne",
-    "chapter": 21,
-    "verse": 24,
-    "lines": [
-      {
-        "id": "491:6b",
-        "page": 491,
-        "line": 6,
-        "text": "Jacob, unto ",
+        "text": "and be numbered among this remnant of Jacob, unto ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/491"
       },
       {
-        "id": "491:7",
+        "id": "491:7a",
         "page": 491,
         "line": 7,
-        "text": "whom I have given this land for their inheritance, and ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/491"
-      },
-      {
-        "id": "491:8a",
-        "page": 491,
-        "line": 8,
-        "text": "they shall assist my people,",
+        "text": "whom I have given this land for their inheritance,",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/491"
       }
     ]
@@ -919,13 +884,20 @@
   {
     "book": "3-ne",
     "chapter": 21,
-    "verse": 25,
+    "verse": 23,
     "lines": [
       {
-        "id": "491:8b",
+        "id": "491:7b",
+        "page": 491,
+        "line": 7,
+        "text": "and ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/491"
+      },
+      {
+        "id": "491:8",
         "page": 491,
         "line": 8,
-        "text": "the remnant of Jacob; and also, ",
+        "text": "they shall assist my people, the remnant of Jacob; and also, ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/491"
       },
       {
@@ -936,10 +908,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/491"
       },
       {
-        "id": "491:10a",
+        "id": "491:10",
         "page": 491,
         "line": 10,
-        "text": "build a",
+        "text": "build a city, which shall be called the New Jerusalem;",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/491"
       }
     ]
@@ -947,15 +919,8 @@
   {
     "book": "3-ne",
     "chapter": 21,
-    "verse": 26,
+    "verse": 24,
     "lines": [
-      {
-        "id": "491:10b",
-        "page": 491,
-        "line": 10,
-        "text": "city, which shall be called the New Jerusalem; ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/491"
-      },
       {
         "id": "491:11",
         "page": 491,
@@ -971,10 +936,24 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/491"
       },
       {
-        "id": "491:13",
+        "id": "491:13a",
         "page": 491,
         "line": 13,
-        "text": "in unto the New Jerusalem. And then shall the power of ",
+        "text": "in unto the New Jerusalem.",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/491"
+      }
+    ]
+  },
+  {
+    "book": "3-ne",
+    "chapter": 21,
+    "verse": 25,
+    "lines": [
+      {
+        "id": "491:13b",
+        "page": 491,
+        "line": 13,
+        "text": "And then shall the power of ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/491"
       },
       {
@@ -985,17 +964,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/491"
       },
       {
-        "id": "491:15",
+        "id": "491:15a",
         "page": 491,
         "line": 15,
-        "text": "midst, and then shall the work of the Father commence, ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/491"
-      },
-      {
-        "id": "491:16a",
-        "page": 491,
-        "line": 16,
-        "text": "at that day even when this gospel",
+        "text": "midst,",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/491"
       }
     ]
@@ -1003,13 +975,20 @@
   {
     "book": "3-ne",
     "chapter": 21,
-    "verse": 27,
+    "verse": 26,
     "lines": [
       {
-        "id": "491:16b",
+        "id": "491:15b",
+        "page": 491,
+        "line": 15,
+        "text": "and then shall the work of the Father commence, ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/491"
+      },
+      {
+        "id": "491:16",
         "page": 491,
         "line": 16,
-        "text": "shall be preached among ",
+        "text": "at that day even when this gospel shall be preached among ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/491"
       },
       {
@@ -1027,24 +1006,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/491"
       },
       {
-        "id": "491:19a",
+        "id": "491:19",
         "page": 491,
         "line": 19,
-        "text": "dispersed of my people;",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/491"
-      }
-    ]
-  },
-  {
-    "book": "3-ne",
-    "chapter": 21,
-    "verse": 28,
-    "lines": [
-      {
-        "id": "491:19b",
-        "page": 491,
-        "line": 19,
-        "text": "yea, even the tribes which have ",
+        "text": "dispersed of my people; yea, even the tribes which have ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/491"
       },
       {
@@ -1055,17 +1020,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/491"
       },
       {
-        "id": "491:21",
+        "id": "491:21a",
         "page": 491,
         "line": 21,
-        "text": "lem. Yea, the work shall commence among all the dispers",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/491"
-      },
-      {
-        "id": "491:22a",
-        "page": 491,
-        "line": 22,
-        "text": "ed of my people, with the Father, to",
+        "text": "lem.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/491"
       }
     ]
@@ -1073,13 +1031,20 @@
   {
     "book": "3-ne",
     "chapter": 21,
-    "verse": 29,
+    "verse": 27,
     "lines": [
       {
-        "id": "491:22b",
+        "id": "491:21b",
+        "page": 491,
+        "line": 21,
+        "text": "Yea, the work shall commence among all the dispers",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/491"
+      },
+      {
+        "id": "491:22",
         "page": 491,
         "line": 22,
-        "text": "prepare the way ",
+        "text": "ed of my people, with the Father, to prepare the way ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/491"
       },
       {
@@ -1090,17 +1055,80 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/491"
       },
       {
-        "id": "491:24",
+        "id": "491:24a",
         "page": 491,
         "line": 24,
-        "text": "the Father in my name; yea, and then shall the work com",
+        "text": "the Father in my name;",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/491"
+      }
+    ]
+  },
+  {
+    "book": "3-ne",
+    "chapter": 21,
+    "verse": 28,
+    "lines": [
+      {
+        "id": "491:24b",
+        "page": 491,
+        "line": 24,
+        "text": "yea, and then shall the work com",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/491"
       },
       {
-        "id": "491:25a",
+        "id": "491:25",
         "page": 491,
         "line": 25,
-        "text": "mence, with the Father, among all nations,",
+        "text": "mence, with the Father, among all nations, in preparing ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/491"
+      },
+      {
+        "id": "491:26",
+        "page": 491,
+        "line": 26,
+        "text": "the way whereby his people may be gathered home to the ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/491"
+      },
+      {
+        "id": "491:27a",
+        "page": 491,
+        "line": 27,
+        "text": "land of their inheritance.",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/491"
+      }
+    ]
+  },
+  {
+    "book": "3-ne",
+    "chapter": 21,
+    "verse": 29,
+    "lines": [
+      {
+        "id": "491:27b",
+        "page": 491,
+        "line": 27,
+        "text": "And they shall go out from all ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/491"
+      },
+      {
+        "id": "491:28",
+        "page": 491,
+        "line": 28,
+        "text": "nations; and they shall not go out in haste, nor go by ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/491"
+      },
+      {
+        "id": "491:29",
+        "page": 491,
+        "line": 29,
+        "text": "flight; for I will go before them, saith the Father, and I ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/491"
+      },
+      {
+        "id": "491:30a",
+        "page": 491,
+        "line": 30,
+        "text": "will be their rearward.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/491"
       }
     ]
