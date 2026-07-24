@@ -49,6 +49,9 @@ Deno.test("parseCorrectionReport — rejects bad inputs", () => {
     { ...valid, expectedText: "x".repeat(501) },
     { ...valid, description: "x".repeat(2001) },
     { ...valid, url: "x".repeat(501) },
+    { ...valid, url: "javascript:alert(1)" },
+    { ...valid, url: "https://x.com/a\n\n## injected" },
+    { ...valid, url: "not a url" },
     "not an object",
     null,
   ];

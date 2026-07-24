@@ -31,7 +31,6 @@ Deno.test("recordReport — limits are per IP", async () => {
 Deno.test("recordReport — hourly backstop blocks the 31st even if bursts are spaced", async () => {
   const kv = await Deno.openKv(":memory:");
   try {
-    const store = new DenoKvReportRateStore(kv);
     let now = 0;
     const clock = () => now;
     const spaced = new DenoKvReportRateStore(kv, clock);
@@ -42,7 +41,6 @@ Deno.test("recordReport — hourly backstop blocks the 31st even if bursts are s
       if (allowed) allowedCount++;
     }
     assertEquals(allowedCount, 30);
-    void store;
   } finally {
     kv.close();
   }

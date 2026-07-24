@@ -111,6 +111,9 @@ export function parseCorrectionReport(input: unknown): ParseResult {
   }
   if (description === null) return { ok: false, error: "description too long" };
   if (url === null) return { ok: false, error: "url too long" };
+  if (url !== "" && !/^https?:\/\/\S+$/.test(url)) {
+    return { ok: false, error: "invalid url" };
+  }
 
   return {
     ok: true,

@@ -55,7 +55,7 @@ export const handler = define.handlers({
 
     const token = Deno.env.get("GITHUB_TOKEN");
     if (!token) {
-      log("error", "report_no_github_token", {});
+      log("error", "report_no_github_token", { ip });
       return json(503, { ok: false, error: "unavailable" });
     }
 
