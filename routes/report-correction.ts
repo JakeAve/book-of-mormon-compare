@@ -10,6 +10,7 @@ import { DenoKvReportRateStore } from "@/db/kv.ts";
 import type { ReportRateStore } from "@/db/interface.ts";
 import { createIssue, listOpenIssues } from "@/utils/githubIssues.ts";
 import { log } from "@/lib/logger.ts";
+import { getClientIp } from "@/utils/clientIp.ts";
 
 let storePromise: Promise<ReportRateStore> | null = null;
 
@@ -41,8 +42,7 @@ export const handler = define.handlers({
       return json(200, { ok: true });
     }
 
-    const ip = ctx.req.headers.get("x-forwarded-for")?.split(",")[0].trim() ||
-      "unknown";
+    const ip = getClientIp(ctx.info.remoteAddr);
     const store = await getStore();
     const { allowed } = await store.recordReport(ip);
     if (!allowed) {
