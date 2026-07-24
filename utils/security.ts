@@ -8,6 +8,13 @@ export const PROBE_PATTERNS: RegExp[] = [
   /\/\.git/,
   /\/\.npmrc/,
   /\/\.yarn/,
+  /\/\.ssh/,
+  /\/\.aws/,
+  /\/\.docker/,
+  /\/\.stripe/,
+  /\/\.bash_history/,
+  /\/\.netrc/,
+  /\/\.htpasswd/,
   /config/i,
   /^\/api\//,
   /^\/backend\//,
@@ -19,7 +26,14 @@ export class SecurityService {
   constructor(private store: SecurityStore) {}
 
   isProbe(path: string): boolean {
-    return PROBE_PATTERNS.some((p) => p.test(path));
+    let decoded = path;
+    try {
+      decoded = decodeURIComponent(path);
+    } catch {
+      // malformed percent-encoding is itself suspicious; fall through and
+      // match against the raw path
+    }
+    return PROBE_PATTERNS.some((p) => p.test(path) || p.test(decoded));
   }
 
   isBanned(ip: string): Promise<boolean> {

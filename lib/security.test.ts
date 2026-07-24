@@ -17,6 +17,17 @@ Deno.test("isProbe — blocks observed traffic", async () => {
       "/.env.production",
       "/.env.local",
       "/.env.development",
+      "/.ssh/id_rsa",
+      "/.ssh/id_ed25519",
+      "/.ssh/id_ecdsa",
+      "/.aws/credentials",
+      "/.docker/config.json",
+      "/.stripe/config",
+      "/.bash_history",
+      "/.netrc",
+      "/.htpasswd",
+      "/%2eenv",
+      "/%2f%2eenv",
     ];
     for (const path of blocked) {
       assertEquals(svc.isProbe(path), true, `expected ${path} to be blocked`);
