@@ -44,7 +44,7 @@ const labelStyle = {
 export default function ReportDialog({ book, chapter, v1, v2 }: Props) {
   const dialogRef = useRef<HTMLDialogElement>(null);
   const version = useSignal<string>(v1);
-  const errorType = useSignal<string>(ERROR_TYPES[0]);
+  const errorType = useSignal<string>("");
   const versesInput = useSignal("");
   const selectedText = useSignal("");
   const expectedText = useSignal("");
@@ -56,7 +56,7 @@ export default function ReportDialog({ book, chapter, v1, v2 }: Props) {
     const unsubscribe = reportRequest.subscribe((req) => {
       if (req === null) return;
       version.value = v1;
-      errorType.value = ERROR_TYPES[0];
+      errorType.value = "";
       expectedText.value = "";
       description.value = "";
       honeypot.value = "";
@@ -267,11 +267,15 @@ export default function ReportDialog({ book, chapter, v1, v2 }: Props) {
                   id="report-error-type"
                   style={inputStyle}
                   value={errorType.value}
+                  required
                   onChange={(
                     e,
                   ) => (errorType.value =
                     (e.target as HTMLSelectElement).value)}
                 >
+                  <option value="" disabled>
+                    Select an error type…
+                  </option>
                   {ERROR_TYPES.map((t) => (
                     <option key={t} value={t}>{ERROR_TYPE_LABELS[t]}</option>
                   ))}
