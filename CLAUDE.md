@@ -216,3 +216,6 @@ the alignment pipeline.
 - `GITHUB_TOKEN` — fine-grained PAT (repo-scoped, Issues read/write) used by
   `routes/report-correction.ts` to file correction issues. Without it the
   endpoint returns 503.
+
+The `dev` and `start` tasks pass `--env-file`, so a local `.env` (gitignored) is
+loaded when present; a missing `.env` is only a warning.

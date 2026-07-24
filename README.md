@@ -90,6 +90,9 @@ pipeline.
   file correction reports as GitHub issues. Without it the report form returns
   503.
 
+`deno task dev` and `deno task start` load variables from a local `.env` file
+(gitignored) if one exists — put `GITHUB_TOKEN=...` there for local dev.
+
 ## Disclaimer
 
 This project is an independent study and research tool. It is not affiliated
