@@ -52,6 +52,8 @@ File-based routes. Server-rendered by default.
 - `about.tsx`, `versions.tsx`, `textual-criticism.tsx` — site-level pages
 - `offline.tsx` — PWA offline fallback (precached by `sw.ts`)
 - `og-image.ts` — dynamic OG image renderer (uses `lib/ogImage.ts`)
+- `report-correction.ts` — POST endpoint: user correction reports → GitHub
+  issues (deliberately not under `/api/`, which `PROBE_PATTERNS` bans)
 - `sitemap.xml.ts` — sitemap
 - `[book]/index.tsx` — book landing (redirects to chapter 1)
 - `[book]/[chapter].tsx` — main comparison page, URL params
@@ -76,6 +78,8 @@ File-based routes. Server-rendered by default.
 - `SelectionMenu.tsx` — verse selection / share / copy menu
 - `VerseLinePopup.tsx` — manuscript line source popup
 - `TutorialDialog.tsx`, `TutorialTrigger.tsx` — first-visit tutorial
+- `ReportDialog.tsx`, `reportDialogSignal.ts` — correction report form (opened
+  from SelectionMenu or fallback link)
 - `PwaManager.tsx` — service worker registration / update prompt
 - `Toast.tsx`, `toastSignal.ts` — toast notifications
 - `CachedPagesList.tsx` — offline page: lists cached chapters
@@ -90,7 +94,8 @@ Pure modules with colocated tests.
 - **Diff:** `diff.ts` (word-level LCS), `textHelpers.ts` (tokenization)
 - **Infra:** `config.ts` (`SITE_URL`), `logger.ts`, `ogImage.ts`, `fontData.ts`,
   `breadcrumbs.ts` (JSON-LD breadcrumb lists), `cachedNavigations.ts` (parses
-  SW-cached chapter URLs for the offline page)
+  SW-cached chapter URLs for the offline page), `correctionReport.ts` (report
+  validation + issue markdown)
 
 ### `db/` and `utils/`
 
@@ -98,18 +103,22 @@ Security/persistence layer. Intentionally split so the storage backend can be
 swapped without touching the service.
 
 - `db/interface.ts` — `SecurityStore` interface (domain methods: `isBanned`,
-  `setBan`, `record404`)
-- `db/kv.ts` — `DenoKvSecurityStore`: Deno KV implementation; owns all key
-  construction, prefixing, and atomic retry logic
+  `setBan`, `record404`) and `ReportRateStore` interface (domain method:
+  `recordReport`)
+- `db/kv.ts` — `DenoKvSecurityStore`: Deno KV implementation for security (owns
+  all key construction, prefixing, atomic retry logic); `DenoKvReportRateStore`:
+  rate limiting for correction reports
 - `utils/security.ts` — `SecurityService` accepts a `SecurityStore`; handles
   probe detection, ban logic, logging. No KV imports.
+- `utils/githubIssues.ts` — GitHub REST client for filing correction issues
+  (uses Bearer token auth)
 - `utils/middleware/ip-block.ts` — blocks banned IPs
 - `utils/middleware/probe-detect.ts` — records suspicious 404s and bans on
   threshold
 - `utils/state.ts` — request-scoped state
 
-To swap backends, implement `SecurityStore` and pass the new instance in
-`main.ts`.
+To swap backends, implement `SecurityStore` and `ReportRateStore` and pass
+instances in `main.ts`.
 
 ### `scripts/`
 
@@ -204,3 +213,9 @@ the alignment pipeline.
 
 - `SITE_URL` — canonical site URL (used by `lib/config.ts` for OG images and
   absolute links). Defaults to `https://bofm.scripturecompare.org`.
+- `GITHUB_TOKEN` — fine-grained PAT (repo-scoped, Issues read/write) used by
+  `routes/report-correction.ts` to file correction issues. Without it the
+  endpoint returns 503.
+
+The `dev` and `start` tasks pass `--env-file`, so a local `.env` (gitignored) is
+loaded when present; a missing `.env` is only a warning.

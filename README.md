@@ -86,6 +86,12 @@ pipeline.
 
 - `SITE_URL` — canonical site URL used for OG images and absolute links.
   Defaults to `https://bofm.scripturecompare.org`.
+- `GITHUB_TOKEN` — fine-grained PAT (repo-scoped, Issues read/write) used to
+  file correction reports as GitHub issues. Without it the report form returns
+  503.
+
+`deno task dev` and `deno task start` load variables from a local `.env` file
+(gitignored) if one exists — put `GITHUB_TOKEN=...` there for local dev.
 
 ## Disclaimer
 
