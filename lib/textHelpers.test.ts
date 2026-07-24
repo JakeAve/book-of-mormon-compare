@@ -37,3 +37,20 @@ Deno.test("insertSpaceBetween returns empty when next is undefined", () => {
 Deno.test("insertSpaceBetween returns empty when text1 opens bracket", () => {
   assertEquals(insertSpaceBetween("<", "word"), "");
 });
+
+Deno.test("insertSpaceBetween returns empty after a hyphen token", () => {
+  assertEquals(insertSpaceBetween("-", "shalal"), "");
+});
+
+Deno.test("hyphenated compound round-trips without extra spaces", () => {
+  const tokens = splitText("Maher-shalal-hash-baz.");
+  let out = "";
+  for (let i = 0; i < tokens.length; i++) {
+    out += tokens[i] + insertSpaceBetween(tokens[i], tokens[i + 1]);
+  }
+  assertEquals(out, "Maher-shalal-hash-baz.");
+});
+
+Deno.test("insertSpaceBetween keeps space after an em dash", () => {
+  assertEquals(insertSpaceBetween("—", "that"), " ");
+});

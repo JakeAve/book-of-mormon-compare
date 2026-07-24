@@ -614,17 +614,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1841/89"
       },
       {
-        "id": "89:35",
+        "id": "89:35a",
         "page": 89,
         "line": 35,
-        "text": "ledge shall be perfect; wherefore, we shall have a perfect ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1841/89"
-      },
-      {
-        "id": "89:36a",
-        "page": 89,
-        "line": 36,
-        "text": "knowledge",
+        "text": "ledge shall be perfect;",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1841/89"
       }
     ]
@@ -635,10 +628,17 @@
     "verse": 14,
     "lines": [
       {
-        "id": "89:36b",
+        "id": "89:35b",
+        "page": 89,
+        "line": 35,
+        "text": "wherefore, we shall have a perfect ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1841/89"
+      },
+      {
+        "id": "89:36",
         "page": 89,
         "line": 36,
-        "text": "of all our guilt, and our uncleanness, and our ",
+        "text": "knowledge of all our guilt, and our uncleanness, and our ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1841/89"
       },
       {

@@ -1384,17 +1384,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/45"
       },
       {
-        "id": "45:23",
+        "id": "45:23a",
         "page": 45,
         "line": 23,
-        "text": "dom of God must be filthy also. But behold, I say ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/45"
-      },
-      {
-        "id": "45:24a",
-        "page": 45,
-        "line": 24,
-        "text": "unto you, the kingdom of",
+        "text": "dom of God must be filthy also.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/45"
       }
     ]
@@ -1405,10 +1398,17 @@
     "verse": 34,
     "lines": [
       {
-        "id": "45:24b",
+        "id": "45:23b",
+        "page": 45,
+        "line": 23,
+        "text": "But behold, I say ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/45"
+      },
+      {
+        "id": "45:24",
         "page": 45,
         "line": 24,
-        "text": "God is not filthy, and there ",
+        "text": "unto you, the kingdom of God is not filthy, and there ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/45"
       },
       {

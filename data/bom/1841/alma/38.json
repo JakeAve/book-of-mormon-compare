@@ -411,10 +411,17 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1841/363"
       },
       {
-        "id": "363:4a",
+        "id": "363:4",
         "page": 363,
         "line": 4,
-        "text": "the world. Behold, he is the word of truth and",
+        "text": "the world. Behold, he is the word of truth and right",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1841/363"
+      },
+      {
+        "id": "363:5a",
+        "page": 363,
+        "line": 5,
+        "text": "eousness.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1841/363"
       }
     ]
@@ -425,17 +432,10 @@
     "verse": 10,
     "lines": [
       {
-        "id": "363:4b",
-        "page": 363,
-        "line": 4,
-        "text": "right-",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1841/363"
-      },
-      {
-        "id": "363:5",
+        "id": "363:5b",
         "page": 363,
         "line": 5,
-        "text": "eousness. And now, as ye have begun to teach the word, ",
+        "text": "And now, as ye have begun to teach the word, ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1841/363"
       },
       {

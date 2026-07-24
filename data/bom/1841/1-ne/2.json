@@ -313,10 +313,17 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1841/12"
       },
       {
-        "id": "12:25a",
+        "id": "12:25",
         "page": 12,
         "line": 25,
-        "text": "river, continually running into the fountain of all",
+        "text": "river, continually running into the fountain of all right",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1841/12"
+      },
+      {
+        "id": "12:26a",
+        "page": 12,
+        "line": 26,
+        "text": "eousness.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1841/12"
       }
     ]
@@ -327,17 +334,10 @@
     "verse": 10,
     "lines": [
       {
-        "id": "12:25b",
-        "page": 12,
-        "line": 25,
-        "text": "right-",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1841/12"
-      },
-      {
-        "id": "12:26",
+        "id": "12:26b",
         "page": 12,
         "line": 26,
-        "text": "eousness. And he also spake unto Lemuel: O that thou ",
+        "text": "And he also spake unto Lemuel: O that thou ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1841/12"
       },
       {

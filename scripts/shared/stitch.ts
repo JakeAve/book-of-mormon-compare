@@ -61,11 +61,18 @@ function fuzzyWordHit(s: string, words: Set<string>): boolean {
   return false;
 }
 
-/** Return " " for a word boundary, "" for a mid-word break. */
+/** Return " " for a word boundary, "" for a mid-word break.
+ *
+ *  `canon` is the verse-scoped index and gets full (exact + fuzzy) trust.
+ *  `global` is the whole-corpus index for words the verse's canonical text
+ *  lacks (textual variants like 1837 "exceeding" vs 2013 "exceedingly");
+ *  it is consulted with exact membership only, and a whole-corpus bigram
+ *  hit vetoes the merge since it evidences a real word boundary. */
 export function decideJoin(
   tail: string,
   head: string,
   canon: CanonIndex,
+  global?: CanonIndex,
 ): " " | "" {
   const t = normalize(tail);
   const h = normalize(head);
@@ -73,6 +80,13 @@ export function decideJoin(
   if (canon.bigrams.has(`${t} ${h}`)) return " ";
   const merged = t + h;
   if (canon.words.has(merged) || fuzzyWordHit(merged, canon.words)) return "";
+  if (
+    global !== undefined &&
+    !global.bigrams.has(`${t} ${h}`) &&
+    global.words.has(merged)
+  ) {
+    return "";
+  }
   return " ";
 }
 
@@ -81,7 +95,11 @@ export interface JoinableLine {
   markdown?: string;
 }
 
-export function applyJoins(lines: JoinableLine[], canon: CanonIndex): void {
+export function applyJoins(
+  lines: JoinableLine[],
+  canon: CanonIndex,
+  global?: CanonIndex,
+): void {
   for (let i = 0; i + 1 < lines.length; i++) {
     const a = lines[i];
     const b = lines[i + 1];
@@ -96,9 +114,11 @@ export function applyJoins(lines: JoinableLine[], canon: CanonIndex): void {
       // drop it when canon confirms the merged form is a real word AND
       // canon doesn't already know it as a hyphenated compound.
       const merged = normalize(tail.slice(0, -1)) + normalize(head);
-      const isGenuineCompound = canon.hyphenatedWords.has(merged);
+      const isGenuineCompound = canon.hyphenatedWords.has(merged) ||
+        (global?.hyphenatedWords.has(merged) ?? false);
       const isLineWrapHyphen = !isGenuineCompound &&
-        (canon.words.has(merged) || fuzzyWordHit(merged, canon.words));
+        (canon.words.has(merged) || fuzzyWordHit(merged, canon.words) ||
+          (global?.words.has(merged) ?? false));
       if (isLineWrapHyphen) {
         a.text = a.text.replace(/-$/, "");
         if (a.markdown !== undefined) {
@@ -107,7 +127,7 @@ export function applyJoins(lines: JoinableLine[], canon: CanonIndex): void {
       }
       continue;
     }
-    const sep = decideJoin(tail, head, canon);
+    const sep = decideJoin(tail, head, canon, global);
     if (sep === " ") {
       a.text += " ";
       if (a.markdown !== undefined) a.markdown += " ";

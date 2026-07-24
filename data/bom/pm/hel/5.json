@@ -504,7 +504,7 @@
         "id": "343:21b",
         "page": 343,
         "line": 21,
-        "text": "& from then ",
+        "text": "& from then",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/343"
       },
       {
@@ -1543,15 +1543,22 @@
         "id": "345:23b",
         "page": 345,
         "line": 23,
-        "text": "& there were about three hundred souls whi ",
+        "text": "& there were about three hundred souls whi",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/345"
       },
       {
-        "id": "345:24a",
+        "id": "345:24",
         "page": 345,
         "line": 24,
-        "text": "ch saw & heard these things & they were bid to go forth & marvel not neither should they",
-        "markdown": "ch saw & heard ~~these~~ [these] things & they were bid to go forth & marvel not neither should they",
+        "text": "ch saw & heard these things & they were bid to go forth & marvel not neither should they do",
+        "markdown": "ch saw & heard ~~these~~ [these] things & they were bid to go forth & marvel not neither should they do",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/345"
+      },
+      {
+        "id": "345:25a",
+        "page": 345,
+        "line": 25,
+        "text": "ubt",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/345"
       }
     ]
@@ -1562,17 +1569,10 @@
     "verse": 50,
     "lines": [
       {
-        "id": "345:24b",
-        "page": 345,
-        "line": 24,
-        "text": "do ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/345"
-      },
-      {
-        "id": "345:25",
+        "id": "345:25b",
         "page": 345,
         "line": 25,
-        "text": "ubt & it came to pass that they did go forth & did minister unto the people declareing throughout ",
+        "text": "& it came to pass that they did go forth & did minister unto the people declareing throughout ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/345"
       },
       {

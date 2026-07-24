@@ -495,10 +495,17 @@
     "verse": 13,
     "lines": [
       {
-        "id": "468:8a",
+        "id": "468:8",
         "page": 468,
         "line": 8,
-        "text": "And it came to pass that the Lord spake unto them",
+        "text": "And it came to pass that the Lord spake unto them say",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/468"
+      },
+      {
+        "id": "468:9a",
+        "page": 468,
+        "line": 9,
+        "text": "ing,",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/468"
       }
     ]
@@ -509,17 +516,10 @@
     "verse": 14,
     "lines": [
       {
-        "id": "468:8b",
-        "page": 468,
-        "line": 8,
-        "text": "say-",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/468"
-      },
-      {
-        "id": "468:9",
+        "id": "468:9b",
         "page": 468,
         "line": 9,
-        "text": "ing, arise and come forth unto me, that ye may thrust your ",
+        "text": "arise and come forth unto me, that ye may thrust your ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/468"
       },
       {

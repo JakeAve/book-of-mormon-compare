@@ -166,10 +166,17 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/213"
       },
       {
-        "id": "213:12a",
+        "id": "213:12",
         "page": 213,
         "line": 12,
-        "text": "daughters of the Lamanites they carried into the",
+        "text": "daughters of the Lamanites they carried into the wild",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/213"
+      },
+      {
+        "id": "213:13",
+        "page": 213,
+        "line": 13,
+        "text": "erness.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/213"
       }
     ]
@@ -179,20 +186,6 @@
     "chapter": 20,
     "verse": 6,
     "lines": [
-      {
-        "id": "213:12b",
-        "page": 213,
-        "line": 12,
-        "text": "wild ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/213"
-      },
-      {
-        "id": "213:13",
-        "page": 213,
-        "line": 13,
-        "text": "erness. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/213"
-      },
       {
         "id": "213:14",
         "page": 213,
@@ -344,7 +337,7 @@
         "id": "213:28",
         "page": 213,
         "line": 28,
-        "text": "And it came to pass that the battle became exceed ",
+        "text": "And it came to pass that the battle became exceed",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/213"
       },
       {

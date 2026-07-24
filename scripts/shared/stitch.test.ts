@@ -90,6 +90,46 @@ Deno.test("applyJoins - unrecognized hyphenated merge defaults to keeping it", (
   assertEquals(lines[0].text.endsWith("-"), true);
 });
 
+Deno.test("decideJoin - global canon rejoins a word the verse canon lacks", () => {
+  // 1837 reads "exceeding glad" where the 2013 verse has "exceedingly" —
+  // the verse-scoped canon can't confirm "exceed" + "ing", but the full
+  // corpus knows "exceeding" as a word.
+  const canon = buildCanonIndex("she was exceedingly glad");
+  const global = buildCanonIndex("with exceeding great joy");
+  assertEquals(decideJoin("exceed", "ing", canon), " ");
+  assertEquals(decideJoin("exceed", "ing", canon, global), "");
+});
+
+Deno.test("decideJoin - global bigram guards against a false global merge", () => {
+  // The pair exists as two separate words elsewhere in canon — that is
+  // evidence of a real word boundary, so the merged-word hit must not win.
+  const canon = buildCanonIndex("apple zebra fruit");
+  const global = buildCanonIndex("he found a way and went away");
+  assertEquals(decideJoin("a", "way", canon, global), " ");
+});
+
+Deno.test("applyJoins - global canon strips a line-wrap hyphen", () => {
+  const canon = buildCanonIndex("she was exceedingly glad");
+  const global = buildCanonIndex("with exceeding great joy");
+  const lines = [
+    { text: "she was exceed-" },
+    { text: "ing glad" },
+  ];
+  applyJoins(lines, canon, global);
+  assertEquals(lines[0].text, "she was exceed");
+});
+
+Deno.test("applyJoins - global hyphenated compound keeps its hyphen", () => {
+  const canon = buildCanonIndex("he sat upon it");
+  const global = buildCanonIndex("before the judgment-seat of Christ");
+  const lines = [
+    { text: "he sat upon the judgment-" },
+    { text: "seat" },
+  ];
+  applyJoins(lines, canon, global);
+  assertEquals(lines[0].text.endsWith("-"), true);
+});
+
 Deno.test("applyJoins - markdown gets the same trailing space as text", () => {
   const canon = buildCanonIndex("a ship was built");
   const lines = [

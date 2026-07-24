@@ -985,10 +985,17 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/526"
       },
       {
-        "id": "526:19a",
+        "id": "526:19",
         "page": 526,
         "line": 19,
-        "text": "the earth; and he prayed again unto the Father,",
+        "text": "the earth; and he prayed again unto the Father, say",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/526"
+      },
+      {
+        "id": "526:20a",
+        "page": 526,
+        "line": 20,
+        "text": "ing,",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/526"
       }
     ]
@@ -999,17 +1006,10 @@
     "verse": 28,
     "lines": [
       {
-        "id": "526:19b",
-        "page": 526,
-        "line": 19,
-        "text": "say ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/526"
-      },
-      {
-        "id": "526:20",
+        "id": "526:20b",
         "page": 526,
         "line": 20,
-        "text": "ing, Father, I thank thee that thou hast purified those ",
+        "text": "Father, I thank thee that thou hast purified those ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/526"
       },
       {

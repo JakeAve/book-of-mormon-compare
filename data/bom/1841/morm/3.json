@@ -488,10 +488,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1841/572"
       },
       {
-        "id": "572:17",
+        "id": "572:17a",
         "page": 572,
         "line": 17,
-        "text": "ness of their hearts. And thrice have I delivered them",
+        "text": "ness of their hearts.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1841/572"
       }
     ]
@@ -501,6 +501,13 @@
     "chapter": 3,
     "verse": 13,
     "lines": [
+      {
+        "id": "572:17b",
+        "page": 572,
+        "line": 17,
+        "text": "And thrice have I delivered them ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1841/572"
+      },
       {
         "id": "572:18",
         "page": 572,

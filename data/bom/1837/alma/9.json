@@ -1216,10 +1216,17 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/267"
       },
       {
-        "id": "267:9a",
+        "id": "267:9",
         "page": 267,
         "line": 9,
-        "text": "hear the cries of his people, and to answer their",
+        "text": "hear the cries of his people, and to answer their pray",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/267"
+      },
+      {
+        "id": "267:10a",
+        "page": 267,
+        "line": 10,
+        "text": "ers.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/267"
       }
     ]
@@ -1230,17 +1237,10 @@
     "verse": 27,
     "lines": [
       {
-        "id": "267:9b",
-        "page": 267,
-        "line": 9,
-        "text": "pray ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/267"
-      },
-      {
-        "id": "267:10",
+        "id": "267:10b",
         "page": 267,
         "line": 10,
-        "text": "ers. And behold, he cometh to redeem those who will ",
+        "text": "And behold, he cometh to redeem those who will ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/267"
       },
       {
@@ -1429,7 +1429,7 @@
         "id": "267:30a",
         "page": 267,
         "line": 30,
-        "text": "hearted and a stiffnecked people; and also because",
+        "text": "hearted and a stiffnecked people;",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/267"
       }
     ]
@@ -1443,7 +1443,7 @@
         "id": "267:30b",
         "page": 267,
         "line": 30,
-        "text": "I ",
+        "text": "and also because I ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/267"
       },
       {

@@ -467,10 +467,17 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/276"
       },
       {
-        "id": "276:9a",
+        "id": "276:9",
         "page": 276,
         "line": 9,
-        "text": "spirit, and said unto them, Be comforted; and they were",
+        "text": "spirit, and said unto them, Be comforted; and they were com",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/276"
+      },
+      {
+        "id": "276:10a",
+        "page": 276,
+        "line": 10,
+        "text": "forted.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/276"
       }
     ]
@@ -481,17 +488,10 @@
     "verse": 11,
     "lines": [
       {
-        "id": "276:9b",
-        "page": 276,
-        "line": 9,
-        "text": "com ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/276"
-      },
-      {
-        "id": "276:10",
+        "id": "276:10b",
         "page": 276,
         "line": 10,
-        "text": "forted. And the Lord said unto them also, Go forth among ",
+        "text": "And the Lord said unto them also, Go forth among ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/276"
       },
       {
@@ -1093,7 +1093,7 @@
         "id": "277:30a",
         "page": 277,
         "line": 30,
-        "text": "Lamanites drive their flocks hither, that",
+        "text": "Lamanites drive their flocks hither, that they",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/277"
       }
     ]
@@ -1107,7 +1107,7 @@
         "id": "277:30b",
         "page": 277,
         "line": 30,
-        "text": "they might have wa",
+        "text": "might have wa",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/277"
       },
       {

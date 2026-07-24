@@ -726,10 +726,17 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/620"
       },
       {
-        "id": "620:25a",
+        "id": "620:25",
         "page": 620,
         "line": 25,
-        "text": "of a man, and I cannot any longer enforce my",
+        "text": "of a man, and I cannot any longer enforce my com",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/620"
+      },
+      {
+        "id": "620:26a",
+        "page": 620,
+        "line": 26,
+        "text": "mands;",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/620"
       }
     ]
@@ -740,17 +747,10 @@
     "verse": 19,
     "lines": [
       {
-        "id": "620:25b",
-        "page": 620,
-        "line": 25,
-        "text": "com ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/620"
-      },
-      {
-        "id": "620:26",
+        "id": "620:26b",
         "page": 620,
         "line": 26,
-        "text": "mands; and they have become strong in their perver",
+        "text": "and they have become strong in their perver",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/620"
       },
       {

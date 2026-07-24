@@ -167,11 +167,18 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/98"
       },
       {
-        "id": "98:29a",
+        "id": "98:29",
         "page": 98,
         "line": 29,
-        "text": "laneness I glory in truth I glory in my Jesus for he hath redeemed my soul from",
-        "markdown": "laneness I glory in ~~th~~ truth I glory in my Jesus for he hath redeemed my soul from",
+        "text": "laneness I glory in truth I glory in my Jesus for he hath redeemed my soul from he",
+        "markdown": "laneness I glory in ~~th~~ truth I glory in my Jesus for he hath redeemed my soul from he",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/98"
+      },
+      {
+        "id": "98:30a",
+        "page": 98,
+        "line": 30,
+        "text": "ll",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/98"
       }
     ]
@@ -182,17 +189,10 @@
     "verse": 7,
     "lines": [
       {
-        "id": "98:29b",
-        "page": 98,
-        "line": 29,
-        "text": "he ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/98"
-      },
-      {
-        "id": "98:30",
+        "id": "98:30b",
         "page": 98,
         "line": 30,
-        "text": "ll I have charity for my People & great faith in christ that I shall meet many souls ",
+        "text": "I have charity for my People & great faith in christ that I shall meet many souls ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/98"
       },
       {
