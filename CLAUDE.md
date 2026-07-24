@@ -103,16 +103,15 @@ Security/persistence layer. Intentionally split so the storage backend can be
 swapped without touching the service.
 
 - `db/interface.ts` — `SecurityStore` interface (domain methods: `isBanned`,
-  `setBan`, `record404`)
-- `db/kv.ts` — `DenoKvSecurityStore`: Deno KV implementation; owns all key
-  construction, prefixing, and atomic retry logic
-- `db/interface.ts` — `ReportRateStore` interface (domain methods:
-  `checkReportLimit`, `recordReport`)
-- `db/kv.ts` — `DenoKvReportRateStore`: rate limiting for correction reports
+  `setBan`, `record404`) and `ReportRateStore` interface (domain method:
+  `recordReport`)
+- `db/kv.ts` — `DenoKvSecurityStore`: Deno KV implementation for security (owns
+  all key construction, prefixing, atomic retry logic); `DenoKvReportRateStore`:
+  rate limiting for correction reports
 - `utils/security.ts` — `SecurityService` accepts a `SecurityStore`; handles
   probe detection, ban logic, logging. No KV imports.
-- `utils/githubIssues.ts` — opens GitHub issues for correction reports via `gh`
-  CLI
+- `utils/githubIssues.ts` — GitHub REST client for filing correction issues
+  (uses Bearer token auth)
 - `utils/middleware/ip-block.ts` — blocks banned IPs
 - `utils/middleware/probe-detect.ts` — records suspicious 404s and bans on
   threshold
