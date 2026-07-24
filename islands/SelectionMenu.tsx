@@ -2,6 +2,7 @@ import { useEffect, useRef } from "preact/hooks";
 import { useSignal, useSignalEffect } from "@preact/signals";
 import { parseMarkParam, serializeMarkParam } from "../lib/verseMark.ts";
 import { toast } from "./toastSignal.ts";
+import { reportRequest } from "./reportDialogSignal.ts";
 
 interface Props {
   book: string;
@@ -132,12 +133,20 @@ export default function SelectionMenu(_props: Props) {
     toast.value = { url: url.toString() };
   }
 
+  function handleReport() {
+    const verses = menu.value?.verses ?? [];
+    const text = document.getSelection()?.toString().trim() ?? "";
+    reportRequest.value = { verses, selectedText: text };
+    menu.value = null;
+  }
+
   const m = menu.value;
   if (!m) return null;
 
   const ACTIONS = [
     { label: "Mark", onClick: handleMark },
     { label: "Share", onClick: handleShare },
+    { label: "Report", onClick: handleReport },
   ];
 
   return (
