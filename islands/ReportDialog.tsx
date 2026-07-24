@@ -216,7 +216,12 @@ export default function ReportDialog({ book, chapter, v1, v2 }: Props) {
               {st.issueUrl && (
                 <p style={{ fontSize: "0.8125rem", margin: "0 0 0.75rem" }}>
                   You can follow it here:{" "}
-                  <a href={st.issueUrl} target="_blank" rel="noopener">
+                  <a
+                    href={st.issueUrl}
+                    target="_blank"
+                    rel="noopener"
+                    style={{ textDecoration: "underline" }}
+                  >
                     {st.issueUrl}
                   </a>
                 </p>
