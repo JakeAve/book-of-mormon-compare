@@ -65,6 +65,7 @@ export const VERSION_ORDER: readonly string[] = [
   "1830",
   "1837",
   "1840",
+  "1841",
   "2013",
 ];
 
@@ -74,6 +75,7 @@ export const VERSION_DISPLAY_NAMES: Record<string, string> = {
   "1830": "1830 First Edition",
   "1837": "1837 Second Edition",
   "1840": "1840 Nauvoo Edition",
+  "1841": "1841 Liverpool Edition",
   "2013": "2013 Church of Jesus Christ of Latter-day Saints",
 };
 
@@ -83,6 +85,7 @@ export const VERSION_SHORT_NAMES: Record<string, string> = {
   "1830": "1830 First Edition",
   "1837": "1837 Second Edition",
   "1840": "1840 Nauvoo Edition",
+  "1841": "1841 Liverpool Edition",
   "2013": "2013 Edition",
 };
 

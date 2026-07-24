@@ -8,7 +8,7 @@ export const handler = define.handlers({
     ctx.state.head = {
       title: "Versions — Book of Mormon Compare",
       description:
-        "Descriptions of each Book of Mormon version available for comparison: Original Manuscript, Printer's Manuscript, 1830, 1837, 1840, and 2013 editions.",
+        "Descriptions of each Book of Mormon version available for comparison: Original Manuscript, Printer's Manuscript, 1830, 1837, 1840, 1841, and 2013 editions.",
       imageUrl: `${siteUrl}/og-default.png`,
       pageUrl: `${siteUrl}/versions`,
       canonicalUrl: `${siteUrl}/versions`,
@@ -189,6 +189,41 @@ export default define.page<typeof handler>(() => {
         <p>
           <a href="/1-ne/1?v1=1840&v2=2013" class="underline">
             Compare 1840 Nauvoo Edition →
+          </a>
+        </p>
+      </section>
+
+      <section class="flex flex-col gap-3">
+        <h2 class="text-xl font-semibold">1841 Liverpool Edition</h2>
+        <p>
+          The first edition published outside the United States, printed in
+          Liverpool for Brigham Young, Heber C. Kimball, and Parley P. Pratt
+          during the apostles' mission to England. Because copies of the 1840
+          Nauvoo edition had not reached England, it was typeset from a copy of
+          the 1837 edition, so it carries the 1837 text — without Joseph Smith's
+          1840 corrections against the Original Manuscript — with a fresh layer
+          of British compositor changes.
+        </p>
+        <p>
+          Five thousand copies were printed, making it the largest single
+          printing of the Book of Mormon up to that time and the edition that
+          served the rapidly growing British mission.
+        </p>
+        <p>
+          The 1841 edition in this project is sourced from the images made
+          available by the{" "}
+          <a
+            target="_blank"
+            href="https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1841/1"
+            rel="noopener noreferrer"
+            class="underline"
+          >
+            Joseph Smith Paper's project on document ID 7527.
+          </a>
+        </p>
+        <p>
+          <a href="/1-ne/1?v1=1841&v2=2013" class="underline">
+            Compare 1841 Liverpool Edition →
           </a>
         </p>
       </section>

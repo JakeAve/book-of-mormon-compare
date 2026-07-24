@@ -40,6 +40,11 @@ export function headingToBook(normalized: string): string | null {
   if (/^the book of nephi\s+his\b/.test(normalized)) return "1-ne";
   if (/^the first book of nephi\b/.test(normalized)) return "1-ne";
   if (/^the second book of nephi\b/.test(normalized)) return "2-ne";
+  // 4-ne: "one of the disciples of Jesus Christ" — checked before 3-ne since
+  // its full title also contains "son of nephi"
+  if (/^the book of nephi\b.*\bdisciples of jesus christ\b/.test(normalized)) {
+    return "4-ne";
+  }
   // 3-ne: requires "son of nephi" to exclude mid-text references
   if (/^the book of nephi\b.*\bson of nephi\b/.test(normalized)) return "3-ne";
   if (/^the book of jacob\b/.test(normalized)) return "jacob";

@@ -16,7 +16,7 @@ Deno.test("getVersions returns [] when data dir is missing", async () => {
 
 Deno.test("getVersions orders known versions by publication, not alphabetically", async () => {
   const versions = await getVersions(BOM_DIR);
-  assertEquals(versions, ["om", "pm", "1830", "1837", "1840", "2013"]);
+  assertEquals(versions, ["om", "pm", "1830", "1837", "1840", "1841", "2013"]);
 });
 
 Deno.test("getVersions puts unrecognized directories after known versions, alphabetically", async () => {

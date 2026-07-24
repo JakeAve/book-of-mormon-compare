@@ -30,7 +30,7 @@ async function run(
   const [{ words: sourceWords, lines: lineInfos }, canonVerses] = await Promise
     .all([
       tokenizeSource(adapter.raw),
-      loadBooks(TARGET_ROOT),
+      loadBooks(TARGET_ROOT, adapter.bookOrder),
     ]);
   console.log(`  source words: ${sourceWords.length}`);
   console.log(`  target verses: ${canonVerses.length}`);
@@ -49,6 +49,7 @@ async function run(
       lineInfos,
       adapter.cursor,
       adapter.dictionary,
+      { allCapsBookTitles: adapter.allCapsBookTitles },
     );
   const cursorResults = applyOverrides(
     attachOrphanMarkersToPrecedingVerse(

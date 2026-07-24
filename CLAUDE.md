@@ -33,6 +33,7 @@ deno task align:pm     # Re-run Printer's Manuscript alignment
 deno task align:1830   # Re-run 1830 First Edition alignment
 deno task align:1837   # Re-run 1837 Second Edition alignment
 deno task align:1840   # Re-run 1840 Nauvoo Edition alignment
+deno task align:1841   # Re-run 1841 Liverpool Edition alignment
 ```
 
 Always run `deno task pre-commit` (or let the git hook run it) before
@@ -174,6 +175,7 @@ Aligned verses are normalized to the `Verse` type at load time via
 | `1830` | 1830 First Edition                               |
 | `1837` | 1837 Second Edition                              |
 | `1840` | 1840 Nauvoo Edition                              |
+| `1841` | 1841 Liverpool Edition                           |
 | `2013` | 2013 Church of Jesus Christ of Latter-day Saints |
 
 To add a new version: drop chapter JSON in `data/bom/<key>/`, add display name

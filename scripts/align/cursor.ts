@@ -1,6 +1,6 @@
 import { createMatcher } from "./match.ts";
 import { headingToBook } from "./headings.ts";
-import { segmentSource } from "./segment-source.ts";
+import { type SegmentOptions, segmentSource } from "./segment-source.ts";
 import { mergeLineBreakSplits } from "./merge-splits.ts";
 import { findAnchor } from "./anchor.ts";
 import {
@@ -19,6 +19,7 @@ export function runCursor(
   lineInfos: Map<string, LineInfo> = new Map(),
   config: CursorConfig = DEFAULT_CURSOR_CONFIG,
   dictionary?: Map<string, string>,
+  segmentOptions?: SegmentOptions,
 ): CursorResult[] {
   if (source.length === 0 || verseGroups.length === 0) return [];
 
@@ -34,7 +35,7 @@ export function runCursor(
   );
 
   // Segment source at chapter headings (hard anchors that reset drift).
-  const segments = segmentSource(mergedSource, lineInfos);
+  const segments = segmentSource(mergedSource, lineInfos, segmentOptions);
 
   // canonical book slug → first index in verseGroups
   const bookStart = new Map<string, number>();
