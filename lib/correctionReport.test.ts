@@ -3,6 +3,8 @@ import {
   buildIssueBody,
   buildIssueTitle,
   type CorrectionReport,
+  extractReportFromIssueBody,
+  isDuplicateReport,
   parseCorrectionReport,
   parseVersesInput,
 } from "@/lib/correctionReport.ts";
@@ -29,9 +31,9 @@ Deno.test("parseCorrectionReport — accepts a valid payload", () => {
   }
 });
 
-Deno.test("parseCorrectionReport — accepts version 'unsure'", () => {
+Deno.test("parseCorrectionReport — rejects version 'unsure'", () => {
   const result = parseCorrectionReport({ ...valid, version: "unsure" });
-  assertEquals(result.ok, true);
+  assertEquals(result.ok, false);
 });
 
 Deno.test("parseCorrectionReport — rejects bad inputs", () => {
@@ -77,13 +79,12 @@ Deno.test("buildIssueTitle — formats version, book, verse range", () => {
   assertEquals(buildIssueTitle(r), "[correction] 1830 — 1 Nephi 4:17–18");
 });
 
-Deno.test("buildIssueTitle — single verse and unsure version", () => {
-  const r =
-    (parseCorrectionReport({ ...valid, version: "unsure", verses: [9] }) as {
-      ok: true;
-      report: CorrectionReport;
-    }).report;
-  assertEquals(buildIssueTitle(r), "[correction] unsure — 1 Nephi 4:9");
+Deno.test("buildIssueTitle — single verse", () => {
+  const r = (parseCorrectionReport({ ...valid, verses: [9] }) as {
+    ok: true;
+    report: CorrectionReport;
+  }).report;
+  assertEquals(buildIssueTitle(r), "[correction] 1830 — 1 Nephi 4:9");
 });
 
 Deno.test("buildIssueBody — contains prose summary and parseable json block", () => {
@@ -101,6 +102,50 @@ Deno.test("buildIssueBody — contains prose summary and parseable json block", 
   assertEquals(body.includes("1 Nephi 4:17–18"), true);
   assertEquals(body.includes("> command ments"), true);
   assertEquals(body.includes(valid.url as string), true);
+});
+
+Deno.test("extractReportFromIssueBody — round-trips a built body", () => {
+  const r =
+    (parseCorrectionReport(valid) as { ok: true; report: CorrectionReport })
+      .report;
+  assertEquals(extractReportFromIssueBody(buildIssueBody(r)), r);
+});
+
+Deno.test("extractReportFromIssueBody — uses the FINAL json block", () => {
+  const r =
+    (parseCorrectionReport(valid) as { ok: true; report: CorrectionReport })
+      .report;
+  const spoofed = { ...r, verses: [99] };
+  const body = "```json\n" + JSON.stringify(spoofed) + "\n```\n\n" +
+    buildIssueBody(r);
+  assertEquals(extractReportFromIssueBody(body)?.verses, [17, 18]);
+});
+
+Deno.test("extractReportFromIssueBody — null for missing or invalid block", () => {
+  assertEquals(extractReportFromIssueBody("no block here"), null);
+  assertEquals(extractReportFromIssueBody("```json\nnot json\n```"), null);
+  assertEquals(
+    extractReportFromIssueBody('```json\n{"version":"1999"}\n```'),
+    null,
+  );
+});
+
+Deno.test("isDuplicateReport — overlapping verses in same version dupe", () => {
+  const base =
+    (parseCorrectionReport(valid) as { ok: true; report: CorrectionReport })
+      .report;
+  const overlap = { ...base, verses: [18, 19] };
+  const disjoint = { ...base, verses: [20] };
+  const otherVersion = { ...base, version: "1840" };
+  const otherChapter = { ...base, chapter: 5 };
+  const otherBook = { ...base, book: "2-ne" };
+  const otherComparison = { ...base, comparedWith: "pm" };
+  assertEquals(isDuplicateReport(base, overlap), true);
+  assertEquals(isDuplicateReport(base, otherComparison), true);
+  assertEquals(isDuplicateReport(base, disjoint), false);
+  assertEquals(isDuplicateReport(base, otherVersion), false);
+  assertEquals(isDuplicateReport(base, otherChapter), false);
+  assertEquals(isDuplicateReport(base, otherBook), false);
 });
 
 Deno.test("parseVersesInput — single, range, list, garbage", () => {

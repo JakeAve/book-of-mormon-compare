@@ -2,11 +2,13 @@ import { define } from "@/utils/state.ts";
 import {
   buildIssueBody,
   buildIssueTitle,
+  extractReportFromIssueBody,
+  isDuplicateReport,
   parseCorrectionReport,
 } from "@/lib/correctionReport.ts";
 import { DenoKvReportRateStore } from "@/db/kv.ts";
 import type { ReportRateStore } from "@/db/interface.ts";
-import { createIssue } from "@/utils/githubIssues.ts";
+import { createIssue, listOpenIssues } from "@/utils/githubIssues.ts";
 import { log } from "@/lib/logger.ts";
 
 let storePromise: Promise<ReportRateStore> | null = null;
@@ -57,6 +59,27 @@ export const handler = define.handlers({
     if (!token) {
       log("error", "report_no_github_token", { ip });
       return json(503, { ok: false, error: "unavailable" });
+    }
+
+    // Duplicate reports get the same success response as fresh ones, linked
+    // to the existing issue — the reporter shouldn't have to care. Open
+    // issues are the source of truth: once one is fixed and closed, new
+    // reports for that verse go through again. If the lookup fails, create
+    // anyway — a double report beats a lost one.
+    const existing = await listOpenIssues("correction", token);
+    if (existing.ok) {
+      for (const issue of existing.issues) {
+        const report = extractReportFromIssueBody(issue.body);
+        if (report && isDuplicateReport(report, parsed.report)) {
+          log("info", "report_duplicate", {
+            ip,
+            book: parsed.report.book,
+            chapter: parsed.report.chapter,
+            issue_url: issue.htmlUrl,
+          });
+          return json(200, { ok: true, issueUrl: issue.htmlUrl });
+        }
+      }
     }
 
     const result = await createIssue(

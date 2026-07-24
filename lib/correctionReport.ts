@@ -23,7 +23,6 @@ export const ERROR_TYPE_LABELS: Record<ErrorType, string> = {
 };
 
 export interface CorrectionReport {
-  /** Version key, or "unsure" when the reporter can't tell which side is wrong. */
   version: string;
   comparedWith: string;
   book: string;
@@ -59,10 +58,7 @@ export function parseCorrectionReport(input: unknown): ParseResult {
   const o = input as Record<string, unknown>;
 
   const version = o.version;
-  if (
-    typeof version !== "string" ||
-    (version !== "unsure" && !(version in VERSION_DISPLAY_NAMES))
-  ) {
+  if (typeof version !== "string" || !(version in VERSION_DISPLAY_NAMES)) {
     return { ok: false, error: "unknown version" };
   }
   const comparedWith = o.comparedWith;
@@ -152,11 +148,8 @@ function quoteBlock(text: string): string {
 }
 
 export function buildIssueBody(r: CorrectionReport): string {
-  const versionLabel = r.version === "unsure"
-    ? "unsure (see compared versions)"
-    : getVersionDisplayName(r.version);
   const parts: string[] = [
-    `**Version:** ${versionLabel}`,
+    `**Version:** ${getVersionDisplayName(r.version)}`,
     `**Compared with:** ${getVersionDisplayName(r.comparedWith)}`,
     `**Reference:** ${formatReference(r)}`,
     `**Error type:** ${ERROR_TYPE_LABELS[r.errorType]}`,
@@ -177,6 +170,37 @@ export function buildIssueBody(r: CorrectionReport): string {
     "---\n\n```json\n" + JSON.stringify(r, null, 2) + "\n```",
   );
   return parts.join("\n\n");
+}
+
+/** Recover the structured report from an issue body. Parses only the FINAL
+ *  fenced json block — the body's user-supplied text is untrusted and could
+ *  contain a spoofed earlier block. */
+export function extractReportFromIssueBody(
+  body: string,
+): CorrectionReport | null {
+  const blocks = [...body.matchAll(/```json\n([\s\S]+?)\n```/g)];
+  if (blocks.length === 0) return null;
+  try {
+    const parsed = parseCorrectionReport(
+      JSON.parse(blocks[blocks.length - 1][1]),
+    );
+    return parsed.ok ? parsed.report : null;
+  } catch {
+    return null;
+  }
+}
+
+/** Same version + book + chapter with overlapping verses is the same
+ *  underlying error. `comparedWith` is deliberately ignored — the same
+ *  defect is visible regardless of which version it was compared against. */
+export function isDuplicateReport(
+  a: CorrectionReport,
+  b: CorrectionReport,
+): boolean {
+  if (a.version !== b.version) return false;
+  if (a.book !== b.book || a.chapter !== b.chapter) return false;
+  const set = new Set(a.verses);
+  return b.verses.some((v) => set.has(v));
 }
 
 export function parseVersesInput(s: string): number[] | null {

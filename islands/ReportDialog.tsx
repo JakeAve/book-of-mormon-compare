@@ -43,7 +43,7 @@ const labelStyle = {
 
 export default function ReportDialog({ book, chapter, v1, v2 }: Props) {
   const dialogRef = useRef<HTMLDialogElement>(null);
-  const version = useSignal<string>(v1);
+  const version = useSignal<string>("");
   const errorType = useSignal<string>("");
   const versesInput = useSignal("");
   const selectedText = useSignal("");
@@ -55,7 +55,7 @@ export default function ReportDialog({ book, chapter, v1, v2 }: Props) {
   useEffect(() => {
     const unsubscribe = reportRequest.subscribe((req) => {
       if (req === null) return;
-      version.value = v1;
+      version.value = "";
       errorType.value = "";
       expectedText.value = "";
       description.value = "";
@@ -249,13 +249,16 @@ export default function ReportDialog({ book, chapter, v1, v2 }: Props) {
                   id="report-version"
                   style={inputStyle}
                   value={version.value}
+                  required
                   onChange={(
                     e,
                   ) => (version.value = (e.target as HTMLSelectElement).value)}
                 >
+                  <option value="" disabled>
+                    Select a version…
+                  </option>
                   <option value={v1}>{VERSION_SHORT_NAMES[v1] ?? v1}</option>
                   <option value={v2}>{VERSION_SHORT_NAMES[v2] ?? v2}</option>
-                  <option value="unsure">Not sure</option>
                 </select>
               </div>
 
