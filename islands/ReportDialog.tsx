@@ -170,14 +170,7 @@ export default function ReportDialog({ book, chapter, v1, v2 }: Props) {
 
       <dialog
         ref={dialogRef}
-        style={{
-          width: "clamp(280px, 92vw, 480px)",
-          border: "1px solid var(--color-dialog-border)",
-          borderRadius: "12px",
-          background: "var(--color-dialog-bg)",
-          color: "var(--color-text)",
-          padding: 0,
-        }}
+        class="report-dialog"
       >
         <header
           style={{
