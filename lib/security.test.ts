@@ -115,6 +115,41 @@ Deno.test("record404 — bans IP at threshold", async () => {
   }
 });
 
+Deno.test("countBans — counts distinct banned IPs", async () => {
+  const [svc, kv] = await makeService();
+  try {
+    assertEquals(await svc.countBans(), 0);
+    await svc.banIp("1.2.3.4", "/.env", "probe_path");
+    await svc.banIp("5.6.7.8", "/.env", "probe_path");
+    assertEquals(await svc.countBans(), 2);
+  } finally {
+    kv.close();
+  }
+});
+
+Deno.test("listBans — returns banned IPs", async () => {
+  const [svc, kv] = await makeService();
+  try {
+    await svc.banIp("1.2.3.4", "/.env", "probe_path");
+    await svc.banIp("5.6.7.8", "/.env", "probe_path");
+    assertEquals((await svc.listBans()).sort(), ["1.2.3.4", "5.6.7.8"]);
+  } finally {
+    kv.close();
+  }
+});
+
+Deno.test("unbanIp — removes a ban", async () => {
+  const [svc, kv] = await makeService();
+  try {
+    await svc.banIp("1.2.3.4", "/.env", "probe_path");
+    assertEquals(await svc.isBanned("1.2.3.4"), true);
+    await svc.unbanIp("1.2.3.4");
+    assertEquals(await svc.isBanned("1.2.3.4"), false);
+  } finally {
+    kv.close();
+  }
+});
+
 Deno.test("record404 — resets count after window expires", async () => {
   const [svc, kv] = await makeService();
   try {

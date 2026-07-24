@@ -26,6 +26,19 @@ export class SecurityService {
     return this.store.isBanned(ip);
   }
 
+  async countBans(): Promise<number> {
+    return (await this.store.listBans()).length;
+  }
+
+  listBans(): Promise<string[]> {
+    return this.store.listBans();
+  }
+
+  async unbanIp(ip: string): Promise<void> {
+    await this.store.unban(ip);
+    log("info", "ip_unbanned", { ip });
+  }
+
   async banIp(
     ip: string,
     triggerPath: string,

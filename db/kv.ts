@@ -39,6 +39,23 @@ export class DenoKvSecurityStore implements SecurityStore {
     await this.kv.set(this.#banKey(ip), true);
   }
 
+  async unban(ip: string): Promise<void> {
+    await this.kv.delete(this.#banKey(ip));
+  }
+
+  async listBans(): Promise<string[]> {
+    const ips: string[] = [];
+    for await (
+      const entry of this.kv.list<boolean>({
+        prefix: [KV_PREFIX, KV_KEYS.BAN],
+      })
+    ) {
+      const ip = entry.key[entry.key.length - 1];
+      if (typeof ip === "string") ips.push(ip);
+    }
+    return ips;
+  }
+
   async record404(ip: string): Promise<{ hitThreshold: boolean }> {
     while (true) {
       const countEntry = await this.kv.get<number>(this.#countKey(ip));
