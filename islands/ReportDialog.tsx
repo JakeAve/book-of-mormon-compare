@@ -55,11 +55,19 @@ export default function ReportDialog({ book, chapter, v1, v2 }: Props) {
   useEffect(() => {
     const unsubscribe = reportRequest.subscribe((req) => {
       if (req === null) return;
+      version.value = v1;
+      errorType.value = ERROR_TYPES[0];
+      expectedText.value = "";
+      description.value = "";
+      honeypot.value = "";
       if (req !== "manual") {
         versesInput.value = req.verses.length > 1
           ? `${req.verses[0]}-${req.verses[req.verses.length - 1]}`
           : String(req.verses[0] ?? "");
         selectedText.value = req.selectedText.slice(0, 500);
+      } else {
+        versesInput.value = "";
+        selectedText.value = "";
       }
       status.value = { state: "idle" };
       dialogRef.current?.showModal();
