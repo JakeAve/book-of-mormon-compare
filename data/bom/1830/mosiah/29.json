@@ -852,10 +852,17 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/225"
       },
       {
-        "id": "225:7a",
+        "id": "225:7",
         "page": 225,
         "line": 7,
-        "text": "thus an unrighteous king doth pervert the ways of all",
+        "text": "thus an unrighteous king doth pervert the ways of all right",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/225"
+      },
+      {
+        "id": "225:8a",
+        "page": 225,
+        "line": 8,
+        "text": "eousness.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/225"
       }
     ]
@@ -866,17 +873,10 @@
     "verse": 24,
     "lines": [
       {
-        "id": "225:7b",
-        "page": 225,
-        "line": 7,
-        "text": "right ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/225"
-      },
-      {
-        "id": "225:8",
+        "id": "225:8b",
         "page": 225,
         "line": 8,
-        "text": "eousness. And now behold I say unto you, It is not expedi",
+        "text": "And now behold I say unto you, It is not expedi",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/225"
       },
       {

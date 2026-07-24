@@ -747,10 +747,17 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/67"
       },
       {
-        "id": "67:19a",
+        "id": "67:19",
         "page": 67,
         "line": 19,
-        "text": "behold, this hath been the anxiety of my soul, from the",
+        "text": "behold, this hath been the anxiety of my soul, from the begin",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/67"
+      },
+      {
+        "id": "67:20a",
+        "page": 67,
+        "line": 20,
+        "text": "ning.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/67"
       }
     ]
@@ -761,17 +768,10 @@
     "verse": 17,
     "lines": [
       {
-        "id": "67:19b",
-        "page": 67,
-        "line": 19,
-        "text": "begin ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/67"
-      },
-      {
-        "id": "67:20",
+        "id": "67:20b",
         "page": 67,
         "line": 20,
-        "text": "ning. My heart hath been weighed down with sorrow from ",
+        "text": "My heart hath been weighed down with sorrow from ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/67"
       },
       {
@@ -806,7 +806,7 @@
         "id": "67:23b",
         "page": 67,
         "line": 23,
-        "text": "for ",
+        "text": "for",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/67"
       },
       {

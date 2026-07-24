@@ -348,10 +348,17 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/249"
       },
       {
-        "id": "249:13a",
+        "id": "249:13",
         "page": 249,
         "line": 13,
-        "text": "he would also grant that he might baptize them unto",
+        "text": "he would also grant that he might baptize them unto repent",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/249"
+      },
+      {
+        "id": "249:14a",
+        "page": 249,
+        "line": 14,
+        "text": "ance;",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/249"
       }
     ]
@@ -362,17 +369,10 @@
     "verse": 11,
     "lines": [
       {
-        "id": "249:13b",
-        "page": 249,
-        "line": 13,
-        "text": "repent ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/249"
-      },
-      {
-        "id": "249:14",
+        "id": "249:14b",
         "page": 249,
         "line": 14,
-        "text": "ance; nevertheless, they hardened their hearts, saying unto ",
+        "text": "nevertheless, they hardened their hearts, saying unto ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/249"
       },
       {
@@ -729,7 +729,7 @@
         "id": "250:9a",
         "page": 250,
         "line": 9,
-        "text": "ye give to an humble servant of God",
+        "text": "ye give to an humble servant of God something",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/250"
       }
     ]
@@ -743,7 +743,7 @@
         "id": "250:9b",
         "page": 250,
         "line": 9,
-        "text": "something to eat? And ",
+        "text": "to eat? And ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/250"
       },
       {

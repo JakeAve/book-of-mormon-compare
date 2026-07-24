@@ -138,10 +138,17 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/383"
       },
       {
-        "id": "383:18a",
+        "id": "383:18",
         "page": 383,
         "line": 18,
-        "text": "Now these are the words which he wrote unto Ammoron,",
+        "text": "Now these are the words which he wrote unto Ammoron, say",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/383"
+      },
+      {
+        "id": "383:19a",
+        "page": 383,
+        "line": 19,
+        "text": "ing:",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/383"
       }
     ]
@@ -152,17 +159,10 @@
     "verse": 5,
     "lines": [
       {
-        "id": "383:18b",
-        "page": 383,
-        "line": 18,
-        "text": "say ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/383"
-      },
-      {
-        "id": "383:19",
+        "id": "383:19b",
         "page": 383,
         "line": 19,
-        "text": "ing: Behold, Ammoron, I have wrote unto you somewhat con",
+        "text": "Behold, Ammoron, I have wrote unto you somewhat con",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/383"
       },
       {

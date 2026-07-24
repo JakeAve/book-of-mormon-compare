@@ -1146,10 +1146,17 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/200"
       },
       {
-        "id": "200:13a",
+        "id": "200:13",
         "page": 200,
         "line": 13,
-        "text": "enant with God, to serve him, and keep his",
+        "text": "enant with God, to serve him, and keep his command",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/200"
+      },
+      {
+        "id": "200:14a",
+        "page": 200,
+        "line": 14,
+        "text": "ments.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/200"
       }
     ]
@@ -1160,17 +1167,10 @@
     "verse": 32,
     "lines": [
       {
-        "id": "200:13b",
-        "page": 200,
-        "line": 13,
-        "text": "command",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/200"
-      },
-      {
-        "id": "200:14",
+        "id": "200:14b",
         "page": 200,
         "line": 14,
-        "text": "ments. And now since the coming of Ammon, king Limhi ",
+        "text": "And now since the coming of Ammon, king Limhi ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/200"
       },
       {

@@ -131,17 +131,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/556"
       },
       {
-        "id": "557:1",
+        "id": "557:1a",
         "page": 557,
         "line": 1,
-        "text": "erness of Akish. And it came to pass that the brother of ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/557"
-      },
-      {
-        "id": "557:2",
-        "page": 557,
-        "line": 2,
-        "text": "Shared did give battle unto him in the wilderness of Akish;",
+        "text": "erness of Akish.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/557"
       }
     ]
@@ -152,6 +145,20 @@
     "verse": 4,
     "lines": [
       {
+        "id": "557:1b",
+        "page": 557,
+        "line": 1,
+        "text": "And it came to pass that the brother of ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/557"
+      },
+      {
+        "id": "557:2",
+        "page": 557,
+        "line": 2,
+        "text": "Shared did give battle unto him in the wilderness of Akish; ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/557"
+      },
+      {
         "id": "557:3",
         "page": 557,
         "line": 3,
@@ -159,24 +166,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/557"
       },
       {
-        "id": "557:4",
+        "id": "557:4a",
         "page": 557,
         "line": 4,
-        "text": "sands fell by the sword. And it came to pass that Corian-",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/557"
-      },
-      {
-        "id": "557:5",
-        "page": 557,
-        "line": 5,
-        "text": "tumr did lay siege to the wilderness, and the brother of ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/557"
-      },
-      {
-        "id": "557:6a",
-        "page": 557,
-        "line": 6,
-        "text": "Shared did march forth out of",
+        "text": "sands fell by the sword.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/557"
       }
     ]
@@ -187,10 +180,24 @@
     "verse": 5,
     "lines": [
       {
-        "id": "557:6b",
+        "id": "557:4b",
+        "page": 557,
+        "line": 4,
+        "text": "And it came to pass that Corian",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/557"
+      },
+      {
+        "id": "557:5",
+        "page": 557,
+        "line": 5,
+        "text": "tumr did lay siege to the wilderness, and the brother of ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/557"
+      },
+      {
+        "id": "557:6",
         "page": 557,
         "line": 6,
-        "text": "the wilderness by night, ",
+        "text": "Shared did march forth out of the wilderness by night, ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/557"
       },
       {

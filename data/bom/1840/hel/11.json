@@ -845,17 +845,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/430"
       },
       {
-        "id": "430:18",
+        "id": "430:18a",
         "page": 430,
         "line": 18,
-        "text": "ed the seventy and seventh year. And also they had ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/430"
-      },
-      {
-        "id": "430:19a",
-        "page": 430,
-        "line": 19,
-        "text": "peace in the",
+        "text": "ed the seventy and seventh year.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/430"
       }
     ]
@@ -866,10 +859,17 @@
     "verse": 22,
     "lines": [
       {
-        "id": "430:19b",
+        "id": "430:18b",
+        "page": 430,
+        "line": 18,
+        "text": "And also they had ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/430"
+      },
+      {
+        "id": "430:19",
         "page": 430,
         "line": 19,
-        "text": "seventy and eighty year, save it were a few ",
+        "text": "peace in the seventy and eighty year, save it were a few ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/430"
       },
       {

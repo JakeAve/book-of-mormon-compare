@@ -278,10 +278,17 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1841/132"
       },
       {
-        "id": "132:6a",
+        "id": "132:6",
         "page": 132,
         "line": 6,
-        "text": "he would be obedient unto him in keeping his",
+        "text": "he would be obedient unto him in keeping his command",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1841/132"
+      },
+      {
+        "id": "132:7a",
+        "page": 132,
+        "line": 7,
+        "text": "ments;",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1841/132"
       }
     ]
@@ -292,17 +299,10 @@
     "verse": 8,
     "lines": [
       {
-        "id": "132:6b",
-        "page": 132,
-        "line": 6,
-        "text": "command-",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1841/132"
-      },
-      {
-        "id": "132:7",
+        "id": "132:7b",
         "page": 132,
         "line": 7,
-        "text": "ments; wherefore, after he was baptized with water, ",
+        "text": "wherefore, after he was baptized with water, ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1841/132"
       },
       {

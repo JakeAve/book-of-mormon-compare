@@ -15,6 +15,25 @@ const ed1830: SourceAdapter = {
     tailGapFactor: 8,
     tailTrimMaxMatchFraction: 0.7,
   },
+  overrides: [
+    {
+      page: 19,
+      line: 2,
+      wordIndices: [9],
+      target: { book: "1-ne", chapter: 4, verse: 17 },
+      note:
+        "1830 printer's error 'commmand-/ments.' (triple m, per facsimile) " +
+        "splits across the verse boundary; the merged form isn't canonical so " +
+        "the aligner can't match it to 'commandments' at the end of 4:17.",
+    },
+    {
+      page: 19,
+      line: 3,
+      wordIndices: [0],
+      target: { book: "1-ne", chapter: 4, verse: 17 },
+      note: "Second fragment of 'commmand-/ments.' — belongs with 4:17.",
+    },
+  ],
 };
 
 export default ed1830;

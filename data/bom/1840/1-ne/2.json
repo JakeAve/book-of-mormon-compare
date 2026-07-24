@@ -313,10 +313,17 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/14"
       },
       {
-        "id": "14:9a",
+        "id": "14:9",
         "page": 14,
         "line": 9,
-        "text": "er, continually running into the fountain of all",
+        "text": "er, continually running into the fountain of all righteous",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/14"
+      },
+      {
+        "id": "14:10a",
+        "page": 14,
+        "line": 10,
+        "text": "ness.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/14"
       }
     ]
@@ -327,17 +334,10 @@
     "verse": 10,
     "lines": [
       {
-        "id": "14:9b",
-        "page": 14,
-        "line": 9,
-        "text": "righteous-",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/14"
-      },
-      {
-        "id": "14:10",
+        "id": "14:10b",
         "page": 14,
         "line": 10,
-        "text": "ness. And he also spake unto Lemuel: O that thou might",
+        "text": "And he also spake unto Lemuel: O that thou might",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/14"
       },
       {

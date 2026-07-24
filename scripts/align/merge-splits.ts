@@ -26,7 +26,10 @@ export function mergeLineBreakSplits(
       next !== undefined &&
       w.line !== next.line &&
       canonNorms.has(w.norm + next.norm) &&
-      !canonNorms.has(w.norm)
+      // Two adjacent canonical words ("in" + "to") are a real word boundary;
+      // but when either fragment alone is not a word ("righteous" + "ness",
+      // "command" + "ments"), the pair can only be a line-break split.
+      !(canonNorms.has(w.norm) && canonNorms.has(next.norm))
     ) {
       spans.push(2);
       words.push({ ...w, norm: w.norm + next.norm });

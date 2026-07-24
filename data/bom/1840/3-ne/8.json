@@ -677,10 +677,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/462"
       },
       {
-        "id": "462:41",
+        "id": "462:41a",
         "page": 462,
         "line": 41,
-        "text": "ness; and there could be no light, because of the darkness,",
+        "text": "ness;",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/462"
       }
     ]
@@ -690,6 +690,13 @@
     "chapter": 8,
     "verse": 21,
     "lines": [
+      {
+        "id": "462:41b",
+        "page": 462,
+        "line": 41,
+        "text": "and there could be no light, because of the darkness, ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/462"
+      },
       {
         "id": "462:42",
         "page": 462,

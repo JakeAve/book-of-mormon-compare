@@ -362,10 +362,17 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1841/20"
       },
       {
-        "id": "20:2a",
+        "id": "20:2",
         "page": 20,
         "line": 2,
-        "text": "plates of brass, and he did search them from the",
+        "text": "plates of brass, and he did search them from the begin",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1841/20"
+      },
+      {
+        "id": "20:3a",
+        "page": 20,
+        "line": 3,
+        "text": "ning.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1841/20"
       }
     ]
@@ -376,17 +383,10 @@
     "verse": 11,
     "lines": [
       {
-        "id": "20:2b",
-        "page": 20,
-        "line": 2,
-        "text": "begin-",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1841/20"
-      },
-      {
-        "id": "20:3",
+        "id": "20:3b",
         "page": 20,
         "line": 3,
-        "text": "ning. And he beheld that they did contain the five books ",
+        "text": "And he beheld that they did contain the five books ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1841/20"
       },
       {

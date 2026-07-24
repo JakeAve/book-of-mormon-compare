@@ -446,10 +446,17 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/250"
       },
       {
-        "id": "250:19a",
+        "id": "250:19",
         "page": 250,
         "line": 19,
-        "text": "of a senuum: therefore a shiblon for half a measure of",
+        "text": "of a senuum: therefore a shiblon for half a measure of bar",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/250"
+      },
+      {
+        "id": "250:20a",
+        "page": 250,
+        "line": 20,
+        "text": "ley;",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/250"
       }
     ]
@@ -460,17 +467,10 @@
     "verse": 16,
     "lines": [
       {
-        "id": "250:19b",
-        "page": 250,
-        "line": 19,
-        "text": "bar-",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/250"
-      },
-      {
-        "id": "250:20a",
+        "id": "250:20b",
         "page": 250,
         "line": 20,
-        "text": "ley; and a shiblum is a half of a shiblon;",
+        "text": "and a shiblum is a half of a shiblon;",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1840/250"
       }
     ]
@@ -481,7 +481,7 @@
     "verse": 17,
     "lines": [
       {
-        "id": "250:20b",
+        "id": "250:20c",
         "page": 250,
         "line": 20,
         "text": "and a leah is the ",

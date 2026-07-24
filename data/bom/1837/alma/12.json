@@ -817,10 +817,17 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/276"
       },
       {
-        "id": "276:17a",
+        "id": "276:17",
         "page": 276,
         "line": 17,
-        "text": "he shall die as to things pertaining unto",
+        "text": "he shall die as to things pertaining unto righteous",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/276"
+      },
+      {
+        "id": "276:18a",
+        "page": 276,
+        "line": 18,
+        "text": "ness;",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/276"
       }
     ]
@@ -831,17 +838,10 @@
     "verse": 17,
     "lines": [
       {
-        "id": "276:17b",
-        "page": 276,
-        "line": 17,
-        "text": "righteous ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/276"
-      },
-      {
-        "id": "276:18",
+        "id": "276:18b",
         "page": 276,
         "line": 18,
-        "text": "ness; then is the time when their torments shall be as ",
+        "text": "then is the time when their torments shall be as ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/276"
       },
       {
