@@ -14,5 +14,6 @@ export function insertSpaceBetween(
 ): " " | "" {
   if (!text2 || !text1) return "";
   if (/[\<\(\[]/.test(text1)) return "";
+  if (text1.endsWith("-")) return "";
   return /[א-תa-zA-Z\&\(\)\<]/.test(text2) ? " " : "";
 }
