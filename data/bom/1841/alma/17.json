@@ -5,26 +5,12 @@
     "verse": 0,
     "lines": [
       {
-        "id": "295:1",
-        "page": 295,
-        "line": 1,
-        "text": "BOOK OF ALMA. 23 ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1841/295"
-      },
-      {
         "id": "295:2",
         "page": 295,
         "line": 2,
-        "text": "CHAPTER XII.",
+        "text": "CHAPTER XII. ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1841/295"
-      }
-    ]
-  },
-  {
-    "book": "alma",
-    "chapter": 17,
-    "verse": 1,
-    "lines": [
+      },
       {
         "id": "295:3",
         "page": 295,
@@ -43,21 +29,14 @@
         "id": "295:5",
         "page": 295,
         "line": 5,
-        "text": "land of Nephi, to preach to the Lamanites. Their suf-",
+        "text": "land of Nephi, to preach to the Lamanites. Their suf",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1841/295"
       },
       {
         "id": "295:6",
         "page": 295,
         "line": 6,
-        "text": "ferings and deliverance, according to the record of Alma. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1841/295"
-      },
-      {
-        "id": "295:7a",
-        "page": 295,
-        "line": 7,
-        "text": "And",
+        "text": "ferings and deliverance, according to the record of Alma.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1841/295"
       }
     ]
@@ -65,13 +44,13 @@
   {
     "book": "alma",
     "chapter": 17,
-    "verse": 2,
+    "verse": 1,
     "lines": [
       {
-        "id": "295:7b",
+        "id": "295:7",
         "page": 295,
         "line": 7,
-        "text": "now it came to pass that as Alma was journey-",
+        "text": "And now it came to pass that as Alma was journey",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1841/295"
       },
       {
@@ -92,14 +71,28 @@
         "id": "295:10",
         "page": 295,
         "line": 10,
-        "text": "the sons of Mosiah, journeying towards the land of Za-",
+        "text": "the sons of Mosiah, journeying towards the land of Za",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1841/295"
       },
       {
-        "id": "295:11",
+        "id": "295:11a",
         "page": 295,
         "line": 11,
-        "text": "rahemla. Now these sons of Mosiah were with Alma ",
+        "text": "rahemla.",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1841/295"
+      }
+    ]
+  },
+  {
+    "book": "alma",
+    "chapter": 17,
+    "verse": 2,
+    "lines": [
+      {
+        "id": "295:11b",
+        "page": 295,
+        "line": 11,
+        "text": "Now these sons of Mosiah were with Alma ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1841/295"
       },
       {
@@ -124,31 +117,17 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1841/295"
       },
       {
-        "id": "295:15a",
+        "id": "295:15",
         "page": 295,
         "line": 15,
-        "text": "in the Lord; yea, and they had",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1841/295"
-      }
-    ]
-  },
-  {
-    "book": "alma",
-    "chapter": 17,
-    "verse": 3,
-    "lines": [
-      {
-        "id": "295:15b",
-        "page": 295,
-        "line": 15,
-        "text": "waxed strong in the ",
+        "text": "in the Lord; yea, and they had waxed strong in the ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1841/295"
       },
       {
         "id": "295:16",
         "page": 295,
         "line": 16,
-        "text": "knowledge of truth; for they were men of a sound under-",
+        "text": "knowledge of truth; for they were men of a sound under",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1841/295"
       },
       {
@@ -159,17 +138,10 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1841/295"
       },
       {
-        "id": "295:18",
+        "id": "295:18a",
         "page": 295,
         "line": 18,
-        "text": "that they might know the word of God. But this is not ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1841/295"
-      },
-      {
-        "id": "295:19a",
-        "page": 295,
-        "line": 19,
-        "text": "all: they had given themselves to much",
+        "text": "that they might know the word of God.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1841/295"
       }
     ]
@@ -177,13 +149,20 @@
   {
     "book": "alma",
     "chapter": 17,
-    "verse": 4,
+    "verse": 3,
     "lines": [
       {
-        "id": "295:19b",
+        "id": "295:18b",
+        "page": 295,
+        "line": 18,
+        "text": "But this is not ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1841/295"
+      },
+      {
+        "id": "295:19",
         "page": 295,
         "line": 19,
-        "text": "prayer, and fast-",
+        "text": "all: they had given themselves to much prayer, and fast",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1841/295"
       },
       {
@@ -201,10 +180,24 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1841/295"
       },
       {
-        "id": "295:22",
+        "id": "295:22a",
         "page": 295,
         "line": 22,
-        "text": "with power and authority of God. And they had been ",
+        "text": "with power and authority of God.",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1841/295"
+      }
+    ]
+  },
+  {
+    "book": "alma",
+    "chapter": 17,
+    "verse": 4,
+    "lines": [
+      {
+        "id": "295:22b",
+        "page": 295,
+        "line": 22,
+        "text": "And they had been ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1841/295"
       },
       {
@@ -393,14 +386,7 @@
         "id": "295:41b",
         "page": 295,
         "line": 41,
-        "text": "with their numbers which they had selected,",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1841/295"
-      },
-      {
-        "id": "295:42",
-        "page": 295,
-        "line": 42,
-        "text": "K 9 ",
+        "text": "with their numbers which they had selected, ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1841/295"
       },
       {
