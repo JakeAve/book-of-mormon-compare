@@ -3,3 +3,7 @@ export interface SecurityStore {
   setBan(ip: string): Promise<void>;
   record404(ip: string): Promise<{ hitThreshold: boolean }>;
 }
+
+export interface ReportRateStore {
+  recordReport(ip: string): Promise<{ allowed: boolean }>;
+}
