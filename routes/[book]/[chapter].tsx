@@ -17,7 +17,10 @@ import {
   chapterTitle,
   isCanonicalPair,
   loadVariantStats,
+  MAX_DESCRIPTION_LENGTH,
+  MAX_TITLE_LENGTH,
 } from "../../lib/variantStats.ts";
+import { log } from "../../lib/logger.ts";
 import { DiffPage } from "../../components/DiffPage.tsx";
 import VersionSelector from "../../islands/VersionSelector.tsx";
 import WordMatchListener from "../../islands/WordMatchListener.tsx";
@@ -95,17 +98,43 @@ export const handler = define.handlers({
 
     const genericTitle =
       `${bookName} Chapter ${chapter} — Book of Mormon Compare`;
-    const title = stats ? chapterTitle(stats, bookName) : (
-      genericTitle.length <= 60
-        ? genericTitle
-        : `${bookName} Ch. ${chapter} — Book of Mormon Compare`.slice(0, 60)
-    );
-    const description = stats
-      ? chapterDescription(stats, bookName)
-      : `Side-by-side comparison of ${v1Display} and ${v2Display}`.slice(
+    const genericDescription =
+      `Side-by-side comparison of ${v1Display} and ${v2Display}`;
+
+    let title: string;
+    if (stats) {
+      title = chapterTitle(stats, bookName);
+    } else if (genericTitle.length <= MAX_TITLE_LENGTH) {
+      title = genericTitle;
+    } else {
+      log("warn", "generic_title_truncated", {
+        book,
+        chapter,
+        length: genericTitle.length,
+        max: MAX_TITLE_LENGTH,
+      });
+      title = `${bookName} Ch. ${chapter} — Book of Mormon Compare`.slice(
         0,
-        155,
+        MAX_TITLE_LENGTH,
       );
+    }
+
+    let description: string;
+    if (stats) {
+      description = chapterDescription(stats, bookName);
+    } else {
+      if (genericDescription.length > MAX_DESCRIPTION_LENGTH) {
+        log("warn", "generic_description_truncated", {
+          book,
+          chapter,
+          v1,
+          v2,
+          length: genericDescription.length,
+          max: MAX_DESCRIPTION_LENGTH,
+        });
+      }
+      description = genericDescription.slice(0, MAX_DESCRIPTION_LENGTH);
+    }
     const summary = stats ? chapterSummarySentence(stats) : null;
 
     ctx.state.head = {

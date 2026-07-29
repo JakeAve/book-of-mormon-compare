@@ -8,8 +8,8 @@ const V1_NAME = VERSION_SHORT_NAMES[CANONICAL_V1];
 const V2_NAME = VERSION_SHORT_NAMES[CANONICAL_V2];
 
 const DEFAULT_STATS_PATH = "data/stats/variants.json";
-const MAX_TITLE_LENGTH = 60;
-const MAX_DESCRIPTION_LENGTH = 155;
+export const MAX_TITLE_LENGTH = 60;
+export const MAX_DESCRIPTION_LENGTH = 155;
 const SITE_SUFFIX = " | Book of Mormon Compare";
 
 export interface ChapterVariantStats {
