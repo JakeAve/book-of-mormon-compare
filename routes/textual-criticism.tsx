@@ -206,6 +206,17 @@ export default define.page<typeof handler>(() => {
             Grant Hardy, <em>Understanding the Book of Mormon</em>{" "}
             (Oxford UP, 2010)
           </li>
+          <li>
+            <a
+              href="https://byustudies.byu.edu/book-of-mormon-critical-text-project"
+              class="underline"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              BYU Studies — Book of Mormon Critical Text Project
+            </a>{" "}
+            — the publishing home of Skousen's critical text volumes
+          </li>
         </ul>
       </section>
 

@@ -104,6 +104,17 @@ export default define.page<typeof handler>(() => {
           Printed editions have been sourced from Joseph Smith Papers, online
           archives and their respective publishers.
         </p>
+        <p>
+          Skousen's volumes are published through{" "}
+          <a
+            href="https://byustudies.byu.edu/book-of-mormon-critical-text-project"
+            class="underline"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            BYU Studies' Book of Mormon Critical Text Project
+          </a>.
+        </p>
       </section>
 
       <section class="flex flex-col gap-3">
