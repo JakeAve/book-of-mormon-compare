@@ -199,7 +199,7 @@ export default define.page<typeof handler>(({ data }) => {
   const siteUrl = getSiteUrl();
   const jsonLd = buildBreadcrumbList([
     { name: "Home", url: `${siteUrl}/` },
-    { name: bookName, url: `${siteUrl}/${book}/1${qs}` },
+    { name: bookName, url: `${siteUrl}/${book}` },
     { name: `Chapter ${chapter}`, url: `${siteUrl}/${book}/${chapter}${qs}` },
   ]);
   return (

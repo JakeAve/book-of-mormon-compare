@@ -159,6 +159,19 @@ export function DiffPage({
                 v1={v1}
                 v2={v2}
               />
+              {book !== "title-page" && book !== "witnesses" && (
+                <a
+                  href={`/${book}`}
+                  style={{
+                    display: "block",
+                    fontSize: "0.6875rem",
+                    color: "var(--color-header-subtle)",
+                    textDecoration: "none",
+                  }}
+                >
+                  {bookName} overview
+                </a>
+              )}
             </div>
             {next
               ? (
