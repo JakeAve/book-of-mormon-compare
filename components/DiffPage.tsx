@@ -18,6 +18,7 @@ interface Props {
   v1: string;
   v2: string;
   markedVerses: Set<number> | null;
+  summary?: string;
 }
 
 function NonExtantView(
@@ -111,6 +112,7 @@ export function DiffPage({
   v1,
   v2,
   markedVerses,
+  summary,
 }: Props) {
   const qs = `?v1=${encodeURIComponent(v1)}&v2=${encodeURIComponent(v2)}`;
 
@@ -202,6 +204,23 @@ export function DiffPage({
             </div>
           </div>
         </div>
+
+        {summary && (
+          <p
+            style={{
+              fontFamily: "Georgia, serif",
+              fontSize: "0.8125rem",
+              lineHeight: 1.6,
+              color: "var(--color-verse-num)",
+              backgroundColor: "var(--color-bg)",
+              margin: 0,
+              padding: "0.625rem 1.5rem",
+              textAlign: "center",
+            }}
+          >
+            {summary}
+          </p>
+        )}
 
         {/* Reader body */}
         <div

@@ -11,6 +11,13 @@ import type { Verse } from "../../lib/data.ts";
 import { getSiteUrl } from "../../lib/config.ts";
 import { buildBreadcrumbList } from "../../lib/breadcrumbs.ts";
 import { parseMarkParam, serializeMarkParam } from "../../lib/verseMark.ts";
+import {
+  chapterDescription,
+  chapterSummarySentence,
+  chapterTitle,
+  isCanonicalPair,
+  loadVariantStats,
+} from "../../lib/variantStats.ts";
 import { DiffPage } from "../../components/DiffPage.tsx";
 import VersionSelector from "../../islands/VersionSelector.tsx";
 import WordMatchListener from "../../islands/WordMatchListener.tsx";
@@ -33,6 +40,7 @@ interface PageData {
   prev: { book: string; chapter: string } | null;
   next: { book: string; chapter: string } | null;
   markedVerses: Set<number> | null;
+  summary: string | null;
 }
 
 export const handler = define.handlers({
@@ -81,16 +89,28 @@ export const handler = define.handlers({
     const v1Display = getVersionDisplayName(v1);
     const v2Display = getVersionDisplayName(v2);
 
-    const titleBase = `${bookName} Chapter ${chapter} — Book of Mormon Compare`;
+    const stats = isCanonicalPair(v1, v2)
+      ? (await loadVariantStats()).forChapter(book, chapter)
+      : null;
+
+    const genericTitle =
+      `${bookName} Chapter ${chapter} — Book of Mormon Compare`;
+    const title = stats ? chapterTitle(stats, bookName) : (
+      genericTitle.length <= 60
+        ? genericTitle
+        : `${bookName} Ch. ${chapter} — Book of Mormon Compare`.slice(0, 60)
+    );
+    const description = stats
+      ? chapterDescription(stats, bookName)
+      : `Side-by-side comparison of ${v1Display} and ${v2Display}`.slice(
+        0,
+        155,
+      );
+    const summary = stats ? chapterSummarySentence(stats) : null;
+
     ctx.state.head = {
-      title: titleBase.length <= 60
-        ? titleBase
-        : `${bookName} Ch. ${chapter} — Book of Mormon Compare`.slice(0, 60),
-      description: `Side-by-side comparison of ${v1Display} and ${v2Display}`
-        .slice(
-          0,
-          155,
-        ),
+      title,
+      description,
       imageUrl: `${siteUrl}/og-image?book=${encodeURIComponent(book)}&chapter=${
         encodeURIComponent(chapter)
       }&v1=${encodeURIComponent(v1)}&v2=${encodeURIComponent(v2)}${
@@ -119,6 +139,7 @@ export const handler = define.handlers({
         prev: adjacent.prev,
         next: adjacent.next,
         markedVerses,
+        summary,
       } as PageData,
     };
   },
@@ -139,6 +160,7 @@ export default define.page<typeof handler>(({ data }) => {
     prev,
     next,
     markedVerses,
+    summary,
   } = data;
   const qs = `?v1=${encodeURIComponent(v1)}&v2=${encodeURIComponent(v2)}`;
   const prevHref = prev ? `/${prev.book}/${prev.chapter}${qs}` : null;
@@ -167,6 +189,7 @@ export default define.page<typeof handler>(({ data }) => {
         v1={v1}
         v2={v2}
         markedVerses={markedVerses}
+        summary={summary ?? undefined}
       />
       <WordMatchListener />
       <SelectionMenu book={book} chapter={chapter} v1={v1} v2={v2} />
