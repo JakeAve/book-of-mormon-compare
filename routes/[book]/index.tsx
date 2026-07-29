@@ -1,7 +1,11 @@
 import { HttpError } from "fresh";
 import { define } from "../../utils/state.ts";
 import { getBookDisplayName, isBookAbbr } from "../../lib/data.ts";
-import { buildChapterHref, CHAPTER_COUNTS } from "../../lib/bookChapters.ts";
+import {
+  buildChapterHref,
+  CHAPTER_COUNTS,
+  CHAPTERLESS_BOOKS,
+} from "../../lib/bookChapters.ts";
 import {
   bookDescription,
   bookIntroSentences,
@@ -13,8 +17,6 @@ import {
 import { buildBreadcrumbList } from "../../lib/breadcrumbs.ts";
 import { buildCollectionPage } from "../../lib/structuredData.ts";
 import { getSiteUrl } from "../../lib/config.ts";
-
-const CHAPTERLESS_BOOKS = new Set(["witnesses", "title-page"]);
 
 interface HubData {
   book: string;

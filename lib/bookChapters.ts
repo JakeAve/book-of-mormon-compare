@@ -20,6 +20,11 @@ export const CHAPTER_COUNTS: Record<BookAbbr, number> = {
   "moro": 10,
 };
 
+export const CHAPTERLESS_BOOKS: ReadonlySet<string> = new Set([
+  "witnesses",
+  "title-page",
+]);
+
 export function buildChapterHref(
   book: string,
   chapter: string,

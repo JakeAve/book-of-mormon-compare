@@ -1,7 +1,7 @@
 import { define } from "@/utils/state.ts";
 import { getSiteUrl } from "@/lib/config.ts";
 import { BOOK_ORDER, VERSION_ORDER } from "@/lib/data.ts";
-import { CHAPTER_COUNTS } from "@/lib/bookChapters.ts";
+import { CHAPTER_COUNTS, CHAPTERLESS_BOOKS } from "@/lib/bookChapters.ts";
 import {
   CANONICAL_V1,
   CANONICAL_V2,
@@ -9,7 +9,6 @@ import {
 } from "@/lib/variantStats.ts";
 
 const STATIC_PAGES_LASTMOD = "2026-07-29";
-const REDIRECT_ONLY_BOOKS = new Set(["witnesses", "title-page"]);
 
 function urlEntry(loc: string, lastmod: string): string {
   return `  <url><loc>${loc}</loc><lastmod>${lastmod}</lastmod></url>`;
@@ -34,7 +33,7 @@ export const handler = define.handlers({
     );
 
     const hubUrls = BOOK_ORDER
-      .filter((book) => !REDIRECT_ONLY_BOOKS.has(book))
+      .filter((book) => !CHAPTERLESS_BOOKS.has(book))
       .map((book) => urlEntry(`${base}/${book}`, dataLastmod));
 
     const chapterUrls = BOOK_ORDER.flatMap((book) =>
