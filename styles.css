@@ -131,6 +131,22 @@ body {
   padding: 0.5rem 0;
 }
 
+.chapter-nav-dialog .chapter-nav-hub-link {
+  display: block;
+  margin: 0 1rem 0.75rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 1px solid var(--color-divider);
+  font-family: system-ui, -apple-system, sans-serif;
+  font-size: 0.8125rem;
+  font-weight: 600;
+  color: var(--color-accent);
+  text-decoration: none;
+}
+
+.chapter-nav-dialog .chapter-nav-hub-link:hover {
+  text-decoration: underline;
+}
+
 .chapter-nav-dialog .chapter-nav-book-row {
   padding: 0.625rem 1rem 0.75rem;
   border-bottom: 1px solid var(--color-divider);

@@ -159,19 +159,6 @@ export function DiffPage({
                 v1={v1}
                 v2={v2}
               />
-              {book !== "title-page" && book !== "witnesses" && (
-                <a
-                  href={`/${book}`}
-                  style={{
-                    display: "block",
-                    fontSize: "0.6875rem",
-                    color: "var(--color-header-subtle)",
-                    textDecoration: "none",
-                  }}
-                >
-                  {bookName} overview
-                </a>
-              )}
             </div>
             {next
               ? (
@@ -218,23 +205,6 @@ export function DiffPage({
           </div>
         </div>
 
-        {summary && (
-          <p
-            style={{
-              fontFamily: "Georgia, serif",
-              fontSize: "0.8125rem",
-              lineHeight: 1.6,
-              color: "var(--color-text)",
-              backgroundColor: "var(--color-bg)",
-              margin: 0,
-              padding: "0.625rem 1.5rem",
-              textAlign: "center",
-            }}
-          >
-            {summary}
-          </p>
-        )}
-
         {/* Reader body */}
         <div
           data-diff-container
@@ -278,6 +248,23 @@ export function DiffPage({
               />
             )}
         </div>
+
+        {summary && (
+          <p
+            style={{
+              fontFamily: "Georgia, serif",
+              fontSize: "0.8125rem",
+              fontStyle: "italic",
+              lineHeight: 1.6,
+              color: "var(--color-text)",
+              margin: 0,
+              padding: "1rem 1.5rem 1.5rem",
+              textAlign: "center",
+            }}
+          >
+            {summary}
+          </p>
+        )}
       </div>
     </main>
   );

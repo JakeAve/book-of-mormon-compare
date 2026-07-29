@@ -15,10 +15,9 @@ function verseLabel(verse: number) {
   return verse === 0 ? "Intro" : verse;
 }
 
-// Keeps an anchored verse (e.g. `#v-30`) clear of the sticky title bar,
-// which is taller than its content suggests. Update if the header height
-// changes.
-export const VERSE_SCROLL_MARGIN_TOP = "7.25rem";
+// Keeps an anchored verse (e.g. `#v-30`) clear of the sticky title bar.
+// Update if the header height changes.
+export const VERSE_SCROLL_MARGIN_TOP = "6.1875rem";
 
 function kindStyle(kind: ManuscriptKind) {
   switch (kind) {
