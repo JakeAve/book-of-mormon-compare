@@ -8,14 +8,17 @@ import {
 } from "../../lib/bookChapters.ts";
 import {
   bookDescription,
+  bookHubTitle,
   bookIntroSentences,
   CANONICAL_V1,
   CANONICAL_V2,
   type ChapterVariantStats,
+  formatCount,
   loadVariantStats,
 } from "../../lib/variantStats.ts";
 import { buildBreadcrumbList } from "../../lib/breadcrumbs.ts";
 import { buildCollectionPage } from "../../lib/structuredData.ts";
+import { JsonLd } from "../../components/JsonLd.tsx";
 import { getSiteUrl } from "../../lib/config.ts";
 
 interface HubData {
@@ -57,7 +60,7 @@ export const handler = define.handlers({
 
     const siteUrl = getSiteUrl();
     ctx.state.head = {
-      title: `${bookName} — Textual Variants by Chapter`,
+      title: bookHubTitle(bookName),
       description,
       imageUrl: `${siteUrl}/og-default.png`,
       pageUrl: `${siteUrl}/${book}`,
@@ -95,11 +98,11 @@ export default define.page<typeof handler>(({ data }) => {
       class="flex flex-col gap-8 max-w-2xl mx-auto px-6 pt-10 pb-16 font-serif text-base leading-relaxed"
       style={{ color: "var(--color-text)" }}
     >
-      <script type="application/ld+json">{JSON.stringify(jsonLd)}</script>
+      <JsonLd data={jsonLd} />
 
       <div class="flex flex-col gap-3">
         <h1 class="text-3xl font-semibold">{bookName}</h1>
-        {intro.map((sentence) => <p key={sentence}>{sentence}</p>)}
+        {intro.map((sentence, i) => <p key={i}>{sentence}</p>)}
       </div>
 
       <section class="flex flex-col gap-3">
@@ -129,7 +132,7 @@ export default define.page<typeof handler>(({ data }) => {
                     ? "—"
                     : variantCount === 0
                     ? "no variants"
-                    : `${variantCount} ${
+                    : `${formatCount(variantCount)} ${
                       variantCount === 1 ? "variant" : "variants"
                     }`}
                 </span>

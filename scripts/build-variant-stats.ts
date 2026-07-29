@@ -2,10 +2,11 @@ import { diff, type Token } from "../lib/diff.ts";
 import { stripManuscriptMarkup } from "../lib/manuscriptMarkup.ts";
 import { BOOK_ORDER, loadChapter, type Verse } from "../lib/data.ts";
 import { CHAPTER_COUNTS } from "../lib/bookChapters.ts";
-
-export const STATS_V1 = "pm";
-export const STATS_V2 = "2013";
-export const STATS_PATH = "data/stats/variants.json";
+import {
+  CANONICAL_V1,
+  CANONICAL_V2,
+  DEFAULT_STATS_PATH,
+} from "../lib/variantStats.ts";
 
 export interface ChapterVariantStats {
   book: string;
@@ -69,8 +70,8 @@ async function main() {
   for (const book of BOOK_ORDER) {
     for (let chapter = 1; chapter <= CHAPTER_COUNTS[book]; chapter++) {
       const [verses1, verses2] = await Promise.all([
-        loadChapter(STATS_V1, book, String(chapter)),
-        loadChapter(STATS_V2, book, String(chapter)),
+        loadChapter(CANONICAL_V1, book, String(chapter)),
+        loadChapter(CANONICAL_V2, book, String(chapter)),
       ]);
       const stats = buildChapterStats(book, chapter, verses1, verses2);
       if (stats) chapters.push(stats);
@@ -79,15 +80,18 @@ async function main() {
   }
 
   const output: VariantStatsFile = {
-    pair: { v1: STATS_V1, v2: STATS_V2 },
+    pair: { v1: CANONICAL_V1, v2: CANONICAL_V2 },
     generatedAt: new Date().toISOString().slice(0, 10),
     chapters,
   };
 
   await Deno.mkdir("data/stats", { recursive: true });
-  await Deno.writeTextFile(STATS_PATH, `${JSON.stringify(output, null, 2)}\n`);
+  await Deno.writeTextFile(
+    DEFAULT_STATS_PATH,
+    `${JSON.stringify(output, null, 2)}\n`,
+  );
 
-  console.log(`Wrote ${chapters.length} chapters to ${STATS_PATH}`);
+  console.log(`Wrote ${chapters.length} chapters to ${DEFAULT_STATS_PATH}`);
   if (skipped > 0) {
     console.log(`Skipped ${skipped} chapter(s) missing one side`);
   }

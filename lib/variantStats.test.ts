@@ -1,6 +1,7 @@
 import { assertEquals } from "@std/assert";
 import {
   bookDescription,
+  bookHubTitle,
   bookIntroSentences,
   chapterDescription,
   chapterSummarySentence,
@@ -10,6 +11,7 @@ import {
   loadVariantStats,
 } from "./variantStats.ts";
 import { BOOK_ORDER, getBookDisplayName } from "./data.ts";
+import { CHAPTERLESS_BOOKS } from "./bookChapters.ts";
 
 const alma5: ChapterVariantStats = {
   book: "alma",
@@ -282,4 +284,75 @@ Deno.test("loadVariantStats reads the committed file", async () => {
   assertEquals(stats.forChapter("alma", "5")?.book, "alma");
   assertEquals(stats.forChapter("alma", 5)?.chapter, 5);
   assertEquals(stats.forChapter("no-such-book", 1), null);
+});
+
+Deno.test("loadVariantStats degrades to empty when the file's pair does not match the canonical pair", async () => {
+  const path = await Deno.makeTempFile({ suffix: ".json" });
+  try {
+    await Deno.writeTextFile(
+      path,
+      JSON.stringify({
+        pair: { v1: "om", v2: "2013" },
+        generatedAt: "2026-01-01",
+        chapters: [
+          {
+            book: "alma",
+            chapter: 5,
+            variantCount: 1,
+            changedVerseCount: 1,
+            totalVerseCount: 1,
+          },
+        ],
+      }),
+    );
+    const stats = await loadVariantStats(path);
+    assertEquals(stats.forChapter("alma", 5), null);
+    assertEquals(stats.forBook("alma"), []);
+  } finally {
+    await Deno.remove(path);
+  }
+});
+
+Deno.test("bookHubTitle stays within 60 characters and is well-formed for every hub book", () => {
+  const hubBooks = BOOK_ORDER.filter((book) => !CHAPTERLESS_BOOKS.has(book));
+  assertEquals(hubBooks.length, 15);
+  for (const book of hubBooks) {
+    const title = bookHubTitle(getBookDisplayName(book));
+    assertEquals(
+      title.length <= 60,
+      true,
+      `${book}: "${title}" (${title.length} chars)`,
+    );
+    assertEquals(
+      title.includes("Textual Variants by Chapter"),
+      true,
+      `${book}: "${title}"`,
+    );
+  }
+});
+
+Deno.test("chapterTitle stays within 60 characters and chapterDescription within 155 (ending with a period) for every real chapter", async () => {
+  const stats = await loadVariantStats();
+  for (const book of BOOK_ORDER) {
+    const bookName = getBookDisplayName(book);
+    for (const record of stats.forBook(book)) {
+      const title = chapterTitle(record, bookName);
+      assertEquals(
+        title.length <= 60,
+        true,
+        `${book}/${record.chapter}: "${title}" (${title.length} chars)`,
+      );
+      const description = chapterDescription(record, bookName);
+      assertEquals(
+        description.length <= 155,
+        true,
+        `${book}/${record.chapter}: "${description}" (${description.length} chars)`,
+      );
+      assertEquals(
+        description.endsWith("."),
+        true,
+        `${book}/${record.chapter}: "${description}"`,
+      );
+    }
+  }
 });

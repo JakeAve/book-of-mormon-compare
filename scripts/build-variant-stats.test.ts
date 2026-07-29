@@ -1,7 +1,12 @@
 import { assertEquals } from "@std/assert";
 import { buildChapterStats, countVariantRuns } from "./build-variant-stats.ts";
 import { diff } from "../lib/diff.ts";
-import type { Verse } from "../lib/data.ts";
+import { loadChapter, type Verse } from "../lib/data.ts";
+import {
+  CANONICAL_V1,
+  CANONICAL_V2,
+  loadVariantStats,
+} from "../lib/variantStats.ts";
 
 function v(chapter: number, verse: number, text: string): Verse {
   return { chapter, verse, text };
@@ -101,4 +106,27 @@ Deno.test("buildChapterStats counts unmatched verses as changed", () => {
     changedVerseCount: 1,
     totalVerseCount: 2,
   });
+});
+
+Deno.test("committed variants.json matches stats recomputed live from data/bom (stale-data guard)", async () => {
+  const stats = await loadVariantStats();
+  const samples: Array<{ book: string; chapter: number }> = [
+    { book: "jarom", chapter: 1 },
+    { book: "enos", chapter: 1 },
+    { book: "w-of-m", chapter: 1 },
+  ];
+
+  for (const { book, chapter } of samples) {
+    const [verses1, verses2] = await Promise.all([
+      loadChapter(CANONICAL_V1, book, String(chapter)),
+      loadChapter(CANONICAL_V2, book, String(chapter)),
+    ]);
+    const recomputed = buildChapterStats(book, chapter, verses1, verses2);
+    const committed = stats.forChapter(book, chapter);
+    assertEquals(
+      recomputed,
+      committed,
+      `${book}/${chapter}: committed variants.json is stale relative to data/bom`,
+    );
+  }
 });

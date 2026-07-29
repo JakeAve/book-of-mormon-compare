@@ -7,7 +7,7 @@ export const CANONICAL_V2 = "2013";
 const V1_NAME = VERSION_SHORT_NAMES[CANONICAL_V1];
 const V2_NAME = VERSION_SHORT_NAMES[CANONICAL_V2];
 
-const DEFAULT_STATS_PATH = "data/stats/variants.json";
+export const DEFAULT_STATS_PATH = "data/stats/variants.json";
 export const MAX_TITLE_LENGTH = 60;
 export const MAX_DESCRIPTION_LENGTH = 155;
 const SITE_SUFFIX = " | Book of Mormon Compare";
@@ -62,12 +62,25 @@ async function readStats(path: string): Promise<VariantStats> {
   try {
     file = JSON.parse(await Deno.readTextFile(path)) as VariantStatsFile;
   } catch (err) {
-    if (!(err instanceof Deno.errors.NotFound)) {
+    if (err instanceof Deno.errors.NotFound) {
+      log("error", "variant_stats_not_found", { path });
+    } else {
       log("error", "variant_stats_load_error", {
         path,
         error: (err as Error).message,
       });
     }
+    return EMPTY_STATS;
+  }
+
+  if (
+    file.pair.v1 !== CANONICAL_V1 || file.pair.v2 !== CANONICAL_V2
+  ) {
+    log("error", "variant_stats_pair_mismatch", {
+      path,
+      expected: { v1: CANONICAL_V1, v2: CANONICAL_V2 },
+      actual: file.pair,
+    });
     return EMPTY_STATS;
   }
 
@@ -95,12 +108,18 @@ function plural(count: number, one: string, many: string): string {
   return count === 1 ? one : many;
 }
 
-function formatCount(count: number): string {
+export function formatCount(count: number): string {
   return count.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
 }
 
 function verseLabel(count: number): string {
   return count === 1 ? "1 verse" : `${formatCount(count)} verses`;
+}
+
+export function bookHubTitle(bookName: string): string {
+  const core = `${bookName} — Textual Variants by Chapter`;
+  const full = `${core}${SITE_SUFFIX}`;
+  return full.length <= MAX_TITLE_LENGTH ? full : core;
 }
 
 export function chapterTitle(
