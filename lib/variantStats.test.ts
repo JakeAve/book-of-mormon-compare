@@ -12,9 +12,9 @@ import {
 const alma5: ChapterVariantStats = {
   book: "alma",
   chapter: 5,
-  variantCount: 37,
-  changedVerseCount: 22,
-  totalVerseCount: 62,
+  variantCount: 581,
+  changedVerseCount: 63,
+  totalVerseCount: 63,
 };
 
 const enos1: ChapterVariantStats = {
@@ -22,7 +22,7 @@ const enos1: ChapterVariantStats = {
   chapter: 1,
   variantCount: 1,
   changedVerseCount: 1,
-  totalVerseCount: 27,
+  totalVerseCount: 1,
 };
 
 const clean: ChapterVariantStats = {
@@ -42,7 +42,7 @@ Deno.test("isCanonicalPair only accepts pm vs 2013", () => {
 Deno.test("chapterTitle names the count", () => {
   assertEquals(
     chapterTitle(alma5, "Alma"),
-    "Alma 5 — 37 Textual Variants | Book of Mormon Compare",
+    "Alma 5 — 581 Textual Variants | Book of Mormon Compare",
   );
 });
 
@@ -64,7 +64,7 @@ Deno.test("chapterTitle drops the site suffix when over 60 characters", () => {
   const wOfM: ChapterVariantStats = { ...alma5, book: "w-of-m", chapter: 1 };
   assertEquals(
     chapterTitle(wOfM, "Words of Mormon"),
-    "Words of Mormon 1 — 37 Textual Variants",
+    "Words of Mormon 1 — 581 Textual Variants",
   );
 });
 
@@ -72,20 +72,20 @@ Deno.test("chapterDescription names counts and both witnesses, within 155 chars"
   const description = chapterDescription(alma5, "Alma");
   assertEquals(
     description,
-    "Alma 5 has 37 textual variants across 22 of 62 verses between the Printer's Manuscript and the 2013 Edition, including spelling and punctuation.",
+    "Alma 5 has 581 textual variants across its 63 verses between the Printer's Manuscript and the 2013 Edition, including spelling and punctuation.",
   );
   assertEquals(description.length <= 155, true);
 });
 
-Deno.test("chapterDescription keeps the qualifier when it fits", () => {
+Deno.test("chapterDescription includes the qualifier when it fits (Alma 5)", () => {
   const description = chapterDescription(alma5, "Alma");
   assertEquals(
-    description.endsWith(", including spelling and punctuation."),
+    description.includes("including spelling and punctuation."),
     true,
   );
 });
 
-Deno.test("chapterDescription drops the qualifier rather than truncate a sentence (witnesses/1-shaped)", () => {
+Deno.test("chapterDescription drops the qualifier rather than truncate a sentence (real witnesses/1 data)", () => {
   const witnesses1: ChapterVariantStats = {
     book: "witnesses",
     chapter: 1,
@@ -96,13 +96,14 @@ Deno.test("chapterDescription drops the qualifier rather than truncate a sentenc
   const description = chapterDescription(witnesses1, "Witness Testimonies");
   assertEquals(description.length <= 155, true);
   assertEquals(description.endsWith("."), true);
+  assertEquals(description.includes("including spelling"), false);
   assertEquals(
     description,
-    "Witness Testimonies 1 has 98 textual variants across 15 of 15 verses between the Printer's Manuscript and the 2013 Edition.",
+    "Witness Testimonies 1 has 98 textual variants across its 15 verses between the Printer's Manuscript and the 2013 Edition.",
   );
 });
 
-Deno.test("chapterDescription drops the qualifier rather than truncate a sentence (w-of-m/1-shaped)", () => {
+Deno.test("chapterDescription keeps the qualifier when the shorter phrasing fits (real w-of-m/1 data)", () => {
   const wOfM1: ChapterVariantStats = {
     book: "w-of-m",
     chapter: 1,
@@ -112,7 +113,10 @@ Deno.test("chapterDescription drops the qualifier rather than truncate a sentenc
   };
   const description = chapterDescription(wOfM1, "Words of Mormon");
   assertEquals(description.length <= 155, true);
-  assertEquals(description.endsWith("."), true);
+  assertEquals(
+    description,
+    "Words of Mormon 1 has 167 textual variants across its 19 verses between the Printer's Manuscript and the 2013 Edition, including spelling and punctuation.",
+  );
 });
 
 Deno.test("chapterDescription states zero plainly", () => {
@@ -125,11 +129,11 @@ Deno.test("chapterDescription states zero plainly", () => {
 Deno.test("chapterSummarySentence reads as prose", () => {
   assertEquals(
     chapterSummarySentence(alma5),
-    "37 textual variants across 22 verses between the Printer's Manuscript and the 2013 Edition, including spelling, capitalization, and punctuation.",
+    "581 textual variants across 63 verses between the Printer's Manuscript and the 2013 Edition, including spelling, capitalization, and punctuation.",
   );
   assertEquals(
     chapterSummarySentence(enos1),
-    "1 textual variant in 1 verse between the Printer's Manuscript and the 2013 Edition, including spelling, capitalization, and punctuation.",
+    "1 textual variant across 1 verse between the Printer's Manuscript and the 2013 Edition, including spelling, capitalization, and punctuation.",
   );
   assertEquals(
     chapterSummarySentence(clean),
@@ -156,7 +160,7 @@ Deno.test("bookIntroSentences derives book-specific facts from its own stats", (
   ];
   assertEquals(bookIntroSentences("Enos", chapters), [
     "Enos carries 13 textual variants across 2 chapters when the Printer's Manuscript is set against the 2013 Edition, including spelling, capitalization, and punctuation.",
-    "9 of those fall in chapter 2, the most varied chapter in the book; 9 of its 57 verses vary in total.",
+    "Chapter 2 varies most, with 9; across the book that is an average of 7 variants per chapter.",
   ]);
 });
 
@@ -173,6 +177,15 @@ Deno.test("bookIntroSentences states a variant-free book plainly", () => {
   assertEquals(bookIntroSentences("Jarom", chapters), [
     "Jarom carries no textual variants across 1 chapter when the Printer's Manuscript is set against the 2013 Edition.",
     "All 15 of its verses read identically in both witnesses.",
+  ]);
+});
+
+Deno.test("bookIntroSentences formats thousand separators using the real Alma book totals", async () => {
+  const stats = await loadVariantStats();
+  const alma = stats.forBook("alma");
+  assertEquals(bookIntroSentences("Alma", alma), [
+    "Alma carries 16,333 textual variants across 63 chapters when the Printer's Manuscript is set against the 2013 Edition, including spelling, capitalization, and punctuation.",
+    "Chapter 5 varies most, with 581; across the book that is an average of 259 variants per chapter.",
   ]);
 });
 

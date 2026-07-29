@@ -95,15 +95,23 @@ function plural(count: number, one: string, many: string): string {
   return count === 1 ? one : many;
 }
 
+function formatCount(count: number): string {
+  return count.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+}
+
+function verseLabel(count: number): string {
+  return count === 1 ? "1 verse" : `${formatCount(count)} verses`;
+}
+
 export function chapterTitle(
   stats: ChapterVariantStats,
   bookName: string,
 ): string {
   const core = stats.variantCount === 0
     ? `${bookName} ${stats.chapter} — No Textual Variants`
-    : `${bookName} ${stats.chapter} — ${stats.variantCount} Textual ${
-      plural(stats.variantCount, "Variant", "Variants")
-    }`;
+    : `${bookName} ${stats.chapter} — ${
+      formatCount(stats.variantCount)
+    } Textual ${plural(stats.variantCount, "Variant", "Variants")}`;
   const full = `${core}${SITE_SUFFIX}`;
   return full.length <= MAX_TITLE_LENGTH ? full : core;
 }
@@ -113,10 +121,14 @@ export function chapterDescription(
   bookName: string,
 ): string {
   const body = stats.variantCount === 0
-    ? `${bookName} ${stats.chapter} has no textual variants between the ${V1_NAME} and the ${V2_NAME} across its ${stats.totalVerseCount} verses.`
-    : `${bookName} ${stats.chapter} has ${stats.variantCount} textual ${
-      plural(stats.variantCount, "variant", "variants")
-    } across ${stats.changedVerseCount} of ${stats.totalVerseCount} verses between the ${V1_NAME} and the ${V2_NAME}.`;
+    ? `${bookName} ${stats.chapter} has no textual variants between the ${V1_NAME} and the ${V2_NAME} across its ${
+      verseLabel(stats.totalVerseCount)
+    }.`
+    : `${bookName} ${stats.chapter} has ${
+      formatCount(stats.variantCount)
+    } textual ${plural(stats.variantCount, "variant", "variants")} across its ${
+      verseLabel(stats.totalVerseCount)
+    } between the ${V1_NAME} and the ${V2_NAME}.`;
   const qualified = `${body.slice(0, -1)}, including spelling and punctuation.`;
   return qualified.length <= MAX_DESCRIPTION_LENGTH ? qualified : body;
 }
@@ -125,13 +137,12 @@ export function chapterSummarySentence(stats: ChapterVariantStats): string {
   if (stats.variantCount === 0) {
     return `No textual variants between the ${V1_NAME} and the ${V2_NAME} in this chapter.`;
   }
-  const variants = `${stats.variantCount} ${
+  const variants = `${formatCount(stats.variantCount)} ${
     plural(stats.variantCount, "textual variant", "textual variants")
   }`;
-  const scope = stats.changedVerseCount === 1
-    ? "in 1 verse"
-    : `across ${stats.changedVerseCount} verses`;
-  return `${variants} ${scope} between the ${V1_NAME} and the ${V2_NAME}, including spelling, capitalization, and punctuation.`;
+  return `${variants} across ${
+    verseLabel(stats.totalVerseCount)
+  } between the ${V1_NAME} and the ${V2_NAME}, including spelling, capitalization, and punctuation.`;
 }
 
 export function bookIntroSentences(
@@ -140,26 +151,32 @@ export function bookIntroSentences(
 ): string[] {
   const totalVariants = chapters.reduce((n, c) => n + c.variantCount, 0);
   const totalVerses = chapters.reduce((n, c) => n + c.totalVerseCount, 0);
-  const changedVerses = chapters.reduce((n, c) => n + c.changedVerseCount, 0);
-  const chapterLabel = `${chapters.length} ${
+  const chapterLabel = `${formatCount(chapters.length)} ${
     plural(chapters.length, "chapter", "chapters")
   }`;
 
   if (totalVariants === 0) {
     return [
       `${bookName} carries no textual variants across ${chapterLabel} when the ${V1_NAME} is set against the ${V2_NAME}.`,
-      `All ${totalVerses} of its verses read identically in both witnesses.`,
+      `All ${
+        formatCount(totalVerses)
+      } of its verses read identically in both witnesses.`,
     ];
   }
 
   const busiest = chapters.reduce((a, b) =>
     b.variantCount > a.variantCount ? b : a
   );
+  const average = Math.round(totalVariants / chapters.length);
 
   return [
-    `${bookName} carries ${totalVariants} textual ${
+    `${bookName} carries ${formatCount(totalVariants)} textual ${
       plural(totalVariants, "variant", "variants")
     } across ${chapterLabel} when the ${V1_NAME} is set against the ${V2_NAME}, including spelling, capitalization, and punctuation.`,
-    `${busiest.variantCount} of those fall in chapter ${busiest.chapter}, the most varied chapter in the book; ${changedVerses} of its ${totalVerses} verses vary in total.`,
+    `Chapter ${busiest.chapter} varies most, with ${
+      formatCount(busiest.variantCount)
+    }; across the book that is an average of ${
+      formatCount(average)
+    } variants per chapter.`,
   ];
 }
