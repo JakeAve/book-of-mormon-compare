@@ -9,6 +9,7 @@ const V2_NAME = VERSION_SHORT_NAMES[CANONICAL_V2];
 
 const DEFAULT_STATS_PATH = "data/stats/variants.json";
 const MAX_TITLE_LENGTH = 60;
+const MAX_DESCRIPTION_LENGTH = 155;
 const SITE_SUFFIX = " | Book of Mormon Compare";
 
 export interface ChapterVariantStats {
@@ -116,7 +117,8 @@ export function chapterDescription(
     : `${bookName} ${stats.chapter} has ${stats.variantCount} textual ${
       plural(stats.variantCount, "difference", "differences")
     } across ${stats.changedVerseCount} of ${stats.totalVerseCount} verses between the ${V1_NAME} and the ${V2_NAME}.`;
-  return `${body} Compare both witnesses word by word.`.slice(0, 155);
+  const withTag = `${body} Compare both witnesses word by word.`;
+  return withTag.length <= MAX_DESCRIPTION_LENGTH ? withTag : body;
 }
 
 export function chapterSummarySentence(stats: ChapterVariantStats): string {

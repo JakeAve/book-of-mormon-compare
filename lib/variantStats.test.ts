@@ -77,6 +77,40 @@ Deno.test("chapterDescription names counts and both witnesses, within 155 chars"
   assertEquals(description.length <= 155, true);
 });
 
+Deno.test("chapterDescription keeps the tag line when it fits", () => {
+  const description = chapterDescription(alma5, "Alma");
+  assertEquals(
+    description.endsWith("Compare both witnesses word by word."),
+    true,
+  );
+});
+
+Deno.test("chapterDescription drops the tag line rather than truncate a sentence (witnesses/1-shaped)", () => {
+  const witnesses1: ChapterVariantStats = {
+    book: "witnesses",
+    chapter: 1,
+    variantCount: 98,
+    changedVerseCount: 15,
+    totalVerseCount: 15,
+  };
+  const description = chapterDescription(witnesses1, "Witness Testimonies");
+  assertEquals(description.length <= 155, true);
+  assertEquals(description.endsWith("."), true);
+});
+
+Deno.test("chapterDescription drops the tag line rather than truncate a sentence (w-of-m/1-shaped)", () => {
+  const wOfM1: ChapterVariantStats = {
+    book: "w-of-m",
+    chapter: 1,
+    variantCount: 167,
+    changedVerseCount: 19,
+    totalVerseCount: 19,
+  };
+  const description = chapterDescription(wOfM1, "Words of Mormon");
+  assertEquals(description.length <= 155, true);
+  assertEquals(description.endsWith("."), true);
+});
+
 Deno.test("chapterDescription states zero plainly", () => {
   assertEquals(
     chapterDescription(clean, "Jarom"),
