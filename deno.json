@@ -13,6 +13,7 @@
     "preview": "deno task build && deno task start",
     "start": "deno serve --env-file -A _fresh/server.js",
     "update": "deno run -A -r jsr:@fresh/update .",
+    "build:stats": "deno run -A scripts/build-variant-stats.ts",
     "align:pm": "deno run -A scripts/align-source.ts pm",
     "align:om": "deno run -A scripts/align-source.ts om",
     "align:1830": "deno run -A scripts/align-source.ts 1830",
