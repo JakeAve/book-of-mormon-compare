@@ -1,6 +1,7 @@
 import { define } from "@/utils/state.ts";
 import { getSiteUrl } from "@/lib/config.ts";
 import { buildBreadcrumbList } from "@/lib/breadcrumbs.ts";
+import { buildArticle } from "@/lib/structuredData.ts";
 
 export const handler = define.handlers({
   GET(ctx) {
@@ -19,10 +20,26 @@ export const handler = define.handlers({
 
 export default define.page<typeof handler>(() => {
   const siteUrl = getSiteUrl();
-  const jsonLd = buildBreadcrumbList([
+  const breadcrumb = buildBreadcrumbList([
     { name: "Home", url: `${siteUrl}/` },
     { name: "Textual Criticism", url: `${siteUrl}/textual-criticism` },
   ]);
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@graph": [
+      buildArticle({
+        headline: "Textual Criticism of the Book of Mormon",
+        description:
+          "How manuscript and print witnesses to the Book of Mormon are compared, and what the surviving evidence shows.",
+        url: `${siteUrl}/textual-criticism`,
+        siteUrl,
+      }),
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": breadcrumb.itemListElement,
+      },
+    ],
+  };
 
   return (
     <main

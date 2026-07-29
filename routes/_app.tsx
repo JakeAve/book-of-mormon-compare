@@ -1,6 +1,10 @@
 import type { PageProps } from "fresh";
 import type { State } from "@/utils/state.ts";
 import { getSiteUrl } from "@/lib/config.ts";
+import {
+  buildOrganization,
+  buildWebApplication,
+} from "@/lib/structuredData.ts";
 import Footer from "@/components/Footer.tsx";
 import Header from "@/components/Header.tsx";
 import ScrollRestorer from "@/islands/ScrollRestorer.tsx";
@@ -18,6 +22,10 @@ export default function App(
   const imageUrl = head?.imageUrl ?? `${siteUrl}/og-default.png`;
   const pageUrl = head?.pageUrl ?? new URL(url.pathname, siteUrl).href;
   const isChapterPage = /^\/[^/]+\/[^/]+/.test(url.pathname);
+  const siteJsonLd = {
+    "@context": "https://schema.org",
+    "@graph": [buildOrganization(siteUrl), buildWebApplication(siteUrl)],
+  };
 
   return (
     <html lang="en">
@@ -46,6 +54,7 @@ export default function App(
             href={head.canonicalUrl}
           />
         )}
+        <script type="application/ld+json">{JSON.stringify(siteJsonLd)}</script>
       </head>
       <body
         class="flex flex-col min-h-screen"
