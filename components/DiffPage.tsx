@@ -224,7 +224,7 @@ export function DiffPage({
               fontFamily: "Georgia, serif",
               fontSize: "0.8125rem",
               lineHeight: 1.6,
-              color: "var(--color-verse-num)",
+              color: "var(--color-text)",
               backgroundColor: "var(--color-bg)",
               margin: 0,
               padding: "0.625rem 1.5rem",

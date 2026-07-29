@@ -121,12 +121,12 @@ export default define.page<typeof handler>(({ data }) => {
                   CANONICAL_V1,
                   CANONICAL_V2,
                 )}
-                class="flex items-baseline justify-between gap-4 underline"
+                class="flex items-baseline justify-between gap-4"
               >
-                <span>{bookName} {chapter}</span>
+                <span class="underline">{bookName} {chapter}</span>
                 <span
-                  class="text-sm no-underline"
-                  style={{ color: "var(--color-verse-num)" }}
+                  class="text-sm"
+                  style={{ color: "var(--color-text)" }}
                 >
                   {variantCount === null
                     ? "—"
