@@ -1,6 +1,6 @@
 import type { ComponentChildren } from "preact";
 import type { Verse } from "../lib/data.ts";
-import { Diff } from "./Diff.tsx";
+import { Diff, VERSE_SCROLL_MARGIN_TOP } from "./Diff.tsx";
 import ChapterNavDialog from "../islands/ChapterNavDialog.tsx";
 
 interface Props {
@@ -48,7 +48,7 @@ function renderCell(
     paddingTop: "0.5rem",
     paddingBottom: "0.5rem",
     margin: "0",
-    scrollMarginTop: "6rem",
+    scrollMarginTop: VERSE_SCROLL_MARGIN_TOP,
   };
   if (!verse) {
     if (row !== 1) {
