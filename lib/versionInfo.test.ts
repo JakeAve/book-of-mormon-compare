@@ -1,5 +1,9 @@
 import { assertEquals } from "@std/assert";
-import { getVersionInfo, VERSION_INFO } from "./versionInfo.ts";
+import {
+  getVersionInfo,
+  VERSION_INFO,
+  versionPageTitle,
+} from "./versionInfo.ts";
 import { VERSION_DISPLAY_NAMES, VERSION_ORDER } from "./data.ts";
 
 Deno.test("every version in VERSION_ORDER has info", () => {
@@ -27,4 +31,22 @@ Deno.test("summaries are distinct", () => {
 Deno.test("getVersionInfo rejects unknown keys", () => {
   assertEquals(getVersionInfo("om")?.key, "om");
   assertEquals(getVersionInfo("1611"), null);
+});
+
+Deno.test("versionPageTitle never truncates mid-word", () => {
+  for (const key of VERSION_ORDER) {
+    const info = VERSION_INFO[key];
+    const title = versionPageTitle(info);
+    const candidates = [
+      `${info.name} — Book of Mormon Compare`,
+      `${info.shortName} — Book of Mormon Compare`,
+      info.shortName,
+    ];
+    assertEquals(title.length <= 70, true, `title too long for ${key}`);
+    assertEquals(
+      candidates.includes(title),
+      true,
+      `title for ${key} is not one of the well-formed candidates: ${title}`,
+    );
+  }
 });

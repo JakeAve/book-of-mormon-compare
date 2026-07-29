@@ -35,7 +35,7 @@ export const VERSION_INFO: Record<string, VersionInfo> = {
   ),
   "1830": info(
     "1830",
-    "Typeset by E.B. Grandin in Palmyra, New York. No versification; the text runs in large narrative chapters, with a fresh layer of compositor variation.",
+    "Published by E.B. Grandin in Palmyra, New York. No versification; the text runs in large narrative chapters, with a fresh layer of compositor variation.",
     "/1-ne/1?v1=1830&v2=2013",
   ),
   "1837": info(
@@ -62,4 +62,17 @@ export const VERSION_INFO: Record<string, VersionInfo> = {
 
 export function getVersionInfo(key: string): VersionInfo | null {
   return VERSION_INFO[key] ?? null;
+}
+
+const TITLE_MAX_LENGTH = 70;
+const TITLE_SUFFIX = " — Book of Mormon Compare";
+
+export function versionPageTitle(info: VersionInfo): string {
+  const full = `${info.name}${TITLE_SUFFIX}`;
+  if (full.length <= TITLE_MAX_LENGTH) return full;
+
+  const short = `${info.shortName}${TITLE_SUFFIX}`;
+  if (short.length <= TITLE_MAX_LENGTH) return short;
+
+  return info.shortName;
 }

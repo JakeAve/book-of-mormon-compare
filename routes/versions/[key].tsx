@@ -3,7 +3,11 @@ import { define } from "@/utils/state.ts";
 import { getSiteUrl } from "@/lib/config.ts";
 import { buildBreadcrumbList } from "@/lib/breadcrumbs.ts";
 import { buildArticle } from "@/lib/structuredData.ts";
-import { getVersionInfo, type VersionInfo } from "@/lib/versionInfo.ts";
+import {
+  getVersionInfo,
+  type VersionInfo,
+  versionPageTitle,
+} from "@/lib/versionInfo.ts";
 import { VERSION_PROSE } from "@/components/versions/VersionProse.tsx";
 
 export const handler = define.handlers({
@@ -13,7 +17,7 @@ export const handler = define.handlers({
 
     const siteUrl = getSiteUrl();
     ctx.state.head = {
-      title: `${info.name} — Book of Mormon Compare`.slice(0, 70),
+      title: versionPageTitle(info),
       description: info.summary,
       imageUrl: `${siteUrl}/og-default.png`,
       pageUrl: `${siteUrl}/versions/${info.key}`,
