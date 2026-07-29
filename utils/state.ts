@@ -11,6 +11,7 @@ export interface HeadMeta {
 export interface State {
   versions: string[];
   head?: HeadMeta;
+  showTutorial?: boolean;
 }
 
 export const define = createDefine<State>();

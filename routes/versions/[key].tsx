@@ -3,6 +3,7 @@ import { define } from "@/utils/state.ts";
 import { getSiteUrl } from "@/lib/config.ts";
 import { buildBreadcrumbList } from "@/lib/breadcrumbs.ts";
 import { buildArticle } from "@/lib/structuredData.ts";
+import { JsonLd } from "@/components/JsonLd.tsx";
 import {
   getVersionInfo,
   type VersionInfo,
@@ -58,7 +59,7 @@ export default define.page<typeof handler>(({ data }) => {
       class="flex flex-col gap-6 max-w-2xl mx-auto px-6 pt-10 pb-16 font-serif text-base leading-relaxed"
       style={{ color: "var(--color-text)" }}
     >
-      <script type="application/ld+json">{JSON.stringify(jsonLd)}</script>
+      <JsonLd data={jsonLd} />
       <h1 class="text-3xl font-semibold">{info.name}</h1>
       <Prose />
       <p>

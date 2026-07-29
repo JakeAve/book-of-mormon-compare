@@ -2,6 +2,7 @@ import { define } from "@/utils/state.ts";
 import { getSiteUrl } from "@/lib/config.ts";
 import { getVersionDisplayName, loadChapter } from "@/lib/data.ts";
 import { stripManuscriptMarkup } from "@/lib/manuscriptMarkup.ts";
+import { JsonLd } from "@/components/JsonLd.tsx";
 import Hero from "@/components/landing/Hero.tsx";
 import Specimen from "@/components/landing/Specimen.tsx";
 import Divider from "@/components/landing/Divider.tsx";
@@ -75,7 +76,7 @@ export default define.page<typeof handler>(({ data }) => {
 
   return (
     <main class="flex flex-col">
-      <script type="application/ld+json">{JSON.stringify(jsonLd)}</script>
+      <JsonLd data={jsonLd} />
       <Hero />
       <Divider />
       <Specimen

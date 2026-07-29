@@ -3690,6 +3690,7 @@
       "npm:@tailwindcss/vite@^4.1.12",
       "npm:@types/babel__core@^7.20.5",
       "npm:@types/node@22",
+      "npm:preact-render-to-string@^6.6.3",
       "npm:preact@^10.29.1",
       "npm:tailwindcss@^4.1.10",
       "npm:vite-plugin-pwa@~0.21.1",

@@ -22,6 +22,7 @@ import {
 } from "../../lib/variantStats.ts";
 import { log } from "../../lib/logger.ts";
 import { DiffPage } from "../../components/DiffPage.tsx";
+import { JsonLd } from "../../components/JsonLd.tsx";
 import VersionSelector from "../../islands/VersionSelector.tsx";
 import WordMatchListener from "../../islands/WordMatchListener.tsx";
 import SelectionMenu from "../../islands/SelectionMenu.tsx";
@@ -137,6 +138,7 @@ export const handler = define.handlers({
     }
     const summary = stats ? chapterSummarySentence(stats) : null;
 
+    ctx.state.showTutorial = true;
     ctx.state.head = {
       title,
       description,
@@ -202,7 +204,7 @@ export default define.page<typeof handler>(({ data }) => {
   ]);
   return (
     <>
-      <script type="application/ld+json">{JSON.stringify(jsonLd)}</script>
+      <JsonLd data={jsonLd} />
       <DiffPage
         verses1={verses1}
         verses2={verses2}
