@@ -40,7 +40,7 @@ Deno.test("buildDataset reports the corpus size", () => {
   assertEquals(result["url"], `${SITE}/versions`);
   assertEquals(
     result["description"],
-    "Verse-level transcriptions of 7 Book of Mormon witnesses across 241 chapters, aligned for side-by-side comparison.",
+    "Verse-level transcriptions of 7 Book of Mormon witnesses spanning up to 241 chapters, aligned for side-by-side comparison.",
   );
 });
 

@@ -34,7 +34,7 @@ export function buildDataset(
     "name": "Book of Mormon textual witnesses",
     "url": `${input.siteUrl}/versions`,
     "description":
-      `Verse-level transcriptions of ${input.versionCount} Book of Mormon witnesses across ${input.chapterCount} chapters, aligned for side-by-side comparison.`,
+      `Verse-level transcriptions of ${input.versionCount} Book of Mormon witnesses spanning up to ${input.chapterCount} chapters, aligned for side-by-side comparison.`,
     "creator": buildOrganization(input.siteUrl),
     "isAccessibleForFree": true,
   };
