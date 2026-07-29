@@ -164,6 +164,22 @@ Deno.test("bookIntroSentences derives book-specific facts from its own stats", (
   ]);
 });
 
+Deno.test("bookIntroSentences uses a per-verse average for single-chapter books", () => {
+  const chapters: ChapterVariantStats[] = [
+    {
+      book: "enos",
+      chapter: 1,
+      variantCount: 231,
+      changedVerseCount: 28,
+      totalVerseCount: 28,
+    },
+  ];
+  assertEquals(bookIntroSentences("Enos", chapters), [
+    "Enos carries 231 textual variants across 1 chapter when the Printer's Manuscript is set against the 2013 Edition, including spelling, capitalization, and punctuation.",
+    "Its 28 verses carry an average of 8 variants each.",
+  ]);
+});
+
 Deno.test("bookIntroSentences states a variant-free book plainly", () => {
   const chapters: ChapterVariantStats[] = [
     {

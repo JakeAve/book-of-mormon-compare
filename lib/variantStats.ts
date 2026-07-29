@@ -164,15 +164,29 @@ export function bookIntroSentences(
     ];
   }
 
+  const firstSentence = `${bookName} carries ${
+    formatCount(totalVariants)
+  } textual ${
+    plural(totalVariants, "variant", "variants")
+  } across ${chapterLabel} when the ${V1_NAME} is set against the ${V2_NAME}, including spelling, capitalization, and punctuation.`;
+
+  if (chapters.length === 1) {
+    const perVerseAverage = Math.round(totalVariants / totalVerses);
+    return [
+      firstSentence,
+      `Its ${formatCount(totalVerses)} verses carry an average of ${
+        formatCount(perVerseAverage)
+      } variants each.`,
+    ];
+  }
+
   const busiest = chapters.reduce((a, b) =>
     b.variantCount > a.variantCount ? b : a
   );
   const average = Math.round(totalVariants / chapters.length);
 
   return [
-    `${bookName} carries ${formatCount(totalVariants)} textual ${
-      plural(totalVariants, "variant", "variants")
-    } across ${chapterLabel} when the ${V1_NAME} is set against the ${V2_NAME}, including spelling, capitalization, and punctuation.`,
+    firstSentence,
     `Chapter ${busiest.chapter} varies most, with ${
       formatCount(busiest.variantCount)
     }; across the book that is an average of ${
