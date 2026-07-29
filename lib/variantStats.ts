@@ -145,6 +145,32 @@ export function chapterSummarySentence(stats: ChapterVariantStats): string {
   } between the ${V1_NAME} and the ${V2_NAME}, including spelling, capitalization, and punctuation.`;
 }
 
+export function bookDescription(
+  bookName: string,
+  chapters: ChapterVariantStats[],
+): string {
+  const totalVariants = chapters.reduce((n, c) => n + c.variantCount, 0);
+  const chapterLabel = `${formatCount(chapters.length)} ${
+    plural(chapters.length, "chapter", "chapters")
+  }`;
+
+  if (totalVariants === 0) {
+    const body =
+      `${bookName} has no textual variants between the ${V1_NAME} and the ${V2_NAME} across its ${chapterLabel}.`;
+    if (body.length <= MAX_DESCRIPTION_LENGTH) return body;
+    return `${bookName} has no textual variants across its ${chapterLabel}.`;
+  }
+
+  const full = `${bookName} has ${formatCount(totalVariants)} textual ${
+    plural(totalVariants, "variant", "variants")
+  } across ${chapterLabel}, compared verse by verse between the ${V1_NAME} and the ${V2_NAME}.`;
+  if (full.length <= MAX_DESCRIPTION_LENGTH) return full;
+
+  return `${bookName} has ${formatCount(totalVariants)} textual ${
+    plural(totalVariants, "variant", "variants")
+  } across ${chapterLabel}.`;
+}
+
 export function bookIntroSentences(
   bookName: string,
   chapters: ChapterVariantStats[],

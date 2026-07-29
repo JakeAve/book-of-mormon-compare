@@ -3,6 +3,7 @@ import { define } from "../../utils/state.ts";
 import { getBookDisplayName, isBookAbbr } from "../../lib/data.ts";
 import { buildChapterHref, CHAPTER_COUNTS } from "../../lib/bookChapters.ts";
 import {
+  bookDescription,
   bookIntroSentences,
   CANONICAL_V1,
   CANONICAL_V2,
@@ -43,14 +44,19 @@ export const handler = define.handlers({
       }),
     );
 
-    const intro = records.length > 0 ? bookIntroSentences(bookName, records) : [
-      `${bookName} is available for side-by-side comparison across every witness in the collection.`,
-    ];
+    const fallbackDescription =
+      `${bookName} is available for side-by-side comparison across every witness in the collection.`;
+    const intro = records.length > 0
+      ? bookIntroSentences(bookName, records)
+      : [fallbackDescription];
+    const description = records.length > 0
+      ? bookDescription(bookName, records)
+      : fallbackDescription;
 
     const siteUrl = getSiteUrl();
     ctx.state.head = {
       title: `${bookName} — Textual Variants by Chapter`,
-      description: intro[0].slice(0, 155),
+      description,
       imageUrl: `${siteUrl}/og-default.png`,
       pageUrl: `${siteUrl}/${book}`,
       canonicalUrl: `${siteUrl}/${book}`,

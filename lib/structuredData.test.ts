@@ -64,13 +64,13 @@ Deno.test("buildCollectionPage carries name, description and url", () => {
   assertEquals(
     buildCollectionPage({
       name: "Alma",
-      description: "Alma carries 900 textual differences.",
+      description: "Alma carries 900 textual variants.",
       url: `${SITE}/alma`,
     }),
     {
       "@type": "CollectionPage",
       "name": "Alma",
-      "description": "Alma carries 900 textual differences.",
+      "description": "Alma carries 900 textual variants.",
       "url": `${SITE}/alma`,
     },
   );

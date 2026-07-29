@@ -1,5 +1,6 @@
 import { assertEquals } from "@std/assert";
 import {
+  bookDescription,
   bookIntroSentences,
   chapterDescription,
   chapterSummarySentence,
@@ -8,6 +9,7 @@ import {
   isCanonicalPair,
   loadVariantStats,
 } from "./variantStats.ts";
+import { BOOK_ORDER, getBookDisplayName } from "./data.ts";
 
 const alma5: ChapterVariantStats = {
   book: "alma",
@@ -203,6 +205,68 @@ Deno.test("bookIntroSentences formats thousand separators using the real Alma bo
     "Alma carries 16,333 textual variants across 63 chapters when the Printer's Manuscript is set against the 2013 Edition, including spelling, capitalization, and punctuation.",
     "Chapter 5 varies most, with 581; across the book that is an average of 259 variants per chapter.",
   ]);
+});
+
+Deno.test("bookDescription reports totals compared verse by verse (real Alma book totals)", async () => {
+  const stats = await loadVariantStats();
+  const alma = stats.forBook("alma");
+  assertEquals(
+    bookDescription("Alma", alma),
+    "Alma has 16,333 textual variants across 63 chapters, compared verse by verse between the Printer's Manuscript and the 2013 Edition.",
+  );
+});
+
+Deno.test("bookDescription states a variant-free book plainly", () => {
+  const chapters: ChapterVariantStats[] = [
+    {
+      book: "jarom",
+      chapter: 1,
+      variantCount: 0,
+      changedVerseCount: 0,
+      totalVerseCount: 15,
+    },
+  ];
+  assertEquals(
+    bookDescription("Jarom", chapters),
+    "Jarom has no textual variants between the Printer's Manuscript and the 2013 Edition across its 1 chapter.",
+  );
+});
+
+Deno.test("bookDescription uses the singular for a single-chapter book", () => {
+  const chapters: ChapterVariantStats[] = [
+    {
+      book: "enos",
+      chapter: 1,
+      variantCount: 231,
+      changedVerseCount: 28,
+      totalVerseCount: 28,
+    },
+  ];
+  assertEquals(
+    bookDescription("Enos", chapters),
+    "Enos has 231 textual variants across 1 chapter, compared verse by verse between the Printer's Manuscript and the 2013 Edition.",
+  );
+});
+
+Deno.test("bookDescription stays within 155 characters and ends with a period for every real book", async () => {
+  const stats = await loadVariantStats();
+  const realBooks = BOOK_ORDER.filter((book) =>
+    book !== "witnesses" && book !== "title-page"
+  );
+  for (const book of realBooks) {
+    const chapters = stats.forBook(book);
+    const description = bookDescription(getBookDisplayName(book), chapters);
+    assertEquals(
+      description.length <= 155,
+      true,
+      `${book}: "${description}" (${description.length} chars)`,
+    );
+    assertEquals(
+      description.endsWith("."),
+      true,
+      `${book}: "${description}"`,
+    );
+  }
 });
 
 Deno.test("loadVariantStats degrades to empty when the file is missing", async () => {
