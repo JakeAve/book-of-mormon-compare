@@ -42,21 +42,21 @@ Deno.test("isCanonicalPair only accepts pm vs 2013", () => {
 Deno.test("chapterTitle names the count", () => {
   assertEquals(
     chapterTitle(alma5, "Alma"),
-    "Alma 5 — 37 Textual Differences | Book of Mormon Compare",
+    "Alma 5 — 37 Textual Variants | Book of Mormon Compare",
   );
 });
 
-Deno.test("chapterTitle uses the singular for one difference", () => {
+Deno.test("chapterTitle uses the singular for one variant", () => {
   assertEquals(
     chapterTitle(enos1, "Enos"),
-    "Enos 1 — 1 Textual Difference | Book of Mormon Compare",
+    "Enos 1 — 1 Textual Variant | Book of Mormon Compare",
   );
 });
 
 Deno.test("chapterTitle states zero plainly", () => {
   assertEquals(
     chapterTitle(clean, "Jarom"),
-    "Jarom 1 — No Textual Differences | Book of Mormon Compare",
+    "Jarom 1 — No Textual Variants | Book of Mormon Compare",
   );
 });
 
@@ -64,7 +64,7 @@ Deno.test("chapterTitle drops the site suffix when over 60 characters", () => {
   const wOfM: ChapterVariantStats = { ...alma5, book: "w-of-m", chapter: 1 };
   assertEquals(
     chapterTitle(wOfM, "Words of Mormon"),
-    "Words of Mormon 1 — 37 Textual Differences",
+    "Words of Mormon 1 — 37 Textual Variants",
   );
 });
 
@@ -72,20 +72,20 @@ Deno.test("chapterDescription names counts and both witnesses, within 155 chars"
   const description = chapterDescription(alma5, "Alma");
   assertEquals(
     description,
-    "Alma 5 has 37 textual differences across 22 of 62 verses between the Printer's Manuscript and the 2013 Edition. Compare both witnesses word by word.",
+    "Alma 5 has 37 textual variants across 22 of 62 verses between the Printer's Manuscript and the 2013 Edition, including spelling and punctuation.",
   );
   assertEquals(description.length <= 155, true);
 });
 
-Deno.test("chapterDescription keeps the tag line when it fits", () => {
+Deno.test("chapterDescription keeps the qualifier when it fits", () => {
   const description = chapterDescription(alma5, "Alma");
   assertEquals(
-    description.endsWith("Compare both witnesses word by word."),
+    description.endsWith(", including spelling and punctuation."),
     true,
   );
 });
 
-Deno.test("chapterDescription drops the tag line rather than truncate a sentence (witnesses/1-shaped)", () => {
+Deno.test("chapterDescription drops the qualifier rather than truncate a sentence (witnesses/1-shaped)", () => {
   const witnesses1: ChapterVariantStats = {
     book: "witnesses",
     chapter: 1,
@@ -96,9 +96,13 @@ Deno.test("chapterDescription drops the tag line rather than truncate a sentence
   const description = chapterDescription(witnesses1, "Witness Testimonies");
   assertEquals(description.length <= 155, true);
   assertEquals(description.endsWith("."), true);
+  assertEquals(
+    description,
+    "Witness Testimonies 1 has 98 textual variants across 15 of 15 verses between the Printer's Manuscript and the 2013 Edition.",
+  );
 });
 
-Deno.test("chapterDescription drops the tag line rather than truncate a sentence (w-of-m/1-shaped)", () => {
+Deno.test("chapterDescription drops the qualifier rather than truncate a sentence (w-of-m/1-shaped)", () => {
   const wOfM1: ChapterVariantStats = {
     book: "w-of-m",
     chapter: 1,
@@ -114,22 +118,22 @@ Deno.test("chapterDescription drops the tag line rather than truncate a sentence
 Deno.test("chapterDescription states zero plainly", () => {
   assertEquals(
     chapterDescription(clean, "Jarom"),
-    "Jarom 1 has no textual differences between the Printer's Manuscript and the 2013 Edition across its 15 verses. Compare both witnesses word by word.",
+    "Jarom 1 has no textual variants between the Printer's Manuscript and the 2013 Edition across its 15 verses, including spelling and punctuation.",
   );
 });
 
 Deno.test("chapterSummarySentence reads as prose", () => {
   assertEquals(
     chapterSummarySentence(alma5),
-    "37 differences across 22 verses between the Printer's Manuscript and the 2013 Edition.",
+    "37 textual variants across 22 verses between the Printer's Manuscript and the 2013 Edition, including spelling, capitalization, and punctuation.",
   );
   assertEquals(
     chapterSummarySentence(enos1),
-    "1 difference in 1 verse between the Printer's Manuscript and the 2013 Edition.",
+    "1 textual variant in 1 verse between the Printer's Manuscript and the 2013 Edition, including spelling, capitalization, and punctuation.",
   );
   assertEquals(
     chapterSummarySentence(clean),
-    "No textual differences between the Printer's Manuscript and the 2013 Edition in this chapter.",
+    "No textual variants between the Printer's Manuscript and the 2013 Edition in this chapter.",
   );
 });
 
@@ -151,8 +155,8 @@ Deno.test("bookIntroSentences derives book-specific facts from its own stats", (
     },
   ];
   assertEquals(bookIntroSentences("Enos", chapters), [
-    "Enos carries 13 textual differences across 2 chapters when the Printer's Manuscript is set against the 2013 Edition.",
-    "9 of those fall in chapter 2, the most varied chapter in the book; 9 of its 57 verses differ in total.",
+    "Enos carries 13 textual variants across 2 chapters when the Printer's Manuscript is set against the 2013 Edition, including spelling, capitalization, and punctuation.",
+    "9 of those fall in chapter 2, the most varied chapter in the book; 9 of its 57 verses vary in total.",
   ]);
 });
 
@@ -167,7 +171,7 @@ Deno.test("bookIntroSentences states a variant-free book plainly", () => {
     },
   ];
   assertEquals(bookIntroSentences("Jarom", chapters), [
-    "Jarom carries no textual differences across 1 chapter when the Printer's Manuscript is set against the 2013 Edition.",
+    "Jarom carries no textual variants across 1 chapter when the Printer's Manuscript is set against the 2013 Edition.",
     "All 15 of its verses read identically in both witnesses.",
   ]);
 });

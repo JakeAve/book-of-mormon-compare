@@ -100,9 +100,9 @@ export function chapterTitle(
   bookName: string,
 ): string {
   const core = stats.variantCount === 0
-    ? `${bookName} ${stats.chapter} — No Textual Differences`
+    ? `${bookName} ${stats.chapter} — No Textual Variants`
     : `${bookName} ${stats.chapter} — ${stats.variantCount} Textual ${
-      plural(stats.variantCount, "Difference", "Differences")
+      plural(stats.variantCount, "Variant", "Variants")
     }`;
   const full = `${core}${SITE_SUFFIX}`;
   return full.length <= MAX_TITLE_LENGTH ? full : core;
@@ -113,25 +113,25 @@ export function chapterDescription(
   bookName: string,
 ): string {
   const body = stats.variantCount === 0
-    ? `${bookName} ${stats.chapter} has no textual differences between the ${V1_NAME} and the ${V2_NAME} across its ${stats.totalVerseCount} verses.`
+    ? `${bookName} ${stats.chapter} has no textual variants between the ${V1_NAME} and the ${V2_NAME} across its ${stats.totalVerseCount} verses.`
     : `${bookName} ${stats.chapter} has ${stats.variantCount} textual ${
-      plural(stats.variantCount, "difference", "differences")
+      plural(stats.variantCount, "variant", "variants")
     } across ${stats.changedVerseCount} of ${stats.totalVerseCount} verses between the ${V1_NAME} and the ${V2_NAME}.`;
-  const withTag = `${body} Compare both witnesses word by word.`;
-  return withTag.length <= MAX_DESCRIPTION_LENGTH ? withTag : body;
+  const qualified = `${body.slice(0, -1)}, including spelling and punctuation.`;
+  return qualified.length <= MAX_DESCRIPTION_LENGTH ? qualified : body;
 }
 
 export function chapterSummarySentence(stats: ChapterVariantStats): string {
   if (stats.variantCount === 0) {
-    return `No textual differences between the ${V1_NAME} and the ${V2_NAME} in this chapter.`;
+    return `No textual variants between the ${V1_NAME} and the ${V2_NAME} in this chapter.`;
   }
-  const differences = `${stats.variantCount} ${
-    plural(stats.variantCount, "difference", "differences")
+  const variants = `${stats.variantCount} ${
+    plural(stats.variantCount, "textual variant", "textual variants")
   }`;
   const scope = stats.changedVerseCount === 1
     ? "in 1 verse"
     : `across ${stats.changedVerseCount} verses`;
-  return `${differences} ${scope} between the ${V1_NAME} and the ${V2_NAME}.`;
+  return `${variants} ${scope} between the ${V1_NAME} and the ${V2_NAME}, including spelling, capitalization, and punctuation.`;
 }
 
 export function bookIntroSentences(
@@ -147,7 +147,7 @@ export function bookIntroSentences(
 
   if (totalVariants === 0) {
     return [
-      `${bookName} carries no textual differences across ${chapterLabel} when the ${V1_NAME} is set against the ${V2_NAME}.`,
+      `${bookName} carries no textual variants across ${chapterLabel} when the ${V1_NAME} is set against the ${V2_NAME}.`,
       `All ${totalVerses} of its verses read identically in both witnesses.`,
     ];
   }
@@ -158,8 +158,8 @@ export function bookIntroSentences(
 
   return [
     `${bookName} carries ${totalVariants} textual ${
-      plural(totalVariants, "difference", "differences")
-    } across ${chapterLabel} when the ${V1_NAME} is set against the ${V2_NAME}.`,
-    `${busiest.variantCount} of those fall in chapter ${busiest.chapter}, the most varied chapter in the book; ${changedVerses} of its ${totalVerses} verses differ in total.`,
+      plural(totalVariants, "variant", "variants")
+    } across ${chapterLabel} when the ${V1_NAME} is set against the ${V2_NAME}, including spelling, capitalization, and punctuation.`,
+    `${busiest.variantCount} of those fall in chapter ${busiest.chapter}, the most varied chapter in the book; ${changedVerses} of its ${totalVerses} verses vary in total.`,
   ];
 }
