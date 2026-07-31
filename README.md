@@ -1,5 +1,3 @@
-**NOT READY FOR RELEASE — STILL CLEANING UP DATA**
-
 # Book of Mormon Compare
 
 ![Book of Mormon Compare screenshot](static/bofm-compare-screenshot.png)
