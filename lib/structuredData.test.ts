@@ -42,6 +42,34 @@ Deno.test("buildDataset reports the corpus size", () => {
     result["description"],
     "Verse-level transcriptions of 7 Book of Mormon witnesses spanning up to 241 chapters, aligned for side-by-side comparison.",
   );
+  assertEquals(result["temporalCoverage"], "1829/2013");
+  assertEquals(Array.isArray(result["keywords"]), true);
+});
+
+Deno.test("buildDataset asserts no license it does not hold", () => {
+  const result = buildDataset({
+    siteUrl: SITE,
+    versionCount: 7,
+    chapterCount: 241,
+  });
+  for (const field of ["license", "identifier", "distribution"]) {
+    assertEquals(
+      field in result,
+      false,
+      `${field} is deliberately omitted — see the comment on buildDataset`,
+    );
+  }
+});
+
+Deno.test("buildWebApplication fabricates no ratings or reviews", () => {
+  const result = buildWebApplication(SITE);
+  for (const field of ["aggregateRating", "review", "reviewCount"]) {
+    assertEquals(
+      field in result,
+      false,
+      `${field} must stay absent — the site has no ratings to report`,
+    );
+  }
 });
 
 Deno.test("buildArticle carries headline, description and publisher", () => {
