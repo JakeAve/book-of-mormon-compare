@@ -1,6 +1,7 @@
 import { define } from "@/utils/state.ts";
 import { getSiteUrl } from "@/lib/config.ts";
 import { buildBreadcrumbList } from "@/lib/breadcrumbs.ts";
+import { JsonLd } from "@/components/JsonLd.tsx";
 
 export const handler = define.handlers({
   GET(ctx) {
@@ -29,7 +30,7 @@ export default define.page<typeof handler>(() => {
       class="flex flex-col gap-8 max-w-2xl mx-auto px-6 pt-10 pb-16 font-serif text-base leading-relaxed"
       style={{ color: "var(--color-text)" }}
     >
-      <script type="application/ld+json">{JSON.stringify(jsonLd)}</script>
+      <JsonLd data={jsonLd} />
       <h1 class="text-3xl font-semibold">About</h1>
 
       <section class="flex flex-col gap-3">
@@ -103,6 +104,17 @@ export default define.page<typeof handler>(() => {
         <p>
           Printed editions have been sourced from Joseph Smith Papers, online
           archives and their respective publishers.
+        </p>
+        <p>
+          Skousen's volumes are published through{" "}
+          <a
+            href="https://byustudies.byu.edu/book-of-mormon-critical-text-project"
+            class="underline"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            BYU Studies' Book of Mormon Critical Text Project
+          </a>.
         </p>
       </section>
 

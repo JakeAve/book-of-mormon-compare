@@ -62,12 +62,24 @@ Combined fixes are common (a split word crossing a verse boundary needs 1+2).
 deno task align:<version>
 git diff --stat data/bom/<version>/
 git diff data/bom/<version>/<book>/<chapter>.json
+deno task build:stats    # only if <version> is pm or 2013 — see below
 deno task pre-commit
 ```
 
+If the corrected version is **`pm` or `2013`**, the committed
+`data/stats/variants.json` is now stale: it holds the pm-vs-2013 variant counts
+that every chapter title, meta description, on-page summary and book hub reads
+from. Run `deno task build:stats` and commit the regenerated file alongside the
+text fix. Corrections to any other version don't affect it.
+
+A test in `scripts/build-variant-stats.test.ts` recomputes a few chapters and
+fails if the file is stale — but it only samples `jarom`, `enos` and `w-of-m`, so
+a correction elsewhere will pass CI while shipping wrong counts. Don't rely on
+it; regenerate whenever you touch `pm` or `2013`.
+
 Confirm: the reported error is fixed in the chapter JSON; no unexplained
 collateral changes in other chapters (investigate every changed file);
-checks pass.
+`variants.json` regenerated if applicable; checks pass.
 
 ### 6. Hand off — do NOT commit
 

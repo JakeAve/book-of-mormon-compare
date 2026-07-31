@@ -11,7 +11,18 @@ import type { Verse } from "../../lib/data.ts";
 import { getSiteUrl } from "../../lib/config.ts";
 import { buildBreadcrumbList } from "../../lib/breadcrumbs.ts";
 import { parseMarkParam, serializeMarkParam } from "../../lib/verseMark.ts";
+import {
+  chapterDescription,
+  chapterSummarySentence,
+  chapterTitle,
+  isCanonicalPair,
+  loadVariantStats,
+  MAX_DESCRIPTION_LENGTH,
+  MAX_TITLE_LENGTH,
+} from "../../lib/variantStats.ts";
+import { log } from "../../lib/logger.ts";
 import { DiffPage } from "../../components/DiffPage.tsx";
+import { JsonLd } from "../../components/JsonLd.tsx";
 import VersionSelector from "../../islands/VersionSelector.tsx";
 import WordMatchListener from "../../islands/WordMatchListener.tsx";
 import SelectionMenu from "../../islands/SelectionMenu.tsx";
@@ -33,6 +44,7 @@ interface PageData {
   prev: { book: string; chapter: string } | null;
   next: { book: string; chapter: string } | null;
   markedVerses: Set<number> | null;
+  summary: string | null;
 }
 
 export const handler = define.handlers({
@@ -81,16 +93,55 @@ export const handler = define.handlers({
     const v1Display = getVersionDisplayName(v1);
     const v2Display = getVersionDisplayName(v2);
 
-    const titleBase = `${bookName} Chapter ${chapter} — Book of Mormon Compare`;
+    const stats = isCanonicalPair(v1, v2)
+      ? (await loadVariantStats()).forChapter(book, chapter)
+      : null;
+
+    const genericTitle =
+      `${bookName} Chapter ${chapter} — Book of Mormon Compare`;
+    const genericDescription =
+      `Side-by-side comparison of ${v1Display} and ${v2Display}`;
+
+    let title: string;
+    if (stats) {
+      title = chapterTitle(stats, bookName);
+    } else if (genericTitle.length <= MAX_TITLE_LENGTH) {
+      title = genericTitle;
+    } else {
+      log("warn", "generic_title_truncated", {
+        book,
+        chapter,
+        length: genericTitle.length,
+        max: MAX_TITLE_LENGTH,
+      });
+      title = `${bookName} Ch. ${chapter} — Book of Mormon Compare`.slice(
+        0,
+        MAX_TITLE_LENGTH,
+      );
+    }
+
+    let description: string;
+    if (stats) {
+      description = chapterDescription(stats, bookName);
+    } else {
+      if (genericDescription.length > MAX_DESCRIPTION_LENGTH) {
+        log("warn", "generic_description_truncated", {
+          book,
+          chapter,
+          v1,
+          v2,
+          length: genericDescription.length,
+          max: MAX_DESCRIPTION_LENGTH,
+        });
+      }
+      description = genericDescription.slice(0, MAX_DESCRIPTION_LENGTH);
+    }
+    const summary = stats ? chapterSummarySentence(stats) : null;
+
+    ctx.state.showTutorial = true;
     ctx.state.head = {
-      title: titleBase.length <= 60
-        ? titleBase
-        : `${bookName} Ch. ${chapter} — Book of Mormon Compare`.slice(0, 60),
-      description: `Side-by-side comparison of ${v1Display} and ${v2Display}`
-        .slice(
-          0,
-          155,
-        ),
+      title,
+      description,
       imageUrl: `${siteUrl}/og-image?book=${encodeURIComponent(book)}&chapter=${
         encodeURIComponent(chapter)
       }&v1=${encodeURIComponent(v1)}&v2=${encodeURIComponent(v2)}${
@@ -119,6 +170,7 @@ export const handler = define.handlers({
         prev: adjacent.prev,
         next: adjacent.next,
         markedVerses,
+        summary,
       } as PageData,
     };
   },
@@ -139,6 +191,7 @@ export default define.page<typeof handler>(({ data }) => {
     prev,
     next,
     markedVerses,
+    summary,
   } = data;
   const qs = `?v1=${encodeURIComponent(v1)}&v2=${encodeURIComponent(v2)}`;
   const prevHref = prev ? `/${prev.book}/${prev.chapter}${qs}` : null;
@@ -146,12 +199,12 @@ export default define.page<typeof handler>(({ data }) => {
   const siteUrl = getSiteUrl();
   const jsonLd = buildBreadcrumbList([
     { name: "Home", url: `${siteUrl}/` },
-    { name: bookName, url: `${siteUrl}/${book}/1${qs}` },
+    { name: bookName, url: `${siteUrl}/${book}` },
     { name: `Chapter ${chapter}`, url: `${siteUrl}/${book}/${chapter}${qs}` },
   ]);
   return (
     <>
-      <script type="application/ld+json">{JSON.stringify(jsonLd)}</script>
+      <JsonLd data={jsonLd} />
       <DiffPage
         verses1={verses1}
         verses2={verses2}
@@ -167,6 +220,7 @@ export default define.page<typeof handler>(({ data }) => {
         v1={v1}
         v2={v2}
         markedVerses={markedVerses}
+        summary={summary ?? undefined}
       />
       <WordMatchListener />
       <SelectionMenu book={book} chapter={chapter} v1={v1} v2={v2} />

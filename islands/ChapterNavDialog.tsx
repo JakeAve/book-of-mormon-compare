@@ -7,7 +7,11 @@ import {
   type BookAbbr,
   getBookDisplayName,
 } from "../lib/data.ts";
-import { buildChapterHref, CHAPTER_COUNTS } from "../lib/bookChapters.ts";
+import {
+  buildChapterHref,
+  CHAPTER_COUNTS,
+  CHAPTERLESS_BOOKS,
+} from "../lib/bookChapters.ts";
 
 interface Props {
   book: string;
@@ -116,6 +120,11 @@ export default function ChapterNavDialog(
         </header>
 
         <div class="chapter-nav-body">
+          {!CHAPTERLESS_BOOKS.has(book) && (
+            <a href={`/${book}`} class="chapter-nav-hub-link">
+              → {displayName} overview
+            </a>
+          )}
           {BOOK_ORDER.map((b) => {
             const count = CHAPTER_COUNTS[b as BookAbbr];
             const isCurrentBook = b === currentBook;
