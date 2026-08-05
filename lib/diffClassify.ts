@@ -44,7 +44,8 @@ function letters(tokens: Token[]): string {
   );
 }
 
-function findBestMatch(
+/** A curated variant or an exact match — signals strong enough to pair on sight. */
+function strongMatch(
   removedVal: string,
   added: Token[],
   matched: Set<number>,
@@ -58,10 +59,20 @@ function findBestMatch(
     if (matched.has(m)) continue;
     if (removedVal.toLowerCase() === added[m].value.toLowerCase()) return m;
   }
-  for (let m = 0; m < added.length; m++) {
-    if (!matched.has(m)) return m;
-  }
   return -1;
+}
+
+function distance(x: string, y: string): number {
+  const a = stripPunct(x).toLowerCase();
+  const b = stripPunct(y).toLowerCase();
+  const max = Math.max(a.length, b.length);
+  return max === 0 ? 0 : levenshtein(a, b) / max;
+}
+
+function pair(removed: Token, added: Token) {
+  const kind = classifySubstitution(removed.value, added.value);
+  removed.kind = kind;
+  added.kind = kind;
 }
 
 export function classifyDiff(tokens: Token[]): Token[] {
@@ -98,17 +109,35 @@ export function classifyDiff(tokens: Token[]): Token[] {
     }
 
     const matchedAdded = new Set<number>();
+    const unpaired: number[] = [];
     for (let k = 0; k < removed.length; k++) {
-      const idx = findBestMatch(removed[k].value, added, matchedAdded);
-      if (idx === -1) {
-        removed[k].kind = "omission";
-      } else {
+      const idx = strongMatch(removed[k].value, added, matchedAdded);
+      if (idx === -1) unpaired.push(k);
+      else {
         matchedAdded.add(idx);
-        const kind = classifySubstitution(removed[k].value, added[idx].value);
-        removed[k].kind = kind;
-        added[idx].kind = kind;
+        pair(removed[k], added[idx]);
       }
     }
+
+    // What's left pairs by closest spelling, globally best pair first. Taking
+    // the first free slot instead let an unrelated leftover claim a candidate
+    // that was a near-identical match for a later token.
+    while (unpaired.length) {
+      let best: { k: number; m: number; d: number } | undefined;
+      for (const k of unpaired) {
+        for (let m = 0; m < added.length; m++) {
+          if (matchedAdded.has(m)) continue;
+          const d = distance(removed[k].value, added[m].value);
+          if (!best || d < best.d) best = { k, m, d };
+        }
+      }
+      if (!best) break;
+      matchedAdded.add(best.m);
+      pair(removed[best.k], added[best.m]);
+      unpaired.splice(unpaired.indexOf(best.k), 1);
+    }
+
+    for (const k of unpaired) removed[k].kind = "omission";
     for (let m = 0; m < added.length; m++) {
       if (!matchedAdded.has(m)) added[m].kind = "addition";
     }

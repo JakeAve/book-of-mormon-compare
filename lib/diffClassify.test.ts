@@ -241,3 +241,38 @@ Deno.test("classifyDiff: equal-length run of case-only changes stays capitalizat
     "capitalization",
   ]);
 });
+
+Deno.test("classifyDiff: leftover pairs with the most similar candidate, not the first", () => {
+  // pm "streached" vs 2013 "is stretched": pairing positionally gave
+  // streached -> is (wordChange) and stranded the real spelling variant.
+  const tokens: Token[] = [
+    { value: "streached", removed: true },
+    { value: "is", added: true },
+    { value: "stretched", added: true },
+  ];
+  classifyDiff(tokens);
+  assertEquals(tokens[0].kind, "spelling");
+  assertEquals(tokens[1].kind, "addition");
+  assertEquals(tokens[2].kind, "spelling");
+});
+
+Deno.test("classifyDiff: a genuine word change with one candidate still pairs", () => {
+  const tokens: Token[] = [
+    { value: "which", removed: true },
+    { value: "who", added: true },
+  ];
+  classifyDiff(tokens);
+  assertEquals(tokens[0].kind, "wordChange");
+  assertEquals(tokens[1].kind, "wordChange");
+});
+
+Deno.test("classifyDiff: a near-identical pair is not stolen by an earlier token", () => {
+  const tokens: Token[] = [
+    { value: "yea", removed: true },
+    { value: "destroied", removed: true },
+    { value: "destroyed", added: true },
+  ];
+  classifyDiff(tokens);
+  assertEquals(tokens[1].kind, "spelling"); // destroied <-> destroyed
+  assertEquals(tokens[0].kind, "omission"); // yea has no partner
+});
