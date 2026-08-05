@@ -130,6 +130,9 @@ swapped without touching the service.
 - `utils/middleware/ip-block.ts` — blocks banned IPs
 - `utils/middleware/probe-detect.ts` — records suspicious 404s and bans on
   threshold
+- `utils/middleware/edge-cache.ts` — sets `Cache-Control: s-maxage` on GET 200s
+  so Deno Deploy's CDN caches SSR pages (auto-purged on deploy); skips `/bans`,
+  `/report-correction`, and routes that set their own header
 - `utils/state.ts` — request-scoped state
 
 To swap backends, implement `SecurityStore` and `ReportRateStore` and pass
