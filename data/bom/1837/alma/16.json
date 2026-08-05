@@ -453,10 +453,17 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/287"
       },
       {
-        "id": "288:1a",
+        "id": "288:1",
         "page": 288,
         "line": 1,
-        "text": "they said God could not destroy, because of its",
+        "text": "they said God could not destroy, because of its great",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/288"
+      },
+      {
+        "id": "288:2a",
+        "page": 288,
+        "line": 2,
+        "text": "ness.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/288"
       }
     ]
@@ -467,17 +474,10 @@
     "verse": 10,
     "lines": [
       {
-        "id": "288:1b",
-        "page": 288,
-        "line": 1,
-        "text": "great ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/288"
-      },
-      {
-        "id": "288:2",
+        "id": "288:2b",
         "page": 288,
         "line": 2,
-        "text": "ness. But behold, in one day it was left desolate; ",
+        "text": "But behold, in one day it was left desolate; ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/288"
       },
       {

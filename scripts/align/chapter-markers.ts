@@ -130,3 +130,52 @@ export function pushChapterMarkersForward(
   }
   return out;
 }
+
+// Some editions (1840) print an explicit "CHAPTER I." marker right after a
+// book's title, even though canon has no separate counterpart for it — verse
+// 0 (the title) and the marker share no matched words, so the cursor's
+// high-confidence path stops consuming right after the title and leaves the
+// marker to bleed into verse 1's content instead. Reattach any chapter-marker
+// line to the verse immediately preceding it in the source whenever that
+// preceding verse is verse 0 of the very same chapter. Verse 0 only ever
+// occurs as a book's title verse, so this can't fire on an ordinary
+// mid-chapter large-chapter marker (e.g. 1830/1837's own numbering, which
+// falls between two ordinary verses of the same canonical chapter and is
+// already handled correctly by leaving it on the following verse).
+const TITLE_VERSE = 0;
+export function attachOrphanMarkersToPrecedingVerse(
+  results: CursorResult[],
+  lineInfos: Map<string, LineInfo>,
+): CursorResult[] {
+  const byLine = new Map<string, number[]>();
+  for (let i = 0; i < results.length; i++) {
+    const lk = lineKey(results[i].page, results[i].line);
+    let arr = byLine.get(lk);
+    if (!arr) {
+      arr = [];
+      byLine.set(lk, arr);
+    }
+    arr.push(i);
+  }
+
+  const out = results.slice();
+  for (const [lk, indices] of byLine) {
+    const info = lineInfos.get(lk);
+    if (!info || !isChapterMarkerLine(info.text)) continue;
+
+    const firstIdx = Math.min(...indices);
+    if (firstIdx === 0) continue;
+    const prev = out[firstIdx - 1].assignedVerse;
+    const current = out[firstIdx].assignedVerse;
+    if (
+      prev.book === current.book &&
+      prev.chapter === current.chapter &&
+      prev.verse === TITLE_VERSE && current.verse > TITLE_VERSE
+    ) {
+      for (const i of indices) {
+        out[i] = { ...out[i], assignedVerse: prev };
+      }
+    }
+  }
+  return out;
+}

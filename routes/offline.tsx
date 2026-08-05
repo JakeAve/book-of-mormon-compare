@@ -9,7 +9,7 @@ export const handler = define.handlers({
       title: "Offline — Book of Mormon Compare",
       description:
         "You're offline. View pages you've already loaded in Book of Mormon Compare.",
-      imageUrl: `${siteUrl}/og-image?book=1-ne&chapter=1&v1=pm&v2=2013`,
+      imageUrl: `${siteUrl}/og-default.png`,
       pageUrl: `${siteUrl}/offline`,
       canonicalUrl: `${siteUrl}/offline`,
     };

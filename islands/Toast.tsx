@@ -1,4 +1,5 @@
 import { useEffect } from "preact/hooks";
+import CloseIcon from "../components/CloseIcon.tsx";
 import { toast } from "./toastSignal.ts";
 
 export default function Toast() {
@@ -65,7 +66,7 @@ export default function Toast() {
           aria-label="Close"
           class="toast-close-x"
         >
-          ×
+          <CloseIcon size={16} />
         </button>
       </div>
       <div

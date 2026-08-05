@@ -9,6 +9,7 @@ export default function Footer() {
       }}
     >
       <nav class="flex justify-center gap-4 mb-4">
+        <a href="/" class="underline">Home</a>
         <a href="/about" class="underline">About</a>
         <a href="/versions" class="underline">Versions</a>
         <a href="/textual-criticism" class="underline">Textual Criticism</a>

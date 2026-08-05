@@ -1,5 +1,8 @@
 import { define } from "@/utils/state.ts";
 import { getSiteUrl } from "@/lib/config.ts";
+import { buildBreadcrumbList } from "@/lib/breadcrumbs.ts";
+import { buildArticle } from "@/lib/structuredData.ts";
+import { JsonLd } from "@/components/JsonLd.tsx";
 
 export const handler = define.handlers({
   GET(ctx) {
@@ -8,7 +11,7 @@ export const handler = define.handlers({
       title: "Textual Criticism — Book of Mormon Compare",
       description:
         "An introduction to textual criticism as applied to the Book of Mormon: the transmission chain, categories of change, and key scholarly resources.",
-      imageUrl: `${siteUrl}/og-image?book=1-ne&chapter=1&v1=pm&v2=2013`,
+      imageUrl: `${siteUrl}/og-default.png`,
       pageUrl: `${siteUrl}/textual-criticism`,
       canonicalUrl: `${siteUrl}/textual-criticism`,
     };
@@ -17,11 +20,34 @@ export const handler = define.handlers({
 });
 
 export default define.page<typeof handler>(() => {
+  const siteUrl = getSiteUrl();
+  const breadcrumb = buildBreadcrumbList([
+    { name: "Home", url: `${siteUrl}/` },
+    { name: "Textual Criticism", url: `${siteUrl}/textual-criticism` },
+  ]);
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@graph": [
+      buildArticle({
+        headline: "Textual Criticism of the Book of Mormon",
+        description:
+          "How manuscript and print witnesses to the Book of Mormon are compared, and what the surviving evidence shows.",
+        url: `${siteUrl}/textual-criticism`,
+        siteUrl,
+      }),
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": breadcrumb.itemListElement,
+      },
+    ],
+  };
+
   return (
     <main
       class="flex flex-col gap-8 max-w-2xl mx-auto px-6 pt-10 pb-16 font-serif text-base leading-relaxed"
       style={{ color: "var(--color-text)" }}
     >
+      <JsonLd data={jsonLd} />
       <h1 class="text-3xl font-semibold">Textual Criticism</h1>
 
       <section class="flex flex-col gap-3">
@@ -180,6 +206,17 @@ export default define.page<typeof handler>(() => {
           <li>
             Grant Hardy, <em>Understanding the Book of Mormon</em>{" "}
             (Oxford UP, 2010)
+          </li>
+          <li>
+            <a
+              href="https://byustudies.byu.edu/book-of-mormon-critical-text-project"
+              class="underline"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              BYU Studies — Book of Mormon Critical Text Project
+            </a>{" "}
+            — the publishing home of Skousen's critical text volumes
           </li>
         </ul>
       </section>

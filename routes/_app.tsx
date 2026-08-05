@@ -1,16 +1,32 @@
 import type { PageProps } from "fresh";
 import type { State } from "@/utils/state.ts";
+import { getSiteUrl } from "@/lib/config.ts";
+import {
+  buildOrganization,
+  buildWebApplication,
+} from "@/lib/structuredData.ts";
 import Footer from "@/components/Footer.tsx";
 import Header from "@/components/Header.tsx";
+import { JsonLd } from "@/components/JsonLd.tsx";
 import ScrollRestorer from "@/islands/ScrollRestorer.tsx";
 import Toast from "@/islands/Toast.tsx";
 import PwaManager from "@/islands/PwaManager.tsx";
 
-export default function App({ Component, state }: PageProps<unknown, State>) {
+export default function App(
+  { Component, state, url }: PageProps<unknown, State>,
+) {
   const head = state.head;
+  const siteUrl = getSiteUrl();
   const title = head?.title ?? "Book of Mormon Compare";
   const description = head?.description ??
     "Side-by-side textual comparison of Book of Mormon manuscripts and editions";
+  const imageUrl = head?.imageUrl ?? `${siteUrl}/og-default.png`;
+  const pageUrl = head?.pageUrl ?? new URL(url.pathname, siteUrl).href;
+  const showTutorial = state.showTutorial === true;
+  const siteJsonLd = {
+    "@context": "https://schema.org",
+    "@graph": [buildOrganization(siteUrl), buildWebApplication(siteUrl)],
+  };
 
   return (
     <html lang="en">
@@ -27,25 +43,25 @@ export default function App({ Component, state }: PageProps<unknown, State>) {
         <meta property="og:site_name" content="Book of Mormon Compare" />
         <meta property="og:title" content={title} />
         <meta property="og:description" content={description} />
-        {head && (
-          <>
-            <meta property="og:url" content={head.pageUrl} />
-            <meta property="og:image" content={head.imageUrl} />
-            <meta name="twitter:card" content="summary_large_image" />
-            <meta name="twitter:title" content={title} />
-            <meta name="twitter:description" content={description} />
-            <meta name="twitter:image" content={head.imageUrl} />
-            {head.canonicalUrl && (
-              <link rel="canonical" href={head.canonicalUrl} />
-            )}
-          </>
+        <meta property="og:url" content={pageUrl} />
+        <meta property="og:image" content={imageUrl} />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content={title} />
+        <meta name="twitter:description" content={description} />
+        <meta name="twitter:image" content={imageUrl} />
+        {head?.canonicalUrl && (
+          <link
+            rel="canonical"
+            href={head.canonicalUrl}
+          />
         )}
+        <JsonLd data={siteJsonLd} />
       </head>
       <body
         class="flex flex-col min-h-screen"
         style={{ backgroundColor: "var(--color-page-bg)" }}
       >
-        <Header />
+        <Header showTutorial={showTutorial} />
         <Component />
         <Footer />
         <ScrollRestorer />

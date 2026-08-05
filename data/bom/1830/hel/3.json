@@ -369,10 +369,17 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/418"
       },
       {
-        "id": "418:38a",
+        "id": "418:38",
         "page": 418,
         "line": 38,
-        "text": "land northward, they did send forth much by the way of",
+        "text": "land northward, they did send forth much by the way of ship",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/418"
+      },
+      {
+        "id": "418:39a",
+        "page": 418,
+        "line": 39,
+        "text": "ping;",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/418"
       }
     ]
@@ -383,17 +390,10 @@
     "verse": 11,
     "lines": [
       {
-        "id": "418:38b",
-        "page": 418,
-        "line": 38,
-        "text": "ship ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/418"
-      },
-      {
-        "id": "418:39",
+        "id": "418:39b",
         "page": 418,
         "line": 39,
-        "text": "ping; and thus they did enable the people in the land north",
+        "text": "and thus they did enable the people in the land north",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/418"
       },
       {
@@ -890,7 +890,7 @@
         "id": "420:5",
         "page": 420,
         "line": 5,
-        "text": "And it came to pass that in this same year, there was ex ",
+        "text": "And it came to pass that in this same year, there was ex",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/420"
       },
       {

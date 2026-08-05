@@ -474,10 +474,17 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/462"
       },
       {
-        "id": "462:19a",
+        "id": "462:19",
         "page": 462,
         "line": 19,
-        "text": "church, and of their worship, and their freedom, and their",
+        "text": "church, and of their worship, and their freedom, and their lib",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/462"
+      },
+      {
+        "id": "462:20a",
+        "page": 462,
+        "line": 20,
+        "text": "erty.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/462"
       }
     ]
@@ -488,17 +495,10 @@
     "verse": 13,
     "lines": [
       {
-        "id": "462:19b",
-        "page": 462,
-        "line": 19,
-        "text": "lib ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/462"
-      },
-      {
-        "id": "462:20",
+        "id": "462:20b",
         "page": 462,
         "line": 20,
-        "text": "erty. And it came to pass that before this thirteenth year had ",
+        "text": "And it came to pass that before this thirteenth year had ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/462"
       },
       {

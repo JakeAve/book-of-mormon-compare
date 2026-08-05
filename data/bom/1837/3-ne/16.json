@@ -768,10 +768,17 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/518"
       },
       {
-        "id": "518:45a",
+        "id": "518:45",
         "page": 518,
         "line": 45,
-        "text": "should give unto this people this land for their",
+        "text": "should give unto this people this land for their inherit",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/518"
+      },
+      {
+        "id": "518:46a",
+        "page": 518,
+        "line": 46,
+        "text": "ance.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/518"
       }
     ]
@@ -782,17 +789,10 @@
     "verse": 17,
     "lines": [
       {
-        "id": "518:45b",
-        "page": 518,
-        "line": 45,
-        "text": "inherit ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/518"
-      },
-      {
-        "id": "518:46",
+        "id": "518:46b",
         "page": 518,
         "line": 46,
-        "text": "ance. And when the words of the prophet Isaiah ",
+        "text": "And when the words of the prophet Isaiah ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/518"
       },
       {

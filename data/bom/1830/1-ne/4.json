@@ -551,10 +551,17 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/19"
       },
       {
-        "id": "19:2a",
+        "id": "19:2",
         "page": 19,
         "line": 2,
-        "text": "that I might obtain the records according to his",
+        "text": "that I might obtain the records according to his commmand",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/19"
+      },
+      {
+        "id": "19:3a",
+        "page": 19,
+        "line": 3,
+        "text": "ments.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/19"
       }
     ]
@@ -565,17 +572,10 @@
     "verse": 18,
     "lines": [
       {
-        "id": "19:2b",
-        "page": 19,
-        "line": 2,
-        "text": "commmand ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/19"
-      },
-      {
-        "id": "19:3",
+        "id": "19:3b",
         "page": 19,
         "line": 3,
-        "text": "ments. Therefore I did obey the voice of the spirit, and took ",
+        "text": "Therefore I did obey the voice of the spirit, and took ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/19"
       },
       {

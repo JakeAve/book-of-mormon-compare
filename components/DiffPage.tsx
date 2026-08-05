@@ -1,6 +1,6 @@
 import type { ComponentChildren } from "preact";
 import type { Verse } from "../lib/data.ts";
-import { Diff } from "./Diff.tsx";
+import { Diff, VERSE_SCROLL_MARGIN_TOP } from "./Diff.tsx";
 import ChapterNavDialog from "../islands/ChapterNavDialog.tsx";
 import DiffTypeFilter from "../islands/DiffTypeFilter.tsx";
 
@@ -11,11 +11,15 @@ interface Props {
   select2: ComponentChildren;
   book: string;
   chapter: string;
+  bookName: string;
+  v1Display: string;
+  v2Display: string;
   prev: { book: string; chapter: string } | null;
   next: { book: string; chapter: string } | null;
   v1: string;
   v2: string;
   markedVerses: Set<number> | null;
+  summary?: string;
 }
 
 function NonExtantView(
@@ -45,7 +49,7 @@ function renderCell(
     paddingTop: "0.5rem",
     paddingBottom: "0.5rem",
     margin: "0",
-    scrollMarginTop: "6rem",
+    scrollMarginTop: VERSE_SCROLL_MARGIN_TOP,
   };
   if (!verse) {
     if (row !== 1) {
@@ -101,16 +105,23 @@ export function DiffPage({
   select2,
   book,
   chapter,
+  bookName,
+  v1Display,
+  v2Display,
   prev,
   next,
   v1,
   v2,
   markedVerses,
+  summary,
 }: Props) {
   const qs = `?v1=${encodeURIComponent(v1)}&v2=${encodeURIComponent(v2)}`;
 
   return (
     <main>
+      <h1 class="sr-only">
+        {bookName} {chapter}: {v1Display} vs. {v2Display}
+      </h1>
       <div style={{ maxWidth: "56rem", margin: "0 auto", overflowX: "clip" }}>
         {/* Sticky header */}
         <div style={{ position: "sticky", top: 0, zIndex: 10 }}>
@@ -240,6 +251,23 @@ export function DiffPage({
               />
             )}
         </div>
+
+        {summary && (
+          <p
+            style={{
+              fontFamily: "Georgia, serif",
+              fontSize: "0.8125rem",
+              fontStyle: "italic",
+              lineHeight: 1.6,
+              color: "var(--color-text)",
+              margin: 0,
+              padding: "1rem 1.5rem 1.5rem",
+              textAlign: "center",
+            }}
+          >
+            {summary}
+          </p>
+        )}
       </div>
     </main>
   );

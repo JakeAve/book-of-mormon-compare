@@ -1,0 +1,1696 @@
+{
+  "pair": {
+    "v1": "pm",
+    "v2": "2013"
+  },
+  "generatedAt": "2026-07-29",
+  "chapters": [
+    {
+      "book": "witnesses",
+      "chapter": 1,
+      "variantCount": 98,
+      "changedVerseCount": 15,
+      "totalVerseCount": 15
+    },
+    {
+      "book": "title-page",
+      "chapter": 1,
+      "variantCount": 55,
+      "changedVerseCount": 4,
+      "totalVerseCount": 4
+    },
+    {
+      "book": "1-ne",
+      "chapter": 1,
+      "variantCount": 226,
+      "changedVerseCount": 21,
+      "totalVerseCount": 21
+    },
+    {
+      "book": "1-ne",
+      "chapter": 2,
+      "variantCount": 184,
+      "changedVerseCount": 24,
+      "totalVerseCount": 24
+    },
+    {
+      "book": "1-ne",
+      "chapter": 3,
+      "variantCount": 204,
+      "changedVerseCount": 31,
+      "totalVerseCount": 31
+    },
+    {
+      "book": "1-ne",
+      "chapter": 4,
+      "variantCount": 244,
+      "changedVerseCount": 38,
+      "totalVerseCount": 38
+    },
+    {
+      "book": "1-ne",
+      "chapter": 5,
+      "variantCount": 153,
+      "changedVerseCount": 22,
+      "totalVerseCount": 22
+    },
+    {
+      "book": "1-ne",
+      "chapter": 6,
+      "variantCount": 30,
+      "changedVerseCount": 6,
+      "totalVerseCount": 6
+    },
+    {
+      "book": "1-ne",
+      "chapter": 7,
+      "variantCount": 183,
+      "changedVerseCount": 22,
+      "totalVerseCount": 22
+    },
+    {
+      "book": "1-ne",
+      "chapter": 8,
+      "variantCount": 250,
+      "changedVerseCount": 38,
+      "totalVerseCount": 38
+    },
+    {
+      "book": "1-ne",
+      "chapter": 9,
+      "variantCount": 44,
+      "changedVerseCount": 6,
+      "totalVerseCount": 6
+    },
+    {
+      "book": "1-ne",
+      "chapter": 10,
+      "variantCount": 205,
+      "changedVerseCount": 22,
+      "totalVerseCount": 22
+    },
+    {
+      "book": "1-ne",
+      "chapter": 11,
+      "variantCount": 298,
+      "changedVerseCount": 36,
+      "totalVerseCount": 36
+    },
+    {
+      "book": "1-ne",
+      "chapter": 12,
+      "variantCount": 197,
+      "changedVerseCount": 23,
+      "totalVerseCount": 23
+    },
+    {
+      "book": "1-ne",
+      "chapter": 13,
+      "variantCount": 393,
+      "changedVerseCount": 42,
+      "totalVerseCount": 42
+    },
+    {
+      "book": "1-ne",
+      "chapter": 14,
+      "variantCount": 263,
+      "changedVerseCount": 30,
+      "totalVerseCount": 30
+    },
+    {
+      "book": "1-ne",
+      "chapter": 15,
+      "variantCount": 286,
+      "changedVerseCount": 36,
+      "totalVerseCount": 36
+    },
+    {
+      "book": "1-ne",
+      "chapter": 16,
+      "variantCount": 315,
+      "changedVerseCount": 39,
+      "totalVerseCount": 39
+    },
+    {
+      "book": "1-ne",
+      "chapter": 17,
+      "variantCount": 513,
+      "changedVerseCount": 55,
+      "totalVerseCount": 55
+    },
+    {
+      "book": "1-ne",
+      "chapter": 18,
+      "variantCount": 270,
+      "changedVerseCount": 25,
+      "totalVerseCount": 25
+    },
+    {
+      "book": "1-ne",
+      "chapter": 19,
+      "variantCount": 284,
+      "changedVerseCount": 24,
+      "totalVerseCount": 24
+    },
+    {
+      "book": "1-ne",
+      "chapter": 20,
+      "variantCount": 164,
+      "changedVerseCount": 22,
+      "totalVerseCount": 22
+    },
+    {
+      "book": "1-ne",
+      "chapter": 21,
+      "variantCount": 211,
+      "changedVerseCount": 26,
+      "totalVerseCount": 26
+    },
+    {
+      "book": "1-ne",
+      "chapter": 22,
+      "variantCount": 306,
+      "changedVerseCount": 31,
+      "totalVerseCount": 31
+    },
+    {
+      "book": "2-ne",
+      "chapter": 1,
+      "variantCount": 296,
+      "changedVerseCount": 33,
+      "totalVerseCount": 33
+    },
+    {
+      "book": "2-ne",
+      "chapter": 2,
+      "variantCount": 291,
+      "changedVerseCount": 30,
+      "totalVerseCount": 30
+    },
+    {
+      "book": "2-ne",
+      "chapter": 3,
+      "variantCount": 216,
+      "changedVerseCount": 25,
+      "totalVerseCount": 25
+    },
+    {
+      "book": "2-ne",
+      "chapter": 4,
+      "variantCount": 286,
+      "changedVerseCount": 35,
+      "totalVerseCount": 35
+    },
+    {
+      "book": "2-ne",
+      "chapter": 5,
+      "variantCount": 259,
+      "changedVerseCount": 34,
+      "totalVerseCount": 34
+    },
+    {
+      "book": "2-ne",
+      "chapter": 6,
+      "variantCount": 189,
+      "changedVerseCount": 18,
+      "totalVerseCount": 18
+    },
+    {
+      "book": "2-ne",
+      "chapter": 7,
+      "variantCount": 82,
+      "changedVerseCount": 11,
+      "totalVerseCount": 11
+    },
+    {
+      "book": "2-ne",
+      "chapter": 8,
+      "variantCount": 187,
+      "changedVerseCount": 25,
+      "totalVerseCount": 25
+    },
+    {
+      "book": "2-ne",
+      "chapter": 9,
+      "variantCount": 511,
+      "changedVerseCount": 54,
+      "totalVerseCount": 54
+    },
+    {
+      "book": "2-ne",
+      "chapter": 10,
+      "variantCount": 209,
+      "changedVerseCount": 25,
+      "totalVerseCount": 25
+    },
+    {
+      "book": "2-ne",
+      "chapter": 11,
+      "variantCount": 66,
+      "changedVerseCount": 8,
+      "totalVerseCount": 8
+    },
+    {
+      "book": "2-ne",
+      "chapter": 12,
+      "variantCount": 146,
+      "changedVerseCount": 22,
+      "totalVerseCount": 22
+    },
+    {
+      "book": "2-ne",
+      "chapter": 13,
+      "variantCount": 159,
+      "changedVerseCount": 26,
+      "totalVerseCount": 26
+    },
+    {
+      "book": "2-ne",
+      "chapter": 14,
+      "variantCount": 39,
+      "changedVerseCount": 6,
+      "totalVerseCount": 6
+    },
+    {
+      "book": "2-ne",
+      "chapter": 15,
+      "variantCount": 192,
+      "changedVerseCount": 30,
+      "totalVerseCount": 30
+    },
+    {
+      "book": "2-ne",
+      "chapter": 16,
+      "variantCount": 99,
+      "changedVerseCount": 13,
+      "totalVerseCount": 13
+    },
+    {
+      "book": "2-ne",
+      "chapter": 17,
+      "variantCount": 160,
+      "changedVerseCount": 25,
+      "totalVerseCount": 25
+    },
+    {
+      "book": "2-ne",
+      "chapter": 18,
+      "variantCount": 140,
+      "changedVerseCount": 22,
+      "totalVerseCount": 22
+    },
+    {
+      "book": "2-ne",
+      "chapter": 19,
+      "variantCount": 135,
+      "changedVerseCount": 21,
+      "totalVerseCount": 21
+    },
+    {
+      "book": "2-ne",
+      "chapter": 20,
+      "variantCount": 188,
+      "changedVerseCount": 34,
+      "totalVerseCount": 34
+    },
+    {
+      "book": "2-ne",
+      "chapter": 21,
+      "variantCount": 93,
+      "changedVerseCount": 16,
+      "totalVerseCount": 16
+    },
+    {
+      "book": "2-ne",
+      "chapter": 22,
+      "variantCount": 34,
+      "changedVerseCount": 6,
+      "totalVerseCount": 6
+    },
+    {
+      "book": "2-ne",
+      "chapter": 23,
+      "variantCount": 128,
+      "changedVerseCount": 22,
+      "totalVerseCount": 22
+    },
+    {
+      "book": "2-ne",
+      "chapter": 24,
+      "variantCount": 198,
+      "changedVerseCount": 32,
+      "totalVerseCount": 32
+    },
+    {
+      "book": "2-ne",
+      "chapter": 25,
+      "variantCount": 328,
+      "changedVerseCount": 30,
+      "totalVerseCount": 30
+    },
+    {
+      "book": "2-ne",
+      "chapter": 26,
+      "variantCount": 300,
+      "changedVerseCount": 33,
+      "totalVerseCount": 33
+    },
+    {
+      "book": "2-ne",
+      "chapter": 27,
+      "variantCount": 279,
+      "changedVerseCount": 35,
+      "totalVerseCount": 35
+    },
+    {
+      "book": "2-ne",
+      "chapter": 28,
+      "variantCount": 263,
+      "changedVerseCount": 32,
+      "totalVerseCount": 32
+    },
+    {
+      "book": "2-ne",
+      "chapter": 29,
+      "variantCount": 149,
+      "changedVerseCount": 14,
+      "totalVerseCount": 14
+    },
+    {
+      "book": "2-ne",
+      "chapter": 30,
+      "variantCount": 121,
+      "changedVerseCount": 18,
+      "totalVerseCount": 18
+    },
+    {
+      "book": "2-ne",
+      "chapter": 31,
+      "variantCount": 227,
+      "changedVerseCount": 21,
+      "totalVerseCount": 21
+    },
+    {
+      "book": "2-ne",
+      "chapter": 32,
+      "variantCount": 80,
+      "changedVerseCount": 9,
+      "totalVerseCount": 9
+    },
+    {
+      "book": "2-ne",
+      "chapter": 33,
+      "variantCount": 120,
+      "changedVerseCount": 15,
+      "totalVerseCount": 15
+    },
+    {
+      "book": "jacob",
+      "chapter": 1,
+      "variantCount": 166,
+      "changedVerseCount": 20,
+      "totalVerseCount": 20
+    },
+    {
+      "book": "jacob",
+      "chapter": 2,
+      "variantCount": 287,
+      "changedVerseCount": 35,
+      "totalVerseCount": 35
+    },
+    {
+      "book": "jacob",
+      "chapter": 3,
+      "variantCount": 123,
+      "changedVerseCount": 14,
+      "totalVerseCount": 14
+    },
+    {
+      "book": "jacob",
+      "chapter": 4,
+      "variantCount": 178,
+      "changedVerseCount": 18,
+      "totalVerseCount": 18
+    },
+    {
+      "book": "jacob",
+      "chapter": 5,
+      "variantCount": 683,
+      "changedVerseCount": 77,
+      "totalVerseCount": 77
+    },
+    {
+      "book": "jacob",
+      "chapter": 6,
+      "variantCount": 105,
+      "changedVerseCount": 13,
+      "totalVerseCount": 13
+    },
+    {
+      "book": "jacob",
+      "chapter": 7,
+      "variantCount": 255,
+      "changedVerseCount": 27,
+      "totalVerseCount": 27
+    },
+    {
+      "book": "enos",
+      "chapter": 1,
+      "variantCount": 231,
+      "changedVerseCount": 27,
+      "totalVerseCount": 28
+    },
+    {
+      "book": "jarom",
+      "chapter": 1,
+      "variantCount": 161,
+      "changedVerseCount": 15,
+      "totalVerseCount": 16
+    },
+    {
+      "book": "omni",
+      "chapter": 1,
+      "variantCount": 277,
+      "changedVerseCount": 30,
+      "totalVerseCount": 31
+    },
+    {
+      "book": "w-of-m",
+      "chapter": 1,
+      "variantCount": 167,
+      "changedVerseCount": 19,
+      "totalVerseCount": 19
+    },
+    {
+      "book": "mosiah",
+      "chapter": 1,
+      "variantCount": 168,
+      "changedVerseCount": 19,
+      "totalVerseCount": 19
+    },
+    {
+      "book": "mosiah",
+      "chapter": 2,
+      "variantCount": 389,
+      "changedVerseCount": 41,
+      "totalVerseCount": 41
+    },
+    {
+      "book": "mosiah",
+      "chapter": 3,
+      "variantCount": 237,
+      "changedVerseCount": 27,
+      "totalVerseCount": 27
+    },
+    {
+      "book": "mosiah",
+      "chapter": 4,
+      "variantCount": 314,
+      "changedVerseCount": 30,
+      "totalVerseCount": 30
+    },
+    {
+      "book": "mosiah",
+      "chapter": 5,
+      "variantCount": 137,
+      "changedVerseCount": 15,
+      "totalVerseCount": 15
+    },
+    {
+      "book": "mosiah",
+      "chapter": 6,
+      "variantCount": 63,
+      "changedVerseCount": 7,
+      "totalVerseCount": 7
+    },
+    {
+      "book": "mosiah",
+      "chapter": 7,
+      "variantCount": 312,
+      "changedVerseCount": 33,
+      "totalVerseCount": 33
+    },
+    {
+      "book": "mosiah",
+      "chapter": 8,
+      "variantCount": 173,
+      "changedVerseCount": 21,
+      "totalVerseCount": 21
+    },
+    {
+      "book": "mosiah",
+      "chapter": 9,
+      "variantCount": 188,
+      "changedVerseCount": 20,
+      "totalVerseCount": 20
+    },
+    {
+      "book": "mosiah",
+      "chapter": 10,
+      "variantCount": 179,
+      "changedVerseCount": 22,
+      "totalVerseCount": 22
+    },
+    {
+      "book": "mosiah",
+      "chapter": 11,
+      "variantCount": 236,
+      "changedVerseCount": 29,
+      "totalVerseCount": 29
+    },
+    {
+      "book": "mosiah",
+      "chapter": 12,
+      "variantCount": 258,
+      "changedVerseCount": 37,
+      "totalVerseCount": 37
+    },
+    {
+      "book": "mosiah",
+      "chapter": 13,
+      "variantCount": 221,
+      "changedVerseCount": 35,
+      "totalVerseCount": 35
+    },
+    {
+      "book": "mosiah",
+      "chapter": 14,
+      "variantCount": 75,
+      "changedVerseCount": 12,
+      "totalVerseCount": 12
+    },
+    {
+      "book": "mosiah",
+      "chapter": 15,
+      "variantCount": 228,
+      "changedVerseCount": 31,
+      "totalVerseCount": 31
+    },
+    {
+      "book": "mosiah",
+      "chapter": 16,
+      "variantCount": 129,
+      "changedVerseCount": 15,
+      "totalVerseCount": 15
+    },
+    {
+      "book": "mosiah",
+      "chapter": 17,
+      "variantCount": 122,
+      "changedVerseCount": 20,
+      "totalVerseCount": 20
+    },
+    {
+      "book": "mosiah",
+      "chapter": 18,
+      "variantCount": 264,
+      "changedVerseCount": 35,
+      "totalVerseCount": 35
+    },
+    {
+      "book": "mosiah",
+      "chapter": 19,
+      "variantCount": 176,
+      "changedVerseCount": 29,
+      "totalVerseCount": 29
+    },
+    {
+      "book": "mosiah",
+      "chapter": 20,
+      "variantCount": 177,
+      "changedVerseCount": 26,
+      "totalVerseCount": 26
+    },
+    {
+      "book": "mosiah",
+      "chapter": 21,
+      "variantCount": 222,
+      "changedVerseCount": 36,
+      "totalVerseCount": 36
+    },
+    {
+      "book": "mosiah",
+      "chapter": 22,
+      "variantCount": 106,
+      "changedVerseCount": 16,
+      "totalVerseCount": 16
+    },
+    {
+      "book": "mosiah",
+      "chapter": 23,
+      "variantCount": 233,
+      "changedVerseCount": 40,
+      "totalVerseCount": 40
+    },
+    {
+      "book": "mosiah",
+      "chapter": 24,
+      "variantCount": 170,
+      "changedVerseCount": 25,
+      "totalVerseCount": 25
+    },
+    {
+      "book": "mosiah",
+      "chapter": 25,
+      "variantCount": 160,
+      "changedVerseCount": 24,
+      "totalVerseCount": 24
+    },
+    {
+      "book": "mosiah",
+      "chapter": 26,
+      "variantCount": 212,
+      "changedVerseCount": 39,
+      "totalVerseCount": 39
+    },
+    {
+      "book": "mosiah",
+      "chapter": 27,
+      "variantCount": 310,
+      "changedVerseCount": 37,
+      "totalVerseCount": 37
+    },
+    {
+      "book": "mosiah",
+      "chapter": 28,
+      "variantCount": 157,
+      "changedVerseCount": 20,
+      "totalVerseCount": 20
+    },
+    {
+      "book": "mosiah",
+      "chapter": 29,
+      "variantCount": 437,
+      "changedVerseCount": 47,
+      "totalVerseCount": 47
+    },
+    {
+      "book": "alma",
+      "chapter": 1,
+      "variantCount": 315,
+      "changedVerseCount": 34,
+      "totalVerseCount": 34
+    },
+    {
+      "book": "alma",
+      "chapter": 2,
+      "variantCount": 296,
+      "changedVerseCount": 38,
+      "totalVerseCount": 38
+    },
+    {
+      "book": "alma",
+      "chapter": 3,
+      "variantCount": 200,
+      "changedVerseCount": 27,
+      "totalVerseCount": 27
+    },
+    {
+      "book": "alma",
+      "chapter": 4,
+      "variantCount": 212,
+      "changedVerseCount": 20,
+      "totalVerseCount": 20
+    },
+    {
+      "book": "alma",
+      "chapter": 5,
+      "variantCount": 581,
+      "changedVerseCount": 63,
+      "totalVerseCount": 63
+    },
+    {
+      "book": "alma",
+      "chapter": 6,
+      "variantCount": 70,
+      "changedVerseCount": 8,
+      "totalVerseCount": 8
+    },
+    {
+      "book": "alma",
+      "chapter": 7,
+      "variantCount": 269,
+      "changedVerseCount": 28,
+      "totalVerseCount": 28
+    },
+    {
+      "book": "alma",
+      "chapter": 8,
+      "variantCount": 240,
+      "changedVerseCount": 32,
+      "totalVerseCount": 32
+    },
+    {
+      "book": "alma",
+      "chapter": 9,
+      "variantCount": 291,
+      "changedVerseCount": 35,
+      "totalVerseCount": 35
+    },
+    {
+      "book": "alma",
+      "chapter": 10,
+      "variantCount": 262,
+      "changedVerseCount": 32,
+      "totalVerseCount": 32
+    },
+    {
+      "book": "alma",
+      "chapter": 11,
+      "variantCount": 309,
+      "changedVerseCount": 46,
+      "totalVerseCount": 46
+    },
+    {
+      "book": "alma",
+      "chapter": 12,
+      "variantCount": 314,
+      "changedVerseCount": 37,
+      "totalVerseCount": 37
+    },
+    {
+      "book": "alma",
+      "chapter": 13,
+      "variantCount": 275,
+      "changedVerseCount": 31,
+      "totalVerseCount": 31
+    },
+    {
+      "book": "alma",
+      "chapter": 14,
+      "variantCount": 296,
+      "changedVerseCount": 29,
+      "totalVerseCount": 29
+    },
+    {
+      "book": "alma",
+      "chapter": 15,
+      "variantCount": 142,
+      "changedVerseCount": 19,
+      "totalVerseCount": 19
+    },
+    {
+      "book": "alma",
+      "chapter": 16,
+      "variantCount": 184,
+      "changedVerseCount": 21,
+      "totalVerseCount": 21
+    },
+    {
+      "book": "alma",
+      "chapter": 17,
+      "variantCount": 355,
+      "changedVerseCount": 40,
+      "totalVerseCount": 40
+    },
+    {
+      "book": "alma",
+      "chapter": 18,
+      "variantCount": 329,
+      "changedVerseCount": 43,
+      "totalVerseCount": 43
+    },
+    {
+      "book": "alma",
+      "chapter": 19,
+      "variantCount": 305,
+      "changedVerseCount": 36,
+      "totalVerseCount": 36
+    },
+    {
+      "book": "alma",
+      "chapter": 20,
+      "variantCount": 248,
+      "changedVerseCount": 30,
+      "totalVerseCount": 30
+    },
+    {
+      "book": "alma",
+      "chapter": 21,
+      "variantCount": 166,
+      "changedVerseCount": 24,
+      "totalVerseCount": 24
+    },
+    {
+      "book": "alma",
+      "chapter": 22,
+      "variantCount": 341,
+      "changedVerseCount": 35,
+      "totalVerseCount": 35
+    },
+    {
+      "book": "alma",
+      "chapter": 23,
+      "variantCount": 156,
+      "changedVerseCount": 18,
+      "totalVerseCount": 18
+    },
+    {
+      "book": "alma",
+      "chapter": 24,
+      "variantCount": 265,
+      "changedVerseCount": 30,
+      "totalVerseCount": 30
+    },
+    {
+      "book": "alma",
+      "chapter": 25,
+      "variantCount": 126,
+      "changedVerseCount": 17,
+      "totalVerseCount": 17
+    },
+    {
+      "book": "alma",
+      "chapter": 26,
+      "variantCount": 340,
+      "changedVerseCount": 37,
+      "totalVerseCount": 37
+    },
+    {
+      "book": "alma",
+      "chapter": 27,
+      "variantCount": 228,
+      "changedVerseCount": 30,
+      "totalVerseCount": 30
+    },
+    {
+      "book": "alma",
+      "chapter": 28,
+      "variantCount": 107,
+      "changedVerseCount": 14,
+      "totalVerseCount": 14
+    },
+    {
+      "book": "alma",
+      "chapter": 29,
+      "variantCount": 134,
+      "changedVerseCount": 17,
+      "totalVerseCount": 17
+    },
+    {
+      "book": "alma",
+      "chapter": 30,
+      "variantCount": 501,
+      "changedVerseCount": 60,
+      "totalVerseCount": 60
+    },
+    {
+      "book": "alma",
+      "chapter": 31,
+      "variantCount": 289,
+      "changedVerseCount": 38,
+      "totalVerseCount": 38
+    },
+    {
+      "book": "alma",
+      "chapter": 32,
+      "variantCount": 385,
+      "changedVerseCount": 43,
+      "totalVerseCount": 43
+    },
+    {
+      "book": "alma",
+      "chapter": 33,
+      "variantCount": 167,
+      "changedVerseCount": 23,
+      "totalVerseCount": 23
+    },
+    {
+      "book": "alma",
+      "chapter": 34,
+      "variantCount": 320,
+      "changedVerseCount": 41,
+      "totalVerseCount": 41
+    },
+    {
+      "book": "alma",
+      "chapter": 35,
+      "variantCount": 112,
+      "changedVerseCount": 16,
+      "totalVerseCount": 16
+    },
+    {
+      "book": "alma",
+      "chapter": 36,
+      "variantCount": 260,
+      "changedVerseCount": 31,
+      "totalVerseCount": 31
+    },
+    {
+      "book": "alma",
+      "chapter": 37,
+      "variantCount": 418,
+      "changedVerseCount": 47,
+      "totalVerseCount": 47
+    },
+    {
+      "book": "alma",
+      "chapter": 38,
+      "variantCount": 125,
+      "changedVerseCount": 16,
+      "totalVerseCount": 16
+    },
+    {
+      "book": "alma",
+      "chapter": 39,
+      "variantCount": 151,
+      "changedVerseCount": 20,
+      "totalVerseCount": 20
+    },
+    {
+      "book": "alma",
+      "chapter": 40,
+      "variantCount": 228,
+      "changedVerseCount": 26,
+      "totalVerseCount": 26
+    },
+    {
+      "book": "alma",
+      "chapter": 41,
+      "variantCount": 136,
+      "changedVerseCount": 15,
+      "totalVerseCount": 15
+    },
+    {
+      "book": "alma",
+      "chapter": 42,
+      "variantCount": 248,
+      "changedVerseCount": 31,
+      "totalVerseCount": 31
+    },
+    {
+      "book": "alma",
+      "chapter": 43,
+      "variantCount": 435,
+      "changedVerseCount": 54,
+      "totalVerseCount": 54
+    },
+    {
+      "book": "alma",
+      "chapter": 44,
+      "variantCount": 225,
+      "changedVerseCount": 24,
+      "totalVerseCount": 24
+    },
+    {
+      "book": "alma",
+      "chapter": 45,
+      "variantCount": 197,
+      "changedVerseCount": 25,
+      "totalVerseCount": 25
+    },
+    {
+      "book": "alma",
+      "chapter": 46,
+      "variantCount": 332,
+      "changedVerseCount": 41,
+      "totalVerseCount": 41
+    },
+    {
+      "book": "alma",
+      "chapter": 47,
+      "variantCount": 288,
+      "changedVerseCount": 36,
+      "totalVerseCount": 36
+    },
+    {
+      "book": "alma",
+      "chapter": 48,
+      "variantCount": 215,
+      "changedVerseCount": 25,
+      "totalVerseCount": 25
+    },
+    {
+      "book": "alma",
+      "chapter": 49,
+      "variantCount": 244,
+      "changedVerseCount": 30,
+      "totalVerseCount": 30
+    },
+    {
+      "book": "alma",
+      "chapter": 50,
+      "variantCount": 318,
+      "changedVerseCount": 40,
+      "totalVerseCount": 40
+    },
+    {
+      "book": "alma",
+      "chapter": 51,
+      "variantCount": 292,
+      "changedVerseCount": 37,
+      "totalVerseCount": 37
+    },
+    {
+      "book": "alma",
+      "chapter": 52,
+      "variantCount": 309,
+      "changedVerseCount": 40,
+      "totalVerseCount": 40
+    },
+    {
+      "book": "alma",
+      "chapter": 53,
+      "variantCount": 187,
+      "changedVerseCount": 23,
+      "totalVerseCount": 23
+    },
+    {
+      "book": "alma",
+      "chapter": 54,
+      "variantCount": 206,
+      "changedVerseCount": 24,
+      "totalVerseCount": 24
+    },
+    {
+      "book": "alma",
+      "chapter": 55,
+      "variantCount": 231,
+      "changedVerseCount": 35,
+      "totalVerseCount": 35
+    },
+    {
+      "book": "alma",
+      "chapter": 56,
+      "variantCount": 416,
+      "changedVerseCount": 57,
+      "totalVerseCount": 57
+    },
+    {
+      "book": "alma",
+      "chapter": 57,
+      "variantCount": 288,
+      "changedVerseCount": 36,
+      "totalVerseCount": 36
+    },
+    {
+      "book": "alma",
+      "chapter": 58,
+      "variantCount": 330,
+      "changedVerseCount": 41,
+      "totalVerseCount": 41
+    },
+    {
+      "book": "alma",
+      "chapter": 59,
+      "variantCount": 86,
+      "changedVerseCount": 13,
+      "totalVerseCount": 13
+    },
+    {
+      "book": "alma",
+      "chapter": 60,
+      "variantCount": 344,
+      "changedVerseCount": 36,
+      "totalVerseCount": 36
+    },
+    {
+      "book": "alma",
+      "chapter": 61,
+      "variantCount": 164,
+      "changedVerseCount": 21,
+      "totalVerseCount": 21
+    },
+    {
+      "book": "alma",
+      "chapter": 62,
+      "variantCount": 403,
+      "changedVerseCount": 52,
+      "totalVerseCount": 52
+    },
+    {
+      "book": "alma",
+      "chapter": 63,
+      "variantCount": 127,
+      "changedVerseCount": 17,
+      "totalVerseCount": 17
+    },
+    {
+      "book": "hel",
+      "chapter": 1,
+      "variantCount": 277,
+      "changedVerseCount": 35,
+      "totalVerseCount": 35
+    },
+    {
+      "book": "hel",
+      "chapter": 2,
+      "variantCount": 111,
+      "changedVerseCount": 14,
+      "totalVerseCount": 14
+    },
+    {
+      "book": "hel",
+      "chapter": 3,
+      "variantCount": 320,
+      "changedVerseCount": 37,
+      "totalVerseCount": 37
+    },
+    {
+      "book": "hel",
+      "chapter": 4,
+      "variantCount": 199,
+      "changedVerseCount": 26,
+      "totalVerseCount": 26
+    },
+    {
+      "book": "hel",
+      "chapter": 5,
+      "variantCount": 395,
+      "changedVerseCount": 52,
+      "totalVerseCount": 52
+    },
+    {
+      "book": "hel",
+      "chapter": 6,
+      "variantCount": 353,
+      "changedVerseCount": 41,
+      "totalVerseCount": 41
+    },
+    {
+      "book": "hel",
+      "chapter": 7,
+      "variantCount": 237,
+      "changedVerseCount": 30,
+      "totalVerseCount": 30
+    },
+    {
+      "book": "hel",
+      "chapter": 8,
+      "variantCount": 248,
+      "changedVerseCount": 28,
+      "totalVerseCount": 28
+    },
+    {
+      "book": "hel",
+      "chapter": 9,
+      "variantCount": 306,
+      "changedVerseCount": 41,
+      "totalVerseCount": 41
+    },
+    {
+      "book": "hel",
+      "chapter": 10,
+      "variantCount": 135,
+      "changedVerseCount": 19,
+      "totalVerseCount": 19
+    },
+    {
+      "book": "hel",
+      "chapter": 11,
+      "variantCount": 271,
+      "changedVerseCount": 38,
+      "totalVerseCount": 38
+    },
+    {
+      "book": "hel",
+      "chapter": 12,
+      "variantCount": 199,
+      "changedVerseCount": 26,
+      "totalVerseCount": 26
+    },
+    {
+      "book": "hel",
+      "chapter": 13,
+      "variantCount": 372,
+      "changedVerseCount": 40,
+      "totalVerseCount": 40
+    },
+    {
+      "book": "hel",
+      "chapter": 14,
+      "variantCount": 266,
+      "changedVerseCount": 31,
+      "totalVerseCount": 31
+    },
+    {
+      "book": "hel",
+      "chapter": 15,
+      "variantCount": 153,
+      "changedVerseCount": 17,
+      "totalVerseCount": 17
+    },
+    {
+      "book": "hel",
+      "chapter": 16,
+      "variantCount": 199,
+      "changedVerseCount": 25,
+      "totalVerseCount": 25
+    },
+    {
+      "book": "3-ne",
+      "chapter": 1,
+      "variantCount": 259,
+      "changedVerseCount": 31,
+      "totalVerseCount": 31
+    },
+    {
+      "book": "3-ne",
+      "chapter": 2,
+      "variantCount": 141,
+      "changedVerseCount": 19,
+      "totalVerseCount": 19
+    },
+    {
+      "book": "3-ne",
+      "chapter": 3,
+      "variantCount": 256,
+      "changedVerseCount": 26,
+      "totalVerseCount": 26
+    },
+    {
+      "book": "3-ne",
+      "chapter": 4,
+      "variantCount": 264,
+      "changedVerseCount": 33,
+      "totalVerseCount": 33
+    },
+    {
+      "book": "3-ne",
+      "chapter": 5,
+      "variantCount": 172,
+      "changedVerseCount": 26,
+      "totalVerseCount": 26
+    },
+    {
+      "book": "3-ne",
+      "chapter": 6,
+      "variantCount": 242,
+      "changedVerseCount": 30,
+      "totalVerseCount": 30
+    },
+    {
+      "book": "3-ne",
+      "chapter": 7,
+      "variantCount": 207,
+      "changedVerseCount": 26,
+      "totalVerseCount": 26
+    },
+    {
+      "book": "3-ne",
+      "chapter": 8,
+      "variantCount": 189,
+      "changedVerseCount": 25,
+      "totalVerseCount": 25
+    },
+    {
+      "book": "3-ne",
+      "chapter": 9,
+      "variantCount": 200,
+      "changedVerseCount": 22,
+      "totalVerseCount": 22
+    },
+    {
+      "book": "3-ne",
+      "chapter": 10,
+      "variantCount": 156,
+      "changedVerseCount": 19,
+      "totalVerseCount": 19
+    },
+    {
+      "book": "3-ne",
+      "chapter": 11,
+      "variantCount": 299,
+      "changedVerseCount": 42,
+      "totalVerseCount": 42
+    },
+    {
+      "book": "3-ne",
+      "chapter": 12,
+      "variantCount": 268,
+      "changedVerseCount": 48,
+      "totalVerseCount": 48
+    },
+    {
+      "book": "3-ne",
+      "chapter": 13,
+      "variantCount": 178,
+      "changedVerseCount": 34,
+      "totalVerseCount": 34
+    },
+    {
+      "book": "3-ne",
+      "chapter": 14,
+      "variantCount": 141,
+      "changedVerseCount": 27,
+      "totalVerseCount": 27
+    },
+    {
+      "book": "3-ne",
+      "chapter": 15,
+      "variantCount": 129,
+      "changedVerseCount": 24,
+      "totalVerseCount": 24
+    },
+    {
+      "book": "3-ne",
+      "chapter": 16,
+      "variantCount": 172,
+      "changedVerseCount": 20,
+      "totalVerseCount": 20
+    },
+    {
+      "book": "3-ne",
+      "chapter": 17,
+      "variantCount": 162,
+      "changedVerseCount": 25,
+      "totalVerseCount": 25
+    },
+    {
+      "book": "3-ne",
+      "chapter": 18,
+      "variantCount": 247,
+      "changedVerseCount": 39,
+      "totalVerseCount": 39
+    },
+    {
+      "book": "3-ne",
+      "chapter": 19,
+      "variantCount": 239,
+      "changedVerseCount": 36,
+      "totalVerseCount": 36
+    },
+    {
+      "book": "3-ne",
+      "chapter": 20,
+      "variantCount": 327,
+      "changedVerseCount": 46,
+      "totalVerseCount": 46
+    },
+    {
+      "book": "3-ne",
+      "chapter": 21,
+      "variantCount": 211,
+      "changedVerseCount": 29,
+      "totalVerseCount": 29
+    },
+    {
+      "book": "3-ne",
+      "chapter": 22,
+      "variantCount": 105,
+      "changedVerseCount": 17,
+      "totalVerseCount": 17
+    },
+    {
+      "book": "3-ne",
+      "chapter": 23,
+      "variantCount": 92,
+      "changedVerseCount": 14,
+      "totalVerseCount": 14
+    },
+    {
+      "book": "3-ne",
+      "chapter": 24,
+      "variantCount": 130,
+      "changedVerseCount": 18,
+      "totalVerseCount": 18
+    },
+    {
+      "book": "3-ne",
+      "chapter": 25,
+      "variantCount": 42,
+      "changedVerseCount": 6,
+      "totalVerseCount": 6
+    },
+    {
+      "book": "3-ne",
+      "chapter": 26,
+      "variantCount": 157,
+      "changedVerseCount": 21,
+      "totalVerseCount": 21
+    },
+    {
+      "book": "3-ne",
+      "chapter": 27,
+      "variantCount": 259,
+      "changedVerseCount": 33,
+      "totalVerseCount": 33
+    },
+    {
+      "book": "3-ne",
+      "chapter": 28,
+      "variantCount": 271,
+      "changedVerseCount": 40,
+      "totalVerseCount": 40
+    },
+    {
+      "book": "3-ne",
+      "chapter": 29,
+      "variantCount": 67,
+      "changedVerseCount": 9,
+      "totalVerseCount": 9
+    },
+    {
+      "book": "3-ne",
+      "chapter": 30,
+      "variantCount": 35,
+      "changedVerseCount": 2,
+      "totalVerseCount": 2
+    },
+    {
+      "book": "4-ne",
+      "chapter": 1,
+      "variantCount": 447,
+      "changedVerseCount": 50,
+      "totalVerseCount": 50
+    },
+    {
+      "book": "morm",
+      "chapter": 1,
+      "variantCount": 142,
+      "changedVerseCount": 20,
+      "totalVerseCount": 20
+    },
+    {
+      "book": "morm",
+      "chapter": 2,
+      "variantCount": 224,
+      "changedVerseCount": 29,
+      "totalVerseCount": 29
+    },
+    {
+      "book": "morm",
+      "chapter": 3,
+      "variantCount": 180,
+      "changedVerseCount": 22,
+      "totalVerseCount": 22
+    },
+    {
+      "book": "morm",
+      "chapter": 4,
+      "variantCount": 151,
+      "changedVerseCount": 23,
+      "totalVerseCount": 23
+    },
+    {
+      "book": "morm",
+      "chapter": 5,
+      "variantCount": 206,
+      "changedVerseCount": 24,
+      "totalVerseCount": 24
+    },
+    {
+      "book": "morm",
+      "chapter": 6,
+      "variantCount": 183,
+      "changedVerseCount": 22,
+      "totalVerseCount": 22
+    },
+    {
+      "book": "morm",
+      "chapter": 7,
+      "variantCount": 80,
+      "changedVerseCount": 10,
+      "totalVerseCount": 10
+    },
+    {
+      "book": "morm",
+      "chapter": 8,
+      "variantCount": 337,
+      "changedVerseCount": 41,
+      "totalVerseCount": 41
+    },
+    {
+      "book": "morm",
+      "chapter": 9,
+      "variantCount": 318,
+      "changedVerseCount": 37,
+      "totalVerseCount": 37
+    },
+    {
+      "book": "ether",
+      "chapter": 1,
+      "variantCount": 174,
+      "changedVerseCount": 43,
+      "totalVerseCount": 44
+    },
+    {
+      "book": "ether",
+      "chapter": 2,
+      "variantCount": 213,
+      "changedVerseCount": 25,
+      "totalVerseCount": 25
+    },
+    {
+      "book": "ether",
+      "chapter": 3,
+      "variantCount": 227,
+      "changedVerseCount": 28,
+      "totalVerseCount": 28
+    },
+    {
+      "book": "ether",
+      "chapter": 4,
+      "variantCount": 144,
+      "changedVerseCount": 19,
+      "totalVerseCount": 19
+    },
+    {
+      "book": "ether",
+      "chapter": 5,
+      "variantCount": 43,
+      "changedVerseCount": 6,
+      "totalVerseCount": 6
+    },
+    {
+      "book": "ether",
+      "chapter": 6,
+      "variantCount": 163,
+      "changedVerseCount": 30,
+      "totalVerseCount": 30
+    },
+    {
+      "book": "ether",
+      "chapter": 7,
+      "variantCount": 164,
+      "changedVerseCount": 27,
+      "totalVerseCount": 27
+    },
+    {
+      "book": "ether",
+      "chapter": 8,
+      "variantCount": 213,
+      "changedVerseCount": 26,
+      "totalVerseCount": 26
+    },
+    {
+      "book": "ether",
+      "chapter": 9,
+      "variantCount": 249,
+      "changedVerseCount": 35,
+      "totalVerseCount": 35
+    },
+    {
+      "book": "ether",
+      "chapter": 10,
+      "variantCount": 256,
+      "changedVerseCount": 34,
+      "totalVerseCount": 34
+    },
+    {
+      "book": "ether",
+      "chapter": 11,
+      "variantCount": 127,
+      "changedVerseCount": 23,
+      "totalVerseCount": 23
+    },
+    {
+      "book": "ether",
+      "chapter": 12,
+      "variantCount": 282,
+      "changedVerseCount": 41,
+      "totalVerseCount": 41
+    },
+    {
+      "book": "ether",
+      "chapter": 13,
+      "variantCount": 228,
+      "changedVerseCount": 31,
+      "totalVerseCount": 31
+    },
+    {
+      "book": "ether",
+      "chapter": 14,
+      "variantCount": 197,
+      "changedVerseCount": 31,
+      "totalVerseCount": 31
+    },
+    {
+      "book": "ether",
+      "chapter": 15,
+      "variantCount": 221,
+      "changedVerseCount": 34,
+      "totalVerseCount": 34
+    },
+    {
+      "book": "moro",
+      "chapter": 1,
+      "variantCount": 32,
+      "changedVerseCount": 5,
+      "totalVerseCount": 5
+    },
+    {
+      "book": "moro",
+      "chapter": 2,
+      "variantCount": 25,
+      "changedVerseCount": 3,
+      "totalVerseCount": 3
+    },
+    {
+      "book": "moro",
+      "chapter": 3,
+      "variantCount": 20,
+      "changedVerseCount": 4,
+      "totalVerseCount": 4
+    },
+    {
+      "book": "moro",
+      "chapter": 4,
+      "variantCount": 28,
+      "changedVerseCount": 3,
+      "totalVerseCount": 3
+    },
+    {
+      "book": "moro",
+      "chapter": 5,
+      "variantCount": 22,
+      "changedVerseCount": 2,
+      "totalVerseCount": 2
+    },
+    {
+      "book": "moro",
+      "chapter": 6,
+      "variantCount": 65,
+      "changedVerseCount": 9,
+      "totalVerseCount": 9
+    },
+    {
+      "book": "moro",
+      "chapter": 7,
+      "variantCount": 382,
+      "changedVerseCount": 48,
+      "totalVerseCount": 48
+    },
+    {
+      "book": "moro",
+      "chapter": 8,
+      "variantCount": 219,
+      "changedVerseCount": 30,
+      "totalVerseCount": 30
+    },
+    {
+      "book": "moro",
+      "chapter": 9,
+      "variantCount": 216,
+      "changedVerseCount": 27,
+      "totalVerseCount": 27
+    },
+    {
+      "book": "moro",
+      "chapter": 10,
+      "variantCount": 236,
+      "changedVerseCount": 35,
+      "totalVerseCount": 35
+    }
+  ]
+}

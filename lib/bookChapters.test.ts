@@ -1,6 +1,10 @@
 import { assertEquals } from "@std/assert";
 import { BOOK_ORDER } from "./data.ts";
-import { buildChapterHref, CHAPTER_COUNTS } from "./bookChapters.ts";
+import {
+  buildChapterHref,
+  CHAPTER_COUNTS,
+  CHAPTERLESS_BOOKS,
+} from "./bookChapters.ts";
 
 Deno.test("CHAPTER_COUNTS covers every book in BOOK_ORDER", () => {
   for (const book of BOOK_ORDER) {
@@ -33,6 +37,21 @@ Deno.test("CHAPTER_COUNTS has the canonical Book of Mormon totals", () => {
   assertEquals(CHAPTER_COUNTS["morm"], 9);
   assertEquals(CHAPTER_COUNTS["ether"], 15);
   assertEquals(CHAPTER_COUNTS["moro"], 10);
+});
+
+Deno.test("CHAPTERLESS_BOOKS members are real single-chapter books", () => {
+  for (const book of CHAPTERLESS_BOOKS) {
+    assertEquals(
+      BOOK_ORDER.includes(book as (typeof BOOK_ORDER)[number]),
+      true,
+      `${book} is not in BOOK_ORDER`,
+    );
+    assertEquals(
+      CHAPTER_COUNTS[book as keyof typeof CHAPTER_COUNTS],
+      1,
+      `${book} does not have exactly 1 chapter`,
+    );
+  }
 });
 
 Deno.test("buildChapterHref encodes v1 and v2", () => {

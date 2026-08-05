@@ -1,5 +1,3 @@
-**NOT READY FOR RELEASE — STILL CLEANING UP DATA**
-
 # Book of Mormon Compare
 
 ![Book of Mormon Compare screenshot](static/bofm-compare-screenshot.png)
@@ -19,6 +17,7 @@ Live (beta): https://bofm.scripturecompare.org?tutorial
 - Selection menu for sharing or copying verse ranges
 - First-visit tutorial
 - Dynamic OG images for social previews
+- Per-book overview pages listing every chapter with its textual-variant count
 - Non-extant chapters (present in one version, missing in another) are clearly
   marked
 
@@ -30,7 +29,11 @@ Live (beta): https://bofm.scripturecompare.org?tutorial
 | `pm`   | Printer's Manuscript                                     |
 | `1830` | 1830 First Edition                                       |
 | `1837` | 1837 Second Edition                                      |
+| `1840` | 1840 Nauvoo Edition                                      |
+| `1841` | 1841 Liverpool Edition                                   |
 | `2013` | 2013 Church of Jesus Christ of Latter-day Saints edition |
+
+Each version has its own page at `/versions/<key>`.
 
 ## Setup
 
@@ -71,6 +74,7 @@ deno task test         # Run all unit tests
 deno task pre-commit   # check + test (run by .githooks/pre-commit)
 deno task pre-push     # check + test (run by .githooks/pre-push)
 deno task align:*      # Aligns verses and chapters to 2013 Church of Jesus Christ edition
+deno task build:stats  # Recompute data/stats/variants.json (run after align:pm)
 ```
 
 ## Adding a new text version
@@ -86,6 +90,12 @@ pipeline.
 
 - `SITE_URL` — canonical site URL used for OG images and absolute links.
   Defaults to `https://bofm.scripturecompare.org`.
+- `GITHUB_TOKEN` — fine-grained PAT (repo-scoped, Issues read/write) used to
+  file correction reports as GitHub issues. Without it the report form returns
+  503.
+
+`deno task dev` and `deno task start` load variables from a local `.env` file
+(gitignored) if one exists — put `GITHUB_TOKEN=...` there for local dev.
 
 ## Disclaimer
 

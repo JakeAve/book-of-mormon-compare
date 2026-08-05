@@ -1,5 +1,7 @@
 import { define } from "@/utils/state.ts";
 import { getSiteUrl } from "@/lib/config.ts";
+import { buildBreadcrumbList } from "@/lib/breadcrumbs.ts";
+import { JsonLd } from "@/components/JsonLd.tsx";
 
 export const handler = define.handlers({
   GET(ctx) {
@@ -8,7 +10,7 @@ export const handler = define.handlers({
       title: "About — Book of Mormon Compare",
       description:
         "About Book of Mormon Compare: a tool for textual-critical study of Book of Mormon manuscripts and editions.",
-      imageUrl: `${siteUrl}/og-image?book=1-ne&chapter=1&v1=pm&v2=2013`,
+      imageUrl: `${siteUrl}/og-default.png`,
       pageUrl: `${siteUrl}/about`,
       canonicalUrl: `${siteUrl}/about`,
     };
@@ -17,11 +19,18 @@ export const handler = define.handlers({
 });
 
 export default define.page<typeof handler>(() => {
+  const siteUrl = getSiteUrl();
+  const jsonLd = buildBreadcrumbList([
+    { name: "Home", url: `${siteUrl}/` },
+    { name: "About", url: `${siteUrl}/about` },
+  ]);
+
   return (
     <main
       class="flex flex-col gap-8 max-w-2xl mx-auto px-6 pt-10 pb-16 font-serif text-base leading-relaxed"
       style={{ color: "var(--color-text)" }}
     >
+      <JsonLd data={jsonLd} />
       <h1 class="text-3xl font-semibold">About</h1>
 
       <section class="flex flex-col gap-3">
@@ -95,6 +104,17 @@ export default define.page<typeof handler>(() => {
         <p>
           Printed editions have been sourced from Joseph Smith Papers, online
           archives and their respective publishers.
+        </p>
+        <p>
+          Skousen's volumes are published through{" "}
+          <a
+            href="https://byustudies.byu.edu/book-of-mormon-critical-text-project"
+            class="underline"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            BYU Studies' Book of Mormon Critical Text Project
+          </a>.
         </p>
       </section>
 

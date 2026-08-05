@@ -2,6 +2,8 @@
 // in its own paths and cursor tuning. Defaults preserve the original PM-tuned
 // behavior so adding a new source can't regress PM.
 
+import type { BookSlug } from "../../shared/bom2013.ts";
+
 export interface CursorConfig {
   /** Search window multiplier per canonical verse. */
   windowSlack: number;
@@ -108,6 +110,14 @@ export interface SourceAdapter {
   label: string;
   raw: string;
   out: string;
+  /** Canonical book load order override for editions whose physical layout
+   *  differs from BOOK_ORDER (e.g. 1841 prints the witness testimonies in
+   *  the front matter rather than at the back). The cursor is monotonic, so
+   *  the canonical order must follow the source's physical order. */
+  bookOrder?: readonly BookSlug[];
+  /** Printed-edition convention: book titles are typeset in all caps. See
+   *  SegmentOptions.allCapsBookTitles. */
+  allCapsBookTitles?: boolean;
   /** Which alignment algorithm to use. "cursor" (default) is the verse-level
    *  LCS for sources that cover canon continuously. "scaffold" is the
    *  unique-n-gram anchor algorithm for fragmentary sources (OM). */

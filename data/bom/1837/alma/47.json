@@ -383,10 +383,17 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/379"
       },
       {
-        "id": "379:12a",
+        "id": "379:12",
         "page": 379,
         "line": 12,
-        "text": "and dethrone the king, and take possession of the",
+        "text": "and dethrone the king, and take possession of the king",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/379"
+      },
+      {
+        "id": "379:13a",
+        "page": 379,
+        "line": 13,
+        "text": "dom.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/379"
       }
     ]
@@ -397,17 +404,10 @@
     "verse": 9,
     "lines": [
       {
-        "id": "379:12b",
-        "page": 379,
-        "line": 12,
-        "text": "king ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/379"
-      },
-      {
-        "id": "379:13",
+        "id": "379:13b",
         "page": 379,
         "line": 13,
-        "text": "dom. And behold, it came to pass that he caused his ",
+        "text": "And behold, it came to pass that he caused his ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/379"
       },
       {

@@ -55,11 +55,27 @@ export function getBookDisplayName(book: string): string {
   return isBookAbbr(book) ? BOOK_DISPLAY_NAMES[book] : book;
 }
 
+// Publication order. Kept as an explicit array rather than derived from
+// VERSION_DISPLAY_NAMES's keys: JS enumerates integer-like object keys
+// ("1830", "1837", ...) in ascending numeric order ahead of string keys
+// regardless of insertion order, so Object.keys() can't preserve this.
+export const VERSION_ORDER: readonly string[] = [
+  "om",
+  "pm",
+  "1830",
+  "1837",
+  "1840",
+  "1841",
+  "2013",
+];
+
 export const VERSION_DISPLAY_NAMES: Record<string, string> = {
   "om": "Original Manuscript",
   "pm": "Printer's Manuscript",
   "1830": "1830 First Edition",
   "1837": "1837 Second Edition",
+  "1840": "1840 Nauvoo Edition",
+  "1841": "1841 Liverpool Edition",
   "2013": "2013 Church of Jesus Christ of Latter-day Saints",
 };
 
@@ -68,6 +84,8 @@ export const VERSION_SHORT_NAMES: Record<string, string> = {
   "pm": "Printer's Manuscript",
   "1830": "1830 First Edition",
   "1837": "1837 Second Edition",
+  "1840": "1840 Nauvoo Edition",
+  "1841": "1841 Liverpool Edition",
   "2013": "2013 Edition",
 };
 
@@ -162,7 +180,14 @@ export async function getVersions(bomDir = "data/bom"): Promise<string[]> {
     for await (const entry of Deno.readDir(bomDir)) {
       if (entry.isDirectory) entries.push(entry.name);
     }
-    return entries.sort();
+    return entries.sort((a, b) => {
+      const ai = VERSION_ORDER.indexOf(a);
+      const bi = VERSION_ORDER.indexOf(b);
+      if (ai === -1 && bi === -1) return a.localeCompare(b);
+      if (ai === -1) return 1;
+      if (bi === -1) return -1;
+      return ai - bi;
+    });
   } catch {
     return [];
   }

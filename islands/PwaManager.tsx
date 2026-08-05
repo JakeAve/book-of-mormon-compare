@@ -1,4 +1,5 @@
 import { useEffect, useState } from "preact/hooks";
+import CloseIcon from "../components/CloseIcon.tsx";
 
 type Banner = {
   message: string;
@@ -196,18 +197,18 @@ export default function PwaManager() {
             setNote(null);
           }}
           style={{
+            display: "flex",
+            alignItems: "center",
             background: "none",
             border: "none",
             cursor: "pointer",
             color: "var(--color-text)",
-            fontSize: "1rem",
-            lineHeight: 1,
             padding: "0 0.25rem",
             opacity: 0.6,
             flexShrink: 0,
           }}
         >
-          ×
+          <CloseIcon />
         </button>
       </div>
       {note.action && (

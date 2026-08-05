@@ -35,12 +35,17 @@ export function buildAllVerseOutputs(
   const { verseOrder, byVerse } = groupByVerseKey(allResults);
   const outVerses: OutVerse[] = [];
 
+  // Whole-corpus fallback for join decisions: a verse's canonical text can
+  // lack a word the source genuinely uses (textual variants), so decideJoin
+  // also consults the full canon with exact membership.
+  const globalCanon = buildCanonIndex([...canonByKey.values()].join("\n"));
+
   for (const vk of verseOrder) {
     const results = byVerse.get(vk)!;
     const { book, chapter, verse } = results[0].assignedVerse;
     const canonText = canonByKey.get(vk) ?? "";
     const lines = buildVerseLines(results, lineInfos, lineVerseSuffix, vk);
-    applyJoins(lines, buildCanonIndex(canonText));
+    applyJoins(lines, buildCanonIndex(canonText), globalCanon);
     outVerses.push({ book, chapter, verse, lines });
   }
 

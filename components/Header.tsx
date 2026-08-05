@@ -1,7 +1,7 @@
 import TutorialTrigger from "../islands/TutorialTrigger.tsx";
 import HeaderIconButton from "./HeaderIconButton.tsx";
 
-export default function Header() {
+export default function Header({ showTutorial }: { showTutorial: boolean }) {
   return (
     <header
       style={{
@@ -14,7 +14,7 @@ export default function Header() {
         backgroundColor: "var(--color-page-bg)",
       }}
     >
-      <h1 style={{ margin: 0 }}>
+      <p style={{ margin: 0 }}>
         <a
           href="/"
           style={{
@@ -28,8 +28,8 @@ export default function Header() {
         >
           Book of Mormon Compare
         </a>
-      </h1>
-      <TutorialTrigger />
+      </p>
+      {showTutorial && <TutorialTrigger />}
       <HeaderIconButton href="/about" label="About" style={{ right: "1.5rem" }}>
         i
       </HeaderIconButton>

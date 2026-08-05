@@ -390,10 +390,17 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/440"
       },
       {
-        "id": "440:10a",
+        "id": "440:10",
         "page": 440,
         "line": 10,
-        "text": "and their sanctuaries, and all manner of their",
+        "text": "and their sanctuaries, and all manner of their build",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/440"
+      },
+      {
+        "id": "440:11",
+        "page": 440,
+        "line": 11,
+        "text": "ings.",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/440"
       }
     ]
@@ -403,20 +410,6 @@
     "chapter": 3,
     "verse": 10,
     "lines": [
-      {
-        "id": "440:10b",
-        "page": 440,
-        "line": 10,
-        "text": "build ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/440"
-      },
-      {
-        "id": "440:11",
-        "page": 440,
-        "line": 11,
-        "text": "ings. ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/440"
-      },
       {
         "id": "440:12",
         "page": 440,
@@ -1027,10 +1020,17 @@
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/441"
       },
       {
-        "id": "441:28a",
+        "id": "441:28",
         "page": 441,
         "line": 28,
-        "text": "selves unto the church, and were baptized unto",
+        "text": "selves unto the church, and were baptized unto repent",
+        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/441"
+      },
+      {
+        "id": "441:29a",
+        "page": 441,
+        "line": 29,
+        "text": "ance;",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/441"
       }
     ]
@@ -1041,17 +1041,10 @@
     "verse": 25,
     "lines": [
       {
-        "id": "441:28b",
-        "page": 441,
-        "line": 28,
-        "text": "repent ",
-        "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/441"
-      },
-      {
-        "id": "441:29",
+        "id": "441:29b",
         "page": 441,
         "line": 29,
-        "text": "ance; and so great was the prosperity of the church, ",
+        "text": "and so great was the prosperity of the church, ",
         "source": "https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1837/441"
       },
       {
