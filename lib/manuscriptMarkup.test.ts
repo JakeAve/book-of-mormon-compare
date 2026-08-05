@@ -73,8 +73,8 @@ Deno.test("parse: dow[n] → token with inserted dominant and segments", () => {
   assertEquals(result[0].text, "down");
   assertEquals(result[0].kind, "inserted");
   assertEquals(result[0].segments, [
-    { text: "dow", kind: "normal" },
-    { text: "n", kind: "inserted" },
+    { text: "dow", kind: "normal", kinds: ["normal"] },
+    { text: "n", kind: "inserted", kinds: ["inserted"] },
   ]);
 });
 
@@ -84,8 +84,8 @@ Deno.test("parse: {{h}}e → unclear wins over normal in same word, with segment
   assertEquals(result[0].text, "he");
   assertEquals(result[0].kind, "unclear");
   assertEquals(result[0].segments, [
-    { text: "h", kind: "unclear" },
-    { text: "e", kind: "normal" },
+    { text: "h", kind: "unclear", kinds: ["unclear"] },
+    { text: "e", kind: "normal", kinds: ["normal"] },
   ]);
 });
 
@@ -95,8 +95,8 @@ Deno.test("parse: mountain~~s~~ → normal word with deleted suffix via segments
   assertEquals(result[0].text, "mountains");
   assertEquals(result[0].kind, "deleted");
   assertEquals(result[0].segments, [
-    { text: "mountain", kind: "normal" },
-    { text: "s", kind: "deleted" },
+    { text: "mountain", kind: "normal", kinds: ["normal"] },
+    { text: "s", kind: "deleted", kinds: ["deleted"] },
   ]);
 });
 
@@ -184,4 +184,26 @@ Deno.test("parseManuscriptMarkup: an unclosed caret does not swallow the rest", 
     tokens.map((t) => t.text).join(" "),
     "smiten him them by the hand",
   );
+});
+
+// A word can be marked more than one way at once: the scribe inserted it above
+// the line and then struck it out. 490 characters in the corpus are both
+// deleted and inserted, 598 are both inserted and unclear.
+Deno.test("parseManuscriptMarkup: an inserted word that was struck reports both", () => {
+  const [token] = parseManuscriptMarkup("~~<​headed​>~~");
+  assertEquals(token.text, "headed");
+  assertEquals(new Set(token.kinds), new Set(["deleted", "inserted"]));
+});
+
+Deno.test("parseManuscriptMarkup: an unclear insertion reports both", () => {
+  const [token] = parseManuscriptMarkup("<​{{voice}}​>");
+  assertEquals(token.text, "voice");
+  assertEquals(new Set(token.kinds), new Set(["unclear", "inserted"]));
+});
+
+Deno.test("parseManuscriptMarkup: a single-kind token still reports that kind", () => {
+  const [plain] = parseManuscriptMarkup("word");
+  assertEquals(plain.kinds, ["normal"]);
+  const [ins] = parseManuscriptMarkup("[all]");
+  assertEquals(ins.kinds, ["inserted"]);
 });

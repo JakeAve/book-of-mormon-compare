@@ -19,20 +19,17 @@ function verseLabel(verse: number) {
 // Update if the header height changes.
 export const VERSE_SCROLL_MARGIN_TOP = "6.1875rem";
 
-function kindStyle(kind: ManuscriptKind) {
-  switch (kind) {
-    case "deleted":
-      return { textDecoration: "line-through" };
-    case "unclear":
-      return { color: "var(--color-muted)" };
-    case "inserted":
-      return {
-        fontStyle: "italic",
-        verticalAlign: "super",
-      };
-    default:
-      return {};
-  }
+// The three markings are orthogonal, so they stack: a word the scribe inserted
+// above the line and then struck reads as both raised and struck through.
+function kindStyle(kinds: ManuscriptKind[] | ManuscriptKind) {
+  const list = Array.isArray(kinds) ? kinds : [kinds];
+  return {
+    ...(list.includes("deleted") ? { textDecoration: "line-through" } : {}),
+    ...(list.includes("unclear") ? { color: "var(--color-muted)" } : {}),
+    ...(list.includes("inserted")
+      ? { fontStyle: "italic", verticalAlign: "super" }
+      : {}),
+  };
 }
 
 function renderManuscriptToken(
@@ -43,12 +40,18 @@ function renderManuscriptToken(
     return (
       <>
         {parsed.segments.map((seg, i) => (
-          <span key={i} style={kindStyle(seg.kind)}>{seg.text}</span>
+          <span key={i} style={kindStyle(seg.kinds ?? seg.kind)}>
+            {seg.text}
+          </span>
         ))}
       </>
     );
   }
-  return <span style={kindStyle(parsed?.kind ?? "normal")}>{text}</span>;
+  return (
+    <span style={kindStyle(parsed?.kinds ?? parsed?.kind ?? "normal")}>
+      {text}
+    </span>
+  );
 }
 
 export interface DiffProps {
