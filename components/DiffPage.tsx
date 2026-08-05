@@ -124,7 +124,10 @@ export function DiffPage({
       </h1>
       <div style={{ maxWidth: "56rem", margin: "0 auto", overflowX: "clip" }}>
         {/* Sticky header */}
-        <div style={{ position: "sticky", top: 0, zIndex: 10 }}>
+        <div
+          data-sticky-header
+          style={{ position: "sticky", top: 0, zIndex: 10 }}
+        >
           {/* Title bar */}
           <div
             style={{

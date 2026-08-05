@@ -16,9 +16,13 @@ function verseLabel(verse: number) {
   return verse === 0 ? "Intro" : verse;
 }
 
-// Keeps an anchored verse (e.g. `#v-30`) clear of the sticky title bar.
-// Update if the header height changes.
-export const VERSE_SCROLL_MARGIN_TOP = "7.5625rem";
+// Keeps an anchored verse (e.g. `#v-30`) clear of the sticky header. The header
+// contains the always-visible legend, which wraps to 1-3 rows by width, so its
+// height is measured at runtime by islands/DiffTypeFilter.tsx. The literal is
+// only the pre-hydration fallback: the tallest case, so nothing hides under the
+// header before the measurement lands.
+export const VERSE_SCROLL_MARGIN_TOP =
+  "var(--sticky-header-height, 13.1875rem)";
 
 // The three markings are orthogonal, so they stack: a word the scribe inserted
 // above the line and then struck reads as both raised and struck through.

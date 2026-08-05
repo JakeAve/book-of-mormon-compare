@@ -1,4 +1,4 @@
-import { useEffect, useRef } from "preact/hooks";
+import { useEffect } from "preact/hooks";
 import { useSignal } from "@preact/signals";
 
 const KINDS = [
@@ -12,9 +12,6 @@ const KINDS = [
 
 const STORAGE_KEY = "bofm-diff-inactive";
 
-// How far you must scroll after tapping the collapsed bar before it shrinks again.
-const PIN_SLACK = 60;
-
 function applyToContainer(inactive: Set<string>) {
   const container = document.querySelector("[data-diff-container]");
   if (container) {
@@ -24,8 +21,6 @@ function applyToContainer(inactive: Set<string>) {
 
 export default function DiffTypeFilter() {
   const inactive = useSignal<Set<string>>(new Set());
-  const open = useSignal(true);
-  const pinnedAt = useRef<number | null>(null);
 
   useEffect(() => {
     const stored = localStorage.getItem(STORAGE_KEY);
@@ -34,22 +29,21 @@ export default function DiffTypeFilter() {
     }
     applyToContainer(inactive.value);
 
-    const onScroll = () => {
-      const y = globalThis.scrollY;
-      if (y < 8) {
-        pinnedAt.current = null;
-        open.value = true;
-        return;
-      }
-      if (pinnedAt.current !== null) {
-        if (Math.abs(y - pinnedAt.current) < PIN_SLACK) return;
-        pinnedAt.current = null;
-      }
-      open.value = false;
+    // The legend wraps to 1-3 rows depending on width, so the sticky header has
+    // no fixed height to hardcode. Publish the measured height for the verse
+    // anchors instead — see VERSE_SCROLL_MARGIN_TOP in components/Diff.tsx.
+    const header = document.querySelector<HTMLElement>("[data-sticky-header]");
+    if (!header) return;
+    const publish = () => {
+      document.documentElement.style.setProperty(
+        "--sticky-header-height",
+        `${header.getBoundingClientRect().height}px`,
+      );
     };
-    onScroll();
-    globalThis.addEventListener("scroll", onScroll, { passive: true });
-    return () => globalThis.removeEventListener("scroll", onScroll);
+    publish();
+    const observer = new ResizeObserver(publish);
+    observer.observe(header);
+    return () => observer.disconnect();
   }, []);
 
   function toggle(kind: string) {
@@ -59,37 +53,6 @@ export default function DiffTypeFilter() {
     inactive.value = next;
     localStorage.setItem(STORAGE_KEY, [...next].join(" "));
     applyToContainer(next);
-  }
-
-  const collapsed = !open.value;
-
-  if (collapsed) {
-    return (
-      <button
-        type="button"
-        aria-expanded={false}
-        onClick={() => {
-          pinnedAt.current = globalThis.scrollY;
-          open.value = true;
-        }}
-        style={{
-          display: "block",
-          width: "100%",
-          padding: "0.25rem 1.5rem",
-          border: "none",
-          background: "var(--color-bg)",
-          color: "var(--color-verse-num)",
-          fontFamily: "sans-serif",
-          fontSize: "0.75rem",
-          letterSpacing: "0.05em",
-          textTransform: "uppercase",
-          textAlign: "center",
-          cursor: "pointer",
-        }}
-      >
-        Filters
-      </button>
-    );
   }
 
   return (
