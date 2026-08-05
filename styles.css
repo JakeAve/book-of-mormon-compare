@@ -55,20 +55,22 @@
 
     --color-word-match: #1a5a64;
     --color-word-match-selection: #1a5a64;
-    /* Weighted by how often each kind occurs, not by equal intensity: spelling,
-       punctuation and capitalization are ~88% of all marks, so they sit at
-       1.2–1.4:1 on the background and recede. The rare substantive kinds carry
-       1.6–1.8:1. Verse text clears 7:1 (AAA) on every one. */
-    --color-diff-capitalization-1: #28405a;
-    --color-diff-capitalization-2: #253a52;
-    --color-diff-spelling-1: #4b3059;
-    --color-diff-spelling-2: #442c51;
-    --color-diff-punctuation-1: #393941;
-    --color-diff-punctuation-2: #34343b;
-    --color-diff-addition-2: #28582e;
-    --color-diff-omission-1: #773e35;
-    --color-diff-wordchange-1: #624826;
-    --color-diff-wordchange-2: #5a4223;
+    /* Dark tints cannot hold the chroma a pastel does on white, so matching
+       light mode's presence takes more lightness AND more saturation, not just
+       contrast. Frequency still sets the order: the orthographic kinds are ~88%
+       of all marks and sit at 1.7–2.1:1 on the background, the rare substantive
+       kinds at 2.4–2.8:1. Verse text stays at or above 4.84:1 (WCAG AA) on
+       every one — pushing further would break AA on the loudest three. */
+    --color-diff-capitalization-1: #2c598c;
+    --color-diff-capitalization-2: #295281;
+    --color-diff-spelling-1: #763994;
+    --color-diff-spelling-2: #6c3587;
+    --color-diff-punctuation-1: #505062;
+    --color-diff-punctuation-2: #49495a;
+    --color-diff-addition-2: #2c7736;
+    --color-diff-omission-1: #a94d3e;
+    --color-diff-wordchange-1: #895f29;
+    --color-diff-wordchange-2: #7f5826;
 
     --color-dialog-bg: #262626;
     --color-dialog-border: #363636;
