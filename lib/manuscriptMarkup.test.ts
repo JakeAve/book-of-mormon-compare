@@ -148,3 +148,40 @@ Deno.test("parse: unclosed ~~ marker applies kind to rest of string", () => {
   assertEquals(result[0].kind, "deleted");
   assertEquals(result[0].segments, undefined);
 });
+
+// The Joseph Smith Papers transcripts carry insertions in two notations:
+// [inserted] and <inserted>, the latter padded with zero-width spaces. They
+// mean the same thing — 1 Nephi 22:29 uses both in a single verse.
+Deno.test("stripManuscriptMarkup: drops caret insertion markers", () => {
+  assertEquals(
+    stripManuscriptMarkup("for thy ~~thy~~ <​my name​> name sake"),
+    "for thy thy my name name sake",
+  );
+});
+
+Deno.test("stripManuscriptMarkup: drops zero-width padding inside a word", () => {
+  assertEquals(stripManuscriptMarkup("as ~~ye<​t​>~~ [yet]"), "as yet yet");
+});
+
+Deno.test("parseManuscriptMarkup: caret content is inserted, like brackets", () => {
+  const bracket = parseManuscriptMarkup("unto [all] nations");
+  const caret = parseManuscriptMarkup("unto <​all​> nations");
+  assertEquals(
+    caret.map((t) => [t.text, t.kind]),
+    bracket.map((t) => [t.text, t.kind]),
+  );
+  assertEquals(caret[1].kind, "inserted");
+});
+
+Deno.test("parseManuscriptMarkup: a caret nested in a deletion stays deleted", () => {
+  const tokens = parseManuscriptMarkup("the bottom ~~<​thereof​>~~ thereof");
+  assertEquals(tokens.find((t) => t.text === "thereof")?.kind, "deleted");
+});
+
+Deno.test("parseManuscriptMarkup: an unclosed caret does not swallow the rest", () => {
+  const tokens = parseManuscriptMarkup("smiten <​him them by the hand");
+  assertEquals(
+    tokens.map((t) => t.text).join(" "),
+    "smiten him them by the hand",
+  );
+});
