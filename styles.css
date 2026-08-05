@@ -18,6 +18,8 @@
   --color-diff-capitalization-2: #c8d8ec;
   --color-diff-spelling-1: #e8d8ec;
   --color-diff-spelling-2: #ddc8e4;
+  --color-diff-punctuation-1: #dedee4;
+  --color-diff-punctuation-2: #d2d2da;
   --color-diff-addition-2: #cfe6c4;
   --color-diff-omission-1: #f0d4cc;
   --color-diff-wordchange-1: #edd9a8;
@@ -57,6 +59,8 @@
     --color-diff-capitalization-2: #1f3a5c;
     --color-diff-spelling-1: #4a2e5c;
     --color-diff-spelling-2: #3c1f50;
+    --color-diff-punctuation-1: #45454f;
+    --color-diff-punctuation-2: #383842;
     --color-diff-addition-2: #4a7940;
     --color-diff-omission-1: #8a3b2c;
     --color-diff-wordchange-1: #a06c1f;
@@ -455,6 +459,12 @@ body {
 [data-col="2"] [data-diff-kind="spelling"] {
   background-color: var(--color-diff-spelling-2);
 }
+[data-col="1"] [data-diff-kind="punctuation"] {
+  background-color: var(--color-diff-punctuation-1);
+}
+[data-col="2"] [data-diff-kind="punctuation"] {
+  background-color: var(--color-diff-punctuation-2);
+}
 [data-diff-kind="addition"] {
   background-color: var(--color-diff-addition-2);
 }
@@ -471,6 +481,7 @@ body {
 /* Filter: hide a kind's highlight when its name is in data-diff-inactive */
 [data-diff-inactive~="capitalization"] [data-diff-kind="capitalization"],
 [data-diff-inactive~="spelling"] [data-diff-kind="spelling"],
+[data-diff-inactive~="punctuation"] [data-diff-kind="punctuation"],
 [data-diff-inactive~="addition"] [data-diff-kind="addition"],
 [data-diff-inactive~="omission"] [data-diff-kind="omission"],
 [data-diff-inactive~="wordChange"] [data-diff-kind="wordChange"] {
@@ -490,6 +501,9 @@ body {
 }
 .diff-swatch[data-diff-kind="spelling"] {
   background-color: var(--color-diff-spelling-2);
+}
+.diff-swatch[data-diff-kind="punctuation"] {
+  background-color: var(--color-diff-punctuation-2);
 }
 .diff-swatch[data-diff-kind="addition"] {
   background-color: var(--color-diff-addition-2);

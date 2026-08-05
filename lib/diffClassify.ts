@@ -16,7 +16,7 @@ function stripPunct(s: string): string {
 }
 
 export function classifySubstitution(oldVal: string, newVal: string): DiffKind {
-  if (isPunctuation(oldVal) || isPunctuation(newVal)) return "wordChange";
+  if (isPunctuation(oldVal) || isPunctuation(newVal)) return "punctuation";
 
   if (oldVal.toLowerCase() === newVal.toLowerCase()) return "capitalization";
 
@@ -69,7 +69,11 @@ export function classifyDiff(tokens: Token[]): Token[] {
     const added: Token[] = [];
     let j = i;
     while (j < tokens.length && (tokens[j].added || tokens[j].removed)) {
-      if (tokens[j].removed) removed.push(tokens[j]);
+      // Punctuation is classified in place and kept out of the pairing pools:
+      // the Printer's Manuscript is largely unpunctuated, so leaving it in lets
+      // a leftover word pair with a stray comma and read as a word change.
+      if (isPunctuation(tokens[j].value)) tokens[j].kind = "punctuation";
+      else if (tokens[j].removed) removed.push(tokens[j]);
       else added.push(tokens[j]);
       j++;
     }

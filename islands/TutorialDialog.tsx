@@ -51,6 +51,9 @@ const STEPS: TutorialStep[] = [
           {swatch("--color-diff-spelling-2", "Spelling variant")}
         </p>
         <p style={{ margin: "0 0 0.5rem" }}>
+          {swatch("--color-diff-punctuation-2", "Punctuation")}
+        </p>
+        <p style={{ margin: "0 0 0.5rem" }}>
           {swatch("--color-diff-addition-2", "Addition")}
         </p>
         <p style={{ margin: "0 0 0.5rem" }}>

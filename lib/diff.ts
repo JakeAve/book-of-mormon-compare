@@ -3,6 +3,7 @@ import { splitText } from "./textHelpers.ts";
 export type DiffKind =
   | "capitalization"
   | "spelling"
+  | "punctuation"
   | "addition"
   | "omission"
   | "wordChange";

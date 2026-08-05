@@ -3,6 +3,7 @@ import { useSignal } from "@preact/signals";
 
 const KINDS = [
   { kind: "capitalization", label: "Capitalization" },
+  { kind: "punctuation", label: "Punctuation" },
   { kind: "spelling", label: "Spelling" },
   { kind: "addition", label: "Addition" },
   { kind: "omission", label: "Omission" },

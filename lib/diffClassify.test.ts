@@ -24,8 +24,14 @@ Deno.test("classifySubstitution: distant words are word change", () => {
   assertEquals(classifySubstitution("lord", "word"), "wordChange");
 });
 
-Deno.test("classifySubstitution: punctuation-only is word change", () => {
-  assertEquals(classifySubstitution(",", ";"), "wordChange");
+Deno.test("classifySubstitution: punctuation swap is punctuation", () => {
+  assertEquals(classifySubstitution(",", ";"), "punctuation");
+  assertEquals(classifySubstitution(".", ","), "punctuation");
+});
+
+Deno.test("classifySubstitution: word against punctuation is punctuation", () => {
+  assertEquals(classifySubstitution("his", ","), "punctuation");
+  assertEquals(classifySubstitution(".", "never"), "punctuation");
 });
 
 Deno.test("classifySubstitution: case+spelling difference resolves to spelling", () => {
@@ -99,4 +105,55 @@ Deno.test("classifyDiff: multiple disjoint change regions are classified indepen
   assertEquals(tokens[1].kind, "addition");
   assertEquals(tokens[2].kind, undefined);
   assertEquals(tokens[3].kind, "omission");
+});
+
+Deno.test("classifyDiff: added punctuation is punctuation, not addition", () => {
+  const tokens: Token[] = [
+    { value: "word", added: false, removed: false },
+    { value: ",", added: true },
+  ];
+  classifyDiff(tokens);
+  assertEquals(tokens[1].kind, "punctuation");
+});
+
+Deno.test("classifyDiff: removed punctuation is punctuation, not omission", () => {
+  const tokens: Token[] = [
+    { value: "word", added: false, removed: false },
+    { value: ";", removed: true },
+  ];
+  classifyDiff(tokens);
+  assertEquals(tokens[1].kind, "punctuation");
+});
+
+Deno.test("classifyDiff: punctuation never consumes a word pairing slot", () => {
+  // The corpus bug: a leftover word zipped to a leftover comma became wordChange.
+  const tokens: Token[] = [
+    { value: "his", removed: true },
+    { value: ",", added: true },
+  ];
+  classifyDiff(tokens);
+  assertEquals(tokens[0].kind, "omission");
+  assertEquals(tokens[1].kind, "punctuation");
+});
+
+Deno.test("classifyDiff: real substitution still pairs across added punctuation", () => {
+  const tokens: Token[] = [
+    { value: "author", removed: true },
+    { value: ",", added: true },
+    { value: "translator", added: true },
+  ];
+  classifyDiff(tokens);
+  assertEquals(tokens[0].kind, "wordChange");
+  assertEquals(tokens[1].kind, "punctuation");
+  assertEquals(tokens[2].kind, "wordChange");
+});
+
+Deno.test("classifyDiff: & is a spelling variant, not punctuation", () => {
+  const tokens: Token[] = [
+    { value: "&", removed: true },
+    { value: "and", added: true },
+  ];
+  classifyDiff(tokens);
+  assertEquals(tokens[0].kind, "spelling");
+  assertEquals(tokens[1].kind, "spelling");
 });
