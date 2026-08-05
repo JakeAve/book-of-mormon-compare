@@ -8,7 +8,6 @@ Deno.test("classifySubstitution: case-only difference is capitalization", () => 
 
 Deno.test("classifySubstitution: curated variant is spelling", () => {
   assertEquals(classifySubstitution("Saviour", "Savior"), "spelling");
-  assertEquals(classifySubstitution("&", "and"), "spelling");
 });
 
 Deno.test("classifySubstitution: curated variant (thru/through) is spelling", () => {
@@ -148,12 +147,36 @@ Deno.test("classifyDiff: real substitution still pairs across added punctuation"
   assertEquals(tokens[2].kind, "wordChange");
 });
 
-Deno.test("classifyDiff: & is a spelling variant, not punctuation", () => {
+Deno.test("classifyDiff: & is an ampersand change, not punctuation", () => {
   const tokens: Token[] = [
     { value: "&", removed: true },
     { value: "and", added: true },
   ];
   classifyDiff(tokens);
-  assertEquals(tokens[0].kind, "spelling");
-  assertEquals(tokens[1].kind, "spelling");
+  assertEquals(tokens[0].kind, "ampersand");
+  assertEquals(tokens[1].kind, "ampersand");
+});
+
+Deno.test("classifySubstitution: & against and is its own kind", () => {
+  assertEquals(classifySubstitution("&", "and"), "ampersand");
+  assertEquals(classifySubstitution("&", "And"), "ampersand");
+  assertEquals(classifySubstitution("and", "&"), "ampersand");
+});
+
+Deno.test("classifySubstitution: real spelling variants stay spelling", () => {
+  assertEquals(classifySubstitution("exceding", "exceeding"), "spelling");
+  assertEquals(classifySubstitution("baptised", "baptized"), "spelling");
+  assertEquals(classifySubstitution("untill", "until"), "spelling");
+});
+
+Deno.test("classifyDiff: & pairs with and and is labelled ampersand", () => {
+  const tokens: Token[] = [
+    { value: "&", removed: true },
+    { value: ",", added: true },
+    { value: "and", added: true },
+  ];
+  classifyDiff(tokens);
+  assertEquals(tokens[0].kind, "ampersand");
+  assertEquals(tokens[1].kind, "punctuation");
+  assertEquals(tokens[2].kind, "ampersand");
 });

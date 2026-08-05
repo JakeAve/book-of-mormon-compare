@@ -23,6 +23,12 @@ export function classifySubstitution(oldVal: string, newVal: string): DiffKind {
   const a = stripPunct(oldVal).toLowerCase();
   const b = stripPunct(newVal).toLowerCase();
 
+  // The manuscripts write "and" as "&" throughout: nearly four in five spelling
+  // matches were this one pair, drowning out the real orthographic variants.
+  if ((a === "&" && b === "and") || (a === "and" && b === "&")) {
+    return "ampersand";
+  }
+
   if (isKnownVariant(a, b)) return "spelling";
 
   const dist = levenshtein(a, b);
