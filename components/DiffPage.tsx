@@ -204,9 +204,8 @@ export function DiffPage({
               {select2}
             </div>
           </div>
+          <DiffTypeFilter />
         </div>
-
-        <DiffTypeFilter />
 
         {/* Reader body */}
         <div

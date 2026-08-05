@@ -18,7 +18,7 @@ function verseLabel(verse: number) {
 
 // Keeps an anchored verse (e.g. `#v-30`) clear of the sticky title bar.
 // Update if the header height changes.
-export const VERSE_SCROLL_MARGIN_TOP = "6.1875rem";
+export const VERSE_SCROLL_MARGIN_TOP = "7.5625rem";
 
 function kindStyle(kind: ManuscriptKind) {
   switch (kind) {
