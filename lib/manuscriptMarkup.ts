@@ -13,8 +13,13 @@ export interface ManuscriptToken {
   segments?: ManuscriptSegment[];
 }
 
+// Insertions arrive in two notations from the Joseph Smith Papers transcripts:
+// [inserted] and <inserted>, the latter padded with zero-width spaces. They mean
+// the same thing — 1 Nephi 22:29 carries both in one verse.
+const MARKERS = /~~|\{\{|\}\}|\[|\]|<|>|​/g;
+
 export function stripManuscriptMarkup(markdown: string): string {
-  return markdown.replace(/~~|\{\{|\}\}|\[|\]/g, "");
+  return markdown.replace(MARKERS, "");
 }
 
 export function parseManuscriptMarkup(markdown: string): ManuscriptToken[] {
@@ -48,12 +53,14 @@ export function parseManuscriptMarkup(markdown: string): ManuscriptToken[] {
       const idx = stack.lastIndexOf("unclear");
       if (idx !== -1) stack.splice(idx, 1);
       i += 2;
-    } else if (markdown[i] === "[") {
+    } else if (markdown[i] === "[" || markdown[i] === "<") {
       stack.push("inserted");
       i++;
-    } else if (markdown[i] === "]") {
+    } else if (markdown[i] === "]" || markdown[i] === ">") {
       const idx = stack.lastIndexOf("inserted");
       if (idx !== -1) stack.splice(idx, 1);
+      i++;
+    } else if (markdown[i] === "​") {
       i++;
     } else {
       kindChars.push(currentMode());
