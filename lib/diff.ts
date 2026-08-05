@@ -4,7 +4,6 @@ export type DiffKind =
   | "capitalization"
   | "spelling"
   | "punctuation"
-  | "ampersand"
   | "addition"
   | "omission"
   | "wordChange";

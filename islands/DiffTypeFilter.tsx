@@ -5,7 +5,6 @@ const KINDS = [
   { kind: "capitalization", label: "Capitalization" },
   { kind: "punctuation", label: "Punctuation" },
   { kind: "spelling", label: "Spelling" },
-  { kind: "ampersand", label: "& / and" },
   { kind: "addition", label: "Addition" },
   { kind: "omission", label: "Omission" },
   { kind: "wordChange", label: "Word change" },
