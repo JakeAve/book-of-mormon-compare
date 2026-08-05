@@ -172,3 +172,72 @@ Deno.test("classifySubstitution: short grammatical changes stay word changes", (
   assertEquals(classifySubstitution("doth", "do"), "wordChange");
   assertEquals(classifySubstitution("came", "come"), "wordChange");
 });
+
+Deno.test("classifyDiff: pm two words vs 2013 one word is a spelling difference", () => {
+  const tokens: Token[] = [
+    { value: "first", removed: true },
+    { value: "born", removed: true },
+    { value: "firstborn", added: true },
+  ];
+  classifyDiff(tokens);
+  assertEquals(tokens.map((t) => t.kind), ["spelling", "spelling", "spelling"]);
+});
+
+Deno.test("classifyDiff: pm one word vs 2013 two words is a spelling difference", () => {
+  const tokens: Token[] = [
+    { value: "Judgmentseat", removed: true },
+    { value: "judgment", added: true },
+    { value: "seat", added: true },
+  ];
+  classifyDiff(tokens);
+  assertEquals(tokens.map((t) => t.kind), ["spelling", "spelling", "spelling"]);
+});
+
+Deno.test("classifyDiff: word division ignores an added hyphen", () => {
+  const tokens: Token[] = [
+    { value: "allpowerful", removed: true },
+    { value: "all", added: true },
+    { value: "-", added: true },
+    { value: "powerful", added: true },
+  ];
+  classifyDiff(tokens);
+  assertEquals(tokens[0].kind, "spelling");
+  assertEquals(tokens[1].kind, "spelling");
+  assertEquals(tokens[2].kind, "punctuation");
+  assertEquals(tokens[3].kind, "spelling");
+});
+
+Deno.test("classifyDiff: word division is not claimed when letters differ", () => {
+  const tokens: Token[] = [
+    { value: "first", removed: true },
+    { value: "born", removed: true },
+    { value: "firstling", added: true },
+  ];
+  classifyDiff(tokens);
+  assertEquals(tokens.every((t) => t.kind === "spelling"), false);
+});
+
+Deno.test("classifyDiff: a one-for-one pair is untouched by the division rule", () => {
+  const tokens: Token[] = [
+    { value: "Gentile", removed: true },
+    { value: "gentile", added: true },
+  ];
+  classifyDiff(tokens);
+  assertEquals(tokens[0].kind, "capitalization");
+});
+
+Deno.test("classifyDiff: equal-length run of case-only changes stays capitalization", () => {
+  const tokens: Token[] = [
+    { value: "holy", removed: true },
+    { value: "one", removed: true },
+    { value: "Holy", added: true },
+    { value: "One", added: true },
+  ];
+  classifyDiff(tokens);
+  assertEquals(tokens.map((t) => t.kind), [
+    "capitalization",
+    "capitalization",
+    "capitalization",
+    "capitalization",
+  ]);
+});

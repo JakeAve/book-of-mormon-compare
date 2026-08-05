@@ -37,6 +37,13 @@ export function classifySubstitution(oldVal: string, newVal: string): DiffKind {
   return "wordChange";
 }
 
+function letters(tokens: Token[]): string {
+  return tokens.map((t) => t.value).join("").toLowerCase().replace(
+    /[^\p{L}\p{N}]/gu,
+    "",
+  );
+}
+
 function findBestMatch(
   removedVal: string,
   added: Token[],
@@ -76,6 +83,18 @@ export function classifyDiff(tokens: Token[]): Token[] {
       else if (tokens[j].removed) removed.push(tokens[j]);
       else added.push(tokens[j]);
       j++;
+    }
+
+    // Same letters, different word division: "first born"/"firstborn",
+    // "Judgmentseat"/"judgment-seat". Pairing these token-for-token always
+    // strands a half, so settle the whole run before matching runs at all.
+    if (
+      removed.length && added.length && removed.length !== added.length &&
+      letters(removed) === letters(added)
+    ) {
+      for (const t of [...removed, ...added]) t.kind = "spelling";
+      i = j;
+      continue;
     }
 
     const matchedAdded = new Set<number>();
