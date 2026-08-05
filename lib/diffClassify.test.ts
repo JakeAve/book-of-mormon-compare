@@ -276,3 +276,18 @@ Deno.test("classifyDiff: a near-identical pair is not stolen by an earlier token
   assertEquals(tokens[1].kind, "spelling"); // destroied <-> destroyed
   assertEquals(tokens[0].kind, "omission"); // yea has no partner
 });
+
+Deno.test("classifySubstitution: curated spellings the distance gate cannot reach", () => {
+  assertEquals(classifySubstitution("Desipels", "disciples"), "spelling");
+  assertEquals(classifySubstitution("plane", "plain"), "spelling");
+  assertEquals(classifySubstitution("bourn", "borne"), "spelling");
+  assertEquals(classifySubstitution("tho", "though"), "spelling");
+});
+
+Deno.test("classifySubstitution: grammar the gate correctly refuses", () => {
+  // These sit at the same edit distance as the curated pairs above; loosening
+  // the ratio to reach the pairs above would wrongly claim all of these.
+  assertEquals(classifySubstitution("saith", "said"), "wordChange");
+  assertEquals(classifySubstitution("their", "the"), "wordChange");
+  assertEquals(classifySubstitution("wrote", "written"), "wordChange");
+});

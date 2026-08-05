@@ -19,6 +19,13 @@ const VARIANT_PAIRS: [string, string][] = [
   ["woe", "wo"],
   ["domb", "dumb"],
   ["oar", "ore"],
+  // Past the edit-distance gate rather than under the length one. Loosening
+  // that gate to reach them would also swallow saith/said, their/the and
+  // wrote/written, so they are curated instead.
+  ["desipels", "disciples"],
+  ["plane", "plain"],
+  ["bourn", "borne"],
+  ["tho", "though"],
 ];
 
 function pairKey(a: string, b: string): string {
