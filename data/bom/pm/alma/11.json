@@ -420,10 +420,10 @@
     "verse": 18,
     "lines": [
       {
-        "id": "200:6b",
+        "id": "200:6c",
         "page": 200,
         "line": 6,
-        "text": "now an antion of Gold is equal to three shiblons now this is their ",
+        "text": "now this is their ",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/200"
       },
       {
@@ -441,10 +441,10 @@
     "verse": 19,
     "lines": [
       {
-        "id": "200:7b",
+        "id": "200:6b",
         "page": 200,
-        "line": 7,
-        "text": "now it was for the sole purpose for to get gain",
+        "line": 6,
+        "text": "now an antion of Gold is equal to three shiblons",
         "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/200"
       }
     ]
@@ -454,6 +454,13 @@
     "chapter": 11,
     "verse": 20,
     "lines": [
+      {
+        "id": "200:7b",
+        "page": 200,
+        "line": 7,
+        "text": "now it was for the sole purpose for to get gain ",
+        "source": "https://www.josephsmithpapers.org/paper-summary/printers-manuscript-of-the-book-of-mormon-circa-august-1829-circa-january-1830/200"
+      },
       {
         "id": "200:8",
         "page": 200,
