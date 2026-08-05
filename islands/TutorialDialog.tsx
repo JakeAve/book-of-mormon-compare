@@ -3,6 +3,7 @@ import { useSignal } from "@preact/signals";
 import type { ComponentChildren } from "preact";
 import CloseIcon from "../components/CloseIcon.tsx";
 import { dismissTooltip } from "./tutorialTooltip.ts";
+import { KINDS } from "./DiffTypeFilter.tsx";
 
 interface TutorialStep {
   title: string;
@@ -44,24 +45,16 @@ const STEPS: TutorialStep[] = [
           Words that differ between versions are highlighted inline and
           color-coded by the kind of difference:
         </p>
-        <p style={{ margin: "0 0 0.5rem" }}>
-          {swatch("--color-diff-capitalization-2", "Capitalization")}
-        </p>
-        <p style={{ margin: "0 0 0.5rem" }}>
-          {swatch("--color-diff-spelling-2", "Spelling variant")}
-        </p>
-        <p style={{ margin: "0 0 0.5rem" }}>
-          {swatch("--color-diff-punctuation-2", "Punctuation")}
-        </p>
-        <p style={{ margin: "0 0 0.5rem" }}>
-          {swatch("--color-diff-addition-2", "Addition")}
-        </p>
-        <p style={{ margin: "0 0 0.5rem" }}>
-          {swatch("--color-diff-omission-1", "Omission")}
-        </p>
-        <p style={{ margin: "0 0 0.75rem" }}>
-          {swatch("--color-diff-wordchange-2", "Word change")}
-        </p>
+        {KINDS.map(({ kind, label, swatch: color }, i) => (
+          <p
+            key={kind}
+            style={{
+              margin: i === KINDS.length - 1 ? "0 0 0.75rem" : "0 0 0.5rem",
+            }}
+          >
+            {swatch(color, label)}
+          </p>
+        ))}
         <p style={{ margin: "0 0 0.75rem" }}>
           Use the legend above the text to toggle any kind of highlight on or
           off.

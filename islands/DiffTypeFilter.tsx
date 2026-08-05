@@ -1,13 +1,27 @@
 import { useEffect } from "preact/hooks";
 import { useSignal } from "@preact/signals";
 
-const KINDS = [
-  { kind: "capitalization", label: "Capitalization" },
-  { kind: "punctuation", label: "Punctuation" },
-  { kind: "spelling", label: "Spelling" },
-  { kind: "addition", label: "Addition" },
-  { kind: "omission", label: "Omission" },
-  { kind: "wordChange", label: "Word change" },
+// Alphabetical by label. The tutorial renders this same list, so the legend and
+// the tutorial cannot drift out of order or out of vocabulary.
+export const KINDS = [
+  { kind: "addition", label: "Addition", swatch: "--color-diff-addition-2" },
+  {
+    kind: "capitalization",
+    label: "Capitalization",
+    swatch: "--color-diff-capitalization-2",
+  },
+  { kind: "omission", label: "Omission", swatch: "--color-diff-omission-1" },
+  {
+    kind: "punctuation",
+    label: "Punctuation",
+    swatch: "--color-diff-punctuation-2",
+  },
+  { kind: "spelling", label: "Spelling", swatch: "--color-diff-spelling-2" },
+  {
+    kind: "wordChange",
+    label: "Word change",
+    swatch: "--color-diff-wordchange-2",
+  },
 ] as const;
 
 const STORAGE_KEY = "bofm-diff-inactive";
