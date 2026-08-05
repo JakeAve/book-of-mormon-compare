@@ -180,3 +180,18 @@ Deno.test("classifyDiff: & pairs with and and is labelled ampersand", () => {
   assertEquals(tokens[1].kind, "punctuation");
   assertEquals(tokens[2].kind, "ampersand");
 });
+
+Deno.test("classifySubstitution: short manuscript spellings bypass the length gate", () => {
+  assertEquals(classifySubstitution("shew", "show"), "spelling");
+  assertEquals(classifySubstitution("thot", "that"), "spelling");
+  assertEquals(classifySubstitution("ore", "are"), "spelling");
+  assertEquals(classifySubstitution("woe", "wo"), "spelling");
+  assertEquals(classifySubstitution("domb", "dumb"), "spelling");
+  assertEquals(classifySubstitution("oar", "ore"), "spelling");
+});
+
+Deno.test("classifySubstitution: short grammatical changes stay word changes", () => {
+  assertEquals(classifySubstitution("hath", "has"), "wordChange");
+  assertEquals(classifySubstitution("doth", "do"), "wordChange");
+  assertEquals(classifySubstitution("came", "come"), "wordChange");
+});

@@ -10,6 +10,15 @@ const VARIANT_PAIRS: [string, string][] = [
   ["favour", "favor"],
   ["centre", "center"],
   ["thru", "through"],
+  // Manuscript spellings shorter than MIN_VARIANT_LEN, which the edit-distance
+  // gate cannot reach. Counts are pm vs 2013 occurrences.
+  ["shew", "show"],
+  ["shewn", "shown"],
+  ["thot", "that"],
+  ["ore", "are"],
+  ["woe", "wo"],
+  ["domb", "dumb"],
+  ["oar", "ore"],
 ];
 
 function pairKey(a: string, b: string): string {
