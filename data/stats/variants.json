@@ -3,7 +3,7 @@
     "v1": "pm",
     "v2": "2013"
   },
-  "generatedAt": "2026-07-29",
+  "generatedAt": "2026-08-05",
   "chapters": [
     {
       "book": "witnesses",
@@ -757,7 +757,7 @@
     {
       "book": "alma",
       "chapter": 11,
-      "variantCount": 309,
+      "variantCount": 312,
       "changedVerseCount": 46,
       "totalVerseCount": 46
     },

@@ -204,7 +204,7 @@ Deno.test("bookIntroSentences formats thousand separators using the real Alma bo
   const stats = await loadVariantStats();
   const alma = stats.forBook("alma");
   assertEquals(bookIntroSentences("Alma", alma), [
-    "Alma carries 16,333 textual variants across 63 chapters when the Printer's Manuscript is set against the 2013 Edition, including spelling, capitalization, and punctuation.",
+    "Alma carries 16,336 textual variants across 63 chapters when the Printer's Manuscript is set against the 2013 Edition, including spelling, capitalization, and punctuation.",
     "Chapter 5 varies most, with 581; across the book that is an average of 259 variants per chapter.",
   ]);
 });
@@ -214,7 +214,7 @@ Deno.test("bookDescription reports totals compared verse by verse (real Alma boo
   const alma = stats.forBook("alma");
   assertEquals(
     bookDescription("Alma", alma),
-    "Alma has 16,333 textual variants across 63 chapters, compared verse by verse between the Printer's Manuscript and the 2013 Edition.",
+    "Alma has 16,336 textual variants across 63 chapters, compared verse by verse between the Printer's Manuscript and the 2013 Edition.",
   );
 });
 
