@@ -11,6 +11,9 @@ import HowItWorks from "@/components/landing/HowItWorks.tsx";
 import SeoSections from "@/components/landing/SeoSections.tsx";
 import Faq, { FAQ_ITEMS } from "@/components/landing/Faq.tsx";
 
+export const LANDING_TITLE =
+  "Book of Mormon Changes — Compare Versions & Editions";
+
 const SPECIMEN_BOOK = "3-ne";
 const SPECIMEN_CHAPTER = "11";
 const SPECIMEN_VERSE = 11;
@@ -21,8 +24,7 @@ export const handler = define.handlers({
   async GET(ctx) {
     const siteUrl = getSiteUrl();
     ctx.state.head = {
-      title:
-        "Book of Mormon Changes — Compare Versions & Editions Side by Side",
+      title: LANDING_TITLE,
       description:
         "See every change to the Book of Mormon, side by side. Compare manuscripts, the 1830 first edition, and every later edition — word for word.",
       imageUrl: `${siteUrl}/og-default.png`,

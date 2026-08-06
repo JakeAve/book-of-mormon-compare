@@ -130,9 +130,9 @@ export default function ChapterNavDialog(
             const isCurrentBook = b === currentBook;
             return (
               <section key={b} class="chapter-nav-book-row">
-                <h3 class="chapter-nav-book-name">
+                <h2 class="chapter-nav-book-name">
                   {BOOK_DISPLAY_NAMES[b as BookAbbr]}
-                </h3>
+                </h2>
                 <div class="chapter-nav-chips">
                   {Array.from({ length: count }, (_, i) => {
                     const ch = String(i + 1);
