@@ -3,6 +3,7 @@ import { useSignal } from "@preact/signals";
 import type { ComponentChildren } from "preact";
 import CloseIcon from "../components/CloseIcon.tsx";
 import { dismissTooltip } from "./tutorialTooltip.ts";
+import { KINDS } from "./DiffTypeFilter.tsx";
 
 interface TutorialStep {
   title: string;
@@ -41,19 +42,22 @@ const STEPS: TutorialStep[] = [
     body: (
       <>
         <p style={{ margin: "0 0 0.75rem" }}>
-          Words and phrases that differ between versions are highlighted inline.
+          Words that differ between versions are highlighted inline and
+          color-coded by the kind of difference:
         </p>
-        <p style={{ margin: "0 0 0.5rem" }}>
-          {swatch(
-            "--color-side1-highlight",
-            "Left column — text present here but changed or absent on the right",
-          )}
-        </p>
-        <p style={{ margin: "0 0 0.5rem" }}>
-          {swatch(
-            "--color-side2-highlight",
-            "Right column — text present here but changed or absent on the left",
-          )}
+        {KINDS.map(({ kind, label, swatch: color }, i) => (
+          <p
+            key={kind}
+            style={{
+              margin: i === KINDS.length - 1 ? "0 0 0.75rem" : "0 0 0.5rem",
+            }}
+          >
+            {swatch(color, label)}
+          </p>
+        ))}
+        <p style={{ margin: "0 0 0.75rem" }}>
+          Use the legend above the text to toggle any kind of highlight on or
+          off.
         </p>
         <p style={{ margin: "0" }}>
           {swatch(

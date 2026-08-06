@@ -1,5 +1,6 @@
 import type { JSX } from "preact/jsx-runtime";
 import { diff, diffVersesPaired } from "../lib/diff.ts";
+import { classifyDiff } from "../lib/diffClassify.ts";
 import { insertSpaceBetween, splitText } from "../lib/textHelpers.ts";
 import type { Verse } from "../lib/data.ts";
 import WordMatch from "./WordMatch.tsx";
@@ -15,9 +16,13 @@ function verseLabel(verse: number) {
   return verse === 0 ? "Intro" : verse;
 }
 
-// Keeps an anchored verse (e.g. `#v-30`) clear of the sticky title bar.
-// Update if the header height changes.
-export const VERSE_SCROLL_MARGIN_TOP = "6.1875rem";
+// Keeps an anchored verse (e.g. `#v-30`) clear of the sticky header. The header
+// contains the always-visible legend, which wraps to 1-3 rows by width, so its
+// height is measured at runtime by islands/DiffTypeFilter.tsx. The literal is
+// only the pre-hydration fallback: the tallest case, so nothing hides under the
+// header before the measurement lands.
+export const VERSE_SCROLL_MARGIN_TOP =
+  "var(--sticky-header-height, 13.1875rem)";
 
 // The three markings are orthogonal, so they stack: a word the scribe inserted
 // above the line and then struck reads as both raised and struck through.
@@ -193,7 +198,7 @@ export function Diff(
     const allTexts2 = verses2.map((v) =>
       stripManuscriptMarkup(v.markdown ?? v.text)
     );
-    const paired = diffVersesPaired(allTexts1, allTexts2);
+    const paired = diffVersesPaired(allTexts1, allTexts2).map(classifyDiff);
     const len = Math.max(verses1.length, verses2.length);
     const content: JSX.Element[] = [];
 
@@ -226,10 +231,7 @@ export function Diff(
         if (t.removed) {
           t1i++;
           c1.push(
-            <span
-              class="highlight"
-              style={{ backgroundColor: "var(--color-side1-highlight)" }}
-            >
+            <span class="highlight" data-diff-kind={t.kind}>
               {renderManuscriptToken(tok1, parsed1?.[t1i - 1])}
               {insertSpaceBetween(tok1, split1[t1i])}
             </span>,
@@ -238,10 +240,7 @@ export function Diff(
         if (t.added) {
           t2i++;
           c2.push(
-            <span
-              class="highlight"
-              style={{ backgroundColor: "var(--color-side2-highlight)" }}
-            >
+            <span class="highlight" data-diff-kind={t.kind}>
               {renderManuscriptToken(tok2, parsed2?.[t2i - 1])}
               {insertSpaceBetween(tok2, split2[t2i])}
             </span>,
@@ -285,7 +284,7 @@ export function Diff(
   const text2 = verses2.map((v) => stripManuscriptMarkup(v.markdown ?? v.text))
     .join("\n");
 
-  const d = diff(text1, text2);
+  const d = classifyDiff(diff(text1, text2));
 
   let row1 = startRow + 1;
   let row2 = startRow + 1;
@@ -320,10 +319,7 @@ export function Diff(
     if (t.removed) {
       t1Idx++;
       c1.push(
-        <span
-          class="highlight"
-          style={{ backgroundColor: "var(--color-side1-highlight)" }}
-        >
+        <span class="highlight" data-diff-kind={t.kind}>
           {renderManuscriptToken(t1, parsed1?.[t1Idx - 1])}
           {insertSpaceBetween(t1, split1?.[t1Idx])}
         </span>,
@@ -333,10 +329,7 @@ export function Diff(
     if (t.added) {
       t2Idx++;
       c2.push(
-        <span
-          class="highlight"
-          style={{ backgroundColor: "var(--color-side2-highlight)" }}
-        >
+        <span class="highlight" data-diff-kind={t.kind}>
           {renderManuscriptToken(t2, parsed2?.[t2Idx - 1])}
           {insertSpaceBetween(t2, split2?.[t2Idx])}
         </span>,

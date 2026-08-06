@@ -12,10 +12,18 @@
   --color-divider: #e8e0d0;
   --color-verse-num: #b0a090;
 
-  --color-side1-highlight: #edd9a8;
-  --color-side2-highlight: #d4e0c4;
   --color-word-match: #a8d8e0;
   --color-word-match-selection: #a8d8e0;
+  --color-diff-capitalization-1: #d8e4f0;
+  --color-diff-capitalization-2: #c8d8ec;
+  --color-diff-spelling-1: #e8d8ec;
+  --color-diff-spelling-2: #ddc8e4;
+  --color-diff-punctuation-1: #dedee4;
+  --color-diff-punctuation-2: #d2d2da;
+  --color-diff-addition-2: #cfe6c4;
+  --color-diff-omission-1: #f0d4cc;
+  --color-diff-wordchange-1: #edd9a8;
+  --color-diff-wordchange-2: #e8d49a;
 
   --color-dialog-bg: #fdfaf4;
   --color-dialog-border: #e8e0d0;
@@ -45,10 +53,24 @@
     --color-divider: #363636;
     --color-verse-num: #706060;
 
-    --color-side1-highlight: #a06c1f;
-    --color-side2-highlight: #4a7940;
     --color-word-match: #1a5a64;
     --color-word-match-selection: #1a5a64;
+    /* Dark tints cannot hold the chroma a pastel does on white, so matching
+       light mode's presence takes more lightness AND more saturation, not just
+       contrast. Frequency still sets the order: the orthographic kinds are ~88%
+       of all marks and sit at 1.7–2.1:1 on the background, the rare substantive
+       kinds at 2.4–2.8:1. Verse text stays at or above 4.84:1 (WCAG AA) on
+       every one — pushing further would break AA on the loudest three. */
+    --color-diff-capitalization-1: #2c598c;
+    --color-diff-capitalization-2: #295281;
+    --color-diff-spelling-1: #763994;
+    --color-diff-spelling-2: #6c3587;
+    --color-diff-punctuation-1: #505062;
+    --color-diff-punctuation-2: #49495a;
+    --color-diff-addition-2: #2c7736;
+    --color-diff-omission-1: #a94d3e;
+    --color-diff-wordchange-1: #895f29;
+    --color-diff-wordchange-2: #7f5826;
 
     --color-dialog-bg: #262626;
     --color-dialog-border: #363636;
@@ -428,6 +450,75 @@ body {
   animation: tutorial-pulse 1.8s ease-in-out infinite;
   position: relative;
   z-index: 1;
+}
+
+/* Diff-kind highlight colors (keyed on column + kind) */
+[data-col="1"] [data-diff-kind="capitalization"] {
+  background-color: var(--color-diff-capitalization-1);
+}
+[data-col="2"] [data-diff-kind="capitalization"] {
+  background-color: var(--color-diff-capitalization-2);
+}
+[data-col="1"] [data-diff-kind="spelling"] {
+  background-color: var(--color-diff-spelling-1);
+}
+[data-col="2"] [data-diff-kind="spelling"] {
+  background-color: var(--color-diff-spelling-2);
+}
+[data-col="1"] [data-diff-kind="punctuation"] {
+  background-color: var(--color-diff-punctuation-1);
+}
+[data-col="2"] [data-diff-kind="punctuation"] {
+  background-color: var(--color-diff-punctuation-2);
+}
+[data-diff-kind="addition"] {
+  background-color: var(--color-diff-addition-2);
+}
+[data-diff-kind="omission"] {
+  background-color: var(--color-diff-omission-1);
+}
+[data-col="1"] [data-diff-kind="wordChange"] {
+  background-color: var(--color-diff-wordchange-1);
+}
+[data-col="2"] [data-diff-kind="wordChange"] {
+  background-color: var(--color-diff-wordchange-2);
+}
+
+/* Filter: hide a kind's highlight when its name is in data-diff-inactive */
+[data-diff-inactive~="capitalization"] [data-diff-kind="capitalization"],
+[data-diff-inactive~="spelling"] [data-diff-kind="spelling"],
+[data-diff-inactive~="punctuation"] [data-diff-kind="punctuation"],
+[data-diff-inactive~="addition"] [data-diff-kind="addition"],
+[data-diff-inactive~="omission"] [data-diff-kind="omission"],
+[data-diff-inactive~="wordChange"] [data-diff-kind="wordChange"] {
+  background-color: transparent;
+}
+
+/* Legend swatches */
+.diff-swatch {
+  display: inline-block;
+  width: 0.75rem;
+  height: 0.75rem;
+  border-radius: 2px;
+  vertical-align: middle;
+}
+.diff-swatch[data-diff-kind="capitalization"] {
+  background-color: var(--color-diff-capitalization-2);
+}
+.diff-swatch[data-diff-kind="spelling"] {
+  background-color: var(--color-diff-spelling-2);
+}
+.diff-swatch[data-diff-kind="punctuation"] {
+  background-color: var(--color-diff-punctuation-2);
+}
+.diff-swatch[data-diff-kind="addition"] {
+  background-color: var(--color-diff-addition-2);
+}
+.diff-swatch[data-diff-kind="omission"] {
+  background-color: var(--color-diff-omission-1);
+}
+.diff-swatch[data-diff-kind="wordChange"] {
+  background-color: var(--color-diff-wordchange-2);
 }
 
 .tutorial-tooltip {

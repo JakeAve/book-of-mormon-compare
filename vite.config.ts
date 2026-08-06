@@ -39,5 +39,5 @@ export default defineConfig({
     }),
     swProcessFix,
   ],
-  server: { strictPort: true },
+  server: {},
 });
