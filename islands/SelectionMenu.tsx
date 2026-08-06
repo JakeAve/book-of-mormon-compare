@@ -185,7 +185,7 @@ export default function SelectionMenu(_props: Props) {
             color: "var(--color-header-text)",
             fontFamily: "sans-serif",
             fontSize: "0.75rem",
-            fontWeight: 500,
+            fontWeight: "500",
           }}
         >
           {label}

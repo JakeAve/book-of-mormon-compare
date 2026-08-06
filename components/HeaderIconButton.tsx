@@ -9,8 +9,8 @@ const circleStyle: CSSProperties = {
   borderRadius: "50%",
   border: "1.5px solid currentColor",
   fontSize: "0.625rem",
-  fontWeight: 700,
-  lineHeight: 1,
+  fontWeight: "700",
+  lineHeight: "1",
 };
 
 const baseStyle: CSSProperties = {
@@ -23,7 +23,7 @@ const baseStyle: CSSProperties = {
   fontSize: "0.75rem",
   color: "var(--color-muted)",
   textDecoration: "none",
-  lineHeight: 1,
+  lineHeight: "1",
 };
 
 type Props =

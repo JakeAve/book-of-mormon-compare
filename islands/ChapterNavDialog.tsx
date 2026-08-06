@@ -82,7 +82,7 @@ export default function ChapterNavDialog(
         <span
           style={{
             fontSize: "0.9375rem",
-            fontWeight: 600,
+            fontWeight: "600",
             color: "var(--color-header-text)",
           }}
         >
@@ -97,7 +97,7 @@ export default function ChapterNavDialog(
               >
                 ·
               </span>
-              <span style={{ fontWeight: 500 }}>{chapter}</span>
+              <span style={{ fontWeight: "500" }}>{chapter}</span>
             </>
           )}
         </span>

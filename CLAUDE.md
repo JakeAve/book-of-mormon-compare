@@ -263,6 +263,8 @@ for why, and for how to verify served output.
   rendered height** — re-measure in a browser after changing that header.
 - **Don't infer page type from URL shape in `_app.tsx`** — signal it from the
   route via `ctx.state` (see `showTutorial`).
+- **Quote numeric values for unitless inline style props** (`fontWeight: "600"`,
+  not `600`) — see `lib/inlineStyleUnits.test.ts` for why and which ones.
 
 ## Testing
 

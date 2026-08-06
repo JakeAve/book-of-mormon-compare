@@ -205,7 +205,7 @@ export default function PwaManager() {
             color: "var(--color-text)",
             padding: "0 0.25rem",
             opacity: 0.6,
-            flexShrink: 0,
+            flexShrink: "0",
           }}
         >
           <CloseIcon />
@@ -223,7 +223,7 @@ export default function PwaManager() {
             borderRadius: "4px",
             cursor: "pointer",
             fontSize: "0.8125rem",
-            fontWeight: 600,
+            fontWeight: "600",
             width: "100%",
           }}
         >

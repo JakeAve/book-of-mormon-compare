@@ -52,7 +52,7 @@ export default function Toast() {
         <span
           style={{
             fontSize: "0.8125rem",
-            fontWeight: 700,
+            fontWeight: "700",
             textTransform: "uppercase",
             letterSpacing: "0.08em",
             color: "var(--color-text)",
@@ -76,7 +76,7 @@ export default function Toast() {
           fontSize: "0.6875rem",
           wordBreak: "break-all",
           color: "var(--color-text)",
-          lineHeight: 1.5,
+          lineHeight: "1.5",
         }}
       >
         {t.url}

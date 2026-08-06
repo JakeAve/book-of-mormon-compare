@@ -87,7 +87,7 @@ function renderCell(
           color: "var(--color-verse-num)",
           fontSize: "0.6875rem",
           fontFamily: "sans-serif",
-          fontWeight: 500,
+          fontWeight: "500",
           marginRight: "0.375rem",
         }}
       >
@@ -146,7 +146,7 @@ export function DiffPage({
                   style={{
                     color: "var(--color-header-subtle)",
                     fontSize: "1.25rem",
-                    lineHeight: 1,
+                    lineHeight: "1",
                     textDecoration: "none",
                     flex: 1,
                     textAlign: "left",
@@ -171,7 +171,7 @@ export function DiffPage({
                   style={{
                     color: "var(--color-header-subtle)",
                     fontSize: "1.25rem",
-                    lineHeight: 1,
+                    lineHeight: "1",
                     textDecoration: "none",
                     flex: 1,
                     textAlign: "right",
@@ -260,7 +260,7 @@ export function DiffPage({
               fontFamily: "Georgia, serif",
               fontSize: "0.8125rem",
               fontStyle: "italic",
-              lineHeight: 1.6,
+              lineHeight: "1.6",
               color: "var(--color-text)",
               margin: 0,
               padding: "1rem 1.5rem 1.5rem",

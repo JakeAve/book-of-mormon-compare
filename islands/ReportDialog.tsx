@@ -36,7 +36,7 @@ const inputStyle = {
 const labelStyle = {
   display: "block",
   fontSize: "0.75rem",
-  fontWeight: 600,
+  fontWeight: "600",
   marginBottom: "0.25rem",
   color: "var(--color-text)",
 } as const;
@@ -184,7 +184,7 @@ export default function ReportDialog({ book, chapter, v1, v2 }: Props) {
           <span
             style={{
               fontSize: "0.8125rem",
-              fontWeight: 700,
+              fontWeight: "700",
               textTransform: "uppercase",
               letterSpacing: "0.08em",
             }}
@@ -383,7 +383,7 @@ export default function ReportDialog({ book, chapter, v1, v2 }: Props) {
                 style={{
                   ...inputStyle,
                   cursor: "pointer",
-                  fontWeight: 600,
+                  fontWeight: "600",
                 }}
               >
                 {st.state === "submitting" ? "Submitting…" : "Submit report"}

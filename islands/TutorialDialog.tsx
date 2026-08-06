@@ -28,7 +28,7 @@ const swatch = (color: string, label: string) => (
         borderRadius: "2px",
         backgroundColor: `var(${color})`,
         verticalAlign: "middle",
-        flexShrink: 0,
+        flexShrink: "0",
       }}
     />
     <span>{label}</span>
@@ -139,7 +139,7 @@ const STEPS: TutorialStep[] = [
                   color: "var(--color-header-text)",
                   fontFamily: "sans-serif",
                   fontSize: "0.75rem",
-                  fontWeight: 500,
+                  fontWeight: "500",
                 }}
               >
                 {label}
@@ -152,7 +152,7 @@ const STEPS: TutorialStep[] = [
               padding: "1rem",
               margin: 0,
               fontSize: "0.875rem",
-              lineHeight: 1.6,
+              lineHeight: "1.6",
             }}
           >
             <span style={{ color: "var(--color-verse-num)" }}>1</span>{" "}
@@ -240,8 +240,8 @@ const STEPS: TutorialStep[] = [
             borderRadius: "50%",
             border: "1.5px solid currentColor",
             fontSize: "0.625rem",
-            fontWeight: 700,
-            lineHeight: 1,
+            fontWeight: "700",
+            lineHeight: "1",
           }}
         >
           ?
