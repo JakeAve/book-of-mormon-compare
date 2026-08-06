@@ -77,6 +77,7 @@ export default function DiffTypeFilter() {
         display: "flex",
         flexWrap: "wrap",
         alignItems: "center",
+        justifyContent: "center",
         gap: "0.5rem",
         padding: "0.5rem 1.5rem",
         fontFamily: "sans-serif",
