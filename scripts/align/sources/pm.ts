@@ -425,6 +425,30 @@ const pm: SourceAdapter = {
         "trailing 'ye are laying plans to pervert...' belongs to Alma 10:18",
     },
     {
+      // PM p200:6 reads "is the half of the shilum now an antion of Gold is equal
+      // to three shiblons now this is their" — the manuscript gives the antion
+      // sentence before "now this is their number", the reverse of the printed
+      // order, so "now an antion ... three shiblons" (indices 6–15) is v19 and
+      // the words on either side of it are v17 and v18.
+      page: 200,
+      line: 6,
+      wordRange: [6, 15],
+      target: { book: "alma", chapter: 11, verse: 19 },
+      note:
+        "'now an antion of Gold is equal to three shiblons' belongs to Alma 11:19",
+    },
+    {
+      // PM p200:7 reads "number according to their reckoning. now it was for the
+      // sole purpose for to get gain" — the trailing clause (indices 5–15) opens
+      // v20, as it does in the Original Manuscript.
+      page: 200,
+      line: 7,
+      wordRange: [5, 15],
+      target: { book: "alma", chapter: 11, verse: 20 },
+      note:
+        "trailing 'now it was for the sole purpose for to get gain' belongs to Alma 11:20",
+    },
+    {
       // PM p204:36 reads "rd. and again my Brethren I would Cite your minds..." —
       // "and again my Brethren I would Cite" (indices 1–7) opens v1 canonically
       // ("And now, my brethren, I would cite your minds forward...").
