@@ -44,7 +44,7 @@ export default function SeoSections() {
             style={{ color: "var(--color-muted)" }}
           >
             The Book of Mormon's documentary record spans handwritten
-            manuscripts from 1828-29 through the current printed edition, with
+            manuscripts from 1828–29 through the current printed edition, with
             several editions in between. Each one is available here in full,
             matched verse for verse against any other, so you can pick two
             points in that record — an early manuscript and a modern printing,
